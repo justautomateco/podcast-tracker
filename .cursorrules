@@ -1,0 +1,5 @@
+This project can only be run on github actions. Do not try to run this locally at all. If you need to run anything, push the code, and use the gh cli to verify
+
+git is setup
+github cli is installed and setup
+repo is: https://github.com/justautomateco/podcast-tracker.git

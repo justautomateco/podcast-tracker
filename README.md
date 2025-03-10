@@ -2,7 +2,7 @@
 
 A Python application that tracks new episodes from your favorite podcasts using the iTunes API. The tracker runs automatically via GitHub Actions on a daily schedule or can be triggered manually.
 
-Repository: [https://github.com/justautomateco/postcast_tracker](https://github.com/justautomateco/postcast_tracker)
+Repository: [https://github.com/justautomateco/podcast-tracker](https://github.com/justautomateco/podcast-tracker)
 
 ## Features
 
@@ -15,7 +15,7 @@ Repository: [https://github.com/justautomateco/postcast_tracker](https://github.
 
 ## Setup
 
-1. Fork this repository from [https://github.com/justautomateco/postcast_tracker](https://github.com/justautomateco/postcast_tracker)
+1. Fork this repository from [https://github.com/justautomateco/podcast-tracker](https://github.com/justautomateco/podcast-tracker)
 2. Edit `podcasts.csv` to include your favorite podcasts
 3. Push changes to GitHub to activate the workflow
 
@@ -38,4 +38,31 @@ To trigger the workflow manually:
 The script will output new episodes found in the specified time window to:
 1. A JSON file (`recent_episodes.json`) committed to the repository with direct MP3 URLs
 2. A log file (`podcast_tracker.log`) committed to the repository
-3. Workflow artifacts that can be downloaded from the Actions tab 
+3. Workflow artifacts that can be downloaded from the Actions tab
+
+## Project Structure
+
+The project has been refactored into a modular structure:
+
+```
+podcast-tracker/
+├── podcast_tracker.py     # Main script
+├── utils/                 # Utility modules
+│   ├── __init__.py
+│   ├── cli.py             # Command-line interface
+│   ├── constants.py       # Global constants
+│   ├── email_utils.py     # Email functionality
+│   ├── git_utils.py       # Git operations
+│   └── logging_config.py  # Logging configuration
+├── core/                  # Core functionality
+│   ├── __init__.py
+│   ├── data.py            # Data loading and saving
+│   ├── feed.py            # RSS feed processing
+│   ├── itunes.py          # iTunes API interactions
+│   └── processor.py       # Podcast processing
+├── podcasts.csv           # List of podcasts to track
+├── ignored_podcasts.csv   # List of podcasts to ignore
+└── requirements.txt       # Python dependencies
+```
+
+This modular structure makes the code more maintainable and easier to understand. 
