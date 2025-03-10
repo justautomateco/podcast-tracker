@@ -12,6 +12,7 @@ import argparse
 import re
 import time
 import smtplib
+import subprocess
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timedelta
@@ -53,6 +54,12 @@ def parse_arguments():
         help='Path to CSV file containing podcast names (default: podcasts.csv)'
     )
     parser.add_argument(
+        '--ignored-csv', 
+        type=str, 
+        default='ignored_podcasts.csv',
+        help='Path to CSV file containing ignored podcasts (default: ignored_podcasts.csv)'
+    )
+    parser.add_argument(
         '--output', 
         type=str, 
         default='recent_episodes.json',
@@ -81,19 +88,47 @@ def parse_arguments():
         default=os.environ.get('EMAIL_PASSWORD', ''),
         help='Email password for authentication (default: value of EMAIL_PASSWORD environment variable)'
     )
+    parser.add_argument(
+        '--update-feeds',
+        action='store_true',
+        help='Update feed URLs in the podcasts.csv file'
+    )
+    parser.add_argument(
+        '--commit-changes',
+        action='store_true',
+        help='Commit and push changes to the repository when feed URLs are updated'
+    )
     return parser.parse_args()
 
 def load_podcasts(csv_path):
-    """Load podcast names from CSV file."""
+    """Load podcasts from CSV file."""
     try:
         df = pd.read_csv(csv_path)
         if 'podcast_name' not in df.columns:
             logger.error(f"CSV file {csv_path} must contain a 'podcast_name' column")
-            return []
-        return df['podcast_name'].tolist()
+            return pd.DataFrame()
+        return df
     except Exception as e:
         logger.error(f"Error loading podcasts from {csv_path}: {e}")
-        return []
+        return pd.DataFrame()
+
+def load_ignored_podcasts(csv_path):
+    """Load ignored podcasts from CSV file."""
+    try:
+        if not os.path.exists(csv_path):
+            # Create the file if it doesn't exist
+            with open(csv_path, 'w') as f:
+                f.write('podcast_name,feed_url\n')
+            return pd.DataFrame(columns=['podcast_name', 'feed_url'])
+        
+        df = pd.read_csv(csv_path)
+        if 'podcast_name' not in df.columns:
+            logger.error(f"CSV file {csv_path} must contain a 'podcast_name' column")
+            return pd.DataFrame()
+        return df
+    except Exception as e:
+        logger.error(f"Error loading ignored podcasts from {csv_path}: {e}")
+        return pd.DataFrame()
 
 def search_podcast(podcast_name):
     """Search for a podcast in iTunes API."""
@@ -289,14 +324,65 @@ def send_email_update(recent_episodes, email_address, email_password):
         logger.error(f"Error sending email update: {e}")
         return False
 
-def process_podcast(podcast_name, hours_ago, max_episodes):
+def update_feed_url(podcasts_df, podcast_name, feed_url):
+    """Update the feed URL for a podcast in the DataFrame."""
+    if podcast_name in podcasts_df['podcast_name'].values:
+        idx = podcasts_df.index[podcasts_df['podcast_name'] == podcast_name].tolist()[0]
+        podcasts_df.at[idx, 'feed_url'] = feed_url
+        return True
+    return False
+
+def save_podcasts_csv(podcasts_df, csv_path):
+    """Save the podcasts DataFrame to CSV."""
+    try:
+        podcasts_df.to_csv(csv_path, index=False)
+        logger.info(f"Updated podcasts saved to {csv_path}")
+        return True
+    except Exception as e:
+        logger.error(f"Error saving podcasts to {csv_path}: {e}")
+        return False
+
+def commit_and_push_changes(files_to_commit):
+    """Commit and push changes to the repository."""
+    try:
+        # Check if we're running in GitHub Actions
+        if not os.environ.get('GITHUB_ACTIONS'):
+            logger.info("Not running in GitHub Actions, skipping commit")
+            return False
+
+        # Configure Git user
+        subprocess.run(['git', 'config', '--global', 'user.name', 'GitHub Actions'], check=True)
+        subprocess.run(['git', 'config', '--global', 'user.email', 'actions@github.com'], check=True)
+        
+        # Add files
+        for file in files_to_commit:
+            subprocess.run(['git', 'add', file], check=True)
+        
+        # Commit
+        commit_message = f"Update podcast feed URLs - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        
+        # Push
+        subprocess.run(['git', 'push'], check=True)
+        
+        logger.info(f"Changes committed and pushed: {', '.join(files_to_commit)}")
+        return True
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Git command failed: {e}")
+        return False
+    except Exception as e:
+        logger.error(f"Error committing changes: {e}")
+        return False
+
+def process_podcast(podcast_name, hours_ago, max_episodes, podcasts_df=None, update_feeds=False):
     """Process a single podcast and return its recent episodes."""
     recent_episodes = []
+    feed_url_updated = False
     
     # Search for the podcast
     podcast = search_podcast(podcast_name)
     if not podcast:
-        return recent_episodes
+        return recent_episodes, feed_url_updated
     
     podcast_id = podcast["collectionId"]
     podcast_title = podcast["collectionName"]
@@ -304,10 +390,16 @@ def process_podcast(podcast_name, hours_ago, max_episodes):
     
     logger.info(f"Found podcast: {podcast_title} (ID: {podcast_id})")
     
+    # Update feed URL if requested
+    if update_feeds and podcasts_df is not None and feed_url:
+        if update_feed_url(podcasts_df, podcast_name, feed_url):
+            logger.info(f"Updated feed URL for {podcast_name}: {feed_url}")
+            feed_url_updated = True
+    
     # Get episodes
     results = get_podcast_feed(podcast_id)
     if not results:
-        return recent_episodes
+        return recent_episodes, feed_url_updated
         
     # The first result is the podcast itself, the rest are episodes
     episodes = results[1:]
@@ -347,7 +439,7 @@ def process_podcast(podcast_name, hours_ago, max_episodes):
             else:
                 logger.warning(f"Could not extract MP3 URL for episode: {episode_info['episode_title']}")
     
-    return recent_episodes
+    return recent_episodes, feed_url_updated
 
 def main():
     """Main function to track recent podcast episodes."""
@@ -357,32 +449,59 @@ def main():
     logger.info(f"Starting podcast tracker (looking back {args.hours} hours)")
     
     # Load podcasts from CSV
-    podcasts = load_podcasts(args.csv)
-    if not podcasts:
+    podcasts_df = load_podcasts(args.csv)
+    if podcasts_df.empty:
         logger.error("No podcasts found in CSV file. Exiting.")
         return
     
-    logger.info(f"Loaded {len(podcasts)} podcasts from {args.csv}")
+    # Load ignored podcasts
+    ignored_podcasts_df = load_ignored_podcasts(args.ignored_csv)
+    
+    # Get list of active podcasts (not in ignored list)
+    active_podcasts = []
+    for podcast in podcasts_df['podcast_name'].tolist():
+        if ignored_podcasts_df.empty or podcast not in ignored_podcasts_df['podcast_name'].values:
+            active_podcasts.append(podcast)
+    
+    logger.info(f"Loaded {len(active_podcasts)} active podcasts from {args.csv}")
+    if not ignored_podcasts_df.empty:
+        logger.info(f"Ignoring {len(ignored_podcasts_df)} podcasts from {args.ignored_csv}")
     
     # Track recent episodes using parallel processing
     recent_episodes = []
+    feed_urls_updated = False
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         # Submit tasks for each podcast
-        future_to_podcast = {
-            executor.submit(process_podcast, podcast, args.hours, args.max_episodes): podcast 
-            for podcast in podcasts
-        }
+        future_to_podcast = {}
+        for podcast in active_podcasts:
+            future = executor.submit(
+                process_podcast, 
+                podcast, 
+                args.hours, 
+                args.max_episodes,
+                podcasts_df if args.update_feeds else None,
+                args.update_feeds
+            )
+            future_to_podcast[future] = podcast
         
         # Process results as they complete
         for future in as_completed(future_to_podcast):
             podcast = future_to_podcast[future]
             try:
-                podcast_episodes = future.result()
+                podcast_episodes, feed_updated = future.result()
                 recent_episodes.extend(podcast_episodes)
+                if feed_updated:
+                    feed_urls_updated = True
                 logger.info(f"Processed podcast: {podcast} - Found {len(podcast_episodes)} recent episodes")
             except Exception as e:
                 logger.error(f"Error processing podcast {podcast}: {e}")
+    
+    # Save updated podcasts CSV if feed URLs were updated
+    files_to_commit = []
+    if args.update_feeds and feed_urls_updated:
+        if save_podcasts_csv(podcasts_df, args.csv):
+            files_to_commit.append(args.csv)
     
     # Save results to JSON
     if recent_episodes:
@@ -390,6 +509,7 @@ def main():
             with open(args.output, 'w') as f:
                 json.dump(recent_episodes, f, indent=2)
             logger.info(f"Found {len(recent_episodes)} recent episodes. Saved to {args.output}")
+            files_to_commit.append(args.output)
         except Exception as e:
             logger.error(f"Error saving results to {args.output}: {e}")
     else:
@@ -398,8 +518,17 @@ def main():
         try:
             with open(args.output, 'w') as f:
                 json.dump([], f)
+            files_to_commit.append(args.output)
         except Exception as e:
             logger.error(f"Error creating empty output file {args.output}: {e}")
+    
+    # Commit and push changes if requested
+    if args.commit_changes and files_to_commit:
+        commit_success = commit_and_push_changes(files_to_commit)
+        if commit_success:
+            logger.info("Changes committed and pushed to repository")
+        else:
+            logger.warning("Failed to commit changes to repository")
     
     # Send email update if requested
     if args.email or (args.email_address and args.email_password):

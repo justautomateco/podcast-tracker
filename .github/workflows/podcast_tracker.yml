@@ -2,48 +2,23 @@ name: Podcast Tracker
 
 on:
   schedule:
-    # Run every day at midnight UTC
-    - cron: '0 0 * * *'
-  
-  # Allow manual triggering
-  workflow_dispatch:
-    inputs:
-      hours:
-        description: 'Hours to look back for new episodes'
-        required: true
-        default: '168'
-        type: choice
-        options:
-          - '24'
-          - '48'
-          - '72'
-          - '168'
-      send_email:
-        description: 'Send email update'
-        required: false
-        default: true
-        type: boolean
-
-permissions:
-  contents: write
-  actions: read
+    - cron: '0 */12 * * *'  # Run every 12 hours
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  check_podcasts:
+  update-podcasts:
     runs-on: ubuntu-latest
-    timeout-minutes: 10  # Add a timeout for the entire job
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Fetch all history for git operations
       
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: 'pip'
       
       - name: Install dependencies
         run: |
@@ -51,61 +26,20 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run podcast tracker
-        timeout-minutes: 5  # Add a timeout for this specific step
+        run: |
+          python podcast_tracker.py --update-feeds --commit-changes
         env:
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Check for changes
+        id: git-check
         run: |
-          # Use input hours if workflow was manually triggered, otherwise use default (168)
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            HOURS="${{ github.event.inputs.hours }}"
-            SEND_EMAIL="${{ github.event.inputs.send_email }}"
-          else
-            HOURS="168"
-            SEND_EMAIL="true"
-          fi
-          
-          echo "Looking for podcast episodes in the last $HOURS hours..."
-          
-          # Build command with email option if requested
-          CMD="python podcast_tracker.py --hours $HOURS --max-episodes 3"
-          if [ "$SEND_EMAIL" == "true" ]; then
-            CMD="$CMD --email"
-            echo "Email updates enabled"
-          else
-            echo "Email updates disabled"
-          fi
-          
-          # Run the command
-          $CMD
-          
-          # Display summary of found episodes
-          if [ -f recent_episodes.json ]; then
-            echo "Found episodes:"
-            python -c "import json; data = json.load(open('recent_episodes.json')); print(f'Total episodes: {len(data)}'); [print(f'- {e[\"podcast_name\"]}: {e[\"episode_title\"]}') for e in data[:5]]; print('...') if len(data) > 5 else None"
-          fi
+          git status --porcelain
+          echo "::set-output name=modified::$(if git status --porcelain | grep .; then echo true; else echo false; fi)"
       
-      - name: Upload results as artifacts
-        uses: actions/upload-artifact@v4
+      - name: Push changes
+        if: steps.git-check.outputs.modified == 'true'
+        uses: ad-m/github-push-action@master
         with:
-          name: podcast-episodes
-          path: |
-            recent_episodes.json
-            podcast_tracker.log
-          retention-days: 7
-      
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
-          
-          # Add changes to git
-          git add recent_episodes.json podcast_tracker.log
-          
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update podcast episodes [skip ci]"
-            git push
-          fi 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }} 
