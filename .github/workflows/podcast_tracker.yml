@@ -18,6 +18,11 @@ on:
           - '48'
           - '72'
           - '168'
+      send_email:
+        description: 'Send email update'
+        required: false
+        default: true
+        type: boolean
 
 permissions:
   contents: write
@@ -47,16 +52,32 @@ jobs:
       
       - name: Run podcast tracker
         timeout-minutes: 5  # Add a timeout for this specific step
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: |
           # Use input hours if workflow was manually triggered, otherwise use default (168)
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             HOURS="${{ github.event.inputs.hours }}"
+            SEND_EMAIL="${{ github.event.inputs.send_email }}"
           else
             HOURS="168"
+            SEND_EMAIL="true"
           fi
           
           echo "Looking for podcast episodes in the last $HOURS hours..."
-          python podcast_tracker.py --hours $HOURS --max-episodes 3
+          
+          # Build command with email option if requested
+          CMD="python podcast_tracker.py --hours $HOURS --max-episodes 3"
+          if [ "$SEND_EMAIL" == "true" ]; then
+            CMD="$CMD --email"
+            echo "Email updates enabled"
+          else
+            echo "Email updates disabled"
+          fi
+          
+          # Run the command
+          $CMD
           
           # Display summary of found episodes
           if [ -f recent_episodes.json ]; then

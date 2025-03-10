@@ -11,6 +11,9 @@ import logging
 import argparse
 import re
 import time
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timedelta
 import requests
 import pandas as pd
@@ -60,6 +63,23 @@ def parse_arguments():
         type=int, 
         default=MAX_EPISODES_PER_PODCAST,
         help=f'Maximum number of episodes to process per podcast (default: {MAX_EPISODES_PER_PODCAST})'
+    )
+    parser.add_argument(
+        '--email',
+        action='store_true',
+        help='Send email update with recent episodes'
+    )
+    parser.add_argument(
+        '--email-address',
+        type=str,
+        default=os.environ.get('EMAIL_ADDRESS', ''),
+        help='Email address to send updates to (default: value of EMAIL_ADDRESS environment variable)'
+    )
+    parser.add_argument(
+        '--email-password',
+        type=str,
+        default=os.environ.get('EMAIL_PASSWORD', ''),
+        help='Email password for authentication (default: value of EMAIL_PASSWORD environment variable)'
     )
     return parser.parse_args()
 
@@ -190,17 +210,83 @@ def extract_mp3_url_from_feed(feed_url, episode_guid=None):
     return None
 
 def is_recent_episode(release_date, hours_ago):
-    """Check if episode was released within the specified time window."""
+    """Check if an episode was released within the specified time window."""
     try:
-        episode_date = parser.parse(release_date)
-        # Make sure the date is timezone-aware
-        if episode_date.tzinfo is None:
-            episode_date = pytz.UTC.localize(episode_date)
-            
+        # Parse the release date
+        parsed_date = parser.parse(release_date)
+        
+        # Make sure it's timezone aware
+        if parsed_date.tzinfo is None:
+            parsed_date = pytz.UTC.localize(parsed_date)
+        
+        # Calculate the cutoff time
         cutoff_time = datetime.now(pytz.UTC) - timedelta(hours=hours_ago)
-        return episode_date >= cutoff_time
+        
+        # Compare
+        return parsed_date >= cutoff_time
     except Exception as e:
         logger.error(f"Error parsing date {release_date}: {e}")
+        return False
+
+def send_email_update(recent_episodes, email_address, email_password):
+    """Send an email with recent podcast episodes."""
+    if not email_address or not email_password:
+        logger.info("Email credentials not provided, skipping email update")
+        return False
+    
+    if not recent_episodes:
+        logger.info("No recent episodes to send via email")
+        return False
+    
+    try:
+        # Create email message
+        msg = MIMEMultipart()
+        msg['From'] = email_address
+        msg['To'] = email_address
+        msg['Subject'] = f"Podcast Updates - {datetime.now().strftime('%Y-%m-%d')}"
+        
+        # Create email body
+        body = "<html><body>"
+        body += f"<h1>Recent Podcast Episodes</h1>"
+        body += f"<p>Found {len(recent_episodes)} new episodes:</p>"
+        
+        # Group episodes by podcast
+        podcasts = {}
+        for episode in recent_episodes:
+            podcast_name = episode['podcast_name']
+            if podcast_name not in podcasts:
+                podcasts[podcast_name] = []
+            podcasts[podcast_name].append(episode)
+        
+        # Add episodes to email body
+        for podcast_name, episodes in podcasts.items():
+            body += f"<h2>{podcast_name}</h2>"
+            body += "<ul>"
+            for episode in episodes:
+                release_date = episode.get('release_date', 'Unknown date')
+                episode_title = episode.get('episode_title', 'Untitled episode')
+                mp3_url = episode.get('mp3_url', '#')
+                body += f"<li><strong>{episode_title}</strong> ({release_date}) - <a href='{mp3_url}'>Listen</a></li>"
+            body += "</ul>"
+        
+        body += "</body></html>"
+        
+        # Attach HTML content
+        msg.attach(MIMEText(body, 'html'))
+        
+        # Connect to Gmail SMTP server
+        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server.starttls()
+        server.login(email_address, email_password)
+        
+        # Send email
+        server.send_message(msg)
+        server.quit()
+        
+        logger.info(f"Email update sent successfully to {email_address}")
+        return True
+    except Exception as e:
+        logger.error(f"Error sending email update: {e}")
         return False
 
 def process_podcast(podcast_name, hours_ago, max_episodes):
@@ -314,6 +400,15 @@ def main():
                 json.dump([], f)
         except Exception as e:
             logger.error(f"Error creating empty output file {args.output}: {e}")
+    
+    # Send email update if requested
+    if args.email or (args.email_address and args.email_password):
+        logger.info("Sending email update...")
+        email_sent = send_email_update(recent_episodes, args.email_address, args.email_password)
+        if email_sent:
+            logger.info("Email update sent successfully")
+        else:
+            logger.warning("Failed to send email update")
     
     elapsed_time = time.time() - start_time
     logger.info(f"Podcast tracker completed in {elapsed_time:.2f} seconds")
