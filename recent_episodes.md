@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-10 23:19:15
+Last updated: 2025-03-10 23:22:34
+
+## Freakonomics Radio
+
+### 625. The Biden Policy That Trump Hasn’t Touched
+
+**Released:** 2025-03-07 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3674b80a-e7e4-48e9-b873-32f7cb8f7f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3674b80a-e7e4-48e9-b873-32f7cb8f7f7a&feed=Y8lFbOT4)
+
+---
+
+### EXTRA: The Downside of Disgust (Update)
+
+**Released:** 2025-03-05 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e63e6321-0afd-4b0a-b3a8-e1ff8df43f65/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e63e6321-0afd-4b0a-b3a8-e1ff8df43f65&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -41,44 +59,6 @@ Last updated: 2025-03-10 23:19:15
 **Released:** 2025-03-06 16:02:34
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67c9c71bffae9c0f4e159465/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 625. The Biden Policy That Trump Hasn’t Touched
-
-**Released:** 2025-03-07 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3674b80a-e7e4-48e9-b873-32f7cb8f7f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3674b80a-e7e4-48e9-b873-32f7cb8f7f7a&feed=Y8lFbOT4)
-
----
-
-### EXTRA: The Downside of Disgust (Update)
-
-**Released:** 2025-03-05 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e63e6321-0afd-4b0a-b3a8-e1ff8df43f65/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e63e6321-0afd-4b0a-b3a8-e1ff8df43f65&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 535: Origin Story
-
-**Released:** 2025-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
-
----
-
-## Hidden Brain
-
-### When To Pivot
-
-**Released:** 2025-03-10 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
 
 ---
 
@@ -131,6 +111,26 @@ Last updated: 2025-03-10 23:19:15
 **Released:** 2025-03-04 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2147393512.mp3?updated=1741114902)
+
+---
+
+## Hidden Brain
+
+### When To Pivot
+
+**Released:** 2025-03-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
+
+---
+
+## This American Life
+
+### 535: Origin Story
+
+**Released:** 2025-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
 
 ---
 
@@ -206,21 +206,29 @@ Last updated: 2025-03-10 23:19:15
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Armchair Expert
 
-### Amy Poehler
+### Lauren Graham Returns
 
-**Released:** 2025-03-10 04:05:00
+**Released:** 2025-03-10 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af7cf8-309b-41aa-85b9-a396966e4b4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### This Is My Deal Here, Wade
+### Armchair Anonymous: Wild Card VII
 
-**Released:** 2025-03-06 05:05:00
+**Released:** 2025-03-07 08:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec3de09d-705a-4f35-9f19-d41d4f39f77e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec3de09d-705a-4f35-9f19-d41d4f39f77e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Suzanne O'Sullivan (on over diagnosis)
+
+**Released:** 2025-03-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ad32dfd-fcf2-4ec3-99a6-890c9bba20e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,6 +260,24 @@ Last updated: 2025-03-10 23:19:15
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Amy Poehler
+
+**Released:** 2025-03-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
+
+---
+
+### This Is My Deal Here, Wade
+
+**Released:** 2025-03-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec3de09d-705a-4f35-9f19-d41d4f39f77e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec3de09d-705a-4f35-9f19-d41d4f39f77e&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Millie Bobby Brown"
@@ -259,32 +285,6 @@ Last updated: 2025-03-10 23:19:15
 **Released:** 2025-03-10 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Lauren Graham Returns
-
-**Released:** 2025-03-10 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af7cf8-309b-41aa-85b9-a396966e4b4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card VII
-
-**Released:** 2025-03-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Suzanne O'Sullivan (on over diagnosis)
-
-**Released:** 2025-03-05 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ad32dfd-fcf2-4ec3-99a6-890c9bba20e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
