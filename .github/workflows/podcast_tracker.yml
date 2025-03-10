@@ -11,12 +11,13 @@ on:
       hours:
         description: 'Hours to look back for new episodes'
         required: true
-        default: '24'
+        default: '168'
         type: choice
         options:
           - '24'
           - '48'
           - '72'
+          - '168'
 
 permissions:
   contents: write
@@ -25,6 +26,7 @@ permissions:
 jobs:
   check_podcasts:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Add a timeout for the entire job
     
     steps:
       - name: Checkout repository
@@ -44,15 +46,17 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run podcast tracker
+        timeout-minutes: 5  # Add a timeout for this specific step
         run: |
-          # Use input hours if workflow was manually triggered, otherwise use default (24)
+          # Use input hours if workflow was manually triggered, otherwise use default (168)
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             HOURS="${{ github.event.inputs.hours }}"
           else
-            HOURS="24"
+            HOURS="168"
           fi
           
-          python podcast_tracker.py --hours $HOURS
+          echo "Looking for podcast episodes in the last $HOURS hours..."
+          python podcast_tracker.py --hours $HOURS --max-episodes 3
           
           # Display summary of found episodes
           if [ -f recent_episodes.json ]; then
