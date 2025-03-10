@@ -1,0 +1,86 @@
+name: Podcast Tracker
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: '0 0 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: 'Hours to look back for new episodes'
+        required: true
+        default: '24'
+        type: choice
+        options:
+          - '24'
+          - '48'
+          - '72'
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  check_podcasts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run podcast tracker
+        run: |
+          # Use input hours if workflow was manually triggered, otherwise use default (24)
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            HOURS="${{ github.event.inputs.hours }}"
+          else
+            HOURS="24"
+          fi
+          
+          python podcast_tracker.py --hours $HOURS
+          
+          # Display summary of found episodes
+          if [ -f recent_episodes.json ]; then
+            echo "Found episodes:"
+            python -c "import json; data = json.load(open('recent_episodes.json')); print(f'Total episodes: {len(data)}'); [print(f'- {e[\"podcast_name\"]}: {e[\"episode_title\"]}') for e in data[:5]]; print('...') if len(data) > 5 else None"
+          fi
+      
+      - name: Upload results as artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: podcast-episodes
+          path: |
+            recent_episodes.json
+            podcast_tracker.log
+          retention-days: 7
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          
+          # Add changes to git
+          git add recent_episodes.json podcast_tracker.log
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update podcast episodes [skip ci]"
+            git push
+          fi 
