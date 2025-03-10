@@ -1,21 +1,21 @@
 podcast_name,feed_url
-The Daily,
-This American Life,
-Radiolab,
-Serial,
-Freakonomics Radio,
-TED Talks Daily,
-Planet Money,
-The Joe Rogan Experience,
-Stuff You Should Know,
-Hidden Brain,
-99% Invisible,
-Reply All,
-The Tim Ferriss Show,
-Hardcore History,
-How I Built This,
-Revisionist History,
-The Moth,
-Armchair Expert,
-Conan O'Brien Needs A Friend,
-SmartLess 
+The Daily,https://feeds.simplecast.com/Sl5CSM3S
+This American Life,https://www.thisamericanlife.org/podcast/rss.xml
+Radiolab,http://feeds.feedburner.com/radiolab
+Serial,https://feeds.simplecast.com/PpzWFGhg
+Freakonomics Radio,https://feeds.simplecast.com/Y8lFbOT4
+TED Talks Daily,https://feeds.acast.com/public/shows/67587e77c705e441797aff96
+Planet Money,https://feeds.npr.org/510289/podcast.xml
+The Joe Rogan Experience,https://feeds.megaphone.fm/GLT1412515089
+Stuff You Should Know,https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss
+Hidden Brain,https://feeds.simplecast.com/kwWc0lhf
+99% Invisible,https://feeds.simplecast.com/BqbsxVfO
+Reply All,https://feeds.megaphone.fm/replyall
+The Tim Ferriss Show,https://rss.art19.com/tim-ferriss-show
+Hardcore History,https://feeds.feedburner.com/dancarlin/history?format=xml
+How I Built This,https://rss.art19.com/how-i-built-this
+Revisionist History,https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss
+The Moth,http://feeds.feedburner.com/themothpodcast
+Armchair Expert,https://rss.art19.com/armchair-expert
+Conan O'Brien Needs A Friend,https://feeds.simplecast.com/dHoohVNH
+SmartLess ,https://feeds.simplecast.com/hNaFxXpO
