@@ -93,4 +93,48 @@ def save_results_to_json(recent_episodes, output_path):
         return True
     except Exception as e:
         logger.error(f"Error saving results to {output_path}: {e}")
+        return False
+
+def save_results_to_markdown(recent_episodes, output_path):
+    """
+    Save recent episodes to a Markdown file for easy clicking and viewing.
+    
+    Args:
+        recent_episodes (list): List of recent episodes
+        output_path (str): Path to the output Markdown file
+        
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        with open(output_path, 'w') as f:
+            f.write("# Recent Podcast Episodes\n\n")
+            f.write("Last updated: " + pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S') + "\n\n")
+            
+            # Group episodes by podcast
+            podcasts = {}
+            for episode in recent_episodes:
+                podcast_name = episode.get('podcast_name', 'Unknown Podcast')
+                if podcast_name not in podcasts:
+                    podcasts[podcast_name] = []
+                podcasts[podcast_name].append(episode)
+            
+            # Write episodes grouped by podcast
+            for podcast_name, episodes in podcasts.items():
+                f.write(f"## {podcast_name}\n\n")
+                
+                for episode in episodes:
+                    title = episode.get('episode_title', 'Untitled Episode')
+                    release_date = episode.get('release_date', 'Unknown date')
+                    mp3_url = episode.get('mp3_url', '')
+                    
+                    f.write(f"### {title}\n\n")
+                    f.write(f"**Released:** {release_date}\n\n")
+                    f.write(f"**Listen:** [Direct MP3 Link]({mp3_url})\n\n")
+                    f.write("---\n\n")
+            
+        logger.info(f"Markdown file generated at {output_path}")
+        return True
+    except Exception as e:
+        logger.error(f"Error saving markdown to {output_path}: {e}")
         return False 

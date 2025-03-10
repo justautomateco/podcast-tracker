@@ -20,7 +20,8 @@ from core.data import (
     load_podcasts,
     load_ignored_podcasts,
     save_podcasts_csv,
-    save_results_to_json
+    save_results_to_json,
+    save_results_to_markdown
 )
 from core.processor import process_podcast
 
@@ -93,15 +94,30 @@ def main():
             files_to_commit.append(args.output)
         else:
             logger.error(f"Error saving results to {args.output}")
+            
+        # Generate markdown file if requested
+        if args.generate_markdown:
+            if save_results_to_markdown(recent_episodes, args.markdown):
+                logger.info(f"Generated markdown file at {args.markdown}")
+                files_to_commit.append(args.markdown)
+            else:
+                logger.error(f"Error generating markdown file at {args.markdown}")
     else:
         logger.info(f"No recent episodes found in the last {args.hours} hours")
-        # Create empty file
+        # Create empty files
         try:
             with open(args.output, 'w') as f:
                 json.dump([], f)
             files_to_commit.append(args.output)
+            
+            if args.generate_markdown:
+                with open(args.markdown, 'w') as f:
+                    f.write("# Recent Podcast Episodes\n\n")
+                    f.write("Last updated: " + time.strftime('%Y-%m-%d %H:%M:%S') + "\n\n")
+                    f.write("No recent episodes found in the last " + str(args.hours) + " hours.\n")
+                files_to_commit.append(args.markdown)
         except Exception as e:
-            logger.error(f"Error creating empty output file {args.output}: {e}")
+            logger.error(f"Error creating empty output files: {e}")
     
     # Commit and push changes if requested
     if args.commit_changes and files_to_commit:

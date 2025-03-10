@@ -11,4 +11,7 @@ MAX_WORKERS = 4  # Maximum number of concurrent threads
 # Default file paths
 DEFAULT_PODCASTS_CSV = "podcasts.csv"
 DEFAULT_IGNORED_CSV = "ignored_podcasts.csv"
-DEFAULT_OUTPUT_JSON = "recent_episodes.json" 
+DEFAULT_OUTPUT_JSON = "recent_episodes.json"
+DEFAULT_OUTPUT_MARKDOWN = "recent_episodes.md"
+
+# ... existing code ... 

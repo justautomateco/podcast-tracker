@@ -8,6 +8,7 @@ from utils.constants import (
     DEFAULT_PODCASTS_CSV,
     DEFAULT_IGNORED_CSV,
     DEFAULT_OUTPUT_JSON,
+    DEFAULT_OUTPUT_MARKDOWN,
     MAX_EPISODES_PER_PODCAST
 )
 
@@ -43,6 +44,17 @@ def parse_arguments():
         type=str, 
         default=DEFAULT_OUTPUT_JSON,
         help=f'Path to output JSON file (default: {DEFAULT_OUTPUT_JSON})'
+    )
+    parser.add_argument(
+        '--markdown', 
+        type=str, 
+        default=DEFAULT_OUTPUT_MARKDOWN,
+        help=f'Path to output Markdown file (default: {DEFAULT_OUTPUT_MARKDOWN})'
+    )
+    parser.add_argument(
+        '--generate-markdown', 
+        action='store_true',
+        help='Generate a Markdown file with clickable links to episodes'
     )
     parser.add_argument(
         '--update-feeds', 

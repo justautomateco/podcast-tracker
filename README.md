@@ -37,8 +37,9 @@ To trigger the workflow manually:
 
 The script will output new episodes found in the specified time window to:
 1. A JSON file (`recent_episodes.json`) committed to the repository with direct MP3 URLs
-2. A log file (`podcast_tracker.log`) committed to the repository
-3. Workflow artifacts that can be downloaded from the Actions tab
+2. A markdown file (`recent_episodes.md`) with clickable links to episodes, organized by podcast
+3. A log file (`podcast_tracker.log`) committed to the repository
+4. Workflow artifacts that can be downloaded from the Actions tab
 
 ## Project Structure
 
@@ -66,3 +67,32 @@ podcast-tracker/
 ```
 
 This modular structure makes the code more maintainable and easier to understand. 
+
+## Command-line Options
+
+The podcast tracker supports the following command-line options:
+
+```
+--hours HOURS             Number of hours to look back for new episodes (default: 168, which is 1 week)
+--max-episodes MAX        Maximum number of episodes to process per podcast (default: 5)
+--csv CSV                 Path to CSV file containing podcast list (default: podcasts.csv)
+--ignored-csv IGNORED_CSV Path to CSV file containing ignored podcasts (default: ignored_podcasts.csv)
+--output OUTPUT           Path to output JSON file (default: recent_episodes.json)
+--markdown MARKDOWN       Path to output Markdown file (default: recent_episodes.md)
+--generate-markdown       Generate a Markdown file with clickable links to episodes
+--update-feeds            Update feed URLs in the podcasts CSV file
+--commit-changes          Commit and push changes to the repository
+--email                   Send email update with recent episodes
+--email-address EMAIL     Email address to send updates to
+--email-password PASSWORD Email password or app password for authentication
+```
+
+Example usage:
+
+```bash
+# Generate a markdown file with recent episodes from the last 24 hours
+python podcast_tracker.py --hours 24 --generate-markdown
+
+# Update feed URLs and commit changes to the repository
+python podcast_tracker.py --update-feeds --commit-changes --generate-markdown
+``` 
