@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-11 03:01:38
+Last updated: 2025-03-11 13:15:59
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2025-03-11 03:01:38
 **Released:** 2025-03-05 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e63e6321-0afd-4b0a-b3a8-e1ff8df43f65/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e63e6321-0afd-4b0a-b3a8-e1ff8df43f65&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 535: Origin Story
-
-**Released:** 2025-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
 
 ---
 
@@ -72,6 +62,16 @@ Last updated: 2025-03-11 03:01:38
 
 ---
 
+## This American Life
+
+### 535: Origin Story
+
+**Released:** 2025-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
+
+---
+
 ## Planet Money
 
 ### How to start a bank
@@ -110,6 +110,40 @@ Last updated: 2025-03-11 03:01:38
 
 ---
 
+## Stuff You Should Know
+
+### The Scribble on Scrabble
+
+**Released:** 2025-03-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b900eec-8ece-4acb-addc-b29900e69f59/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Electricity Works
+
+**Released:** 2025-03-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/def7e083-3380-489a-9646-b28a0144f9ef/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Why is Chinese art being stolen?
+
+**Released:** 2025-03-06 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab94e3bb-e45a-492b-a0f3-b295015efd77/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Outlawry
+
+**Released:** 2025-03-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/075e2fe4-8f64-481f-acf6-b290013d3e96/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2286 - Antonio Brown
@@ -144,40 +178,6 @@ Last updated: 2025-03-11 03:01:38
 
 ---
 
-## Stuff You Should Know
-
-### Selects: How Electricity Works
-
-**Released:** 2025-03-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/def7e083-3380-489a-9646-b28a0144f9ef/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Why is Chinese art being stolen?
-
-**Released:** 2025-03-06 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab94e3bb-e45a-492b-a0f3-b295015efd77/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Outlawry
-
-**Released:** 2025-03-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/075e2fe4-8f64-481f-acf6-b290013d3e96/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Switchboards: Please Hold While We Connect You
-
-**Released:** 2025-03-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6e24704e-5093-47d3-80ba-b295015a9b6a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### SpotHero: Mark Lawrence
@@ -206,29 +206,31 @@ Last updated: 2025-03-11 03:01:38
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Lauren Graham Returns
+### #798: Terry Real - Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work
 
-**Released:** 2025-03-10 07:35:00
+**Released:** 2025-03-05 21:45:56
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af7cf8-309b-41aa-85b9-a396966e4b4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card VII
-
-**Released:** 2025-03-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Suzanne O'Sullivan (on over diagnosis)
+## The Moth
 
-**Released:** 2025-03-05 08:35:00
+### The Moth Radio Hour: Brand New YOU
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ad32dfd-fcf2-4ec3-99a6-890c9bba20e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-03-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+
+---
+
+### The Moth Podcast: A Blue Bonus
+
+**Released:** 2025-03-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
 
 ---
 
@@ -260,31 +262,29 @@ Last updated: 2025-03-11 03:01:38
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### The Moth Podcast: A Blue Bonus
+### Lauren Graham Returns
 
-**Released:** 2025-03-07 05:25:00
+**Released:** 2025-03-10 07:35:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
-
----
-
-### The Moth Radio Hour: The Pursuit of Happiness
-
-**Released:** 2025-03-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6069056767.mp3?updated=1740070596)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af7cf8-309b-41aa-85b9-a396966e4b4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Armchair Anonymous: Wild Card VII
 
-### #798: Terry Real - Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work
+**Released:** 2025-03-07 08:35:00
 
-**Released:** 2025-03-05 21:45:56
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+### Suzanne O'Sullivan (on over diagnosis)
+
+**Released:** 2025-03-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ad32dfd-fcf2-4ec3-99a6-890c9bba20e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
