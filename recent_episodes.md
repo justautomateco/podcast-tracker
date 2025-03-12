@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-11 13:15:59
-
-## Freakonomics Radio
-
-### 625. The Biden Policy That Trump Hasn’t Touched
-
-**Released:** 2025-03-07 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3674b80a-e7e4-48e9-b873-32f7cb8f7f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3674b80a-e7e4-48e9-b873-32f7cb8f7f7a&feed=Y8lFbOT4)
-
----
-
-### EXTRA: The Downside of Disgust (Update)
-
-**Released:** 2025-03-05 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e63e6321-0afd-4b0a-b3a8-e1ff8df43f65/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e63e6321-0afd-4b0a-b3a8-e1ff8df43f65&feed=Y8lFbOT4)
-
----
+Last updated: 2025-03-12 03:00:24
 
 ## TED Talks Daily
+
+### How light and code can transform a city | Leo Villareal
+
+**Released:** 2025-03-11 15:09:36
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d052301842c480a16c4b65/media.mp3)
+
+---
 
 ### The 7 pillars of unlocking potential | Anirudh Krishna
 
@@ -54,21 +44,13 @@ Last updated: 2025-03-11 13:15:59
 
 ---
 
-### What you can learn crossing the ocean in a canoe | Lehua Kamalu
+## Freakonomics Radio
 
-**Released:** 2025-03-06 16:02:34
+### 625. The Biden Policy That Trump Hasn’t Touched
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67c9c71bffae9c0f4e159465/media.mp3)
+**Released:** 2025-03-07 11:00:00
 
----
-
-## This American Life
-
-### 535: Origin Story
-
-**Released:** 2025-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3674b80a-e7e4-48e9-b873-32f7cb8f7f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3674b80a-e7e4-48e9-b873-32f7cb8f7f7a&feed=Y8lFbOT4)
 
 ---
 
@@ -90,6 +72,50 @@ Last updated: 2025-03-11 13:15:59
 
 ---
 
+## This American Life
+
+### 535: Origin Story
+
+**Released:** 2025-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2287 - Josh Dubin & J.D. Tomlinson
+
+**Released:** 2025-03-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8975359528.mp3?updated=1741713523)
+
+---
+
+### #2286 - Antonio Brown
+
+**Released:** 2025-03-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1444551878.mp3?updated=1741371099)
+
+---
+
+### #2285 - Andrew Schulz
+
+**Released:** 2025-03-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6184961809.mp3?updated=1741284644)
+
+---
+
+### #2284 - Ian Carroll
+
+**Released:** 2025-03-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5517343377.mp3?updated=1741199348)
+
+---
+
 ## Hidden Brain
 
 ### When To Pivot
@@ -102,11 +128,31 @@ Last updated: 2025-03-11 13:15:59
 
 ## 99% Invisible
 
-### A Beetle By Any Other Name
+### What We're Reading
 
-**Released:** 2025-03-04 20:23:23
+**Released:** 2025-03-11 17:50:01
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9521361d-1c28-4a59-b1b9-1da72c8e47c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9521361d-1c28-4a59-b1b9-1da72c8e47c7&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #798: Terry Real - Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work
+
+**Released:** 2025-03-05 21:45:56
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Revisionist History is Back
+
+**Released:** 2025-03-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b9b1617d-a1b6-4963-84c5-b29701646df2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -144,40 +190,6 @@ Last updated: 2025-03-11 13:15:59
 
 ---
 
-## The Joe Rogan Experience
-
-### #2286 - Antonio Brown
-
-**Released:** 2025-03-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1444551878.mp3?updated=1741371099)
-
----
-
-### #2285 - Andrew Schulz
-
-**Released:** 2025-03-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6184961809.mp3?updated=1741284644)
-
----
-
-### #2284 - Ian Carroll
-
-**Released:** 2025-03-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5517343377.mp3?updated=1741199348)
-
----
-
-### #2283 - Billy Corgan
-
-**Released:** 2025-03-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2147393512.mp3?updated=1741114902)
-
----
-
 ## How I Built This
 
 ### SpotHero: Mark Lawrence
@@ -193,26 +205,6 @@ Last updated: 2025-03-11 13:15:59
 **Released:** 2025-03-06 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8404beae-f369-46b0-901f-aa89ed3eee0b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Revisionist History is Back
-
-**Released:** 2025-03-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b9b1617d-a1b6-4963-84c5-b29701646df2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #798: Terry Real - Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work
-
-**Released:** 2025-03-05 21:45:56
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
