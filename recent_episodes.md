@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-12 13:15:47
+Last updated: 2025-03-13 03:02:39
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-03-12 13:15:47
 ---
 
 ## TED Talks Daily
+
+### What you're missing by focusing on the average | Sharon Zicherman
+
+**Released:** 2025-03-12 15:03:03
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d1a227fa7cec3676b81a05/media.mp3)
+
+---
 
 ### How light and code can transform a city | Leo Villareal
 
@@ -46,15 +54,15 @@ Last updated: 2025-03-12 13:15:47
 
 ---
 
-### Can AI match the human brain? | Surya Ganguli
+## Planet Money
 
-**Released:** 2025-03-07 16:12:29
+### The last time we shrank the federal workforce
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67c9ce3402d588df94d222f2/media.mp3)
+**Released:** 2025-03-12 22:40:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1638&size=26215323&e=1237991516&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### How to start a bank
 
@@ -74,17 +82,15 @@ Last updated: 2025-03-12 13:15:47
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### When To Pivot
+### #2288 - Jacques Vallée
 
-**Released:** 2025-03-10 19:00:00
+**Released:** 2025-03-12 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4754296416.mp3?updated=1741797589)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2287 - Josh Dubin & J.D. Tomlinson
 
@@ -107,24 +113,6 @@ Last updated: 2025-03-12 13:15:47
 **Released:** 2025-03-06 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6184961809.mp3?updated=1741284644)
-
----
-
-### #2284 - Ian Carroll
-
-**Released:** 2025-03-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5517343377.mp3?updated=1741199348)
-
----
-
-## 99% Invisible
-
-### What We're Reading
-
-**Released:** 2025-03-11 17:50:01
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
 
 ---
 
@@ -162,59 +150,23 @@ Last updated: 2025-03-12 13:15:47
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### Revisionist History is Back
+### When To Pivot
 
-**Released:** 2025-03-06 05:01:00
+**Released:** 2025-03-10 19:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b9b1617d-a1b6-4963-84c5-b29701646df2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Brand New YOU
-
-**Released:** 2025-03-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
 
 ---
 
-### The Moth Podcast: A Blue Bonus
+## 99% Invisible
 
-**Released:** 2025-03-07 05:25:00
+### What We're Reading
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
+**Released:** 2025-03-11 17:50:01
 
----
-
-## Conan O'Brien Needs A Friend
-
-### Amy Poehler
-
-**Released:** 2025-03-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
-
----
-
-### This Is My Deal Here, Wade
-
-**Released:** 2025-03-06 05:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/pdrl.fm/f3efd0/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec3de09d-705a-4f35-9f19-d41d4f39f77e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec3de09d-705a-4f35-9f19-d41d4f39f77e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Millie Bobby Brown"
-
-**Released:** 2025-03-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
 
 ---
 
@@ -236,13 +188,69 @@ Last updated: 2025-03-12 13:15:47
 
 ---
 
+## Revisionist History
+
+### Revisionist History is Back
+
+**Released:** 2025-03-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b9b1617d-a1b6-4963-84c5-b29701646df2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Tim Ferriss Show
 
-### #798: Terry Real - Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work
+### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
 
-**Released:** 2025-03-05 21:45:56
+**Released:** 2025-03-12 13:16:56
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Amy Poehler
+
+**Released:** 2025-03-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
+
+---
+
+### This Is My Deal Here, Wade
+
+**Released:** 2025-03-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec3de09d-705a-4f35-9f19-d41d4f39f77e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec3de09d-705a-4f35-9f19-d41d4f39f77e&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Brand New YOU
+
+**Released:** 2025-03-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+
+---
+
+### The Moth Podcast: A Blue Bonus
+
+**Released:** 2025-03-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
+
+---
+
+## SmartLess 
+
+### "Millie Bobby Brown"
+
+**Released:** 2025-03-10 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
 
 ---
 
