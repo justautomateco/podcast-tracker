@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-14 03:00:14
+Last updated: 2025-03-14 13:04:04
 
 ## Freakonomics Radio
 
-### 625. The Biden Policy That Trump Hasn’t Touched
+### 626. Ten Myths About the U.S. Tax System
 
-**Released:** 2025-03-07 11:00:00
+**Released:** 2025-03-14 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3674b80a-e7e4-48e9-b873-32f7cb8f7f7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3674b80a-e7e4-48e9-b873-32f7cb8f7f7a&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
 
 ---
 
@@ -54,6 +54,16 @@ Last updated: 2025-03-14 03:00:14
 
 ---
 
+## This American Life
+
+### 535: Origin Story
+
+**Released:** 2025-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
+
+---
+
 ## Planet Money
 
 ### The last time we shrank the federal workforce
@@ -72,13 +82,13 @@ Last updated: 2025-03-14 03:00:14
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 535: Origin Story
+### When To Pivot
 
-**Released:** 2025-03-09 19:00:00
+**Released:** 2025-03-10 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
 
 ---
 
@@ -113,16 +123,6 @@ Last updated: 2025-03-14 03:00:14
 **Released:** 2025-03-07 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1444551878.mp3?updated=1741371099)
-
----
-
-## Hidden Brain
-
-### When To Pivot
-
-**Released:** 2025-03-10 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
 
 ---
 
@@ -188,6 +188,16 @@ Last updated: 2025-03-14 03:00:14
 
 ---
 
+## Revisionist History
+
+### Memorial Day, 2020 | Part 1
+
+**Released:** 2025-03-13 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
@@ -200,6 +210,14 @@ Last updated: 2025-03-14 03:00:14
 
 ## The Moth
 
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+
+---
+
 ### The Moth Radio Hour: Brand New YOU
 
 **Released:** 2025-03-11 04:25:00
@@ -208,11 +226,29 @@ Last updated: 2025-03-14 03:00:14
 
 ---
 
-### The Moth Podcast: A Blue Bonus
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-03-07 05:25:00
+### The Conan and Jordan Show – Geddy Lee
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
+**Released:** 2025-03-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a96cf784-c15d-4657-b6b8-ab7ea388dca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a96cf784-c15d-4657-b6b8-ab7ea388dca2&feed=dHoohVNH)
+
+---
+
+### Conan Recaps the Oscars with Mike Sweeney
+
+**Released:** 2025-03-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb&feed=dHoohVNH)
+
+---
+
+### Amy Poehler
+
+**Released:** 2025-03-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
 
 ---
 
@@ -234,35 +270,15 @@ Last updated: 2025-03-14 03:00:14
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Conan Recaps the Oscars with Mike Sweeney
-
-**Released:** 2025-03-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb&feed=dHoohVNH)
-
----
-
-### Amy Poehler
-
-**Released:** 2025-03-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
-
----
-
-## Revisionist History
-
-### Memorial Day, 2020 | Part 1
-
-**Released:** 2025-03-13 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: I Quit
+
+**Released:** 2025-03-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Jonathan Haidt Returns (on the anxiety generation)
 
@@ -277,14 +293,6 @@ Last updated: 2025-03-14 03:00:14
 **Released:** 2025-03-10 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af7cf8-309b-41aa-85b9-a396966e4b4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card VII
-
-**Released:** 2025-03-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
