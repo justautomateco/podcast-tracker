@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-13 13:16:15
+Last updated: 2025-03-14 03:00:14
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-03-13 13:16:15
 ---
 
 ## TED Talks Daily
+
+### A concrete plan for sustainable cement | Ryan Gilliam
+
+**Released:** 2025-03-13 15:12:19
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2f5d337c61de896b921ee/media.mp3)
+
+---
 
 ### What you're missing by focusing on the average | Sharon Zicherman
 
@@ -46,24 +54,6 @@ Last updated: 2025-03-13 13:16:15
 
 ---
 
-### How to make anxiety your friend | David H. Rosmarin
-
-**Released:** 2025-03-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67c9c9a6ffae9c0f4e16c622/media.mp3)
-
----
-
-## This American Life
-
-### 535: Origin Story
-
-**Released:** 2025-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
-
----
-
 ## Planet Money
 
 ### The last time we shrank the federal workforce
@@ -82,17 +72,25 @@ Last updated: 2025-03-13 13:16:15
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### When To Pivot
+### 535: Origin Story
 
-**Released:** 2025-03-10 19:00:00
+**Released:** 2025-03-09 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2289 - Darryl Cooper
+
+**Released:** 2025-03-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3909612838.mp3?updated=1741886361)
+
+---
 
 ### #2288 - Jacques Vallée
 
@@ -118,11 +116,13 @@ Last updated: 2025-03-13 13:16:15
 
 ---
 
-### #2285 - Andrew Schulz
+## Hidden Brain
 
-**Released:** 2025-03-06 18:00:00
+### When To Pivot
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6184961809.mp3?updated=1741284644)
+**Released:** 2025-03-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
 
 ---
 
@@ -170,34 +170,6 @@ Last updated: 2025-03-13 13:16:15
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Brand New YOU
-
-**Released:** 2025-03-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
-
----
-
-### The Moth Podcast: A Blue Bonus
-
-**Released:** 2025-03-07 05:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
-
----
-
-## Revisionist History
-
-### Memorial Day, 2020 | Part 1
-
-**Released:** 2025-03-13 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jenn Hyman of Rent The Runway
@@ -216,6 +188,52 @@ Last updated: 2025-03-13 13:16:15
 
 ---
 
+## The Tim Ferriss Show
+
+### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
+
+**Released:** 2025-03-12 13:16:56
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Brand New YOU
+
+**Released:** 2025-03-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+
+---
+
+### The Moth Podcast: A Blue Bonus
+
+**Released:** 2025-03-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7611889970.mp3?updated=1741277134)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: John Mulaney"
+
+**Released:** 2025-03-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
+
+---
+
+### "Millie Bobby Brown"
+
+**Released:** 2025-03-10 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Conan Recaps the Oscars with Mike Sweeney
@@ -231,6 +249,16 @@ Last updated: 2025-03-13 13:16:15
 **Released:** 2025-03-10 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/763a530e-b611-4279-a847-184ae48c73a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=763a530e-b611-4279-a847-184ae48c73a8&feed=dHoohVNH)
+
+---
+
+## Revisionist History
+
+### Memorial Day, 2020 | Part 1
+
+**Released:** 2025-03-13 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -257,34 +285,6 @@ Last updated: 2025-03-13 13:16:15
 **Released:** 2025-03-07 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/077f59e2-c5b6-4041-8cd2-040ef2e87c86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: John Mulaney"
-
-**Released:** 2025-03-13 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
-
----
-
-### "Millie Bobby Brown"
-
-**Released:** 2025-03-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
-
-**Released:** 2025-03-12 13:16:56
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
