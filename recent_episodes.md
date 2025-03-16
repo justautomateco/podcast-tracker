@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-16 03:06:26
-
-## Freakonomics Radio
-
-### 626. Ten Myths About the U.S. Tax System
-
-**Released:** 2025-03-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
-
----
+Last updated: 2025-03-16 13:01:12
 
 ## TED Talks Daily
+
+### How to set boundaries and find peace (w/ Nedra Glover Tawwab) | How to Be a Better Human
+
+**Released:** 2025-03-16 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2fc1c901b9ce97fdb13eb/media.mp3)
+
+---
 
 ### A guide to self-love for skeptics | Dan Harris
 
@@ -46,11 +44,13 @@ Last updated: 2025-03-16 03:06:26
 
 ---
 
-### How light and code can transform a city | Leo Villareal
+## Freakonomics Radio
 
-**Released:** 2025-03-11 15:09:36
+### 626. Ten Myths About the U.S. Tax System
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d052301842c480a16c4b65/media.mp3)
+**Released:** 2025-03-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
 
 ---
 
@@ -61,24 +61,6 @@ Last updated: 2025-03-16 03:06:26
 **Released:** 2025-03-09 19:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
-
----
-
-## Planet Money
-
-### How Tupperware took over our homes, with Decoder Ring
-
-**Released:** 2025-03-14 22:13:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
-
----
-
-### The last time we shrank the federal workforce
-
-**Released:** 2025-03-12 22:40:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
 
 ---
 
@@ -126,16 +108,6 @@ Last updated: 2025-03-16 03:06:26
 
 ---
 
-## 99% Invisible
-
-### What We're Reading
-
-**Released:** 2025-03-11 17:50:01
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How the Flu Works
@@ -170,6 +142,52 @@ Last updated: 2025-03-16 03:06:26
 
 ---
 
+## Planet Money
+
+### How Tupperware took over our homes, with Decoder Ring
+
+**Released:** 2025-03-14 22:13:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+
+---
+
+### The last time we shrank the federal workforce
+
+**Released:** 2025-03-12 22:40:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
+
+---
+
+## 99% Invisible
+
+### What We're Reading
+
+**Released:** 2025-03-11 17:50:01
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with Jenn Hyman of Rent The Runway
+
+**Released:** 2025-03-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### SpotHero: Mark Lawrence
+
+**Released:** 2025-03-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/101b5602-e671-4d93-b816-75bd79cc872c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Memorial Day, 2020 | Part 1
@@ -177,34 +195,6 @@ Last updated: 2025-03-16 03:06:26
 **Released:** 2025-03-13 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
-
-**Released:** 2025-03-12 13:16:56
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Family Matters
-
-**Released:** 2025-03-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
-### The Moth Radio Hour: Brand New YOU
-
-**Released:** 2025-03-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
 
 ---
 
@@ -234,24 +224,6 @@ Last updated: 2025-03-16 03:06:26
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: John Mulaney"
-
-**Released:** 2025-03-13 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
-
----
-
-### "Millie Bobby Brown"
-
-**Released:** 2025-03-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### The Conan and Jordan Show – Geddy Lee
@@ -278,21 +250,49 @@ Last updated: 2025-03-16 03:06:26
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Advice Line with Jenn Hyman of Rent The Runway
+### "RE-RELEASE: John Mulaney"
 
-**Released:** 2025-03-13 07:10:00
+**Released:** 2025-03-13 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
 
 ---
 
-### SpotHero: Mark Lawrence
+### "Millie Bobby Brown"
 
-**Released:** 2025-03-10 07:10:00
+**Released:** 2025-03-10 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/101b5602-e671-4d93-b816-75bd79cc872c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+
+---
+
+### The Moth Radio Hour: Brand New YOU
+
+**Released:** 2025-03-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+
+---
+
+## The Tim Ferriss Show
+
+### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
+
+**Released:** 2025-03-12 13:16:56
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
