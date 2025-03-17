@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-16 13:01:12
+Last updated: 2025-03-17 03:05:43
+
+## Freakonomics Radio
+
+### 626. Ten Myths About the U.S. Tax System
+
+**Released:** 2025-03-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,57 +54,13 @@ Last updated: 2025-03-16 13:01:12
 
 ---
 
-## Freakonomics Radio
-
-### 626. Ten Myths About the U.S. Tax System
-
-**Released:** 2025-03-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
-### 535: Origin Story
+### 856: You’ve Come to the Right Person
 
-**Released:** 2025-03-09 19:00:00
+**Released:** 2025-03-16 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2290 - Michael Kosta
-
-**Released:** 2025-03-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8164608802.mp3?updated=1741971201)
-
----
-
-### #2289 - Darryl Cooper
-
-**Released:** 2025-03-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3909612838.mp3?updated=1741886361)
-
----
-
-### #2288 - Jacques Vallée
-
-**Released:** 2025-03-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4754296416.mp3?updated=1741797589)
-
----
-
-### #2287 - Josh Dubin & J.D. Tomlinson
-
-**Released:** 2025-03-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8975359528.mp3?updated=1741713523)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
 
 ---
 
@@ -105,6 +71,24 @@ Last updated: 2025-03-16 13:01:12
 **Released:** 2025-03-10 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ba9cfb80-4221-446f-80b7-57e2b984884e/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ba9cfb80-4221-446f-80b7-57e2b984884e&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### How Tupperware took over our homes, with Decoder Ring
+
+**Released:** 2025-03-14 22:13:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+
+---
+
+### The last time we shrank the federal workforce
+
+**Released:** 2025-03-12 22:40:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
 
 ---
 
@@ -142,21 +126,37 @@ Last updated: 2025-03-16 13:01:12
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### How Tupperware took over our homes, with Decoder Ring
+### #2290 - Michael Kosta
 
-**Released:** 2025-03-14 22:13:17
+**Released:** 2025-03-14 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8164608802.mp3?updated=1741971201)
 
 ---
 
-### The last time we shrank the federal workforce
+### #2289 - Darryl Cooper
 
-**Released:** 2025-03-12 22:40:24
+**Released:** 2025-03-13 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3909612838.mp3?updated=1741886361)
+
+---
+
+### #2288 - Jacques Vallée
+
+**Released:** 2025-03-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4754296416.mp3?updated=1741797589)
+
+---
+
+### #2287 - Josh Dubin & J.D. Tomlinson
+
+**Released:** 2025-03-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8975359528.mp3?updated=1741713523)
 
 ---
 
@@ -224,6 +224,24 @@ Last updated: 2025-03-16 13:01:12
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+
+---
+
+### The Moth Radio Hour: Brand New YOU
+
+**Released:** 2025-03-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### The Conan and Jordan Show – Geddy Lee
@@ -265,24 +283,6 @@ Last updated: 2025-03-16 13:01:12
 **Released:** 2025-03-10 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/027ec99d-7f87-4075-a94d-7ff4faa34f0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=027ec99d-7f87-4075-a94d-7ff4faa34f0c&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Podcast: Family Matters
-
-**Released:** 2025-03-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
-### The Moth Radio Hour: Brand New YOU
-
-**Released:** 2025-03-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8862054649.mp3?updated=1741188577)
 
 ---
 
