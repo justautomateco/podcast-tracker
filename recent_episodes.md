@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-19 03:03:28
-
-## Freakonomics Radio
-
-### 626. Ten Myths About the U.S. Tax System
-
-**Released:** 2025-03-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
-
----
+Last updated: 2025-03-19 13:16:39
 
 ## TED Talks Daily
 
@@ -54,6 +44,16 @@ Last updated: 2025-03-19 03:03:28
 
 ---
 
+## Freakonomics Radio
+
+### 626. Ten Myths About the U.S. Tax System
+
+**Released:** 2025-03-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
 ### 856: You’ve Come to the Right Person
@@ -61,6 +61,32 @@ Last updated: 2025-03-19 03:03:28
 **Released:** 2025-03-16 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
+
+---
+
+## Planet Money
+
+### Escheat show (Update)
+
+**Released:** 2025-03-19 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
+
+---
+
+### How Tupperware took over our homes, with Decoder Ring
+
+**Released:** 2025-03-14 22:13:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+
+---
+
+### The last time we shrank the federal workforce
+
+**Released:** 2025-03-12 22:40:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
 
 ---
 
@@ -98,25 +124,35 @@ Last updated: 2025-03-19 03:03:28
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### How Tupperware took over our homes, with Decoder Ring
+### Did I Really Do That?
 
-**Released:** 2025-03-14 22:13:17
+**Released:** 2025-03-17 19:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
 
 ---
 
-### The last time we shrank the federal workforce
+## 99% Invisible
 
-**Released:** 2025-03-12 22:40:24
+### Beautiful West Oakland, California
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
+**Released:** 2025-03-18 14:42:58
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: All About Egg Colors
+
+**Released:** 2025-03-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1f2acfe-d736-40e5-b804-b2a40160514e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Chelsea Hotel
 
@@ -142,52 +178,6 @@ Last updated: 2025-03-19 03:03:28
 
 ---
 
-### Short Stuff: Morganna the Kissing Bandit
-
-**Released:** 2025-03-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0257f38b-3d7f-4eb8-bb77-b29d00e030ff/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Did I Really Do That?
-
-**Released:** 2025-03-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Beautiful West Oakland, California
-
-**Released:** 2025-03-18 14:42:58
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Skype and Kazaa: Niklas Zennström
-
-**Released:** 2025-03-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jenn Hyman of Rent The Runway
-
-**Released:** 2025-03-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Memorial Day, 2020 | Part 1
@@ -195,6 +185,24 @@ Last updated: 2025-03-19 03:03:28
 **Released:** 2025-03-13 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7704c504-a4c8-48c9-8c13-b29e01548e37/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: All In - Live from London
+
+**Released:** 2025-03-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+
+---
+
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
 
 ---
 
@@ -224,31 +232,47 @@ Last updated: 2025-03-19 03:03:28
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
+### Skype and Kazaa: Niklas Zennström
 
-**Released:** 2025-03-12 13:16:56
+**Released:** 2025-03-17 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: All In - Live from London
-
-**Released:** 2025-03-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Podcast: Family Matters
+### Advice Line with Jenn Hyman of Rent The Runway
 
-**Released:** 2025-03-14 04:25:00
+**Released:** 2025-03-13 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Mary Claire Haver (on menopause)
+
+**Released:** 2025-03-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Andrew Schulz
+
+**Released:** 2025-03-17 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: I Quit
+
+**Released:** 2025-03-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,29 +294,13 @@ Last updated: 2025-03-19 03:03:28
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Andrew Schulz
+### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
 
-**Released:** 2025-03-17 07:35:00
+**Released:** 2025-03-12 13:16:56
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: I Quit
-
-**Released:** 2025-03-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jonathan Haidt Returns (on the Anxious Generation)
-
-**Released:** 2025-03-12 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c01eba5-fd6b-45b5-baff-08dd368c5528.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
