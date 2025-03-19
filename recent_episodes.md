@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-18 13:17:00
+Last updated: 2025-03-19 03:03:28
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-03-18 13:17:00
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 856: You’ve Come to the Right Person
+### The science behind dramatically better conversations | Charles Duhigg
 
-**Released:** 2025-03-16 18:00:00
+**Released:** 2025-03-18 15:05:50
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d98bcefe6b19f2d24bdd87/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to see the future coming — and prepare for it | Jane McGonigal
 
@@ -56,33 +54,25 @@ Last updated: 2025-03-18 13:17:00
 
 ---
 
-### A concrete plan for sustainable cement | Ryan Gilliam
+## This American Life
 
-**Released:** 2025-03-13 15:12:19
+### 856: You’ve Come to the Right Person
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2f5d337c61de896b921ee/media.mp3)
+**Released:** 2025-03-16 18:00:00
 
----
-
-## Planet Money
-
-### How Tupperware took over our homes, with Decoder Ring
-
-**Released:** 2025-03-14 22:13:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
-
----
-
-### The last time we shrank the federal workforce
-
-**Released:** 2025-03-12 22:40:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2291 - Bert Kreischer
+
+**Released:** 2025-03-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742315921)
+
+---
 
 ### #2290 - Michael Kosta
 
@@ -108,31 +98,21 @@ Last updated: 2025-03-18 13:17:00
 
 ---
 
-### #2287 - Josh Dubin & J.D. Tomlinson
+## Planet Money
 
-**Released:** 2025-03-11 17:00:00
+### How Tupperware took over our homes, with Decoder Ring
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8975359528.mp3?updated=1741713523)
+**Released:** 2025-03-14 22:13:17
 
----
-
-## 99% Invisible
-
-### What We're Reading
-
-**Released:** 2025-03-11 17:50:01
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fb170aca-4c3a-4057-b16f-3978adf055b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fb170aca-4c3a-4057-b16f-3978adf055b7&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
 
 ---
 
-## Hidden Brain
+### The last time we shrank the federal workforce
 
-### Did I Really Do That?
+**Released:** 2025-03-12 22:40:24
 
-**Released:** 2025-03-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
 
 ---
 
@@ -170,6 +150,26 @@ Last updated: 2025-03-18 13:17:00
 
 ---
 
+## Hidden Brain
+
+### Did I Really Do That?
+
+**Released:** 2025-03-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Beautiful West Oakland, California
+
+**Released:** 2025-03-18 14:42:58
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Skype and Kazaa: Niklas Zennström
@@ -198,52 +198,6 @@ Last updated: 2025-03-18 13:17:00
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: All In - Live from London
-
-**Released:** 2025-03-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
-
----
-
-### The Moth Podcast: Family Matters
-
-**Released:** 2025-03-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
-## The Tim Ferriss Show
-
-### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
-
-**Released:** 2025-03-12 13:16:56
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Adam Scott"
-
-**Released:** 2025-03-17 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: John Mulaney"
-
-**Released:** 2025-03-13 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Bill Burr Returns Again
@@ -267,6 +221,52 @@ Last updated: 2025-03-18 13:17:00
 **Released:** 2025-03-13 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
+
+**Released:** 2025-03-12 13:16:56
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: All In - Live from London
+
+**Released:** 2025-03-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+
+---
+
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+
+---
+
+## SmartLess 
+
+### "Adam Scott"
+
+**Released:** 2025-03-17 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: John Mulaney"
+
+**Released:** 2025-03-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54758c34-9518-408c-a8b2-0fb59aa4aa8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54758c34-9518-408c-a8b2-0fb59aa4aa8c&feed=hNaFxXpO)
 
 ---
 
