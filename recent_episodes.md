@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-19 13:16:39
+Last updated: 2025-03-20 03:01:57
+
+## Freakonomics Radio
+
+### 626. Ten Myths About the U.S. Tax System
+
+**Released:** 2025-03-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### An ethicist's guide to living a good life | Ira Bedzow
+
+**Released:** 2025-03-19 15:06:11
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67dadd64f48da980926aaee1/media.mp3)
+
+---
 
 ### The science behind dramatically better conversations | Charles Duhigg
 
@@ -36,34 +54,6 @@ Last updated: 2025-03-19 13:16:39
 
 ---
 
-### How AI models steal creative work — and what to do about it | Ed Newton-Rex
-
-**Released:** 2025-03-14 15:15:38
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2fa18a1c1a8e5558334b8/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 626. Ten Myths About the U.S. Tax System
-
-**Released:** 2025-03-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 856: You’ve Come to the Right Person
-
-**Released:** 2025-03-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
-
----
-
 ## Planet Money
 
 ### Escheat show (Update)
@@ -82,15 +72,25 @@ Last updated: 2025-03-19 13:16:39
 
 ---
 
-### The last time we shrank the federal workforce
+## This American Life
 
-**Released:** 2025-03-12 22:40:24
+### 856: You’ve Come to the Right Person
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7297788374.mp3?d=1640&size=26255030&e=1237991516&t=podcast&p=510289)
+**Released:** 2025-03-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2292 - Josh Waitzkin
+
+**Released:** 2025-03-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742403901)
+
+---
 
 ### #2291 - Bert Kreischer
 
@@ -113,14 +113,6 @@ Last updated: 2025-03-19 13:16:39
 **Released:** 2025-03-13 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3909612838.mp3?updated=1741886361)
-
----
-
-### #2288 - Jacques Vallée
-
-**Released:** 2025-03-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4754296416.mp3?updated=1741797589)
 
 ---
 
@@ -188,6 +180,16 @@ Last updated: 2025-03-19 13:16:39
 
 ---
 
+## The Tim Ferriss Show
+
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
+
+**Released:** 2025-03-19 21:26:05
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: All In - Live from London
@@ -203,50 +205,6 @@ Last updated: 2025-03-19 13:16:39
 **Released:** 2025-03-14 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bill Burr Returns Again
-
-**Released:** 2025-03-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/173a28b8-df2a-4de8-ab7c-970b5447a804/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=173a28b8-df2a-4de8-ab7c-970b5447a804&feed=dHoohVNH)
-
----
-
-### The Conan and Jordan Show – Geddy Lee
-
-**Released:** 2025-03-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a96cf784-c15d-4657-b6b8-ab7ea388dca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a96cf784-c15d-4657-b6b8-ab7ea388dca2&feed=dHoohVNH)
-
----
-
-### Conan Recaps the Oscars with Mike Sweeney
-
-**Released:** 2025-03-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Skype and Kazaa: Niklas Zennström
-
-**Released:** 2025-03-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jenn Hyman of Rent The Runway
-
-**Released:** 2025-03-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -294,13 +252,47 @@ Last updated: 2025-03-19 13:16:39
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #799: Richard Taylor and Greg Broadmore, Wētā Workshop — Untapping Creativity, Stories from The Lord of the Rings, The Magic of New Zealand, Four Tenets to Live By, and The Only Sentence of Self-Help You Need
+### Bill Burr Returns Again
 
-**Released:** 2025-03-12 13:16:56
+**Released:** 2025-03-17 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2b9fb664-9019-42b8-a8de-20f63ef5ecd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/173a28b8-df2a-4de8-ab7c-970b5447a804/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=173a28b8-df2a-4de8-ab7c-970b5447a804&feed=dHoohVNH)
+
+---
+
+### The Conan and Jordan Show – Geddy Lee
+
+**Released:** 2025-03-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a96cf784-c15d-4657-b6b8-ab7ea388dca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a96cf784-c15d-4657-b6b8-ab7ea388dca2&feed=dHoohVNH)
+
+---
+
+### Conan Recaps the Oscars with Mike Sweeney
+
+**Released:** 2025-03-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=92fbdefa-325c-4bf4-b21d-3b9a82e3b9bb&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Skype and Kazaa: Niklas Zennström
+
+**Released:** 2025-03-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jenn Hyman of Rent The Runway
+
+**Released:** 2025-03-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62ed3460-110e-4a3a-ae3a-2fb876286c7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
