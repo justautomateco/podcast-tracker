@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-20 13:14:13
+Last updated: 2025-03-21 03:04:59
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-03-20 13:14:13
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 856: You’ve Come to the Right Person
+### Is generosity the most underrated leadership skill? | Joe Davis
 
-**Released:** 2025-03-16 18:00:00
+**Released:** 2025-03-20 15:09:52
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db068ed79e9e19915762f6/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### An ethicist's guide to living a good life | Ira Bedzow
 
@@ -56,21 +54,13 @@ Last updated: 2025-03-20 13:14:13
 
 ---
 
-### A guide to self-love for skeptics | Dan Harris
+## This American Life
 
-**Released:** 2025-03-15 06:00:00
+### 856: You’ve Come to the Right Person
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2fb0237c61de896bb971c/media.mp3)
+**Released:** 2025-03-16 18:00:00
 
----
-
-## Hidden Brain
-
-### Did I Really Do That?
-
-**Released:** 2025-03-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
 
 ---
 
@@ -89,6 +79,50 @@ Last updated: 2025-03-20 13:14:13
 **Released:** 2025-03-14 22:13:17
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### Did I Really Do That?
+
+**Released:** 2025-03-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### The Highway of Tears (And Maybe Hope) 
+
+**Released:** 2025-03-20 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e3b9cb8d-7a3b-46b7-aba9-b2a6000da4bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: All About Egg Colors
+
+**Released:** 2025-03-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1f2acfe-d736-40e5-b804-b2a40160514e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Chelsea Hotel
+
+**Released:** 2025-03-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7bc9ae-fb78-446e-bbed-b2a30189c5a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How the Flu Works
+
+**Released:** 2025-03-15 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b84bd67-ce08-4813-b4e9-b2970146e93d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -128,76 +162,6 @@ Last updated: 2025-03-20 13:14:13
 
 ---
 
-### #2289 - Darryl Cooper
-
-**Released:** 2025-03-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3909612838.mp3?updated=1741886361)
-
----
-
-## Stuff You Should Know
-
-### The Highway of Tears (And Maybe Hope) 
-
-**Released:** 2025-03-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e3b9cb8d-7a3b-46b7-aba9-b2a6000da4bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: All About Egg Colors
-
-**Released:** 2025-03-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1f2acfe-d736-40e5-b804-b2a40160514e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Chelsea Hotel
-
-**Released:** 2025-03-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7bc9ae-fb78-446e-bbed-b2a30189c5a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How the Flu Works
-
-**Released:** 2025-03-15 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b84bd67-ce08-4813-b4e9-b2970146e93d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### Memorial Day, 2020 | Part 2
-
-**Released:** 2025-03-20 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: All In - Live from London
-
-**Released:** 2025-03-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
-
----
-
-### The Moth Podcast: Family Matters
-
-**Released:** 2025-03-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
 ## How I Built This
 
 ### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
@@ -213,6 +177,42 @@ Last updated: 2025-03-20 13:14:13
 **Released:** 2025-03-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Memorial Day, 2020 | Part 2
+
+**Released:** 2025-03-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Mary Claire Haver (on menopause)
+
+**Released:** 2025-03-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Andrew Schulz
+
+**Released:** 2025-03-17 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: I Quit
+
+**Released:** 2025-03-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,6 +242,34 @@ Last updated: 2025-03-20 13:14:13
 
 ---
 
+## The Tim Ferriss Show
+
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
+
+**Released:** 2025-03-19 21:26:05
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: All In - Live from London
+
+**Released:** 2025-03-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+
+---
+
+### The Moth Podcast: Family Matters
+
+**Released:** 2025-03-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
+
+---
+
 ## SmartLess 
 
 ### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
@@ -257,42 +285,6 @@ Last updated: 2025-03-20 13:14:13
 **Released:** 2025-03-17 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Mary Claire Haver (on menopause)
-
-**Released:** 2025-03-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Schulz
-
-**Released:** 2025-03-17 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: I Quit
-
-**Released:** 2025-03-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
