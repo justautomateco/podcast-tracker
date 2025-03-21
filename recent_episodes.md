@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-21 03:04:59
+Last updated: 2025-03-21 13:05:44
 
 ## Freakonomics Radio
 
-### 626. Ten Myths About the U.S. Tax System
+### Should America Be Run by … Trader Joe’s? (Update)
 
-**Released:** 2025-03-14 10:00:00
+**Released:** 2025-03-21 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/01442f89-22c9-4a92-bf72-aedf93ff43a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=01442f89-22c9-4a92-bf72-aedf93ff43a1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
 
 ---
 
@@ -54,16 +54,6 @@ Last updated: 2025-03-21 03:04:59
 
 ---
 
-## This American Life
-
-### 856: You’ve Come to the Right Person
-
-**Released:** 2025-03-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
-
----
-
 ## Planet Money
 
 ### Escheat show (Update)
@@ -89,6 +79,16 @@ Last updated: 2025-03-21 03:04:59
 **Released:** 2025-03-17 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+
+---
+
+## This American Life
+
+### 856: You’ve Come to the Right Person
+
+**Released:** 2025-03-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
 
 ---
 
@@ -180,17 +180,25 @@ Last updated: 2025-03-21 03:04:59
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### Memorial Day, 2020 | Part 2
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
 
-**Released:** 2025-03-20 04:01:00
+**Released:** 2025-03-19 21:26:05
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Children's Party
+
+**Released:** 2025-03-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mary Claire Haver (on menopause)
 
@@ -208,11 +216,13 @@ Last updated: 2025-03-21 03:04:59
 
 ---
 
-### Armchair Anonymous: I Quit
+## The Moth
 
-**Released:** 2025-03-14 07:35:00
+### The Moth Radio Hour: All In - Live from London
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6a401e0-eb19-4d5b-9089-9d9ec95698fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-03-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
 
 ---
 
@@ -234,42 +244,6 @@ Last updated: 2025-03-21 03:04:59
 
 ---
 
-### The Conan and Jordan Show – Geddy Lee
-
-**Released:** 2025-03-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a96cf784-c15d-4657-b6b8-ab7ea388dca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a96cf784-c15d-4657-b6b8-ab7ea388dca2&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: All In - Live from London
-
-**Released:** 2025-03-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
-
----
-
-### The Moth Podcast: Family Matters
-
-**Released:** 2025-03-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6060549268.mp3?updated=1741791650)
-
----
-
 ## SmartLess 
 
 ### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
@@ -285,6 +259,16 @@ Last updated: 2025-03-21 03:04:59
 **Released:** 2025-03-17 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
+
+---
+
+## Revisionist History
+
+### Memorial Day, 2020 | Part 2
+
+**Released:** 2025-03-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
