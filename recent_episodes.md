@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-22 03:02:09
+Last updated: 2025-03-22 13:00:46
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-03-22 03:02:09
 ---
 
 ## TED Talks Daily
+
+### An NBA champion's advice on being a top teammate | Shane Battier
+
+**Released:** 2025-03-22 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db05c413f133b29d6fad1f/media.mp3)
+
+---
 
 ### A survival guide for musicians in the age of AI | Harvey Mason jr.
 
@@ -53,14 +61,6 @@ Last updated: 2025-03-22 03:02:09
 **Released:** 2025-03-18 15:05:50
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d98bcefe6b19f2d24bdd87/media.mp3)
-
----
-
-### How to see the future coming — and prepare for it | Jane McGonigal
-
-**Released:** 2025-03-17 15:08:16
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d83ae0d1082558c5d72304/media.mp3)
 
 ---
 
@@ -128,17 +128,15 @@ Last updated: 2025-03-22 03:02:09
 
 ---
 
-## Revisionist History
+## Stuff You Should Know
 
-### Memorial Day, 2020 | Part 2
+### Selects: Seven - No, Wait, Five - Mysteries of the Art World
 
-**Released:** 2025-03-20 04:01:00
+**Released:** 2025-03-22 09:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cda2c4a1-ce42-4a4d-a7e0-b2a0013474b7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### The Highway of Tears (And Maybe Hope) 
 
@@ -164,14 +162,6 @@ Last updated: 2025-03-22 03:02:09
 
 ---
 
-### Selects: How the Flu Works
-
-**Released:** 2025-03-15 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b84bd67-ce08-4813-b4e9-b2970146e93d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
@@ -190,6 +180,16 @@ Last updated: 2025-03-22 03:02:09
 
 ---
 
+## Revisionist History
+
+### Memorial Day, 2020 | Part 2
+
+**Released:** 2025-03-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: All In - Live from London
@@ -197,6 +197,32 @@ Last updated: 2025-03-22 03:02:09
 **Released:** 2025-03-18 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Children's Party
+
+**Released:** 2025-03-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mary Claire Haver (on menopause)
+
+**Released:** 2025-03-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Andrew Schulz
+
+**Released:** 2025-03-17 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -233,32 +259,6 @@ Last updated: 2025-03-22 03:02:09
 **Released:** 2025-03-17 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Children's Party
-
-**Released:** 2025-03-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mary Claire Haver (on menopause)
-
-**Released:** 2025-03-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Schulz
-
-**Released:** 2025-03-17 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
