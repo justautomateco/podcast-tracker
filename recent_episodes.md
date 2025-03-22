@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-21 13:05:44
+Last updated: 2025-03-22 03:02:09
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
+## This American Life
+
+### 856: You’ve Come to the Right Person
+
+**Released:** 2025-03-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
+
+---
+
 ## TED Talks Daily
+
+### A survival guide for musicians in the age of AI | Harvey Mason jr.
+
+**Released:** 2025-03-21 15:07:50
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db064df48da9809275c7b2/media.mp3)
+
+---
 
 ### Is generosity the most underrated leadership skill? | Joe Davis
 
@@ -46,15 +64,15 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
-### How to set boundaries and find peace (w/ Nedra Glover Tawwab) | How to Be a Better Human
+## Planet Money
 
-**Released:** 2025-03-16 06:00:00
+### Can we just change how we measure GDP?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d2fc1c901b9ce97fdb13eb/media.mp3)
+**Released:** 2025-03-21 21:44:29
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### Escheat show (Update)
 
@@ -64,11 +82,29 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
-### How Tupperware took over our homes, with Decoder Ring
+## The Joe Rogan Experience
 
-**Released:** 2025-03-14 22:13:17
+### #2293 - Chris Williamson
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5485869028.mp3?d=1706&size=27305361&e=1238535892&t=podcast&p=510289)
+**Released:** 2025-03-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9925385764.mp3?updated=1742594984)
+
+---
+
+### #2292 - Josh Waitzkin
+
+**Released:** 2025-03-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559)
+
+---
+
+### #2291 - Bert Kreischer
+
+**Released:** 2025-03-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742595530)
 
 ---
 
@@ -82,13 +118,23 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
-## This American Life
+## 99% Invisible
 
-### 856: You’ve Come to the Right Person
+### Beautiful West Oakland, California
 
-**Released:** 2025-03-16 18:00:00
+**Released:** 2025-03-18 14:42:58
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Memorial Day, 2020 | Part 2
+
+**Released:** 2025-03-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -126,42 +172,6 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
-## 99% Invisible
-
-### Beautiful West Oakland, California
-
-**Released:** 2025-03-18 14:42:58
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2292 - Josh Waitzkin
-
-**Released:** 2025-03-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742403901)
-
----
-
-### #2291 - Bert Kreischer
-
-**Released:** 2025-03-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742315921)
-
----
-
-### #2290 - Michael Kosta
-
-**Released:** 2025-03-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8164608802.mp3?updated=1741971201)
-
----
-
 ## How I Built This
 
 ### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
@@ -177,42 +187,6 @@ Last updated: 2025-03-21 13:05:44
 **Released:** 2025-03-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Children's Party
-
-**Released:** 2025-03-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mary Claire Haver (on menopause)
-
-**Released:** 2025-03-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Schulz
-
-**Released:** 2025-03-17 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,13 +236,47 @@ Last updated: 2025-03-21 13:05:44
 
 ---
 
-## Revisionist History
+## Armchair Expert
 
-### Memorial Day, 2020 | Part 2
+### Armchair Anonymous: Children's Party
 
-**Released:** 2025-03-20 04:01:00
+**Released:** 2025-03-21 07:35:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mary Claire Haver (on menopause)
+
+**Released:** 2025-03-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Andrew Schulz
+
+**Released:** 2025-03-17 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-03-21 15:00:59
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
+
+**Released:** 2025-03-19 21:26:05
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
