@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-23 03:10:06
+Last updated: 2025-03-23 13:01:25
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-03-23 03:10:06
 ---
 
 ## TED Talks Daily
+
+### TED Talks Daily Book Club: Talk to Me | Rich Benjamin
+
+**Released:** 2025-03-23 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67dc3169f48da98092c418c1/media.mp3)
+
+---
 
 ### An NBA champion's advice on being a top teammate | Shane Battier
 
@@ -53,14 +61,6 @@ Last updated: 2025-03-23 03:10:06
 **Released:** 2025-03-19 15:06:11
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67dadd64f48da980926aaee1/media.mp3)
-
----
-
-### The science behind dramatically better conversations | Charles Duhigg
-
-**Released:** 2025-03-18 15:05:50
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67d98bcefe6b19f2d24bdd87/media.mp3)
 
 ---
 
@@ -116,6 +116,16 @@ Last updated: 2025-03-23 03:10:06
 
 ---
 
+## Hidden Brain
+
+### Did I Really Do That?
+
+**Released:** 2025-03-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Beautiful West Oakland, California
@@ -160,34 +170,6 @@ Last updated: 2025-03-23 03:10:06
 
 ---
 
-## Hidden Brain
-
-### Did I Really Do That?
-
-**Released:** 2025-03-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
-
----
-
-## How I Built This
-
-### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
-
-**Released:** 2025-03-20 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Skype and Kazaa: Niklas Zennström
-
-**Released:** 2025-03-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Memorial Day, 2020 | Part 2
@@ -195,24 +177,6 @@ Last updated: 2025-03-23 03:10:06
 **Released:** 2025-03-20 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
-
-**Released:** 2025-03-21 15:00:59
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,6 +226,24 @@ Last updated: 2025-03-23 03:10:06
 
 ---
 
+## How I Built This
+
+### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
+
+**Released:** 2025-03-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Skype and Kazaa: Niklas Zennström
+
+**Released:** 2025-03-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Children's Party
@@ -285,6 +267,24 @@ Last updated: 2025-03-23 03:10:06
 **Released:** 2025-03-17 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-03-21 15:00:59
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
+
+**Released:** 2025-03-19 21:26:05
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
