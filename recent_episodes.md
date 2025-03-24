@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-24 03:10:39
+Last updated: 2025-03-24 13:18:02
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-03-24 03:10:39
 **Released:** 2025-03-21 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 464: Invisible Made Visible
+
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
@@ -72,16 +82,6 @@ Last updated: 2025-03-24 03:10:39
 
 ---
 
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
-
----
-
 ## The Joe Rogan Experience
 
 ### Fight Companion - March 22, 2025
@@ -126,6 +126,16 @@ Last updated: 2025-03-24 03:10:39
 
 ---
 
+## 99% Invisible
+
+### Beautiful West Oakland, California
+
+**Released:** 2025-03-18 14:42:58
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: Seven - No, Wait, Five - Mysteries of the Art World
@@ -160,31 +170,21 @@ Last updated: 2025-03-24 03:10:39
 
 ---
 
-## 99% Invisible
+## How I Built This
 
-### Beautiful West Oakland, California
+### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
 
-**Released:** 2025-03-18 14:42:58
+**Released:** 2025-03-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
 
 **Released:** 2025-03-20 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Skype and Kazaa: Niklas Zennström
-
-**Released:** 2025-03-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/248d99f8-0215-4991-a0e9-248176cd46f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,6 +195,78 @@ Last updated: 2025-03-24 03:10:39
 **Released:** 2025-03-20 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Danny McBride
+
+**Released:** 2025-03-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+### I Hate Richmond
+
+**Released:** 2025-03-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Ike Barinholtz Returns Again
+
+**Released:** 2025-03-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Children's Party
+
+**Released:** 2025-03-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mary Claire Haver (on menopause)
+
+**Released:** 2025-03-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: All In - Live from London
+
+**Released:** 2025-03-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+
+---
+
+## SmartLess 
+
+### "John Lithgow"
+
+**Released:** 2025-03-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+
+---
+
+### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
+
+**Released:** 2025-03-20 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
 
 ---
 
@@ -213,78 +285,6 @@ Last updated: 2025-03-24 03:10:39
 **Released:** 2025-03-19 21:26:05
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Children's Party
-
-**Released:** 2025-03-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mary Claire Haver (on menopause)
-
-**Released:** 2025-03-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Schulz
-
-**Released:** 2025-03-17 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/629fe71e-bd65-43b7-905c-f51dfab643a1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
-
-**Released:** 2025-03-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
-
----
-
-### "Adam Scott"
-
-**Released:** 2025-03-17 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/594f0906-01ae-49f9-a151-883e07da7045/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=594f0906-01ae-49f9-a151-883e07da7045&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### I Hate Richmond
-
-**Released:** 2025-03-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
-
----
-
-### Bill Burr Returns Again
-
-**Released:** 2025-03-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/173a28b8-df2a-4de8-ab7c-970b5447a804/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=173a28b8-df2a-4de8-ab7c-970b5447a804&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: All In - Live from London
-
-**Released:** 2025-03-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
 
 ---
 
