@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-24 13:18:02
+Last updated: 2025-03-25 03:06:32
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-03-24 13:18:02
 ---
 
 ## TED Talks Daily
+
+### The key to navigating change with confidence | Kristy Ellmer
+
+**Released:** 2025-03-24 15:09:46
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e174e0639ec2394a821d5d/media.mp3)
+
+---
 
 ### TED Talks Daily Book Club: Talk to Me | Rich Benjamin
 
@@ -53,32 +61,6 @@ Last updated: 2025-03-24 13:18:02
 **Released:** 2025-03-20 15:09:52
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db068ed79e9e19915762f6/media.mp3)
-
----
-
-### An ethicist's guide to living a good life | Ira Bedzow
-
-**Released:** 2025-03-19 15:06:11
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67dadd64f48da980926aaee1/media.mp3)
-
----
-
-## Planet Money
-
-### Can we just change how we measure GDP?
-
-**Released:** 2025-03-21 21:44:29
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
-
----
-
-### Escheat show (Update)
-
-**Released:** 2025-03-19 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
 
 ---
 
@@ -116,23 +98,21 @@ Last updated: 2025-03-24 13:18:02
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Did I Really Do That?
+### Can we just change how we measure GDP?
 
-**Released:** 2025-03-17 19:00:00
+**Released:** 2025-03-21 21:44:29
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/09b7b981-f294-46f7-99a1-44b1fdac43a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=09b7b981-f294-46f7-99a1-44b1fdac43a8&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
 
 ---
 
-## 99% Invisible
+### Escheat show (Update)
 
-### Beautiful West Oakland, California
+**Released:** 2025-03-19 07:00:59
 
-**Released:** 2025-03-18 14:42:58
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
 
 ---
 
@@ -170,6 +150,26 @@ Last updated: 2025-03-24 13:18:02
 
 ---
 
+## Hidden Brain
+
+### The Moments that Change Us
+
+**Released:** 2025-03-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Beautiful West Oakland, California
+
+**Released:** 2025-03-18 14:42:58
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
@@ -198,21 +198,21 @@ Last updated: 2025-03-24 13:18:02
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Danny McBride
+### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
 
-**Released:** 2025-03-24 04:05:00
+**Released:** 2025-03-21 15:00:59
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### I Hate Richmond
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
 
-**Released:** 2025-03-20 04:05:00
+**Released:** 2025-03-19 21:26:05
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,6 +242,24 @@ Last updated: 2025-03-24 13:18:02
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Danny McBride
+
+**Released:** 2025-03-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+### I Hate Richmond
+
+**Released:** 2025-03-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: All In - Live from London
@@ -267,24 +285,6 @@ Last updated: 2025-03-24 13:18:02
 **Released:** 2025-03-20 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
-
-**Released:** 2025-03-21 15:00:59
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
