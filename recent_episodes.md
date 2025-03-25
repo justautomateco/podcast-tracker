@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-25 03:06:32
-
-## Freakonomics Radio
-
-### Should America Be Run by … Trader Joe’s? (Update)
-
-**Released:** 2025-03-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
-
----
+Last updated: 2025-03-25 13:17:36
 
 ## TED Talks Daily
 
@@ -64,6 +44,64 @@ Last updated: 2025-03-25 03:06:32
 
 ---
 
+## This American Life
+
+### 464: Invisible Made Visible
+
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+
+---
+
+## Freakonomics Radio
+
+### Should America Be Run by … Trader Joe’s? (Update)
+
+**Released:** 2025-03-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Can we just change how we measure GDP?
+
+**Released:** 2025-03-21 21:44:29
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
+
+---
+
+### Escheat show (Update)
+
+**Released:** 2025-03-19 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### The Moments that Change Us
+
+**Released:** 2025-03-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Beautiful West Oakland, California
+
+**Released:** 2025-03-18 14:42:58
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
 
 ### Fight Companion - March 22, 2025
@@ -98,25 +136,15 @@ Last updated: 2025-03-25 03:06:32
 
 ---
 
-## Planet Money
-
-### Can we just change how we measure GDP?
-
-**Released:** 2025-03-21 21:44:29
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
-
----
-
-### Escheat show (Update)
-
-**Released:** 2025-03-19 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
-
----
-
 ## Stuff You Should Know
+
+### The Assassination of Martin Luther King, Jr. Part I
+
+**Released:** 2025-03-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b62e31cd-8ccb-433b-a563-b2aa01734bd5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Seven - No, Wait, Five - Mysteries of the Art World
 
@@ -142,52 +170,6 @@ Last updated: 2025-03-25 03:06:32
 
 ---
 
-### The Chelsea Hotel
-
-**Released:** 2025-03-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7bc9ae-fb78-446e-bbed-b2a30189c5a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### The Moments that Change Us
-
-**Released:** 2025-03-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Beautiful West Oakland, California
-
-**Released:** 2025-03-18 14:42:58
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
-
-**Released:** 2025-03-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
-
-**Released:** 2025-03-20 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Memorial Day, 2020 | Part 2
@@ -198,21 +180,13 @@ Last updated: 2025-03-25 03:06:32
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
+### The Moth Radio Hour: The Love Hurts SLAM
 
-**Released:** 2025-03-21 15:00:59
+**Released:** 2025-03-25 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
 
 ---
 
@@ -260,13 +234,21 @@ Last updated: 2025-03-25 03:06:32
 
 ---
 
-## The Moth
+## How I Built This
 
-### The Moth Radio Hour: All In - Live from London
+### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
 
-**Released:** 2025-03-18 04:25:00
+**Released:** 2025-03-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5638330407.mp3?updated=1741790418)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
+
+**Released:** 2025-03-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +267,24 @@ Last updated: 2025-03-25 03:06:32
 **Released:** 2025-03-20 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-03-21 15:00:59
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
+
+**Released:** 2025-03-19 21:26:05
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
