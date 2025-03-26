@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-25 13:17:36
+Last updated: 2025-03-26 03:05:05
+
+## Freakonomics Radio
+
+### Should America Be Run by … Trader Joe’s? (Update)
+
+**Released:** 2025-03-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 464: Invisible Made Visible
+
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+
+---
 
 ## TED Talks Daily
+
+### The “hot shot rule” to help you become a better leader | Kat Cole
+
+**Released:** 2025-03-25 15:05:55
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e2c51562322291cd1abde5/media.mp3)
+
+---
 
 ### The key to navigating change with confidence | Kristy Ellmer
 
@@ -36,34 +64,6 @@ Last updated: 2025-03-25 13:17:36
 
 ---
 
-### Is generosity the most underrated leadership skill? | Joe Davis
-
-**Released:** 2025-03-20 15:09:52
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db068ed79e9e19915762f6/media.mp3)
-
----
-
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
-
----
-
-## Freakonomics Radio
-
-### Should America Be Run by … Trader Joe’s? (Update)
-
-**Released:** 2025-03-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Can we just change how we measure GDP?
@@ -79,26 +79,6 @@ Last updated: 2025-03-25 13:17:36
 **Released:** 2025-03-19 07:00:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### The Moments that Change Us
-
-**Released:** 2025-03-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Beautiful West Oakland, California
-
-**Released:** 2025-03-18 14:42:58
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e085fd78-d2d3-41ca-8565-03ae29d5b3d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e085fd78-d2d3-41ca-8565-03ae29d5b3d0&feed=BqbsxVfO)
 
 ---
 
@@ -125,14 +105,6 @@ Last updated: 2025-03-25 13:17:36
 **Released:** 2025-03-19 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559)
-
----
-
-### #2291 - Bert Kreischer
-
-**Released:** 2025-03-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6994452052.mp3?updated=1742595530)
 
 ---
 
@@ -170,6 +142,44 @@ Last updated: 2025-03-25 13:17:36
 
 ---
 
+## Hidden Brain
+
+### The Moments that Change Us
+
+**Released:** 2025-03-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Secret Mall Apartment
+
+**Released:** 2025-03-25 20:46:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
+
+**Released:** 2025-03-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
+
+**Released:** 2025-03-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Memorial Day, 2020 | Part 2
@@ -177,16 +187,6 @@ Last updated: 2025-03-25 13:17:36
 **Released:** 2025-03-20 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
 
 ---
 
@@ -234,21 +234,13 @@ Last updated: 2025-03-25 13:17:36
 
 ---
 
-## How I Built This
+## The Moth
 
-### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
+### The Moth Radio Hour: The Love Hurts SLAM
 
-**Released:** 2025-03-24 07:10:00
+**Released:** 2025-03-25 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
-
-**Released:** 2025-03-20 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
 
 ---
 
@@ -271,6 +263,14 @@ Last updated: 2025-03-25 13:17:36
 ---
 
 ## The Tim Ferriss Show
+
+### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
+
+**Released:** 2025-03-25 19:49:17
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
 
