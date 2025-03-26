@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-26 03:05:05
+Last updated: 2025-03-26 13:18:10
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-03-26 03:05:05
 **Released:** 2025-03-21 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
@@ -74,11 +64,33 @@ Last updated: 2025-03-26 03:05:05
 
 ---
 
-### Escheat show (Update)
+## This American Life
 
-**Released:** 2025-03-19 07:00:59
+### 464: Invisible Made Visible
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6599647862.mp3?d=1362&size=21804182&e=1239428617&t=podcast&p=510289)
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+
+---
+
+## Hidden Brain
+
+### The Moments that Change Us
+
+**Released:** 2025-03-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Secret Mall Apartment
+
+**Released:** 2025-03-25 20:46:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -110,6 +122,14 @@ Last updated: 2025-03-26 03:05:05
 
 ## Stuff You Should Know
 
+### Short Stuff: Poutine: Canada's Pride
+
+**Released:** 2025-03-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/56bebb6b-d7e1-4759-bda4-b2ac001f1aea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Assassination of Martin Luther King, Jr. Part I
 
 **Released:** 2025-03-25 09:00:00
@@ -131,34 +151,6 @@ Last updated: 2025-03-26 03:05:05
 **Released:** 2025-03-20 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e3b9cb8d-7a3b-46b7-aba9-b2a6000da4bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: All About Egg Colors
-
-**Released:** 2025-03-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1f2acfe-d736-40e5-b804-b2a40160514e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### The Moments that Change Us
-
-**Released:** 2025-03-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Secret Mall Apartment
-
-**Released:** 2025-03-25 20:46:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -192,6 +184,14 @@ Last updated: 2025-03-26 03:05:05
 
 ## Armchair Expert
 
+### Seth Rogen Returns Again
+
+**Released:** 2025-03-26 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f40c5ca7-79ca-4568-985b-20406686148a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Ike Barinholtz Returns Again
 
 **Released:** 2025-03-24 07:35:00
@@ -205,14 +205,6 @@ Last updated: 2025-03-26 03:05:05
 **Released:** 2025-03-21 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mary Claire Haver (on menopause)
-
-**Released:** 2025-03-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7daa0de-0db8-4752-9e72-8b358ae40923.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
