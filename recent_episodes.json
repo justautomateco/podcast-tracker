@@ -1,10 +1,17 @@
 [
   {
-    "guid": "f1160676-4c49-47b0-a180-4d107239d35a",
-    "episode_title": "Should America Be Run by \u2026 Trader Joe\u2019s? (Update)",
-    "release_date": "2025-03-21 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "37209 at https://www.thisamericanlife.org",
+    "episode_title": "464: Invisible Made Visible",
+    "release_date": "2025-03-23 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "67e1a01a7cf166247ae18f68",
+    "episode_title": "A fresh approach to resolving conflicts | Darya Shaikh",
+    "release_date": "2025-03-26 15:03:16",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e1a01a7cf166247ae18f68/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "67e2c51562322291cd1abde5",
@@ -35,11 +42,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "67db064df48da9809275c7b2",
-    "episode_title": "A survival guide for musicians in the age of AI | Harvey Mason jr.",
-    "release_date": "2025-03-21 15:07:50",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db064df48da9809275c7b2/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "f1160676-4c49-47b0-a180-4d107239d35a",
+    "episode_title": "Should America Be Run by \u2026 Trader Joe\u2019s? (Update)",
+    "release_date": "2025-03-21 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "395b17ab-b448-4ac1-b639-b8e3e4479d8e",
+    "episode_title": "Planet Money buys a mystery diamond",
+    "release_date": "2025-03-26 17:41:17",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "364da88b-ff42-4ab8-9a25-32c2dcf627b2",
@@ -47,13 +61,6 @@
     "release_date": "2025-03-21 21:44:29",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37209 at https://www.thisamericanlife.org",
-    "episode_title": "464: Invisible Made Visible",
-    "release_date": "2025-03-23 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "c7ec13c6-ff87-45b0-8916-e7631ade9170",
@@ -70,6 +77,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "0158b9aa-09c4-11f0-934c-9b63717ea1be",
+    "episode_title": "#2294 - Dr. Suzanne Humphries",
+    "release_date": "2025-03-26 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743009579",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "fb9a2ea6-0782-11f0-81df-ef034b63a7f2",
     "episode_title": "Fight Companion - March 22, 2025",
     "release_date": "2025-03-23 01:04:00",
@@ -81,13 +95,6 @@
     "episode_title": "#2293 - Chris Williamson",
     "release_date": "2025-03-21 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT9925385764.mp3?updated=1742594984",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "5731c40c-0447-11f0-8c19-7babfe5c587b",
-    "episode_title": "#2292 - Josh Waitzkin",
-    "release_date": "2025-03-19 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -119,6 +126,34 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "b441e666-76d2-11ef-92d1-e317e59914a5",
+    "episode_title": "The Moth Radio Hour: The Love Hurts SLAM",
+    "release_date": "2025-03-25 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "cab13bc1-e961-4c54-b16e-b2a501604e3b",
+    "episode_title": "Memorial Day, 2020 | Part 2",
+    "release_date": "2025-03-20 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "877e0808-49dd-4fca-a90f-d4dbfefd4829",
+    "episode_title": "Danny McBride",
+    "release_date": "2025-03-24 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "ce5f2d12-50bb-4a69-b7a5-1deabd12b7ec",
+    "episode_title": "I Hate Richmond",
+    "release_date": "2025-03-20 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/vYKDTVhtUaLFywBdlELrx4HGIyBx9OKapx9h_mqah5M",
     "episode_title": "Dr. Dennis Gross Skincare: Dennis and Carrie Gross",
     "release_date": "2025-03-24 07:10:00",
@@ -133,11 +168,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "cab13bc1-e961-4c54-b16e-b2a501604e3b",
-    "episode_title": "Memorial Day, 2020 | Part 2",
-    "release_date": "2025-03-20 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "0d7c9145-ed42-4c4a-a153-fb4d1b14533a",
+    "episode_title": "\"John Lithgow\"",
+    "release_date": "2025-03-24 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "26f2caf7-4132-4c1c-8875-f5ea87e2f48b",
+    "episode_title": "SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)",
+    "release_date": "2025-03-20 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/pvkx_T8py14L8d_tEgFn3hWvoz8wg23OqmvoBwLJmQ4",
@@ -161,41 +203,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "877e0808-49dd-4fca-a90f-d4dbfefd4829",
-    "episode_title": "Danny McBride",
-    "release_date": "2025-03-24 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "ce5f2d12-50bb-4a69-b7a5-1deabd12b7ec",
-    "episode_title": "I Hate Richmond",
-    "release_date": "2025-03-20 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "b441e666-76d2-11ef-92d1-e317e59914a5",
-    "episode_title": "The Moth Radio Hour: The Love Hurts SLAM",
-    "release_date": "2025-03-25 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "0d7c9145-ed42-4c4a-a153-fb4d1b14533a",
-    "episode_title": "\"John Lithgow\"",
-    "release_date": "2025-03-24 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "26f2caf7-4132-4c1c-8875-f5ea87e2f48b",
-    "episode_title": "SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)",
-    "release_date": "2025-03-20 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/vUuk0MtI2fiI4qgZOyW-u8OKkC_Pg_FHSLywp1echyI",
     "episode_title": "#802: Craig Mod \u2014 The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits ",
     "release_date": "2025-03-25 19:49:17",
@@ -207,13 +214,6 @@
     "episode_title": "#801: In Case You Missed It: February 2025 Recap of \"The Tim Ferriss Show\"",
     "release_date": "2025-03-21 15:00:59",
     "mp3_url": "https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Ho1Mp8nO2D0VeXK4bUOb3bT5hlzTP-cytuxa8AELdCY",
-    "episode_title": "#800: Ev Williams \u2014 The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More",
-    "release_date": "2025-03-19 21:26:05",
-    "mp3_url": "https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
   }
 ]

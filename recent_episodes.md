@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-26 13:18:10
+Last updated: 2025-03-27 03:06:02
 
-## Freakonomics Radio
+## This American Life
 
-### Should America Be Run by … Trader Joe’s? (Update)
+### 464: Invisible Made Visible
 
-**Released:** 2025-03-21 10:00:00
+**Released:** 2025-03-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
 ## TED Talks Daily
+
+### A fresh approach to resolving conflicts | Darya Shaikh
+
+**Released:** 2025-03-26 15:03:16
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e1a01a7cf166247ae18f68/media.mp3)
+
+---
 
 ### The “hot shot rule” to help you become a better leader | Kat Cole
 
@@ -46,31 +54,31 @@ Last updated: 2025-03-26 13:18:10
 
 ---
 
-### A survival guide for musicians in the age of AI | Harvey Mason jr.
+## Freakonomics Radio
 
-**Released:** 2025-03-21 15:07:50
+### Should America Be Run by … Trader Joe’s? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db064df48da9809275c7b2/media.mp3)
+**Released:** 2025-03-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
 
 ---
 
 ## Planet Money
+
+### Planet Money buys a mystery diamond
+
+**Released:** 2025-03-26 17:41:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
+
+---
 
 ### Can we just change how we measure GDP?
 
 **Released:** 2025-03-21 21:44:29
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
@@ -96,6 +104,14 @@ Last updated: 2025-03-26 13:18:10
 
 ## The Joe Rogan Experience
 
+### #2294 - Dr. Suzanne Humphries
+
+**Released:** 2025-03-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743009579)
+
+---
+
 ### Fight Companion - March 22, 2025
 
 **Released:** 2025-03-23 01:04:00
@@ -109,14 +125,6 @@ Last updated: 2025-03-26 13:18:10
 **Released:** 2025-03-21 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9925385764.mp3?updated=1742594984)
-
----
-
-### #2292 - Josh Waitzkin
-
-**Released:** 2025-03-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6229804334.mp3?updated=1742594559)
 
 ---
 
@@ -154,6 +162,44 @@ Last updated: 2025-03-26 13:18:10
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+
+---
+
+## Revisionist History
+
+### Memorial Day, 2020 | Part 2
+
+**Released:** 2025-03-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Danny McBride
+
+**Released:** 2025-03-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+### I Hate Richmond
+
+**Released:** 2025-03-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
+
+---
+
 ## How I Built This
 
 ### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
@@ -172,13 +218,21 @@ Last updated: 2025-03-26 13:18:10
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Memorial Day, 2020 | Part 2
+### "John Lithgow"
 
-**Released:** 2025-03-20 04:01:00
+**Released:** 2025-03-24 07:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+
+---
+
+### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
+
+**Released:** 2025-03-20 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
 
 ---
 
@@ -208,52 +262,6 @@ Last updated: 2025-03-26 13:18:10
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Danny McBride
-
-**Released:** 2025-03-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
-
----
-
-### I Hate Richmond
-
-**Released:** 2025-03-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
-
----
-
-## SmartLess 
-
-### "John Lithgow"
-
-**Released:** 2025-03-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
-
----
-
-### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
-
-**Released:** 2025-03-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
@@ -269,14 +277,6 @@ Last updated: 2025-03-26 13:18:10
 **Released:** 2025-03-21 15:00:59
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More
-
-**Released:** 2025-03-19 21:26:05
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
