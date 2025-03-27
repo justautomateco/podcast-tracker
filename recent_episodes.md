@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-27 03:06:02
+Last updated: 2025-03-27 13:17:07
 
-## This American Life
+## Freakonomics Radio
 
-### 464: Invisible Made Visible
+### Should America Be Run by … Trader Joe’s? (Update)
 
-**Released:** 2025-03-23 18:00:00
+**Released:** 2025-03-21 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
 
 ---
 
@@ -54,16 +54,6 @@ Last updated: 2025-03-27 03:06:02
 
 ---
 
-## Freakonomics Radio
-
-### Should America Be Run by … Trader Joe’s? (Update)
-
-**Released:** 2025-03-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Planet Money buys a mystery diamond
@@ -82,23 +72,13 @@ Last updated: 2025-03-27 03:06:02
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### The Moments that Change Us
+### 464: Invisible Made Visible
 
-**Released:** 2025-03-24 19:00:00
+**Released:** 2025-03-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Secret Mall Apartment
-
-**Released:** 2025-03-25 20:46:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
@@ -128,7 +108,35 @@ Last updated: 2025-03-27 03:06:02
 
 ---
 
+## Hidden Brain
+
+### The Moments that Change Us
+
+**Released:** 2025-03-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Secret Mall Apartment
+
+**Released:** 2025-03-25 20:46:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### The Assassination of Martin Luther King, Jr. Part II
+
+**Released:** 2025-03-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/39ad88c6-3f30-4cee-98f2-b2ab0144fded/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Poutine: Canada's Pride
 
@@ -154,53 +162,25 @@ Last updated: 2025-03-27 03:06:02
 
 ---
 
-### The Highway of Tears (And Maybe Hope) 
-
-**Released:** 2025-03-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e3b9cb8d-7a3b-46b7-aba9-b2a6000da4bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
-
----
-
 ## Revisionist History
 
-### Memorial Day, 2020 | Part 2
+### In Defense of Paw Patrol
 
-**Released:** 2025-03-20 04:01:00
+**Released:** 2025-03-27 04:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/cab13bc1-e961-4c54-b16e-b2a501604e3b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Danny McBride
-
-**Released:** 2025-03-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
-
----
-
-### I Hate Richmond
-
-**Released:** 2025-03-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ffe2454a-1d4a-4c43-ab8f-ae0acbfe91e8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
 ## How I Built This
+
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams
+
+**Released:** 2025-03-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6603d8f1-1a2b-4742-95d6-6e042078e19d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
 
@@ -210,29 +190,21 @@ Last updated: 2025-03-27 03:06:02
 
 ---
 
-### Advice Line with Leah Solivan of Taskrabbit (September 2024) 
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-03-20 07:10:00
+### Long In The Leg
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/638dce22-4382-41cd-8843-d53e701e7a51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-03-27 04:05:00
 
----
-
-## SmartLess 
-
-### "John Lithgow"
-
-**Released:** 2025-03-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
 
 ---
 
-### SmartLess Presents ClueLess! 137 - Word Workout (w/ Jeff Max)
+### Danny McBride
 
-**Released:** 2025-03-20 07:00:00
+**Released:** 2025-03-24 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1de61ac8-fb90-46b7-ab1a-77c57b2807ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1de61ac8-fb90-46b7-ab1a-77c57b2807ca&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
 
 ---
 
@@ -259,6 +231,26 @@ Last updated: 2025-03-27 03:06:02
 **Released:** 2025-03-21 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+
+---
+
+## SmartLess 
+
+### "John Lithgow"
+
+**Released:** 2025-03-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
 
 ---
 
