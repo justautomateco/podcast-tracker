@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-27 13:17:07
+Last updated: 2025-03-28 03:07:54
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
+## This American Life
+
+### 464: Invisible Made Visible
+
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+
+---
+
 ## TED Talks Daily
+
+### How industrial fishing sinks communities | Lamin Jassey
+
+**Released:** 2025-03-27 15:05:43
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e567ed883ec8176a15f375/media.mp3)
+
+---
 
 ### A fresh approach to resolving conflicts | Darya Shaikh
 
@@ -46,14 +64,6 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
-### An NBA champion's advice on being a top teammate | Shane Battier
-
-**Released:** 2025-03-22 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67db05c413f133b29d6fad1f/media.mp3)
-
----
-
 ## Planet Money
 
 ### Planet Money buys a mystery diamond
@@ -72,23 +82,21 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 464: Invisible Made Visible
+### #2295 - Scott Payne
 
-**Released:** 2025-03-23 18:00:00
+**Released:** 2025-03-27 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743094248)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2294 - Dr. Suzanne Humphries
 
 **Released:** 2025-03-26 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743009579)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476)
 
 ---
 
@@ -115,16 +123,6 @@ Last updated: 2025-03-27 13:17:07
 **Released:** 2025-03-24 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Secret Mall Apartment
-
-**Released:** 2025-03-25 20:46:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -162,13 +160,13 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
-## Revisionist History
+## 99% Invisible
 
-### In Defense of Paw Patrol
+### Secret Mall Apartment
 
-**Released:** 2025-03-27 04:01:00
+**Released:** 2025-03-25 20:46:45
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -190,6 +188,16 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
+## Revisionist History
+
+### In Defense of PAW Patrol
+
+**Released:** 2025-03-27 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Long In The Leg
@@ -205,6 +213,26 @@ Last updated: 2025-03-27 13:17:07
 **Released:** 2025-03-24 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+
+---
+
+## SmartLess 
+
+### "John Lithgow"
+
+**Released:** 2025-03-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
 
 ---
 
@@ -234,27 +262,15 @@ Last updated: 2025-03-27 13:17:07
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
-
----
-
-## SmartLess 
-
-### "John Lithgow"
-
-**Released:** 2025-03-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
+
+### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
+
+**Released:** 2025-03-27 18:30:31
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
 
