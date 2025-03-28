@@ -1,9 +1,9 @@
 [
   {
-    "guid": "f1160676-4c49-47b0-a180-4d107239d35a",
-    "episode_title": "Should America Be Run by \u2026 Trader Joe\u2019s? (Update)",
-    "release_date": "2025-03-21 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4",
+    "guid": "0632295f-e9f6-4121-b977-5e2262bac3d8",
+    "episode_title": "627. Sludge, Part 1: The World Is Drowning in It",
+    "release_date": "2025-03-28 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -98,6 +98,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "b731ce39-b395-43de-abac-8f45e6474264",
+    "episode_title": "Secret Mall Apartment",
+    "release_date": "2025-03-25 20:46:45",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "39ad88c6-3f30-4cee-98f2-b2ab0144fded",
     "episode_title": "The Assassination of Martin Luther King, Jr. Part II",
     "release_date": "2025-03-27 09:00:00",
@@ -126,11 +133,25 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "b731ce39-b395-43de-abac-8f45e6474264",
-    "episode_title": "Secret Mall Apartment",
-    "release_date": "2025-03-25 20:46:45",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "f494aeed-91fd-467a-9c70-b2ac0164f556",
+    "episode_title": "In Defense of PAW Patrol",
+    "release_date": "2025-03-27 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "e98d30f0-76d2-11ef-a8c5-d7b797a64c77",
+    "episode_title": "The Moth Podcast: March Madness",
+    "release_date": "2025-03-28 04:00:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b441e666-76d2-11ef-92d1-e317e59914a5",
+    "episode_title": "The Moth Radio Hour: The Love Hurts SLAM",
+    "release_date": "2025-03-25 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/-YacW-WsvV7qH1L7lfE4YkYeeymyLBF6H7Y7-r8IuRA",
@@ -147,13 +168,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "f494aeed-91fd-467a-9c70-b2ac0164f556",
-    "episode_title": "In Defense of PAW Patrol",
-    "release_date": "2025-03-27 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "038a0eaf-876b-48e8-b904-8e3d30af302d",
     "episode_title": "Long In The Leg",
     "release_date": "2025-03-27 04:05:00",
@@ -168,18 +182,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "b441e666-76d2-11ef-92d1-e317e59914a5",
-    "episode_title": "The Moth Radio Hour: The Love Hurts SLAM",
-    "release_date": "2025-03-25 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "0d7c9145-ed42-4c4a-a153-fb4d1b14533a",
     "episode_title": "\"John Lithgow\"",
     "release_date": "2025-03-24 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/fAF6i2_4RC6TDFWJeLirgwPR0XpPx7a11Uk1sZnKIgA",
+    "episode_title": "Armchair Anonymous: Animal Attack II",
+    "release_date": "2025-03-28 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/5a3d22b4-c616-4aa4-8bae-c60d186d197f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/pvkx_T8py14L8d_tEgFn3hWvoz8wg23OqmvoBwLJmQ4",
@@ -193,13 +207,6 @@
     "episode_title": "Ike Barinholtz Returns Again",
     "release_date": "2025-03-24 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/N--b8TbmMnRABMPtBc0htkP8Ck9qyzOWjHC3M9dxFYY",
-    "episode_title": "Armchair Anonymous: Children's Party",
-    "release_date": "2025-03-21 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   },
   {

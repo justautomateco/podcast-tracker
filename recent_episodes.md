@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-28 03:07:54
+Last updated: 2025-03-28 13:15:50
 
 ## Freakonomics Radio
 
-### Should America Be Run by … Trader Joe’s? (Update)
+### 627. Sludge, Part 1: The World Is Drowning in It
 
-**Released:** 2025-03-21 10:00:00
+**Released:** 2025-03-28 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd57766c-790f-429f-b17c-4572045cbb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd57766c-790f-429f-b17c-4572045cbb83&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
 
 ---
 
@@ -126,6 +126,16 @@ Last updated: 2025-03-28 03:07:54
 
 ---
 
+## 99% Invisible
+
+### Secret Mall Apartment
+
+**Released:** 2025-03-25 20:46:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### The Assassination of Martin Luther King, Jr. Part II
@@ -160,13 +170,31 @@ Last updated: 2025-03-28 03:07:54
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Secret Mall Apartment
+### In Defense of PAW Patrol
 
-**Released:** 2025-03-25 20:46:45
+**Released:** 2025-03-27 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Podcast: March Madness
+
+**Released:** 2025-03-28 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
+
+---
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
 
 ---
 
@@ -188,16 +216,6 @@ Last updated: 2025-03-28 03:07:54
 
 ---
 
-## Revisionist History
-
-### In Defense of PAW Patrol
-
-**Released:** 2025-03-27 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Long In The Leg
@@ -216,16 +234,6 @@ Last updated: 2025-03-28 03:07:54
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
-
----
-
 ## SmartLess 
 
 ### "John Lithgow"
@@ -237,6 +245,14 @@ Last updated: 2025-03-28 03:07:54
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Animal Attack II
+
+**Released:** 2025-03-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a3d22b4-c616-4aa4-8bae-c60d186d197f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Seth Rogen Returns Again
 
@@ -251,14 +267,6 @@ Last updated: 2025-03-28 03:07:54
 **Released:** 2025-03-24 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Children's Party
-
-**Released:** 2025-03-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24866ce1-dc19-49fd-8431-0126189ad1a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
