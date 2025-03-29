@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-28 13:15:50
+Last updated: 2025-03-29 03:04:05
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 464: Invisible Made Visible
+### Why joy and flexibility are good for business | Rosie Sargeant
 
-**Released:** 2025-03-23 18:00:00
+**Released:** 2025-03-28 15:10:43
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e56c99bf74401b77177fef/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How industrial fishing sinks communities | Lamin Jassey
 
@@ -56,15 +54,25 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-### TED Talks Daily Book Club: Talk to Me | Rich Benjamin
+## This American Life
 
-**Released:** 2025-03-23 06:00:00
+### 464: Invisible Made Visible
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67dc3169f48da98092c418c1/media.mp3)
+**Released:** 2025-03-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
 ## Planet Money
+
+### PM x Radiolab: Can the economy grow forever?
+
+**Released:** 2025-03-28 21:28:53
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
+
+---
 
 ### Planet Money buys a mystery diamond
 
@@ -74,21 +82,21 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-### Can we just change how we measure GDP?
+## The Joe Rogan Experience
 
-**Released:** 2025-03-21 21:44:29
+### #2296 - Big Jay Oakerson
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4013757298.mp3?d=1336&size=21382879&e=1239865438&t=podcast&p=510289)
+**Released:** 2025-03-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2295 - Scott Payne
 
 **Released:** 2025-03-27 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743094248)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743187540)
 
 ---
 
@@ -108,14 +116,6 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-### #2293 - Chris Williamson
-
-**Released:** 2025-03-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9925385764.mp3?updated=1742594984)
-
----
-
 ## Hidden Brain
 
 ### The Moments that Change Us
@@ -123,16 +123,6 @@ Last updated: 2025-03-28 13:15:50
 **Released:** 2025-03-24 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Secret Mall Apartment
-
-**Released:** 2025-03-25 20:46:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -170,31 +160,13 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-## Revisionist History
+## 99% Invisible
 
-### In Defense of PAW Patrol
+### Secret Mall Apartment
 
-**Released:** 2025-03-27 04:01:00
+**Released:** 2025-03-25 20:46:45
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Podcast: March Madness
-
-**Released:** 2025-03-28 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
-
----
-
-### The Moth Radio Hour: The Love Hurts SLAM
-
-**Released:** 2025-03-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
@@ -216,31 +188,21 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Long In The Leg
+### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
 
-**Released:** 2025-03-27 04:05:00
+**Released:** 2025-03-27 18:30:31
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
-
----
-
-### Danny McBride
-
-**Released:** 2025-03-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## SmartLess 
+### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
 
-### "John Lithgow"
+**Released:** 2025-03-25 19:49:17
 
-**Released:** 2025-03-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,29 +232,59 @@ Last updated: 2025-03-28 13:15:50
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
+### Long In The Leg
 
-**Released:** 2025-03-27 18:30:31
+**Released:** 2025-03-27 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
-
-**Released:** 2025-03-25 19:49:17
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
 
 ---
 
-### #801: In Case You Missed It: February 2025 Recap of "The Tim Ferriss Show"
+### Danny McBride
 
-**Released:** 2025-03-21 15:00:59
+**Released:** 2025-03-24 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Podcast: March Madness
+
+**Released:** 2025-03-28 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
+
+---
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+
+---
+
+## SmartLess 
+
+### "John Lithgow"
+
+**Released:** 2025-03-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+
+---
+
+## Revisionist History
+
+### In Defense of PAW Patrol
+
+**Released:** 2025-03-27 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
