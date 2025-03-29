@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-29 03:04:05
+Last updated: 2025-03-29 13:02:02
 
-## Freakonomics Radio
+## This American Life
 
-### 627. Sludge, Part 1: The World Is Drowning in It
+### 464: Invisible Made Visible
 
-**Released:** 2025-03-28 10:00:00
+**Released:** 2025-03-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
 
 ---
 
 ## TED Talks Daily
+
+### Work is broken. Gen Z can help fix it | Amanda Schneider
+
+**Released:** 2025-03-29 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e569af883ec8176a16ebaf/media.mp3)
+
+---
 
 ### Why joy and flexibility are good for business | Rosie Sargeant
 
@@ -46,39 +54,23 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
-### The key to navigating change with confidence | Kristy Ellmer
+## Freakonomics Radio
 
-**Released:** 2025-03-24 15:09:46
+### 627. Sludge, Part 1: The World Is Drowning in It
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e174e0639ec2394a821d5d/media.mp3)
+**Released:** 2025-03-28 10:00:00
 
----
-
-## This American Life
-
-### 464: Invisible Made Visible
-
-**Released:** 2025-03-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### PM x Radiolab: Can the economy grow forever?
+### The Moments that Change Us
 
-**Released:** 2025-03-28 21:28:53
+**Released:** 2025-03-24 19:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
-
----
-
-### Planet Money buys a mystery diamond
-
-**Released:** 2025-03-26 17:41:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
 
 ---
 
@@ -116,17 +108,43 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### The Moments that Change Us
+### PM x Radiolab: Can the economy grow forever?
 
-**Released:** 2025-03-24 19:00:00
+**Released:** 2025-03-28 21:28:53
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
+
+---
+
+### Planet Money buys a mystery diamond
+
+**Released:** 2025-03-26 17:41:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
+
+---
+
+## 99% Invisible
+
+### Secret Mall Apartment
+
+**Released:** 2025-03-25 20:46:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Selects: The Deal With Doulas
+
+**Released:** 2025-03-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3ff6bc79-b33c-4e8f-b7c1-b2ab01430ff6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Assassination of Martin Luther King, Jr. Part II
 
@@ -152,57 +170,13 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
-### Selects: Seven - No, Wait, Five - Mysteries of the Art World
+## Revisionist History
 
-**Released:** 2025-03-22 09:00:00
+### In Defense of PAW Patrol
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cda2c4a1-ce42-4a4d-a7e0-b2a0013474b7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-03-27 04:01:00
 
----
-
-## 99% Invisible
-
-### Secret Mall Apartment
-
-**Released:** 2025-03-25 20:46:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams
-
-**Released:** 2025-03-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6603d8f1-1a2b-4742-95d6-6e042078e19d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
-
-**Released:** 2025-03-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
-
-**Released:** 2025-03-27 18:30:31
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
-
-**Released:** 2025-03-25 19:49:17
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -232,24 +206,6 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Long In The Leg
-
-**Released:** 2025-03-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
-
----
-
-### Danny McBride
-
-**Released:** 2025-03-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: March Madness
@@ -268,6 +224,24 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
+## How I Built This
+
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams
+
+**Released:** 2025-03-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6603d8f1-1a2b-4742-95d6-6e042078e19d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
+
+**Released:** 2025-03-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "John Lithgow"
@@ -278,13 +252,39 @@ Last updated: 2025-03-29 03:04:05
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### In Defense of PAW Patrol
+### Long In The Leg
 
-**Released:** 2025-03-27 04:01:00
+**Released:** 2025-03-27 04:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
+
+---
+
+### Danny McBride
+
+**Released:** 2025-03-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
+
+**Released:** 2025-03-27 18:30:31
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
+
+**Released:** 2025-03-25 19:49:17
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
