@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-29 13:02:02
+Last updated: 2025-03-30 03:14:25
+
+## Freakonomics Radio
+
+### 627. Sludge, Part 1: The World Is Drowning in It
+
+**Released:** 2025-03-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -54,27 +64,33 @@ Last updated: 2025-03-29 13:02:02
 
 ---
 
-## Freakonomics Radio
+## Planet Money
 
-### 627. Sludge, Part 1: The World Is Drowning in It
+### PM x Radiolab: Can the economy grow forever?
 
-**Released:** 2025-03-28 10:00:00
+**Released:** 2025-03-28 21:28:53
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
 
 ---
 
-## Hidden Brain
+### Planet Money buys a mystery diamond
 
-### The Moments that Change Us
+**Released:** 2025-03-26 17:41:17
 
-**Released:** 2025-03-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2297 - Francis Foster & Konstantin Kisin
+
+**Released:** 2025-03-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
+
+---
 
 ### #2296 - Big Jay Oakerson
 
@@ -100,29 +116,13 @@ Last updated: 2025-03-29 13:02:02
 
 ---
 
-### Fight Companion - March 22, 2025
+## Hidden Brain
 
-**Released:** 2025-03-23 01:04:00
+### The Moments that Change Us
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4258617175.mp3?updated=1742694632)
+**Released:** 2025-03-24 19:00:00
 
----
-
-## Planet Money
-
-### PM x Radiolab: Can the economy grow forever?
-
-**Released:** 2025-03-28 21:28:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
-
----
-
-### Planet Money buys a mystery diamond
-
-**Released:** 2025-03-26 17:41:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ea1df36-4e77-4932-8315-abf1a1d6545b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ea1df36-4e77-4932-8315-abf1a1d6545b&feed=kwWc0lhf)
 
 ---
 
@@ -180,32 +180,6 @@ Last updated: 2025-03-29 13:02:02
 
 ---
 
-## Armchair Expert
-
-### Armchair Anonymous: Animal Attack II
-
-**Released:** 2025-03-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a3d22b4-c616-4aa4-8bae-c60d186d197f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Seth Rogen Returns Again
-
-**Released:** 2025-03-26 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f40c5ca7-79ca-4568-985b-20406686148a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ike Barinholtz Returns Again
-
-**Released:** 2025-03-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: March Madness
@@ -242,16 +216,6 @@ Last updated: 2025-03-29 13:02:02
 
 ---
 
-## SmartLess 
-
-### "John Lithgow"
-
-**Released:** 2025-03-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Long In The Leg
@@ -267,6 +231,42 @@ Last updated: 2025-03-29 13:02:02
 **Released:** 2025-03-24 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "John Lithgow"
+
+**Released:** 2025-03-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Animal Attack II
+
+**Released:** 2025-03-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a3d22b4-c616-4aa4-8bae-c60d186d197f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Seth Rogen Returns Again
+
+**Released:** 2025-03-26 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f40c5ca7-79ca-4568-985b-20406686148a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ike Barinholtz Returns Again
+
+**Released:** 2025-03-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
