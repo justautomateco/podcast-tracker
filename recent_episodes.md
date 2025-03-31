@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-03-31 03:13:38
+Last updated: 2025-03-31 13:18:48
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-03-31 03:13:38
 **Released:** 2025-03-28 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 857: Museum of Now
-
-**Released:** 2025-03-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2025-03-31 03:13:38
 
 ---
 
+## This American Life
+
+### 857: Museum of Now
+
+**Released:** 2025-03-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
+
+---
+
 ## Planet Money
 
 ### PM x Radiolab: Can the economy grow forever?
@@ -79,40 +79,6 @@ Last updated: 2025-03-31 03:13:38
 **Released:** 2025-03-26 17:41:17
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
-
----
-
-## The Joe Rogan Experience
-
-### #2297 - Francis Foster & Konstantin Kisin
-
-**Released:** 2025-03-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
-
----
-
-### #2296 - Big Jay Oakerson
-
-**Released:** 2025-03-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
-
----
-
-### #2295 - Scott Payne
-
-**Released:** 2025-03-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743187540)
-
----
-
-### #2294 - Dr. Suzanne Humphries
-
-**Released:** 2025-03-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476)
 
 ---
 
@@ -170,49 +136,37 @@ Last updated: 2025-03-31 03:13:38
 
 ---
 
-## How I Built This
+## The Joe Rogan Experience
 
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams
+### #2297 - Francis Foster & Konstantin Kisin
 
-**Released:** 2025-03-27 07:10:00
+**Released:** 2025-03-29 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6603d8f1-1a2b-4742-95d6-6e042078e19d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dr. Dennis Gross Skincare: Dennis and Carrie Gross
-
-**Released:** 2025-03-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/823fda8e-c3f7-4b84-9476-b42300641fdd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
 
 ---
 
-## Revisionist History
+### #2296 - Big Jay Oakerson
 
-### In Defense of PAW Patrol
+**Released:** 2025-03-28 17:00:00
 
-**Released:** 2025-03-27 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
 
 ---
 
-## The Moth
+### #2295 - Scott Payne
 
-### The Moth Podcast: March Madness
+**Released:** 2025-03-27 17:00:00
 
-**Released:** 2025-03-28 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743187540)
 
 ---
 
-### The Moth Radio Hour: The Love Hurts SLAM
+### #2294 - Dr. Suzanne Humphries
 
-**Released:** 2025-03-25 04:25:00
+**Released:** 2025-03-26 17:00:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476)
 
 ---
 
@@ -234,17 +188,89 @@ Last updated: 2025-03-31 03:13:38
 
 ---
 
+## Revisionist History
+
+### In Defense of PAW Patrol
+
+**Released:** 2025-03-27 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### John Mulaney Returns Once More
+
+**Released:** 2025-03-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8464fc96-6328-4f9f-b76c-55d8cedba4c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8464fc96-6328-4f9f-b76c-55d8cedba4c0&feed=dHoohVNH)
+
+---
+
+### Long In The Leg
+
+**Released:** 2025-03-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Podcast: March Madness
+
+**Released:** 2025-03-28 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
+
+---
+
+### The Moth Radio Hour: The Love Hurts SLAM
+
+**Released:** 2025-03-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1600951164.mp3?updated=1741875582)
+
+---
+
 ## SmartLess 
 
-### "John Lithgow"
+### "Elton John & Brandi Carlile"
 
-**Released:** 2025-03-24 07:01:00
+**Released:** 2025-03-31 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e41c9bd1-8afd-4b4c-b652-a4fa139ca2ea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Misfits Market: Abhi Ramesh
+
+**Released:** 2025-03-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/adc75d0a-bdad-4d1e-b47b-bf59ba497e6e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams
+
+**Released:** 2025-03-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6603d8f1-1a2b-4742-95d6-6e042078e19d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Eiza Gonzalez
+
+**Released:** 2025-03-31 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/71cb84c5-1a74-4ed2-bc42-d8e0cbab3c9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Animal Attack II
 
@@ -259,32 +285,6 @@ Last updated: 2025-03-31 03:13:38
 **Released:** 2025-03-26 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f40c5ca7-79ca-4568-985b-20406686148a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ike Barinholtz Returns Again
-
-**Released:** 2025-03-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e0cf9aa-5818-4a4a-888b-b556647154cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Long In The Leg
-
-**Released:** 2025-03-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a9e01798-1cdd-43e4-96f9-75fa1d819ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a9e01798-1cdd-43e4-96f9-75fa1d819ca2&feed=dHoohVNH)
-
----
-
-### Danny McBride
-
-**Released:** 2025-03-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68f3c14a-ec1d-4860-b2f4-4d8e9c6d000b&feed=dHoohVNH)
 
 ---
 
