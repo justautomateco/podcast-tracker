@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-01 13:35:38
+Last updated: 2025-04-02 03:08:06
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-04-01 13:35:38
 
 ---
 
+## This American Life
+
+### 857: Museum of Now
+
+**Released:** 2025-03-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How disgust drives your politics | Cindy Kam
+
+**Released:** 2025-04-01 16:49:26
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67ec19177828ca699ceff4cf/media.mp3)
+
+---
 
 ### Is parenting advice leading to more anxious kids? | Mathilde H. Ross
 
@@ -46,24 +64,6 @@ Last updated: 2025-04-01 13:35:38
 
 ---
 
-### How industrial fishing sinks communities | Lamin Jassey
-
-**Released:** 2025-03-27 15:05:43
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e567ed883ec8176a15f375/media.mp3)
-
----
-
-## This American Life
-
-### 857: Museum of Now
-
-**Released:** 2025-03-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
-
----
-
 ## Planet Money
 
 ### PM x Radiolab: Can the economy grow forever?
@@ -79,6 +79,50 @@ Last updated: 2025-04-01 13:35:38
 **Released:** 2025-03-26 17:41:17
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2952367269.mp3?d=1942&size=31074099&e=1240892101&t=podcast&p=510289)
+
+---
+
+## The Joe Rogan Experience
+
+### #2297 - Francis Foster & Konstantin Kisin
+
+**Released:** 2025-03-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
+
+---
+
+### #2296 - Big Jay Oakerson
+
+**Released:** 2025-03-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
+
+---
+
+### #2295 - Scott Payne
+
+**Released:** 2025-03-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743187540)
+
+---
+
+### #2294 - Dr. Suzanne Humphries
+
+**Released:** 2025-03-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476)
+
+---
+
+## 99% Invisible
+
+### The Great American Pyramid
+
+**Released:** 2025-04-01 20:50:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de919d5e-d3d7-44b0-ac0b-c43122924de5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de919d5e-d3d7-44b0-ac0b-c43122924de5&feed=BqbsxVfO)
 
 ---
 
@@ -126,65 +170,13 @@ Last updated: 2025-04-01 13:35:38
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Secret Mall Apartment
+### In Defense of PAW Patrol
 
-**Released:** 2025-03-25 20:46:45
+**Released:** 2025-03-27 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/729e8d62-2ab4-42eb-8003-904f49711917/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=729e8d62-2ab4-42eb-8003-904f49711917&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2297 - Francis Foster & Konstantin Kisin
-
-**Released:** 2025-03-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
-
----
-
-### #2296 - Big Jay Oakerson
-
-**Released:** 2025-03-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
-
----
-
-### #2295 - Scott Payne
-
-**Released:** 2025-03-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9640330303.mp3?updated=1743187540)
-
----
-
-### #2294 - Dr. Suzanne Humphries
-
-**Released:** 2025-03-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1061251245.mp3?updated=1743096476)
-
----
-
-## The Tim Ferriss Show
-
-### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
-
-**Released:** 2025-03-27 18:30:31
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #802: Craig Mod — The Real Japan, Cheap Apartments in Tokyo, Productive Side Quests, Creative Retreats, Buying Future Freedom, and Being Possessed by Spirits 
-
-**Released:** 2025-03-25 19:49:17
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4af5b3bc-64f8-46d4-89d3-441f9cb9d607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -206,13 +198,21 @@ Last updated: 2025-04-01 13:35:38
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### In Defense of PAW Patrol
+### #804: Robert Rodriguez, The Wizard of Cinema Returns — The "Fear-Forward" Way of Life, How to Overcome Self-Doubt, Learning to Love Limitations, and Counter-Intuitive Parenting That Works
 
-**Released:** 2025-03-27 04:01:00
+**Released:** 2025-04-02 00:09:44
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f494aeed-91fd-467a-9c70-b2ac0164f556/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae7396-1f55-4303-9673-0a8e9695da7c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #803: Craig Mod Returns — Epic Walks in Japan, The Art of Slowness, Digital Detox, Publishing “Impossible” Books, and Choosing Beauty Over Scale
+
+**Released:** 2025-03-27 18:30:31
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d4192037-471f-45c7-94f3-8076b47c63f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,6 +242,24 @@ Last updated: 2025-04-01 13:35:38
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Delicious! Stories of Food & Feelings
+
+**Released:** 2025-04-01 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
+
+---
+
+### The Moth Podcast: March Madness
+
+**Released:** 2025-03-28 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### John Mulaney Returns Once More
@@ -267,24 +285,6 @@ Last updated: 2025-04-01 13:35:38
 **Released:** 2025-03-31 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Delicious! Stories of Food & Feelings
-
-**Released:** 2025-04-01 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
-
----
-
-### The Moth Podcast: March Madness
-
-**Released:** 2025-03-28 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
 
 ---
 
