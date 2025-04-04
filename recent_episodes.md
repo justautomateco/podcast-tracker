@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-04 03:06:57
+Last updated: 2025-04-04 13:17:02
 
 ## Freakonomics Radio
 
-### 627. Sludge, Part 1: The World Is Drowning in It
+### 628. Sludge, Part 2: Is Government the Problem, or the Solution?
 
-**Released:** 2025-03-28 10:00:00
+**Released:** 2025-04-04 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/86fb2504-da6b-4215-828f-7a5a26426cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=86fb2504-da6b-4215-828f-7a5a26426cb1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/37f33f60-213b-453e-b7b1-f516284376da/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=37f33f60-213b-453e-b7b1-f516284376da&feed=Y8lFbOT4)
 
 ---
 
@@ -54,16 +54,6 @@ Last updated: 2025-04-04 03:06:57
 
 ---
 
-## This American Life
-
-### 857: Museum of Now
-
-**Released:** 2025-03-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
-
----
-
 ## Planet Money
 
 ### Tariffs: what are they good for?
@@ -79,6 +69,16 @@ Last updated: 2025-04-04 03:06:57
 **Released:** 2025-03-28 21:28:53
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 857: Museum of Now
+
+**Released:** 2025-03-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
 
 ---
 
@@ -116,6 +116,16 @@ Last updated: 2025-04-04 03:06:57
 
 ---
 
+## Hidden Brain
+
+### Relationships 2.0: The Price of Disconnection
+
+**Released:** 2025-03-31 17:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e74331bf-e2ae-4ed3-a55c-d80c6e283ebc/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e74331bf-e2ae-4ed3-a55c-d80c6e283ebc&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
 
 ### The Pinkerton Detective Agency
@@ -150,16 +160,6 @@ Last updated: 2025-04-04 03:06:57
 
 ---
 
-## Hidden Brain
-
-### Relationships 2.0: The Price of Disconnection
-
-**Released:** 2025-03-31 17:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e74331bf-e2ae-4ed3-a55c-d80c6e283ebc/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e74331bf-e2ae-4ed3-a55c-d80c6e283ebc&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### The Great American Pyramid
@@ -167,6 +167,16 @@ Last updated: 2025-04-04 03:06:57
 **Released:** 2025-04-01 20:50:34
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de919d5e-d3d7-44b0-ac0b-c43122924de5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de919d5e-d3d7-44b0-ac0b-c43122924de5&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
+
+**Released:** 2025-04-03 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -188,17 +198,35 @@ Last updated: 2025-04-04 03:06:57
 
 ---
 
-## Revisionist History
+## The Moth
 
-### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
+### The Moth Radio Hour: Delicious! Stories of Food & Feelings
 
-**Released:** 2025-04-03 04:01:00
+**Released:** 2025-04-01 04:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
+
+---
+
+## SmartLess 
+
+### "Elton John & Brandi Carlile"
+
+**Released:** 2025-03-31 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Meet Cute II
+
+**Released:** 2025-04-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abbb3b5a-46a0-4fcf-a71a-dc5b2b06759a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Herman Pontzer (on evolutionary anthropology)
 
@@ -213,14 +241,6 @@ Last updated: 2025-04-04 03:06:57
 **Released:** 2025-03-31 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/71cb84c5-1a74-4ed2-bc42-d8e0cbab3c9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Animal Attack II
-
-**Released:** 2025-03-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a3d22b4-c616-4aa4-8bae-c60d186d197f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -239,34 +259,6 @@ Last updated: 2025-04-04 03:06:57
 **Released:** 2025-03-31 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8464fc96-6328-4f9f-b76c-55d8cedba4c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8464fc96-6328-4f9f-b76c-55d8cedba4c0&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Delicious! Stories of Food & Feelings
-
-**Released:** 2025-04-01 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
-
----
-
-### The Moth Podcast: March Madness
-
-**Released:** 2025-03-28 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4536961132.mp3?updated=1743003883)
-
----
-
-## SmartLess 
-
-### "Elton John & Brandi Carlile"
-
-**Released:** 2025-03-31 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
 
 ---
 
