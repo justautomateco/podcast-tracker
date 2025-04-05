@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-05 03:04:55
+Last updated: 2025-04-05 13:01:47
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-04-05 03:04:55
 
 ---
 
+## This American Life
+
+### 857: Museum of Now
+
+**Released:** 2025-03-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
+
+---
+
 ## TED Talks Daily
+
+### The brilliance of "Bluey" — and why parents love it, too | Sarina Petersen
+
+**Released:** 2025-04-05 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67ed5b919524713132bd9870/media.mp3)
+
+---
 
 ### The best way to lower Earth’s temperature — fast | Daniel Zavala-Araiza
 
@@ -46,24 +64,6 @@ Last updated: 2025-04-05 03:04:55
 
 ---
 
-### Is parenting advice leading to more anxious kids? | Mathilde H. Ross
-
-**Released:** 2025-03-31 15:02:12
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eaae7574ce6156735c883b/media.mp3)
-
----
-
-## This American Life
-
-### 857: Museum of Now
-
-**Released:** 2025-03-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3)
-
----
-
 ## Planet Money
 
 ### How the War on Drugs got us... blueberries
@@ -89,58 +89,6 @@ Last updated: 2025-04-05 03:04:55
 **Released:** 2025-03-31 17:50:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e74331bf-e2ae-4ed3-a55c-d80c6e283ebc/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e74331bf-e2ae-4ed3-a55c-d80c6e283ebc&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### The Pinkerton Detective Agency
-
-**Released:** 2025-04-03 13:59:08
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9fbc55c-b7e2-44b1-9317-b2b400e00673/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Tulipmania
-
-**Released:** 2025-04-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b254834c-9e3e-42be-8449-b2b200e4a112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Climate Migration Works
-
-**Released:** 2025-04-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b08972c-9dca-4458-8443-b2b101801624/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The Deal With Doulas
-
-**Released:** 2025-03-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3ff6bc79-b33c-4e8f-b7c1-b2ab01430ff6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### A Walking Tour with Mr. Memphis
-
-**Released:** 2025-04-04 17:36:42
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
-
----
-
-### The Great American Pyramid
-
-**Released:** 2025-04-01 20:50:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de919d5e-d3d7-44b0-ac0b-c43122924de5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de919d5e-d3d7-44b0-ac0b-c43122924de5&feed=BqbsxVfO)
 
 ---
 
@@ -170,21 +118,65 @@ Last updated: 2025-04-05 03:04:55
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Jeff and Curran Dandurand of Jack Black Skin Care
+### A Walking Tour with Mr. Memphis
 
-**Released:** 2025-04-03 07:10:00
+**Released:** 2025-04-04 17:36:42
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e68670a4-8aa0-41d8-b9bc-579736125d7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
 
 ---
 
-### Misfits Market: Abhi Ramesh
+### The Great American Pyramid
 
-**Released:** 2025-03-31 07:10:00
+**Released:** 2025-04-01 20:50:34
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/adc75d0a-bdad-4d1e-b47b-bf59ba497e6e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de919d5e-d3d7-44b0-ac0b-c43122924de5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de919d5e-d3d7-44b0-ac0b-c43122924de5&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+### Selects: Agatha Christie: Queen of the Murder Mystery
+
+**Released:** 2025-04-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f856c94c-07de-482a-a83b-b2ae00f41f78/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Pinkerton Detective Agency
+
+**Released:** 2025-04-03 13:59:08
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9fbc55c-b7e2-44b1-9317-b2b400e00673/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Tulipmania
+
+**Released:** 2025-04-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b254834c-9e3e-42be-8449-b2b200e4a112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### How Climate Migration Works
+
+**Released:** 2025-04-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b08972c-9dca-4458-8443-b2b101801624/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Delicious! Stories of Food & Feelings
+
+**Released:** 2025-04-01 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
 
 ---
 
@@ -242,6 +234,24 @@ Last updated: 2025-04-05 03:04:55
 
 ---
 
+## How I Built This
+
+### Advice Line with Jeff and Curran Dandurand of Jack Black Skin Care
+
+**Released:** 2025-04-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e68670a4-8aa0-41d8-b9bc-579736125d7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Misfits Market: Abhi Ramesh
+
+**Released:** 2025-03-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/adc75d0a-bdad-4d1e-b47b-bf59ba497e6e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Elton John & Brandi Carlile"
@@ -249,16 +259,6 @@ Last updated: 2025-04-05 03:04:55
 **Released:** 2025-03-31 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Delicious! Stories of Food & Feelings
-
-**Released:** 2025-04-01 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
 
 ---
 
