@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-04 13:17:02
+Last updated: 2025-04-05 03:04:55
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-04-04 13:17:02
 ---
 
 ## TED Talks Daily
+
+### The best way to lower Earth’s temperature — fast | Daniel Zavala-Araiza
+
+**Released:** 2025-04-04 15:13:18
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eff70f506c6c628cdb8123/media.mp3)
+
+---
 
 ### The rise of China's homegrown brands — and why they matter | Roger Hu
 
@@ -46,32 +54,6 @@ Last updated: 2025-04-04 13:17:02
 
 ---
 
-### Sunday Pick: What happens to sex in midlife? A look at the "bedroom gap" | TED Health
-
-**Released:** 2025-03-30 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e56ba8bf74401b771732f2/media.mp3)
-
----
-
-## Planet Money
-
-### Tariffs: what are they good for?
-
-**Released:** 2025-04-02 22:16:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1328867153.mp3?d=1408&size=22529341&e=1242229719&t=podcast&p=510289)
-
----
-
-### PM x Radiolab: Can the economy grow forever?
-
-**Released:** 2025-03-28 21:28:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289)
-
----
-
 ## This American Life
 
 ### 857: Museum of Now
@@ -82,37 +64,21 @@ Last updated: 2025-04-04 13:17:02
 
 ---
 
-## The Joe Rogan Experience
+## Planet Money
 
-### #2299 - Dave Smith
+### How the War on Drugs got us... blueberries
 
-**Released:** 2025-04-03 17:00:00
+**Released:** 2025-04-04 22:52:10
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136)
-
----
-
-### #2298 - Kurt Metzger
-
-**Released:** 2025-04-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9166105369.mp3?updated=1743611598)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4187227305.mp3?d=1677&size=26838501&e=1242780124&t=podcast&p=510289)
 
 ---
 
-### #2297 - Francis Foster & Konstantin Kisin
+### Tariffs: what are they good for?
 
-**Released:** 2025-03-29 17:00:00
+**Released:** 2025-04-02 22:16:53
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
-
----
-
-### #2296 - Big Jay Oakerson
-
-**Released:** 2025-03-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1328867153.mp3?d=1408&size=22529341&e=1242229719&t=podcast&p=510289)
 
 ---
 
@@ -162,6 +128,14 @@ Last updated: 2025-04-04 13:17:02
 
 ## 99% Invisible
 
+### A Walking Tour with Mr. Memphis
+
+**Released:** 2025-04-04 17:36:42
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
+
+---
+
 ### The Great American Pyramid
 
 **Released:** 2025-04-01 20:50:34
@@ -170,13 +144,29 @@ Last updated: 2025-04-04 13:17:02
 
 ---
 
-## Revisionist History
+## The Joe Rogan Experience
 
-### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
+### #2299 - Dave Smith
 
-**Released:** 2025-04-03 04:01:00
+**Released:** 2025-04-03 17:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136)
+
+---
+
+### #2298 - Kurt Metzger
+
+**Released:** 2025-04-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9166105369.mp3?updated=1743611598)
+
+---
+
+### #2297 - Francis Foster & Konstantin Kisin
+
+**Released:** 2025-03-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453)
 
 ---
 
@@ -198,23 +188,13 @@ Last updated: 2025-04-04 13:17:02
 
 ---
 
-## The Moth
+## Revisionist History
 
-### The Moth Radio Hour: Delicious! Stories of Food & Feelings
+### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
 
-**Released:** 2025-04-01 04:00:00
+**Released:** 2025-04-03 04:01:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
-
----
-
-## SmartLess 
-
-### "Elton John & Brandi Carlile"
-
-**Released:** 2025-03-31 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -259,6 +239,26 @@ Last updated: 2025-04-04 13:17:02
 **Released:** 2025-03-31 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8464fc96-6328-4f9f-b76c-55d8cedba4c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8464fc96-6328-4f9f-b76c-55d8cedba4c0&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Elton John & Brandi Carlile"
+
+**Released:** 2025-03-31 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Delicious! Stories of Food & Feelings
+
+**Released:** 2025-04-01 04:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
 
 ---
 

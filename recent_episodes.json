@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "67eff70f506c6c628cdb8123",
+    "episode_title": "The best way to lower Earth\u2019s temperature \u2014 fast | Daniel Zavala-Araiza",
+    "release_date": "2025-04-04 15:13:18",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eff70f506c6c628cdb8123/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "67eea435506c6c628c7a7db0",
     "episode_title": "The rise of China's homegrown brands \u2014 and why they matter | Roger Hu",
     "release_date": "2025-04-03 15:07:32",
@@ -35,27 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "67e56ba8bf74401b771732f2",
-    "episode_title": "Sunday Pick: What happens to sex in midlife? A look at the \"bedroom gap\" | TED Health",
-    "release_date": "2025-03-30 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67e56ba8bf74401b771732f2/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "43a97b56-df56-4db9-b90d-37412a4982fb",
-    "episode_title": "Tariffs: what are they good for?",
-    "release_date": "2025-04-02 22:16:53",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1328867153.mp3?d=1408&size=22529341&e=1242229719&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "ec5b3b75-7b4d-42ba-85f0-c77b27f2feb5",
-    "episode_title": "PM x Radiolab: Can the economy grow forever?",
-    "release_date": "2025-03-28 21:28:53",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9017489645.mp3?d=2227&size=35645737&e=1241388988&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "45870 at https://www.thisamericanlife.org",
     "episode_title": "857: Museum of Now",
     "release_date": "2025-03-30 18:00:00",
@@ -63,32 +49,18 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "4e0d648c-1034-11f0-bce6-cf8c2d82ac26",
-    "episode_title": "#2299 - Dave Smith",
-    "release_date": "2025-04-03 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "7580767a-3531-482d-b963-0d0a8262c523",
+    "episode_title": "How the War on Drugs got us... blueberries",
+    "release_date": "2025-04-04 22:52:10",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4187227305.mp3?d=1677&size=26838501&e=1242780124&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "d5a5c088-0f71-11f0-aeb0-9b2193a44b6e",
-    "episode_title": "#2298 - Kurt Metzger",
-    "release_date": "2025-04-02 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9166105369.mp3?updated=1743611598",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0ad7399c-0c31-11f0-9161-53baa1840d5a",
-    "episode_title": "#2297 - Francis Foster & Konstantin Kisin",
-    "release_date": "2025-03-29 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "4f16abcc-0b61-11f0-8e06-8bd9d2782ba2",
-    "episode_title": "#2296 - Big Jay Oakerson",
-    "release_date": "2025-03-28 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4014732183.mp3?updated=1743181726",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "43a97b56-df56-4db9-b90d-37412a4982fb",
+    "episode_title": "Tariffs: what are they good for?",
+    "release_date": "2025-04-02 22:16:53",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1328867153.mp3?d=1408&size=22529341&e=1242229719&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "0cfc7d4d-91c8-4365-a944-d37407775c4b",
@@ -126,6 +98,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "cc65f0b4-d5cc-4cf5-82de-eea9722a1130",
+    "episode_title": "A Walking Tour with Mr. Memphis",
+    "release_date": "2025-04-04 17:36:42",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "dc24a7fd-96db-46c1-8bce-47255e40ec8e",
     "episode_title": "The Great American Pyramid",
     "release_date": "2025-04-01 20:50:34",
@@ -133,11 +112,25 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "5559e11e-ac3f-4a84-b9c3-b2b300e9140d",
-    "episode_title": "The Sporkful Presents: How Did \u2018Super Size Me\u2019 End Up In Schools? ",
-    "release_date": "2025-04-03 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "4e0d648c-1034-11f0-bce6-cf8c2d82ac26",
+    "episode_title": "#2299 - Dave Smith",
+    "release_date": "2025-04-03 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "d5a5c088-0f71-11f0-aeb0-9b2193a44b6e",
+    "episode_title": "#2298 - Kurt Metzger",
+    "release_date": "2025-04-02 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9166105369.mp3?updated=1743611598",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "0ad7399c-0c31-11f0-9161-53baa1840d5a",
+    "episode_title": "#2297 - Francis Foster & Konstantin Kisin",
+    "release_date": "2025-03-29 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5824085203.mp3?updated=1743267453",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "gid://art19-episode-locator/V0/UpXgxUVzjYooK7ltnFeeuyvhfN6LDaY-GlzcdQNJ5Fc",
@@ -154,18 +147,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "b467c318-76d2-11ef-92d1-7bec4083988b",
-    "episode_title": "The Moth Radio Hour: Delicious! Stories of Food & Feelings",
-    "release_date": "2025-04-01 04:00:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b217af05-7d1e-49af-972c-cf5220ba1ac5",
-    "episode_title": "\"Elton John & Brandi Carlile\"",
-    "release_date": "2025-03-31 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "5559e11e-ac3f-4a84-b9c3-b2b300e9140d",
+    "episode_title": "The Sporkful Presents: How Did \u2018Super Size Me\u2019 End Up In Schools? ",
+    "release_date": "2025-04-03 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/B_dUBbtukjkcG2hq1Enql8U9KNX3yc-qSjSNGoLdJ_4",
@@ -201,6 +187,20 @@
     "release_date": "2025-03-31 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8464fc96-6328-4f9f-b76c-55d8cedba4c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8464fc96-6328-4f9f-b76c-55d8cedba4c0&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "b217af05-7d1e-49af-972c-cf5220ba1ac5",
+    "episode_title": "\"Elton John & Brandi Carlile\"",
+    "release_date": "2025-03-31 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cd7faf9f-3aab-4c48-8d16-ced226449644/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cd7faf9f-3aab-4c48-8d16-ced226449644&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "b467c318-76d2-11ef-92d1-7bec4083988b",
+    "episode_title": "The Moth Radio Hour: Delicious! Stories of Food & Feelings",
+    "release_date": "2025-04-01 04:00:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/NXiqZGZ0xstZ3WFyK6hAJvB7WWRFE-Blo3CjAUih3Gw",
