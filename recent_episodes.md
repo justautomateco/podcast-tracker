@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-08 03:07:37
+Last updated: 2025-04-08 13:19:57
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-04-08 03:07:37
 **Released:** 2025-04-04 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/37f33f60-213b-453e-b7b1-f516284376da/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=37f33f60-213b-453e-b7b1-f516284376da&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 668: The Long Fuse
+
+**Released:** 2025-04-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-04-08 03:07:37
 **Released:** 2025-04-03 15:07:32
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eea435506c6c628c7a7db0/media.mp3)
-
----
-
-## This American Life
-
-### 668: The Long Fuse
-
-**Released:** 2025-04-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
 
 ---
 
@@ -116,40 +116,6 @@ Last updated: 2025-04-08 03:07:37
 
 ---
 
-## Stuff You Should Know
-
-### Selects: Agatha Christie: Queen of the Murder Mystery
-
-**Released:** 2025-04-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f856c94c-07de-482a-a83b-b2ae00f41f78/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Pinkerton Detective Agency
-
-**Released:** 2025-04-03 13:59:08
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9fbc55c-b7e2-44b1-9317-b2b400e00673/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Tulipmania
-
-**Released:** 2025-04-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b254834c-9e3e-42be-8449-b2b200e4a112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Climate Migration Works
-
-**Released:** 2025-04-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b08972c-9dca-4458-8443-b2b101801624/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Hidden Brain
 
 ### Relationships 2.0: Become a Better Negotiator
@@ -178,13 +144,37 @@ Last updated: 2025-04-08 03:07:37
 
 ---
 
-## Revisionist History
+## Stuff You Should Know
 
-### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
+### Editorial Cartoons: Art as Satire
 
-**Released:** 2025-04-03 04:01:00
+**Released:** 2025-04-08 09:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c59785b4-f5fa-4a0f-b9c1-b2b8015a2c9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Agatha Christie: Queen of the Murder Mystery
+
+**Released:** 2025-04-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f856c94c-07de-482a-a83b-b2ae00f41f78/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Pinkerton Detective Agency
+
+**Released:** 2025-04-03 13:59:08
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9fbc55c-b7e2-44b1-9317-b2b400e00673/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Tulipmania
+
+**Released:** 2025-04-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b254834c-9e3e-42be-8449-b2b200e4a112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -203,6 +193,72 @@ Last updated: 2025-04-08 03:07:37
 **Released:** 2025-04-03 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e68670a4-8aa0-41d8-b9bc-579736125d7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Sporkful Presents: How Did ‘Super Size Me’ End Up In Schools? 
+
+**Released:** 2025-04-03 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: For the Ages
+
+**Released:** 2025-04-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
+
+---
+
+## The Tim Ferriss Show
+
+### #804: Robert Rodriguez, The Wizard of Cinema Returns — The "Fear-Forward" Way of Life, How to Overcome Self-Doubt, Learning to Love Limitations, and Counter-Intuitive Parenting That Works
+
+**Released:** 2025-04-02 00:09:44
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae7396-1f55-4303-9673-0a8e9695da7c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### Conan O’Brien Wants Jason Bateman to Be His Friend
+
+**Released:** 2025-04-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
+
+---
+
+### "Maria Shriver"
+
+**Released:** 2025-04-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Christina Ricci
+
+**Released:** 2025-04-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
+
+---
+
+### Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney
+
+**Released:** 2025-04-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH)
 
 ---
 
@@ -229,54 +285,6 @@ Last updated: 2025-04-08 03:07:37
 **Released:** 2025-04-02 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7627470b-cd43-4b74-be8d-75012b064b24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Christina Ricci
-
-**Released:** 2025-04-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
-
----
-
-### Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney
-
-**Released:** 2025-04-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Maria Shriver"
-
-**Released:** 2025-04-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Delicious! Stories of Food & Feelings
-
-**Released:** 2025-04-01 04:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3232855836.mp3?updated=1742930335)
-
----
-
-## The Tim Ferriss Show
-
-### #804: Robert Rodriguez, The Wizard of Cinema Returns — The "Fear-Forward" Way of Life, How to Overcome Self-Doubt, Learning to Love Limitations, and Counter-Intuitive Parenting That Works
-
-**Released:** 2025-04-02 00:09:44
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae7396-1f55-4303-9673-0a8e9695da7c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
