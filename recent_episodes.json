@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "67f455e8546af57906aada79",
+    "episode_title": "Norse mythology\u2019s climate lessons for the future | Lauren Fadiman",
+    "release_date": "2025-04-08 15:10:22",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f455e8546af57906aada79/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "67f3ea7be86769259279378f",
     "episode_title": "Parkour! How the sport keeps your body and mind fit | Taylor Lynn Carpenter",
     "release_date": "2025-04-07 15:08:43",
@@ -39,13 +46,6 @@
     "episode_title": "The best way to lower Earth\u2019s temperature \u2014 fast | Daniel Zavala-Araiza",
     "release_date": "2025-04-04 15:13:18",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eff70f506c6c628cdb8123/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "67eea435506c6c628c7a7db0",
-    "episode_title": "The rise of China's homegrown brands \u2014 and why they matter | Roger Hu",
-    "release_date": "2025-04-03 15:07:32",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eea435506c6c628c7a7db0/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -98,17 +98,17 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "cb0f51bf-4343-4f87-9dd2-dd9e95e26fc6",
+    "episode_title": "Everything Is Tuberculosis",
+    "release_date": "2025-04-08 16:33:44",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "cc65f0b4-d5cc-4cf5-82de-eea9722a1130",
     "episode_title": "A Walking Tour with Mr. Memphis",
     "release_date": "2025-04-04 17:36:42",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "dc24a7fd-96db-46c1-8bce-47255e40ec8e",
-    "episode_title": "The Great American Pyramid",
-    "release_date": "2025-04-01 20:50:34",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de919d5e-d3d7-44b0-ac0b-c43122924de5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de919d5e-d3d7-44b0-ac0b-c43122924de5&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
   },
   {
@@ -140,6 +140,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "5559e11e-ac3f-4a84-b9c3-b2b300e9140d",
+    "episode_title": "The Sporkful Presents: How Did \u2018Super Size Me\u2019 End Up In Schools? ",
+    "release_date": "2025-04-03 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/VhlQffWNxgoMFIe_dUrXMI0JvMBvSn_MrARCpUxibz0",
     "episode_title": "Title Nine: Missy Park (October 2021)",
     "release_date": "2025-04-07 07:10:00",
@@ -152,55 +159,6 @@
     "release_date": "2025-04-03 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/e68670a4-8aa0-41d8-b9bc-579736125d7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "5559e11e-ac3f-4a84-b9c3-b2b300e9140d",
-    "episode_title": "The Sporkful Presents: How Did \u2018Super Size Me\u2019 End Up In Schools? ",
-    "release_date": "2025-04-03 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "b48f9a1e-76d2-11ef-92d1-878172d86914",
-    "episode_title": "The Moth Radio Hour: For the Ages",
-    "release_date": "2025-04-08 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/NXiqZGZ0xstZ3WFyK6hAJvB7WWRFE-Blo3CjAUih3Gw",
-    "episode_title": "#804: Robert Rodriguez, The Wizard of Cinema Returns \u2014 The \"Fear-Forward\" Way of Life, How to Overcome Self-Doubt, Learning to Love Limitations, and Counter-Intuitive Parenting That Works",
-    "release_date": "2025-04-02 00:09:44",
-    "mp3_url": "https://rss.art19.com/episodes/6cae7396-1f55-4303-9673-0a8e9695da7c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "066127ff-ce01-479e-af5a-f525a19da5a5",
-    "episode_title": "Conan O\u2019Brien Wants Jason Bateman to Be His Friend",
-    "release_date": "2025-04-08 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "0e02e84b-5b90-4784-b549-3648e25c3af0",
-    "episode_title": "\"Maria Shriver\"",
-    "release_date": "2025-04-07 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "c2496b06-aff2-47ca-a6bd-05809f8f9ee2",
-    "episode_title": "Christina Ricci",
-    "release_date": "2025-04-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "e01d2c60-9a08-43aa-a741-3ebd21647261",
-    "episode_title": "Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney",
-    "release_date": "2025-04-03 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/qW9WQyFArlhfcATZpFyVoTPN4SO9yYzZ8pvYCUqWHyM",
@@ -222,5 +180,40 @@
     "release_date": "2025-04-02 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/7627470b-cd43-4b74-be8d-75012b064b24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "c2496b06-aff2-47ca-a6bd-05809f8f9ee2",
+    "episode_title": "Christina Ricci",
+    "release_date": "2025-04-07 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e01d2c60-9a08-43aa-a741-3ebd21647261",
+    "episode_title": "Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney",
+    "release_date": "2025-04-03 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "066127ff-ce01-479e-af5a-f525a19da5a5",
+    "episode_title": "Conan O\u2019Brien Wants Jason Bateman to Be His Friend",
+    "release_date": "2025-04-08 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "0e02e84b-5b90-4784-b549-3648e25c3af0",
+    "episode_title": "\"Maria Shriver\"",
+    "release_date": "2025-04-07 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "b48f9a1e-76d2-11ef-92d1-878172d86914",
+    "episode_title": "The Moth Radio Hour: For the Ages",
+    "release_date": "2025-04-08 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827",
+    "podcast_name": "The Moth"
   }
 ]
