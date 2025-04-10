@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-09 13:37:08
+Last updated: 2025-04-10 03:08:17
+
+## This American Life
+
+### 668: The Long Fuse
+
+**Released:** 2025-04-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
+
+---
 
 ## TED Talks Daily
+
+### Why are we sending critical metals to the dump? | Jeff More
+
+**Released:** 2025-04-09 15:51:26
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f5478659cf07f9c9e729aa/media.mp3)
+
+---
 
 ### Norse mythology’s climate lessons for the future | Lauren Fadiman
 
@@ -36,14 +54,6 @@ Last updated: 2025-04-09 13:37:08
 
 ---
 
-### The best way to lower Earth’s temperature — fast | Daniel Zavala-Araiza
-
-**Released:** 2025-04-04 15:13:18
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67eff70f506c6c628cdb8123/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### Policymaking Is Not a Science — Yet (Update)
@@ -64,6 +74,14 @@ Last updated: 2025-04-09 13:37:08
 
 ## Planet Money
 
+### Do trade deficits matter?
+
+**Released:** 2025-04-09 23:54:33
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
+
+---
+
 ### How the War on Drugs got us... blueberries
 
 **Released:** 2025-04-04 22:52:10
@@ -72,49 +90,37 @@ Last updated: 2025-04-09 13:37:08
 
 ---
 
-### Tariffs: what are they good for?
+## The Joe Rogan Experience
 
-**Released:** 2025-04-02 22:16:53
+### #2302 - Ron White
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1328867153.mp3?d=1408&size=22529341&e=1242229719&t=podcast&p=510289)
+**Released:** 2025-04-09 17:00:00
 
----
-
-## This American Life
-
-### 668: The Long Fuse
-
-**Released:** 2025-04-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7586554322.mp3?updated=1744241220)
 
 ---
 
-## Hidden Brain
+### #2301 - Ben Lamm
 
-### Relationships 2.0: Become a Better Negotiator
+**Released:** 2025-04-07 17:00:00
 
-**Released:** 2025-04-07 18:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1452523793.mp3?updated=1744047157)
 
 ---
 
-## 99% Invisible
+### #2300 - Kyle Dunnigan
 
-### Everything Is Tuberculosis
+**Released:** 2025-04-05 17:00:00
 
-**Released:** 2025-04-08 16:33:44
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1114267836.mp3?updated=1743895084)
 
 ---
 
-### A Walking Tour with Mr. Memphis
+### #2299 - Dave Smith
 
-**Released:** 2025-04-04 17:36:42
+**Released:** 2025-04-03 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136)
 
 ---
 
@@ -152,37 +158,31 @@ Last updated: 2025-04-09 13:37:08
 
 ---
 
-## The Joe Rogan Experience
+## Hidden Brain
 
-### #2301 - Ben Lamm
+### Relationships 2.0: Become a Better Negotiator
 
-**Released:** 2025-04-07 17:00:00
+**Released:** 2025-04-07 18:30:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1452523793.mp3?updated=1744047157)
-
----
-
-### #2300 - Kyle Dunnigan
-
-**Released:** 2025-04-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1114267836.mp3?updated=1743895084)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
 
 ---
 
-### #2299 - Dave Smith
+## 99% Invisible
 
-**Released:** 2025-04-03 17:00:00
+### Everything Is Tuberculosis
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7405738561.mp3?updated=1743700136)
+**Released:** 2025-04-08 16:33:44
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
 
 ---
 
-### #2298 - Kurt Metzger
+### A Walking Tour with Mr. Memphis
 
-**Released:** 2025-04-02 17:00:00
+**Released:** 2025-04-04 17:36:42
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9166105369.mp3?updated=1743611598)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
 
 ---
 
@@ -193,6 +193,34 @@ Last updated: 2025-04-09 13:37:08
 **Released:** 2025-04-03 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5559e11e-ac3f-4a84-b9c3-b2b300e9140d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: For the Ages
+
+**Released:** 2025-04-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Christina Ricci
+
+**Released:** 2025-04-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
+
+---
+
+### Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney
+
+**Released:** 2025-04-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH)
 
 ---
 
@@ -214,21 +242,21 @@ Last updated: 2025-04-09 13:37:08
 
 ---
 
-## Conan O'Brien Needs A Friend
+## SmartLess 
 
-### Christina Ricci
+### Conan O’Brien Wants Jason Bateman to Be His Friend
 
-**Released:** 2025-04-07 04:05:00
+**Released:** 2025-04-08 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
 
 ---
 
-### Conan Recaps The Mark Twain Prize Ceremony With Mike Sweeney
+### "Maria Shriver"
 
-**Released:** 2025-04-03 04:05:00
+**Released:** 2025-04-07 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1ed0f916-c404-4ea5-a074-3c31daba3bd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1ed0f916-c404-4ea5-a074-3c31daba3bd0&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
 
 ---
 
@@ -258,31 +286,13 @@ Last updated: 2025-04-09 13:37:08
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### Conan O’Brien Wants Jason Bateman to Be His Friend
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
 
-**Released:** 2025-04-08 07:00:00
+**Released:** 2025-04-09 15:47:40
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
-
----
-
-### "Maria Shriver"
-
-**Released:** 2025-04-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: For the Ages
-
-**Released:** 2025-04-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
