@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-11 00:56:30
+Last updated: 2025-04-11 12:22:20
 
 ## Freakonomics Radio
+
+### 629. How Is Live Theater Still Alive?
+
+**Released:** 2025-04-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+
+---
 
 ### Policymaking Is Not a Science — Yet (Update)
 
 **Released:** 2025-04-09 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e0408c0f-122a-4994-bb18-8ddac9c24853/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e0408c0f-122a-4994-bb18-8ddac9c24853&feed=Y8lFbOT4)
-
----
-
-### 628. Sludge, Part 2: Is Government the Problem, or the Solution?
-
-**Released:** 2025-04-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/37f33f60-213b-453e-b7b1-f516284376da/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=37f33f60-213b-453e-b7b1-f516284376da&feed=Y8lFbOT4)
 
 ---
 
@@ -62,6 +62,24 @@ Last updated: 2025-04-11 00:56:30
 
 ---
 
+## Planet Money
+
+### Do trade deficits matter?
+
+**Released:** 2025-04-09 23:54:33
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
+
+---
+
+### How the War on Drugs got us... blueberries
+
+**Released:** 2025-04-04 22:52:10
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4187227305.mp3?d=1677&size=26838501&e=1242780124&t=podcast&p=510289)
+
+---
+
 ## This American Life
 
 ### 668: The Long Fuse
@@ -69,16 +87,6 @@ Last updated: 2025-04-11 00:56:30
 **Released:** 2025-04-06 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Become a Better Negotiator
-
-**Released:** 2025-04-07 18:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
 
 ---
 
@@ -116,39 +124,13 @@ Last updated: 2025-04-11 00:56:30
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### Do trade deficits matter?
+### Relationships 2.0: Become a Better Negotiator
 
-**Released:** 2025-04-09 23:54:33
+**Released:** 2025-04-07 18:30:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
-
----
-
-### How the War on Drugs got us... blueberries
-
-**Released:** 2025-04-04 22:52:10
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4187227305.mp3?d=1677&size=26838501&e=1242780124&t=podcast&p=510289)
-
----
-
-## 99% Invisible
-
-### Everything Is Tuberculosis
-
-**Released:** 2025-04-08 16:33:44
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
-
----
-
-### A Walking Tour with Mr. Memphis
-
-**Released:** 2025-04-04 17:36:42
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
 
 ---
 
@@ -186,6 +168,34 @@ Last updated: 2025-04-11 00:56:30
 
 ---
 
+## 99% Invisible
+
+### Everything Is Tuberculosis
+
+**Released:** 2025-04-08 16:33:44
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
+
+---
+
+### A Walking Tour with Mr. Memphis
+
+**Released:** 2025-04-04 17:36:42
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+
+**Released:** 2025-04-09 15:47:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Peter Rahal of RXBAR
@@ -214,6 +224,32 @@ Last updated: 2025-04-11 00:56:30
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Haven’t Confessed to Parents
+
+**Released:** 2025-04-11 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rebecca Lemov (on brainwashing)
+
+**Released:** 2025-04-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dove Cameron
+
+**Released:** 2025-04-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: For the Ages
@@ -224,13 +260,29 @@ Last updated: 2025-04-11 00:56:30
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+### The Conan and Jordan Show – Travel Memories
 
-**Released:** 2025-04-09 15:47:40
+**Released:** 2025-04-11 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db3c75bb-05a2-4013-b7a6-f3531385a11f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db3c75bb-05a2-4013-b7a6-f3531385a11f&feed=dHoohVNH)
+
+---
+
+### Snack Attack with Talent Coordinator Maddie Ogden
+
+**Released:** 2025-04-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a1f39ea-5447-4b92-b7a0-bffed6de98b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a1f39ea-5447-4b92-b7a0-bffed6de98b3&feed=dHoohVNH)
+
+---
+
+### Christina Ricci
+
+**Released:** 2025-04-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
 
 ---
 
@@ -257,50 +309,6 @@ Last updated: 2025-04-11 00:56:30
 **Released:** 2025-04-07 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Snack Attack with Talent Coordinator Maddie Ogden
-
-**Released:** 2025-04-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a1f39ea-5447-4b92-b7a0-bffed6de98b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a1f39ea-5447-4b92-b7a0-bffed6de98b3&feed=dHoohVNH)
-
----
-
-### Christina Ricci
-
-**Released:** 2025-04-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Rebecca Lemov (on brainwashing)
-
-**Released:** 2025-04-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dove Cameron
-
-**Released:** 2025-04-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Meet Cute II
-
-**Released:** 2025-04-04 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abbb3b5a-46a0-4fcf-a71a-dc5b2b06759a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
