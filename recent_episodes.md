@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-12 00:55:31
+Last updated: 2025-04-12 12:19:32
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-04-12 00:55:31
 ---
 
 ## TED Talks Daily
+
+### The art of vulnerability and connection with comedian Mae Martin | ReThinking with Adam Grant
+
+**Released:** 2025-04-12 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f40765546af5790684ee59/media.mp3)
+
+---
 
 ### Meet NEO, your robot butler in training | Bernt Børnich
 
@@ -51,14 +59,6 @@ Last updated: 2025-04-12 00:55:31
 **Released:** 2025-04-08 15:10:22
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f455e8546af57906aada79/media.mp3)
-
----
-
-### Parkour! How the sport keeps your body and mind fit | Taylor Lynn Carpenter
-
-**Released:** 2025-04-07 15:08:43
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f3ea7be86769259279378f/media.mp3)
 
 ---
 
@@ -132,17 +132,15 @@ Last updated: 2025-04-12 00:55:31
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### Relationships 2.0: Become a Better Negotiator
+### Selects: Cake: So Great. So, So Great
 
-**Released:** 2025-04-07 18:30:00
+**Released:** 2025-04-12 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24014ca3-ea55-4cca-bfac-b2b9014628a9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Behavioral Priming: Buy, Robot Human!
 
@@ -168,11 +166,13 @@ Last updated: 2025-04-12 00:55:31
 
 ---
 
-### Selects: Agatha Christie: Queen of the Murder Mystery
+## Hidden Brain
 
-**Released:** 2025-04-05 09:00:00
+### Relationships 2.0: Become a Better Negotiator
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f856c94c-07de-482a-a83b-b2ae00f41f78/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-04-07 18:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
 
 ---
 
@@ -183,52 +183,6 @@ Last updated: 2025-04-12 00:55:31
 **Released:** 2025-04-08 16:33:44
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Running Hot
-
-**Released:** 2025-04-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d6ed478d-a2ad-44e4-8e20-b2ba0185f9ff/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Haven’t Confessed to Parents
-
-**Released:** 2025-04-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rebecca Lemov (on brainwashing)
-
-**Released:** 2025-04-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dove Cameron
-
-**Released:** 2025-04-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: For the Ages
-
-**Released:** 2025-04-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
 
 ---
 
@@ -250,29 +204,33 @@ Last updated: 2025-04-12 00:55:31
 
 ---
 
-## SmartLess 
+## Revisionist History
 
-### "RE-RELEASE: Neil deGrasse Tyson"
+### Running Hot
 
-**Released:** 2025-04-10 07:00:00
+**Released:** 2025-04-10 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
-
----
-
-### Conan O’Brien Wants Jason Bateman to Be His Friend
-
-**Released:** 2025-04-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d6ed478d-a2ad-44e4-8e20-b2ba0185f9ff/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### "Maria Shriver"
+## The Tim Ferriss Show
 
-**Released:** 2025-04-07 07:01:00
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
+**Released:** 2025-04-09 15:47:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: For the Ages
+
+**Released:** 2025-04-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
 
 ---
 
@@ -302,13 +260,55 @@ Last updated: 2025-04-12 00:55:31
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+### Armchair Anonymous: Haven’t Confessed to Parents
 
-**Released:** 2025-04-09 15:47:40
+**Released:** 2025-04-11 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rebecca Lemov (on brainwashing)
+
+**Released:** 2025-04-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dove Cameron
+
+**Released:** 2025-04-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Neil deGrasse Tyson"
+
+**Released:** 2025-04-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
+
+---
+
+### Conan O’Brien Wants Jason Bateman to Be His Friend
+
+**Released:** 2025-04-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
+
+---
+
+### "Maria Shriver"
+
+**Released:** 2025-04-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
 
 ---
 
