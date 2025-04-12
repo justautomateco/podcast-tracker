@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-11 12:22:20
+Last updated: 2025-04-12 00:55:31
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-04-11 12:22:20
 ---
 
 ## TED Talks Daily
+
+### Meet NEO, your robot butler in training | Bernt Børnich
+
+**Released:** 2025-04-11 15:14:06
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f931bed5ed0d5b9dc65d88/media.mp3)
+
+---
 
 ### This is what a digital coup looks like | Carole Cadwalladr
 
@@ -54,32 +62,6 @@ Last updated: 2025-04-11 12:22:20
 
 ---
 
-### Sunday Pick: How to mix business and family | Fixable
-
-**Released:** 2025-04-06 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67ed5c68d4b40d7b30ea01c0/media.mp3)
-
----
-
-## Planet Money
-
-### Do trade deficits matter?
-
-**Released:** 2025-04-09 23:54:33
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
-
----
-
-### How the War on Drugs got us... blueberries
-
-**Released:** 2025-04-04 22:52:10
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4187227305.mp3?d=1677&size=26838501&e=1242780124&t=podcast&p=510289)
-
----
-
 ## This American Life
 
 ### 668: The Long Fuse
@@ -91,6 +73,14 @@ Last updated: 2025-04-11 12:22:20
 ---
 
 ## The Joe Rogan Experience
+
+### #2304 - Gary Brecka
+
+**Released:** 2025-04-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744393469)
+
+---
 
 ### #2303 - Dave Smith & Douglas Murray
 
@@ -121,6 +111,24 @@ Last updated: 2025-04-11 12:22:20
 **Released:** 2025-04-05 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1114267836.mp3?updated=1743895084)
+
+---
+
+## Planet Money
+
+### Trade war dispatch from Canada
+
+**Released:** 2025-04-11 23:20:57
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4906336112.mp3?d=1589&size=25426634&e=1244093033&t=podcast&p=510289)
+
+---
+
+### Do trade deficits matter?
+
+**Released:** 2025-04-09 23:54:33
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
 
 ---
 
@@ -178,42 +186,6 @@ Last updated: 2025-04-11 12:22:20
 
 ---
 
-### A Walking Tour with Mr. Memphis
-
-**Released:** 2025-04-04 17:36:42
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1a9f065e-8085-4322-a3f4-405e9d20bcc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1a9f065e-8085-4322-a3f4-405e9d20bcc4&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
-
-**Released:** 2025-04-09 15:47:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Advice Line with Peter Rahal of RXBAR
-
-**Released:** 2025-04-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Title Nine: Missy Park (October 2021)
-
-**Released:** 2025-04-07 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f485c2b2-fe68-4d70-a83f-c065d1d53d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Running Hot
@@ -260,29 +232,21 @@ Last updated: 2025-04-11 12:22:20
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### The Conan and Jordan Show – Travel Memories
+### Advice Line with Peter Rahal of RXBAR
 
-**Released:** 2025-04-11 04:05:00
+**Released:** 2025-04-10 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db3c75bb-05a2-4013-b7a6-f3531385a11f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db3c75bb-05a2-4013-b7a6-f3531385a11f&feed=dHoohVNH)
-
----
-
-### Snack Attack with Talent Coordinator Maddie Ogden
-
-**Released:** 2025-04-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a1f39ea-5447-4b92-b7a0-bffed6de98b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a1f39ea-5447-4b92-b7a0-bffed6de98b3&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Christina Ricci
+### Title Nine: Missy Park (October 2021)
 
-**Released:** 2025-04-07 04:05:00
+**Released:** 2025-04-07 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f485c2b2-fe68-4d70-a83f-c065d1d53d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -309,6 +273,42 @@ Last updated: 2025-04-11 12:22:20
 **Released:** 2025-04-07 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b257b5ce-1989-4acb-a806-fb4b3946116d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b257b5ce-1989-4acb-a806-fb4b3946116d&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Conan and Jordan Show – Travel Memories
+
+**Released:** 2025-04-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db3c75bb-05a2-4013-b7a6-f3531385a11f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db3c75bb-05a2-4013-b7a6-f3531385a11f&feed=dHoohVNH)
+
+---
+
+### Snack Attack with Talent Coordinator Maddie Ogden
+
+**Released:** 2025-04-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a1f39ea-5447-4b92-b7a0-bffed6de98b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a1f39ea-5447-4b92-b7a0-bffed6de98b3&feed=dHoohVNH)
+
+---
+
+### Christina Ricci
+
+**Released:** 2025-04-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb295797-9813-4a9a-8493-d17a6e6b6b9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb295797-9813-4a9a-8493-d17a6e6b6b9e&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+
+**Released:** 2025-04-09 15:47:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
