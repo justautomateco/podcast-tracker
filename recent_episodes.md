@@ -1,26 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-13 02:25:52
+Last updated: 2025-04-13 12:20:17
 
-## Freakonomics Radio
+## This American Life
 
-### 629. How Is Live Theater Still Alive?
+### 668: The Long Fuse
 
-**Released:** 2025-04-11 10:00:00
+**Released:** 2025-04-06 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
-
----
-
-### Policymaking Is Not a Science — Yet (Update)
-
-**Released:** 2025-04-09 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e0408c0f-122a-4994-bb18-8ddac9c24853/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e0408c0f-122a-4994-bb18-8ddac9c24853&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
 
 ---
 
 ## TED Talks Daily
+
+### Can big tech and privacy coexist? | Carole Cadwalladr and Chris Anderson
+
+**Released:** 2025-04-13 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67faf62310b3098e4ac25a88/media.mp3)
+
+---
 
 ### The art of vulnerability and connection with comedian Mae Martin | ReThinking with Adam Grant
 
@@ -54,11 +54,21 @@ Last updated: 2025-04-13 02:25:52
 
 ---
 
-### Norse mythology’s climate lessons for the future | Lauren Fadiman
+## Freakonomics Radio
 
-**Released:** 2025-04-08 15:10:22
+### 629. How Is Live Theater Still Alive?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f455e8546af57906aada79/media.mp3)
+**Released:** 2025-04-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+
+---
+
+### Policymaking Is Not a Science — Yet (Update)
+
+**Released:** 2025-04-09 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e0408c0f-122a-4994-bb18-8ddac9c24853/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e0408c0f-122a-4994-bb18-8ddac9c24853&feed=Y8lFbOT4)
 
 ---
 
@@ -80,6 +90,40 @@ Last updated: 2025-04-13 02:25:52
 
 ---
 
+## The Joe Rogan Experience
+
+### #2304 - Gary Brecka
+
+**Released:** 2025-04-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744393469)
+
+---
+
+### #2303 - Dave Smith & Douglas Murray
+
+**Released:** 2025-04-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9804632132.mp3?updated=1744306040)
+
+---
+
+### #2302 - Ron White
+
+**Released:** 2025-04-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7586554322.mp3?updated=1744241220)
+
+---
+
+### #2301 - Ben Lamm
+
+**Released:** 2025-04-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1452523793.mp3?updated=1744047157)
+
+---
+
 ## Hidden Brain
 
 ### Relationships 2.0: Become a Better Negotiator
@@ -87,6 +131,16 @@ Last updated: 2025-04-13 02:25:52
 **Released:** 2025-04-07 18:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Everything Is Tuberculosis
+
+**Released:** 2025-04-08 16:33:44
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
 
 ---
 
@@ -124,47 +178,13 @@ Last updated: 2025-04-13 02:25:52
 
 ---
 
-## 99% Invisible
+## The Moth
 
-### Everything Is Tuberculosis
+### The Moth Radio Hour: For the Ages
 
-**Released:** 2025-04-08 16:33:44
+**Released:** 2025-04-08 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2304 - Gary Brecka
-
-**Released:** 2025-04-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744393469)
-
----
-
-### #2303 - Dave Smith & Douglas Murray
-
-**Released:** 2025-04-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9804632132.mp3?updated=1744306040)
-
----
-
-### #2302 - Ron White
-
-**Released:** 2025-04-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7586554322.mp3?updated=1744241220)
-
----
-
-### #2301 - Ben Lamm
-
-**Released:** 2025-04-07 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1452523793.mp3?updated=1744047157)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
 
 ---
 
@@ -203,42 +223,6 @@ Last updated: 2025-04-13 02:25:52
 **Released:** 2025-04-09 15:47:40
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: For the Ages
-
-**Released:** 2025-04-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Haven’t Confessed to Parents
-
-**Released:** 2025-04-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rebecca Lemov (on brainwashing)
-
-**Released:** 2025-04-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dove Cameron
-
-**Released:** 2025-04-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -294,13 +278,29 @@ Last updated: 2025-04-13 02:25:52
 
 ---
 
-## This American Life
+## Armchair Expert
 
-### 668: The Long Fuse
+### Armchair Anonymous: Haven’t Confessed to Parents
 
-**Released:** 2025-04-06 18:00:00
+**Released:** 2025-04-11 07:35:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rebecca Lemov (on brainwashing)
+
+**Released:** 2025-04-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dove Cameron
+
+**Released:** 2025-04-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b5532f7b-3a76-43d8-aa67-1c7e2a3a2fd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
