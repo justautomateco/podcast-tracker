@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-15 00:57:48
+Last updated: 2025-04-15 12:22:34
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2025-04-15 00:57:48
 **Released:** 2025-04-09 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e0408c0f-122a-4994-bb18-8ddac9c24853/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e0408c0f-122a-4994-bb18-8ddac9c24853&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 858: How to Tell a Dumb American Story
-
-**Released:** 2025-04-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2801319086.mp3)
 
 ---
 
@@ -72,6 +62,16 @@ Last updated: 2025-04-15 00:57:48
 
 ---
 
+## This American Life
+
+### 858: How to Tell a Dumb American Story
+
+**Released:** 2025-04-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2801319086.mp3)
+
+---
+
 ## Planet Money
 
 ### Trade war dispatch from Canada
@@ -97,6 +97,16 @@ Last updated: 2025-04-15 00:57:48
 **Released:** 2025-04-14 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Everything Is Tuberculosis
+
+**Released:** 2025-04-08 16:33:44
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
 
 ---
 
@@ -126,17 +136,15 @@ Last updated: 2025-04-15 00:57:48
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Everything Is Tuberculosis
+### Kim Philby: Greatest Liar of All Time?
 
-**Released:** 2025-04-08 16:33:44
+**Released:** 2025-04-15 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7e7608b-b077-490d-b29e-b2bf017a480e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: Cake: So Great. So, So Great
 
@@ -162,11 +170,31 @@ Last updated: 2025-04-15 00:57:48
 
 ---
 
-### Editorial Cartoons: Art as Satire
+## How I Built This
 
-**Released:** 2025-04-08 09:00:00
+### Vizio: William Wang
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c59785b4-f5fa-4a0f-b9c1-b2b8015a2c9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-04-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Peter Rahal of RXBAR
+
+**Released:** 2025-04-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+
+**Released:** 2025-04-09 15:47:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -177,16 +205,6 @@ Last updated: 2025-04-15 00:57:48
 **Released:** 2025-04-10 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d6ed478d-a2ad-44e4-8e20-b2ba0185f9ff/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: For the Ages
-
-**Released:** 2025-04-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1654365518.mp3?updated=1743454827)
 
 ---
 
@@ -216,25 +234,33 @@ Last updated: 2025-04-15 00:57:48
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Vizio: William Wang
+### "Jeff Goldblum"
 
-**Released:** 2025-04-14 07:10:00
+**Released:** 2025-04-14 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
 
 ---
 
-### Advice Line with Peter Rahal of RXBAR
+### "RE-RELEASE: Neil deGrasse Tyson"
 
-**Released:** 2025-04-10 07:10:00
+**Released:** 2025-04-10 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### The Double-Billed QuixlQuaxl in Honor of Audu (Re-Release)
+
+**Released:** 2025-04-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5b3e8ee5-1adc-40d0-a3b7-71f3938d999d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5b3e8ee5-1adc-40d0-a3b7-71f3938d999d&feed=dHoohVNH)
+
+---
 
 ### Nathan Lane
 
@@ -260,39 +286,13 @@ Last updated: 2025-04-15 00:57:48
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Jeff Goldblum"
+### The Moth Radio Hour: Late Night
 
-**Released:** 2025-04-14 07:01:00
+**Released:** 2025-04-15 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Neil deGrasse Tyson"
-
-**Released:** 2025-04-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
-
----
-
-### Conan O’Brien Wants Jason Bateman to Be His Friend
-
-**Released:** 2025-04-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
-
-**Released:** 2025-04-09 15:47:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
 
 ---
 
