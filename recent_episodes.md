@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-14 12:22:54
+Last updated: 2025-04-15 00:57:48
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2025-04-14 12:22:54
 ---
 
 ## TED Talks Daily
+
+### Why thinking about death helps you live a better life | Alua Arthur
+
+**Released:** 2025-04-14 15:32:18
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67fd2a82d5ed0d5b9da9a262/media.mp3)
+
+---
 
 ### Can big tech and privacy coexist? | Carole Cadwalladr and Chris Anderson
 
@@ -64,14 +72,6 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
-### Why are we sending critical metals to the dump? | Jeff More
-
-**Released:** 2025-04-09 15:51:26
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f5478659cf07f9c9e729aa/media.mp3)
-
----
-
 ## Planet Money
 
 ### Trade war dispatch from Canada
@@ -90,13 +90,23 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
+## Hidden Brain
+
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+
+**Released:** 2025-04-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2304 - Gary Brecka
 
 **Released:** 2025-04-11 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744393469)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
 
 ---
 
@@ -116,11 +126,13 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
-### #2301 - Ben Lamm
+## 99% Invisible
 
-**Released:** 2025-04-07 17:00:00
+### Everything Is Tuberculosis
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1452523793.mp3?updated=1744047157)
+**Released:** 2025-04-08 16:33:44
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
 
 ---
 
@@ -158,44 +170,6 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
-## Hidden Brain
-
-### Relationships 2.0: Become a Better Negotiator
-
-**Released:** 2025-04-07 18:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bb10f6bd-ec6a-4ef7-8fa4-ad001f6dbad3&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Everything Is Tuberculosis
-
-**Released:** 2025-04-08 16:33:44
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Vizio: William Wang
-
-**Released:** 2025-04-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Peter Rahal of RXBAR
-
-**Released:** 2025-04-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Running Hot
@@ -216,29 +190,47 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Jeff Goldblum"
+### Bert Kreischer
 
-**Released:** 2025-04-14 07:01:00
+**Released:** 2025-04-14 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Neil deGrasse Tyson"
-
-**Released:** 2025-04-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Conan O’Brien Wants Jason Bateman to Be His Friend
+### Armchair Anonymous: Haven’t Confessed to Parents
 
-**Released:** 2025-04-08 07:00:00
+**Released:** 2025-04-11 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rebecca Lemov (on brainwashing)
+
+**Released:** 2025-04-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Vizio: William Wang
+
+**Released:** 2025-04-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Peter Rahal of RXBAR
+
+**Released:** 2025-04-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -268,29 +260,29 @@ Last updated: 2025-04-14 12:22:54
 
 ---
 
-## Armchair Expert
+## SmartLess 
 
-### Bert Kreischer
+### "Jeff Goldblum"
 
-**Released:** 2025-04-14 07:35:00
+**Released:** 2025-04-14 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Haven’t Confessed to Parents
-
-**Released:** 2025-04-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
 
 ---
 
-### Rebecca Lemov (on brainwashing)
+### "RE-RELEASE: Neil deGrasse Tyson"
 
-**Released:** 2025-04-09 07:35:00
+**Released:** 2025-04-10 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
+
+---
+
+### Conan O’Brien Wants Jason Bateman to Be His Friend
+
+**Released:** 2025-04-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bc9f6eb-ef82-4654-991c-c92381b586c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bc9f6eb-ef82-4654-991c-c92381b586c3&feed=hNaFxXpO)
 
 ---
 
