@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-15 12:22:34
+Last updated: 2025-04-16 00:57:30
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-04-15 12:22:34
 ---
 
 ## TED Talks Daily
+
+### OpenAI's Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025
+
+**Released:** 2025-04-15 15:18:42
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67fe78d266d94e7a628ffb22/media.mp3)
+
+---
 
 ### Why thinking about death helps you live a better life | Alua Arthur
 
@@ -54,14 +62,6 @@ Last updated: 2025-04-15 12:22:34
 
 ---
 
-### This is what a digital coup looks like | Carole Cadwalladr
-
-**Released:** 2025-04-10 15:07:05
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f6ef4c147c7d9dd6a6d01f/media.mp3)
-
----
-
 ## This American Life
 
 ### 858: How to Tell a Dumb American Story
@@ -90,27 +90,15 @@ Last updated: 2025-04-15 12:22:34
 
 ---
 
-## Hidden Brain
-
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
-
-**Released:** 2025-04-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Everything Is Tuberculosis
-
-**Released:** 2025-04-08 16:33:44
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e08f5cca-8ddf-4341-b909-c87e3e771ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e08f5cca-8ddf-4341-b909-c87e3e771ad9&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2305 - Rich Vos
+
+**Released:** 2025-04-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
+
+---
 
 ### #2304 - Gary Brecka
 
@@ -133,6 +121,26 @@ Last updated: 2025-04-15 12:22:34
 **Released:** 2025-04-09 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7586554322.mp3?updated=1744241220)
+
+---
+
+## Hidden Brain
+
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+
+**Released:** 2025-04-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### I've Got 1099 Problems...
+
+**Released:** 2025-04-15 17:15:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
 
 ---
 
@@ -188,16 +196,6 @@ Last updated: 2025-04-15 12:22:34
 
 ---
 
-## The Tim Ferriss Show
-
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
-
-**Released:** 2025-04-09 15:47:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Running Hot
@@ -208,53 +206,9 @@ Last updated: 2025-04-15 12:22:34
 
 ---
 
-## Armchair Expert
-
-### Bert Kreischer
-
-**Released:** 2025-04-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Haven’t Confessed to Parents
-
-**Released:** 2025-04-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rebecca Lemov (on brainwashing)
-
-**Released:** 2025-04-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jeff Goldblum"
-
-**Released:** 2025-04-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Neil deGrasse Tyson"
-
-**Released:** 2025-04-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
-### The Double-Billed QuixlQuaxl in Honor of Audu (Re-Release)
+### The Double-Billed QuixlQuaxl in Honor of Aadu (Re-Release)
 
 **Released:** 2025-04-15 04:05:00
 
@@ -293,6 +247,60 @@ Last updated: 2025-04-15 12:22:34
 **Released:** 2025-04-15 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
+
+---
+
+## The Tim Ferriss Show
+
+### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
+
+**Released:** 2025-04-09 15:47:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Jeff Goldblum"
+
+**Released:** 2025-04-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Neil deGrasse Tyson"
+
+**Released:** 2025-04-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Bert Kreischer
+
+**Released:** 2025-04-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Haven’t Confessed to Parents
+
+**Released:** 2025-04-11 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rebecca Lemov (on brainwashing)
+
+**Released:** 2025-04-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74ee43cc-d74f-42db-a07f-34fd980350df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
