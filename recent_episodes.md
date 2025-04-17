@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-16 12:22:38
-
-## Freakonomics Radio
-
-### 629. How Is Live Theater Still Alive?
-
-**Released:** 2025-04-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 858: How to Tell a Dumb American Story
-
-**Released:** 2025-04-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2801319086.mp3)
-
----
+Last updated: 2025-04-17 00:56:43
 
 ## TED Talks Daily
+
+### Stop telling single people to get married | Peter McGraw
+
+**Released:** 2025-04-16 15:27:54
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67ffcb995d1edf45d2fc6316/media.mp3)
+
+---
 
 ### OpenAI's Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025
 
@@ -56,11 +44,23 @@ Last updated: 2025-04-16 12:22:38
 
 ---
 
-### Meet NEO, your robot butler in training | Bernt Børnich
+## Freakonomics Radio
 
-**Released:** 2025-04-11 15:14:06
+### 629. How Is Live Theater Still Alive?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f931bed5ed0d5b9dc65d88/media.mp3)
+**Released:** 2025-04-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 858: How to Tell a Dumb American Story
+
+**Released:** 2025-04-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
 
 ---
 
@@ -82,14 +82,6 @@ Last updated: 2025-04-16 12:22:38
 
 ---
 
-### Do trade deficits matter?
-
-**Released:** 2025-04-09 23:54:33
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8183785874.mp3?d=1417&size=22681479&e=1243652738&t=podcast&p=510289)
-
----
-
 ## Hidden Brain
 
 ### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
@@ -97,50 +89,6 @@ Last updated: 2025-04-16 12:22:38
 **Released:** 2025-04-14 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### I've Got 1099 Problems...
-
-**Released:** 2025-04-15 17:15:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2305 - Rich Vos
-
-**Released:** 2025-04-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
-
----
-
-### #2304 - Gary Brecka
-
-**Released:** 2025-04-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
-
----
-
-### #2303 - Dave Smith & Douglas Murray
-
-**Released:** 2025-04-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9804632132.mp3?updated=1744579670)
-
----
-
-### #2302 - Ron White
-
-**Released:** 2025-04-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7586554322.mp3?updated=1744241220)
 
 ---
 
@@ -178,6 +126,68 @@ Last updated: 2025-04-16 12:22:38
 
 ---
 
+## The Joe Rogan Experience
+
+### JRE MMA Show #166 with Ilia Topuria
+
+**Released:** 2025-04-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
+
+---
+
+### #2305 - Rich Vos
+
+**Released:** 2025-04-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
+
+---
+
+### #2304 - Gary Brecka
+
+**Released:** 2025-04-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
+
+---
+
+### #2303 - Dave Smith & Douglas Murray
+
+**Released:** 2025-04-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9804632132.mp3?updated=1744579670)
+
+---
+
+## 99% Invisible
+
+### I've Got 1099 Problems...
+
+**Released:** 2025-04-15 17:15:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Vizio: William Wang
+
+**Released:** 2025-04-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Peter Rahal of RXBAR
+
+**Released:** 2025-04-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Running Hot
@@ -185,6 +195,16 @@ Last updated: 2025-04-16 12:22:38
 **Released:** 2025-04-10 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d6ed478d-a2ad-44e4-8e20-b2ba0185f9ff/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+
+**Released:** 2025-04-16 19:23:27
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -232,24 +252,6 @@ Last updated: 2025-04-16 12:22:38
 
 ---
 
-## How I Built This
-
-### Vizio: William Wang
-
-**Released:** 2025-04-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Peter Rahal of RXBAR
-
-**Released:** 2025-04-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Jeff Goldblum"
@@ -291,16 +293,6 @@ Last updated: 2025-04-16 12:22:38
 **Released:** 2025-04-11 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #805: Philip Goff — Exploring Consciousness and Non-Ordinary Religion, Galileo's Error, Panpsychism, Heretical Ideas, and Therapeutic Belief
-
-**Released:** 2025-04-09 15:47:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdaf6792-7b2c-4e0c-bf7f-d306b7527ab4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
