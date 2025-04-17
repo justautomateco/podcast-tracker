@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-17 00:56:43
+Last updated: 2025-04-17 12:22:27
 
 ## TED Talks Daily
 
@@ -44,26 +44,6 @@ Last updated: 2025-04-17 00:56:43
 
 ---
 
-## Freakonomics Radio
-
-### 629. How Is Live Theater Still Alive?
-
-**Released:** 2025-04-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 858: How to Tell a Dumb American Story
-
-**Released:** 2025-04-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
-
----
-
 ## Planet Money
 
 ### OIRA: The tiny office that's about to remake the federal government
@@ -82,47 +62,23 @@ Last updated: 2025-04-17 00:56:43
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+### 858: How to Tell a Dumb American Story
 
-**Released:** 2025-04-14 19:00:00
+**Released:** 2025-04-13 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Tick tock goes the Doomsday Clock
-
-**Released:** 2025-04-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/19a1ef04-b2a3-4379-980c-b2c000d6dfd4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
 
 ---
 
-### Kim Philby: Greatest Liar of All Time?
+## Freakonomics Radio
 
-**Released:** 2025-04-15 09:00:00
+### 629. How Is Live Theater Still Alive?
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7e7608b-b077-490d-b29e-b2bf017a480e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-04-11 10:00:00
 
----
-
-### Selects: Cake: So Great. So, So Great
-
-**Released:** 2025-04-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24014ca3-ea55-4cca-bfac-b2b9014628a9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Behavioral Priming: Buy, Robot Human!
-
-**Released:** 2025-04-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/306d9d9f-1f5c-4d37-b2c9-b2ba015697f2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
 
 ---
 
@@ -160,6 +116,16 @@ Last updated: 2025-04-17 00:56:43
 
 ---
 
+## Hidden Brain
+
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+
+**Released:** 2025-04-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### I've Got 1099 Problems...
@@ -170,41 +136,37 @@ Last updated: 2025-04-17 00:56:43
 
 ---
 
-## How I Built This
+## Stuff You Should Know
 
-### Vizio: William Wang
+### What Makes Disaster Films Great
 
-**Released:** 2025-04-14 07:10:00
+**Released:** 2025-04-17 09:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Peter Rahal of RXBAR
-
-**Released:** 2025-04-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fe9ca76-492c-4d0d-856f-aeaebd4cb2cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcd2beb7-a96f-41f3-9050-b2c00121273a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-## Revisionist History
+### Short Stuff: Tick tock goes the Doomsday Clock
 
-### Running Hot
+**Released:** 2025-04-16 09:00:00
 
-**Released:** 2025-04-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d6ed478d-a2ad-44e4-8e20-b2ba0185f9ff/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/19a1ef04-b2a3-4379-980c-b2c000d6dfd4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-## The Tim Ferriss Show
+### Kim Philby: Greatest Liar of All Time?
 
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+**Released:** 2025-04-15 09:00:00
 
-**Released:** 2025-04-16 19:23:27
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7e7608b-b077-490d-b29e-b2bf017a480e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+### Selects: Cake: So Great. So, So Great
+
+**Released:** 2025-04-12 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24014ca3-ea55-4cca-bfac-b2b9014628a9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -218,7 +180,35 @@ Last updated: 2025-04-17 00:56:43
 
 ---
 
+## Revisionist History
+
+### The RFK Jr. Problem
+
+**Released:** 2025-04-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+
+**Released:** 2025-04-16 19:23:27
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
+
+### We’re gettin’ Belayed!
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
+
+---
 
 ### The Double-Billed QuixlQuaxl in Honor of Aadu (Re-Release)
 
@@ -241,32 +231,6 @@ Last updated: 2025-04-17 00:56:43
 **Released:** 2025-04-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db3c75bb-05a2-4013-b7a6-f3531385a11f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db3c75bb-05a2-4013-b7a6-f3531385a11f&feed=dHoohVNH)
-
----
-
-### Snack Attack with Talent Coordinator Maddie Ogden
-
-**Released:** 2025-04-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a1f39ea-5447-4b92-b7a0-bffed6de98b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a1f39ea-5447-4b92-b7a0-bffed6de98b3&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Jeff Goldblum"
-
-**Released:** 2025-04-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Neil deGrasse Tyson"
-
-**Released:** 2025-04-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4b9a3778-e9cd-45f4-b1ee-df0bbd06800b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4b9a3778-e9cd-45f4-b1ee-df0bbd06800b&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +257,42 @@ Last updated: 2025-04-17 00:56:43
 **Released:** 2025-04-11 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line with Andy Dunn of Bonobos
+
+**Released:** 2025-04-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Vizio: William Wang
+
+**Released:** 2025-04-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+### "Jeff Goldblum"
+
+**Released:** 2025-04-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
 
 ---
 
