@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-17 12:22:27
+Last updated: 2025-04-18 00:56:01
+
+## Freakonomics Radio
+
+### 629. How Is Live Theater Still Alive?
+
+**Released:** 2025-04-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The next computer? Your glasses | Shahram Izadi
+
+**Released:** 2025-04-17 16:07:57
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6801265c45e1f487c1bc5792/media.mp3)
+
+---
 
 ### Stop telling single people to get married | Peter McGraw
 
@@ -36,21 +54,13 @@ Last updated: 2025-04-17 12:22:27
 
 ---
 
-### The art of vulnerability and connection with comedian Mae Martin | ReThinking with Adam Grant
-
-**Released:** 2025-04-12 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f40765546af5790684ee59/media.mp3)
-
----
-
 ## Planet Money
 
 ### OIRA: The tiny office that's about to remake the federal government
 
 **Released:** 2025-04-16 07:00:26
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3154177903.mp3?d=1617&size=25874687&e=1245044458&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3154177903.mp3?d=1617&size=25880120&e=1245044458&t=podcast&p=510289)
 
 ---
 
@@ -72,17 +82,35 @@ Last updated: 2025-04-17 12:22:27
 
 ---
 
-## Freakonomics Radio
+## Hidden Brain
 
-### 629. How Is Live Theater Still Alive?
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
 
-**Released:** 2025-04-11 10:00:00
+**Released:** 2025-04-14 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### I've Got 1099 Problems...
+
+**Released:** 2025-04-15 17:15:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2306 - Deric Poston
+
+**Released:** 2025-04-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
+
+---
 
 ### JRE MMA Show #166 with Ilia Topuria
 
@@ -105,34 +133,6 @@ Last updated: 2025-04-17 12:22:27
 **Released:** 2025-04-11 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
-
----
-
-### #2303 - Dave Smith & Douglas Murray
-
-**Released:** 2025-04-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9804632132.mp3?updated=1744579670)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
-
-**Released:** 2025-04-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### I've Got 1099 Problems...
-
-**Released:** 2025-04-15 17:15:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
 
 ---
 
@@ -180,6 +180,24 @@ Last updated: 2025-04-17 12:22:27
 
 ---
 
+## How I Built This
+
+### Advice Line with Andy Dunn of Bonobos
+
+**Released:** 2025-04-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Vizio: William Wang
+
+**Released:** 2025-04-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The RFK Jr. Problem
@@ -187,16 +205,6 @@ Last updated: 2025-04-17 12:22:27
 **Released:** 2025-04-17 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
-
-**Released:** 2025-04-16 19:23:27
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +242,24 @@ Last updated: 2025-04-17 12:22:27
 
 ---
 
+## SmartLess 
+
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+### "Jeff Goldblum"
+
+**Released:** 2025-04-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### David Sedaris #5
@@ -260,39 +286,13 @@ Last updated: 2025-04-17 12:22:27
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with Andy Dunn of Bonobos
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
 
-**Released:** 2025-04-17 07:10:00
+**Released:** 2025-04-16 19:23:27
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Vizio: William Wang
-
-**Released:** 2025-04-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/535f3f87-160d-4371-a397-94dd339b4195.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
-
----
-
-### "Jeff Goldblum"
-
-**Released:** 2025-04-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
