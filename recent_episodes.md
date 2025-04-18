@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-18 00:56:01
+Last updated: 2025-04-18 12:21:26
 
 ## Freakonomics Radio
 
-### 629. How Is Live Theater Still Alive?
+### 630. On Broadway, Nobody Knows Nothing
 
-**Released:** 2025-04-11 10:00:00
+**Released:** 2025-04-18 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e286a30-24d3-4901-b774-50855bd484ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e286a30-24d3-4901-b774-50855bd484ec&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 858: How to Tell a Dumb American Story
+
+**Released:** 2025-04-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
 
 ---
 
@@ -72,36 +82,6 @@ Last updated: 2025-04-18 00:56:01
 
 ---
 
-## This American Life
-
-### 858: How to Tell a Dumb American Story
-
-**Released:** 2025-04-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
-
-**Released:** 2025-04-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### I've Got 1099 Problems...
-
-**Released:** 2025-04-15 17:15:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2306 - Deric Poston
@@ -133,6 +113,26 @@ Last updated: 2025-04-18 00:56:01
 **Released:** 2025-04-11 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
+
+---
+
+## Hidden Brain
+
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+
+**Released:** 2025-04-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### I've Got 1099 Problems...
+
+**Released:** 2025-04-15 17:15:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
 
 ---
 
@@ -170,13 +170,13 @@ Last updated: 2025-04-18 00:56:01
 
 ---
 
-## The Moth
+## Revisionist History
 
-### The Moth Radio Hour: Late Night
+### The RFK Jr. Problem
 
-**Released:** 2025-04-15 04:25:00
+**Released:** 2025-04-17 04:01:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -198,13 +198,65 @@ Last updated: 2025-04-18 00:56:01
 
 ---
 
-## Revisionist History
+## The Moth
 
-### The RFK Jr. Problem
+### The Moth Podcast: National Parks Week
 
-**Released:** 2025-04-17 04:01:00
+**Released:** 2025-04-18 04:25:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1038672192.mp3?updated=1744734116)
+
+---
+
+### The Moth Radio Hour: Late Night
+
+**Released:** 2025-04-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Cedar Point
+
+**Released:** 2025-04-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Sedaris #5
+
+**Released:** 2025-04-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bert Kreischer
+
+**Released:** 2025-04-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+### "Jeff Goldblum"
+
+**Released:** 2025-04-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
 
 ---
 
@@ -231,58 +283,6 @@ Last updated: 2025-04-18 00:56:01
 **Released:** 2025-04-14 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dc675430-d3e7-4d4f-a1cc-dd8313c6f69f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dc675430-d3e7-4d4f-a1cc-dd8313c6f69f&feed=dHoohVNH)
-
----
-
-### The Conan and Jordan Show – Travel Memories
-
-**Released:** 2025-04-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db3c75bb-05a2-4013-b7a6-f3531385a11f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db3c75bb-05a2-4013-b7a6-f3531385a11f&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
-
----
-
-### "Jeff Goldblum"
-
-**Released:** 2025-04-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### David Sedaris #5
-
-**Released:** 2025-04-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bert Kreischer
-
-**Released:** 2025-04-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Haven’t Confessed to Parents
-
-**Released:** 2025-04-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/285596cc-b0e0-483c-9fca-5ba0fb7d4847.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
