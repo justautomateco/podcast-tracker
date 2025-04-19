@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-18 12:21:26
-
-## Freakonomics Radio
-
-### 630. On Broadway, Nobody Knows Nothing
-
-**Released:** 2025-04-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 858: How to Tell a Dumb American Story
-
-**Released:** 2025-04-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
-
----
+Last updated: 2025-04-19 00:54:13
 
 ## TED Talks Daily
+
+### The hidden cost of the green transition's mineral rush | Galina Angarova
+
+**Released:** 2025-04-18 16:11:13
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680279a11aabee4d380a8dd3/media.mp3)
+
+---
 
 ### The next computer? Your glasses | Shahram Izadi
 
@@ -56,29 +44,23 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
-### Can big tech and privacy coexist? | Carole Cadwalladr and Chris Anderson
+## Freakonomics Radio
 
-**Released:** 2025-04-13 06:00:00
+### 630. On Broadway, Nobody Knows Nothing
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67faf62310b3098e4ac25a88/media.mp3)
+**Released:** 2025-04-18 10:00:00
 
----
-
-## Planet Money
-
-### OIRA: The tiny office that's about to remake the federal government
-
-**Released:** 2025-04-16 07:00:26
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3154177903.mp3?d=1617&size=25880120&e=1245044458&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
 
 ---
 
-### Trade war dispatch from Canada
+## This American Life
 
-**Released:** 2025-04-11 23:20:57
+### 858: How to Tell a Dumb American Story
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4906336112.mp3?d=1589&size=25426634&e=1244093033&t=podcast&p=510289)
+**Released:** 2025-04-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
 
 ---
 
@@ -108,31 +90,21 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
-### #2304 - Gary Brecka
+## Planet Money
 
-**Released:** 2025-04-11 17:00:00
+### How much for that egg
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9421403570.mp3?updated=1744668224)
+**Released:** 2025-04-18 21:51:02
 
----
-
-## Hidden Brain
-
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
-
-**Released:** 2025-04-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1260085506.mp3?d=1882&size=30117390&e=1245530783&t=podcast&p=510289)
 
 ---
 
-## 99% Invisible
+### OIRA: The tiny office that's about to remake the federal government
 
-### I've Got 1099 Problems...
+**Released:** 2025-04-16 07:00:26
 
-**Released:** 2025-04-15 17:15:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3154177903.mp3?d=1617&size=25880120&e=1245044458&t=podcast&p=510289)
 
 ---
 
@@ -170,13 +142,23 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### The RFK Jr. Problem
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
 
-**Released:** 2025-04-17 04:01:00
+**Released:** 2025-04-14 19:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### I've Got 1099 Problems...
+
+**Released:** 2025-04-15 17:15:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
 
 ---
 
@@ -198,6 +180,16 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
+## Revisionist History
+
+### The RFK Jr. Problem
+
+**Released:** 2025-04-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: National Parks Week
@@ -216,47 +208,13 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Armchair Anonymous: Cedar Point
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
 
-**Released:** 2025-04-18 07:35:00
+**Released:** 2025-04-16 19:23:27
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Sedaris #5
-
-**Released:** 2025-04-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bert Kreischer
-
-**Released:** 2025-04-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
-
----
-
-### "Jeff Goldblum"
-
-**Released:** 2025-04-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -286,13 +244,47 @@ Last updated: 2025-04-18 12:21:26
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
 
-**Released:** 2025-04-16 19:23:27
+**Released:** 2025-04-17 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+### "Jeff Goldblum"
+
+**Released:** 2025-04-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/84edbd2a-72a4-4ed9-b413-a4b763cc640a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=84edbd2a-72a4-4ed9-b413-a4b763cc640a&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Cedar Point
+
+**Released:** 2025-04-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Sedaris #5
+
+**Released:** 2025-04-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bert Kreischer
+
+**Released:** 2025-04-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
