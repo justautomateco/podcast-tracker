@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-19 12:19:39
+Last updated: 2025-04-20 01:01:09
 
 ## TED Talks Daily
 
@@ -44,6 +44,16 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
+## This American Life
+
+### 858: How to Tell a Dumb American Story
+
+**Released:** 2025-04-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
+
+---
+
 ## Freakonomics Radio
 
 ### 630. On Broadway, Nobody Knows Nothing
@@ -51,6 +61,16 @@ Last updated: 2025-04-19 12:19:39
 **Released:** 2025-04-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
+
+---
+
+## Hidden Brain
+
+### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+
+**Released:** 2025-04-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
 
 ---
 
@@ -72,23 +92,37 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Relationships 2.0: The Power of Tiny Interactions + Your Questions Answered: Erica Bailey on Authenticity
+### #2307 - Tim Dillon
 
-**Released:** 2025-04-14 19:00:00
+**Released:** 2025-04-19 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee41bf62-b94a-4a65-b650-b5ede889f52b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee41bf62-b94a-4a65-b650-b5ede889f52b&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
 
 ---
 
-## This American Life
+### #2306 - Deric Poston
 
-### 858: How to Tell a Dumb American Story
+**Released:** 2025-04-17 17:00:00
 
-**Released:** 2025-04-13 18:00:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3)
+---
+
+### JRE MMA Show #166 with Ilia Topuria
+
+**Released:** 2025-04-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
+
+---
+
+### #2305 - Rich Vos
+
+**Released:** 2025-04-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
 
 ---
 
@@ -136,32 +170,6 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
-## The Joe Rogan Experience
-
-### #2306 - Deric Poston
-
-**Released:** 2025-04-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
-
----
-
-### JRE MMA Show #166 with Ilia Topuria
-
-**Released:** 2025-04-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
-
----
-
-### #2305 - Rich Vos
-
-**Released:** 2025-04-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
-
----
-
 ## How I Built This
 
 ### Advice Line with Andy Dunn of Bonobos
@@ -190,29 +198,31 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
-## Armchair Expert
+## The Moth
 
-### Armchair Anonymous: Cedar Point
+### The Moth Podcast: National Parks Week
 
-**Released:** 2025-04-18 07:35:00
+**Released:** 2025-04-18 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Sedaris #5
-
-**Released:** 2025-04-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1038672192.mp3?updated=1744734116)
 
 ---
 
-### Bert Kreischer
+### The Moth Radio Hour: Late Night
 
-**Released:** 2025-04-14 07:35:00
+**Released:** 2025-04-15 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
+
+---
+
+## The Tim Ferriss Show
+
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+
+**Released:** 2025-04-16 19:23:27
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,24 +252,6 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
-## The Moth
-
-### The Moth Podcast: National Parks Week
-
-**Released:** 2025-04-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1038672192.mp3?updated=1744734116)
-
----
-
-### The Moth Radio Hour: Late Night
-
-**Released:** 2025-04-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2448665376.mp3?updated=1744149388)
-
----
-
 ## SmartLess 
 
 ### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
@@ -278,13 +270,29 @@ Last updated: 2025-04-19 12:19:39
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+### Armchair Anonymous: Cedar Point
 
-**Released:** 2025-04-16 19:23:27
+**Released:** 2025-04-18 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Sedaris #5
+
+**Released:** 2025-04-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bert Kreischer
+
+**Released:** 2025-04-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e14f67e6-8c7b-4875-ab9d-321c41772f2e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
