@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-23 00:57:33
+Last updated: 2025-04-23 12:22:58
+
+## Freakonomics Radio
+
+### Is It a Theater Piece or a Psychological Experiment? (Update)
+
+**Released:** 2025-04-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
+
+---
+
+### 630. On Broadway, Nobody Knows Nothing
+
+**Released:** 2025-04-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,24 +62,6 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
-## Freakonomics Radio
-
-### Is It a Theater Piece or a Psychological Experiment? (Update)
-
-**Released:** 2025-04-23 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
-
----
-
-### 630. On Broadway, Nobody Knows Nothing
-
-**Released:** 2025-04-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### How much for that egg
@@ -72,11 +72,13 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
-### OIRA: The tiny office that's about to remake the federal government
+## This American Life
 
-**Released:** 2025-04-16 07:00:26
+### 332: The Ten Commandments
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3154177903.mp3?d=1617&size=25880120&e=1245044458&t=podcast&p=510289)
+**Released:** 2025-04-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
 
 ---
 
@@ -87,16 +89,6 @@ Last updated: 2025-04-23 00:57:33
 **Released:** 2025-04-21 19:20:46
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 332: The Ten Commandments
-
-**Released:** 2025-04-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
 
 ---
 
@@ -146,6 +138,14 @@ Last updated: 2025-04-23 00:57:33
 
 ## Stuff You Should Know
 
+### Short Stuff: Alternative Libraries
+
+**Released:** 2025-04-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5066bb55-3ff1-4a67-8f23-b2c700d3c112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Richard III: Good Guy or Evil Putz?
 
 **Released:** 2025-04-22 09:00:00
@@ -170,43 +170,15 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
-### Short Stuff: Tick tock goes the Doomsday Clock
-
-**Released:** 2025-04-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/19a1ef04-b2a3-4379-980c-b2c000d6dfd4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
-
-**Released:** 2025-04-22 22:16:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
-
-**Released:** 2025-04-16 19:23:27
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The RFK Jr. Problem
-
-**Released:** 2025-04-17 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
+
+### Introducing: What We Spend
+
+**Released:** 2025-04-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
+
+---
 
 ### The Moth Radio Hour: Pleasantly Surprised
 
@@ -224,21 +196,13 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Carol Leifer
+### The RFK Jr. Problem
 
-**Released:** 2025-04-21 04:05:00
+**Released:** 2025-04-17 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
-
----
-
-### We’re gettin’ Belayed!
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,6 +224,50 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
+## Armchair Expert
+
+### David Blaine (magician and mentalist)
+
+**Released:** 2025-04-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Monica Lewinsky Returns
+
+**Released:** 2025-04-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Cedar Point
+
+**Released:** 2025-04-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Carol Leifer
+
+**Released:** 2025-04-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
+
+---
+
+### We’re gettin’ Belayed!
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Amy Poehler"
@@ -278,29 +286,21 @@ Last updated: 2025-04-23 00:57:33
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Monica Lewinsky Returns
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
 
-**Released:** 2025-04-21 07:35:00
+**Released:** 2025-04-22 22:16:02
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cedar Point
-
-**Released:** 2025-04-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### David Sedaris #5
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
 
-**Released:** 2025-04-16 07:35:00
+**Released:** 2025-04-16 19:23:27
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
