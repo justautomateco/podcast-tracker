@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-22 12:22:29
-
-## Freakonomics Radio
-
-### 630. On Broadway, Nobody Knows Nothing
-
-**Released:** 2025-04-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
-
----
+Last updated: 2025-04-23 00:57:33
 
 ## TED Talks Daily
+
+### Your inner fire is your greatest strength | Xiye Bastida
+
+**Released:** 2025-04-22 14:58:33
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6807a25ab4bd8e2b62fba5f8/media.mp3)
+
+---
 
 ### Why the only future worth building includes everyone | His Holiness Pope Francis
 
@@ -46,55 +44,21 @@ Last updated: 2025-04-22 12:22:29
 
 ---
 
-### The next computer? Your glasses | Shahram Izadi
+## Freakonomics Radio
 
-**Released:** 2025-04-17 16:07:57
+### Is It a Theater Piece or a Psychological Experiment? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6801265c45e1f487c1bc5792/media.mp3)
+**Released:** 2025-04-23 00:00:00
 
----
-
-## This American Life
-
-### 332: The Ten Commandments
-
-**Released:** 2025-04-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
 
 ---
 
-## The Joe Rogan Experience
+### 630. On Broadway, Nobody Knows Nothing
 
-### #2307 - Tim Dillon
+**Released:** 2025-04-18 10:00:00
 
-**Released:** 2025-04-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
-
----
-
-### #2306 - Deric Poston
-
-**Released:** 2025-04-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
-
----
-
-### JRE MMA Show #166 with Ilia Topuria
-
-**Released:** 2025-04-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
-
----
-
-### #2305 - Rich Vos
-
-**Released:** 2025-04-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5255197527.mp3?updated=1744736922)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
 
 ---
 
@@ -126,13 +90,57 @@ Last updated: 2025-04-22 12:22:29
 
 ---
 
+## This American Life
+
+### 332: The Ten Commandments
+
+**Released:** 2025-04-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2308 - Jordan Peterson
+
+**Released:** 2025-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
+
+---
+
+### #2307 - Tim Dillon
+
+**Released:** 2025-04-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
+
+---
+
+### #2306 - Deric Poston
+
+**Released:** 2025-04-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
+
+---
+
+### JRE MMA Show #166 with Ilia Topuria
+
+**Released:** 2025-04-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
+
+---
+
 ## 99% Invisible
 
-### I've Got 1099 Problems...
+### One-Nil to the Arsenal
 
-**Released:** 2025-04-15 17:15:31
+**Released:** 2025-04-22 17:10:29
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/93d6a159-55d7-4da8-a414-a9c1697d9bcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=93d6a159-55d7-4da8-a414-a9c1697d9bcc&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ff73b515-0b54-4ce8-96a9-902544abc134/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ff73b515-0b54-4ce8-96a9-902544abc134&feed=BqbsxVfO)
 
 ---
 
@@ -170,47 +178,21 @@ Last updated: 2025-04-22 12:22:29
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Snap: Evan Spiegel
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
 
-**Released:** 2025-04-21 07:10:00
+**Released:** 2025-04-22 22:16:02
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Andy Dunn of Bonobos
-
-**Released:** 2025-04-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## Armchair Expert
+### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
 
-### Monica Lewinsky Returns
+**Released:** 2025-04-16 19:23:27
 
-**Released:** 2025-04-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cedar Point
-
-**Released:** 2025-04-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Sedaris #5
-
-**Released:** 2025-04-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,24 +224,6 @@ Last updated: 2025-04-22 12:22:29
 
 ---
 
-## SmartLess 
-
-### "Amy Poehler"
-
-**Released:** 2025-04-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
-
----
-
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Carol Leifer
@@ -278,13 +242,65 @@ Last updated: 2025-04-22 12:22:29
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
+### Snap: Evan Spiegel
 
-**Released:** 2025-04-16 19:23:27
+**Released:** 2025-04-21 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Andy Dunn of Bonobos
+
+**Released:** 2025-04-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Amy Poehler"
+
+**Released:** 2025-04-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
+
+---
+
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Monica Lewinsky Returns
+
+**Released:** 2025-04-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Cedar Point
+
+**Released:** 2025-04-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Sedaris #5
+
+**Released:** 2025-04-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/abcbc6d7-0238-413a-b59f-832e2e77154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
