@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-24 00:57:39
+Last updated: 2025-04-24 12:23:27
 
 ## Freakonomics Radio
 
@@ -62,6 +62,16 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
+## This American Life
+
+### 332: The Ten Commandments
+
+**Released:** 2025-04-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+
+---
+
 ## Planet Money
 
 ### A  primer on the Federal Reserve's independence
@@ -80,13 +90,13 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 332: The Ten Commandments
+### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
 
-**Released:** 2025-04-20 18:00:00
+**Released:** 2025-04-21 19:20:46
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
 
 ---
 
@@ -124,16 +134,6 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
-## Hidden Brain
-
-### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
-
-**Released:** 2025-04-21 19:20:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### One-Nil to the Arsenal
@@ -145,6 +145,14 @@ Last updated: 2025-04-24 00:57:39
 ---
 
 ## Stuff You Should Know
+
+### Give My Regards to the Broadway Episode!
+
+**Released:** 2025-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Alternative Libraries
 
@@ -170,57 +178,13 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
-### What Makes Disaster Films Great
-
-**Released:** 2025-04-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcd2beb7-a96f-41f3-9050-b2c00121273a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
-
-**Released:** 2025-04-23 20:52:35
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
-
-**Released:** 2025-04-22 22:16:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Snap: Evan Spiegel
-
-**Released:** 2025-04-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Andy Dunn of Bonobos
-
-**Released:** 2025-04-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
-### The RFK Jr. Problem
+### The Joe Rogan Intervention
 
-**Released:** 2025-04-17 04:01:00
+**Released:** 2025-04-24 04:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -250,25 +214,33 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Amy Poehler"
+### Advice Line with Jonathan Neman of Sweetgreen
 
-**Released:** 2025-04-21 07:01:00
+**Released:** 2025-04-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
+### Snap: Evan Spiegel
 
-**Released:** 2025-04-17 04:05:00
+**Released:** 2025-04-21 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Conan's Own
+
+**Released:** 2025-04-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+
+---
 
 ### Carol Leifer
 
@@ -278,11 +250,13 @@ Last updated: 2025-04-24 00:57:39
 
 ---
 
-### We’re gettin’ Belayed!
+## SmartLess 
 
-**Released:** 2025-04-17 04:05:00
+### "Amy Poehler"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
+**Released:** 2025-04-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
 
 ---
 
@@ -309,6 +283,24 @@ Last updated: 2025-04-24 00:57:39
 **Released:** 2025-04-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+
+**Released:** 2025-04-23 20:52:35
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-04-22 22:16:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
