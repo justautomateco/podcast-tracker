@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-23 12:22:58
+Last updated: 2025-04-24 00:57:39
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-04-23 12:22:58
 ---
 
 ## TED Talks Daily
+
+### The role of art and forgiveness in democracy | Marc Bamuthi Joseph and Wendy Whelan
+
+**Released:** 2025-04-23 15:24:09
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6809061980a1a34ac5b6bbd1/media.mp3)
+
+---
 
 ### Your inner fire is your greatest strength | Xiye Bastida
 
@@ -54,15 +62,15 @@ Last updated: 2025-04-23 12:22:58
 
 ---
 
-### The hidden cost of the green transition's mineral rush | Galina Angarova
+## Planet Money
 
-**Released:** 2025-04-18 16:11:13
+### A  primer on the Federal Reserve's independence
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680279a11aabee4d380a8dd3/media.mp3)
+**Released:** 2025-04-23 15:50:04
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### How much for that egg
 
@@ -82,17 +90,15 @@ Last updated: 2025-04-23 12:22:58
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
+### #2309 - Joey Diaz
 
-**Released:** 2025-04-21 19:20:46
+**Released:** 2025-04-23 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2308 - Jordan Peterson
 
@@ -118,11 +124,13 @@ Last updated: 2025-04-23 12:22:58
 
 ---
 
-### JRE MMA Show #166 with Ilia Topuria
+## Hidden Brain
 
-**Released:** 2025-04-16 17:00:00
+### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4709657258.mp3?updated=1744823107)
+**Released:** 2025-04-21 19:20:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
 
 ---
 
@@ -170,6 +178,52 @@ Last updated: 2025-04-23 12:22:58
 
 ---
 
+## The Tim Ferriss Show
+
+### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+
+**Released:** 2025-04-23 20:52:35
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-04-22 22:16:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Snap: Evan Spiegel
+
+**Released:** 2025-04-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Andy Dunn of Bonobos
+
+**Released:** 2025-04-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The RFK Jr. Problem
+
+**Released:** 2025-04-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### Introducing: What We Spend
@@ -196,31 +250,39 @@ Last updated: 2025-04-23 12:22:58
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### The RFK Jr. Problem
+### "Amy Poehler"
 
-**Released:** 2025-04-17 04:01:00
+**Released:** 2025-04-21 07:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9e8cb11c-9c75-4bc5-adbb-b2c1016292c3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Snap: Evan Spiegel
-
-**Released:** 2025-04-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
 
 ---
 
-### Advice Line with Andy Dunn of Bonobos
+### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
 
-**Released:** 2025-04-17 07:10:00
+**Released:** 2025-04-17 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d724ba52-b6af-47fd-8e8f-edc757e3477b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Carol Leifer
+
+**Released:** 2025-04-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
+
+---
+
+### We’re gettin’ Belayed!
+
+**Released:** 2025-04-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
 
 ---
 
@@ -247,60 +309,6 @@ Last updated: 2025-04-23 12:22:58
 **Released:** 2025-04-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Carol Leifer
-
-**Released:** 2025-04-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
-
----
-
-### We’re gettin’ Belayed!
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d1a63f52-7d9b-49f7-9788-c05ea21a0522/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d1a63f52-7d9b-49f7-9788-c05ea21a0522&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Amy Poehler"
-
-**Released:** 2025-04-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
-
----
-
-### SmartLess Presents ClueLess! 145 - Do Not Pass Go! (w/ Scotty Icenogle)
-
-**Released:** 2025-04-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6ddcaf45-4220-4330-bdf2-d183090a3845/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6ddcaf45-4220-4330-bdf2-d183090a3845&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
-
-**Released:** 2025-04-22 22:16:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #806: How Rich Barton Built Expedia and Zillow from $0 to $35B — Audacious Goals, Provocation Marketing, Scrabble for Naming, and Powerful Daily Rituals
-
-**Released:** 2025-04-16 19:23:27
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c37e2a1-7efa-4930-9900-e14ae3e5edf5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
