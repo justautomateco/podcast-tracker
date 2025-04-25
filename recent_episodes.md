@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-24 12:23:27
-
-## Freakonomics Radio
-
-### Is It a Theater Piece or a Psychological Experiment? (Update)
-
-**Released:** 2025-04-23 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
-
----
-
-### 630. On Broadway, Nobody Knows Nothing
-
-**Released:** 2025-04-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
-
----
+Last updated: 2025-04-25 00:57:49
 
 ## TED Talks Daily
+
+### The AI arsenal that could stop World War III | Palmer Luckey
+
+**Released:** 2025-04-24 15:06:08
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680a44f03e1190c83143c668/media.mp3)
+
+---
 
 ### The role of art and forgiveness in democracy | Marc Bamuthi Joseph and Wendy Whelan
 
@@ -54,21 +44,21 @@ Last updated: 2025-04-24 12:23:27
 
 ---
 
-### How music helped me live through long COVID | Joshua Roman
+## Freakonomics Radio
 
-**Released:** 2025-04-19 06:00:00
+### Is It a Theater Piece or a Psychological Experiment? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680272f46aefdc1cfc069319/media.mp3)
+**Released:** 2025-04-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
 
 ---
 
-## This American Life
+### 630. On Broadway, Nobody Knows Nothing
 
-### 332: The Ten Commandments
+**Released:** 2025-04-18 10:00:00
 
-**Released:** 2025-04-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
 
 ---
 
@@ -90,6 +80,16 @@ Last updated: 2025-04-24 12:23:27
 
 ---
 
+## This American Life
+
+### 332: The Ten Commandments
+
+**Released:** 2025-04-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+
+---
+
 ## Hidden Brain
 
 ### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
@@ -97,50 +97,6 @@ Last updated: 2025-04-24 12:23:27
 **Released:** 2025-04-21 19:20:46
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2309 - Joey Diaz
-
-**Released:** 2025-04-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
-
----
-
-### #2308 - Jordan Peterson
-
-**Released:** 2025-04-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
-
----
-
-### #2307 - Tim Dillon
-
-**Released:** 2025-04-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
-
----
-
-### #2306 - Deric Poston
-
-**Released:** 2025-04-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2445488205.mp3?updated=1744912177)
-
----
-
-## 99% Invisible
-
-### One-Nil to the Arsenal
-
-**Released:** 2025-04-22 17:10:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ff73b515-0b54-4ce8-96a9-902544abc134/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ff73b515-0b54-4ce8-96a9-902544abc134&feed=BqbsxVfO)
 
 ---
 
@@ -175,6 +131,50 @@ Last updated: 2025-04-24 12:23:27
 **Released:** 2025-04-19 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7cb9b621-0ea9-4148-a1bc-b2c000d8a989/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### One-Nil to the Arsenal
+
+**Released:** 2025-04-22 17:10:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ff73b515-0b54-4ce8-96a9-902544abc134/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ff73b515-0b54-4ce8-96a9-902544abc134&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2310 - Robert Rodriguez
+
+**Released:** 2025-04-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
+
+---
+
+### #2309 - Joey Diaz
+
+**Released:** 2025-04-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
+
+---
+
+### #2308 - Jordan Peterson
+
+**Released:** 2025-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
+
+---
+
+### #2307 - Tim Dillon
+
+**Released:** 2025-04-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
 
 ---
 
@@ -214,24 +214,6 @@ Last updated: 2025-04-24 12:23:27
 
 ---
 
-## How I Built This
-
-### Advice Line with Jonathan Neman of Sweetgreen
-
-**Released:** 2025-04-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Snap: Evan Spiegel
-
-**Released:** 2025-04-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan's Own
@@ -250,13 +232,21 @@ Last updated: 2025-04-24 12:23:27
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Amy Poehler"
+### Advice Line with Jonathan Neman of Sweetgreen
 
-**Released:** 2025-04-21 07:01:00
+**Released:** 2025-04-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Snap: Evan Spiegel
+
+**Released:** 2025-04-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -283,6 +273,16 @@ Last updated: 2025-04-24 12:23:27
 **Released:** 2025-04-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Amy Poehler"
+
+**Released:** 2025-04-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
 
 ---
 
