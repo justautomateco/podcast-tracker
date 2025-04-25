@@ -1,5 +1,19 @@
 [
   {
+    "guid": "f45afa33-a307-4702-849f-7ae90c857593",
+    "episode_title": "631. Will \"3 Summers of Lincoln\" Make It to Broadway?",
+    "release_date": "2025-04-25 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "ace80855-9ecd-4d56-8058-6e765ec8b57c",
+    "episode_title": "Is It a Theater Piece or a Psychological Experiment? (Update)",
+    "release_date": "2025-04-23 00:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "680a44f03e1190c83143c668",
     "episode_title": "The AI arsenal that could stop World War III | Palmer Luckey",
     "release_date": "2025-04-24 15:06:08",
@@ -35,18 +49,39 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "ace80855-9ecd-4d56-8058-6e765ec8b57c",
-    "episode_title": "Is It a Theater Piece or a Psychological Experiment? (Update)",
-    "release_date": "2025-04-23 00:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "37341 at https://www.thisamericanlife.org",
+    "episode_title": "332: The Ten Commandments",
+    "release_date": "2025-04-20 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3",
+    "podcast_name": "This American Life"
   },
   {
-    "guid": "89aaa6eb-ccaa-4646-a272-e5af9fe15177",
-    "episode_title": "630. On Broadway, Nobody Knows Nothing",
-    "release_date": "2025-04-18 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "cae58a48-2092-11f0-bc8f-c7dced6cfce8",
+    "episode_title": "#2310 - Robert Rodriguez",
+    "release_date": "2025-04-24 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "f6add918-1fcb-11f0-93d3-a3fa38dae39f",
+    "episode_title": "#2309 - Joey Diaz",
+    "release_date": "2025-04-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "59cb289e-1f03-11f0-b788-d356d9cb9d33",
+    "episode_title": "#2308 - Jordan Peterson",
+    "release_date": "2025-04-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "c1fc9d40-1ca5-11f0-8186-e7be316331d7",
+    "episode_title": "#2307 - Tim Dillon",
+    "release_date": "2025-04-19 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "ef439cd9-ed2c-4359-98dc-75352c883c5f",
@@ -61,13 +96,6 @@
     "release_date": "2025-04-18 21:51:02",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1260085506.mp3?d=1882&size=30117390&e=1245530783&t=podcast&p=510289",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37341 at https://www.thisamericanlife.org",
-    "episode_title": "332: The Ten Commandments",
-    "release_date": "2025-04-20 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "6faf151e-cd48-4015-8fcf-11eaaa5a663a",
@@ -112,32 +140,18 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "cae58a48-2092-11f0-bc8f-c7dced6cfce8",
-    "episode_title": "#2310 - Robert Rodriguez",
-    "release_date": "2025-04-24 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "gid://art19-episode-locator/V0/Eb8e6Yw4CWa4086EWrxSi-8WsnTo2DM9D9cNICLSfsU",
+    "episode_title": "Advice Line with Jonathan Neman of Sweetgreen",
+    "release_date": "2025-04-24 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "f6add918-1fcb-11f0-93d3-a3fa38dae39f",
-    "episode_title": "#2309 - Joey Diaz",
-    "release_date": "2025-04-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "59cb289e-1f03-11f0-b788-d356d9cb9d33",
-    "episode_title": "#2308 - Jordan Peterson",
-    "release_date": "2025-04-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "c1fc9d40-1ca5-11f0-8186-e7be316331d7",
-    "episode_title": "#2307 - Tim Dillon",
-    "release_date": "2025-04-19 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "gid://art19-episode-locator/V0/xFp9FHA-TcAwAqSdOLaF6bPMAZGnEtMkYRfjVc0Hfwo",
+    "episode_title": "Snap: Evan Spiegel",
+    "release_date": "2025-04-21 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "446da19e-33eb-4070-8a9b-b2c8016003d1",
@@ -145,6 +159,34 @@
     "release_date": "2025-04-24 04:01:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5SFKC4BVdcqcaPlQNtgfn2iYu-omOJRWovUAUkESLDQ",
+    "episode_title": "Armchair Anonymous: First Responder",
+    "release_date": "2025-04-25 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/0Bl6NNdfUH7JMOEzqfILUmsaj23TNL1x-9qNKcbyHtA",
+    "episode_title": "David Blaine (magician and mentalist)",
+    "release_date": "2025-04-23 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/yNXcE0JQbc0fSfwPeA5_hIyirPbd4-xsbpYQz29d7Kg",
+    "episode_title": "Monica Lewinsky Returns",
+    "release_date": "2025-04-21 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "ea28b138-76d2-11ef-a8c5-fb085d87b518",
+    "episode_title": "The Moth Podcast: Grocery Trips and Italian Trysts",
+    "release_date": "2025-04-25 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "99ce3d3c-1bca-11f0-b0ca-d3966c286038",
@@ -158,13 +200,6 @@
     "episode_title": "The Moth Radio Hour: Pleasantly Surprised",
     "release_date": "2025-04-22 04:25:00",
     "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "e9dbebb4-76d2-11ef-a8c5-7fb9dc2bd836",
-    "episode_title": "The Moth Podcast: National Parks Week",
-    "release_date": "2025-04-18 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1038672192.mp3?updated=1744734116",
     "podcast_name": "The Moth"
   },
   {
@@ -182,48 +217,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Eb8e6Yw4CWa4086EWrxSi-8WsnTo2DM9D9cNICLSfsU",
-    "episode_title": "Advice Line with Jonathan Neman of Sweetgreen",
-    "release_date": "2025-04-24 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/xFp9FHA-TcAwAqSdOLaF6bPMAZGnEtMkYRfjVc0Hfwo",
-    "episode_title": "Snap: Evan Spiegel",
-    "release_date": "2025-04-21 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/0Bl6NNdfUH7JMOEzqfILUmsaj23TNL1x-9qNKcbyHtA",
-    "episode_title": "David Blaine (magician and mentalist)",
-    "release_date": "2025-04-23 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/yNXcE0JQbc0fSfwPeA5_hIyirPbd4-xsbpYQz29d7Kg",
-    "episode_title": "Monica Lewinsky Returns",
-    "release_date": "2025-04-21 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/gVE9OsCkmdSwNz8xtyQBFzex7gTD3ypx74KKPYJdQQY",
-    "episode_title": "Armchair Anonymous: Cedar Point",
-    "release_date": "2025-04-18 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "e7bab5a6-b07c-4204-9c33-9329121d2c53",
-    "episode_title": "\"Amy Poehler\"",
-    "release_date": "2025-04-21 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/En-cgRHK5OrKRjfffafqGtN3Tay8h9-cuFAxe6kWTQ4",
     "episode_title": "#808: Stephen West \u2014 From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  ",
     "release_date": "2025-04-23 20:52:35",
@@ -236,5 +229,12 @@
     "release_date": "2025-04-22 22:16:02",
     "mp3_url": "https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "e7bab5a6-b07c-4204-9c33-9329121d2c53",
+    "episode_title": "\"Amy Poehler\"",
+    "release_date": "2025-04-21 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

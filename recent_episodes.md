@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-25 00:57:49
+Last updated: 2025-04-25 12:22:35
+
+## Freakonomics Radio
+
+### 631. Will "3 Summers of Lincoln" Make It to Broadway?
+
+**Released:** 2025-04-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
+
+---
+
+### Is It a Theater Piece or a Psychological Experiment? (Update)
+
+**Released:** 2025-04-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,21 +62,47 @@ Last updated: 2025-04-25 00:57:49
 
 ---
 
-## Freakonomics Radio
+## This American Life
 
-### Is It a Theater Piece or a Psychological Experiment? (Update)
+### 332: The Ten Commandments
 
-**Released:** 2025-04-23 00:00:00
+**Released:** 2025-04-20 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
 
 ---
 
-### 630. On Broadway, Nobody Knows Nothing
+## The Joe Rogan Experience
 
-**Released:** 2025-04-18 10:00:00
+### #2310 - Robert Rodriguez
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5e055025-6f80-4776-b92e-f1acd1c94aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5e055025-6f80-4776-b92e-f1acd1c94aae&feed=Y8lFbOT4)
+**Released:** 2025-04-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
+
+---
+
+### #2309 - Joey Diaz
+
+**Released:** 2025-04-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
+
+---
+
+### #2308 - Jordan Peterson
+
+**Released:** 2025-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
+
+---
+
+### #2307 - Tim Dillon
+
+**Released:** 2025-04-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
 
 ---
 
@@ -77,16 +121,6 @@ Last updated: 2025-04-25 00:57:49
 **Released:** 2025-04-18 21:51:02
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1260085506.mp3?d=1882&size=30117390&e=1245530783&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 332: The Ten Commandments
-
-**Released:** 2025-04-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
 
 ---
 
@@ -144,37 +178,21 @@ Last updated: 2025-04-25 00:57:49
 
 ---
 
-## The Joe Rogan Experience
+## How I Built This
 
-### #2310 - Robert Rodriguez
+### Advice Line with Jonathan Neman of Sweetgreen
 
-**Released:** 2025-04-24 17:00:00
+**Released:** 2025-04-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
-
----
-
-### #2309 - Joey Diaz
-
-**Released:** 2025-04-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### #2308 - Jordan Peterson
+### Snap: Evan Spiegel
 
-**Released:** 2025-04-22 17:00:00
+**Released:** 2025-04-21 07:10:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
-
----
-
-### #2307 - Tim Dillon
-
-**Released:** 2025-04-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324738643.mp3?updated=1745080580)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,7 +206,41 @@ Last updated: 2025-04-25 00:57:49
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: First Responder
+
+**Released:** 2025-04-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Blaine (magician and mentalist)
+
+**Released:** 2025-04-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Monica Lewinsky Returns
+
+**Released:** 2025-04-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
+
+### The Moth Podcast: Grocery Trips and Italian Trysts
+
+**Released:** 2025-04-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+
+---
 
 ### Introducing: What We Spend
 
@@ -203,14 +255,6 @@ Last updated: 2025-04-25 00:57:49
 **Released:** 2025-04-22 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162)
-
----
-
-### The Moth Podcast: National Parks Week
-
-**Released:** 2025-04-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1038672192.mp3?updated=1744734116)
 
 ---
 
@@ -232,60 +276,6 @@ Last updated: 2025-04-25 00:57:49
 
 ---
 
-## How I Built This
-
-### Advice Line with Jonathan Neman of Sweetgreen
-
-**Released:** 2025-04-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Snap: Evan Spiegel
-
-**Released:** 2025-04-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### David Blaine (magician and mentalist)
-
-**Released:** 2025-04-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Monica Lewinsky Returns
-
-**Released:** 2025-04-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cedar Point
-
-**Released:** 2025-04-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af466e7a-2f1f-421d-9c52-426dec8d12b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Amy Poehler"
-
-**Released:** 2025-04-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
@@ -301,6 +291,16 @@ Last updated: 2025-04-25 00:57:49
 **Released:** 2025-04-22 22:16:02
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Amy Poehler"
+
+**Released:** 2025-04-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
 
 ---
 
