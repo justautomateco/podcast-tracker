@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-27 01:01:10
+Last updated: 2025-04-27 12:20:09
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-04-27 01:01:10
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 332: The Ten Commandments
+### Sunday Pick: How poetry builds teenagers' confidence (w/ Youth Poet Laureate Naisha Randhar) | How to Be a Better Human
 
-**Released:** 2025-04-20 18:00:00
+**Released:** 2025-04-27 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f40b4c546af5790687311b/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The climate movement needs new stories — here's mine | Fenton Lutunatabua
 
@@ -64,58 +62,6 @@ Last updated: 2025-04-27 01:01:10
 
 ---
 
-### Your inner fire is your greatest strength | Xiye Bastida
-
-**Released:** 2025-04-22 14:58:33
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6807a25ab4bd8e2b62fba5f8/media.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2311 - Jeremie & Edouard Harris
-
-**Released:** 2025-04-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8063233580.mp3?updated=1745601380)
-
----
-
-### #2310 - Robert Rodriguez
-
-**Released:** 2025-04-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
-
----
-
-### #2309 - Joey Diaz
-
-**Released:** 2025-04-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
-
----
-
-### #2308 - Jordan Peterson
-
-**Released:** 2025-04-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
-
-**Released:** 2025-04-21 19:20:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
-
----
-
 ## Planet Money
 
 ### How 23andMe's bankruptcy led to a run on the gene bank
@@ -131,6 +77,16 @@ Last updated: 2025-04-27 01:01:10
 **Released:** 2025-04-23 15:50:04
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 332: The Ten Commandments
+
+**Released:** 2025-04-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
 
 ---
 
@@ -168,6 +124,16 @@ Last updated: 2025-04-27 01:01:10
 
 ---
 
+## Hidden Brain
+
+### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
+
+**Released:** 2025-04-21 19:20:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### One-Nil to the Arsenal
@@ -178,6 +144,58 @@ Last updated: 2025-04-27 01:01:10
 
 ---
 
+## The Joe Rogan Experience
+
+### #2311 - Jeremie & Edouard Harris
+
+**Released:** 2025-04-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8063233580.mp3?updated=1745601380)
+
+---
+
+### #2310 - Robert Rodriguez
+
+**Released:** 2025-04-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
+
+---
+
+### #2309 - Joey Diaz
+
+**Released:** 2025-04-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8525526719.mp3?updated=1745426926)
+
+---
+
+### #2308 - Jordan Peterson
+
+**Released:** 2025-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
+
+---
+
+## The Tim Ferriss Show
+
+### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+
+**Released:** 2025-04-23 20:52:35
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-04-22 22:16:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Joe Rogan Intervention
@@ -185,50 +203,6 @@ Last updated: 2025-04-27 01:01:10
 **Released:** 2025-04-24 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Podcast: Grocery Trips and Italian Trysts
-
-**Released:** 2025-04-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
-
----
-
-### Introducing: What We Spend
-
-**Released:** 2025-04-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
-
----
-
-### The Moth Radio Hour: Pleasantly Surprised
-
-**Released:** 2025-04-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan's Own
-
-**Released:** 2025-04-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
-
----
-
-### Carol Leifer
-
-**Released:** 2025-04-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
 
 ---
 
@@ -247,16 +221,6 @@ Last updated: 2025-04-27 01:01:10
 **Released:** 2025-04-21 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Amy Poehler"
-
-**Released:** 2025-04-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
 
 ---
 
@@ -286,21 +250,57 @@ Last updated: 2025-04-27 01:01:10
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+### Conan's Own
 
-**Released:** 2025-04-23 20:52:35
+**Released:** 2025-04-24 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
 
 ---
 
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+### Carol Leifer
 
-**Released:** 2025-04-22 22:16:02
+**Released:** 2025-04-21 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Amy Poehler"
+
+**Released:** 2025-04-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Grocery Trips and Italian Trysts
+
+**Released:** 2025-04-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+
+---
+
+### Introducing: What We Spend
+
+**Released:** 2025-04-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
+
+---
+
+### The Moth Radio Hour: Pleasantly Surprised
+
+**Released:** 2025-04-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162)
 
 ---
 
