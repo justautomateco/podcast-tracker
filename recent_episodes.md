@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-28 00:59:41
+Last updated: 2025-04-28 12:22:48
+
+## Freakonomics Radio
+
+### 631. Will "3 Summers of Lincoln" Make It to Broadway?
+
+**Released:** 2025-04-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
+
+---
+
+### Is It a Theater Piece or a Psychological Experiment? (Update)
+
+**Released:** 2025-04-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,24 +62,6 @@ Last updated: 2025-04-28 00:59:41
 
 ---
 
-## Freakonomics Radio
-
-### 631. Will "3 Summers of Lincoln" Make It to Broadway?
-
-**Released:** 2025-04-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
-
----
-
-### Is It a Theater Piece or a Psychological Experiment? (Update)
-
-**Released:** 2025-04-23 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 859: Chaos Graph
@@ -87,16 +87,6 @@ Last updated: 2025-04-28 00:59:41
 **Released:** 2025-04-23 15:50:04
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
-
-**Released:** 2025-04-21 19:20:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
 
 ---
 
@@ -131,6 +121,16 @@ Last updated: 2025-04-28 00:59:41
 **Released:** 2025-04-22 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3421768317.mp3?updated=1745339904)
+
+---
+
+## Hidden Brain
+
+### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
+
+**Released:** 2025-04-21 19:20:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
 
 ---
 
@@ -178,6 +178,78 @@ Last updated: 2025-04-28 00:59:41
 
 ---
 
+## Revisionist History
+
+### The Joe Rogan Intervention
+
+**Released:** 2025-04-24 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Anthony Anderson
+
+**Released:** 2025-04-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: First Responder
+
+**Released:** 2025-04-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Blaine (magician and mentalist)
+
+**Released:** 2025-04-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Hexclad: Danny Winer
+
+**Released:** 2025-04-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jonathan Neman of Sweetgreen
+
+**Released:** 2025-04-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bill Hader Returns Again
+
+**Released:** 2025-04-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
+
+---
+
+### Conan's Own
+
+**Released:** 2025-04-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: Grocery Trips and Italian Trysts
@@ -204,59 +276,13 @@ Last updated: 2025-04-28 00:59:41
 
 ---
 
-## Revisionist History
-
-### The Joe Rogan Intervention
-
-**Released:** 2025-04-24 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Jonathan Neman of Sweetgreen
-
-**Released:** 2025-04-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37fdd78c-0dc6-4497-bd1a-d04a69eaa2ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Snap: Evan Spiegel
-
-**Released:** 2025-04-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f803f7f-009c-48b9-b2d5-6e229ee58389.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan's Own
-
-**Released:** 2025-04-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
-
----
-
-### Carol Leifer
-
-**Released:** 2025-04-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bea7bd75-aae8-4a87-b79a-dba4b138cda2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bea7bd75-aae8-4a87-b79a-dba4b138cda2&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
-### "Amy Poehler"
+### "Paul Rudd"
 
-**Released:** 2025-04-21 07:01:00
+**Released:** 2025-04-28 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/692354c6-c2a0-4931-a75c-597ee0ef3dcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=692354c6-c2a0-4931-a75c-597ee0ef3dcb&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
 
 ---
 
@@ -275,32 +301,6 @@ Last updated: 2025-04-28 00:59:41
 **Released:** 2025-04-22 22:16:02
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: First Responder
-
-**Released:** 2025-04-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Blaine (magician and mentalist)
-
-**Released:** 2025-04-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Monica Lewinsky Returns
-
-**Released:** 2025-04-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
