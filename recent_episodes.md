@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-27 12:20:09
-
-## Freakonomics Radio
-
-### 631. Will "3 Summers of Lincoln" Make It to Broadway?
-
-**Released:** 2025-04-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
-
----
-
-### Is It a Theater Piece or a Psychological Experiment? (Update)
-
-**Released:** 2025-04-23 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
-
----
+Last updated: 2025-04-28 00:59:41
 
 ## TED Talks Daily
 
@@ -62,6 +44,34 @@ Last updated: 2025-04-27 12:20:09
 
 ---
 
+## Freakonomics Radio
+
+### 631. Will "3 Summers of Lincoln" Make It to Broadway?
+
+**Released:** 2025-04-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
+
+---
+
+### Is It a Theater Piece or a Psychological Experiment? (Update)
+
+**Released:** 2025-04-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/369366eb-7e1e-4388-90fa-d7b375156ca8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=369366eb-7e1e-4388-90fa-d7b375156ca8&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 859: Chaos Graph
+
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+
+---
+
 ## Planet Money
 
 ### How 23andMe's bankruptcy led to a run on the gene bank
@@ -80,50 +90,6 @@ Last updated: 2025-04-27 12:20:09
 
 ---
 
-## This American Life
-
-### 332: The Ten Commandments
-
-**Released:** 2025-04-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Jim Henson Worked
-
-**Released:** 2025-04-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Give My Regards to the Broadway Episode!
-
-**Released:** 2025-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Alternative Libraries
-
-**Released:** 2025-04-23 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5066bb55-3ff1-4a67-8f23-b2c700d3c112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Richard III: Good Guy or Evil Putz?
-
-**Released:** 2025-04-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd66d63a-6391-4af2-ac7e-b2c6014dcd39/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Hidden Brain
 
 ### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
@@ -131,16 +97,6 @@ Last updated: 2025-04-27 12:20:09
 **Released:** 2025-04-21 19:20:46
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### One-Nil to the Arsenal
-
-**Released:** 2025-04-22 17:10:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ff73b515-0b54-4ce8-96a9-902544abc134/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ff73b515-0b54-4ce8-96a9-902544abc134&feed=BqbsxVfO)
 
 ---
 
@@ -178,21 +134,73 @@ Last updated: 2025-04-27 12:20:09
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+### One-Nil to the Arsenal
 
-**Released:** 2025-04-23 20:52:35
+**Released:** 2025-04-22 17:10:29
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ff73b515-0b54-4ce8-96a9-902544abc134/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ff73b515-0b54-4ce8-96a9-902544abc134&feed=BqbsxVfO)
 
 ---
 
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+## Stuff You Should Know
 
-**Released:** 2025-04-22 22:16:02
+### Selects: How Jim Henson Worked
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-04-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Give My Regards to the Broadway Episode!
+
+**Released:** 2025-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Alternative Libraries
+
+**Released:** 2025-04-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5066bb55-3ff1-4a67-8f23-b2c700d3c112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Richard III: Good Guy or Evil Putz?
+
+**Released:** 2025-04-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd66d63a-6391-4af2-ac7e-b2c6014dcd39/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Grocery Trips and Italian Trysts
+
+**Released:** 2025-04-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+
+---
+
+### Introducing: What We Spend
+
+**Released:** 2025-04-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
+
+---
+
+### The Moth Radio Hour: Pleasantly Surprised
+
+**Released:** 2025-04-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162)
 
 ---
 
@@ -224,32 +232,6 @@ Last updated: 2025-04-27 12:20:09
 
 ---
 
-## Armchair Expert
-
-### Armchair Anonymous: First Responder
-
-**Released:** 2025-04-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Blaine (magician and mentalist)
-
-**Released:** 2025-04-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Monica Lewinsky Returns
-
-**Released:** 2025-04-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan's Own
@@ -278,29 +260,47 @@ Last updated: 2025-04-27 12:20:09
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Podcast: Grocery Trips and Italian Trysts
+### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
 
-**Released:** 2025-04-25 04:25:00
+**Released:** 2025-04-23 20:52:35
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
-
----
-
-### Introducing: What We Spend
-
-**Released:** 2025-04-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Radio Hour: Pleasantly Surprised
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
 
-**Released:** 2025-04-22 04:25:00
+**Released:** 2025-04-22 22:16:02
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4322424841.mp3?updated=1744404162)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: First Responder
+
+**Released:** 2025-04-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Blaine (magician and mentalist)
+
+**Released:** 2025-04-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Monica Lewinsky Returns
+
+**Released:** 2025-04-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3fa9ed65-e890-4c67-ba55-40007ac985d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
