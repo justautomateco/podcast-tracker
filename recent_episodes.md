@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-28 12:22:48
+Last updated: 2025-04-29 00:57:46
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-04-28 12:22:48
 ---
 
 ## TED Talks Daily
+
+### Feeling stressed? The answer isn’t to “just relax” | Aditi Nerurkar
+
+**Released:** 2025-04-28 15:08:46
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680f9990f7d552efdc96d51b/media.mp3)
+
+---
 
 ### Sunday Pick: How poetry builds teenagers' confidence (w/ Youth Poet Laureate Naisha Randhar) | How to Be a Better Human
 
@@ -54,24 +62,6 @@ Last updated: 2025-04-28 12:22:48
 
 ---
 
-### The role of art and forgiveness in democracy | Marc Bamuthi Joseph and Wendy Whelan
-
-**Released:** 2025-04-23 15:24:09
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6809061980a1a34ac5b6bbd1/media.mp3)
-
----
-
-## This American Life
-
-### 859: Chaos Graph
-
-**Released:** 2025-04-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
-
----
-
 ## Planet Money
 
 ### How 23andMe's bankruptcy led to a run on the gene bank
@@ -87,6 +77,16 @@ Last updated: 2025-04-28 12:22:48
 **Released:** 2025-04-23 15:50:04
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 859: Chaos Graph
+
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
 
 ---
 
@@ -126,11 +126,11 @@ Last updated: 2025-04-28 12:22:48
 
 ## Hidden Brain
 
-### Relationships 2.0: Why Did You Do That? + Your Questions Answered: Fred Luskin on Grudges
+### Relationships 2.0: Keeping Love Alive
 
-**Released:** 2025-04-21 19:20:46
+**Released:** 2025-04-28 14:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fcb4c8d9-41a5-4b1d-8822-76ca18e08041/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fcb4c8d9-41a5-4b1d-8822-76ca18e08041&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
 
 ---
 
@@ -178,42 +178,6 @@ Last updated: 2025-04-28 12:22:48
 
 ---
 
-## Revisionist History
-
-### The Joe Rogan Intervention
-
-**Released:** 2025-04-24 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Anthony Anderson
-
-**Released:** 2025-04-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: First Responder
-
-**Released:** 2025-04-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Blaine (magician and mentalist)
-
-**Released:** 2025-04-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Hexclad: Danny Winer
@@ -232,21 +196,31 @@ Last updated: 2025-04-28 12:22:48
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Bill Hader Returns Again
+### The Joe Rogan Intervention
 
-**Released:** 2025-04-28 04:05:00
+**Released:** 2025-04-24 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/446da19e-33eb-4070-8a9b-b2c8016003d1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Conan's Own
+## The Tim Ferriss Show
 
-**Released:** 2025-04-24 04:05:00
+### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+**Released:** 2025-04-23 20:52:35
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+
+**Released:** 2025-04-22 22:16:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -276,6 +250,24 @@ Last updated: 2025-04-28 12:22:48
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Bill Hader Returns Again
+
+**Released:** 2025-04-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
+
+---
+
+### Conan's Own
+
+**Released:** 2025-04-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Paul Rudd"
@@ -286,21 +278,29 @@ Last updated: 2025-04-28 12:22:48
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #808: Stephen West — From High School Dropout to Hit Podcast (Plus: Life Lessons from Ralph Waldo Emerson, Friedrich Nietzsche, Simone Weil, and More)  
+### Anthony Anderson
 
-**Released:** 2025-04-23 20:52:35
+**Released:** 2025-04-28 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7e78d754-cee2-4448-8530-2655d966f4e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### #807: In Case You Missed It: March 2025 Recap of "The Tim Ferriss Show"
+### Armchair Anonymous: First Responder
 
-**Released:** 2025-04-22 22:16:02
+**Released:** 2025-04-25 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/841139bc-878a-485d-ab06-feba7368a4bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Blaine (magician and mentalist)
+
+**Released:** 2025-04-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
