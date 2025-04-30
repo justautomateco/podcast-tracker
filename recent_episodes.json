@@ -49,6 +49,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6ecf46ff-56aa-4739-862b-a845599b132b",
+    "episode_title": "Planet Money complains. To learn.",
+    "release_date": "2025-04-30 07:00:59",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "93d87306-ab89-43ae-a2f6-243a773fb394",
     "episode_title": "How 23andMe's bankruptcy led to a run on the gene bank",
     "release_date": "2025-04-26 00:41:18",
@@ -61,48 +68,6 @@
     "release_date": "2025-04-23 15:50:04",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "5c5d3768-0591-41be-ba48-ce3c7c221713",
-    "episode_title": "Relationships 2.0: Keeping Love Alive",
-    "release_date": "2025-04-28 14:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "2db9137e-caf1-4e93-94d5-b2ce00175766",
-    "episode_title": "Chinese Food: Best Food?",
-    "release_date": "2025-04-29 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "beb58455-3a43-44f8-83ca-b2c9013327bf",
-    "episode_title": "Selects: How Jim Henson Worked",
-    "release_date": "2025-04-26 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "b11a2202-fbc1-4999-9964-b2c8014235a7",
-    "episode_title": "Give My Regards to the Broadway Episode!",
-    "release_date": "2025-04-24 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "5066bb55-3ff1-4a67-8f23-b2c700d3c112",
-    "episode_title": "Short Stuff: Alternative Libraries",
-    "release_date": "2025-04-23 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5066bb55-3ff1-4a67-8f23-b2c700d3c112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "1221fdb2-3ec9-4b9f-9722-fd659e84c02b",
-    "episode_title": "Changing Stripes Revisited",
-    "release_date": "2025-04-29 17:48:22",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "3e5fc05a-248b-11f0-a3e9-6f4ba2d6ceb7",
@@ -133,6 +98,48 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "5c5d3768-0591-41be-ba48-ce3c7c221713",
+    "episode_title": "Relationships 2.0: Keeping Love Alive",
+    "release_date": "2025-04-28 14:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "1221fdb2-3ec9-4b9f-9722-fd659e84c02b",
+    "episode_title": "Changing Stripes Revisited",
+    "release_date": "2025-04-29 17:48:22",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "43628037-adb9-4b2b-a0b1-b2ce00e34baf",
+    "episode_title": "Short Stuff: Trovants",
+    "release_date": "2025-04-30 09:50:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43628037-adb9-4b2b-a0b1-b2ce00e34baf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "2db9137e-caf1-4e93-94d5-b2ce00175766",
+    "episode_title": "Chinese Food: Best Food?",
+    "release_date": "2025-04-29 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "beb58455-3a43-44f8-83ca-b2c9013327bf",
+    "episode_title": "Selects: How Jim Henson Worked",
+    "release_date": "2025-04-26 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "b11a2202-fbc1-4999-9964-b2c8014235a7",
+    "episode_title": "Give My Regards to the Broadway Episode!",
+    "release_date": "2025-04-24 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/c0eMWs2ebruBPFG6JDCXnmVXDLLlRhOdPh6igy7QlrA",
     "episode_title": "Hexclad: Danny Winer",
     "release_date": "2025-04-28 07:10:00",
@@ -154,39 +161,18 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/lNLEQGdNWKpAIA6I8p6IqAXzERXmB2SphR120bfielQ",
-    "episode_title": "Anthony Anderson",
-    "release_date": "2025-04-28 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "b50197ae-76d2-11ef-92d1-57eef47ad32a",
+    "episode_title": "The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses",
+    "release_date": "2025-04-29 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/5SFKC4BVdcqcaPlQNtgfn2iYu-omOJRWovUAUkESLDQ",
-    "episode_title": "Armchair Anonymous: First Responder",
-    "release_date": "2025-04-25 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/0Bl6NNdfUH7JMOEzqfILUmsaj23TNL1x-9qNKcbyHtA",
-    "episode_title": "David Blaine (magician and mentalist)",
-    "release_date": "2025-04-23 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "bbd279e6-b4f3-4b8d-b0e7-672206a6afb8",
-    "episode_title": "Bill Hader Returns Again",
-    "release_date": "2025-04-28 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "c1fc18d3-4b66-4860-b0c7-69e6b1db1469",
-    "episode_title": "Conan's Own",
-    "release_date": "2025-04-24 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "ea28b138-76d2-11ef-a8c5-fb085d87b518",
+    "episode_title": "The Moth Podcast: Grocery Trips and Italian Trysts",
+    "release_date": "2025-04-25 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "6286e32d-b9e4-49e7-b869-7d3d5ad0257a",
@@ -203,25 +189,39 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "b50197ae-76d2-11ef-92d1-57eef47ad32a",
-    "episode_title": "The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses",
-    "release_date": "2025-04-29 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214",
-    "podcast_name": "The Moth"
+    "guid": "bbd279e6-b4f3-4b8d-b0e7-672206a6afb8",
+    "episode_title": "Bill Hader Returns Again",
+    "release_date": "2025-04-28 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "ea28b138-76d2-11ef-a8c5-fb085d87b518",
-    "episode_title": "The Moth Podcast: Grocery Trips and Italian Trysts",
-    "release_date": "2025-04-25 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469",
-    "podcast_name": "The Moth"
+    "guid": "c1fc18d3-4b66-4860-b0c7-69e6b1db1469",
+    "episode_title": "Conan's Own",
+    "release_date": "2025-04-24 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "99ce3d3c-1bca-11f0-b0ca-d3966c286038",
-    "episode_title": "Introducing: What We Spend",
-    "release_date": "2025-04-23 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/KvFpKrIB-VNp4tJCG99EAatuhuwt0_RWxCWGXBiTdMQ",
+    "episode_title": "Susan Morrison (on Lorne Michaels)",
+    "release_date": "2025-04-30 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/lNLEQGdNWKpAIA6I8p6IqAXzERXmB2SphR120bfielQ",
+    "episode_title": "Anthony Anderson",
+    "release_date": "2025-04-28 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5SFKC4BVdcqcaPlQNtgfn2iYu-omOJRWovUAUkESLDQ",
+    "episode_title": "Armchair Anonymous: First Responder",
+    "release_date": "2025-04-25 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/En-cgRHK5OrKRjfffafqGtN3Tay8h9-cuFAxe6kWTQ4",

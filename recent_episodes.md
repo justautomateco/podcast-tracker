@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-04-30 00:58:15
+Last updated: 2025-04-30 12:22:33
 
 ## Freakonomics Radio
 
@@ -66,6 +66,14 @@ Last updated: 2025-04-30 00:58:15
 
 ## Planet Money
 
+### Planet Money complains. To learn.
+
+**Released:** 2025-04-30 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
+
+---
+
 ### How 23andMe's bankruptcy led to a run on the gene bank
 
 **Released:** 2025-04-26 00:41:18
@@ -79,60 +87,6 @@ Last updated: 2025-04-30 00:58:15
 **Released:** 2025-04-23 15:50:04
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6969710044.mp3?d=1192&size=19081596&e=1246593555&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Keeping Love Alive
-
-**Released:** 2025-04-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Chinese Food: Best Food?
-
-**Released:** 2025-04-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Jim Henson Worked
-
-**Released:** 2025-04-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Give My Regards to the Broadway Episode!
-
-**Released:** 2025-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Alternative Libraries
-
-**Released:** 2025-04-23 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5066bb55-3ff1-4a67-8f23-b2c700d3c112/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Changing Stripes Revisited
-
-**Released:** 2025-04-29 17:48:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +124,60 @@ Last updated: 2025-04-30 00:58:15
 
 ---
 
+## Hidden Brain
+
+### Relationships 2.0: Keeping Love Alive
+
+**Released:** 2025-04-28 14:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Changing Stripes Revisited
+
+**Released:** 2025-04-29 17:48:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+### Short Stuff: Trovants
+
+**Released:** 2025-04-30 09:50:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43628037-adb9-4b2b-a0b1-b2ce00e34baf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Chinese Food: Best Food?
+
+**Released:** 2025-04-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Jim Henson Worked
+
+**Released:** 2025-04-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Give My Regards to the Broadway Episode!
+
+**Released:** 2025-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## How I Built This
 
 ### Hexclad: Danny Winer
@@ -198,47 +206,21 @@ Last updated: 2025-04-30 00:58:15
 
 ---
 
-## Armchair Expert
+## The Moth
 
-### Anthony Anderson
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
 
-**Released:** 2025-04-28 07:35:00
+**Released:** 2025-04-29 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: First Responder
-
-**Released:** 2025-04-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
 
 ---
 
-### David Blaine (magician and mentalist)
+### The Moth Podcast: Grocery Trips and Italian Trysts
 
-**Released:** 2025-04-23 07:35:00
+**Released:** 2025-04-25 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfa92072-62e3-4e11-9881-27c2a9430734.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bill Hader Returns Again
-
-**Released:** 2025-04-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
-
----
-
-### Conan's Own
-
-**Released:** 2025-04-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
 
 ---
 
@@ -260,29 +242,47 @@ Last updated: 2025-04-30 00:58:15
 
 ---
 
-## The Moth
+## Conan O'Brien Needs A Friend
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Bill Hader Returns Again
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-04-28 04:05:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
-
----
-
-### The Moth Podcast: Grocery Trips and Italian Trysts
-
-**Released:** 2025-04-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
 
 ---
 
-### Introducing: What We Spend
+### Conan's Own
 
-**Released:** 2025-04-23 04:25:00
+**Released:** 2025-04-24 04:05:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD1621268392.mp3?updated=1745250976)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4463ae08-ec34-46ad-aa51-927175e550ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4463ae08-ec34-46ad-aa51-927175e550ca&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Susan Morrison (on Lorne Michaels)
+
+**Released:** 2025-04-30 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anthony Anderson
+
+**Released:** 2025-04-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: First Responder
+
+**Released:** 2025-04-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
