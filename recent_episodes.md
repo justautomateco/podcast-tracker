@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-02 00:58:20
+Last updated: 2025-05-02 12:22:21
+
+## Freakonomics Radio
+
+### 632. When Did We All Start Watching Documentaries?
+
+**Released:** 2025-05-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 859: Chaos Graph
+
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,41 +64,13 @@ Last updated: 2025-05-02 00:58:20
 
 ---
 
-## Freakonomics Radio
+## Hidden Brain
 
-### 631. Will "3 Summers of Lincoln" Make It to Broadway?
+### Relationships 2.0: Keeping Love Alive
 
-**Released:** 2025-04-25 10:00:00
+**Released:** 2025-04-28 14:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 859: Chaos Graph
-
-**Released:** 2025-04-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
-
----
-
-## Planet Money
-
-### Planet Money complains. To learn.
-
-**Released:** 2025-04-30 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
-
----
-
-### How 23andMe's bankruptcy led to a run on the gene bank
-
-**Released:** 2025-04-26 00:41:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3200927018.mp3?d=1858&size=29737883&e=1247139353&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
 
 ---
 
@@ -116,23 +108,21 @@ Last updated: 2025-05-02 00:58:20
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Relationships 2.0: Keeping Love Alive
+### Planet Money complains. To learn.
 
-**Released:** 2025-04-28 14:00:00
+**Released:** 2025-04-30 07:00:59
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
 
 ---
 
-## 99% Invisible
+### How 23andMe's bankruptcy led to a run on the gene bank
 
-### Changing Stripes Revisited
+**Released:** 2025-04-26 00:41:18
 
-**Released:** 2025-04-29 17:48:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3200927018.mp3?d=1858&size=29737883&e=1247139353&t=podcast&p=510289)
 
 ---
 
@@ -170,49 +160,13 @@ Last updated: 2025-05-02 00:58:20
 
 ---
 
-## The Moth
+## 99% Invisible
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Changing Stripes Revisited
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
-
----
-
-### The Moth Podcast: Grocery Trips and Italian Trysts
-
-**Released:** 2025-04-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
-
----
-
-## Revisionist History
-
-### The Origin of “You” – A Conversation with John McWhorter
-
-**Released:** 2025-05-01 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Drainin’ Treys and Drivin' Holes
-
-**Released:** 2025-05-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
-
----
-
-### Bill Hader Returns Again
-
-**Released:** 2025-04-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -234,21 +188,23 @@ Last updated: 2025-05-02 00:58:20
 
 ---
 
-## SmartLess 
+## Revisionist History
 
-### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
+### The Origin of “You” – A Conversation with John McWhorter
 
-**Released:** 2025-04-29 07:00:00
+**Released:** 2025-05-01 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### "Paul Rudd"
+## The Tim Ferriss Show
 
-**Released:** 2025-04-28 07:01:00
+### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
+**Released:** 2025-04-30 23:06:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,21 +226,49 @@ Last updated: 2025-05-02 00:58:20
 
 ---
 
-### Armchair Anonymous: First Responder
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-04-25 07:35:00
+### Drainin’ Treys and Drivin' Holes
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
 
 ---
 
-## The Tim Ferriss Show
+### Bill Hader Returns Again
 
-### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
+**Released:** 2025-04-28 04:05:00
 
-**Released:** 2025-04-30 23:06:02
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+## SmartLess 
+
+### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
+
+**Released:** 2025-04-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
+
+---
+
+### "Paul Rudd"
+
+**Released:** 2025-04-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
 
 ---
 
