@@ -1,18 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-01 12:21:56
+Last updated: 2025-05-02 00:58:20
 
-## Freakonomics Radio
+## TED Talks Daily
 
-### 631. Will "3 Summers of Lincoln" Make It to Broadway?
+### Beyond the Talk: Tristan Harris and Elise Hu
 
-**Released:** 2025-04-25 10:00:00
+**Released:** 2025-05-01 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6813920ecea6682986b0af28/media.mp3)
 
 ---
 
-## TED Talks Daily
+### Why AI is our ultimate test and greatest invitation | Tristan Harris
+
+**Released:** 2025-05-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68123ecaf7d552efdc43dd7c/media.mp3)
+
+---
 
 ### Tariffs, China and Trump’s first 100 days in office | Ian Bremmer
 
@@ -38,19 +44,23 @@ Last updated: 2025-05-01 12:21:56
 
 ---
 
-### Sunday Pick: How poetry builds teenagers' confidence (w/ Youth Poet Laureate Naisha Randhar) | How to Be a Better Human
+## Freakonomics Radio
 
-**Released:** 2025-04-27 06:00:00
+### 631. Will "3 Summers of Lincoln" Make It to Broadway?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/67f40b4c546af5790687311b/media.mp3)
+**Released:** 2025-04-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b415b1f3-49d9-4eca-99e2-6a2f72f7817b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b415b1f3-49d9-4eca-99e2-6a2f72f7817b&feed=Y8lFbOT4)
 
 ---
 
-### The climate movement needs new stories — here's mine | Fenton Lutunatabua
+## This American Life
 
-**Released:** 2025-04-26 06:00:00
+### 859: Chaos Graph
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680a44963e1190c8314375c0/media.mp3)
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
 
 ---
 
@@ -72,17 +82,15 @@ Last updated: 2025-05-01 12:21:56
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 859: Chaos Graph
+### #2314 - Hal Puthoff
 
-**Released:** 2025-04-27 18:00:00
+**Released:** 2025-05-01 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2313 - Jillian Michaels
 
@@ -105,14 +113,6 @@ Last updated: 2025-05-01 12:21:56
 **Released:** 2025-04-25 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8063233580.mp3?updated=1745601380)
-
----
-
-### #2310 - Robert Rodriguez
-
-**Released:** 2025-04-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2254075242.mp3?updated=1745513282)
 
 ---
 
@@ -170,6 +170,24 @@ Last updated: 2025-05-01 12:21:56
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+
+---
+
+### The Moth Podcast: Grocery Trips and Italian Trysts
+
+**Released:** 2025-04-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+
+---
+
 ## Revisionist History
 
 ### The Origin of “You” – A Conversation with John McWhorter
@@ -177,24 +195,6 @@ Last updated: 2025-05-01 12:21:56
 **Released:** 2025-05-01 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Luis von Ahn of Duolingo
-
-**Released:** 2025-05-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hexclad: Danny Winer
-
-**Released:** 2025-04-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,21 +216,39 @@ Last updated: 2025-05-01 12:21:56
 
 ---
 
-## The Moth
+## How I Built This
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Advice Line with Luis von Ahn of Duolingo
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-05-01 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Podcast: Grocery Trips and Italian Trysts
+### Hexclad: Danny Winer
 
-**Released:** 2025-04-25 04:25:00
+**Released:** 2025-04-28 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7065894027.mp3?updated=1745422469)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
+
+**Released:** 2025-04-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
+
+---
+
+### "Paul Rudd"
+
+**Released:** 2025-04-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
 
 ---
 
@@ -257,24 +275,6 @@ Last updated: 2025-05-01 12:21:56
 **Released:** 2025-04-25 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/00f2f475-cbbc-4923-a19f-99af9cb2d210.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
-
-**Released:** 2025-04-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
-
----
-
-### "Paul Rudd"
-
-**Released:** 2025-04-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
 
 ---
 
