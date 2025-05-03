@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-02 12:22:21
+Last updated: 2025-05-03 00:56:47
 
 ## Freakonomics Radio
 
@@ -24,7 +24,15 @@ Last updated: 2025-05-02 12:22:21
 
 ## TED Talks Daily
 
-### Beyond the Talk: Tristan Harris and Elise Hu
+### Grief is complicated — but drawing cartoons can help | Navied Mahdavian
+
+**Released:** 2025-05-02 15:10:11
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6814e031f7d552efdcf01b4b/media.mp3)
+
+---
+
+### Beyond the Talk: Tristan Harris in conversation with TED Talks Daily
 
 **Released:** 2025-05-01 19:00:00
 
@@ -40,7 +48,7 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-### Tariffs, China and Trump’s first 100 days in office | Ian Bremmer
+### Where in the world is Trump taking us? | TED Explains the World with Ian Bremmer
 
 **Released:** 2025-04-30 14:45:12
 
@@ -56,11 +64,21 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-### Feeling stressed? The answer isn’t to “just relax” | Aditi Nerurkar
+## Planet Money
 
-**Released:** 2025-04-28 15:08:46
+### Why it's so hard to find a public toilet
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/680f9990f7d552efdc96d51b/media.mp3)
+**Released:** 2025-05-02 23:03:32
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1753837594.mp3?d=1447&size=23159206&e=1248664709&t=podcast&p=510289)
+
+---
+
+### Planet Money complains. To learn.
+
+**Released:** 2025-04-30 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
 
 ---
 
@@ -74,55 +92,13 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-## The Joe Rogan Experience
+## 99% Invisible
 
-### #2314 - Hal Puthoff
+### Changing Stripes Revisited
 
-**Released:** 2025-05-01 17:00:00
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
-
----
-
-### #2313 - Jillian Michaels
-
-**Released:** 2025-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
-
----
-
-### #2312 - Jeremy Renner
-
-**Released:** 2025-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
-
----
-
-### #2311 - Jeremie & Edouard Harris
-
-**Released:** 2025-04-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8063233580.mp3?updated=1745601380)
-
----
-
-## Planet Money
-
-### Planet Money complains. To learn.
-
-**Released:** 2025-04-30 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
-
----
-
-### How 23andMe's bankruptcy led to a run on the gene bank
-
-**Released:** 2025-04-26 00:41:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3200927018.mp3?d=1858&size=29737883&e=1247139353&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -160,41 +136,37 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-## 99% Invisible
+## The Joe Rogan Experience
 
-### Changing Stripes Revisited
+### #2315 - José Andrés
 
-**Released:** 2025-04-29 17:48:22
+**Released:** 2025-05-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Luis von Ahn of Duolingo
-
-**Released:** 2025-05-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
 
 ---
 
-### Hexclad: Danny Winer
+### #2314 - Hal Puthoff
 
-**Released:** 2025-04-28 07:10:00
+**Released:** 2025-05-01 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
 
 ---
 
-## Revisionist History
+### #2313 - Jillian Michaels
 
-### The Origin of “You” – A Conversation with John McWhorter
+**Released:** 2025-04-30 17:00:00
 
-**Released:** 2025-05-01 04:01:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+---
+
+### #2312 - Jeremy Renner
+
+**Released:** 2025-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
 
 ---
 
@@ -208,21 +180,23 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Susan Morrison (on Lorne Michaels)
+### The Origin of “You” – A Conversation with John McWhorter
 
-**Released:** 2025-04-30 07:35:00
+**Released:** 2025-05-01 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Anthony Anderson
+## The Moth
 
-**Released:** 2025-04-28 07:35:00
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
 
 ---
 
@@ -262,13 +236,39 @@ Last updated: 2025-05-02 12:22:21
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Susan Morrison (on Lorne Michaels)
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-04-30 07:35:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anthony Anderson
+
+**Released:** 2025-04-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line with Luis von Ahn of Duolingo
+
+**Released:** 2025-05-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Hexclad: Danny Winer
+
+**Released:** 2025-04-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
