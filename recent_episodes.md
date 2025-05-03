@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-03 00:56:47
-
-## Freakonomics Radio
-
-### 632. When Did We All Start Watching Documentaries?
-
-**Released:** 2025-05-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 859: Chaos Graph
-
-**Released:** 2025-04-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
-
----
+Last updated: 2025-05-03 12:20:44
 
 ## TED Talks Daily
+
+### Star Wars changed visual effects — AI is doing it again | Rob Bredow
+
+**Released:** 2025-05-03 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68138d186ac0e5213be7e4a8/media.mp3)
+
+---
 
 ### Grief is complicated — but drawing cartoons can help | Navied Mahdavian
 
@@ -56,14 +44,6 @@ Last updated: 2025-05-03 00:56:47
 
 ---
 
-### A new vision of healthy masculinity | Davonte Green
-
-**Released:** 2025-04-29 15:18:06
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6810e941f7d552efdcec572f/media.mp3)
-
----
-
 ## Planet Money
 
 ### Why it's so hard to find a public toilet
@@ -82,6 +62,26 @@ Last updated: 2025-05-03 00:56:47
 
 ---
 
+## Freakonomics Radio
+
+### 632. When Did We All Start Watching Documentaries?
+
+**Released:** 2025-05-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 859: Chaos Graph
+
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+
+---
+
 ## Hidden Brain
 
 ### Relationships 2.0: Keeping Love Alive
@@ -89,50 +89,6 @@ Last updated: 2025-05-03 00:56:47
 **Released:** 2025-04-28 14:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Changing Stripes Revisited
-
-**Released:** 2025-04-29 17:48:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
-
----
-
-## Stuff You Should Know
-
-### What we know about MI6
-
-**Released:** 2025-05-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee6c3d66-6324-481b-9199-b2cf0125d5e2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Trovants
-
-**Released:** 2025-04-30 09:50:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43628037-adb9-4b2b-a0b1-b2ce00e34baf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Chinese Food: Best Food?
-
-**Released:** 2025-04-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Jim Henson Worked
-
-**Released:** 2025-04-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/beb58455-3a43-44f8-83ca-b2c9013327bf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -170,13 +126,65 @@ Last updated: 2025-05-03 00:56:47
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
+### Changing Stripes Revisited
 
-**Released:** 2025-04-30 23:06:02
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+###  Selects: Muzak: Easy Listening Goodness
+
+**Released:** 2025-05-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e75e9a1f-8daf-4bef-ab80-b2ce0104efbe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### What we know about MI6
+
+**Released:** 2025-05-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee6c3d66-6324-481b-9199-b2cf0125d5e2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Trovants
+
+**Released:** 2025-04-30 09:50:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43628037-adb9-4b2b-a0b1-b2ce00e34baf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Chinese Food: Best Food?
+
+**Released:** 2025-04-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## How I Built This
+
+### Advice Line with Luis von Ahn of Duolingo
+
+**Released:** 2025-05-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Hexclad: Danny Winer
+
+**Released:** 2025-04-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -218,24 +226,6 @@ Last updated: 2025-05-03 00:56:47
 
 ---
 
-## SmartLess 
-
-### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
-
-**Released:** 2025-04-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
-
----
-
-### "Paul Rudd"
-
-**Released:** 2025-04-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Susan Morrison (on Lorne Michaels)
@@ -254,21 +244,31 @@ Last updated: 2025-05-03 00:56:47
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Advice Line with Luis von Ahn of Duolingo
+### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
 
-**Released:** 2025-05-01 07:10:00
+**Released:** 2025-04-29 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
 
 ---
 
-### Hexclad: Danny Winer
+### "Paul Rudd"
 
-**Released:** 2025-04-28 07:10:00
+**Released:** 2025-04-28 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
+
+**Released:** 2025-04-30 23:06:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
