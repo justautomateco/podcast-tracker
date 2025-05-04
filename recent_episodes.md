@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-03 12:20:44
+Last updated: 2025-05-04 01:03:57
+
+## Freakonomics Radio
+
+### 632. When Did We All Start Watching Documentaries?
+
+**Released:** 2025-05-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,6 +54,16 @@ Last updated: 2025-05-03 12:20:44
 
 ---
 
+## This American Life
+
+### 859: Chaos Graph
+
+**Released:** 2025-04-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+
+---
+
 ## Planet Money
 
 ### Why it's so hard to find a public toilet
@@ -59,36 +79,6 @@ Last updated: 2025-05-03 12:20:44
 **Released:** 2025-04-30 07:00:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
-
----
-
-## Freakonomics Radio
-
-### 632. When Did We All Start Watching Documentaries?
-
-**Released:** 2025-05-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 859: Chaos Graph
-
-**Released:** 2025-04-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Keeping Love Alive
-
-**Released:** 2025-04-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
 
 ---
 
@@ -123,6 +113,16 @@ Last updated: 2025-05-03 12:20:44
 **Released:** 2025-04-29 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
+
+---
+
+## Hidden Brain
+
+### Relationships 2.0: Keeping Love Alive
+
+**Released:** 2025-04-28 14:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
 
 ---
 
