@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-04 01:03:57
+Last updated: 2025-05-04 12:20:57
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-05-04 01:03:57
 ---
 
 ## TED Talks Daily
+
+### What role will AI play in family life? | Kelly Corrigan’s TED Talks Daily takeover
+
+**Released:** 2025-05-04 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6814ed3df3c711a5d0becb8a/media.mp3)
+
+---
 
 ### Star Wars changed visual effects — AI is doing it again | Rob Bredow
 
@@ -46,14 +54,6 @@ Last updated: 2025-05-04 01:03:57
 
 ---
 
-### Where in the world is Trump taking us? | TED Explains the World with Ian Bremmer
-
-**Released:** 2025-04-30 14:45:12
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68122cbcf7d552efdc3cdc9a/media.mp3)
-
----
-
 ## This American Life
 
 ### 859: Chaos Graph
@@ -82,37 +82,13 @@ Last updated: 2025-05-04 01:03:57
 
 ---
 
-## The Joe Rogan Experience
+## 99% Invisible
 
-### #2315 - José Andrés
+### Changing Stripes Revisited
 
-**Released:** 2025-05-02 17:00:00
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
-
----
-
-### #2314 - Hal Puthoff
-
-**Released:** 2025-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
-
----
-
-### #2313 - Jillian Michaels
-
-**Released:** 2025-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
-
----
-
-### #2312 - Jeremy Renner
-
-**Released:** 2025-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -123,16 +99,6 @@ Last updated: 2025-05-04 01:03:57
 **Released:** 2025-04-28 14:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Changing Stripes Revisited
-
-**Released:** 2025-04-29 17:48:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +136,40 @@ Last updated: 2025-05-04 01:03:57
 
 ---
 
+## The Joe Rogan Experience
+
+### #2315 - José Andrés
+
+**Released:** 2025-05-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
+
+---
+
+### #2314 - Hal Puthoff
+
+**Released:** 2025-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
+
+---
+
+### #2313 - Jillian Michaels
+
+**Released:** 2025-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
+
+---
+
+### #2312 - Jeremy Renner
+
+**Released:** 2025-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Luis von Ahn of Duolingo
@@ -195,34 +195,6 @@ Last updated: 2025-05-04 01:03:57
 **Released:** 2025-05-01 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a1d180ad-44fe-4895-a671-b2cf017c724a/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
-
-**Released:** 2025-04-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Drainin’ Treys and Drivin' Holes
-
-**Released:** 2025-05-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
-
----
-
-### Bill Hader Returns Again
-
-**Released:** 2025-04-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
 
 ---
 
@@ -259,6 +231,34 @@ Last updated: 2025-05-04 01:03:57
 **Released:** 2025-04-28 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Drainin’ Treys and Drivin' Holes
+
+**Released:** 2025-05-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
+
+---
+
+### Bill Hader Returns Again
+
+**Released:** 2025-04-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
 
 ---
 
