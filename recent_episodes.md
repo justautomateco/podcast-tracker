@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-05 01:01:12
+Last updated: 2025-05-05 12:23:23
 
 ## TED Talks Daily
 
@@ -82,40 +82,6 @@ Last updated: 2025-05-05 01:01:12
 
 ---
 
-## The Joe Rogan Experience
-
-### #2315 - José Andrés
-
-**Released:** 2025-05-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
-
----
-
-### #2314 - Hal Puthoff
-
-**Released:** 2025-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
-
----
-
-### #2313 - Jillian Michaels
-
-**Released:** 2025-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
-
----
-
-### #2312 - Jeremy Renner
-
-**Released:** 2025-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
-
----
-
 ## Hidden Brain
 
 ### Relationships 2.0: Keeping Love Alive
@@ -170,6 +136,58 @@ Last updated: 2025-05-05 01:01:12
 
 ---
 
+## The Joe Rogan Experience
+
+### #2315 - José Andrés
+
+**Released:** 2025-05-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
+
+---
+
+### #2314 - Hal Puthoff
+
+**Released:** 2025-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
+
+---
+
+### #2313 - Jillian Michaels
+
+**Released:** 2025-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
+
+---
+
+### #2312 - Jeremy Renner
+
+**Released:** 2025-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
+
+---
+
+## How I Built This
+
+### Whisker/Litter-Robot: Brad Baxter
+
+**Released:** 2025-05-05 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f65dfa9-dde3-4e65-8eee-e3e811b00a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Luis von Ahn of Duolingo
+
+**Released:** 2025-05-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Origin of “You” – A Conversation with John McWhorter
@@ -182,6 +200,14 @@ Last updated: 2025-05-05 01:01:12
 
 ## Armchair Expert
 
+### Jon Bernthal
+
+**Released:** 2025-05-05 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Susan Morrison (on Lorne Michaels)
 
 **Released:** 2025-04-30 07:35:00
@@ -190,11 +216,39 @@ Last updated: 2025-05-05 01:01:12
 
 ---
 
-### Anthony Anderson
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-04-28 07:35:00
+### Christina Applegate and Jamie-Lynn Sigler
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-05 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc4a47c2-dddd-4c71-8b7e-d2320c8a24bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc4a47c2-dddd-4c71-8b7e-d2320c8a24bc&feed=dHoohVNH)
+
+---
+
+### Drainin’ Treys and Drivin' Holes
+
+**Released:** 2025-05-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Pam Abdy & Mike De Luca"
+
+**Released:** 2025-05-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
+
+---
+
+### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
+
+**Released:** 2025-04-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
 
 ---
 
@@ -205,60 +259,6 @@ Last updated: 2025-05-05 01:01:12
 **Released:** 2025-04-29 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
-
----
-
-## SmartLess 
-
-### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
-
-**Released:** 2025-04-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
-
----
-
-### "Paul Rudd"
-
-**Released:** 2025-04-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecd679b0-a2ba-42f4-a330-f8cd1e174aa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecd679b0-a2ba-42f4-a330-f8cd1e174aa1&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Drainin’ Treys and Drivin' Holes
-
-**Released:** 2025-05-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/de5865cf-120a-41ca-9a64-ac0e9cabea58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=de5865cf-120a-41ca-9a64-ac0e9cabea58&feed=dHoohVNH)
-
----
-
-### Bill Hader Returns Again
-
-**Released:** 2025-04-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/24190f2c-853e-4242-9513-64862d91156a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=24190f2c-853e-4242-9513-64862d91156a&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Advice Line with Luis von Ahn of Duolingo
-
-**Released:** 2025-05-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hexclad: Danny Winer
-
-**Released:** 2025-04-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
