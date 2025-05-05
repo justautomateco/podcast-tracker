@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-04 12:20:57
-
-## Freakonomics Radio
-
-### 632. When Did We All Start Watching Documentaries?
-
-**Released:** 2025-05-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
-
----
+Last updated: 2025-05-05 01:01:12
 
 ## TED Talks Daily
 
@@ -54,13 +44,23 @@ Last updated: 2025-05-04 12:20:57
 
 ---
 
+## Freakonomics Radio
+
+### 632. When Did We All Start Watching Documentaries?
+
+**Released:** 2025-05-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
-### 859: Chaos Graph
+### 638: Rom-Com
 
-**Released:** 2025-04-27 18:00:00
+**Released:** 2025-05-04 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8121348044.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5620711770.mp3)
 
 ---
 
@@ -82,13 +82,37 @@ Last updated: 2025-05-04 12:20:57
 
 ---
 
-## 99% Invisible
+## The Joe Rogan Experience
 
-### Changing Stripes Revisited
+### #2315 - José Andrés
 
-**Released:** 2025-04-29 17:48:22
+**Released:** 2025-05-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
+
+---
+
+### #2314 - Hal Puthoff
+
+**Released:** 2025-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
+
+---
+
+### #2313 - Jillian Michaels
+
+**Released:** 2025-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
+
+---
+
+### #2312 - Jeremy Renner
+
+**Released:** 2025-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
 
 ---
 
@@ -136,55 +160,13 @@ Last updated: 2025-05-04 12:20:57
 
 ---
 
-## The Joe Rogan Experience
+## 99% Invisible
 
-### #2315 - José Andrés
+### Changing Stripes Revisited
 
-**Released:** 2025-05-02 17:00:00
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
-
----
-
-### #2314 - Hal Puthoff
-
-**Released:** 2025-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
-
----
-
-### #2313 - Jillian Michaels
-
-**Released:** 2025-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
-
----
-
-### #2312 - Jeremy Renner
-
-**Released:** 2025-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
-
----
-
-## How I Built This
-
-### Advice Line with Luis von Ahn of Duolingo
-
-**Released:** 2025-05-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hexclad: Danny Winer
-
-**Released:** 2025-04-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -213,6 +195,16 @@ Last updated: 2025-05-04 12:20:57
 **Released:** 2025-04-28 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5648fb17-cce9-4163-9626-45b7d17b1bbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
 
 ---
 
@@ -252,13 +244,21 @@ Last updated: 2025-05-04 12:20:57
 
 ---
 
-## The Moth
+## How I Built This
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Advice Line with Luis von Ahn of Duolingo
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-05-01 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b593b135-9aaf-4c95-afe4-00c2019d3933.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Hexclad: Danny Winer
+
+**Released:** 2025-04-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f727f083-5bbb-4d99-b184-f7e2d03449ed.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
