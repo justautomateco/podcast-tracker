@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-05 12:23:23
+Last updated: 2025-05-06 00:58:45
 
 ## TED Talks Daily
+
+### The mental health AI chatbot made for real life | Alison Darcy (Kelly Corrigan takeover)
+
+**Released:** 2025-05-05 15:17:17
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6818d59bf30c20bff745924e/media.mp3)
+
+---
 
 ### What role will AI play in family life? | Kelly Corrigan’s TED Talks Daily takeover
 
@@ -20,7 +28,7 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
-### Grief is complicated — but drawing cartoons can help | Navied Mahdavian
+### When cartooning and grief collide | Navied Mahdavian
 
 **Released:** 2025-05-02 15:10:11
 
@@ -33,14 +41,6 @@ Last updated: 2025-05-05 12:23:23
 **Released:** 2025-05-01 19:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6813920ecea6682986b0af28/media.mp3)
-
----
-
-### Why AI is our ultimate test and greatest invitation | Tristan Harris
-
-**Released:** 2025-05-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68123ecaf7d552efdc43dd7c/media.mp3)
 
 ---
 
@@ -64,6 +64,50 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
+## The Joe Rogan Experience
+
+### #2315 - José Andrés
+
+**Released:** 2025-05-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
+
+---
+
+### #2314 - Hal Puthoff
+
+**Released:** 2025-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
+
+---
+
+### #2313 - Jillian Michaels
+
+**Released:** 2025-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
+
+---
+
+### #2312 - Jeremy Renner
+
+**Released:** 2025-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
+
+---
+
+## Hidden Brain
+
+### How to Harness Your Feelings
+
+**Released:** 2025-05-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7d5a4885-d06c-4f26-af03-3a8b4f935342/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7d5a4885-d06c-4f26-af03-3a8b4f935342&feed=kwWc0lhf)
+
+---
+
 ## Planet Money
 
 ### Why it's so hard to find a public toilet
@@ -79,16 +123,6 @@ Last updated: 2025-05-05 12:23:23
 **Released:** 2025-04-30 07:00:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Relationships 2.0: Keeping Love Alive
-
-**Released:** 2025-04-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/59a4f0d7-a85e-4f50-bc20-0a47215e2ab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=59a4f0d7-a85e-4f50-bc20-0a47215e2ab1&feed=kwWc0lhf)
 
 ---
 
@@ -136,40 +170,6 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
-## The Joe Rogan Experience
-
-### #2315 - José Andrés
-
-**Released:** 2025-05-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
-
----
-
-### #2314 - Hal Puthoff
-
-**Released:** 2025-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751)
-
----
-
-### #2313 - Jillian Michaels
-
-**Released:** 2025-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211306088.mp3?updated=1746036530)
-
----
-
-### #2312 - Jeremy Renner
-
-**Released:** 2025-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3681145152.mp3?updated=1746047699)
-
----
-
 ## How I Built This
 
 ### Whisker/Litter-Robot: Brad Baxter
@@ -198,21 +198,13 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Jon Bernthal
+### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
 
-**Released:** 2025-05-05 07:35:00
+**Released:** 2025-04-30 23:06:02
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Susan Morrison (on Lorne Michaels)
-
-**Released:** 2025-04-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +226,16 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+
+**Released:** 2025-04-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+
+---
+
 ## SmartLess 
 
 ### "Pam Abdy & Mike De Luca"
@@ -252,23 +254,21 @@ Last updated: 2025-05-05 12:23:23
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
+### Jon Bernthal
 
-**Released:** 2025-04-29 04:25:00
+**Released:** 2025-05-05 07:35:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Susan Morrison (on Lorne Michaels)
 
-### #809: The 4-Hour Workweek Tools That Still Work — The Art of Refusal and The Low-Information Diet
+**Released:** 2025-04-30 07:35:00
 
-**Released:** 2025-04-30 23:06:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d26be727-5f01-4cc1-8953-e3483d52f080.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
