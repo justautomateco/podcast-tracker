@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-06 00:58:45
+Last updated: 2025-05-06 12:25:13
+
+## Freakonomics Radio
+
+### 632. When Did We All Start Watching Documentaries?
+
+**Released:** 2025-05-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Why it's so hard to find a public toilet
+
+**Released:** 2025-05-02 23:03:32
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1753837594.mp3?d=1447&size=23159206&e=1248664709&t=podcast&p=510289)
+
+---
+
+### Planet Money complains. To learn.
+
+**Released:** 2025-04-30 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
+
+---
 
 ## TED Talks Daily
 
@@ -41,16 +69,6 @@ Last updated: 2025-05-06 00:58:45
 **Released:** 2025-05-01 19:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6813920ecea6682986b0af28/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 632. When Did We All Start Watching Documentaries?
-
-**Released:** 2025-05-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
 
 ---
 
@@ -108,25 +126,25 @@ Last updated: 2025-05-06 00:58:45
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### Why it's so hard to find a public toilet
+### Changing Stripes Revisited
 
-**Released:** 2025-05-02 23:03:32
+**Released:** 2025-04-29 17:48:22
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1753837594.mp3?d=1447&size=23159206&e=1248664709&t=podcast&p=510289)
-
----
-
-### Planet Money complains. To learn.
-
-**Released:** 2025-04-30 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8885045788.mp3?d=1551&size=24832714&e=1248091506&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Fentanyl: Actually As Dangerous As They Say
+
+**Released:** 2025-05-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/91bda2a4-8bb2-4ba8-a686-b2cf0127e7b0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ###  Selects: Muzak: Easy Listening Goodness
 
@@ -149,24 +167,6 @@ Last updated: 2025-05-06 00:58:45
 **Released:** 2025-04-30 09:50:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43628037-adb9-4b2b-a0b1-b2ce00e34baf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Chinese Food: Best Food?
-
-**Released:** 2025-04-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db9137e-caf1-4e93-94d5-b2ce00175766/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Changing Stripes Revisited
-
-**Released:** 2025-04-29 17:48:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/06bc9f81-e693-4d51-bf17-9b7fb9b1a954/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=06bc9f81-e693-4d51-bf17-9b7fb9b1a954&feed=BqbsxVfO)
 
 ---
 
@@ -208,6 +208,16 @@ Last updated: 2025-05-06 00:58:45
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: When Time Slows Down
+
+**Released:** 2025-05-06 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4465610378.mp3?updated=1745276036)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Christina Applegate and Jamie-Lynn Sigler
@@ -226,34 +236,6 @@ Last updated: 2025-05-06 00:58:45
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Live from New York: Give me Five - Stories of the Senses
-
-**Released:** 2025-04-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD8075741679.mp3?updated=1745006214)
-
----
-
-## SmartLess 
-
-### "Pam Abdy & Mike De Luca"
-
-**Released:** 2025-05-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
-
----
-
-### INTRODUCING: Staying Alive with Jon Gabrus and Adam Pally
-
-**Released:** 2025-04-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/51342244-b6cf-4c63-8b8f-669eea12cc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=51342244-b6cf-4c63-8b8f-669eea12cc5d&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Jon Bernthal
@@ -269,6 +251,16 @@ Last updated: 2025-05-06 00:58:45
 **Released:** 2025-04-30 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/983e0e25-ca4d-488b-9da3-971a53d9db8f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Pam Abdy & Mike De Luca"
+
+**Released:** 2025-05-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
 
 ---
 
