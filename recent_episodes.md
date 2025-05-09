@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-09 00:58:48
+Last updated: 2025-05-09 12:22:33
 
 ## Freakonomics Radio
 
-### 632. When Did We All Start Watching Documentaries?
+### How to Succeed at Failing, Part 1: The Chain of Events (Update)
 
-**Released:** 2025-05-02 10:00:00
+**Released:** 2025-05-09 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cefbbd0-3281-4b4f-b425-ba4b04a6c2b7&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
 
 ---
 
@@ -64,24 +64,6 @@ Last updated: 2025-05-09 00:58:48
 
 ---
 
-## Planet Money
-
-### What "Made in China" actually means
-
-**Released:** 2025-05-07 20:22:43
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
-
----
-
-### Why it's so hard to find a public toilet
-
-**Released:** 2025-05-02 23:03:32
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1753837594.mp3?d=1447&size=23159206&e=1248664709&t=podcast&p=510289)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2318 - Harold "Sonny" White
@@ -113,6 +95,24 @@ Last updated: 2025-05-09 00:58:48
 **Released:** 2025-05-02 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3728106974.mp3?updated=1746207120)
+
+---
+
+## Planet Money
+
+### What "Made in China" actually means
+
+**Released:** 2025-05-07 20:22:43
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
+
+---
+
+### Why it's so hard to find a public toilet
+
+**Released:** 2025-05-02 23:03:32
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1753837594.mp3?d=1447&size=23159206&e=1248664709&t=podcast&p=510289)
 
 ---
 
@@ -208,6 +208,32 @@ Last updated: 2025-05-09 00:58:48
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Cults II
+
+**Released:** 2025-05-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Michael Lewis (on the gambling epidemic)
+
+**Released:** 2025-05-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jon Bernthal
+
+**Released:** 2025-05-05 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: When Time Slows Down
@@ -219,6 +245,14 @@ Last updated: 2025-05-09 00:58:48
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### The Conan and Jordan Show – Beet Red Face
+
+**Released:** 2025-05-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f72e61f7-966a-4a29-935d-5c81fa3ff42c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f72e61f7-966a-4a29-935d-5c81fa3ff42c&feed=dHoohVNH)
+
+---
 
 ### Conan O’Brien Must Go: Spain Roundtable Discussion
 
@@ -243,24 +277,6 @@ Last updated: 2025-05-09 00:58:48
 **Released:** 2025-05-05 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Michael Lewis (on the gambling epidemic)
-
-**Released:** 2025-05-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jon Bernthal
-
-**Released:** 2025-05-05 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
