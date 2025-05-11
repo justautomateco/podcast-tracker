@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-10 12:20:35
+Last updated: 2025-05-11 01:02:48
+
+## Freakonomics Radio
+
+### How to Succeed at Failing, Part 1: The Chain of Events (Update)
+
+**Released:** 2025-05-09 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -54,16 +64,6 @@ Last updated: 2025-05-10 12:20:35
 
 ---
 
-## Freakonomics Radio
-
-### How to Succeed at Failing, Part 1: The Chain of Events (Update)
-
-**Released:** 2025-05-09 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Is the reign of the dollar over?
@@ -79,16 +79,6 @@ Last updated: 2025-05-10 12:20:35
 **Released:** 2025-05-07 20:22:43
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### How to Harness Your Feelings
-
-**Released:** 2025-05-05 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7d5a4885-d06c-4f26-af03-3a8b4f935342/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7d5a4885-d06c-4f26-af03-3a8b4f935342&feed=kwWc0lhf)
 
 ---
 
@@ -123,6 +113,16 @@ Last updated: 2025-05-10 12:20:35
 **Released:** 2025-05-06 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8081819583.mp3?updated=1746551302)
+
+---
+
+## Hidden Brain
+
+### How to Harness Your Feelings
+
+**Released:** 2025-05-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7d5a4885-d06c-4f26-af03-3a8b4f935342/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7d5a4885-d06c-4f26-af03-3a8b4f935342&feed=kwWc0lhf)
 
 ---
 
@@ -170,6 +170,26 @@ Last updated: 2025-05-10 12:20:35
 
 ---
 
+## Revisionist History
+
+### Face Value 
+
+**Released:** 2025-05-08 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a2a92d3c-4e2c-478d-a6f5-b2d7001eeaa7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #810: Terry Real — The Therapist Who Breaks All The Rules
+
+**Released:** 2025-05-08 14:18:10
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Richard Branson of Virgin
@@ -188,26 +208,6 @@ Last updated: 2025-05-10 12:20:35
 
 ---
 
-## The Tim Ferriss Show
-
-### #810: Terry Real — The Therapist Who Breaks All The Rules
-
-**Released:** 2025-05-08 14:18:10
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Face Value 
-
-**Released:** 2025-05-08 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a2a92d3c-4e2c-478d-a6f5-b2d7001eeaa7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Radio Hour: When Time Slows Down
@@ -215,32 +215,6 @@ Last updated: 2025-05-10 12:20:35
 **Released:** 2025-05-06 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4465610378.mp3?updated=1745276036)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Cults II
-
-**Released:** 2025-05-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Michael Lewis (on the gambling epidemic)
-
-**Released:** 2025-05-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jon Bernthal
-
-**Released:** 2025-05-05 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -277,6 +251,32 @@ Last updated: 2025-05-10 12:20:35
 **Released:** 2025-05-05 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Cults II
+
+**Released:** 2025-05-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Michael Lewis (on the gambling epidemic)
+
+**Released:** 2025-05-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jon Bernthal
+
+**Released:** 2025-05-05 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
