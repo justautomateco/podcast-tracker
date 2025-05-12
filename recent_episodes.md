@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-12 01:01:27
+Last updated: 2025-05-12 12:24:14
 
-## Freakonomics Radio
+## This American Life
 
-### How to Succeed at Failing, Part 1: The Chain of Events (Update)
+### 361: Fear of Sleep
 
-**Released:** 2025-05-09 10:00:00
+**Released:** 2025-05-11 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
@@ -54,13 +54,13 @@ Last updated: 2025-05-12 01:01:27
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 361: Fear of Sleep
+### How to Succeed at Failing, Part 1: The Chain of Events (Update)
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-09 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
 
 ---
 
@@ -126,16 +126,6 @@ Last updated: 2025-05-12 01:01:27
 
 ---
 
-## 99% Invisible
-
-### 😅⚖️
-
-**Released:** 2025-05-06 17:00:25
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32935982-02dd-4991-8064-e40b1f54f245/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32935982-02dd-4991-8064-e40b1f54f245&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Ice Cream Works
@@ -170,6 +160,16 @@ Last updated: 2025-05-12 01:01:27
 
 ---
 
+## 99% Invisible
+
+### 😅⚖️
+
+**Released:** 2025-05-06 17:00:25
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32935982-02dd-4991-8064-e40b1f54f245/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32935982-02dd-4991-8064-e40b1f54f245&feed=BqbsxVfO)
+
+---
+
 ## Revisionist History
 
 ### Face Value 
@@ -180,71 +180,25 @@ Last updated: 2025-05-12 01:01:27
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Radio Hour: When Time Slows Down
+### #810: Terry Real — The Therapist Who Breaks All The Rules
 
-**Released:** 2025-05-06 04:25:00
+**Released:** 2025-05-08 14:18:10
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4465610378.mp3?updated=1745276036)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Conan and Jordan Show – Beet Red Face
-
-**Released:** 2025-05-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f72e61f7-966a-4a29-935d-5c81fa3ff42c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f72e61f7-966a-4a29-935d-5c81fa3ff42c&feed=dHoohVNH)
-
----
-
-### Conan O’Brien Must Go: Spain Roundtable Discussion
-
-**Released:** 2025-05-08 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a0385ce-0ddc-4945-be8a-fbce317c7e2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a0385ce-0ddc-4945-be8a-fbce317c7e2b&feed=dHoohVNH)
-
----
-
-### Christina Applegate and Jamie-Lynn Sigler
-
-**Released:** 2025-05-05 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc4a47c2-dddd-4c71-8b7e-d2320c8a24bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc4a47c2-dddd-4c71-8b7e-d2320c8a24bc&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Pam Abdy & Mike De Luca"
-
-**Released:** 2025-05-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ac7161e-0026-4480-93d6-a3a829b63d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ac7161e-0026-4480-93d6-a3a829b63d36&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Richard Branson of Virgin
-
-**Released:** 2025-05-08 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cab261ee-5180-4894-bd21-a68c1bad85b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Whisker/Litter-Robot: Brad Baxter
-
-**Released:** 2025-05-05 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f65dfa9-dde3-4e65-8eee-e3e811b00a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Mo Amer
+
+**Released:** 2025-05-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Cults II
 
@@ -262,21 +216,67 @@ Last updated: 2025-05-12 01:01:27
 
 ---
 
-### Jon Bernthal
+## The Moth
 
-**Released:** 2025-05-05 07:35:00
+### The Moth Radio Hour: When Time Slows Down
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/174c0366-2083-4dec-9cc8-20fc11e48764.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-06 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4465610378.mp3?updated=1745276036)
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #810: Terry Real — The Therapist Who Breaks All The Rules
+### Substack: Chris Best and Hamish McKenzie
 
-**Released:** 2025-05-08 14:18:10
+**Released:** 2025-05-12 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Richard Branson of Virgin
+
+**Released:** 2025-05-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cab261ee-5180-4894-bd21-a68c1bad85b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Ryan Reynolds
+
+**Released:** 2025-05-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
+
+---
+
+### The Conan and Jordan Show – Beet Red Face
+
+**Released:** 2025-05-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f72e61f7-966a-4a29-935d-5c81fa3ff42c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f72e61f7-966a-4a29-935d-5c81fa3ff42c&feed=dHoohVNH)
+
+---
+
+### Conan O’Brien Must Go: Spain Roundtable Discussion
+
+**Released:** 2025-05-08 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a0385ce-0ddc-4945-be8a-fbce317c7e2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a0385ce-0ddc-4945-be8a-fbce317c7e2b&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Pete Buttigieg"
+
+**Released:** 2025-05-12 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
 
 ---
 
