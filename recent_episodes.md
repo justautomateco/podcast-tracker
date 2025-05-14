@@ -1,14 +1,32 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-14 00:58:54
+Last updated: 2025-05-14 12:23:30
 
 ## Freakonomics Radio
+
+### How to Succeed at Failing, Part 2: Life and Death (Update)
+
+**Released:** 2025-05-14 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
+
+---
 
 ### How to Succeed at Failing, Part 1: The Chain of Events (Update)
 
 **Released:** 2025-05-09 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 361: Fear of Sleep
+
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
@@ -54,13 +72,21 @@ Last updated: 2025-05-14 00:58:54
 
 ---
 
-## This American Life
+## Planet Money
 
-### 361: Fear of Sleep
+### Is the reign of the dollar over?
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-09 22:20:24
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
+
+---
+
+### What "Made in China" actually means
+
+**Released:** 2025-05-07 20:22:43
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
 
 ---
 
@@ -98,24 +124,6 @@ Last updated: 2025-05-14 00:58:54
 
 ---
 
-## Planet Money
-
-### Is the reign of the dollar over?
-
-**Released:** 2025-05-09 22:20:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
-
----
-
-### What "Made in China" actually means
-
-**Released:** 2025-05-07 20:22:43
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
-
----
-
 ## Hidden Brain
 
 ### Forget About It!
@@ -138,6 +146,14 @@ Last updated: 2025-05-14 00:58:54
 
 ## Stuff You Should Know
 
+### Short Stuff: Figs & Wasps
+
+**Released:** 2025-05-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d5c004fe-22c2-47b5-af44-b2d00138a2a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Plant-Based Diets
 
 **Released:** 2025-05-13 09:00:00
@@ -159,14 +175,6 @@ Last updated: 2025-05-14 00:58:54
 **Released:** 2025-05-08 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9aaa2fa-48d8-4c56-aca2-b2d70027aa31/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Drop Bears
-
-**Released:** 2025-05-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f07239c5-5ce0-461e-a5bc-b2d00126b2f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -205,6 +213,32 @@ Last updated: 2025-05-14 00:58:54
 **Released:** 2025-05-08 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a2a92d3c-4e2c-478d-a6f5-b2d7001eeaa7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Chris Nowinski (on CTE)
+
+**Released:** 2025-05-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mo Amer
+
+**Released:** 2025-05-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Cults II
+
+**Released:** 2025-05-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -251,32 +285,6 @@ Last updated: 2025-05-14 00:58:54
 **Released:** 2025-05-08 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a0385ce-0ddc-4945-be8a-fbce317c7e2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a0385ce-0ddc-4945-be8a-fbce317c7e2b&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Mo Amer
-
-**Released:** 2025-05-12 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cults II
-
-**Released:** 2025-05-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Michael Lewis (on the gambling epidemic)
-
-**Released:** 2025-05-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
