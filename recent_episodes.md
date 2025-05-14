@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-13 12:24:33
+Last updated: 2025-05-14 00:58:54
 
 ## Freakonomics Radio
 
@@ -12,35 +12,15 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-## Planet Money
-
-### Is the reign of the dollar over?
-
-**Released:** 2025-05-09 22:20:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
-
----
-
-### What "Made in China" actually means
-
-**Released:** 2025-05-07 20:22:43
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 361: Fear of Sleep
-
-**Released:** 2025-05-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
-
----
-
 ## TED Talks Daily
+
+### Are we cooked? How social media shapes your language | Adam Aleksic
+
+**Released:** 2025-05-13 15:10:03
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682213b0ca7273465227aeae/media.mp3)
+
+---
 
 ### How I make vegan food sexy | Pinky Cole
 
@@ -74,15 +54,25 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-### A parent's guide to raising kids after loss | Andy Laats (Kelly Corrigan takeover)
+## This American Life
 
-**Released:** 2025-05-08 15:10:02
+### 361: Fear of Sleep
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/681a258c609de35278e24868/media.mp3)
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2320 - Tom Segura
+
+**Released:** 2025-05-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1765183787.mp3?updated=1747157858)
+
+---
 
 ### #2319 - Rick Doblin
 
@@ -108,11 +98,21 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-### #2316 - Cameron Hanes
+## Planet Money
 
-**Released:** 2025-05-06 17:00:00
+### Is the reign of the dollar over?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8081819583.mp3?updated=1746551302)
+**Released:** 2025-05-09 22:20:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
+
+---
+
+### What "Made in China" actually means
+
+**Released:** 2025-05-07 20:22:43
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
 
 ---
 
@@ -128,11 +128,11 @@ Last updated: 2025-05-13 12:24:33
 
 ## 99% Invisible
 
-### 😅⚖️
+### Fishing In The Night
 
-**Released:** 2025-05-06 17:00:25
+**Released:** 2025-05-13 20:28:45
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32935982-02dd-4991-8064-e40b1f54f245/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32935982-02dd-4991-8064-e40b1f54f245&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
 
 ---
 
@@ -188,16 +188,6 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-## Revisionist History
-
-### Face Value 
-
-**Released:** 2025-05-08 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a2a92d3c-4e2c-478d-a6f5-b2d7001eeaa7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #810: Terry Real — The Therapist Who Breaks All The Rules
@@ -208,29 +198,33 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Mo Amer
+### Face Value 
 
-**Released:** 2025-05-12 07:35:00
+**Released:** 2025-05-08 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cults II
-
-**Released:** 2025-05-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a2a92d3c-4e2c-478d-a6f5-b2d7001eeaa7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Michael Lewis (on the gambling epidemic)
+## The Moth
 
-**Released:** 2025-05-07 07:35:00
+### The Moth Radio Hour: Mama Bear
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+
+---
+
+## SmartLess 
+
+### "Pete Buttigieg"
+
+**Released:** 2025-05-12 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
 
 ---
 
@@ -260,23 +254,29 @@ Last updated: 2025-05-13 12:24:33
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Pete Buttigieg"
+### Mo Amer
 
-**Released:** 2025-05-12 07:01:00
+**Released:** 2025-05-12 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Moth
+### Armchair Anonymous: Cults II
 
-### The Moth Radio Hour: Mama Bear
+**Released:** 2025-05-09 07:35:00
 
-**Released:** 2025-05-13 04:25:00
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+---
+
+### Michael Lewis (on the gambling epidemic)
+
+**Released:** 2025-05-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff68679f-f15e-41a6-a797-8c1bb40bc89b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
