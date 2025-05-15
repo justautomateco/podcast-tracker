@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-14 12:23:30
+Last updated: 2025-05-15 00:57:12
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-05-14 12:23:30
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 361: Fear of Sleep
+### The delicious potential of rescuing wasted food | Jasmine Crowe-Houston
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-14 15:04:21
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6824b08fa9d77a31f7ccf4ba/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Are we cooked? How social media shapes your language | Adam Aleksic
 
@@ -64,33 +62,25 @@ Last updated: 2025-05-14 12:23:30
 
 ---
 
-### Can AI help with the chaos of family life? | Avni Patel Thompson (Kelly Corrigan takeover)
+## This American Life
 
-**Released:** 2025-05-09 15:02:10
+### 361: Fear of Sleep
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/681a259a69ec805e28726c31/media.mp3)
+**Released:** 2025-05-11 18:00:00
 
----
-
-## Planet Money
-
-### Is the reign of the dollar over?
-
-**Released:** 2025-05-09 22:20:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
-
----
-
-### What "Made in China" actually means
-
-**Released:** 2025-05-07 20:22:43
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9842374649.mp3?d=1620&size=25924424&e=1249592921&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2321 - Dr. Zahi Hawass
+
+**Released:** 2025-05-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4899821702.mp3?updated=1747245296)
+
+---
 
 ### #2320 - Tom Segura
 
@@ -116,31 +106,21 @@ Last updated: 2025-05-14 12:23:30
 
 ---
 
-### #2317 - Cody Tucker
+## Planet Money
 
-**Released:** 2025-05-07 17:00:00
+### What happened to U.S. farmers during the last trade war
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4853470718.mp3?updated=1746637006)
+**Released:** 2025-05-14 22:45:32
 
----
-
-## Hidden Brain
-
-### Forget About It!
-
-**Released:** 2025-05-12 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9535926546.mp3?d=1530&size=24494585&e=1251284848&t=podcast&p=510289)
 
 ---
 
-## 99% Invisible
+### Is the reign of the dollar over?
 
-### Fishing In The Night
+**Released:** 2025-05-09 22:20:24
 
-**Released:** 2025-05-13 20:28:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
 
 ---
 
@@ -178,6 +158,26 @@ Last updated: 2025-05-14 12:23:30
 
 ---
 
+## Hidden Brain
+
+### Forget About It!
+
+**Released:** 2025-05-12 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Fishing In The Night
+
+**Released:** 2025-05-13 20:28:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Substack: Chris Best and Hamish McKenzie
@@ -193,16 +193,6 @@ Last updated: 2025-05-14 12:23:30
 **Released:** 2025-05-08 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cab261ee-5180-4894-bd21-a68c1bad85b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #810: Terry Real — The Therapist Who Breaks All The Rules
-
-**Released:** 2025-05-08 14:18:10
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +275,24 @@ Last updated: 2025-05-14 12:23:30
 **Released:** 2025-05-08 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a0385ce-0ddc-4945-be8a-fbce317c7e2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a0385ce-0ddc-4945-be8a-fbce317c7e2b&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #810: Terry Real — The Therapist Who Breaks All The Rules
+
+**Released:** 2025-05-08 14:18:10
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
