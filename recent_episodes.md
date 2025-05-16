@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-15 12:23:36
+Last updated: 2025-05-16 00:59:49
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-05-15 12:23:36
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 361: Fear of Sleep
+### The AI revolution is underhyped | Eric Schmidt
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-15 15:08:26
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6826036a696b5d1232a96585/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The delicious potential of rescuing wasted food | Jasmine Crowe-Houston
 
@@ -64,14 +62,6 @@ Last updated: 2025-05-15 12:23:36
 
 ---
 
-### The poetry of family | Duncan Keegan (Kelly Corrigan takeover)
-
-**Released:** 2025-05-10 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/681a25b4eb146d8e3526a185/media.mp3)
-
----
-
 ## Planet Money
 
 ### What happened to U.S. farmers during the last trade war
@@ -90,7 +80,25 @@ Last updated: 2025-05-15 12:23:36
 
 ---
 
+## This American Life
+
+### 361: Fear of Sleep
+
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2322 - Rebecca Lemov
+
+**Released:** 2025-05-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9671052047.mp3?updated=1747321136)
+
+---
 
 ### #2321 - Dr. Zahi Hawass
 
@@ -113,34 +121,6 @@ Last updated: 2025-05-15 12:23:36
 **Released:** 2025-05-09 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4130310683.mp3?updated=1746797313)
-
----
-
-### #2318 - Harold "Sonny" White
-
-**Released:** 2025-05-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1658949182.mp3?updated=1746741617)
-
----
-
-## Hidden Brain
-
-### Forget About It!
-
-**Released:** 2025-05-12 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Fishing In The Night
-
-**Released:** 2025-05-13 20:28:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
 
 ---
 
@@ -178,21 +158,41 @@ Last updated: 2025-05-15 12:23:36
 
 ---
 
-## The Tim Ferriss Show
+## Hidden Brain
 
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+### Forget About It!
 
-**Released:** 2025-05-14 22:43:50
+**Released:** 2025-05-12 19:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
 
 ---
 
-### #810: Terry Real — The Therapist Who Breaks All The Rules
+## 99% Invisible
 
-**Released:** 2025-05-08 14:18:10
+### Fishing In The Night
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/af1aba56-ea4e-4b10-a185-a41658860a1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-13 20:28:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with RJ Scaringe with Rivian 
+
+**Released:** 2025-05-15 04:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Substack: Chris Best and Hamish McKenzie
+
+**Released:** 2025-05-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -203,42 +203,6 @@ Last updated: 2025-05-15 12:23:36
 **Released:** 2025-05-15 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Chris Nowinski (on CTE)
-
-**Released:** 2025-05-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mo Amer
-
-**Released:** 2025-05-12 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cults II
-
-**Released:** 2025-05-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Mama Bear
-
-**Released:** 2025-05-13 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
 
 ---
 
@@ -268,27 +232,45 @@ Last updated: 2025-05-15 12:23:36
 
 ---
 
-## How I Built This
+## The Moth
 
-### Advice Line with RJ Scaringe with Rivian 
+### The Moth Radio Hour: Mama Bear
 
-**Released:** 2025-05-15 04:10:00
+**Released:** 2025-05-13 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
 
 ---
 
-### Substack: Chris Best and Hamish McKenzie
+## Armchair Expert
 
-**Released:** 2025-05-12 07:10:00
+### Chris Nowinski (on CTE)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mo Amer
+
+**Released:** 2025-05-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Cults II
+
+**Released:** 2025-05-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## SmartLess 
 
-### "RE-RELEASE: "Tina Fey"
+### "RE-RELEASE: Tina Fey"
 
 **Released:** 2025-05-15 07:00:00
 
@@ -301,6 +283,16 @@ Last updated: 2025-05-15 12:23:36
 **Released:** 2025-05-12 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
