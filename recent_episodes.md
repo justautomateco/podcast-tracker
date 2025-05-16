@@ -1,22 +1,32 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-16 00:59:49
+Last updated: 2025-05-16 12:23:57
+
+## This American Life
+
+### 361: Fear of Sleep
+
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+
+---
 
 ## Freakonomics Radio
+
+### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
+
+**Released:** 2025-05-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
+
+---
 
 ### How to Succeed at Failing, Part 2: Life and Death (Update)
 
 **Released:** 2025-05-14 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
-
----
-
-### How to Succeed at Failing, Part 1: The Chain of Events (Update)
-
-**Released:** 2025-05-09 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2ac94c32-fa8d-4f5d-81b5-b69c071f9045/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2ac94c32-fa8d-4f5d-81b5-b69c071f9045&feed=Y8lFbOT4)
 
 ---
 
@@ -80,13 +90,23 @@ Last updated: 2025-05-16 00:59:49
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 361: Fear of Sleep
+### Forget About It!
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-12 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Fishing In The Night
+
+**Released:** 2025-05-13 20:28:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
 
 ---
 
@@ -158,26 +178,6 @@ Last updated: 2025-05-16 00:59:49
 
 ---
 
-## Hidden Brain
-
-### Forget About It!
-
-**Released:** 2025-05-12 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Fishing In The Night
-
-**Released:** 2025-05-13 20:28:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/714f4ed4-3acf-4c53-9413-0d8fb6c191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=714f4ed4-3acf-4c53-9413-0d8fb6c191b6&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with RJ Scaringe with Rivian 
@@ -196,6 +196,34 @@ Last updated: 2025-05-16 00:59:49
 
 ---
 
+## The Tim Ferriss Show
+
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Podcast: More Mothers
+
+**Released:** 2025-05-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
+
+---
+
+### The Moth Radio Hour: Mama Bear
+
+**Released:** 2025-05-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+
+---
+
 ## Revisionist History
 
 ### Rat vs. Raccoon
@@ -203,6 +231,32 @@ Last updated: 2025-05-16 00:59:49
 **Released:** 2025-05-15 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Public Transit
+
+**Released:** 2025-05-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chris Nowinski (on CTE)
+
+**Released:** 2025-05-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mo Amer
+
+**Released:** 2025-05-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,50 +278,6 @@ Last updated: 2025-05-16 00:59:49
 
 ---
 
-### The Conan and Jordan Show – Beet Red Face
-
-**Released:** 2025-05-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f72e61f7-966a-4a29-935d-5c81fa3ff42c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f72e61f7-966a-4a29-935d-5c81fa3ff42c&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Mama Bear
-
-**Released:** 2025-05-13 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
-
----
-
-## Armchair Expert
-
-### Chris Nowinski (on CTE)
-
-**Released:** 2025-05-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mo Amer
-
-**Released:** 2025-05-12 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cults II
-
-**Released:** 2025-05-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ecc7c51-fba8-488a-8f2d-7239c5ea4b19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "RE-RELEASE: Tina Fey"
@@ -283,16 +293,6 @@ Last updated: 2025-05-16 00:59:49
 **Released:** 2025-05-12 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
-
-**Released:** 2025-05-14 22:43:50
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
