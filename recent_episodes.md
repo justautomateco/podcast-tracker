@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-16 12:23:57
-
-## This American Life
-
-### 361: Fear of Sleep
-
-**Released:** 2025-05-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
-
----
+Last updated: 2025-05-17 00:58:20
 
 ## Freakonomics Radio
 
@@ -31,6 +21,14 @@ Last updated: 2025-05-16 12:23:57
 ---
 
 ## TED Talks Daily
+
+### What if the climate movement felt like a house party? | Matthew Phillips
+
+**Released:** 2025-05-16 14:59:06
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682752bae8a66fad6def68cf/media.mp3)
+
+---
 
 ### The AI revolution is underhyped | Eric Schmidt
 
@@ -64,15 +62,15 @@ Last updated: 2025-05-16 12:23:57
 
 ---
 
-### Sunday Pick: The poetry of Nepal's bridges | Far Flung
+## Planet Money
 
-**Released:** 2025-05-11 06:00:00
+### The 145% tariff already did its damage
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/681e1d32986466935dea9b8f/media.mp3)
+**Released:** 2025-05-16 22:42:13
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5760960212.mp3?d=1613&size=25812411&e=1251782092&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### What happened to U.S. farmers during the last trade war
 
@@ -82,11 +80,13 @@ Last updated: 2025-05-16 12:23:57
 
 ---
 
-### Is the reign of the dollar over?
+## This American Life
 
-**Released:** 2025-05-09 22:20:24
+### 361: Fear of Sleep
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6890465727.mp3?d=1574&size=25200101&e=1250191994&t=podcast&p=510289)
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
@@ -112,6 +112,14 @@ Last updated: 2025-05-16 12:23:57
 
 ## The Joe Rogan Experience
 
+### #2323 - Guy Fieri
+
+**Released:** 2025-05-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9446490255.mp3?updated=1747414454)
+
+---
+
 ### #2322 - Rebecca Lemov
 
 **Released:** 2025-05-15 17:00:00
@@ -133,14 +141,6 @@ Last updated: 2025-05-16 12:23:57
 **Released:** 2025-05-13 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1765183787.mp3?updated=1747157858)
-
----
-
-### #2319 - Rick Doblin
-
-**Released:** 2025-05-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4130310683.mp3?updated=1746797313)
 
 ---
 
@@ -196,13 +196,31 @@ Last updated: 2025-05-16 12:23:57
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+### Rat vs. Raccoon
 
-**Released:** 2025-05-14 22:43:50
+**Released:** 2025-05-15 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan O’Brien Must Go: New Zealand Roundtable Discussion
+
+**Released:** 2025-05-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/744e48a2-ebd8-44dd-9443-1bf4373ce1f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=744e48a2-ebd8-44dd-9443-1bf4373ce1f5&feed=dHoohVNH)
+
+---
+
+### Ryan Reynolds
+
+**Released:** 2025-05-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
 
 ---
 
@@ -221,16 +239,6 @@ Last updated: 2025-05-16 12:23:57
 **Released:** 2025-05-13 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
-
----
-
-## Revisionist History
-
-### Rat vs. Raccoon
-
-**Released:** 2025-05-15 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,24 +268,6 @@ Last updated: 2025-05-16 12:23:57
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Conan O’Brien Must Go: New Zealand Roundtable Discussion
-
-**Released:** 2025-05-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/744e48a2-ebd8-44dd-9443-1bf4373ce1f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=744e48a2-ebd8-44dd-9443-1bf4373ce1f5&feed=dHoohVNH)
-
----
-
-### Ryan Reynolds
-
-**Released:** 2025-05-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "RE-RELEASE: Tina Fey"
@@ -293,6 +283,16 @@ Last updated: 2025-05-16 12:23:57
 **Released:** 2025-05-12 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
