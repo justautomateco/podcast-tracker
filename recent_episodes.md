@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-18 01:03:34
+Last updated: 2025-05-18 12:21:09
+
+## Freakonomics Radio
+
+### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
+
+**Released:** 2025-05-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
+
+---
+
+### How to Succeed at Failing, Part 2: Life and Death (Update)
+
+**Released:** 2025-05-14 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 361: Fear of Sleep
+
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+
+---
 
 ## TED Talks Daily
+
+### TED Talks Daily Book Club: Start With Why, 15th Anniversary Edition | Simon Sinek
+
+**Released:** 2025-05-18 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682666c150cf1b42f4dc7a0c/media.mp3)
+
+---
 
 ### The economic opportunity hidden in the climate transition | Marielle Remillard
 
@@ -36,32 +72,6 @@ Last updated: 2025-05-18 01:03:34
 
 ---
 
-### Are we cooked? How social media shapes your language | Adam Aleksic
-
-**Released:** 2025-05-13 15:10:03
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682213b0ca7273465227aeae/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
-
-**Released:** 2025-05-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
-
----
-
-### How to Succeed at Failing, Part 2: Life and Death (Update)
-
-**Released:** 2025-05-14 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### The 145% tariff already did its damage
@@ -77,16 +87,6 @@ Last updated: 2025-05-18 01:03:34
 **Released:** 2025-05-14 22:45:32
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9535926546.mp3?d=1530&size=24494585&e=1251284848&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 361: Fear of Sleep
-
-**Released:** 2025-05-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
@@ -178,16 +178,6 @@ Last updated: 2025-05-18 01:03:34
 
 ---
 
-## Revisionist History
-
-### Rat vs. Raccoon
-
-**Released:** 2025-05-15 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with RJ Scaringe with Rivian 
@@ -206,29 +196,31 @@ Last updated: 2025-05-18 01:03:34
 
 ---
 
-## Armchair Expert
+## The Moth
 
-### Armchair Anonymous: Public Transit
+### The Moth Podcast: More Mothers
 
-**Released:** 2025-05-16 07:35:00
+**Released:** 2025-05-16 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Nowinski (on CTE)
-
-**Released:** 2025-05-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
 
 ---
 
-### Mo Amer
+### The Moth Radio Hour: Mama Bear
 
-**Released:** 2025-05-12 07:35:00
+**Released:** 2025-05-13 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+
+---
+
+## Revisionist History
+
+### Rat vs. Raccoon
+
+**Released:** 2025-05-15 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -268,21 +260,29 @@ Last updated: 2025-05-18 01:03:34
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### The Moth Podcast: More Mothers
+### Armchair Anonymous: Public Transit
 
-**Released:** 2025-05-16 04:25:00
+**Released:** 2025-05-16 07:35:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Radio Hour: Mama Bear
+### Chris Nowinski (on CTE)
 
-**Released:** 2025-05-13 04:25:00
+**Released:** 2025-05-14 07:35:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mo Amer
+
+**Released:** 2025-05-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
