@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-17 12:20:46
-
-## Freakonomics Radio
-
-### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
-
-**Released:** 2025-05-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
-
----
-
-### How to Succeed at Failing, Part 2: Life and Death (Update)
-
-**Released:** 2025-05-14 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 361: Fear of Sleep
-
-**Released:** 2025-05-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
-
----
+Last updated: 2025-05-18 01:03:34
 
 ## TED Talks Daily
 
@@ -72,6 +44,24 @@ Last updated: 2025-05-17 12:20:46
 
 ---
 
+## Freakonomics Radio
+
+### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
+
+**Released:** 2025-05-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
+
+---
+
+### How to Succeed at Failing, Part 2: Life and Death (Update)
+
+**Released:** 2025-05-14 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### The 145% tariff already did its damage
@@ -87,6 +77,16 @@ Last updated: 2025-05-17 12:20:46
 **Released:** 2025-05-14 22:45:32
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9535926546.mp3?d=1530&size=24494585&e=1251284848&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 361: Fear of Sleep
+
+**Released:** 2025-05-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
 
 ---
 
@@ -188,60 +188,6 @@ Last updated: 2025-05-17 12:20:46
 
 ---
 
-## The Moth
-
-### The Moth Podcast: More Mothers
-
-**Released:** 2025-05-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
-
----
-
-### The Moth Radio Hour: Mama Bear
-
-**Released:** 2025-05-13 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan O’Brien Must Go: New Zealand Roundtable Discussion
-
-**Released:** 2025-05-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/744e48a2-ebd8-44dd-9443-1bf4373ce1f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=744e48a2-ebd8-44dd-9443-1bf4373ce1f5&feed=dHoohVNH)
-
----
-
-### Ryan Reynolds
-
-**Released:** 2025-05-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Tina Fey"
-
-**Released:** 2025-05-15 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
-
----
-
-### "Pete Buttigieg"
-
-**Released:** 2025-05-12 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
-
----
-
 ## How I Built This
 
 ### Advice Line with RJ Scaringe with Rivian 
@@ -283,6 +229,60 @@ Last updated: 2025-05-17 12:20:46
 **Released:** 2025-05-12 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan O’Brien Must Go: New Zealand Roundtable Discussion
+
+**Released:** 2025-05-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/744e48a2-ebd8-44dd-9443-1bf4373ce1f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=744e48a2-ebd8-44dd-9443-1bf4373ce1f5&feed=dHoohVNH)
+
+---
+
+### Ryan Reynolds
+
+**Released:** 2025-05-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Tina Fey"
+
+**Released:** 2025-05-15 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
+
+---
+
+### "Pete Buttigieg"
+
+**Released:** 2025-05-12 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: More Mothers
+
+**Released:** 2025-05-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
+
+---
+
+### The Moth Radio Hour: Mama Bear
+
+**Released:** 2025-05-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
 
 ---
 
