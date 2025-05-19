@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-18 12:21:09
+Last updated: 2025-05-19 01:02:20
 
 ## Freakonomics Radio
 
@@ -22,11 +22,11 @@ Last updated: 2025-05-18 12:21:09
 
 ## This American Life
 
-### 361: Fear of Sleep
+### 835: Children of Dave
 
-**Released:** 2025-05-11 18:00:00
+**Released:** 2025-05-18 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7292069530.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
 
 ---
 
@@ -178,21 +178,23 @@ Last updated: 2025-05-18 12:21:09
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with RJ Scaringe with Rivian 
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
 
-**Released:** 2025-05-15 04:10:00
+**Released:** 2025-05-14 22:43:50
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Substack: Chris Best and Hamish McKenzie
+## Revisionist History
 
-**Released:** 2025-05-12 07:10:00
+### Rat vs. Raccoon
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-15 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -214,13 +216,21 @@ Last updated: 2025-05-18 12:21:09
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Rat vs. Raccoon
+### "RE-RELEASE: Tina Fey"
 
-**Released:** 2025-05-15 04:01:00
+**Released:** 2025-05-15 07:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
+
+---
+
+### "Pete Buttigieg"
+
+**Released:** 2025-05-12 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
 
 ---
 
@@ -242,21 +252,21 @@ Last updated: 2025-05-18 12:21:09
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "RE-RELEASE: Tina Fey"
+### Advice Line with RJ Scaringe with Rivian 
 
-**Released:** 2025-05-15 07:00:00
+**Released:** 2025-05-15 04:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "Pete Buttigieg"
+### Substack: Chris Best and Hamish McKenzie
 
-**Released:** 2025-05-12 07:01:00
+**Released:** 2025-05-12 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -283,16 +293,6 @@ Last updated: 2025-05-18 12:21:09
 **Released:** 2025-05-12 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
-
-**Released:** 2025-05-14 22:43:50
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
