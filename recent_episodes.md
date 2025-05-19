@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-19 01:02:20
+Last updated: 2025-05-19 12:24:38
 
 ## Freakonomics Radio
 
@@ -178,16 +178,6 @@ Last updated: 2025-05-19 01:02:20
 
 ---
 
-## The Tim Ferriss Show
-
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
-
-**Released:** 2025-05-14 22:43:50
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Rat vs. Raccoon
@@ -216,25 +206,15 @@ Last updated: 2025-05-19 01:02:20
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: Tina Fey"
-
-**Released:** 2025-05-15 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
-
----
-
-### "Pete Buttigieg"
-
-**Released:** 2025-05-12 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22f02686-c8d5-4020-9679-db5d7efe6911/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22f02686-c8d5-4020-9679-db5d7efe6911&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
+
+### Sarah Silverman Returns Again
+
+**Released:** 2025-05-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ec0eff4-e710-42d1-9c81-8b648fdc377c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ec0eff4-e710-42d1-9c81-8b648fdc377c&feed=dHoohVNH)
+
+---
 
 ### Conan O’Brien Must Go: New Zealand Roundtable Discussion
 
@@ -244,15 +224,33 @@ Last updated: 2025-05-19 01:02:20
 
 ---
 
-### Ryan Reynolds
+## SmartLess 
 
-**Released:** 2025-05-12 04:05:00
+### "David Leitch"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1cca8e9-1152-421a-b197-d8718483b7d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1cca8e9-1152-421a-b197-d8718483b7d0&feed=dHoohVNH)
+**Released:** 2025-05-19 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/465401a3-a0c7-4ea3-bfc1-4419be3ff573/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=465401a3-a0c7-4ea3-bfc1-4419be3ff573&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Tina Fey"
+
+**Released:** 2025-05-15 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
 
 ---
 
 ## How I Built This
+
+### Tecovas: Paul Hedrick
+
+**Released:** 2025-05-19 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b1a76ad-9191-4fb2-bad3-f5f6ebf6827b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with RJ Scaringe with Rivian 
 
@@ -262,15 +260,15 @@ Last updated: 2025-05-19 01:02:20
 
 ---
 
-### Substack: Chris Best and Hamish McKenzie
+## Armchair Expert
 
-**Released:** 2025-05-12 07:10:00
+### Michelle Williams
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/24d48b2f-f0c9-4682-802e-bca04a8385c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e54864c3-abaf-49ba-b90a-8502dc2fdeca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: Public Transit
 
@@ -288,11 +286,13 @@ Last updated: 2025-05-19 01:02:20
 
 ---
 
-### Mo Amer
+## The Tim Ferriss Show
 
-**Released:** 2025-05-12 07:35:00
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e01f691-709f-467d-ac68-caed83cfbfc3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
