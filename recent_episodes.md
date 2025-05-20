@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-19 12:24:38
-
-## Freakonomics Radio
-
-### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
-
-**Released:** 2025-05-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
-
----
-
-### How to Succeed at Failing, Part 2: Life and Death (Update)
-
-**Released:** 2025-05-14 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 835: Children of Dave
-
-**Released:** 2025-05-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
-
----
+Last updated: 2025-05-20 01:00:37
 
 ## TED Talks Daily
+
+### How to make climate stories impossible to ignore | Katherine Dunn
+
+**Released:** 2025-05-19 15:06:28
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682b48f5e8a66fad6dbf8e61/media.mp3)
+
+---
 
 ### TED Talks Daily Book Club: Start With Why, 15th Anniversary Edition | Simon Sinek
 
@@ -64,11 +44,31 @@ Last updated: 2025-05-19 12:24:38
 
 ---
 
-### The delicious potential of rescuing wasted food | Jasmine Crowe-Houston
+## This American Life
 
-**Released:** 2025-05-14 15:04:21
+### 835: Children of Dave
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6824b08fa9d77a31f7ccf4ba/media.mp3)
+**Released:** 2025-05-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
+
+---
+
+## Freakonomics Radio
+
+### How to Succeed at Failing, Part 3: Grit vs. Quit (Update)
+
+**Released:** 2025-05-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
+
+---
+
+### How to Succeed at Failing, Part 2: Life and Death (Update)
+
+**Released:** 2025-05-14 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/61877008-01fb-4059-941a-43340d0dd2e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=61877008-01fb-4059-941a-43340d0dd2e9&feed=Y8lFbOT4)
 
 ---
 
@@ -90,6 +90,16 @@ Last updated: 2025-05-19 12:24:38
 
 ---
 
+## Hidden Brain
+
+### How Much Do We Really Know?
+
+**Released:** 2025-05-19 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/36e44501-8cc5-4b47-9499-3713dbee620b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=36e44501-8cc5-4b47-9499-3713dbee620b&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2323 - Guy Fieri
@@ -104,7 +114,7 @@ Last updated: 2025-05-19 12:24:38
 
 **Released:** 2025-05-15 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9671052047.mp3?updated=1747321136)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9671052047.mp3?updated=1747678390)
 
 ---
 
@@ -121,16 +131,6 @@ Last updated: 2025-05-19 12:24:38
 **Released:** 2025-05-13 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1765183787.mp3?updated=1747157858)
-
----
-
-## Hidden Brain
-
-### Forget About It!
-
-**Released:** 2025-05-12 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/aa880ba7-ca5a-4234-9646-a2fb716df613/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=aa880ba7-ca5a-4234-9646-a2fb716df613&feed=kwWc0lhf)
 
 ---
 
@@ -178,13 +178,31 @@ Last updated: 2025-05-19 12:24:38
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### Rat vs. Raccoon
+### Tecovas: Paul Hedrick
 
-**Released:** 2025-05-15 04:01:00
+**Released:** 2025-05-19 07:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b1a76ad-9191-4fb2-bad3-f5f6ebf6827b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with RJ Scaringe with Rivian 
+
+**Released:** 2025-05-15 04:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+
+**Released:** 2025-05-14 22:43:50
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -203,6 +221,42 @@ Last updated: 2025-05-19 12:24:38
 **Released:** 2025-05-13 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD5425731494.mp3?updated=1746132339)
+
+---
+
+## Revisionist History
+
+### Rat vs. Raccoon
+
+**Released:** 2025-05-15 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Michelle Williams
+
+**Released:** 2025-05-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e54864c3-abaf-49ba-b90a-8502dc2fdeca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Public Transit
+
+**Released:** 2025-05-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chris Nowinski (on CTE)
+
+**Released:** 2025-05-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -239,60 +293,6 @@ Last updated: 2025-05-19 12:24:38
 **Released:** 2025-05-15 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Tecovas: Paul Hedrick
-
-**Released:** 2025-05-19 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b1a76ad-9191-4fb2-bad3-f5f6ebf6827b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with RJ Scaringe with Rivian 
-
-**Released:** 2025-05-15 04:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Michelle Williams
-
-**Released:** 2025-05-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e54864c3-abaf-49ba-b90a-8502dc2fdeca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Public Transit
-
-**Released:** 2025-05-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Nowinski (on CTE)
-
-**Released:** 2025-05-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd83e92b-3743-4989-be4e-ab50ff0644d0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
-
-**Released:** 2025-05-14 22:43:50
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
