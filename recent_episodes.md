@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-21 12:23:47
+Last updated: 2025-05-22 00:59:37
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2025-05-21 12:23:47
 ---
 
 ## TED Talks Daily
+
+### This is what the future of media looks like | Hamish McKenzie
+
+**Released:** 2025-05-21 15:10:25
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682dece29a7e8b0aacefe4e8/media.mp3)
+
+---
 
 ### The catastrophic risks of AI — and a safer path | Yoshua Bengio
 
@@ -64,15 +72,15 @@ Last updated: 2025-05-21 12:23:47
 
 ---
 
-### What if the climate movement felt like a house party? | Matthew Phillips
+## Planet Money
 
-**Released:** 2025-05-16 14:59:06
+### How economists (and TikTok) know if a recession is coming
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682752bae8a66fad6def68cf/media.mp3)
+**Released:** 2025-05-21 22:03:41
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### The 145% tariff already did its damage
 
@@ -82,15 +90,15 @@ Last updated: 2025-05-21 12:23:47
 
 ---
 
-### What happened to U.S. farmers during the last trade war
+## The Joe Rogan Experience
 
-**Released:** 2025-05-14 22:45:32
+### #2325 - Aaron Rodgers
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9535926546.mp3?d=1530&size=24494585&e=1251284848&t=podcast&p=510289)
+**Released:** 2025-05-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9143478145.mp3?updated=1747856594)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2324 - Amanda Knox
 
@@ -113,14 +121,6 @@ Last updated: 2025-05-21 12:23:47
 **Released:** 2025-05-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9671052047.mp3?updated=1747678390)
-
----
-
-### #2321 - Dr. Zahi Hawass
-
-**Released:** 2025-05-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4899821702.mp3?updated=1747245296)
 
 ---
 
@@ -178,13 +178,31 @@ Last updated: 2025-05-21 12:23:47
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #811: 2x Olympic Archery Medalist Jake Kaminski — Behind-the-Scenes Stories of Coaching Tim, What Archery Teaches About High Performance, and Excellence Under Pressure
+### The Moth Radio Hour: Lemon Pepper Wings All Flats Wet
 
-**Released:** 2025-05-14 22:43:50
+**Released:** 2025-05-20 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff3bd4e2-3eeb-459d-8207-1efc1dbf9ed0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9577092318.mp3?updated=1746206231)
+
+---
+
+### The Moth Podcast: More Mothers
+
+**Released:** 2025-05-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
+
+---
+
+## Revisionist History
+
+### Rat vs. Raccoon
+
+**Released:** 2025-05-15 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -203,16 +221,6 @@ Last updated: 2025-05-21 12:23:47
 **Released:** 2025-05-15 04:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Rat vs. Raccoon
-
-**Released:** 2025-05-15 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -252,24 +260,6 @@ Last updated: 2025-05-21 12:23:47
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Lemon Pepper Wings All Flats Wet
-
-**Released:** 2025-05-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9577092318.mp3?updated=1746206231)
-
----
-
-### The Moth Podcast: More Mothers
-
-**Released:** 2025-05-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6319398720.mp3?updated=1746487196)
-
----
-
 ## Armchair Expert
 
 ### Eric Topol Returns (on longevity)
@@ -293,6 +283,16 @@ Last updated: 2025-05-21 12:23:47
 **Released:** 2025-05-16 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74809c91-27d7-4e9c-96bf-b29ee46f3d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
+
+**Released:** 2025-05-21 23:28:38
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
