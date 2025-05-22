@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-22 00:59:37
+Last updated: 2025-05-22 12:24:52
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2025-05-22 00:59:37
 **Released:** 2025-05-16 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4c94aff9-0d6b-40f7-95fe-8473f9defc40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4c94aff9-0d6b-40f7-95fe-8473f9defc40&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 835: Children of Dave
-
-**Released:** 2025-05-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
 
 ---
 
@@ -69,6 +59,16 @@ Last updated: 2025-05-22 00:59:37
 **Released:** 2025-05-17 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68066bbd380884156923e4f8/media.mp3)
+
+---
+
+## This American Life
+
+### 835: Children of Dave
+
+**Released:** 2025-05-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
 
 ---
 
@@ -124,16 +124,6 @@ Last updated: 2025-05-22 00:59:37
 
 ---
 
-## Hidden Brain
-
-### How Much Do We Really Know?
-
-**Released:** 2025-05-19 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/36e44501-8cc5-4b47-9499-3713dbee620b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=36e44501-8cc5-4b47-9499-3713dbee620b&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Foreign in a Domestic Sense
@@ -144,7 +134,25 @@ Last updated: 2025-05-22 00:59:37
 
 ---
 
+## Hidden Brain
+
+### How Much Do We Really Know?
+
+**Released:** 2025-05-19 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/36e44501-8cc5-4b47-9499-3713dbee620b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=36e44501-8cc5-4b47-9499-3713dbee620b&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### Popcorn: Who doesn't love it?
+
+**Released:** 2025-05-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a7670151-f116-45d0-acf3-b2e201228c38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: William A. Mitchell: Food Inventor
 
@@ -170,11 +178,31 @@ Last updated: 2025-05-22 00:59:37
 
 ---
 
-### The Cliffs Notes on Cliffs Notes
+## How I Built This
 
-**Released:** 2025-05-15 09:00:00
+### Advice Line: Scaling Strategies
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12a6caf6-0412-4757-9003-b2dd01152ee2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-05-22 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Tecovas: Paul Hedrick
+
+**Released:** 2025-05-19 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b1a76ad-9191-4fb2-bad3-f5f6ebf6827b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Nooks & Crannies
+
+**Released:** 2025-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,31 +224,21 @@ Last updated: 2025-05-22 00:59:37
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### Rat vs. Raccoon
+### Conan O’Brien Must Go: Austria Roundtable Discussion
 
-**Released:** 2025-05-15 04:01:00
+**Released:** 2025-05-22 04:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d2abd4a8-8c89-4f6c-b77f-b2de0015c654/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Tecovas: Paul Hedrick
-
-**Released:** 2025-05-19 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b1a76ad-9191-4fb2-bad3-f5f6ebf6827b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1204c46-dab4-4164-aba7-65651381b4f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1204c46-dab4-4164-aba7-65651381b4f2&feed=dHoohVNH)
 
 ---
 
-### Advice Line with RJ Scaringe with Rivian 
+### Sarah Silverman Returns Again
 
-**Released:** 2025-05-15 04:10:00
+**Released:** 2025-05-19 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac6e1519-dc03-4076-b0b2-91ed94a1addd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ec0eff4-e710-42d1-9c81-8b648fdc377c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ec0eff4-e710-42d1-9c81-8b648fdc377c&feed=dHoohVNH)
 
 ---
 
@@ -231,32 +249,6 @@ Last updated: 2025-05-22 00:59:37
 **Released:** 2025-05-19 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/465401a3-a0c7-4ea3-bfc1-4419be3ff573/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=465401a3-a0c7-4ea3-bfc1-4419be3ff573&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Tina Fey"
-
-**Released:** 2025-05-15 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3aa9556a-88b6-44d1-a3b8-9a439ef130bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3aa9556a-88b6-44d1-a3b8-9a439ef130bc&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Sarah Silverman Returns Again
-
-**Released:** 2025-05-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ec0eff4-e710-42d1-9c81-8b648fdc377c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ec0eff4-e710-42d1-9c81-8b648fdc377c&feed=dHoohVNH)
-
----
-
-### Conan O’Brien Must Go: New Zealand Roundtable Discussion
-
-**Released:** 2025-05-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/744e48a2-ebd8-44dd-9443-1bf4373ce1f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=744e48a2-ebd8-44dd-9443-1bf4373ce1f5&feed=dHoohVNH)
 
 ---
 
