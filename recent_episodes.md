@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-23 12:23:11
-
-## Freakonomics Radio
-
-### 633. The Most Powerful People You’ve Never Heard Of
-
-**Released:** 2025-05-23 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
-
----
-
-### How to Succeed at Failing, Part 4: Extreme Resiliency (Update)
-
-**Released:** 2025-05-21 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b10170fb-3ac9-4be2-9e8b-080265324496/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b10170fb-3ac9-4be2-9e8b-080265324496&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 835: Children of Dave
-
-**Released:** 2025-05-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
-
----
+Last updated: 2025-05-24 00:57:06
 
 ## TED Talks Daily
+
+### Is this the time of monsters — or miracles? | Angus Hervey
+
+**Released:** 2025-05-23 14:58:08
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68308c6e9cad4906be8c62aa/media.mp3)
+
+---
 
 ### Why love is harder in a second language | Magdalena Hoeller
 
@@ -64,15 +44,43 @@ Last updated: 2025-05-23 12:23:11
 
 ---
 
-### TED Talks Daily Book Club: Start With Why, 15th Anniversary Edition | Simon Sinek
+## This American Life
 
-**Released:** 2025-05-18 06:00:00
+### 835: Children of Dave
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682666c150cf1b42f4dc7a0c/media.mp3)
+**Released:** 2025-05-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7493672916.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 633. The Most Powerful People You’ve Never Heard Of
+
+**Released:** 2025-05-23 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
+
+---
+
+### How to Succeed at Failing, Part 4: Extreme Resiliency (Update)
+
+**Released:** 2025-05-21 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b10170fb-3ac9-4be2-9e8b-080265324496/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b10170fb-3ac9-4be2-9e8b-080265324496&feed=Y8lFbOT4)
 
 ---
 
 ## Planet Money
+
+### The secret world behind those scammy text messages
+
+**Released:** 2025-05-23 20:16:47
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
+
+---
 
 ### How economists (and TikTok) know if a recession is coming
 
@@ -82,11 +90,23 @@ Last updated: 2025-05-23 12:23:11
 
 ---
 
-### The 145% tariff already did its damage
+## Hidden Brain
 
-**Released:** 2025-05-16 22:42:13
+### How Much Do We Really Know?
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5760960212.mp3?d=1613&size=25812411&e=1251782092&t=podcast&p=510289)
+**Released:** 2025-05-19 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/36e44501-8cc5-4b47-9499-3713dbee620b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=36e44501-8cc5-4b47-9499-3713dbee620b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Foreign in a Domestic Sense
+
+**Released:** 2025-05-20 16:43:26
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO)
 
 ---
 
@@ -113,34 +133,6 @@ Last updated: 2025-05-23 12:23:11
 **Released:** 2025-05-20 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6266957416.mp3?updated=1747768450)
-
----
-
-### #2323 - Guy Fieri
-
-**Released:** 2025-05-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9446490255.mp3?updated=1747414454)
-
----
-
-## Hidden Brain
-
-### How Much Do We Really Know?
-
-**Released:** 2025-05-19 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/36e44501-8cc5-4b47-9499-3713dbee620b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=36e44501-8cc5-4b47-9499-3713dbee620b&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Foreign in a Domestic Sense
-
-**Released:** 2025-05-20 16:43:26
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO)
 
 ---
 
@@ -196,6 +188,24 @@ Last updated: 2025-05-23 12:23:11
 
 ---
 
+## The Moth
+
+### The Moth Podcast: AAPI Voices
+
+**Released:** 2025-05-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1748016139)
+
+---
+
+### The Moth Radio Hour: Lemon Pepper Wings All Flats Wet
+
+**Released:** 2025-05-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9577092318.mp3?updated=1746206231)
+
+---
+
 ## Revisionist History
 
 ### Nooks & Crannies
@@ -216,21 +226,13 @@ Last updated: 2025-05-23 12:23:11
 
 ---
 
-## The Moth
+## SmartLess 
 
-### The Moth Podcast: AAPI Voices
+### "David Leitch"
 
-**Released:** 2025-05-23 04:25:00
+**Released:** 2025-05-19 07:01:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1747685029)
-
----
-
-### The Moth Radio Hour: Lemon Pepper Wings All Flats Wet
-
-**Released:** 2025-05-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9577092318.mp3?updated=1746206231)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/465401a3-a0c7-4ea3-bfc1-4419be3ff573/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=465401a3-a0c7-4ea3-bfc1-4419be3ff573&feed=hNaFxXpO)
 
 ---
 
@@ -283,16 +285,6 @@ Last updated: 2025-05-23 12:23:11
 **Released:** 2025-05-19 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e54864c3-abaf-49ba-b90a-8502dc2fdeca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "David Leitch"
-
-**Released:** 2025-05-19 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/465401a3-a0c7-4ea3-bfc1-4419be3ff573/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=465401a3-a0c7-4ea3-bfc1-4419be3ff573&feed=hNaFxXpO)
 
 ---
 
