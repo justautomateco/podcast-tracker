@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-27 00:58:40
+Last updated: 2025-05-27 12:24:37
+
+## This American Life
+
+### 860: Suddenly: A Mirror!
+
+**Released:** 2025-05-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -62,88 +72,6 @@ Last updated: 2025-05-27 00:58:40
 
 ---
 
-## This American Life
-
-### 860: Suddenly: A Mirror!
-
-**Released:** 2025-05-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
-
----
-
-## Planet Money
-
-### The secret world behind those scammy text messages
-
-**Released:** 2025-05-23 20:16:47
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
-
----
-
-### How economists (and TikTok) know if a recession is coming
-
-**Released:** 2025-05-21 22:03:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
-
-**Released:** 2025-05-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Publicists Work
-
-**Released:** 2025-05-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8fbcc5f-98b8-4d5a-af1c-b2de01320498/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Popcorn: Who doesn't love it?
-
-**Released:** 2025-05-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a7670151-f116-45d0-acf3-b2e201228c38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: William A. Mitchell: Food Inventor
-
-**Released:** 2025-05-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3bb6755b-2fee-4b16-a3f0-b2e30104db92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Faking Your Own Death: We All Do It, But Why?
-
-**Released:** 2025-05-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7674a501-dfd2-49c1-9885-b2dd0185d124/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Foreign in a Domestic Sense
-
-**Released:** 2025-05-20 16:43:26
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2326 - Jimmy Carr
@@ -170,6 +98,88 @@ Last updated: 2025-05-27 00:58:40
 
 ---
 
+## Hidden Brain
+
+### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
+
+**Released:** 2025-05-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### The secret world behind those scammy text messages
+
+**Released:** 2025-05-23 20:16:47
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
+
+---
+
+### How economists (and TikTok) know if a recession is coming
+
+**Released:** 2025-05-21 22:03:41
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
+
+---
+
+## Stuff You Should Know
+
+### The Group of Seven
+
+**Released:** 2025-05-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9042dfa4-20a7-4f53-a145-b2e501322440/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Publicists Work
+
+**Released:** 2025-05-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8fbcc5f-98b8-4d5a-af1c-b2de01320498/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Popcorn: Who doesn't love it?
+
+**Released:** 2025-05-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a7670151-f116-45d0-acf3-b2e201228c38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: William A. Mitchell: Food Inventor
+
+**Released:** 2025-05-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3bb6755b-2fee-4b16-a3f0-b2e30104db92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Foreign in a Domestic Sense
+
+**Released:** 2025-05-20 16:43:26
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
+
+**Released:** 2025-05-21 23:28:38
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Calm: Alex Tew and Michael Acton Smith
@@ -185,6 +195,24 @@ Last updated: 2025-05-27 00:58:40
 **Released:** 2025-05-22 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour:  Who's Got Your Back?
+
+**Released:** 2025-05-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1747423654)
+
+---
+
+### The Moth Podcast: AAPI Voices
+
+**Released:** 2025-05-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1748016139)
 
 ---
 
@@ -232,44 +260,6 @@ Last updated: 2025-05-27 00:58:40
 
 ---
 
-## The Tim Ferriss Show
-
-### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
-
-**Released:** 2025-05-21 23:28:38
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: AAPI Voices
-
-**Released:** 2025-05-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1748016139)
-
----
-
-### The Moth Radio Hour: Lemon Pepper Wings All Flats Wet
-
-**Released:** 2025-05-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9577092318.mp3?updated=1746206231)
-
----
-
-## SmartLess 
-
-### "Shane Gillis"
-
-**Released:** 2025-05-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Paul W. Downs
@@ -285,6 +275,16 @@ Last updated: 2025-05-27 00:58:40
 **Released:** 2025-05-22 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1204c46-dab4-4164-aba7-65651381b4f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1204c46-dab4-4164-aba7-65651381b4f2&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Shane Gillis"
+
+**Released:** 2025-05-26 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
 
 ---
 
