@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-28 01:00:00
+Last updated: 2025-05-28 12:24:38
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-05-28 01:00:00
 **Released:** 2025-05-23 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 860: Suddenly: A Mirror!
-
-**Released:** 2025-05-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
 
 ---
 
@@ -61,6 +51,16 @@ Last updated: 2025-05-28 01:00:00
 **Released:** 2025-05-23 14:58:08
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68308c6e9cad4906be8c62aa/media.mp3)
+
+---
+
+## This American Life
+
+### 860: Suddenly: A Mirror!
+
+**Released:** 2025-05-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
 
 ---
 
@@ -130,6 +130,14 @@ Last updated: 2025-05-28 01:00:00
 
 ## Stuff You Should Know
 
+### Short Stuff: Genetic Mutations
+
+**Released:** 2025-05-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59e165bb-c8a7-4abf-bfed-b2df011ee40e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Group of Seven
 
 **Released:** 2025-05-27 09:00:00
@@ -154,11 +162,31 @@ Last updated: 2025-05-28 01:00:00
 
 ---
 
-### Short Stuff: William A. Mitchell: Food Inventor
+## The Tim Ferriss Show
 
-**Released:** 2025-05-21 09:00:00
+### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3bb6755b-2fee-4b16-a3f0-b2e30104db92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-05-21 23:28:38
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Calm: Alex Tew and Michael Acton Smith
+
+**Released:** 2025-05-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line: Scaling Strategies
+
+**Released:** 2025-05-22 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -190,40 +218,6 @@ Last updated: 2025-05-28 01:00:00
 
 ---
 
-## Armchair Expert
-
-### Nick Kroll Returns
-
-**Released:** 2025-05-26 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d7435fe-f921-4f60-9559-55da9ac79909.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Kind Gesture from a Stranger
-
-**Released:** 2025-05-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a977d5a-7f40-4838-9a39-15e8484961e1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### You Might Enjoy: The Big Flop
-
-**Released:** 2025-05-22 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9451e674-9d2d-40be-8f28-e4606d5eee0b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Eric Topol Returns (on longevity)
-
-**Released:** 2025-05-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c69907f4-4bc7-4285-94ae-deac4cffbda8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Paul W. Downs
@@ -252,31 +246,37 @@ Last updated: 2025-05-28 01:00:00
 
 ---
 
-## How I Built This
+## Armchair Expert
 
-### Calm: Alex Tew and Michael Acton Smith
+### Scott Payne (retired undercover FBI Agent)
 
-**Released:** 2025-05-26 07:10:00
+**Released:** 2025-05-28 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Scaling Strategies
-
-**Released:** 2025-05-22 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fdf991d-a0d7-4012-af74-6cc4fb8f783c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Nick Kroll Returns
 
-### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
+**Released:** 2025-05-26 07:35:00
 
-**Released:** 2025-05-21 23:28:38
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d7435fe-f921-4f60-9559-55da9ac79909.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+### Armchair Anonymous: Kind Gesture from a Stranger
+
+**Released:** 2025-05-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a977d5a-7f40-4838-9a39-15e8484961e1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### You Might Enjoy: The Big Flop
+
+**Released:** 2025-05-22 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9451e674-9d2d-40be-8f28-e4606d5eee0b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
