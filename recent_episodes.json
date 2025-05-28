@@ -1,10 +1,24 @@
 [
   {
+    "guid": "5f257277-ac5a-4bad-b7bc-ceead62522fb",
+    "episode_title": "633. The Most Powerful People You\u2019ve Never Heard Of",
+    "release_date": "2025-05-23 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "45888 at https://www.thisamericanlife.org",
     "episode_title": "860: Suddenly: A Mirror!",
     "release_date": "2025-05-25 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6835d360998551779f3b92f4",
+    "episode_title": "The future isn't just coded \u2014 it's built | Lauren Dunford",
+    "release_date": "2025-05-27 15:04:27",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6835d360998551779f3b92f4/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "682f82aafc865cdd04a9c32d",
@@ -35,25 +49,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "682f46c9fc865cdd0496732a",
-    "episode_title": "Why love is harder in a second language | Magdalena Hoeller",
-    "release_date": "2025-05-22 15:48:22",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682f46c9fc865cdd0496732a/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "fe607d11-c475-48fc-93a1-686312703263",
+    "episode_title": "The secret world behind those scammy text messages",
+    "release_date": "2025-05-23 20:16:47",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "5f257277-ac5a-4bad-b7bc-ceead62522fb",
-    "episode_title": "633. The Most Powerful People You\u2019ve Never Heard Of",
-    "release_date": "2025-05-23 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "35f2429e-d259-4a76-8f00-8d46deb5d396",
+    "episode_title": "How economists (and TikTok) know if a recession is coming",
+    "release_date": "2025-05-21 22:03:41",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "5c1d9030-a4b7-441e-9064-04711765bd6e",
-    "episode_title": "How to Succeed at Failing, Part 4: Extreme Resiliency (Update)",
-    "release_date": "2025-05-21 00:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b10170fb-3ac9-4be2-9e8b-080265324496/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b10170fb-3ac9-4be2-9e8b-080265324496&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "415fedda-3aab-11f0-a373-8f9bfa67fd10",
+    "episode_title": "#2327 - AJ Gentile",
+    "release_date": "2025-05-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1762118255.mp3?updated=1748362673",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "9b4ad896-36b9-11f0-98d3-b399b33d20af",
@@ -70,13 +84,6 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "d9d01fc8-34f6-11f0-87f2-2feccea5c84a",
-    "episode_title": "#2324 - Amanda Knox",
-    "release_date": "2025-05-20 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6266957416.mp3?updated=1747768450",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "61d68c00-f0d8-4ad1-b0c4-63db6eec85fc",
     "episode_title": "Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)",
     "release_date": "2025-05-26 17:00:00",
@@ -84,18 +91,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "fe607d11-c475-48fc-93a1-686312703263",
-    "episode_title": "The secret world behind those scammy text messages",
-    "release_date": "2025-05-23 20:16:47",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "35f2429e-d259-4a76-8f00-8d46deb5d396",
-    "episode_title": "How economists (and TikTok) know if a recession is coming",
-    "release_date": "2025-05-21 22:03:41",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
+    "guid": "eef7e18e-aed9-484a-832a-a151263ad75b",
+    "episode_title": "Build, Interrupted: A Conversation with Ezra Klein",
+    "release_date": "2025-05-27 14:57:08",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "9042dfa4-20a7-4f53-a145-b2e501322440",
@@ -126,32 +126,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "9b1f4a12-7c9d-49a1-a916-3f2dbf098590",
-    "episode_title": "Foreign in a Domestic Sense",
-    "release_date": "2025-05-20 16:43:26",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/XM3RdYynXuv_b0oQJp2KVL3NSAFbnyjfPNIRzmMKI-o",
-    "episode_title": "#812: The Random Show \u2014 New Health Gadgets, Tim\u2019s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions",
-    "release_date": "2025-05-21 23:28:38",
-    "mp3_url": "https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/v3fo0mh3qWy_WyWmP6JKML2xcnMBAj8T6aOoyB8exAY",
-    "episode_title": "Calm: Alex Tew and Michael Acton Smith",
-    "release_date": "2025-05-26 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/itIXzE5R1PUp7tqy3X4fOoAtI5y6HvhWyGVnbYSxqYY",
-    "episode_title": "Advice Line: Scaling Strategies",
-    "release_date": "2025-05-22 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "7465517a-8c76-4e44-a425-b2e30146a5a8",
+    "episode_title": "Nooks & Crannies",
+    "release_date": "2025-05-22 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "b59ca96a-76d2-11ef-92d1-17bd751e0866",
@@ -196,13 +175,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "7465517a-8c76-4e44-a425-b2e30146a5a8",
-    "episode_title": "Nooks & Crannies",
-    "release_date": "2025-05-22 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "f0bfea5a-9302-4e64-8d82-30414d36c7b4",
     "episode_title": "Paul W. Downs",
     "release_date": "2025-05-26 04:05:00",
@@ -222,5 +194,26 @@
     "release_date": "2025-05-26 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/v3fo0mh3qWy_WyWmP6JKML2xcnMBAj8T6aOoyB8exAY",
+    "episode_title": "Calm: Alex Tew and Michael Acton Smith",
+    "release_date": "2025-05-26 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/itIXzE5R1PUp7tqy3X4fOoAtI5y6HvhWyGVnbYSxqYY",
+    "episode_title": "Advice Line: Scaling Strategies",
+    "release_date": "2025-05-22 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XM3RdYynXuv_b0oQJp2KVL3NSAFbnyjfPNIRzmMKI-o",
+    "episode_title": "#812: The Random Show \u2014 New Health Gadgets, Tim\u2019s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions",
+    "release_date": "2025-05-21 23:28:38",
+    "mp3_url": "https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

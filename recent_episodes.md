@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-27 12:24:37
+Last updated: 2025-05-28 01:00:00
+
+## Freakonomics Radio
+
+### 633. The Most Powerful People You’ve Never Heard Of
+
+**Released:** 2025-05-23 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +23,14 @@ Last updated: 2025-05-27 12:24:37
 ---
 
 ## TED Talks Daily
+
+### The future isn't just coded — it's built | Lauren Dunford
+
+**Released:** 2025-05-27 15:04:27
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6835d360998551779f3b92f4/media.mp3)
+
+---
 
 ### Let your garden grow wild | Rebecca McMackin
 
@@ -46,33 +64,33 @@ Last updated: 2025-05-27 12:24:37
 
 ---
 
-### Why love is harder in a second language | Magdalena Hoeller
+## Planet Money
 
-**Released:** 2025-05-22 15:48:22
+### The secret world behind those scammy text messages
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/682f46c9fc865cdd0496732a/media.mp3)
+**Released:** 2025-05-23 20:16:47
 
----
-
-## Freakonomics Radio
-
-### 633. The Most Powerful People You’ve Never Heard Of
-
-**Released:** 2025-05-23 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
 
 ---
 
-### How to Succeed at Failing, Part 4: Extreme Resiliency (Update)
+### How economists (and TikTok) know if a recession is coming
 
-**Released:** 2025-05-21 00:00:00
+**Released:** 2025-05-21 22:03:41
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b10170fb-3ac9-4be2-9e8b-080265324496/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b10170fb-3ac9-4be2-9e8b-080265324496&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2327 - AJ Gentile
+
+**Released:** 2025-05-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1762118255.mp3?updated=1748362673)
+
+---
 
 ### #2326 - Jimmy Carr
 
@@ -90,14 +108,6 @@ Last updated: 2025-05-27 12:24:37
 
 ---
 
-### #2324 - Amanda Knox
-
-**Released:** 2025-05-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6266957416.mp3?updated=1747768450)
-
----
-
 ## Hidden Brain
 
 ### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
@@ -108,21 +118,13 @@ Last updated: 2025-05-27 12:24:37
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### The secret world behind those scammy text messages
+### Build, Interrupted: A Conversation with Ezra Klein
 
-**Released:** 2025-05-23 20:16:47
+**Released:** 2025-05-27 14:57:08
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
-
----
-
-### How economists (and TikTok) know if a recession is coming
-
-**Released:** 2025-05-21 22:03:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
 
 ---
 
@@ -160,41 +162,13 @@ Last updated: 2025-05-27 12:24:37
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Foreign in a Domestic Sense
+### Nooks & Crannies
 
-**Released:** 2025-05-20 16:43:26
+**Released:** 2025-05-22 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bbfe75c7-6900-41d5-9715-6c6eac61d161/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bbfe75c7-6900-41d5-9715-6c6eac61d161&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
-
-**Released:** 2025-05-21 23:28:38
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Calm: Alex Tew and Michael Acton Smith
-
-**Released:** 2025-05-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Scaling Strategies
-
-**Released:** 2025-05-22 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -250,16 +224,6 @@ Last updated: 2025-05-27 12:24:37
 
 ---
 
-## Revisionist History
-
-### Nooks & Crannies
-
-**Released:** 2025-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Paul W. Downs
@@ -285,6 +249,34 @@ Last updated: 2025-05-27 12:24:37
 **Released:** 2025-05-26 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Calm: Alex Tew and Michael Acton Smith
+
+**Released:** 2025-05-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line: Scaling Strategies
+
+**Released:** 2025-05-22 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95a8f513-4aec-416b-b26b-f9c762805bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
+
+**Released:** 2025-05-21 23:28:38
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
