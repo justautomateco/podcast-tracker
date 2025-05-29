@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-28 12:24:38
-
-## Freakonomics Radio
-
-### 633. The Most Powerful People You’ve Never Heard Of
-
-**Released:** 2025-05-23 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
-
----
+Last updated: 2025-05-29 01:00:07
 
 ## TED Talks Daily
+
+### The science of uncertainty — and the origin of conspiracy theories | Adam Kucharski
+
+**Released:** 2025-05-28 15:11:09
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6837278d6e5b65d7874abb79/media.mp3)
+
+---
 
 ### The future isn't just coded — it's built | Lauren Dunford
 
@@ -46,11 +44,13 @@ Last updated: 2025-05-28 12:24:38
 
 ---
 
-### Is this the time of monsters — or miracles? | Angus Hervey
+## Freakonomics Radio
 
-**Released:** 2025-05-23 14:58:08
+### 633. The Most Powerful People You’ve Never Heard Of
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68308c6e9cad4906be8c62aa/media.mp3)
+**Released:** 2025-05-23 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5c6ffe1c-27de-4666-be4d-9e37896715d6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5c6ffe1c-27de-4666-be4d-9e37896715d6&feed=Y8lFbOT4)
 
 ---
 
@@ -64,25 +64,15 @@ Last updated: 2025-05-28 12:24:38
 
 ---
 
-## Planet Money
-
-### The secret world behind those scammy text messages
-
-**Released:** 2025-05-23 20:16:47
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
-
----
-
-### How economists (and TikTok) know if a recession is coming
-
-**Released:** 2025-05-21 22:03:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3741201674.mp3?d=1413&size=22609172&e=1252663619&t=podcast&p=510289)
-
----
-
 ## The Joe Rogan Experience
+
+### #2328 - Luke Caverns
+
+**Released:** 2025-05-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4748737976.mp3?updated=1748451821)
+
+---
 
 ### #2327 - AJ Gentile
 
@@ -100,31 +90,21 @@ Last updated: 2025-05-28 12:24:38
 
 ---
 
-### #2325 - Aaron Rodgers
+## Planet Money
 
-**Released:** 2025-05-21 17:00:00
+### Why does the government fund research at universities?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9143478145.mp3?updated=1747856594)
+**Released:** 2025-05-28 23:27:32
 
----
-
-## Hidden Brain
-
-### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
-
-**Released:** 2025-05-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
 
 ---
 
-## 99% Invisible
+### The secret world behind those scammy text messages
 
-### Build, Interrupted: A Conversation with Ezra Klein
+**Released:** 2025-05-23 20:16:47
 
-**Released:** 2025-05-27 14:57:08
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9748219370.mp3?d=2064&size=33030148&e=1253043749&t=podcast&p=510289)
 
 ---
 
@@ -162,13 +142,33 @@ Last updated: 2025-05-28 12:24:38
 
 ---
 
-## The Tim Ferriss Show
+## Hidden Brain
 
-### #812: The Random Show — New Health Gadgets, Tim’s Latest Adventures, How to Drink Less, Zen Retreats, AI + Your Genome, and Colonoscopy Confessions
+### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
 
-**Released:** 2025-05-21 23:28:38
+**Released:** 2025-05-26 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dece5fa8-710f-4084-92f2-b0cb3b5201bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Build, Interrupted: A Conversation with Ezra Klein
+
+**Released:** 2025-05-27 14:57:08
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Nooks & Crannies
+
+**Released:** 2025-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -190,31 +190,13 @@ Last updated: 2025-05-28 12:24:38
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Nooks & Crannies
+### "Shane Gillis"
 
-**Released:** 2025-05-22 04:01:00
+**Released:** 2025-05-26 07:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7465517a-8c76-4e44-a425-b2e30146a5a8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour:  Who's Got Your Back?
-
-**Released:** 2025-05-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1747423654)
-
----
-
-### The Moth Podcast: AAPI Voices
-
-**Released:** 2025-05-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1748016139)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
 
 ---
 
@@ -233,16 +215,6 @@ Last updated: 2025-05-28 12:24:38
 **Released:** 2025-05-22 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a1204c46-dab4-4164-aba7-65651381b4f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a1204c46-dab4-4164-aba7-65651381b4f2&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Shane Gillis"
-
-**Released:** 2025-05-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
 
 ---
 
@@ -277,6 +249,24 @@ Last updated: 2025-05-28 12:24:38
 **Released:** 2025-05-22 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9451e674-9d2d-40be-8f28-e4606d5eee0b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour:  Who's Got Your Back?
+
+**Released:** 2025-05-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1747423654)
+
+---
+
+### The Moth Podcast: AAPI Voices
+
+**Released:** 2025-05-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7534366949.mp3?updated=1748016139)
 
 ---
 
