@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-31 00:58:36
+Last updated: 2025-05-31 12:21:21
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-05-31 00:58:36
 
 ---
 
+## This American Life
+
+### 860: Suddenly: A Mirror!
+
+**Released:** 2025-05-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How do you take the right risks? A photographer and brand builder answer | David Suh and Molly Graham
+
+**Released:** 2025-05-31 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6838a290964166a365c9f98c/media.mp3)
+
+---
 
 ### Beyond the Talk: Lei Cheng in conversation with TED Talks Daily
 
@@ -43,24 +61,6 @@ Last updated: 2025-05-31 00:58:36
 **Released:** 2025-05-28 15:11:09
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6837278d6e5b65d7874abb79/media.mp3)
-
----
-
-### The future isn't just coded — it's built | Lauren Dunford
-
-**Released:** 2025-05-27 15:04:27
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6835d360998551779f3b92f4/media.mp3)
-
----
-
-## This American Life
-
-### 860: Suddenly: A Mirror!
-
-**Released:** 2025-05-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
 
 ---
 
@@ -138,6 +138,14 @@ Last updated: 2025-05-31 00:58:36
 
 ## Stuff You Should Know
 
+### Selects: Yeti: The Asian Bigfoot
+
+**Released:** 2025-05-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/337bd33f-cdf4-45ee-a522-b2de014163e8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Rosenbergs
 
 **Released:** 2025-05-29 09:00:00
@@ -162,11 +170,61 @@ Last updated: 2025-05-31 00:58:36
 
 ---
 
-### Selects: How Publicists Work
+## The Tim Ferriss Show
 
-**Released:** 2025-05-24 09:00:00
+### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8fbcc5f-98b8-4d5a-af1c-b2de01320498/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Formula
+
+**Released:** 2025-05-29 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour:  Who's Got Your Back?
+
+**Released:** 2025-05-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Lats and Longs
+
+**Released:** 2025-05-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
+
+---
+
+### Paul W. Downs
+
+**Released:** 2025-05-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/af57b6f6-6052-448f-b497-285dde2554a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=af57b6f6-6052-448f-b497-285dde2554a4&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Shane Gillis"
+
+**Released:** 2025-05-26 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
 
 ---
 
@@ -185,26 +243,6 @@ Last updated: 2025-05-31 00:58:36
 **Released:** 2025-05-26 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
-
-**Released:** 2025-05-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Formula
-
-**Released:** 2025-05-29 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -231,44 +269,6 @@ Last updated: 2025-05-31 00:58:36
 **Released:** 2025-05-26 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d7435fe-f921-4f60-9559-55da9ac79909.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour:  Who's Got Your Back?
-
-**Released:** 2025-05-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
-
----
-
-## SmartLess 
-
-### "Shane Gillis"
-
-**Released:** 2025-05-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Lats and Longs
-
-**Released:** 2025-05-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
-
----
-
-### Paul W. Downs
-
-**Released:** 2025-05-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/af57b6f6-6052-448f-b497-285dde2554a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=af57b6f6-6052-448f-b497-285dde2554a4&feed=dHoohVNH)
 
 ---
 
