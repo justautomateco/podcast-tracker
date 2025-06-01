@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-05-31 12:21:21
-
-## Freakonomics Radio
-
-### 634. “Fault-Finder Is a Minimum-Wage Job”
-
-**Released:** 2025-05-30 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/330164ab-2298-4dbc-90b1-e2e9c5f2c17b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=330164ab-2298-4dbc-90b1-e2e9c5f2c17b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 860: Suddenly: A Mirror!
-
-**Released:** 2025-05-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
-
----
+Last updated: 2025-06-01 01:12:10
 
 ## TED Talks Daily
 
@@ -61,6 +41,26 @@ Last updated: 2025-05-31 12:21:21
 **Released:** 2025-05-28 15:11:09
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6837278d6e5b65d7874abb79/media.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 634. “Fault-Finder Is a Minimum-Wage Job”
+
+**Released:** 2025-05-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/330164ab-2298-4dbc-90b1-e2e9c5f2c17b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=330164ab-2298-4dbc-90b1-e2e9c5f2c17b&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 860: Suddenly: A Mirror!
+
+**Released:** 2025-05-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
 
 ---
 
@@ -170,13 +170,21 @@ Last updated: 2025-05-31 12:21:21
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
+### Advice Line with Steve Holmes of goba Sports Group
 
-**Released:** 2025-05-29 10:00:00
+**Released:** 2025-05-29 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Calm: Alex Tew and Michael Acton Smith
+
+**Released:** 2025-05-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -200,49 +208,13 @@ Last updated: 2025-05-31 12:21:21
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Lats and Longs
+### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
 
-**Released:** 2025-05-29 04:05:00
+**Released:** 2025-05-29 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
-
----
-
-### Paul W. Downs
-
-**Released:** 2025-05-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/af57b6f6-6052-448f-b497-285dde2554a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=af57b6f6-6052-448f-b497-285dde2554a4&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Shane Gillis"
-
-**Released:** 2025-05-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Steve Holmes of goba Sports Group
-
-**Released:** 2025-05-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Calm: Alex Tew and Michael Acton Smith
-
-**Released:** 2025-05-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -269,6 +241,34 @@ Last updated: 2025-05-31 12:21:21
 **Released:** 2025-05-26 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d7435fe-f921-4f60-9559-55da9ac79909.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Shane Gillis"
+
+**Released:** 2025-05-26 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Lats and Longs
+
+**Released:** 2025-05-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
+
+---
+
+### Paul W. Downs
+
+**Released:** 2025-05-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/af57b6f6-6052-448f-b497-285dde2554a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=af57b6f6-6052-448f-b497-285dde2554a4&feed=dHoohVNH)
 
 ---
 
