@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-01 12:21:46
-
-## Freakonomics Radio
-
-### 634. “Fault-Finder Is a Minimum-Wage Job”
-
-**Released:** 2025-05-30 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/330164ab-2298-4dbc-90b1-e2e9c5f2c17b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=330164ab-2298-4dbc-90b1-e2e9c5f2c17b&feed=Y8lFbOT4)
-
----
+Last updated: 2025-06-02 01:02:39
 
 ## TED Talks Daily
 
@@ -30,7 +20,7 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
-### Beyond the Talk: Lei Cheng in conversation with TED Talks Daily
+### Beyond the Talk: Ariel Ekblaw in conversation with TED Talks Daily
 
 **Released:** 2025-05-30 19:00:00
 
@@ -54,31 +44,23 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
+## Freakonomics Radio
+
+### 634. “Fault-Finder Is a Minimum-Wage Job”
+
+**Released:** 2025-05-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/330164ab-2298-4dbc-90b1-e2e9c5f2c17b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=330164ab-2298-4dbc-90b1-e2e9c5f2c17b&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
-### 860: Suddenly: A Mirror!
+### 861: Group Chat
 
-**Released:** 2025-05-25 18:00:00
+**Released:** 2025-06-01 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3)
-
----
-
-## Planet Money
-
-### The U.S.-China trade war, according to game theory
-
-**Released:** 2025-05-30 21:36:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9719500448.mp3?d=1704&size=27272760&e=1253382272&t=podcast&p=510289)
-
----
-
-### Why does the government fund research at universities?
-
-**Released:** 2025-05-28 23:27:32
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4038782354.mp3)
 
 ---
 
@@ -126,13 +108,21 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### Build, Interrupted: A Conversation with Ezra Klein
+### The U.S.-China trade war, according to game theory
 
-**Released:** 2025-05-27 14:57:08
+**Released:** 2025-05-30 21:36:41
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9719500448.mp3?d=1704&size=27272760&e=1253382272&t=podcast&p=510289)
+
+---
+
+### Why does the government fund research at universities?
+
+**Released:** 2025-05-28 23:27:32
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
 
 ---
 
@@ -170,21 +160,23 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Steve Holmes of goba Sports Group
+### Build, Interrupted: A Conversation with Ezra Klein
 
-**Released:** 2025-05-29 07:10:00
+**Released:** 2025-05-27 14:57:08
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
 
 ---
 
-### Calm: Alex Tew and Michael Acton Smith
+## The Tim Ferriss Show
 
-**Released:** 2025-05-26 07:10:00
+### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,6 +187,16 @@ Last updated: 2025-06-01 12:21:46
 **Released:** 2025-05-29 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour:  Who's Got Your Back?
+
+**Released:** 2025-05-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
 
 ---
 
@@ -224,16 +226,6 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour:  Who's Got Your Back?
-
-**Released:** 2025-05-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Lats and Longs
@@ -252,6 +244,24 @@ Last updated: 2025-06-01 12:21:46
 
 ---
 
+## How I Built This
+
+### Advice Line with Steve Holmes of goba Sports Group
+
+**Released:** 2025-05-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Calm: Alex Tew and Michael Acton Smith
+
+**Released:** 2025-05-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Shane Gillis"
@@ -259,16 +269,6 @@ Last updated: 2025-06-01 12:21:46
 **Released:** 2025-05-26 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
-
-**Released:** 2025-05-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
