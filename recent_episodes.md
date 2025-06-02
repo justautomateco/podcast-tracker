@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-02 01:02:39
+Last updated: 2025-06-02 12:24:51
 
 ## TED Talks Daily
 
@@ -64,6 +64,24 @@ Last updated: 2025-06-02 01:02:39
 
 ---
 
+## Planet Money
+
+### The U.S.-China trade war, according to game theory
+
+**Released:** 2025-05-30 21:36:41
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9719500448.mp3?d=1704&size=27272760&e=1253382272&t=podcast&p=510289)
+
+---
+
+### Why does the government fund research at universities?
+
+**Released:** 2025-05-28 23:27:32
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2330 - Bono
@@ -95,34 +113,6 @@ Last updated: 2025-06-02 01:02:39
 **Released:** 2025-05-27 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1762118255.mp3?updated=1748362673)
-
----
-
-## Hidden Brain
-
-### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
-
-**Released:** 2025-05-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### The U.S.-China trade war, according to game theory
-
-**Released:** 2025-05-30 21:36:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9719500448.mp3?d=1704&size=27272760&e=1253382272&t=podcast&p=510289)
-
----
-
-### Why does the government fund research at universities?
-
-**Released:** 2025-05-28 23:27:32
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
 
 ---
 
@@ -160,6 +150,16 @@ Last updated: 2025-06-02 01:02:39
 
 ---
 
+## Hidden Brain
+
+### Do I Know You? (A Hidden Brain-Revisionist History special on facial recognition)
+
+**Released:** 2025-05-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cfeca5fd-2855-4426-9438-1402b8718777/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cfeca5fd-2855-4426-9438-1402b8718777&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Build, Interrupted: A Conversation with Ezra Klein
@@ -190,17 +190,43 @@ Last updated: 2025-06-02 01:02:39
 
 ---
 
-## The Moth
+## How I Built This
 
-### The Moth Radio Hour:  Who's Got Your Back?
+### Tatcha: Vicky Tsai (July 2020)
 
-**Released:** 2025-05-27 04:25:00
+**Released:** 2025-06-02 07:10:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/acf71587-5548-40d2-842a-751cf08f3d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Steve Holmes of goba Sports Group
+
+**Released:** 2025-05-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Parker Posey"
+
+**Released:** 2025-06-02 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Cristin Milioti
+
+**Released:** 2025-06-02 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/181eb2b6-eaf6-498d-9b34-e334ec5eb6fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Cruise Ship
 
@@ -218,57 +244,31 @@ Last updated: 2025-06-02 01:02:39
 
 ---
 
-### Nick Kroll Returns
+## The Moth
 
-**Released:** 2025-05-26 07:35:00
+### The Moth Radio Hour:  Who's Got Your Back?
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d7435fe-f921-4f60-9559-55da9ac79909.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-05-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Adam DeVine
+
+**Released:** 2025-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
+
+---
 
 ### Lats and Longs
 
 **Released:** 2025-05-29 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
-
----
-
-### Paul W. Downs
-
-**Released:** 2025-05-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/af57b6f6-6052-448f-b497-285dde2554a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=af57b6f6-6052-448f-b497-285dde2554a4&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Advice Line with Steve Holmes of goba Sports Group
-
-**Released:** 2025-05-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Calm: Alex Tew and Michael Acton Smith
-
-**Released:** 2025-05-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb184bec-1de8-4d36-80d6-7d4b034804de.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Shane Gillis"
-
-**Released:** 2025-05-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f17e3a08-8ffd-43e2-91ef-1c42811bcb41/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f17e3a08-8ffd-43e2-91ef-1c42811bcb41&feed=hNaFxXpO)
 
 ---
 
