@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-03 01:01:15
+Last updated: 2025-06-03 12:24:51
 
 ## Freakonomics Radio
 
@@ -92,6 +92,16 @@ Last updated: 2025-06-03 01:01:15
 
 ---
 
+## 99% Invisible
+
+### Build, Interrupted: A Conversation with Ezra Klein
+
+**Released:** 2025-05-27 14:57:08
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2330 - Bono
@@ -126,17 +136,15 @@ Last updated: 2025-06-03 01:01:15
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Build, Interrupted: A Conversation with Ezra Klein
+### Pagans, Neo-Pagans, Wiccans – Let’s Sort It Out!
 
-**Released:** 2025-05-27 14:57:08
+**Released:** 2025-06-03 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74db2569-41bf-4f0f-8953-0dff645421d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74db2569-41bf-4f0f-8953-0dff645421d7&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/240817b5-dd93-4ad4-9035-b2f10013ae24/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: Yeti: The Asian Bigfoot
 
@@ -162,62 +170,6 @@ Last updated: 2025-06-03 01:01:15
 
 ---
 
-### The Group of Seven
-
-**Released:** 2025-05-27 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9042dfa4-20a7-4f53-a145-b2e501322440/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### The Formula
-
-**Released:** 2025-05-29 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour:  Who's Got Your Back?
-
-**Released:** 2025-05-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD4448073158.mp3?updated=1748549874)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Adam Devine
-
-**Released:** 2025-06-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
-
----
-
-### Lats and Longs
-
-**Released:** 2025-05-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Parker Posey"
-
-**Released:** 2025-06-02 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
-
----
-
 ## How I Built This
 
 ### Tatcha: Vicky Tsai (July 2020)
@@ -233,6 +185,26 @@ Last updated: 2025-06-03 01:01:15
 **Released:** 2025-05-29 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
+
+**Released:** 2025-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Formula
+
+**Released:** 2025-05-29 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -262,13 +234,41 @@ Last updated: 2025-06-03 01:01:15
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
+### The Moth Radio Hour: Life's a Mystery
 
-**Released:** 2025-05-29 10:00:00
+**Released:** 2025-06-03 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9249954964.mp3?updated=1748468186)
+
+---
+
+## SmartLess 
+
+### "Parker Posey"
+
+**Released:** 2025-06-02 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Adam Devine
+
+**Released:** 2025-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
+
+---
+
+### Lats and Longs
+
+**Released:** 2025-05-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
 
 ---
 
