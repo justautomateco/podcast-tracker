@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-04 01:01:02
+Last updated: 2025-06-04 12:24:49
 
 ## Freakonomics Radio
 
@@ -65,6 +65,14 @@ Last updated: 2025-06-04 01:01:02
 ---
 
 ## Planet Money
+
+### Trump's crypto interests (Two Indicators)
+
+**Released:** 2025-06-04 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4518376172.mp3?d=1093&size=17501292&e=1253616093&t=podcast&p=510289)
+
+---
 
 ### The U.S.-China trade war, according to game theory
 
@@ -138,6 +146,14 @@ Last updated: 2025-06-04 01:01:02
 
 ## Stuff You Should Know
 
+### Short Stuff: Can You Not Have A Name?
+
+**Released:** 2025-06-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f6aa42b-b1b5-4733-91bb-b2df011f66c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Pagans, Neo-Pagans, Wiccans – Let’s Sort It Out!
 
 **Released:** 2025-06-03 09:00:00
@@ -162,11 +178,21 @@ Last updated: 2025-06-04 01:01:02
 
 ---
 
-### Short Stuff: Genetic Mutations
+## The Tim Ferriss Show
 
-**Released:** 2025-05-28 09:00:00
+### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and the Moneyball of Fight Matchmaking
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59e165bb-c8a7-4abf-bfed-b2df011ee40e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-06-04 00:43:30
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
+
+**Released:** 2025-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -187,6 +213,16 @@ Last updated: 2025-06-04 01:01:02
 **Released:** 2025-06-03 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9249954964.mp3?updated=1748468186)
+
+---
+
+## SmartLess 
+
+### "Parker Posey"
+
+**Released:** 2025-06-02 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
 
 ---
 
@@ -228,6 +264,14 @@ Last updated: 2025-06-04 01:01:02
 
 ## Armchair Expert
 
+### James Kimmel Jr. (revenge and forgiveness expert)
+
+**Released:** 2025-06-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb9cf1b0-9c82-43ee-afb2-14a0ec4f2d82.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Cristin Milioti
 
 **Released:** 2025-06-02 07:35:00
@@ -241,42 +285,6 @@ Last updated: 2025-06-04 01:01:02
 **Released:** 2025-05-30 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7bb7df9f-c3d3-4c10-9d04-adad088a7d1f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Scott Payne (retired undercover FBI Agent)
-
-**Released:** 2025-05-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fdf991d-a0d7-4012-af74-6cc4fb8f783c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Parker Posey"
-
-**Released:** 2025-06-02 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and the Moneyball of Fight Matchmaking
-
-**Released:** 2025-06-04 00:43:30
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #813: Q&A with Tim — Three Life Commandments, 4-Hour Workweek Exercises I Still Use, The Art and Joy of Inefficiency, Stoicism Revisited, and Much More
-
-**Released:** 2025-05-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/53e28cdf-68f2-4b53-934e-7c2c343ff47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
