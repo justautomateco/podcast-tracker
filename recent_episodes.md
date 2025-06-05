@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-04 12:24:49
+Last updated: 2025-06-05 01:00:00
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-06-04 12:24:49
 ---
 
 ## TED Talks Daily
+
+### Why Ukraine's drone attack on Russia changes war forever | Ian Bremmer
+
+**Released:** 2025-06-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/683f7a4aa73556324a242f79/media.mp3)
+
+---
 
 ### Beyond the Talk: Lei Cheng in conversation with TED Talks Daily
 
@@ -46,14 +54,6 @@ Last updated: 2025-06-04 12:24:49
 
 ---
 
-### How do you take the right risks? A photographer and brand builder answer | David Suh and Molly Graham
-
-**Released:** 2025-05-31 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6838a290964166a365c9f98c/media.mp3)
-
----
-
 ## This American Life
 
 ### 861: Group Chat
@@ -82,15 +82,25 @@ Last updated: 2025-06-04 12:24:49
 
 ---
 
-### Why does the government fund research at universities?
+## Hidden Brain
 
-**Released:** 2025-05-28 23:27:32
+### The Price of Revenge
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9621034849.mp3?d=1631&size=26102474&e=1253247256&t=podcast&p=510289)
+**Released:** 2025-06-02 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6c582865-b882-4367-989c-3681e7ab5df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6c582865-b882-4367-989c-3681e7ab5df2&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2332 - Oz Pearlman
+
+**Released:** 2025-06-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7347623426.mp3?updated=1749081287)
+
+---
 
 ### #2331 - Jesse Michels
 
@@ -113,24 +123,6 @@ Last updated: 2025-06-04 12:24:49
 **Released:** 2025-05-29 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7830665726.mp3?updated=1748537255)
-
----
-
-### #2328 - Luke Caverns
-
-**Released:** 2025-05-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4748737976.mp3?updated=1748451821)
-
----
-
-## Hidden Brain
-
-### The Price of Revenge
-
-**Released:** 2025-06-02 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6c582865-b882-4367-989c-3681e7ab5df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6c582865-b882-4367-989c-3681e7ab5df2&feed=kwWc0lhf)
 
 ---
 
@@ -178,6 +170,16 @@ Last updated: 2025-06-04 12:24:49
 
 ---
 
+## Revisionist History
+
+### The Formula
+
+**Released:** 2025-05-29 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and the Moneyball of Fight Matchmaking
@@ -196,16 +198,6 @@ Last updated: 2025-06-04 12:24:49
 
 ---
 
-## Revisionist History
-
-### The Formula
-
-**Released:** 2025-05-29 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/74a5f743-1416-4de8-a0ea-b2ec002b197e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Radio Hour: Life's a Mystery
@@ -213,52 +205,6 @@ Last updated: 2025-06-04 12:24:49
 **Released:** 2025-06-03 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9249954964.mp3?updated=1748468186)
-
----
-
-## SmartLess 
-
-### "Parker Posey"
-
-**Released:** 2025-06-02 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Adam Devine
-
-**Released:** 2025-06-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
-
----
-
-### Lats and Longs
-
-**Released:** 2025-05-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Tatcha: Vicky Tsai (July 2020)
-
-**Released:** 2025-06-02 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/acf71587-5548-40d2-842a-751cf08f3d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Steve Holmes of goba Sports Group
-
-**Released:** 2025-05-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +231,52 @@ Last updated: 2025-06-04 12:24:49
 **Released:** 2025-05-30 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7bb7df9f-c3d3-4c10-9d04-adad088a7d1f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Adam Devine
+
+**Released:** 2025-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
+
+---
+
+### Lats and Longs
+
+**Released:** 2025-05-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd236c7-dd43-47a6-bbc6-ce80ae05be41/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd236c7-dd43-47a6-bbc6-ce80ae05be41&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Parker Posey"
+
+**Released:** 2025-06-02 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Tatcha: Vicky Tsai (July 2020)
+
+**Released:** 2025-06-02 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/acf71587-5548-40d2-842a-751cf08f3d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Steve Holmes of goba Sports Group
+
+**Released:** 2025-05-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35fd4760-ce72-495a-b766-f27f0e23add8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
