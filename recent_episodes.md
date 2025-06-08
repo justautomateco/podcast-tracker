@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-08 01:06:27
+Last updated: 2025-06-08 12:21:30
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-06-08 01:06:27
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 861: Group Chat
+### Information Inoculation: Defending Against Medical Myths: Why we need to fight misinformation about vaccines | TED Health
 
-**Released:** 2025-06-01 18:00:00
+**Released:** 2025-06-08 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4038782354.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How can creativity help us heal? A doctor and a cartoonist answer | Amy Baxter and Navied Mahdavian
 
@@ -56,11 +54,31 @@ Last updated: 2025-06-08 01:06:27
 
 ---
 
-### Beyond the Talk: Lei Cheng in conversation with TED Talks Daily
+## Planet Money
 
-**Released:** 2025-06-03 19:00:00
+### When Chinese manufacturing met Small Town, USA
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/683e15d1e646ff83255af45a/media.mp3)
+**Released:** 2025-06-06 23:25:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1861&size=29778008&e=1253756223&t=podcast&p=510289)
+
+---
+
+### Trump's crypto interests (Two Indicators)
+
+**Released:** 2025-06-04 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4518376172.mp3?d=1093&size=17501292&e=1253616093&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 861: Group Chat
+
+**Released:** 2025-06-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4038782354.mp3)
 
 ---
 
@@ -108,21 +126,13 @@ Last updated: 2025-06-08 01:06:27
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### When Chinese manufacturing met Small Town, USA
+### Adapt or Design
 
-**Released:** 2025-06-06 23:25:59
+**Released:** 2025-06-03 20:02:33
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1861&size=29778008&e=1253756223&t=podcast&p=510289)
-
----
-
-### Trump's crypto interests (Two Indicators)
-
-**Released:** 2025-06-04 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4518376172.mp3?d=1093&size=17501292&e=1253616093&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a9459b28-bda8-4f0e-afa7-bc95109ada1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a9459b28-bda8-4f0e-afa7-bc95109ada1e&feed=BqbsxVfO)
 
 ---
 
@@ -160,62 +170,6 @@ Last updated: 2025-06-08 01:06:27
 
 ---
 
-## 99% Invisible
-
-### Adapt or Design
-
-**Released:** 2025-06-03 20:02:33
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a9459b28-bda8-4f0e-afa7-bc95109ada1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a9459b28-bda8-4f0e-afa7-bc95109ada1e&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking
-
-**Released:** 2025-06-04 00:43:30
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Medal of Honor: Journeys of Courage with J.R. Martinez
-
-**Released:** 2025-06-05 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Stalking II
-
-**Released:** 2025-06-06 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30c44185-8d1e-4322-86ea-bcace2ad6b11.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Kimmel Jr. (revenge and forgiveness expert)
-
-**Released:** 2025-06-04 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb9cf1b0-9c82-43ee-afb2-14a0ec4f2d82.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Cristin Milioti
-
-**Released:** 2025-06-02 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/181eb2b6-eaf6-498d-9b34-e334ec5eb6fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Advice Line with Mark Ramadan of Sir Kensington's (June 2024)
@@ -231,6 +185,16 @@ Last updated: 2025-06-08 01:06:27
 **Released:** 2025-06-02 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/acf71587-5548-40d2-842a-751cf08f3d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Medal of Honor: Journeys of Courage with J.R. Martinez
+
+**Released:** 2025-06-05 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -270,6 +234,32 @@ Last updated: 2025-06-08 01:06:27
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Stalking II
+
+**Released:** 2025-06-06 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30c44185-8d1e-4322-86ea-bcace2ad6b11.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James Kimmel Jr. (revenge and forgiveness expert)
+
+**Released:** 2025-06-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb9cf1b0-9c82-43ee-afb2-14a0ec4f2d82.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Cristin Milioti
+
+**Released:** 2025-06-02 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/181eb2b6-eaf6-498d-9b34-e334ec5eb6fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Parker Posey"
@@ -277,6 +267,16 @@ Last updated: 2025-06-08 01:06:27
 **Released:** 2025-06-02 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking
+
+**Released:** 2025-06-04 00:43:30
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
