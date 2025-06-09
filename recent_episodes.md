@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-09 01:04:00
+Last updated: 2025-06-09 12:24:28
 
 ## Freakonomics Radio
 
@@ -82,16 +82,6 @@ Last updated: 2025-06-09 01:04:00
 
 ---
 
-## Hidden Brain
-
-### The Price of Revenge
-
-**Released:** 2025-06-02 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6c582865-b882-4367-989c-3681e7ab5df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6c582865-b882-4367-989c-3681e7ab5df2&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2334 - Kash Patel
@@ -123,6 +113,16 @@ Last updated: 2025-06-09 01:04:00
 **Released:** 2025-06-03 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8443037366.mp3?updated=1748967954)
+
+---
+
+## Hidden Brain
+
+### The Price of Revenge
+
+**Released:** 2025-06-02 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6c582865-b882-4367-989c-3681e7ab5df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6c582865-b882-4367-989c-3681e7ab5df2&feed=kwWc0lhf)
 
 ---
 
@@ -170,24 +170,6 @@ Last updated: 2025-06-09 01:04:00
 
 ---
 
-## How I Built This
-
-### Advice Line with Mark Ramadan of Sir Kensington's (June 2024)
-
-**Released:** 2025-06-05 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9cdf3fcd-e929-4ad7-abd0-5d7a6d12363e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tatcha: Vicky Tsai (July 2020)
-
-**Released:** 2025-06-02 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/acf71587-5548-40d2-842a-751cf08f3d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Medal of Honor: Journeys of Courage with J.R. Martinez
@@ -195,16 +177,6 @@ Last updated: 2025-06-09 01:04:00
 **Released:** 2025-06-05 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking
-
-**Released:** 2025-06-04 00:43:30
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,17 +198,15 @@ Last updated: 2025-06-09 01:04:00
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Parker Posey"
+### Mike Birbiglia Returns Again
 
-**Released:** 2025-06-02 07:01:00
+**Released:** 2025-06-09 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/74bebe7f-845b-45a2-aeb6-d969c9835b99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=74bebe7f-845b-45a2-aeb6-d969c9835b99&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### Ron Chernow
 
@@ -246,15 +216,43 @@ Last updated: 2025-06-09 01:04:00
 
 ---
 
-### Adam Devine
+## SmartLess 
 
-**Released:** 2025-06-02 04:05:00
+### "Gordon Ramsay"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f9774bbe-10d6-410e-9625-b84540a547f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f9774bbe-10d6-410e-9625-b84540a547f7&feed=dHoohVNH)
+**Released:** 2025-06-09 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Perfect Snacks: Bill and Leigh Keith
+
+**Released:** 2025-06-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Mark Ramadan of Sir Kensington's (June 2024)
+
+**Released:** 2025-06-05 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9cdf3fcd-e929-4ad7-abd0-5d7a6d12363e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Sam Rockwell
+
+**Released:** 2025-06-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d3288e3-cc22-4ced-abf3-1cdb9957a6a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Stalking II
 
@@ -272,11 +270,13 @@ Last updated: 2025-06-09 01:04:00
 
 ---
 
-### Cristin Milioti
+## The Tim Ferriss Show
 
-**Released:** 2025-06-02 07:35:00
+### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/181eb2b6-eaf6-498d-9b34-e334ec5eb6fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-06-04 00:43:30
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
