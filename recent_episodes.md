@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-10 01:01:35
+Last updated: 2025-06-10 12:25:09
 
 ## Freakonomics Radio
 
@@ -64,6 +64,44 @@ Last updated: 2025-06-10 01:01:35
 
 ---
 
+## Planet Money
+
+### When Chinese manufacturing met Small Town, USA
+
+**Released:** 2025-06-06 23:25:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289)
+
+---
+
+### Trump's crypto interests (Two Indicators)
+
+**Released:** 2025-06-04 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4518376172.mp3?d=1093&size=17501292&e=1253616093&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### Ouch! That Feels Great
+
+**Released:** 2025-06-09 19:18:57
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Adapt or Design
+
+**Released:** 2025-06-03 20:02:33
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a9459b28-bda8-4f0e-afa7-bc95109ada1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a9459b28-bda8-4f0e-afa7-bc95109ada1e&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2334 - Kash Patel
@@ -98,35 +136,15 @@ Last updated: 2025-06-10 01:01:35
 
 ---
 
-## Planet Money
-
-### When Chinese manufacturing met Small Town, USA
-
-**Released:** 2025-06-06 23:25:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289)
-
----
-
-### Trump's crypto interests (Two Indicators)
-
-**Released:** 2025-06-04 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4518376172.mp3?d=1093&size=17501292&e=1253616093&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Ouch! That Feels Great
-
-**Released:** 2025-06-09 19:18:57
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
+
+### How Styrofoam Works
+
+**Released:** 2025-06-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/923c34b8-7ccd-4514-b024-b2f8000da6db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Dementia Works
 
@@ -152,24 +170,6 @@ Last updated: 2025-06-10 01:01:35
 
 ---
 
-### Pagans, Neo-Pagans, Wiccans – Let’s Sort It Out!
-
-**Released:** 2025-06-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/240817b5-dd93-4ad4-9035-b2f10013ae24/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Adapt or Design
-
-**Released:** 2025-06-03 20:02:33
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a9459b28-bda8-4f0e-afa7-bc95109ada1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a9459b28-bda8-4f0e-afa7-bc95109ada1e&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Perfect Snacks: Bill and Leigh Keith
@@ -185,6 +185,16 @@ Last updated: 2025-06-10 01:01:35
 **Released:** 2025-06-05 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9cdf3fcd-e929-4ad7-abd0-5d7a6d12363e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Medal of Honor: Journeys of Courage with J.R. Martinez
+
+**Released:** 2025-06-05 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -242,34 +252,6 @@ Last updated: 2025-06-10 01:01:35
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Hoses and Home Ec
-
-**Released:** 2025-06-06 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
-
----
-
-### The Moth Radio Hour: Life's a Mystery
-
-**Released:** 2025-06-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9249954964.mp3?updated=1748468186)
-
----
-
-## Revisionist History
-
-### Medal of Honor: Journeys of Courage with J.R. Martinez
-
-**Released:** 2025-06-05 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## SmartLess 
 
 ### "Gordon Ramsay"
@@ -277,6 +259,24 @@ Last updated: 2025-06-10 01:01:35
 **Released:** 2025-06-09 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Green
+
+**Released:** 2025-06-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
+
+---
+
+### The Moth Podcast: Hoses and Home Ec
+
+**Released:** 2025-06-06 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
 
 ---
 
