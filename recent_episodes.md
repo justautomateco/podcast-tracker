@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-10 12:25:09
-
-## Freakonomics Radio
-
-### 635. Can a Museum Be the Conscience of a Nation?
-
-**Released:** 2025-06-06 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8399caf5-c680-4c54-b9a9-a4f8e35ebce5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8399caf5-c680-4c54-b9a9-a4f8e35ebce5&feed=Y8lFbOT4)
-
----
+Last updated: 2025-06-11 01:01:10
 
 ## TED Talks Daily
+
+### Inside a dark web kill list | Carl Miller
+
+**Released:** 2025-06-10 15:03:37
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3)
+
+---
 
 ### What introverts wish everyone else knew | Shalewa Sharpe
 
@@ -46,11 +44,21 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
-### A new lifeline for the world's coral reefs | Theresa Fyffe
+## Freakonomics Radio
 
-**Released:** 2025-06-05 15:02:56
+### An Economics Lesson from a Talking Pencil (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68405ea55de209b54b1e7d87/media.mp3)
+**Released:** 2025-06-11 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
+
+---
+
+### 635. Can a Museum Be the Conscience of a Nation?
+
+**Released:** 2025-06-06 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8399caf5-c680-4c54-b9a9-a4f8e35ebce5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8399caf5-c680-4c54-b9a9-a4f8e35ebce5&feed=Y8lFbOT4)
 
 ---
 
@@ -92,50 +100,6 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
-## 99% Invisible
-
-### Adapt or Design
-
-**Released:** 2025-06-03 20:02:33
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a9459b28-bda8-4f0e-afa7-bc95109ada1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a9459b28-bda8-4f0e-afa7-bc95109ada1e&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2334 - Kash Patel
-
-**Released:** 2025-06-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2729354205.mp3?updated=1749227604)
-
----
-
-### #2333 - Protect Our Parks 15
-
-**Released:** 2025-06-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7165350754.mp3?updated=1749143480)
-
----
-
-### #2332 - Oz Pearlman
-
-**Released:** 2025-06-04 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7347623426.mp3?updated=1749081287)
-
----
-
-### #2331 - Jesse Michels
-
-**Released:** 2025-06-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8443037366.mp3?updated=1748967954)
-
----
-
 ## Stuff You Should Know
 
 ### How Styrofoam Works
@@ -170,6 +134,60 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
+## The Joe Rogan Experience
+
+### #2335 - Dr. Mary Talley Bowden
+
+**Released:** 2025-06-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
+
+---
+
+### #2334 - Kash Patel
+
+**Released:** 2025-06-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2729354205.mp3?updated=1749227604)
+
+---
+
+### #2333 - Protect Our Parks 15
+
+**Released:** 2025-06-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7165350754.mp3?updated=1749143480)
+
+---
+
+### #2332 - Oz Pearlman
+
+**Released:** 2025-06-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7347623426.mp3?updated=1749081287)
+
+---
+
+## 99% Invisible
+
+### The Return of Con Law
+
+**Released:** 2025-06-10 20:33:24
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Medal of Honor: Journeys of Courage with J.R. Martinez
+
+**Released:** 2025-06-05 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Perfect Snacks: Bill and Leigh Keith
@@ -188,23 +206,39 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
-## Revisionist History
+## The Moth
 
-### Medal of Honor: Journeys of Courage with J.R. Martinez
+### The Moth Radio Hour: Green
 
-**Released:** 2025-06-05 04:01:00
+**Released:** 2025-06-10 04:25:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
 
 ---
 
-## The Tim Ferriss Show
+### The Moth Podcast: Hoses and Home Ec
 
-### #814: Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking
+**Released:** 2025-06-06 04:25:00
 
-**Released:** 2025-06-04 00:43:30
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8a706425-49ff-432c-893b-107d0d6fc8f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+## Conan O'Brien Needs A Friend
+
+### Mike Birbiglia Returns Again
+
+**Released:** 2025-06-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
+
+---
+
+### Ron Chernow
+
+**Released:** 2025-06-05 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f27cd044-1817-458a-bbc9-9bf535750daf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f27cd044-1817-458a-bbc9-9bf535750daf&feed=dHoohVNH)
 
 ---
 
@@ -234,24 +268,6 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Mike Birbiglia Returns Again
-
-**Released:** 2025-06-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
-
----
-
-### Ron Chernow
-
-**Released:** 2025-06-05 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f27cd044-1817-458a-bbc9-9bf535750daf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f27cd044-1817-458a-bbc9-9bf535750daf&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Gordon Ramsay"
@@ -262,21 +278,13 @@ Last updated: 2025-06-10 12:25:09
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Radio Hour: Green
+### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
 
-**Released:** 2025-06-10 04:25:00
+**Released:** 2025-06-10 18:25:40
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
-
----
-
-### The Moth Podcast: Hoses and Home Ec
-
-**Released:** 2025-06-06 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
