@@ -21,6 +21,76 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "68499c1086b5e77739eb0787",
+    "episode_title": "The surprising power of your nature photos | Scott Loarie",
+    "release_date": "2025-06-11 15:09:04",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499c1086b5e77739eb0787/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6846f943d61256a578fc5949",
+    "episode_title": "Inside a dark web kill list | Carl Miller",
+    "release_date": "2025-06-10 15:03:37",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6846f8a2d911dedd65fa97d3",
+    "episode_title": "What introverts wish everyone else knew | Shalewa Sharpe",
+    "release_date": "2025-06-09 15:11:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f8a2d911dedd65fa97d3/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6840ca2af2fbdde542ef17cc",
+    "episode_title": "Information Inoculation: Why we need to fight misinformation about vaccines | TED Health",
+    "release_date": "2025-06-08 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6841eb23c4b70577af469ee4",
+    "episode_title": "How can creativity help us heal? A doctor and a cartoonist answer | Amy Baxter and Navied Mahdavian",
+    "release_date": "2025-06-07 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841eb23c4b70577af469ee4/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "c3c376b3-4cb6-45f4-b8c4-23156121bee3",
+    "episode_title": "Are Trump's tariffs legal?",
+    "release_date": "2025-06-11 23:42:18",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "7e7b34cd-4225-4c90-a700-db3d004ae2e9",
+    "episode_title": "When Chinese manufacturing met Small Town, USA",
+    "release_date": "2025-06-06 23:25:59",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "ab7feb8e-ce11-4ebb-97ee-d35d8a9394ce",
+    "episode_title": "Ouch! That Feels Great",
+    "release_date": "2025-06-09 19:18:57",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "d1862e36-22b1-44aa-8af6-5cfe8a7f3c71",
+    "episode_title": "The Return of Con Law",
+    "release_date": "2025-06-10 20:33:24",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "b3559c6a-465d-11f0-ac6c-475b28c308c5",
+    "episode_title": "#2336 - Ken Burns",
+    "release_date": "2025-06-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "8d436ca8-45a6-11f0-82d6-8f484cc90104",
     "episode_title": "#2335 - Dr. Mary Talley Bowden",
     "release_date": "2025-06-10 17:00:00",
@@ -40,20 +110,6 @@
     "release_date": "2025-06-05 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT7165350754.mp3?updated=1749143480",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "bd114e7a-40f4-11f0-afdb-070334207f1d",
-    "episode_title": "#2332 - Oz Pearlman",
-    "release_date": "2025-06-04 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7347623426.mp3?updated=1749081287",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "7e7b34cd-4225-4c90-a700-db3d004ae2e9",
-    "episode_title": "When Chinese manufacturing met Small Town, USA",
-    "release_date": "2025-06-06 23:25:59",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
   },
   {
     "guid": "edfb32eb-2de4-4f73-8706-b2f800e21009",
@@ -84,20 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "d1862e36-22b1-44aa-8af6-5cfe8a7f3c71",
-    "episode_title": "The Return of Con Law",
-    "release_date": "2025-06-10 20:33:24",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "ab7feb8e-ce11-4ebb-97ee-d35d8a9394ce",
-    "episode_title": "Ouch! That Feels Great",
-    "release_date": "2025-06-09 19:18:57",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/0RPnwyC5i3xZhTm5ZuJIV4Z-DM_CdMPG2PO-Uogaetg",
     "episode_title": "Perfect Snacks: Bill and Leigh Keith",
     "release_date": "2025-06-09 07:10:00",
@@ -117,20 +159,6 @@
     "release_date": "2025-06-05 04:01:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "b5e55e44-76d2-11ef-92d1-a7338c857acf",
-    "episode_title": "The Moth Radio Hour: Green",
-    "release_date": "2025-06-10 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "eb1329e8-76d2-11ef-a8c5-eb193a7d3e50",
-    "episode_title": "The Moth Podcast: Hoses and Home Ec",
-    "release_date": "2025-06-06 04:25:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "716f8e8c-8cdb-4896-8088-4b7fa2018498",
@@ -182,38 +210,17 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "6846f943d61256a578fc5949",
-    "episode_title": "Inside a dark web kill list | Carl Miller",
-    "release_date": "2025-06-10 15:03:37",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "b5e55e44-76d2-11ef-92d1-a7338c857acf",
+    "episode_title": "The Moth Radio Hour: Green",
+    "release_date": "2025-06-10 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "6846f8a2d911dedd65fa97d3",
-    "episode_title": "What introverts wish everyone else knew | Shalewa Sharpe",
-    "release_date": "2025-06-09 15:11:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f8a2d911dedd65fa97d3/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6840ca2af2fbdde542ef17cc",
-    "episode_title": "Information Inoculation: Why we need to fight misinformation about vaccines | TED Health",
-    "release_date": "2025-06-08 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6841eb23c4b70577af469ee4",
-    "episode_title": "How can creativity help us heal? A doctor and a cartoonist answer | Amy Baxter and Navied Mahdavian",
-    "release_date": "2025-06-07 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841eb23c4b70577af469ee4/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6841b583f47b55b37ae002ec",
-    "episode_title": "The fine art of fibbing | Athena Kugblenu",
-    "release_date": "2025-06-06 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841b583f47b55b37ae002ec/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "eb1329e8-76d2-11ef-a8c5-eb193a7d3e50",
+    "episode_title": "The Moth Podcast: Hoses and Home Ec",
+    "release_date": "2025-06-06 04:25:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282",
+    "podcast_name": "The Moth"
   }
 ]

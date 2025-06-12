@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-11 12:25:12
+Last updated: 2025-06-12 01:00:31
 
 ## Freakonomics Radio
 
@@ -30,7 +30,95 @@ Last updated: 2025-06-11 12:25:12
 
 ---
 
+## TED Talks Daily
+
+### The surprising power of your nature photos | Scott Loarie
+
+**Released:** 2025-06-11 15:09:04
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499c1086b5e77739eb0787/media.mp3)
+
+---
+
+### Inside a dark web kill list | Carl Miller
+
+**Released:** 2025-06-10 15:03:37
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3)
+
+---
+
+### What introverts wish everyone else knew | Shalewa Sharpe
+
+**Released:** 2025-06-09 15:11:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f8a2d911dedd65fa97d3/media.mp3)
+
+---
+
+### Information Inoculation: Why we need to fight misinformation about vaccines | TED Health
+
+**Released:** 2025-06-08 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3)
+
+---
+
+### How can creativity help us heal? A doctor and a cartoonist answer | Amy Baxter and Navied Mahdavian
+
+**Released:** 2025-06-07 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841eb23c4b70577af469ee4/media.mp3)
+
+---
+
+## Planet Money
+
+### Are Trump's tariffs legal?
+
+**Released:** 2025-06-11 23:42:18
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
+
+---
+
+### When Chinese manufacturing met Small Town, USA
+
+**Released:** 2025-06-06 23:25:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### Ouch! That Feels Great
+
+**Released:** 2025-06-09 19:18:57
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Return of Con Law
+
+**Released:** 2025-06-10 20:33:24
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2336 - Ken Burns
+
+**Released:** 2025-06-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+
+---
 
 ### #2335 - Dr. Mary Talley Bowden
 
@@ -53,24 +141,6 @@ Last updated: 2025-06-11 12:25:12
 **Released:** 2025-06-05 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7165350754.mp3?updated=1749143480)
-
----
-
-### #2332 - Oz Pearlman
-
-**Released:** 2025-06-04 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7347623426.mp3?updated=1749081287)
-
----
-
-## Planet Money
-
-### When Chinese manufacturing met Small Town, USA
-
-**Released:** 2025-06-06 23:25:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289)
 
 ---
 
@@ -108,26 +178,6 @@ Last updated: 2025-06-11 12:25:12
 
 ---
 
-## 99% Invisible
-
-### The Return of Con Law
-
-**Released:** 2025-06-10 20:33:24
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Ouch! That Feels Great
-
-**Released:** 2025-06-09 19:18:57
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
-
----
-
 ## How I Built This
 
 ### Perfect Snacks: Bill and Leigh Keith
@@ -153,24 +203,6 @@ Last updated: 2025-06-11 12:25:12
 **Released:** 2025-06-05 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/43680a9a-c131-4d73-8e3f-b2eb013a35e8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Green
-
-**Released:** 2025-06-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
-
----
-
-### The Moth Podcast: Hoses and Home Ec
-
-**Released:** 2025-06-06 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
 
 ---
 
@@ -238,45 +270,21 @@ Last updated: 2025-06-11 12:25:12
 
 ---
 
-## TED Talks Daily
+## The Moth
 
-### Inside a dark web kill list | Carl Miller
+### The Moth Radio Hour: Green
 
-**Released:** 2025-06-10 15:03:37
+**Released:** 2025-06-10 04:25:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3)
-
----
-
-### What introverts wish everyone else knew | Shalewa Sharpe
-
-**Released:** 2025-06-09 15:11:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f8a2d911dedd65fa97d3/media.mp3)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
 
 ---
 
-### Information Inoculation: Why we need to fight misinformation about vaccines | TED Health
+### The Moth Podcast: Hoses and Home Ec
 
-**Released:** 2025-06-08 06:00:00
+**Released:** 2025-06-06 04:25:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3)
-
----
-
-### How can creativity help us heal? A doctor and a cartoonist answer | Amy Baxter and Navied Mahdavian
-
-**Released:** 2025-06-07 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841eb23c4b70577af469ee4/media.mp3)
-
----
-
-### The fine art of fibbing | Athena Kugblenu
-
-**Released:** 2025-06-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6841b583f47b55b37ae002ec/media.mp3)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
 
 ---
 
