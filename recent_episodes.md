@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-13 01:01:16
+Last updated: 2025-06-13 12:24:23
 
 ## Freakonomics Radio
+
+### 636. Why Aren’t We Having More Babies?
+
+**Released:** 2025-06-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b95cf2f8-7079-487a-b75f-cd0403895592/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b95cf2f8-7079-487a-b75f-cd0403895592&feed=Y8lFbOT4)
+
+---
 
 ### An Economics Lesson from a Talking Pencil (Update)
 
 **Released:** 2025-06-11 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
-
----
-
-### 635. Can a Museum Be the Conscience of a Nation?
-
-**Released:** 2025-06-06 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8399caf5-c680-4c54-b9a9-a4f8e35ebce5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8399caf5-c680-4c54-b9a9-a4f8e35ebce5&feed=Y8lFbOT4)
 
 ---
 
@@ -126,6 +126,16 @@ Last updated: 2025-06-13 01:01:16
 
 ---
 
+## 99% Invisible
+
+### The Return of Con Law
+
+**Released:** 2025-06-10 20:33:24
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Anacondas: Not Like in the Movie
@@ -160,16 +170,6 @@ Last updated: 2025-06-13 01:01:16
 
 ---
 
-## 99% Invisible
-
-### The Return of Con Law
-
-**Released:** 2025-06-10 20:33:24
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### From Smart Talks with IBM: How AI Assistants Can Transform Education 
@@ -177,6 +177,78 @@ Last updated: 2025-06-13 01:01:16
 **Released:** 2025-06-12 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
+
+**Released:** 2025-06-10 18:25:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Cōnānus et Jordānēs Show - Luke Ranieri
+
+**Released:** 2025-06-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH)
+
+---
+
+### The Conan Slabaroo
+
+**Released:** 2025-06-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
+
+---
+
+### Mike Birbiglia Returns Again
+
+**Released:** 2025-06-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Sarah Silverman"
+
+**Released:** 2025-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
+
+---
+
+### "Gordon Ramsay"
+
+**Released:** 2025-06-09 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Remembering Stonewall
+
+**Released:** 2025-06-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
+
+---
+
+### The Moth Radio Hour: Green
+
+**Released:** 2025-06-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
 
 ---
 
@@ -200,6 +272,14 @@ Last updated: 2025-06-13 01:01:16
 
 ## Armchair Expert
 
+### Armchair Anonymous: Jury Duty
+
+**Released:** 2025-06-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc06b51d-6abc-4117-823b-15a017053eec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Shan Boodram (intimacy expert)
 
 **Released:** 2025-06-11 07:35:00
@@ -213,78 +293,6 @@ Last updated: 2025-06-13 01:01:16
 **Released:** 2025-06-09 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d3288e3-cc22-4ced-abf3-1cdb9957a6a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Stalking II
-
-**Released:** 2025-06-06 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30c44185-8d1e-4322-86ea-bcace2ad6b11.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Conan Slabaroo
-
-**Released:** 2025-06-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
-
----
-
-### Mike Birbiglia Returns Again
-
-**Released:** 2025-06-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Green
-
-**Released:** 2025-06-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
-
----
-
-### The Moth Podcast: Hoses and Home Ec
-
-**Released:** 2025-06-06 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2718424910.mp3?updated=1747336282)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Sarah Silverman"
-
-**Released:** 2025-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
-
----
-
-### "Gordon Ramsay"
-
-**Released:** 2025-06-09 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
-
-**Released:** 2025-06-10 18:25:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
