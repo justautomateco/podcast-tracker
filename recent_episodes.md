@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-13 12:24:23
+Last updated: 2025-06-14 00:58:49
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-06-13 12:24:23
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 484: Doppelgängers
+### How to lead with radical candor | Kim Scott
 
-**Released:** 2025-06-08 18:00:00
+**Released:** 2025-06-13 14:58:17
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1378612687.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/684c3c8aee64da20d5d2b28c/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The case for making art when the world is on fire | Amie McNee
 
@@ -64,11 +62,13 @@ Last updated: 2025-06-13 12:24:23
 
 ---
 
-### Information Inoculation: Why we need to fight misinformation about vaccines | TED Health
+## This American Life
 
-**Released:** 2025-06-08 06:00:00
+### 484: Doppelgängers
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6840ca2af2fbdde542ef17cc/media.mp3)
+**Released:** 2025-06-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1378612687.mp3)
 
 ---
 
@@ -79,40 +79,6 @@ Last updated: 2025-06-13 12:24:23
 **Released:** 2025-06-11 23:42:18
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
-
----
-
-### When Chinese manufacturing met Small Town, USA
-
-**Released:** 2025-06-06 23:25:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4829960101.mp3?d=1863&size=29822729&e=1253756223&t=podcast&p=510289)
-
----
-
-## The Joe Rogan Experience
-
-### #2336 - Ken Burns
-
-**Released:** 2025-06-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
-
----
-
-### #2335 - Dr. Mary Talley Bowden
-
-**Released:** 2025-06-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
-
----
-
-### #2334 - Kash Patel
-
-**Released:** 2025-06-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2729354205.mp3?updated=1749227604)
 
 ---
 
@@ -170,6 +136,50 @@ Last updated: 2025-06-13 12:24:23
 
 ---
 
+## The Joe Rogan Experience
+
+### #2337 - Oliver Anthony
+
+**Released:** 2025-06-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+
+---
+
+### #2336 - Ken Burns
+
+**Released:** 2025-06-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+
+---
+
+### #2335 - Dr. Mary Talley Bowden
+
+**Released:** 2025-06-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
+
+---
+
+## How I Built This
+
+### Advice Line with Perry Chen of Kickstarter
+
+**Released:** 2025-06-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Perfect Snacks: Bill and Leigh Keith
+
+**Released:** 2025-06-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### From Smart Talks with IBM: How AI Assistants Can Transform Education 
@@ -187,6 +197,42 @@ Last updated: 2025-06-13 12:24:23
 **Released:** 2025-06-10 18:25:40
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Remembering Stonewall
+
+**Released:** 2025-06-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
+
+---
+
+### The Moth Radio Hour: Green
+
+**Released:** 2025-06-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Sarah Silverman"
+
+**Released:** 2025-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
+
+---
+
+### "Gordon Ramsay"
+
+**Released:** 2025-06-09 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
 
 ---
 
@@ -213,60 +259,6 @@ Last updated: 2025-06-13 12:24:23
 **Released:** 2025-06-09 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Sarah Silverman"
-
-**Released:** 2025-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
-
----
-
-### "Gordon Ramsay"
-
-**Released:** 2025-06-09 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Podcast: Remembering Stonewall
-
-**Released:** 2025-06-13 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
-
----
-
-### The Moth Radio Hour: Green
-
-**Released:** 2025-06-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633)
-
----
-
-## How I Built This
-
-### Advice Line with Perry Chen of Kickstarter
-
-**Released:** 2025-06-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Perfect Snacks: Bill and Leigh Keith
-
-**Released:** 2025-06-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
