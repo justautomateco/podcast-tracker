@@ -14,13 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "37189 at https://www.thisamericanlife.org",
-    "episode_title": "484: Doppelg\u00e4ngers",
-    "release_date": "2025-06-08 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1378612687.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "684c3dcf6770b65af4f3257d",
     "episode_title": "How do you stop caring what others think? A filmmaker and a therapist answer | Baron Ryan and Stephanie R. Yates-Anyabwile",
     "release_date": "2025-06-14 06:00:00",
@@ -56,9 +49,16 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "37189 at https://www.thisamericanlife.org",
+    "episode_title": "484: Doppelg\u00e4ngers",
+    "release_date": "2025-06-08 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1378612687.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "f501bca5-0300-4788-ad40-4e7e1ea1c243",
     "episode_title": "Why I joined DOGE",
-    "release_date": "2025-06-14 01:47:18",
+    "release_date": "2025-06-14 01:47:00",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289",
     "podcast_name": "Planet Money"
   },
@@ -68,6 +68,13 @@
     "release_date": "2025-06-11 23:42:18",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "ab7feb8e-ce11-4ebb-97ee-d35d8a9394ce",
+    "episode_title": "Ouch! That Feels Great",
+    "release_date": "2025-06-09 19:18:57",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "45273a96-47e3-11f0-adc7-db4c4dc50513",
@@ -89,20 +96,6 @@
     "release_date": "2025-06-10 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ab7feb8e-ce11-4ebb-97ee-d35d8a9394ce",
-    "episode_title": "Ouch! That Feels Great",
-    "release_date": "2025-06-09 19:18:57",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "d1862e36-22b1-44aa-8af6-5cfe8a7f3c71",
-    "episode_title": "The Return of Con Law",
-    "release_date": "2025-06-10 20:33:24",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "86ee1a9e-eb4b-450a-a692-b2e500eeb6e8",
@@ -133,6 +126,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "d1862e36-22b1-44aa-8af6-5cfe8a7f3c71",
+    "episode_title": "The Return of Con Law",
+    "release_date": "2025-06-10 20:33:24",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "5ef1734b-4dc8-4cb0-bb81-b2ec01491dac",
+    "episode_title": "From Smart Talks with IBM: How AI Assistants Can Transform Education ",
+    "release_date": "2025-06-12 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/ok2SJOpB-FQq2vQyaJJi0eKmvjwI31_JtWdNkPomqMg",
     "episode_title": "Advice Line with Perry Chen of Kickstarter",
     "release_date": "2025-06-12 07:10:00",
@@ -147,13 +154,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "5ef1734b-4dc8-4cb0-bb81-b2ec01491dac",
-    "episode_title": "From Smart Talks with IBM: How AI Assistants Can Transform Education ",
-    "release_date": "2025-06-12 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "cfa6d98c-42f8-11f0-92b6-8b603c7e5854",
     "episode_title": "The Moth Podcast: Remembering Stonewall",
     "release_date": "2025-06-13 04:25:00",
@@ -166,27 +166,6 @@
     "release_date": "2025-06-10 04:25:00",
     "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD3834551259.mp3?updated=1749162633",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "449c7883-f62d-4d5a-a769-2fd78648cc90",
-    "episode_title": "C\u014dn\u0101nus et Jord\u0101n\u0113s Show - Luke Ranieri",
-    "release_date": "2025-06-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "a9075f43-d320-4acc-822c-9471563c519a",
-    "episode_title": "The Conan Slabaroo",
-    "release_date": "2025-06-12 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "716f8e8c-8cdb-4896-8088-4b7fa2018498",
-    "episode_title": "Mike Birbiglia Returns Again",
-    "release_date": "2025-06-09 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/UjrFPRrp2LdKyBcYUkX1yOajRNkLf5l7icLuo5EuJ-Q",
@@ -208,6 +187,27 @@
     "release_date": "2025-06-09 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/2d3288e3-cc22-4ced-abf3-1cdb9957a6a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "449c7883-f62d-4d5a-a769-2fd78648cc90",
+    "episode_title": "C\u014dn\u0101nus et Jord\u0101n\u0113s Show - Luke Ranieri",
+    "release_date": "2025-06-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "a9075f43-d320-4acc-822c-9471563c519a",
+    "episode_title": "The Conan Slabaroo",
+    "release_date": "2025-06-12 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "716f8e8c-8cdb-4896-8088-4b7fa2018498",
+    "episode_title": "Mike Birbiglia Returns Again",
+    "release_date": "2025-06-09 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "159f61d6-7cf8-4d84-9a53-66fde42d7a87",
