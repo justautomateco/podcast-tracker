@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "68499e6344a17fa6a177baaa",
+    "episode_title": "Sunday Pick: Why you should get good at being bad | Fixable",
+    "release_date": "2025-06-15 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499e6344a17fa6a177baaa/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "684c3dcf6770b65af4f3257d",
     "episode_title": "How do you stop caring what others think? A filmmaker and a therapist answer | Baron Ryan and Stephanie R. Yates-Anyabwile",
     "release_date": "2025-06-14 06:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6846f943d61256a578fc5949",
-    "episode_title": "Inside a dark web kill list | Carl Miller",
-    "release_date": "2025-06-10 15:03:37",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37189 at https://www.thisamericanlife.org",
     "episode_title": "484: Doppelg\u00e4ngers",
     "release_date": "2025-06-08 18:00:00",
@@ -56,46 +56,11 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "f501bca5-0300-4788-ad40-4e7e1ea1c243",
-    "episode_title": "Why I joined DOGE",
-    "release_date": "2025-06-14 01:47:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "c3c376b3-4cb6-45f4-b8c4-23156121bee3",
-    "episode_title": "Are Trump's tariffs legal?",
-    "release_date": "2025-06-11 23:42:18",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "ab7feb8e-ce11-4ebb-97ee-d35d8a9394ce",
     "episode_title": "Ouch! That Feels Great",
     "release_date": "2025-06-09 19:18:57",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "45273a96-47e3-11f0-adc7-db4c4dc50513",
-    "episode_title": "#2337 - Oliver Anthony",
-    "release_date": "2025-06-13 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "b3559c6a-465d-11f0-ac6c-475b28c308c5",
-    "episode_title": "#2336 - Ken Burns",
-    "release_date": "2025-06-11 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "8d436ca8-45a6-11f0-82d6-8f484cc90104",
-    "episode_title": "#2335 - Dr. Mary Talley Bowden",
-    "release_date": "2025-06-10 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862",
-    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "86ee1a9e-eb4b-450a-a692-b2e500eeb6e8",
@@ -126,11 +91,46 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "f501bca5-0300-4788-ad40-4e7e1ea1c243",
+    "episode_title": "Why I joined DOGE",
+    "release_date": "2025-06-14 01:47:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "c3c376b3-4cb6-45f4-b8c4-23156121bee3",
+    "episode_title": "Are Trump's tariffs legal?",
+    "release_date": "2025-06-11 23:42:18",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "d1862e36-22b1-44aa-8af6-5cfe8a7f3c71",
     "episode_title": "The Return of Con Law",
     "release_date": "2025-06-10 20:33:24",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "45273a96-47e3-11f0-adc7-db4c4dc50513",
+    "episode_title": "#2337 - Oliver Anthony",
+    "release_date": "2025-06-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b3559c6a-465d-11f0-ac6c-475b28c308c5",
+    "episode_title": "#2336 - Ken Burns",
+    "release_date": "2025-06-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "8d436ca8-45a6-11f0-82d6-8f484cc90104",
+    "episode_title": "#2335 - Dr. Mary Talley Bowden",
+    "release_date": "2025-06-10 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "5ef1734b-4dc8-4cb0-bb81-b2ec01491dac",
@@ -152,6 +152,34 @@
     "release_date": "2025-06-09 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5u7Qju4IOvyDsNkbAJ-iVwED829Qx4xFvP1xs9GB-wA",
+    "episode_title": "#815: Chris Hutchins, Deal Master \u2014 Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer\u2019s Curse",
+    "release_date": "2025-06-10 18:25:40",
+    "mp3_url": "https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "449c7883-f62d-4d5a-a769-2fd78648cc90",
+    "episode_title": "C\u014dn\u0101nus et Jord\u0101n\u0113s Show - Luke Ranieri",
+    "release_date": "2025-06-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "a9075f43-d320-4acc-822c-9471563c519a",
+    "episode_title": "The Conan Slabaroo",
+    "release_date": "2025-06-12 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "716f8e8c-8cdb-4896-8088-4b7fa2018498",
+    "episode_title": "Mike Birbiglia Returns Again",
+    "release_date": "2025-06-09 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "cfa6d98c-42f8-11f0-92b6-8b603c7e5854",
@@ -189,27 +217,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "449c7883-f62d-4d5a-a769-2fd78648cc90",
-    "episode_title": "C\u014dn\u0101nus et Jord\u0101n\u0113s Show - Luke Ranieri",
-    "release_date": "2025-06-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "a9075f43-d320-4acc-822c-9471563c519a",
-    "episode_title": "The Conan Slabaroo",
-    "release_date": "2025-06-12 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "716f8e8c-8cdb-4896-8088-4b7fa2018498",
-    "episode_title": "Mike Birbiglia Returns Again",
-    "release_date": "2025-06-09 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "159f61d6-7cf8-4d84-9a53-66fde42d7a87",
     "episode_title": "\"RE-RELEASE: Sarah Silverman\"",
     "release_date": "2025-06-12 07:00:00",
@@ -222,12 +229,5 @@
     "release_date": "2025-06-09 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5u7Qju4IOvyDsNkbAJ-iVwED829Qx4xFvP1xs9GB-wA",
-    "episode_title": "#815: Chris Hutchins, Deal Master \u2014 Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer\u2019s Curse",
-    "release_date": "2025-06-10 18:25:40",
-    "mp3_url": "https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]

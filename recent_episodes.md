@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-15 01:07:38
+Last updated: 2025-06-15 12:21:56
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-06-15 01:07:38
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: Why you should get good at being bad | Fixable
+
+**Released:** 2025-06-15 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499e6344a17fa6a177baaa/media.mp3)
+
+---
 
 ### How do you stop caring what others think? A filmmaker and a therapist answer | Baron Ryan and Stephanie R. Yates-Anyabwile
 
@@ -54,14 +62,6 @@ Last updated: 2025-06-15 01:07:38
 
 ---
 
-### Inside a dark web kill list | Carl Miller
-
-**Released:** 2025-06-10 15:03:37
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6846f943d61256a578fc5949/media.mp3)
-
----
-
 ## This American Life
 
 ### 484: Doppelgängers
@@ -72,24 +72,6 @@ Last updated: 2025-06-15 01:07:38
 
 ---
 
-## Planet Money
-
-### Why I joined DOGE
-
-**Released:** 2025-06-14 01:47:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
-
----
-
-### Are Trump's tariffs legal?
-
-**Released:** 2025-06-11 23:42:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
-
----
-
 ## Hidden Brain
 
 ### Ouch! That Feels Great
@@ -97,32 +79,6 @@ Last updated: 2025-06-15 01:07:38
 **Released:** 2025-06-09 19:18:57
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2337 - Oliver Anthony
-
-**Released:** 2025-06-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
-
----
-
-### #2336 - Ken Burns
-
-**Released:** 2025-06-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
-
----
-
-### #2335 - Dr. Mary Talley Bowden
-
-**Released:** 2025-06-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
 
 ---
 
@@ -160,6 +116,24 @@ Last updated: 2025-06-15 01:07:38
 
 ---
 
+## Planet Money
+
+### Why I joined DOGE
+
+**Released:** 2025-06-14 01:47:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
+
+---
+
+### Are Trump's tariffs legal?
+
+**Released:** 2025-06-11 23:42:18
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
+
+---
+
 ## 99% Invisible
 
 ### The Return of Con Law
@@ -167,6 +141,32 @@ Last updated: 2025-06-15 01:07:38
 **Released:** 2025-06-10 20:33:24
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2337 - Oliver Anthony
+
+**Released:** 2025-06-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+
+---
+
+### #2336 - Ken Burns
+
+**Released:** 2025-06-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+
+---
+
+### #2335 - Dr. Mary Talley Bowden
+
+**Released:** 2025-06-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
 
 ---
 
@@ -195,6 +195,42 @@ Last updated: 2025-06-15 01:07:38
 **Released:** 2025-06-09 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
+
+**Released:** 2025-06-10 18:25:40
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Cōnānus et Jordānēs Show - Luke Ranieri
+
+**Released:** 2025-06-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH)
+
+---
+
+### The Conan Slabaroo
+
+**Released:** 2025-06-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
+
+---
+
+### Mike Birbiglia Returns Again
+
+**Released:** 2025-06-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
 
 ---
 
@@ -242,32 +278,6 @@ Last updated: 2025-06-15 01:07:38
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Cōnānus et Jordānēs Show - Luke Ranieri
-
-**Released:** 2025-06-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH)
-
----
-
-### The Conan Slabaroo
-
-**Released:** 2025-06-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
-
----
-
-### Mike Birbiglia Returns Again
-
-**Released:** 2025-06-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "RE-RELEASE: Sarah Silverman"
@@ -283,16 +293,6 @@ Last updated: 2025-06-15 01:07:38
 **Released:** 2025-06-09 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
-
-**Released:** 2025-06-10 18:25:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
