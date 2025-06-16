@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-16 01:03:14
+Last updated: 2025-06-16 12:25:22
+
+## Freakonomics Radio
+
+### 636. Why Aren’t We Having More Babies?
+
+**Released:** 2025-06-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b95cf2f8-7079-487a-b75f-cd0403895592/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b95cf2f8-7079-487a-b75f-cd0403895592&feed=Y8lFbOT4)
+
+---
+
+### An Economics Lesson from a Talking Pencil (Update)
+
+**Released:** 2025-06-11 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 289: Go Ask Your Father
+
+**Released:** 2025-06-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,34 +72,6 @@ Last updated: 2025-06-16 01:03:14
 
 ---
 
-## Freakonomics Radio
-
-### 636. Why Aren’t We Having More Babies?
-
-**Released:** 2025-06-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b95cf2f8-7079-487a-b75f-cd0403895592/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b95cf2f8-7079-487a-b75f-cd0403895592&feed=Y8lFbOT4)
-
----
-
-### An Economics Lesson from a Talking Pencil (Update)
-
-**Released:** 2025-06-11 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
-
 ## Planet Money
 
 ### Why I joined DOGE
@@ -87,6 +87,16 @@ Last updated: 2025-06-16 01:03:14
 **Released:** 2025-06-11 23:42:18
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### Ouch! That Feels Great
+
+**Released:** 2025-06-09 19:18:57
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
 
 ---
 
@@ -113,16 +123,6 @@ Last updated: 2025-06-16 01:03:14
 **Released:** 2025-06-10 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
-
----
-
-## Hidden Brain
-
-### Ouch! That Feels Great
-
-**Released:** 2025-06-09 19:18:57
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
 
 ---
 
@@ -170,34 +170,6 @@ Last updated: 2025-06-16 01:03:14
 
 ---
 
-## Revisionist History
-
-### From Smart Talks with IBM: How AI Assistants Can Transform Education 
-
-**Released:** 2025-06-12 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Perry Chen of Kickstarter
-
-**Released:** 2025-06-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Perfect Snacks: Bill and Leigh Keith
-
-**Released:** 2025-06-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f0d9aeb-8cbc-4476-81f2-c2099e33fec8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
@@ -208,29 +180,13 @@ Last updated: 2025-06-16 01:03:14
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Armchair Anonymous: Jury Duty
+### From Smart Talks with IBM: How AI Assistants Can Transform Education 
 
-**Released:** 2025-06-13 07:35:00
+**Released:** 2025-06-12 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc06b51d-6abc-4117-823b-15a017053eec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Shan Boodram (intimacy expert)
-
-**Released:** 2025-06-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/347eb21e-1e4d-4596-b220-f1fd46c284a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Sam Rockwell
-
-**Released:** 2025-06-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d3288e3-cc22-4ced-abf3-1cdb9957a6a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -252,7 +208,33 @@ Last updated: 2025-06-16 01:03:14
 
 ---
 
+## How I Built This
+
+### Figma: Dylan Field
+
+**Released:** 2025-06-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Perry Chen of Kickstarter
+
+**Released:** 2025-06-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
+
+### David Spade Returns
+
+**Released:** 2025-06-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc73969a-bf01-4cd7-9a23-5701ae1be5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc73969a-bf01-4cd7-9a23-5701ae1be5c3&feed=dHoohVNH)
+
+---
 
 ### Cōnānus et Jordānēs Show - Luke Ranieri
 
@@ -270,29 +252,47 @@ Last updated: 2025-06-16 01:03:14
 
 ---
 
-### Mike Birbiglia Returns Again
+## Armchair Expert
 
-**Released:** 2025-06-09 04:05:00
+### Alex Cooper
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/68dbcd45-b03d-4233-bbab-bab4a18996e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=68dbcd45-b03d-4233-bbab-bab4a18996e1&feed=dHoohVNH)
+**Released:** 2025-06-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Jury Duty
+
+**Released:** 2025-06-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc06b51d-6abc-4117-823b-15a017053eec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Shan Boodram (intimacy expert)
+
+**Released:** 2025-06-11 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/347eb21e-1e4d-4596-b220-f1fd46c284a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## SmartLess 
+
+### "RZA"
+
+**Released:** 2025-06-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
+
+---
 
 ### "RE-RELEASE: Sarah Silverman"
 
 **Released:** 2025-06-12 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
-
----
-
-### "Gordon Ramsay"
-
-**Released:** 2025-06-09 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ecc8cdef-9fa2-4a5a-8ebc-3bca4c2d87ff&feed=hNaFxXpO)
 
 ---
 
