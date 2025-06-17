@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-16 12:25:22
-
-## Freakonomics Radio
-
-### 636. Why Aren’t We Having More Babies?
-
-**Released:** 2025-06-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b95cf2f8-7079-487a-b75f-cd0403895592/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b95cf2f8-7079-487a-b75f-cd0403895592&feed=Y8lFbOT4)
-
----
-
-### An Economics Lesson from a Talking Pencil (Update)
-
-**Released:** 2025-06-11 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
+Last updated: 2025-06-17 01:01:04
 
 ## TED Talks Daily
+
+### Forget hustle culture. Behold the Artist Corporation | Yancey Strickler
+
+**Released:** 2025-06-16 15:05:15
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685032ab68b0c25e383acfcd/media.mp3)
+
+---
 
 ### Sunday Pick: Why you should get good at being bad | Fixable
 
@@ -64,14 +44,6 @@ Last updated: 2025-06-16 12:25:22
 
 ---
 
-### The surprising power of your nature photos | Scott Loarie
-
-**Released:** 2025-06-11 15:09:04
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499c1086b5e77739eb0787/media.mp3)
-
----
-
 ## Planet Money
 
 ### Why I joined DOGE
@@ -90,39 +62,31 @@ Last updated: 2025-06-16 12:25:22
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### Ouch! That Feels Great
+### 289: Go Ask Your Father
 
-**Released:** 2025-06-09 19:18:57
+**Released:** 2025-06-15 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/8d980000-18bd-4f1c-8386-53a9f7f53992/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=8d980000-18bd-4f1c-8386-53a9f7f53992&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2337 - Oliver Anthony
-
-**Released:** 2025-06-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
 
 ---
 
-### #2336 - Ken Burns
+## Freakonomics Radio
 
-**Released:** 2025-06-11 17:00:00
+### 636. Why Aren’t We Having More Babies?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+**Released:** 2025-06-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b95cf2f8-7079-487a-b75f-cd0403895592/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b95cf2f8-7079-487a-b75f-cd0403895592&feed=Y8lFbOT4)
 
 ---
 
-### #2335 - Dr. Mary Talley Bowden
+### An Economics Lesson from a Talking Pencil (Update)
 
-**Released:** 2025-06-10 17:00:00
+**Released:** 2025-06-11 00:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
 
 ---
 
@@ -133,6 +97,16 @@ Last updated: 2025-06-16 12:25:22
 **Released:** 2025-06-10 20:33:24
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### Doing it the Hard Way
+
+**Released:** 2025-06-16 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
 
 ---
 
@@ -167,6 +141,50 @@ Last updated: 2025-06-16 12:25:22
 **Released:** 2025-06-10 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/923c34b8-7ccd-4514-b024-b2f8000da6db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## The Joe Rogan Experience
+
+### #2337 - Oliver Anthony
+
+**Released:** 2025-06-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+
+---
+
+### #2336 - Ken Burns
+
+**Released:** 2025-06-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+
+---
+
+### #2335 - Dr. Mary Talley Bowden
+
+**Released:** 2025-06-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
+
+---
+
+## How I Built This
+
+### Figma: Dylan Field
+
+**Released:** 2025-06-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Perry Chen of Kickstarter
+
+**Released:** 2025-06-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,21 +226,21 @@ Last updated: 2025-06-16 12:25:22
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Figma: Dylan Field
+### "RZA"
 
-**Released:** 2025-06-16 07:00:00
+**Released:** 2025-06-16 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
 
 ---
 
-### Advice Line with Perry Chen of Kickstarter
+### "RE-RELEASE: Sarah Silverman"
 
-**Released:** 2025-06-12 07:10:00
+**Released:** 2025-06-12 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
 
 ---
 
@@ -275,24 +293,6 @@ Last updated: 2025-06-16 12:25:22
 **Released:** 2025-06-11 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/347eb21e-1e4d-4596-b220-f1fd46c284a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RZA"
-
-**Released:** 2025-06-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Sarah Silverman"
-
-**Released:** 2025-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
 
 ---
 
