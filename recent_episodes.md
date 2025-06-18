@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-17 12:25:45
+Last updated: 2025-06-18 01:01:04
 
 ## Freakonomics Radio
 
@@ -12,25 +12,15 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
-### An Economics Lesson from a Talking Pencil (Update)
-
-**Released:** 2025-06-11 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/aa9add10-e7e0-4502-b7a2-5e9098cebbc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=aa9add10-e7e0-4502-b7a2-5e9098cebbc8&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
-
 ## TED Talks Daily
+
+### The big idea funding forest conservation | Andika Putraditama
+
+**Released:** 2025-06-17 15:06:06
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68503446643970a4229f689f/media.mp3)
+
+---
 
 ### Forget hustle culture. Behold the Artist Corporation | Yancey Strickler
 
@@ -64,14 +54,6 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
-### The case for making art when the world is on fire | Amie McNee
-
-**Released:** 2025-06-12 15:06:23
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/684ae7e230de7a508518d6d6/media.mp3)
-
----
-
 ## Planet Money
 
 ### Why I joined DOGE
@@ -100,39 +82,13 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2337 - Oliver Anthony
+### 289: Go Ask Your Father
 
-**Released:** 2025-06-13 17:00:00
+**Released:** 2025-06-15 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
-
----
-
-### #2336 - Ken Burns
-
-**Released:** 2025-06-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
-
----
-
-### #2335 - Dr. Mary Talley Bowden
-
-**Released:** 2025-06-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1514323914.mp3?updated=1749577862)
-
----
-
-## 99% Invisible
-
-### The Return of Con Law
-
-**Released:** 2025-06-10 20:33:24
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5a7671f7-397e-4cf3-8e25-eeb414445174/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5a7671f7-397e-4cf3-8e25-eeb414445174&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
 
 ---
 
@@ -170,6 +126,70 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
+## 99% Invisible
+
+### The Red, the Black, and the Green
+
+**Released:** 2025-06-17 21:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2338 - Beth Shapiro
+
+**Released:** 2025-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750183421)
+
+---
+
+### #2337 - Oliver Anthony
+
+**Released:** 2025-06-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+
+---
+
+### #2336 - Ken Burns
+
+**Released:** 2025-06-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
+
+---
+
+## How I Built This
+
+### Figma: Dylan Field
+
+**Released:** 2025-06-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Perry Chen of Kickstarter
+
+**Released:** 2025-06-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### From Smart Talks with IBM: How AI Assistants Can Transform Education 
+
+**Released:** 2025-06-12 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: Fathers
@@ -188,13 +208,21 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### From Smart Talks with IBM: How AI Assistants Can Transform Education 
+### "RZA"
 
-**Released:** 2025-06-12 04:01:00
+**Released:** 2025-06-16 07:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Sarah Silverman"
+
+**Released:** 2025-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
 
 ---
 
@@ -224,42 +252,6 @@ Last updated: 2025-06-17 12:25:45
 
 ---
 
-## SmartLess 
-
-### "RZA"
-
-**Released:** 2025-06-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Sarah Silverman"
-
-**Released:** 2025-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Figma: Dylan Field
-
-**Released:** 2025-06-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Perry Chen of Kickstarter
-
-**Released:** 2025-06-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c894686f-4795-4df5-8f95-71d905b44c0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
 
 ### Alex Cooper
@@ -283,16 +275,6 @@ Last updated: 2025-06-17 12:25:45
 **Released:** 2025-06-11 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/347eb21e-1e4d-4596-b220-f1fd46c284a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #815: Chris Hutchins, Deal Master — Helping Tim Burn 15M+ Miles and Points, Flipping Costco Gold Into Five-Star Trips, Flying to Japan for $222, Tech Tools and Tricks, and Avoiding The Optimizer’s Curse
-
-**Released:** 2025-06-10 18:25:40
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/627ac30a-c491-4e12-a304-0b64431b71d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
