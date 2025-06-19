@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-18 12:25:19
+Last updated: 2025-06-19 01:01:15
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-06-18 12:25:19
 ---
 
 ## TED Talks Daily
+
+### A musical duet with AI herself | Todd Almond and Donna Murphy
+
+**Released:** 2025-06-18 15:25:51
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685034f9643970a4229f8fa9/media.mp3)
+
+---
 
 ### The big idea funding forest conservation | Andika Putraditama
 
@@ -46,11 +54,21 @@ Last updated: 2025-06-18 12:25:19
 
 ---
 
-### How to lead with radical candor | Kim Scott
+## Planet Money
 
-**Released:** 2025-06-13 14:58:17
+### Jay & Shai's debt ceiling adventure (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/684c3c8aee64da20d5d2b28c/media.mp3)
+**Released:** 2025-06-19 00:50:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
+
+---
+
+### Why I joined DOGE
+
+**Released:** 2025-06-14 01:47:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
 
 ---
 
@@ -64,21 +82,29 @@ Last updated: 2025-06-18 12:25:19
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### Why I joined DOGE
+### #2339 - Luis J. Gomez & Big Jay Oakerson
 
-**Released:** 2025-06-14 01:47:00
+**Released:** 2025-06-18 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2754165684.mp3?updated=1750267092)
 
 ---
 
-### Are Trump's tariffs legal?
+### #2338 - Beth Shapiro
 
-**Released:** 2025-06-11 23:42:18
+**Released:** 2025-06-17 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4734157470.mp3?d=1493&size=23895232&e=1253992700&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750260515)
+
+---
+
+### #2337 - Oliver Anthony
+
+**Released:** 2025-06-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
 
 ---
 
@@ -136,42 +162,6 @@ Last updated: 2025-06-18 12:25:19
 
 ---
 
-## The Joe Rogan Experience
-
-### #2338 - Beth Shapiro
-
-**Released:** 2025-06-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750183421)
-
----
-
-### #2337 - Oliver Anthony
-
-**Released:** 2025-06-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
-
----
-
-### #2336 - Ken Burns
-
-**Released:** 2025-06-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2008402534.mp3?updated=1749670309)
-
----
-
-## Revisionist History
-
-### From Smart Talks with IBM: How AI Assistants Can Transform Education 
-
-**Released:** 2025-06-12 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Figma: Dylan Field
@@ -190,47 +180,23 @@ Last updated: 2025-06-18 12:25:19
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### David Spade Returns
+### From Smart Talks with IBM: How AI Assistants Can Transform Education 
 
-**Released:** 2025-06-16 04:05:00
+**Released:** 2025-06-12 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc73969a-bf01-4cd7-9a23-5701ae1be5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc73969a-bf01-4cd7-9a23-5701ae1be5c3&feed=dHoohVNH)
-
----
-
-### Cōnānus et Jordānēs Show - Luke Ranieri
-
-**Released:** 2025-06-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/fe2079d2-cc19-410d-8064-b2e200fff495/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### The Conan Slabaroo
+## The Tim Ferriss Show
 
-**Released:** 2025-06-12 04:05:00
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
+**Released:** 2025-06-18 13:12:09
 
----
-
-## SmartLess 
-
-### "RZA"
-
-**Released:** 2025-06-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Sarah Silverman"
-
-**Released:** 2025-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -260,6 +226,32 @@ Last updated: 2025-06-18 12:25:19
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### David Spade Returns
+
+**Released:** 2025-06-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc73969a-bf01-4cd7-9a23-5701ae1be5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc73969a-bf01-4cd7-9a23-5701ae1be5c3&feed=dHoohVNH)
+
+---
+
+### Cōnānus et Jordānēs Show - Luke Ranieri
+
+**Released:** 2025-06-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0b25d77e-f371-4d7c-8906-8b4867e32491/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0b25d77e-f371-4d7c-8906-8b4867e32491&feed=dHoohVNH)
+
+---
+
+### The Conan Slabaroo
+
+**Released:** 2025-06-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a86de67-653d-414f-b8c5-da7d5cfc9ef5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a86de67-653d-414f-b8c5-da7d5cfc9ef5&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: Fathers
@@ -275,6 +267,24 @@ Last updated: 2025-06-18 12:25:19
 **Released:** 2025-06-13 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
+
+---
+
+## SmartLess 
+
+### "RZA"
+
+**Released:** 2025-06-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Sarah Silverman"
+
+**Released:** 2025-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b4147c4-eff5-4c9f-96a1-709ea861ca5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b4147c4-eff5-4c9f-96a1-709ea861ca5b&feed=hNaFxXpO)
 
 ---
 
