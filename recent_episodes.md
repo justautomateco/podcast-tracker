@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-19 12:24:54
+Last updated: 2025-06-20 01:00:53
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
+## This American Life
+
+### 289: Go Ask Your Father
+
+**Released:** 2025-06-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
+
+---
+
 ## TED Talks Daily
+
+### What is Juneteenth, and why is it important? | Karlos Hill and Soraya Field Fiorio
+
+**Released:** 2025-06-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685035b793784109e6b0a55d/media.mp3)
+
+---
 
 ### A musical duet with AI herself | Todd Almond and Donna Murphy
 
@@ -46,14 +64,6 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
-### How do you stop caring what others think? A filmmaker and a therapist answer | Baron Ryan and Stephanie R. Yates-Anyabwile
-
-**Released:** 2025-06-14 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/684c3dcf6770b65af4f3257d/media.mp3)
-
----
-
 ## Planet Money
 
 ### Jay & Shai's debt ceiling adventure (Update)
@@ -82,27 +92,15 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
-
-## 99% Invisible
-
-### The Red, the Black, and the Green
-
-**Released:** 2025-06-17 21:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2340 - Charley Crockett
+
+**Released:** 2025-06-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4949377515.mp3?updated=1750374236)
+
+---
 
 ### #2339 - Luis J. Gomez & Big Jay Oakerson
 
@@ -125,6 +123,16 @@ Last updated: 2025-06-19 12:24:54
 **Released:** 2025-06-13 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+
+---
+
+## 99% Invisible
+
+### The Red, the Black, and the Green
+
+**Released:** 2025-06-17 21:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
 
 ---
 
@@ -162,16 +170,6 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
-## Revisionist History
-
-### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
-
-**Released:** 2025-06-19 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Marcia Kilgore of Beauty Pie
@@ -190,21 +188,39 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
-## The Moth
+## Revisionist History
 
-### The Moth Radio Hour: Fathers
+### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
 
-**Released:** 2025-06-17 04:25:00
+**Released:** 2025-06-19 04:01:00
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6717143342.mp3?updated=1749503441)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### The Moth Podcast: Remembering Stonewall
+## Armchair Expert
 
-**Released:** 2025-06-13 04:25:00
+### Michael Calvey (on being wrongfully imprisoned in Russia)
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
+**Released:** 2025-06-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Alex Cooper
+
+**Released:** 2025-06-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Jury Duty
+
+**Released:** 2025-06-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc06b51d-6abc-4117-823b-15a017053eec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -244,6 +260,24 @@ Last updated: 2025-06-19 12:24:54
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Fathers
+
+**Released:** 2025-06-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6717143342.mp3?updated=1749503441)
+
+---
+
+### The Moth Podcast: Remembering Stonewall
+
+**Released:** 2025-06-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD9838785331.mp3?updated=1749576393)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
@@ -251,32 +285,6 @@ Last updated: 2025-06-19 12:24:54
 **Released:** 2025-06-18 13:12:09
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Michael Calvey (on being wrongfully imprisoned in Russia)
-
-**Released:** 2025-06-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Alex Cooper
-
-**Released:** 2025-06-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Jury Duty
-
-**Released:** 2025-06-13 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc06b51d-6abc-4117-823b-15a017053eec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
