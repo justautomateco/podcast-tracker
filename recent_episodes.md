@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-20 12:24:31
+Last updated: 2025-06-21 01:00:04
 
 ## TED Talks Daily
+
+### Is your partner "the one?" Wrong question | George Blair-West
+
+**Released:** 2025-06-20 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685573efc312ec60639e73cc/media.mp3)
+
+---
 
 ### What is Juneteenth, and why is it important? | Karlos Hill and Soraya Field Fiorio
 
@@ -36,14 +44,6 @@ Last updated: 2025-06-20 12:24:31
 
 ---
 
-### Sunday Pick: Why you should get good at being bad | Fixable
-
-**Released:** 2025-06-15 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68499e6344a17fa6a177baaa/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
@@ -64,13 +64,29 @@ Last updated: 2025-06-20 12:24:31
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Doing it the Hard Way
+### The U.S. is the world's bribery cop. Is that about to change?
 
-**Released:** 2025-06-16 19:00:00
+**Released:** 2025-06-20 23:05:25
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8389335971.mp3?d=1687&size=26992728&e=1254460243&t=podcast&p=510289)
+
+---
+
+### Jay & Shai's debt ceiling adventure (Update)
+
+**Released:** 2025-06-19 00:50:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
+
+---
+
+### Why I joined DOGE
+
+**Released:** 2025-06-14 01:47:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
 
 ---
 
@@ -100,11 +116,23 @@ Last updated: 2025-06-20 12:24:31
 
 ---
 
-### #2337 - Oliver Anthony
+## Hidden Brain
 
-**Released:** 2025-06-13 17:00:00
+### Doing it the Hard Way
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7860058728.mp3?updated=1749838712)
+**Released:** 2025-06-16 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Red, the Black, and the Green
+
+**Released:** 2025-06-17 21:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
 
 ---
 
@@ -142,34 +170,6 @@ Last updated: 2025-06-20 12:24:31
 
 ---
 
-## Planet Money
-
-### Jay & Shai's debt ceiling adventure (Update)
-
-**Released:** 2025-06-19 00:50:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
-
----
-
-### Why I joined DOGE
-
-**Released:** 2025-06-14 01:47:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
-
----
-
-## 99% Invisible
-
-### The Red, the Black, and the Green
-
-**Released:** 2025-06-17 21:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Marcia Kilgore of Beauty Pie
@@ -185,16 +185,6 @@ Last updated: 2025-06-20 12:24:31
 **Released:** 2025-06-16 07:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
-
-**Released:** 2025-06-18 13:12:09
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -277,6 +267,16 @@ Last updated: 2025-06-20 12:24:31
 **Released:** 2025-06-16 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
+
+**Released:** 2025-06-18 13:12:09
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
