@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-21 01:00:04
+Last updated: 2025-06-21 12:21:29
+
+## Freakonomics Radio
+
+### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
+
+**Released:** 2025-06-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 289: Go Ask Your Father
+
+**Released:** 2025-06-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
+
+---
 
 ## TED Talks Daily
+
+### How do you prepare for jobs that don't exist yet? A work expert and a YouTuber answer | Jon Youshaei and Michelle Weise
+
+**Released:** 2025-06-21 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685599fe412e0f0fbfe2effe/media.mp3)
+
+---
 
 ### Is your partner "the one?" Wrong question | George Blair-West
 
@@ -36,34 +64,6 @@ Last updated: 2025-06-21 01:00:04
 
 ---
 
-### Forget hustle culture. Behold the Artist Corporation | Yancey Strickler
-
-**Released:** 2025-06-16 15:05:15
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685032ab68b0c25e383acfcd/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
-
-**Released:** 2025-06-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
-
 ## Planet Money
 
 ### The U.S. is the world's bribery cop. Is that about to change?
@@ -79,14 +79,6 @@ Last updated: 2025-06-21 01:00:04
 **Released:** 2025-06-19 00:50:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
-
----
-
-### Why I joined DOGE
-
-**Released:** 2025-06-14 01:47:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4209491788.mp3?d=1645&size=26335278&e=1254121714&t=podcast&p=510289)
 
 ---
 
@@ -138,6 +130,14 @@ Last updated: 2025-06-21 01:00:04
 
 ## Stuff You Should Know
 
+### Selects: The Great Nuclear Winter Debate of 1983
+
+**Released:** 2025-06-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/53f1a350-d295-4f24-98ba-b2e5010fae5e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Who are the Zizians?
 
 **Released:** 2025-06-19 09:00:00
@@ -162,14 +162,6 @@ Last updated: 2025-06-21 01:00:04
 
 ---
 
-### Selects: The Kitty Genovese Story
-
-**Released:** 2025-06-14 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/86ee1a9e-eb4b-450a-a692-b2e500eeb6e8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Marcia Kilgore of Beauty Pie
@@ -188,16 +180,6 @@ Last updated: 2025-06-21 01:00:04
 
 ---
 
-## Revisionist History
-
-### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
-
-**Released:** 2025-06-19 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Pride and Family
@@ -213,6 +195,26 @@ Last updated: 2025-06-21 01:00:04
 **Released:** 2025-06-17 04:25:00
 
 **Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6717143342.mp3?updated=1749503441)
+
+---
+
+## Revisionist History
+
+### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
+
+**Released:** 2025-06-19 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
+
+**Released:** 2025-06-18 13:12:09
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,16 +269,6 @@ Last updated: 2025-06-21 01:00:04
 **Released:** 2025-06-16 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
-
-**Released:** 2025-06-18 13:12:09
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
