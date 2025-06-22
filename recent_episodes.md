@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-22 01:07:02
-
-## Freakonomics Radio
-
-### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
-
-**Released:** 2025-06-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 289: Go Ask Your Father
-
-**Released:** 2025-06-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
-
----
+Last updated: 2025-06-22 12:21:31
 
 ## TED Talks Daily
+
+### Sunday Pick: Kara Swisher | Design Matters
+
+**Released:** 2025-06-22 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68559a7e412e0f0fbfe312ee/media.mp3)
+
+---
 
 ### How do you prepare for jobs that don't exist yet? A work expert and a YouTuber answer | Jon Youshaei and Michelle Weise
 
@@ -56,11 +44,23 @@ Last updated: 2025-06-22 01:07:02
 
 ---
 
-### The big idea funding forest conservation | Andika Putraditama
+## Freakonomics Radio
 
-**Released:** 2025-06-17 15:06:06
+### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68503446643970a4229f689f/media.mp3)
+**Released:** 2025-06-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 289: Go Ask Your Father
+
+**Released:** 2025-06-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3)
 
 ---
 
@@ -79,16 +79,6 @@ Last updated: 2025-06-22 01:07:02
 **Released:** 2025-06-19 00:50:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Doing it the Hard Way
-
-**Released:** 2025-06-16 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
 
 ---
 
@@ -118,13 +108,13 @@ Last updated: 2025-06-22 01:07:02
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### The Red, the Black, and the Green
+### Doing it the Hard Way
 
-**Released:** 2025-06-17 21:00:00
+**Released:** 2025-06-16 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
 
 ---
 
@@ -162,21 +152,13 @@ Last updated: 2025-06-22 01:07:02
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Marcia Kilgore of Beauty Pie
+### The Red, the Black, and the Green
 
-**Released:** 2025-06-19 07:10:00
+**Released:** 2025-06-17 21:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/59e88860-94f4-4e3c-8fe6-0e6acd65cfb8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Figma: Dylan Field
-
-**Released:** 2025-06-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
 
 ---
 
@@ -187,16 +169,6 @@ Last updated: 2025-06-22 01:07:02
 **Released:** 2025-06-19 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
-
-**Released:** 2025-06-18 13:12:09
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -236,6 +208,24 @@ Last updated: 2025-06-22 01:07:02
 
 ---
 
+## How I Built This
+
+### Advice Line with Marcia Kilgore of Beauty Pie
+
+**Released:** 2025-06-19 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/59e88860-94f4-4e3c-8fe6-0e6acd65cfb8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Figma: Dylan Field
+
+**Released:** 2025-06-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "RZA"
@@ -269,6 +259,16 @@ Last updated: 2025-06-22 01:07:02
 **Released:** 2025-06-16 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
+
+**Released:** 2025-06-18 13:12:09
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
