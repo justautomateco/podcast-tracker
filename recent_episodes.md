@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-21 12:21:29
+Last updated: 2025-06-22 01:07:02
 
 ## Freakonomics Radio
 
@@ -82,6 +82,16 @@ Last updated: 2025-06-21 12:21:29
 
 ---
 
+## Hidden Brain
+
+### Doing it the Hard Way
+
+**Released:** 2025-06-16 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2340 - Charley Crockett
@@ -105,16 +115,6 @@ Last updated: 2025-06-21 12:21:29
 **Released:** 2025-06-17 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750260515)
-
----
-
-## Hidden Brain
-
-### Doing it the Hard Way
-
-**Released:** 2025-06-16 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
 
 ---
 
@@ -180,24 +180,6 @@ Last updated: 2025-06-21 12:21:29
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Pride and Family
-
-**Released:** 2025-06-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
-
----
-
-### The Moth Radio Hour: Fathers
-
-**Released:** 2025-06-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6717143342.mp3?updated=1749503441)
-
----
-
 ## Revisionist History
 
 ### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
@@ -218,13 +200,21 @@ Last updated: 2025-06-21 12:21:29
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "RZA"
+### The Moth Podcast: Pride and Family
 
-**Released:** 2025-06-16 07:01:00
+**Released:** 2025-06-20 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
+
+---
+
+### The Moth Radio Hour: Fathers
+
+**Released:** 2025-06-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD6717143342.mp3?updated=1749503441)
 
 ---
 
@@ -243,6 +233,16 @@ Last updated: 2025-06-21 12:21:29
 **Released:** 2025-06-16 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc73969a-bf01-4cd7-9a23-5701ae1be5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc73969a-bf01-4cd7-9a23-5701ae1be5c3&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RZA"
+
+**Released:** 2025-06-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
 
 ---
 
