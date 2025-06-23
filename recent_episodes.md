@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-23 01:05:07
-
-## Freakonomics Radio
-
-### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
-
-**Released:** 2025-06-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
-
----
+Last updated: 2025-06-23 12:25:58
 
 ## TED Talks Daily
 
@@ -54,6 +44,26 @@ Last updated: 2025-06-23 01:05:07
 
 ---
 
+## Freakonomics Radio
+
+### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
+
+**Released:** 2025-06-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 862: Some Things We Don't Do Anymore
+
+**Released:** 2025-06-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
+
+---
+
 ## Planet Money
 
 ### The U.S. is the world's bribery cop. Is that about to change?
@@ -72,13 +82,29 @@ Last updated: 2025-06-23 01:05:07
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 862: Some Things We Don't Do Anymore
+### #2340 - Charley Crockett
 
-**Released:** 2025-06-22 18:00:00
+**Released:** 2025-06-19 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4949377515.mp3?updated=1750374236)
+
+---
+
+### #2339 - Luis J. Gomez & Big Jay Oakerson
+
+**Released:** 2025-06-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2754165684.mp3?updated=1750267092)
+
+---
+
+### #2338 - Beth Shapiro
+
+**Released:** 2025-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750260515)
 
 ---
 
@@ -136,29 +162,31 @@ Last updated: 2025-06-23 01:05:07
 
 ---
 
-## The Joe Rogan Experience
+## How I Built This
 
-### #2340 - Charley Crockett
+### UNTUCKit: Chris Riccobono
 
-**Released:** 2025-06-19 17:00:00
+**Released:** 2025-06-23 07:10:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4949377515.mp3?updated=1750374236)
-
----
-
-### #2339 - Luis J. Gomez & Big Jay Oakerson
-
-**Released:** 2025-06-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2754165684.mp3?updated=1750267092)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f71833c-c81d-450e-8873-43e43fbf29d3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### #2338 - Beth Shapiro
+### Advice Line with Marcia Kilgore of Beauty Pie
 
-**Released:** 2025-06-17 17:00:00
+**Released:** 2025-06-19 07:10:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750260515)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/59e88860-94f4-4e3c-8fe6-0e6acd65cfb8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
+
+**Released:** 2025-06-18 13:12:09
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -169,32 +197,6 @@ Last updated: 2025-06-23 01:05:07
 **Released:** 2025-06-19 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Foreign Object in Butt
-
-**Released:** 2025-06-20 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38fd7745-88ea-47a2-8177-373a0acc0908.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Michael Calvey (on being wrongfully imprisoned in Russia)
-
-**Released:** 2025-06-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Alex Cooper
-
-**Released:** 2025-06-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be8a2830-c7be-427c-afd7-8029a7d525f3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,59 +218,57 @@ Last updated: 2025-06-23 01:05:07
 
 ---
 
-## How I Built This
+## Armchair Expert
 
-### Advice Line with Marcia Kilgore of Beauty Pie
+### Brad Pitt
 
-**Released:** 2025-06-19 07:10:00
+**Released:** 2025-06-23 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/59e88860-94f4-4e3c-8fe6-0e6acd65cfb8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c0d895d-2039-4daf-b049-16404fc80d67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Figma: Dylan Field
+### Armchair Anonymous: Foreign Object in Butt
 
-**Released:** 2025-06-16 07:00:00
+**Released:** 2025-06-20 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a47a3cc-7f46-49f7-a8cb-16de036083c1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38fd7745-88ea-47a2-8177-373a0acc0908.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Michael Calvey (on being wrongfully imprisoned in Russia)
+
+**Released:** 2025-06-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
+
+---
 
 ### Snack Attack Strikes Back with Talent Coordinator Maddie Ogden
 
 **Released:** 2025-06-19 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8423639d-dda8-40fe-84e8-8767cd548048/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8423639d-dda8-40fe-84e8-8767cd548048&feed=dHoohVNH)
-
----
-
-### David Spade Returns
-
-**Released:** 2025-06-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc73969a-bf01-4cd7-9a23-5701ae1be5c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc73969a-bf01-4cd7-9a23-5701ae1be5c3&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RZA"
-
-**Released:** 2025-06-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e9bdafe6-dd6d-4eb2-94fb-ca7b09264be5&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
-
-**Released:** 2025-06-18 13:12:09
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
