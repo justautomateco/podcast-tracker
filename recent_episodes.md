@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-23 12:25:58
+Last updated: 2025-06-24 01:01:42
+
+## This American Life
+
+### 862: Some Things We Don't Do Anymore
+
+**Released:** 2025-06-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
+
+---
 
 ## TED Talks Daily
+
+### The US bombed Iran. Now what? | TED Explains the World with Ian Bremmer
+
+**Released:** 2025-06-23 15:17:07
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68596ff373e8be408fcbd0d2/media.mp3)
+
+---
 
 ### Sunday Pick: Kara Swisher | Design Matters
 
@@ -36,14 +54,6 @@ Last updated: 2025-06-23 12:25:58
 
 ---
 
-### A musical duet with AI herself | Todd Almond and Donna Murphy
-
-**Released:** 2025-06-18 15:25:51
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685034f9643970a4229f8fa9/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
@@ -51,16 +61,6 @@ Last updated: 2025-06-23 12:25:58
 **Released:** 2025-06-20 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 862: Some Things We Don't Do Anymore
-
-**Released:** 2025-06-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
 
 ---
 
@@ -79,6 +79,16 @@ Last updated: 2025-06-23 12:25:58
 **Released:** 2025-06-19 00:50:59
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6207102968.mp3?d=1819&size=29105929&e=1254350226&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
+
+**Released:** 2025-06-23 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
 
 ---
 
@@ -115,16 +125,6 @@ Last updated: 2025-06-23 12:25:58
 **Released:** 2025-06-17 21:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Doing it the Hard Way
-
-**Released:** 2025-06-16 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d7a0bfaa-98a7-4b19-8a94-8bb39f57ddee&feed=kwWc0lhf)
 
 ---
 
@@ -180,16 +180,6 @@ Last updated: 2025-06-23 12:25:58
 
 ---
 
-## The Tim Ferriss Show
-
-### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
-
-**Released:** 2025-06-18 13:12:09
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
@@ -218,6 +208,44 @@ Last updated: 2025-06-23 12:25:58
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
+
+---
+
+### Snack Attack Strikes Back with Talent Coordinator Maddie Ogden
+
+**Released:** 2025-06-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8423639d-dda8-40fe-84e8-8767cd548048/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8423639d-dda8-40fe-84e8-8767cd548048&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #816: Nsima Inyang, Mutant and Movement Coach — True Athleticism at Any Age, Microdosing Movement, “Rope Flow” as a Key Unlock, Why Sleds and Sandbags Matter, and Much More
+
+**Released:** 2025-06-18 13:12:09
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7c5565e-dbc2-4bb0-b4bd-78739c05a1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Brad Pitt
@@ -241,34 +269,6 @@ Last updated: 2025-06-23 12:25:58
 **Released:** 2025-06-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Stephen Graham"
-
-**Released:** 2025-06-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Diego Luna
-
-**Released:** 2025-06-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
-
----
-
-### Snack Attack Strikes Back with Talent Coordinator Maddie Ogden
-
-**Released:** 2025-06-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8423639d-dda8-40fe-84e8-8767cd548048/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8423639d-dda8-40fe-84e8-8767cd548048&feed=dHoohVNH)
 
 ---
 
