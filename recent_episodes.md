@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-24 12:25:02
-
-## Freakonomics Radio
-
-### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
-
-**Released:** 2025-06-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 862: Some Things We Don't Do Anymore
-
-**Released:** 2025-06-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
-
----
+Last updated: 2025-06-25 01:02:13
 
 ## TED Talks Daily
+
+### Let's get real about free speech | Greg Lukianoff
+
+**Released:** 2025-06-24 15:31:10
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685ac4be7cd58072a50b9712/media.mp3)
+
+---
 
 ### The US bombed Iran. Now what? | TED Explains the World with Ian Bremmer
 
@@ -56,11 +44,13 @@ Last updated: 2025-06-24 12:25:02
 
 ---
 
-### What is Juneteenth, and why is it important? | Karlos Hill and Soraya Field Fiorio
+## Freakonomics Radio
 
-**Released:** 2025-06-19 15:00:00
+### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685035b793784109e6b0a55d/media.mp3)
+**Released:** 2025-06-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
 
 ---
 
@@ -82,7 +72,35 @@ Last updated: 2025-06-24 12:25:02
 
 ---
 
+## Hidden Brain
+
+### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
+
+**Released:** 2025-06-23 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
+
+---
+
+## This American Life
+
+### 862: Some Things We Don't Do Anymore
+
+**Released:** 2025-06-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2341 - Bernie Sanders
+
+**Released:** 2025-06-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5187780423.mp3?updated=1750783098)
+
+---
 
 ### #2340 - Charley Crockett
 
@@ -100,31 +118,13 @@ Last updated: 2025-06-24 12:25:02
 
 ---
 
-### #2338 - Beth Shapiro
-
-**Released:** 2025-06-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7306509480.mp3?updated=1750260515)
-
----
-
-## Hidden Brain
-
-### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
-
-**Released:** 2025-06-23 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
-### The Red, the Black, and the Green
+### The Titanic's Best Lifeboat
 
-**Released:** 2025-06-17 21:00:00
+**Released:** 2025-06-24 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2cf386dd-1d0e-461f-8e52-6823f4fdabea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2cf386dd-1d0e-461f-8e52-6823f4fdabea&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
 
 ---
 
@@ -159,62 +159,6 @@ Last updated: 2025-06-24 12:25:02
 **Released:** 2025-06-18 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12e61ac7-9b55-4368-8926-b2f800e2b8b2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Pride 2021
-
-**Released:** 2025-06-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
-
----
-
-### The Moth Podcast: Pride and Family
-
-**Released:** 2025-06-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
-
----
-
-## Revisionist History
-
-### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
-
-**Released:** 2025-06-19 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Diego Luna
-
-**Released:** 2025-06-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
-
----
-
-### Snack Attack Strikes Back with Talent Coordinator Maddie Ogden
-
-**Released:** 2025-06-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8423639d-dda8-40fe-84e8-8767cd548048/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8423639d-dda8-40fe-84e8-8767cd548048&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Stephen Graham"
-
-**Released:** 2025-06-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
 
 ---
 
@@ -267,6 +211,62 @@ Last updated: 2025-06-24 12:25:02
 **Released:** 2025-06-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a242668-02c6-4733-adf7-79e040e7b3b9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Pride 2021
+
+**Released:** 2025-06-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
+
+---
+
+### The Moth Podcast: Pride and Family
+
+**Released:** 2025-06-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
+
+---
+
+## Revisionist History
+
+### Warlords, Espionage, and Disinformation | Introducing Hot Money: Agent of Chaos 
+
+**Released:** 2025-06-19 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ab5fd450-9c4b-4ccd-b155-b30000fe6772/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
+
+---
+
+### Snack Attack Strikes Back with Talent Coordinator Maddie Ogden
+
+**Released:** 2025-06-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8423639d-dda8-40fe-84e8-8767cd548048/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8423639d-dda8-40fe-84e8-8767cd548048&feed=dHoohVNH)
 
 ---
 
