@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-27 01:02:06
+Last updated: 2025-06-27 12:24:15
+
+## Freakonomics Radio
+
+### 638. Are You Ready for the Elder Swell?
+
+**Released:** 2025-06-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
+
+---
+
+### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
+
+**Released:** 2025-06-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -41,24 +59,6 @@ Last updated: 2025-06-27 01:02:06
 **Released:** 2025-06-22 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68559a7e412e0f0fbfe312ee/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
-
-**Released:** 2025-06-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
-
----
-
-### 637. What It’s Like to Be Middle-Aged (in the Middle Ages)
-
-**Released:** 2025-06-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3b79d821-e3a8-428c-8fe3-1d52df70e341/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3b79d821-e3a8-428c-8fe3-1d52df70e341&feed=Y8lFbOT4)
 
 ---
 
@@ -198,7 +198,61 @@ Last updated: 2025-06-27 01:02:06
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Jaws
+
+**Released:** 2025-06-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
+
+---
+
+### The Moth Radio Hour: Pride 2021
+
+**Released:** 2025-06-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bit@#es Be Hitchin'
+
+**Released:** 2025-06-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
+
+---
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Wild Card VIII
+
+**Released:** 2025-06-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Curtis Duffy (chef and restaurateur)
 
@@ -221,60 +275,6 @@ Last updated: 2025-06-27 01:02:06
 **Released:** 2025-06-23 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c0d895d-2039-4daf-b049-16404fc80d67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Foreign Object in Butt
-
-**Released:** 2025-06-20 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38fd7745-88ea-47a2-8177-373a0acc0908.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bit@#es Be Hitchin'
-
-**Released:** 2025-06-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
-
----
-
-### Diego Luna
-
-**Released:** 2025-06-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Pride 2021
-
-**Released:** 2025-06-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
-
----
-
-### The Moth Podcast: Pride and Family
-
-**Released:** 2025-06-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
-
----
-
-## SmartLess 
-
-### "Stephen Graham"
-
-**Released:** 2025-06-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
 
 ---
 
