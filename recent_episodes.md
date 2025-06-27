@@ -1,6 +1,48 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-26 12:24:51
+Last updated: 2025-06-27 01:02:06
+
+## TED Talks Daily
+
+### The autism spectrum isn't what you think it is | Chloé Hayden
+
+**Released:** 2025-06-26 15:12:58
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685d5fcf4a2d8b8b5172b3e5/media.mp3)
+
+---
+
+### The razor-thin line between contagion and connection | Dan Taberski
+
+**Released:** 2025-06-25 15:09:07
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685c0e027cd58072a57bfcbe/media.mp3)
+
+---
+
+### Let's get real about free speech | Greg Lukianoff
+
+**Released:** 2025-06-24 15:31:10
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685ac4be7cd58072a50b9712/media.mp3)
+
+---
+
+### The US bombed Iran. Now what? | TED Explains the World with Ian Bremmer
+
+**Released:** 2025-06-23 15:17:07
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68596ff373e8be408fcbd0d2/media.mp3)
+
+---
+
+### Sunday Pick: Kara Swisher | Design Matters
+
+**Released:** 2025-06-22 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68559a7e412e0f0fbfe312ee/media.mp3)
+
+---
 
 ## Freakonomics Radio
 
@@ -38,48 +80,6 @@ Last updated: 2025-06-26 12:24:51
 
 ---
 
-## TED Talks Daily
-
-### The razor-thin line between contagion and connection | Dan Taberski
-
-**Released:** 2025-06-25 15:09:07
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685c0e027cd58072a57bfcbe/media.mp3)
-
----
-
-### Let's get real about free speech | Greg Lukianoff
-
-**Released:** 2025-06-24 15:31:10
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685ac4be7cd58072a50b9712/media.mp3)
-
----
-
-### The US bombed Iran. Now what? | TED Explains the World with Ian Bremmer
-
-**Released:** 2025-06-23 15:17:07
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68596ff373e8be408fcbd0d2/media.mp3)
-
----
-
-### Sunday Pick: Kara Swisher | Design Matters
-
-**Released:** 2025-06-22 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68559a7e412e0f0fbfe312ee/media.mp3)
-
----
-
-### How do you prepare for jobs that don't exist yet? A work expert and a YouTuber answer | Jon Youshaei and Michelle Weise
-
-**Released:** 2025-06-21 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685599fe412e0f0fbfe2effe/media.mp3)
-
----
-
 ## This American Life
 
 ### 862: Some Things We Don't Do Anymore
@@ -91,6 +91,14 @@ Last updated: 2025-06-26 12:24:51
 ---
 
 ## The Joe Rogan Experience
+
+### JRE MMA Show #167 with Cory Sandhagen
+
+**Released:** 2025-06-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2215471621.mp3?updated=1750957380)
+
+---
 
 ### #2342 - Jim Norton
 
@@ -108,15 +116,35 @@ Last updated: 2025-06-26 12:24:51
 
 ---
 
-### #2340 - Charley Crockett
+## Hidden Brain
 
-**Released:** 2025-06-19 17:00:00
+### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4949377515.mp3?updated=1750374236)
+**Released:** 2025-06-23 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Titanic's Best Lifeboat
+
+**Released:** 2025-06-24 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Sunset Blvd: One Famous Road
+
+**Released:** 2025-06-26 13:30:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62f090eb-2b9f-4792-811e-b30800dba621/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Oedipus Complex
 
@@ -142,72 +170,6 @@ Last updated: 2025-06-26 12:24:51
 
 ---
 
-## Hidden Brain
-
-### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
-
-**Released:** 2025-06-23 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Titanic's Best Lifeboat
-
-**Released:** 2025-06-24 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Pride 2021
-
-**Released:** 2025-06-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
-
----
-
-### The Moth Podcast: Pride and Family
-
-**Released:** 2025-06-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/42D75/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/mgln.ai/e/13/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
-
----
-
-## Revisionist History
-
-### Encores
-
-**Released:** 2025-06-26 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bit@#es Be Hitchin'
-
-**Released:** 2025-06-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
-
----
-
-### Diego Luna
-
-**Released:** 2025-06-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
-
----
-
 ## How I Built This
 
 ### Advice Line with Eric Ryan of Method
@@ -226,13 +188,13 @@ Last updated: 2025-06-26 12:24:51
 
 ---
 
-## SmartLess 
+## Revisionist History
 
-### "Stephen Graham"
+### Encores
 
-**Released:** 2025-06-23 07:01:00
+**Released:** 2025-06-26 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -267,6 +229,52 @@ Last updated: 2025-06-26 12:24:51
 **Released:** 2025-06-20 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38fd7745-88ea-47a2-8177-373a0acc0908.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bit@#es Be Hitchin'
+
+**Released:** 2025-06-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
+
+---
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Pride 2021
+
+**Released:** 2025-06-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
+
+---
+
+### The Moth Podcast: Pride and Family
+
+**Released:** 2025-06-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7571638579.mp3?updated=1749503393)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
 
 ---
 
