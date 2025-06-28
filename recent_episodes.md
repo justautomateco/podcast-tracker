@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-27 12:24:15
+Last updated: 2025-06-28 00:59:46
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-06-27 12:24:15
 ---
 
 ## TED Talks Daily
+
+### I'll probably lose my job to AI. Here's why that's OK | Megan J. McArdle
+
+**Released:** 2025-06-27 15:01:17
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685eb23d47311de1b6618535/media.mp3)
+
+---
 
 ### The autism spectrum isn't what you think it is | Chloé Hayden
 
@@ -54,29 +62,21 @@ Last updated: 2025-06-27 12:24:15
 
 ---
 
-### Sunday Pick: Kara Swisher | Design Matters
+## Planet Money
 
-**Released:** 2025-06-22 06:00:00
+### When Trump met crypto
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68559a7e412e0f0fbfe312ee/media.mp3)
+**Released:** 2025-06-27 22:39:14
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9871837288.mp3?d=1915&size=30641511&e=1254874796&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### Econ Battle Zone: Budget Showdown
 
 **Released:** 2025-06-25 23:17:46
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1524984610.mp3?d=2321&size=37137433&e=1254697854&t=podcast&p=510289)
-
----
-
-### The U.S. is the world's bribery cop. Is that about to change?
-
-**Released:** 2025-06-20 23:05:25
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8389335971.mp3?d=1687&size=26992728&e=1254460243&t=podcast&p=510289)
 
 ---
 
@@ -116,6 +116,48 @@ Last updated: 2025-06-27 12:24:15
 
 ---
 
+## Stuff You Should Know
+
+### SYSK’s Summer Movie Playlist: Why was Titicut Follies banned?
+
+**Released:** 2025-06-27 23:51:13
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9599f80a-ab15-484e-b06a-b3090165307e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Summer Movie Playlist: How Steadicams Work
+
+**Released:** 2025-06-27 23:50:42
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b48ac7f-5496-42a2-8c13-b3090180be7e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Summer Movie Playlist: How the MPAA Works
+
+**Released:** 2025-06-27 23:50:31
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/81cab512-2a11-4ca6-b57e-b30901749e47/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Summer Movie Playlist: Josh and Chuck's List of Horror Movies that Changed the Genre
+
+**Released:** 2025-06-27 23:50:25
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/90a3971f-aa65-4cad-8f9e-b309016a5de0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Summer Movie Playlist: Special Effects: A Short History
+
+**Released:** 2025-06-27 23:50:01
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e2b60075-3cec-4857-8073-b309016a5dde/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## Hidden Brain
 
 ### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
@@ -133,40 +175,6 @@ Last updated: 2025-06-27 12:24:15
 **Released:** 2025-06-24 20:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
-
----
-
-## Stuff You Should Know
-
-### Sunset Blvd: One Famous Road
-
-**Released:** 2025-06-26 13:30:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62f090eb-2b9f-4792-811e-b30800dba621/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Oedipus Complex
-
-**Released:** 2025-06-25 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/92280d63-1119-4693-a762-b2f900ebaac5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Shameful History: Project 100,000
-
-**Released:** 2025-06-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8e69d2c2-d938-4874-88cf-b3050103b330/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The Great Nuclear Winter Debate of 1983
-
-**Released:** 2025-06-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/53f1a350-d295-4f24-98ba-b2e5010fae5e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -198,6 +206,16 @@ Last updated: 2025-06-27 12:24:15
 
 ---
 
+## The Tim Ferriss Show
+
+### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
+
+**Released:** 2025-06-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: Jaws
@@ -216,6 +234,16 @@ Last updated: 2025-06-27 12:24:15
 
 ---
 
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Bit@#es Be Hitchin'
@@ -231,16 +259,6 @@ Last updated: 2025-06-27 12:24:15
 **Released:** 2025-06-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Stephen Graham"
-
-**Released:** 2025-06-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
 
 ---
 
@@ -275,16 +293,6 @@ Last updated: 2025-06-27 12:24:15
 **Released:** 2025-06-23 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c0d895d-2039-4daf-b049-16404fc80d67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
-
-**Released:** 2025-06-25 09:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
