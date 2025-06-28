@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-28 00:59:46
+Last updated: 2025-06-28 12:21:51
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-06-28 00:59:46
 ---
 
 ## TED Talks Daily
+
+### Let curiosity lead | Yara Shahidi
+
+**Released:** 2025-06-28 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685eb463653df36e7bdf01a9/media.mp3)
+
+---
 
 ### I'll probably lose my job to AI. Here's why that's OK | Megan J. McArdle
 
@@ -51,14 +59,6 @@ Last updated: 2025-06-28 00:59:46
 **Released:** 2025-06-24 15:31:10
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685ac4be7cd58072a50b9712/media.mp3)
-
----
-
-### The US bombed Iran. Now what? | TED Explains the World with Ian Bremmer
-
-**Released:** 2025-06-23 15:17:07
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68596ff373e8be408fcbd0d2/media.mp3)
 
 ---
 
@@ -116,13 +116,41 @@ Last updated: 2025-06-28 00:59:46
 
 ---
 
+## Hidden Brain
+
+### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
+
+**Released:** 2025-06-23 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Titanic's Best Lifeboat
+
+**Released:** 2025-06-24 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
-### SYSK’s Summer Movie Playlist: Why was Titicut Follies banned?
+### Selects: What was Tin Pan Alley?
 
-**Released:** 2025-06-27 23:51:13
+**Released:** 2025-06-28 09:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9599f80a-ab15-484e-b06a-b3090165307e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/40c19825-4e26-4e36-bcbb-b2ec0135cdf6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Summer Movie Playlist: What's the deal with Bond, James Bond?
+
+**Released:** 2025-06-28 00:42:24
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24b46800-c1f8-4163-8f06-b3090165307c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -150,34 +178,6 @@ Last updated: 2025-06-28 00:59:46
 
 ---
 
-### SYSK’s Summer Movie Playlist: Special Effects: A Short History
-
-**Released:** 2025-06-27 23:50:01
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e2b60075-3cec-4857-8073-b309016a5dde/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Win Hearts, Then Minds + Your Questions Answered on Identity and "Covering"
-
-**Released:** 2025-06-23 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0fe28440-41c1-4917-b22c-0535cb336ab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0fe28440-41c1-4917-b22c-0535cb336ab6&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Titanic's Best Lifeboat
-
-**Released:** 2025-06-24 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Eric Ryan of Method
@@ -196,16 +196,6 @@ Last updated: 2025-06-28 00:59:46
 
 ---
 
-## Revisionist History
-
-### Encores
-
-**Released:** 2025-06-26 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
@@ -213,6 +203,16 @@ Last updated: 2025-06-28 00:59:46
 **Released:** 2025-06-25 09:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Encores
+
+**Released:** 2025-06-26 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -231,34 +231,6 @@ Last updated: 2025-06-28 00:59:46
 **Released:** 2025-06-24 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
-
----
-
-## SmartLess 
-
-### "Stephen Graham"
-
-**Released:** 2025-06-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bit@#es Be Hitchin'
-
-**Released:** 2025-06-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
-
----
-
-### Diego Luna
-
-**Released:** 2025-06-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
 
 ---
 
@@ -293,6 +265,34 @@ Last updated: 2025-06-28 00:59:46
 **Released:** 2025-06-23 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c0d895d-2039-4daf-b049-16404fc80d67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Stephen Graham"
+
+**Released:** 2025-06-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bit@#es Be Hitchin'
+
+**Released:** 2025-06-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
+
+---
+
+### Diego Luna
+
+**Released:** 2025-06-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/50706900-121f-4d98-8794-c3fdd85c432a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=50706900-121f-4d98-8794-c3fdd85c432a&feed=dHoohVNH)
 
 ---
 
