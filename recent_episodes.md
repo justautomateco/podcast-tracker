@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-06-29 12:22:12
+Last updated: 2025-06-30 01:05:39
 
 ## Freakonomics Radio
 
@@ -82,11 +82,11 @@ Last updated: 2025-06-29 12:22:12
 
 ## This American Life
 
-### 862: Some Things We Don't Do Anymore
+### 863: Championship Window
 
-**Released:** 2025-06-22 18:00:00
+**Released:** 2025-06-29 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
 
 ---
 
@@ -178,16 +178,6 @@ Last updated: 2025-06-29 12:22:12
 
 ---
 
-## Revisionist History
-
-### Encores
-
-**Released:** 2025-06-26 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Eric Ryan of Method
@@ -206,13 +196,31 @@ Last updated: 2025-06-29 12:22:12
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
+### Encores
 
-**Released:** 2025-06-25 09:00:00
+**Released:** 2025-06-26 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Jaws
+
+**Released:** 2025-06-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
+
+---
+
+### The Moth Radio Hour: Pride 2021
+
+**Released:** 2025-06-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
 
 ---
 
@@ -234,6 +242,16 @@ Last updated: 2025-06-29 12:22:12
 
 ---
 
+## The Tim Ferriss Show
+
+### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
+
+**Released:** 2025-06-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Stephen Graham"
@@ -241,24 +259,6 @@ Last updated: 2025-06-29 12:22:12
 **Released:** 2025-06-23 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a8cf7345-e4a1-4ca0-a986-d01765bb546d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a8cf7345-e4a1-4ca0-a986-d01765bb546d&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Podcast: Jaws
-
-**Released:** 2025-06-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
-
----
-
-### The Moth Radio Hour: Pride 2021
-
-**Released:** 2025-06-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
 
 ---
 
