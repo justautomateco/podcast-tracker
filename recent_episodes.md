@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-01 01:08:57
+Last updated: 2025-07-01 12:25:08
+
+## Freakonomics Radio
+
+### 638. Are You Ready for the Elder Swell?
+
+**Released:** 2025-06-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
+
+---
+
+### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
+
+**Released:** 2025-06-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,21 +62,13 @@ Last updated: 2025-07-01 01:08:57
 
 ---
 
-## Freakonomics Radio
+## This American Life
 
-### 638. Are You Ready for the Elder Swell?
+### 863: Championship Window
 
-**Released:** 2025-06-27 10:00:00
+**Released:** 2025-06-29 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
-
----
-
-### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
-
-**Released:** 2025-06-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
 
 ---
 
@@ -106,13 +116,23 @@ Last updated: 2025-07-01 01:08:57
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 863: Championship Window
+### You 2.0: What Is Your Life For?
 
-**Released:** 2025-06-29 18:00:00
+**Released:** 2025-06-30 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Titanic's Best Lifeboat
+
+**Released:** 2025-06-24 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
 
 ---
 
@@ -158,23 +178,21 @@ Last updated: 2025-07-01 01:08:57
 
 ---
 
-## Hidden Brain
+## How I Built This
 
-### You 2.0: What Is Your Life For?
+### Talenti: Josh Hochschuler
 
-**Released:** 2025-06-30 19:00:00
+**Released:** 2025-06-30 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## 99% Invisible
+### Advice Line with Eric Ryan of Method
 
-### The Titanic's Best Lifeboat
+**Released:** 2025-06-26 07:10:00
 
-**Released:** 2025-06-24 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,39 +232,21 @@ Last updated: 2025-07-01 01:08:57
 
 ---
 
-### Listen Now: Liberty Lost
+## The Moth
 
-**Released:** 2025-06-24 08:00:00
+### The Moth Radio Hour: Human + Nature
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b685fbfc-9b13-419e-9b8b-bc40d8968e21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547)
 
 ---
-
-## The Moth
 
 ### The Moth Podcast: Jaws
 
 **Released:** 2025-06-27 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
-
----
-
-### The Moth Radio Hour: Pride 2021
-
-**Released:** 2025-06-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2678124317.mp3?updated=1750104655)
-
----
-
-## SmartLess 
-
-### "Taron Egerton"
-
-**Released:** 2025-06-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
 
 ---
 
@@ -265,6 +265,26 @@ Last updated: 2025-07-01 01:08:57
 **Released:** 2025-06-26 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Taron Egerton"
+
+**Released:** 2025-06-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
+
+**Released:** 2025-06-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
