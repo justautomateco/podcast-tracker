@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-01 12:25:08
-
-## Freakonomics Radio
-
-### 638. Are You Ready for the Elder Swell?
-
-**Released:** 2025-06-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
-
----
-
-### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
-
-**Released:** 2025-06-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
-
----
+Last updated: 2025-07-02 01:01:52
 
 ## TED Talks Daily
+
+### The fire-breathing dragon-horse sparking wonder in a city near you | Frédette Lampre
+
+**Released:** 2025-07-01 15:07:46
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6863f7597aba8e54f87c8e3a/media.mp3)
+
+---
 
 ### Why climate action is unstoppable — and "climate realism" is a myth | Al Gore
 
@@ -54,21 +44,21 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-### The autism spectrum isn't what you think it is | Chloé Hayden
+## Freakonomics Radio
 
-**Released:** 2025-06-26 15:12:58
+### 638. Are You Ready for the Elder Swell?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685d5fcf4a2d8b8b5172b3e5/media.mp3)
+**Released:** 2025-06-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
 
 ---
 
-## This American Life
+### What Do Medieval Nuns and Bo Jackson Have in Common? (Update)
 
-### 863: Championship Window
+**Released:** 2025-06-25 10:00:00
 
-**Released:** 2025-06-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4)
 
 ---
 
@@ -90,7 +80,25 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
+## This American Life
+
+### 863: Championship Window
+
+**Released:** 2025-06-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2343 - Joe Pistone
+
+**Released:** 2025-07-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6049674378.mp3?updated=1751388773)
+
+---
 
 ### JRE MMA Show #167 with Cory Sandhagen
 
@@ -108,14 +116,6 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-### #2341 - Bernie Sanders
-
-**Released:** 2025-06-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5187780423.mp3?updated=1750783098)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: What Is Your Life For?
@@ -126,17 +126,15 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### The Titanic's Best Lifeboat
+### The Phil Hartman Story
 
-**Released:** 2025-06-24 20:30:00
+**Released:** 2025-07-01 13:07:29
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/eb333eb2-1e5d-4e03-bb43-3576144ab25a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=eb333eb2-1e5d-4e03-bb43-3576144ab25a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d218ce6-b306-4a18-ab21-b30d00d53113/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: What was Tin Pan Alley?
 
@@ -170,11 +168,41 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-### SYSK’s Summer Movie Playlist: Josh and Chuck's List of Horror Movies that Changed the Genre
+## 99% Invisible
 
-**Released:** 2025-06-27 23:50:25
+### Open Borders
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/90a3971f-aa65-4cad-8f9e-b309016a5de0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-07-01 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Encores
+
+**Released:** 2025-06-26 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Human + Nature
+
+**Released:** 2025-07-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547)
+
+---
+
+### The Moth Podcast: Jaws
+
+**Released:** 2025-06-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
 
 ---
 
@@ -196,13 +224,21 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### Encores
+### Martin Short Live From SiriusXM NY
 
-**Released:** 2025-06-26 04:01:00
+**Released:** 2025-06-30 04:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
+
+---
+
+### Bit@#es Be Hitchin'
+
+**Released:** 2025-06-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
 
 ---
 
@@ -232,42 +268,6 @@ Last updated: 2025-07-01 12:25:08
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Human + Nature
-
-**Released:** 2025-07-01 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547)
-
----
-
-### The Moth Podcast: Jaws
-
-**Released:** 2025-06-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Martin Short Live From SiriusXM NY
-
-**Released:** 2025-06-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
-
----
-
-### Bit@#es Be Hitchin'
-
-**Released:** 2025-06-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Taron Egerton"
@@ -279,6 +279,14 @@ Last updated: 2025-07-01 12:25:08
 ---
 
 ## The Tim Ferriss Show
+
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+
+**Released:** 2025-07-01 20:02:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #817: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom 
 
