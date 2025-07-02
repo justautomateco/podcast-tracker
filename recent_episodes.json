@@ -1,5 +1,12 @@
 [
   {
+    "guid": "ff7b8e85-92f2-440f-b008-e72b8865acb4",
+    "episode_title": "638. Are You Ready for the Elder Swell?",
+    "release_date": "2025-06-27 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "6863f7597aba8e54f87c8e3a",
     "episode_title": "The fire-breathing dragon-horse sparking wonder in a city near you | Fr\u00e9dette Lampre",
     "release_date": "2025-07-01 15:07:46",
@@ -33,20 +40,6 @@
     "release_date": "2025-06-27 15:01:17",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685eb23d47311de1b6618535/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "ff7b8e85-92f2-440f-b008-e72b8865acb4",
-    "episode_title": "638. Are You Ready for the Elder Swell?",
-    "release_date": "2025-06-27 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "6b540827-5981-44ef-960c-89618d4e22ec",
-    "episode_title": "What Do Medieval Nuns and Bo Jackson Have in Common? (Update)",
-    "release_date": "2025-06-25 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1cd1c509-e559-4962-91cf-5ce017df6ca9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1cd1c509-e559-4962-91cf-5ce017df6ca9&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "6ade6ee7-667c-4bd1-b26e-fe94938948c0",
@@ -98,6 +91,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "000653d4-6ed0-4fd8-8a4c-b308014cb900",
+    "episode_title": "Short Stuff: BM Radio",
+    "release_date": "2025-07-02 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/000653d4-6ed0-4fd8-8a4c-b308014cb900/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "3d218ce6-b306-4a18-ab21-b30d00d53113",
     "episode_title": "The Phil Hartman Story",
     "release_date": "2025-07-01 13:07:29",
@@ -126,18 +126,32 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "81cab512-2a11-4ca6-b57e-b30901749e47",
-    "episode_title": "SYSK\u2019s Summer Movie Playlist: How the MPAA Works",
-    "release_date": "2025-06-27 23:50:31",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/81cab512-2a11-4ca6-b57e-b30901749e47/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "f54716bc-179d-4b72-8618-fb576a9a922d",
     "episode_title": "Open Borders",
     "release_date": "2025-07-01 20:30:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Rwo7IY2o-4LhDDGXkO4DN0E7_jayb7qvdrhFFaoszGw",
+    "episode_title": "Talenti: Josh Hochschuler",
+    "release_date": "2025-06-30 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QtD9Zu2SzXrQ9Db1rPQqaMCemfII1fk2_El38JDZ6W8",
+    "episode_title": "Advice Line with Eric Ryan of Method",
+    "release_date": "2025-06-26 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_vsUEIfxKfinUNfiIO04mW8ynWr2J7yd6DjCfSDNv_g",
+    "episode_title": "#818: John Arnold with Dr. Peter Attia \u2014 The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy",
+    "release_date": "2025-07-01 20:02:02",
+    "mp3_url": "https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "ba202656-1203-40bc-b985-b3070156cdca",
@@ -161,20 +175,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Rwo7IY2o-4LhDDGXkO4DN0E7_jayb7qvdrhFFaoszGw",
-    "episode_title": "Talenti: Josh Hochschuler",
-    "release_date": "2025-06-30 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QtD9Zu2SzXrQ9Db1rPQqaMCemfII1fk2_El38JDZ6W8",
-    "episode_title": "Advice Line with Eric Ryan of Method",
-    "release_date": "2025-06-26 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "8e058243-080a-4ad7-811e-adabd125fa06",
     "episode_title": "Martin Short Live From SiriusXM NY",
     "release_date": "2025-06-30 04:05:00",
@@ -189,6 +189,20 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "bc3cf61e-22b5-434a-827c-c1906d4ce3e4",
+    "episode_title": "\"Taron Egerton\"",
+    "release_date": "2025-06-30 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/iTqOeNhqPtIhw7_aGs-dPkahsVEIYCrPoX5DHx-JALo",
+    "episode_title": "Suleika Jaouad (on creative alchemy)",
+    "release_date": "2025-07-02 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/3b810969-9c2d-4399-a7db-d238e13aae49.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/cs2pbmptW7Y3_Udq15GsMdkBhMxf2aw8LnzMCgGOQII",
     "episode_title": "Olivia Munn",
     "release_date": "2025-06-30 07:35:00",
@@ -201,33 +215,5 @@
     "release_date": "2025-06-27 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/fiDSFeKVgor6_zy3ShhbxAzm3ws9FrXpqmeJZTD9LmU",
-    "episode_title": "Curtis Duffy (chef and restaurateur)",
-    "release_date": "2025-06-25 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/f5e86637-5be7-4ee6-9235-e478ed266019.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "bc3cf61e-22b5-434a-827c-c1906d4ce3e4",
-    "episode_title": "\"Taron Egerton\"",
-    "release_date": "2025-06-30 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_vsUEIfxKfinUNfiIO04mW8ynWr2J7yd6DjCfSDNv_g",
-    "episode_title": "#818: John Arnold with Dr. Peter Attia \u2014 The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy",
-    "release_date": "2025-07-01 20:02:02",
-    "mp3_url": "https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/LXoue547hghS4mDGX96ig3fsHDdv_OgB5EKxLBp-aXc",
-    "episode_title": "#817: 4-Hour Workweek Success Stories \u2014 Charlie Houpert on Building \u201cCharisma on Command\u201d to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom ",
-    "release_date": "2025-06-25 09:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/43c2f53c-4054-4458-acad-8f8ee875012e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
