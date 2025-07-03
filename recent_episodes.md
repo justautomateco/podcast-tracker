@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-02 12:24:48
+Last updated: 2025-07-03 01:01:37
 
 ## Freakonomics Radio
 
@@ -13,6 +13,22 @@ Last updated: 2025-07-02 12:24:48
 ---
 
 ## TED Talks Daily
+
+### Beyond the Talk: Hany Farid in conversation with TED Talks Daily
+
+**Released:** 2025-07-02 19:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6862d4dddb315037b776a1bf/media.mp3)
+
+---
+
+### How to spot fake AI photos | Hany Farid
+
+**Released:** 2025-07-02 15:00:56
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686549a97aba8e54f8eddb6a/media.mp3)
+
+---
 
 ### The fire-breathing dragon-horse sparking wonder in a city near you | Frédette Lampre
 
@@ -38,37 +54,21 @@ Last updated: 2025-07-02 12:24:48
 
 ---
 
-### Let curiosity lead | Yara Shahidi
-
-**Released:** 2025-06-28 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685eb463653df36e7bdf01a9/media.mp3)
-
----
-
-### I'll probably lose my job to AI. Here's why that's OK | Megan J. McArdle
-
-**Released:** 2025-06-27 15:01:17
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685eb23d47311de1b6618535/media.mp3)
-
----
-
 ## Planet Money
+
+### A thought experiment on how to fix the national debt problem
+
+**Released:** 2025-07-02 21:46:56
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
+
+---
 
 ### When Trump met crypto
 
 **Released:** 2025-06-27 22:39:14
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9871837288.mp3?d=1915&size=30641511&e=1254874796&t=podcast&p=510289)
-
----
-
-### Econ Battle Zone: Budget Showdown
-
-**Released:** 2025-06-25 23:17:46
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1524984610.mp3?d=2321&size=37137433&e=1254697854&t=podcast&p=510289)
 
 ---
 
@@ -83,6 +83,14 @@ Last updated: 2025-07-02 12:24:48
 ---
 
 ## The Joe Rogan Experience
+
+### #2344 - Amjad Masad
+
+**Released:** 2025-07-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751497270)
+
+---
 
 ### #2343 - Joe Pistone
 
@@ -100,14 +108,6 @@ Last updated: 2025-07-02 12:24:48
 
 ---
 
-### #2342 - Jim Norton
-
-**Released:** 2025-06-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8610497946.mp3?updated=1750887385)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: What Is Your Life For?
@@ -115,6 +115,16 @@ Last updated: 2025-07-02 12:24:48
 **Released:** 2025-06-30 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Open Borders
+
+**Released:** 2025-07-01 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO)
 
 ---
 
@@ -157,44 +167,6 @@ Last updated: 2025-07-02 12:24:48
 **Released:** 2025-06-27 23:50:42
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b48ac7f-5496-42a2-8c13-b3090180be7e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Open Borders
-
-**Released:** 2025-07-01 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Talenti: Josh Hochschuler
-
-**Released:** 2025-06-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Eric Ryan of Method
-
-**Released:** 2025-06-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
-
-**Released:** 2025-07-01 20:02:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -254,6 +226,24 @@ Last updated: 2025-07-02 12:24:48
 
 ---
 
+## How I Built This
+
+### Talenti: Josh Hochschuler
+
+**Released:** 2025-06-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Eric Ryan of Method
+
+**Released:** 2025-06-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Suleika Jaouad (on creative alchemy)
@@ -277,6 +267,16 @@ Last updated: 2025-07-02 12:24:48
 **Released:** 2025-06-27 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+
+**Released:** 2025-07-01 20:02:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
