@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-03 01:01:37
-
-## Freakonomics Radio
-
-### 638. Are You Ready for the Elder Swell?
-
-**Released:** 2025-06-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
-
----
+Last updated: 2025-07-03 12:24:57
 
 ## TED Talks Daily
 
@@ -54,6 +44,16 @@ Last updated: 2025-07-03 01:01:37
 
 ---
 
+## Freakonomics Radio
+
+### 638. Are You Ready for the Elder Swell?
+
+**Released:** 2025-06-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### A thought experiment on how to fix the national debt problem
@@ -82,6 +82,16 @@ Last updated: 2025-07-03 01:01:37
 
 ---
 
+## Hidden Brain
+
+### You 2.0: What Is Your Life For?
+
+**Released:** 2025-06-30 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2344 - Amjad Masad
@@ -105,16 +115,6 @@ Last updated: 2025-07-03 01:01:37
 **Released:** 2025-06-26 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2215471621.mp3?updated=1750957380)
-
----
-
-## Hidden Brain
-
-### You 2.0: What Is Your Life For?
-
-**Released:** 2025-06-30 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
 
 ---
 
@@ -170,13 +170,21 @@ Last updated: 2025-07-03 01:01:37
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### Encores
+### Advice Line with Jim Koch of Boston Beer Company (August 2024)
 
-**Released:** 2025-06-26 04:01:00
+**Released:** 2025-07-03 07:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ba202656-1203-40bc-b985-b3070156cdca/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Talenti: Josh Hochschuler
+
+**Released:** 2025-06-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -198,49 +206,23 @@ Last updated: 2025-07-03 01:01:37
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Martin Short Live From SiriusXM NY
+### Encore: Hallelujah
 
-**Released:** 2025-06-30 04:05:00
+**Released:** 2025-07-03 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
-
----
-
-### Bit@#es Be Hitchin'
-
-**Released:** 2025-06-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c91ca69f-fdd6-4fd2-a05e-79d413865800/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c91ca69f-fdd6-4fd2-a05e-79d413865800&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f3b2fa85-cf1c-4dc6-b987-b30e01282098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Taron Egerton"
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
 
-**Released:** 2025-06-30 07:01:00
+**Released:** 2025-07-01 20:02:02
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Talenti: Josh Hochschuler
-
-**Released:** 2025-06-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Eric Ryan of Method
-
-**Released:** 2025-06-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/20a6540b-1096-4230-8841-c6bb150a03a6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,13 +252,31 @@ Last updated: 2025-07-03 01:01:37
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+### "Taron Egerton"
 
-**Released:** 2025-07-01 20:02:02
+**Released:** 2025-06-30 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jüs’d
+
+**Released:** 2025-07-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+
+---
+
+### Martin Short Live From SiriusXM NY
+
+**Released:** 2025-06-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
 
 ---
 
