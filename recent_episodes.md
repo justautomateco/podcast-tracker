@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-03 12:24:57
+Last updated: 2025-07-04 01:01:11
+
+## Freakonomics Radio
+
+### 638. Are You Ready for the Elder Swell?
+
+**Released:** 2025-06-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### What happens when your dog uses the internet | Ilyena Hirskyj-Douglas
+
+**Released:** 2025-07-03 15:59:38
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68669ca1dd764cf9226f5532/media.mp3)
+
+---
 
 ### Beyond the Talk: Hany Farid in conversation with TED Talks Daily
 
@@ -36,24 +54,6 @@ Last updated: 2025-07-03 12:24:57
 
 ---
 
-### TED Talks Daily Book Club: A Little Daylight Left | Sarah Kay
-
-**Released:** 2025-06-29 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/685ebe90081ac1df5d3b3515/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 638. Are You Ready for the Elder Swell?
-
-**Released:** 2025-06-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### A thought experiment on how to fix the national debt problem
@@ -82,23 +82,21 @@ Last updated: 2025-07-03 12:24:57
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### You 2.0: What Is Your Life For?
+### #2345 - Roman Yampolskiy
 
-**Released:** 2025-06-30 19:00:00
+**Released:** 2025-07-03 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2892325778.mp3?updated=1751560868)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2344 - Amjad Masad
 
 **Released:** 2025-07-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751497270)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751567310)
 
 ---
 
@@ -110,11 +108,13 @@ Last updated: 2025-07-03 12:24:57
 
 ---
 
-### JRE MMA Show #167 with Cory Sandhagen
+## Hidden Brain
 
-**Released:** 2025-06-26 17:00:00
+### You 2.0: What Is Your Life For?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2215471621.mp3?updated=1750957380)
+**Released:** 2025-06-30 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
 
 ---
 
@@ -129,6 +129,14 @@ Last updated: 2025-07-03 12:24:57
 ---
 
 ## Stuff You Should Know
+
+### What was the purpose of USAID?
+
+**Released:** 2025-07-03 13:33:42
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e06cafc2-dad6-4709-885f-b30f00dd7d7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: BM Radio
 
@@ -162,14 +170,6 @@ Last updated: 2025-07-03 12:24:57
 
 ---
 
-### SYSK’s Summer Movie Playlist: How Steadicams Work
-
-**Released:** 2025-06-27 23:50:42
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b48ac7f-5496-42a2-8c13-b3090180be7e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jim Koch of Boston Beer Company (August 2024)
@@ -185,6 +185,16 @@ Last updated: 2025-07-03 12:24:57
 **Released:** 2025-06-30 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Encore: Hallelujah
+
+**Released:** 2025-07-03 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f3b2fa85-cf1c-4dc6-b987-b30e01282098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -206,13 +216,31 @@ Last updated: 2025-07-03 12:24:57
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Encore: Hallelujah
+### "Taron Egerton"
 
-**Released:** 2025-07-03 04:01:00
+**Released:** 2025-06-30 07:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f3b2fa85-cf1c-4dc6-b987-b30e01282098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jüs’d
+
+**Released:** 2025-07-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+
+---
+
+### Martin Short Live From SiriusXM NY
+
+**Released:** 2025-06-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
 
 ---
 
@@ -249,34 +277,6 @@ Last updated: 2025-07-03 12:24:57
 **Released:** 2025-06-27 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Taron Egerton"
-
-**Released:** 2025-06-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Jüs’d
-
-**Released:** 2025-07-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
-
----
-
-### Martin Short Live From SiriusXM NY
-
-**Released:** 2025-06-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
 
 ---
 
