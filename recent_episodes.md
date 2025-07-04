@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-04 01:01:11
+Last updated: 2025-07-04 12:24:29
 
 ## Freakonomics Radio
 
-### 638. Are You Ready for the Elder Swell?
+### 639. “This Country Kicks My Ass All the Time”
 
-**Released:** 2025-06-27 10:00:00
+**Released:** 2025-07-04 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a42ee754-4030-4e01-b751-901acbc44502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a42ee754-4030-4e01-b751-901acbc44502&feed=Y8lFbOT4)
 
 ---
 
@@ -54,6 +54,16 @@ Last updated: 2025-07-04 01:01:11
 
 ---
 
+## This American Life
+
+### 863: Championship Window
+
+**Released:** 2025-06-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+
+---
+
 ## Planet Money
 
 ### A thought experiment on how to fix the national debt problem
@@ -69,16 +79,6 @@ Last updated: 2025-07-04 01:01:11
 **Released:** 2025-06-27 22:39:14
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9871837288.mp3?d=1915&size=30641511&e=1254874796&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 863: Championship Window
-
-**Released:** 2025-06-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
 
 ---
 
@@ -200,29 +200,19 @@ Last updated: 2025-07-04 01:01:11
 
 ## The Moth
 
+### The Moth Podcast: Joy and Pain
+
+**Released:** 2025-07-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7920529482.mp3?updated=1750864235)
+
+---
+
 ### The Moth Radio Hour: Human + Nature
 
 **Released:** 2025-07-01 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547)
-
----
-
-### The Moth Podcast: Jaws
-
-**Released:** 2025-06-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997)
-
----
-
-## SmartLess 
-
-### "Taron Egerton"
-
-**Released:** 2025-06-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
 
 ---
 
@@ -244,17 +234,15 @@ Last updated: 2025-07-04 01:01:11
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+### Armchair Anonymous: 4th of July
 
-**Released:** 2025-07-01 20:02:02
+**Released:** 2025-07-04 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38def48d-78e6-4900-9f19-f43da78ad61b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Suleika Jaouad (on creative alchemy)
 
@@ -272,11 +260,23 @@ Last updated: 2025-07-04 01:01:11
 
 ---
 
-### Armchair Anonymous: Wild Card VIII
+## SmartLess 
 
-**Released:** 2025-06-27 07:35:00
+### "Taron Egerton"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-06-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+
+**Released:** 2025-07-01 20:02:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

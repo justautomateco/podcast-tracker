@@ -1,9 +1,9 @@
 [
   {
-    "guid": "ff7b8e85-92f2-440f-b008-e72b8865acb4",
-    "episode_title": "638. Are You Ready for the Elder Swell?",
-    "release_date": "2025-06-27 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b527c39a-2412-461e-83f3-4bee59eaf991/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b527c39a-2412-461e-83f3-4bee59eaf991&feed=Y8lFbOT4",
+    "guid": "9d2d4f98-14df-41ff-b9cc-716ac637cfec",
+    "episode_title": "639. \u201cThis Country Kicks My Ass All the Time\u201d",
+    "release_date": "2025-07-04 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a42ee754-4030-4e01-b751-901acbc44502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a42ee754-4030-4e01-b751-901acbc44502&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -42,6 +42,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "45913 at https://www.thisamericanlife.org",
+    "episode_title": "863: Championship Window",
+    "release_date": "2025-06-29 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "40583e55-df7a-4929-9c0a-e2102f485f94",
     "episode_title": "A thought experiment on how to fix the national debt problem",
     "release_date": "2025-07-02 21:46:56",
@@ -54,13 +61,6 @@
     "release_date": "2025-06-27 22:39:14",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9871837288.mp3?d=1915&size=30641511&e=1254874796&t=podcast&p=510289",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "45913 at https://www.thisamericanlife.org",
-    "episode_title": "863: Championship Window",
-    "release_date": "2025-06-29 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "449cd1b4-57d1-11f0-aae7-3fcf0e66fd0d",
@@ -154,25 +154,18 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "8944cfae-51d4-11f0-8522-27dc4c0170a8",
+    "episode_title": "The Moth Podcast: Joy and Pain",
+    "release_date": "2025-07-04 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7920529482.mp3?updated=1750864235",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "b6552ec2-76d2-11ef-92d1-9f08fcc361bc",
     "episode_title": "The Moth Radio Hour: Human + Nature",
     "release_date": "2025-07-01 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "eb8bfdaa-76d2-11ef-a8c5-ef1d2030e7b5",
-    "episode_title": "The Moth Podcast: Jaws",
-    "release_date": "2025-06-27 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2376394186.mp3?updated=1749504997",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "bc3cf61e-22b5-434a-827c-c1906d4ce3e4",
-    "episode_title": "\"Taron Egerton\"",
-    "release_date": "2025-06-30 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "f0d91463-5c67-4ac1-9bdb-03d0492f5926",
@@ -189,11 +182,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/_vsUEIfxKfinUNfiIO04mW8ynWr2J7yd6DjCfSDNv_g",
-    "episode_title": "#818: John Arnold with Dr. Peter Attia \u2014 The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy",
-    "release_date": "2025-07-01 20:02:02",
-    "mp3_url": "https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/ktZH88Zap44FhwtaWDzh3GAVS2u58hfebm1dcABK8qI",
+    "episode_title": "Armchair Anonymous: 4th of July",
+    "release_date": "2025-07-04 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/38def48d-78e6-4900-9f19-f43da78ad61b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/iTqOeNhqPtIhw7_aGs-dPkahsVEIYCrPoX5DHx-JALo",
@@ -210,10 +203,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/utuKO7IXNPVkJYkhJZ4K64evvDD4-HEzHDFKuOcQJ6U",
-    "episode_title": "Armchair Anonymous: Wild Card VIII",
-    "release_date": "2025-06-27 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/12dcbaa0-87c3-49b2-aeac-dd2be88f7414.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "bc3cf61e-22b5-434a-827c-c1906d4ce3e4",
+    "episode_title": "\"Taron Egerton\"",
+    "release_date": "2025-06-30 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_vsUEIfxKfinUNfiIO04mW8ynWr2J7yd6DjCfSDNv_g",
+    "episode_title": "#818: John Arnold with Dr. Peter Attia \u2014 The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy",
+    "release_date": "2025-07-01 20:02:02",
+    "mp3_url": "https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
