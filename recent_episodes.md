@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-04 12:24:29
+Last updated: 2025-07-05 00:59:07
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-07-04 12:24:29
 
 ---
 
+## This American Life
+
+### 863: Championship Window
+
+**Released:** 2025-06-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+
+---
+
 ## TED Talks Daily
+
+### A firework ladder to the sky — and the magic of explosive art | Cai Guo-Qiang (re-release)
+
+**Released:** 2025-07-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68659eefcef4b8f705d4b801/media.mp3)
+
+---
 
 ### What happens when your dog uses the internet | Ilyena Hirskyj-Douglas
 
@@ -46,25 +64,15 @@ Last updated: 2025-07-04 12:24:29
 
 ---
 
-### Why climate action is unstoppable — and "climate realism" is a myth | Al Gore
-
-**Released:** 2025-06-30 14:57:48
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6862a5ec9951fac41bfca694/media.mp3)
-
----
-
-## This American Life
-
-### 863: Championship Window
-
-**Released:** 2025-06-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
-
----
-
 ## Planet Money
+
+### The simple math of the big bill
+
+**Released:** 2025-07-04 20:19:18
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
+
+---
 
 ### A thought experiment on how to fix the national debt problem
 
@@ -74,11 +82,13 @@ Last updated: 2025-07-04 12:24:29
 
 ---
 
-### When Trump met crypto
+## Hidden Brain
 
-**Released:** 2025-06-27 22:39:14
+### You 2.0: What Is Your Life For?
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9871837288.mp3?d=1915&size=30641511&e=1254874796&t=podcast&p=510289)
+**Released:** 2025-06-30 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
 
 ---
 
@@ -105,16 +115,6 @@ Last updated: 2025-07-04 12:24:29
 **Released:** 2025-07-01 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6049674378.mp3?updated=1751388773)
-
----
-
-## Hidden Brain
-
-### You 2.0: What Is Your Life For?
-
-**Released:** 2025-06-30 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
 
 ---
 
@@ -162,32 +162,6 @@ Last updated: 2025-07-04 12:24:29
 
 ---
 
-### SYSK’s Summer Movie Playlist: What's the deal with Bond, James Bond?
-
-**Released:** 2025-06-28 00:42:24
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24b46800-c1f8-4163-8f06-b3090165307c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Advice Line with Jim Koch of Boston Beer Company (August 2024)
-
-**Released:** 2025-07-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Talenti: Josh Hochschuler
-
-**Released:** 2025-06-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Encore: Hallelujah
@@ -216,24 +190,6 @@ Last updated: 2025-07-04 12:24:29
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Jüs’d
-
-**Released:** 2025-07-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
-
----
-
-### Martin Short Live From SiriusXM NY
-
-**Released:** 2025-06-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: 4th of July
@@ -257,6 +213,42 @@ Last updated: 2025-07-04 12:24:29
 **Released:** 2025-06-30 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8f3bfcf5-63cf-42a1-9359-0604e22fd1d9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jüs’d
+
+**Released:** 2025-07-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+
+---
+
+### Martin Short Live From SiriusXM NY
+
+**Released:** 2025-06-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Jim Koch of Boston Beer Company (August 2024)
+
+**Released:** 2025-07-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Talenti: Josh Hochschuler
+
+**Released:** 2025-06-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
