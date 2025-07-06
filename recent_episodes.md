@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-06 01:07:38
+Last updated: 2025-07-06 12:22:06
 
 ## Freakonomics Radio
 
@@ -12,35 +12,15 @@ Last updated: 2025-07-06 01:07:38
 
 ---
 
-## Planet Money
-
-### The simple math of the big bill
-
-**Released:** 2025-07-04 20:19:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
-
----
-
-### A thought experiment on how to fix the national debt problem
-
-**Released:** 2025-07-02 21:46:56
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 863: Championship Window
-
-**Released:** 2025-06-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
-
----
-
 ## TED Talks Daily
+
+### Sunday Pick: The Science of Recharging on Weekends and Vacations | ReThinking with Adam Grant
+
+**Released:** 2025-07-06 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68659d8e31a42ee04e0158fd/media.mp3)
+
+---
 
 ### The habit that could improve your career (and your life) | Paul Catchlove (re-release)
 
@@ -74,11 +54,77 @@ Last updated: 2025-07-06 01:07:38
 
 ---
 
-### How to spot fake AI photos | Hany Farid
+## Planet Money
 
-**Released:** 2025-07-02 15:00:56
+### The simple math of the big bill
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686549a97aba8e54f8eddb6a/media.mp3)
+**Released:** 2025-07-04 20:19:18
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
+
+---
+
+### A thought experiment on how to fix the national debt problem
+
+**Released:** 2025-07-02 21:46:56
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 863: Championship Window
+
+**Released:** 2025-06-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9271186174.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2345 - Roman Yampolskiy
+
+**Released:** 2025-07-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2892325778.mp3?updated=1751560868)
+
+---
+
+### #2344 - Amjad Masad
+
+**Released:** 2025-07-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751567310)
+
+---
+
+### #2343 - Joe Pistone
+
+**Released:** 2025-07-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6049674378.mp3?updated=1751388773)
+
+---
+
+## Hidden Brain
+
+### You 2.0: What Is Your Life For?
+
+**Released:** 2025-06-30 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Open Borders
+
+**Released:** 2025-07-01 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO)
 
 ---
 
@@ -116,67 +162,13 @@ Last updated: 2025-07-06 01:07:38
 
 ---
 
-## Hidden Brain
+## The Tim Ferriss Show
 
-### You 2.0: What Is Your Life For?
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
 
-**Released:** 2025-06-30 19:00:00
+**Released:** 2025-07-01 20:02:02
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Open Borders
-
-**Released:** 2025-07-01 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ab9c1751-6601-427b-bae6-33118afa75ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ab9c1751-6601-427b-bae6-33118afa75ea&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2345 - Roman Yampolskiy
-
-**Released:** 2025-07-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2892325778.mp3?updated=1751560868)
-
----
-
-### #2344 - Amjad Masad
-
-**Released:** 2025-07-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751567310)
-
----
-
-### #2343 - Joe Pistone
-
-**Released:** 2025-07-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6049674378.mp3?updated=1751388773)
-
----
-
-## How I Built This
-
-### Advice Line with Jim Koch of Boston Beer Company (August 2024)
-
-**Released:** 2025-07-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Talenti: Josh Hochschuler
-
-**Released:** 2025-06-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,31 +200,21 @@ Last updated: 2025-07-06 01:07:38
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+### Advice Line with Jim Koch of Boston Beer Company (August 2024)
 
-**Released:** 2025-07-01 20:02:02
+**Released:** 2025-07-03 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Jüs’d
-
-**Released:** 2025-07-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Martin Short Live From SiriusXM NY
+### Talenti: Josh Hochschuler
 
-**Released:** 2025-06-30 04:05:00
+**Released:** 2025-06-30 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd97d0bb-d7fb-48f0-9563-b89783f3e6b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -269,6 +251,24 @@ Last updated: 2025-07-06 01:07:38
 **Released:** 2025-06-30 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=54f0fc7d-1d8c-4ffe-8a7f-95fc40634df5&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jüs’d
+
+**Released:** 2025-07-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+
+---
+
+### Martin Short Live From SiriusXM NY
+
+**Released:** 2025-06-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2326dc01-a861-4e50-b9f6-0ca8c99d4470/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2326dc01-a861-4e50-b9f6-0ca8c99d4470&feed=dHoohVNH)
 
 ---
 
