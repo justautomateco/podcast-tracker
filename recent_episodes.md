@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-07 12:25:05
+Last updated: 2025-07-08 01:02:13
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-07-07 12:25:05
 ---
 
 ## TED Talks Daily
+
+### The inside story of Notre-Dame’s incredible reconstruction | Philippe Villeneuve
+
+**Released:** 2025-07-07 15:02:29
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686be18551ef1700a6c0404a/media.mp3)
+
+---
 
 ### Sunday Pick: The Science of Recharging on Weekends and Vacations | ReThinking with Adam Grant
 
@@ -46,11 +54,13 @@ Last updated: 2025-07-07 12:25:05
 
 ---
 
-### Beyond the Talk: Hany Farid in conversation with TED Talks Daily
+## This American Life
 
-**Released:** 2025-07-02 19:00:00
+### 594: My Summer Self
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6862d4dddb315037b776a1bf/media.mp3)
+**Released:** 2025-07-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
 
 ---
 
@@ -69,16 +79,6 @@ Last updated: 2025-07-07 12:25:05
 **Released:** 2025-07-02 21:46:56
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 594: My Summer Self
-
-**Released:** 2025-07-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
 
 ---
 
@@ -110,11 +110,11 @@ Last updated: 2025-07-07 12:25:05
 
 ## Hidden Brain
 
-### You 2.0: What Is Your Life For?
+### You 2.0: The Passion Pill
 
-**Released:** 2025-06-30 19:00:00
+**Released:** 2025-07-07 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fced2caa-67dd-4524-b221-f8809e28e311/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fced2caa-67dd-4524-b221-f8809e28e311&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/983cf1a2-79c1-40c7-8917-639b38b2de21/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=983cf1a2-79c1-40c7-8917-639b38b2de21&feed=kwWc0lhf)
 
 ---
 
@@ -162,34 +162,6 @@ Last updated: 2025-07-07 12:25:05
 
 ---
 
-## How I Built This
-
-### Rick Steves' Europe: Rick Steves (2021)
-
-**Released:** 2025-07-07 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jim Koch of Boston Beer Company (August 2024)
-
-**Released:** 2025-07-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
-
-**Released:** 2025-07-01 20:02:02
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Encore: Hallelujah
@@ -215,6 +187,16 @@ Last updated: 2025-07-07 12:25:05
 **Released:** 2025-07-01 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4707832141.mp3?updated=1750793547)
+
+---
+
+## The Tim Ferriss Show
+
+### #818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy
+
+**Released:** 2025-07-01 20:02:02
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -244,13 +226,21 @@ Last updated: 2025-07-07 12:25:05
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Nicholas Hoult"
+### Rick Steves' Europe: Rick Steves (2021)
 
-**Released:** 2025-07-07 07:01:00
+**Released:** 2025-07-07 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jim Koch of Boston Beer Company (August 2024)
+
+**Released:** 2025-07-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -269,6 +259,16 @@ Last updated: 2025-07-07 12:25:05
 **Released:** 2025-07-03 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Nicholas Hoult"
+
+**Released:** 2025-07-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
