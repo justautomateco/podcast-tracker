@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-09 01:02:55
+Last updated: 2025-07-09 12:25:19
+
+## Freakonomics Radio
+
+### How to Make Your Own Luck (Update)
+
+**Released:** 2025-07-09 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
+
+---
+
+### 639. “This Country Kicks My Ass All the Time”
+
+**Released:** 2025-07-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a42ee754-4030-4e01-b751-901acbc44502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a42ee754-4030-4e01-b751-901acbc44502&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,21 +62,29 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
-## Freakonomics Radio
+## Planet Money
 
-### How to Make Your Own Luck (Update)
+### Summer School 1: A government's role in the economy is to make us all richer
 
-**Released:** 2025-07-09 00:00:00
+**Released:** 2025-07-09 07:00:59
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
 
 ---
 
-### 639. “This Country Kicks My Ass All the Time”
+### The simple math of the big bill
 
-**Released:** 2025-07-04 10:00:00
+**Released:** 2025-07-04 20:19:18
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a42ee754-4030-4e01-b751-901acbc44502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a42ee754-4030-4e01-b751-901acbc44502&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
+
+---
+
+### A thought experiment on how to fix the national debt problem
+
+**Released:** 2025-07-02 21:46:56
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
 
 ---
 
@@ -98,24 +124,6 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
-## Planet Money
-
-### The simple math of the big bill
-
-**Released:** 2025-07-04 20:19:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
-
----
-
-### A thought experiment on how to fix the national debt problem
-
-**Released:** 2025-07-02 21:46:56
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Passion Pill
@@ -126,7 +134,25 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
+## 99% Invisible
+
+### Food Deserts
+
+**Released:** 2025-07-08 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: 8 Track Cartridges
+
+**Released:** 2025-07-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1849a03-1f48-42c5-8363-b30f0145695d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Sherlock Holmes: The Man, The Myth
 
@@ -149,24 +175,6 @@ Last updated: 2025-07-09 01:02:55
 **Released:** 2025-07-03 13:33:42
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e06cafc2-dad6-4709-885f-b30f00dd7d7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: BM Radio
-
-**Released:** 2025-07-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/000653d4-6ed0-4fd8-8a4c-b308014cb900/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Food Deserts
-
-**Released:** 2025-07-08 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
 
 ---
 
@@ -198,6 +206,24 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Oh, Brother
+
+**Released:** 2025-07-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
+
+---
+
+### The Moth Podcast: Joy and Pain
+
+**Released:** 2025-07-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7920529482.mp3?updated=1750864235)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### John Mulaney Talks to Ted Danson About “Saturday Night Live”
@@ -224,35 +250,15 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Oh, Brother
-
-**Released:** 2025-07-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
-
----
-
-### The Moth Podcast: Joy and Pain
-
-**Released:** 2025-07-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7920529482.mp3?updated=1750864235)
-
----
-
-## SmartLess 
-
-### "Nicholas Hoult"
-
-**Released:** 2025-07-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### James Gunn
+
+**Released:** 2025-07-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Nicholas Hoult Returns
 
@@ -270,11 +276,13 @@ Last updated: 2025-07-09 01:02:55
 
 ---
 
-### Suleika Jaouad (on creative alchemy)
+## SmartLess 
 
-**Released:** 2025-07-02 07:35:00
+### "Nicholas Hoult"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3b810969-9c2d-4399-a7db-d238e13aae49.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
