@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-09 12:25:19
+Last updated: 2025-07-10 01:02:48
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-07-09 12:25:19
 ---
 
 ## TED Talks Daily
+
+### "Marigolds," a poem about wonder | Safiya Sinclair
+
+**Released:** 2025-07-09 15:02:22
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686e847e9af244138c7f4f67/media.mp3)
+
+---
 
 ### The miraculous device that saved my farm — and changed my life | Josephine Waweru
 
@@ -54,11 +62,13 @@ Last updated: 2025-07-09 12:25:19
 
 ---
 
-### A firework ladder to the sky — and the magic of explosive art | Cai Guo-Qiang (re-release)
+## This American Life
 
-**Released:** 2025-07-04 15:00:00
+### 594: My Summer Self
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68659eefcef4b8f705d4b801/media.mp3)
+**Released:** 2025-07-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
 
 ---
 
@@ -80,25 +90,15 @@ Last updated: 2025-07-09 12:25:19
 
 ---
 
-### A thought experiment on how to fix the national debt problem
-
-**Released:** 2025-07-02 21:46:56
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 594: My Summer Self
-
-**Released:** 2025-07-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
-
----
-
 ## The Joe Rogan Experience
+
+### #2347 - Paul Stamets
+
+**Released:** 2025-07-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
+
+---
 
 ### #2346 - Jim Lampley
 
@@ -116,11 +116,13 @@ Last updated: 2025-07-09 12:25:19
 
 ---
 
-### #2344 - Amjad Masad
+## 99% Invisible
 
-**Released:** 2025-07-02 17:00:00
+### Food Deserts
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751567310)
+**Released:** 2025-07-08 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
 
 ---
 
@@ -131,16 +133,6 @@ Last updated: 2025-07-09 12:25:19
 **Released:** 2025-07-07 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/983cf1a2-79c1-40c7-8917-639b38b2de21/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=983cf1a2-79c1-40c7-8917-639b38b2de21&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Food Deserts
-
-**Released:** 2025-07-08 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
 
 ---
 

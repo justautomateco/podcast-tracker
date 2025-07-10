@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "686e847e9af244138c7f4f67",
+    "episode_title": "\"Marigolds,\" a poem about wonder | Safiya Sinclair",
+    "release_date": "2025-07-09 15:02:22",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686e847e9af244138c7f4f67/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "686d31defe0897380eafcef6",
     "episode_title": "The miraculous device that saved my farm \u2014 and changed my life | Josephine Waweru",
     "release_date": "2025-07-08 15:01:29",
@@ -42,11 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68659eefcef4b8f705d4b801",
-    "episode_title": "A firework ladder to the sky \u2014 and the magic of explosive art | Cai Guo-Qiang (re-release)",
-    "release_date": "2025-07-04 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68659eefcef4b8f705d4b801/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "37079 at https://www.thisamericanlife.org",
+    "episode_title": "594: My Summer Self",
+    "release_date": "2025-07-06 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "a3aa64df-7056-4fbc-9310-edca9f805d76",
@@ -63,18 +70,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "40583e55-df7a-4929-9c0a-e2102f485f94",
-    "episode_title": "A thought experiment on how to fix the national debt problem",
-    "release_date": "2025-07-02 21:46:56",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1718377317.mp3?d=1532&size=24522171&e=1255100731&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37079 at https://www.thisamericanlife.org",
-    "episode_title": "594: My Summer Self",
-    "release_date": "2025-07-06 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3",
-    "podcast_name": "This American Life"
+    "guid": "2a0a4506-5c82-11f0-843d-6f12818e2570",
+    "episode_title": "#2347 - Paul Stamets",
+    "release_date": "2025-07-09 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "94240ae8-5bac-11f0-8e66-b3c6db4d657d",
@@ -91,11 +91,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "7f332682-56d4-11f0-a19f-9fd5df87508a",
-    "episode_title": "#2344 - Amjad Masad",
-    "release_date": "2025-07-02 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7737198724.mp3?updated=1751567310",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "e2d98d12-b50c-431b-b9e2-fbf7e2a5102d",
+    "episode_title": "Food Deserts",
+    "release_date": "2025-07-08 20:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "4d4e6ef3-bfbc-445c-a9e0-d29e13d580d6",
@@ -103,13 +103,6 @@
     "release_date": "2025-07-07 19:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/983cf1a2-79c1-40c7-8917-639b38b2de21/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=983cf1a2-79c1-40c7-8917-639b38b2de21&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "e2d98d12-b50c-431b-b9e2-fbf7e2a5102d",
-    "episode_title": "Food Deserts",
-    "release_date": "2025-07-08 20:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "d1849a03-1f48-42c5-8363-b30f0145695d",
