@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-10 01:02:48
+Last updated: 2025-07-10 12:25:35
+
+## Serial
+
+### The Retrievals, Season 2 - Trailer
+
+**Released:** 2025-07-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/2ee1a2e9-75bf-4f07-8b4f-e4de1b215381/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=2ee1a2e9-75bf-4f07-8b4f-e4de1b215381&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -116,16 +126,6 @@ Last updated: 2025-07-10 01:02:48
 
 ---
 
-## 99% Invisible
-
-### Food Deserts
-
-**Released:** 2025-07-08 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Passion Pill
@@ -136,7 +136,25 @@ Last updated: 2025-07-10 01:02:48
 
 ---
 
+## 99% Invisible
+
+### Food Deserts
+
+**Released:** 2025-07-08 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Sixdegrees.com: A Social Media Origin Story
+
+**Released:** 2025-07-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: 8 Track Cartridges
 
@@ -172,6 +190,14 @@ Last updated: 2025-07-10 01:02:48
 
 ## How I Built This
 
+### Advice Line with Norma Kamali of Norma Kamali (2024)
+
+**Released:** 2025-07-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Rick Steves' Europe: Rick Steves (2021)
 
 **Released:** 2025-07-07 07:10:00
@@ -180,21 +206,13 @@ Last updated: 2025-07-10 01:02:48
 
 ---
 
-### Advice Line with Jim Koch of Boston Beer Company (August 2024)
-
-**Released:** 2025-07-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a69d991-d8b5-4272-a0af-23122d670ac7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
-### Encore: Hallelujah
+### Encore: The King of Tears
 
-**Released:** 2025-07-03 04:01:00
+**Released:** 2025-07-10 04:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f3b2fa85-cf1c-4dc6-b987-b30e01282098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -218,6 +236,14 @@ Last updated: 2025-07-10 01:02:48
 
 ## Conan O'Brien Needs A Friend
 
+### The Bear and the Bath
+
+**Released:** 2025-07-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9096d768-d430-4ae2-9b36-336963dbb237/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9096d768-d430-4ae2-9b36-336963dbb237&feed=dHoohVNH)
+
+---
+
 ### John Mulaney Talks to Ted Danson About “Saturday Night Live”
 
 **Released:** 2025-07-08 04:05:00
@@ -234,11 +260,21 @@ Last updated: 2025-07-10 01:02:48
 
 ---
 
-### Jüs’d
+## SmartLess 
 
-**Released:** 2025-07-03 04:05:00
+### "RE-RELEASE: Charlize Theron"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e8b2fc68-b08d-46cc-a1e5-62c6899390b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e8b2fc68-b08d-46cc-a1e5-62c6899390b4&feed=dHoohVNH)
+**Released:** 2025-07-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
+
+---
+
+### "Nicholas Hoult"
+
+**Released:** 2025-07-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
@@ -265,16 +301,6 @@ Last updated: 2025-07-10 01:02:48
 **Released:** 2025-07-04 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38def48d-78e6-4900-9f19-f43da78ad61b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Nicholas Hoult"
-
-**Released:** 2025-07-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
