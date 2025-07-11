@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-10 12:25:35
+Last updated: 2025-07-11 01:03:27
 
 ## Serial
 
@@ -31,6 +31,14 @@ Last updated: 2025-07-10 12:25:35
 ---
 
 ## TED Talks Daily
+
+### A story of moral imagination and bold entrepreneurship | Sitoyo Lopokoiyit and Jacqueline Novogratz
+
+**Released:** 2025-07-10 14:54:49
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686fd439610560d3eff8ba37/media.mp3)
+
+---
 
 ### "Marigolds," a poem about wonder | Safiya Sinclair
 
@@ -64,14 +72,6 @@ Last updated: 2025-07-10 12:25:35
 
 ---
 
-### The habit that could improve your career (and your life) | Paul Catchlove (re-release)
-
-**Released:** 2025-07-05 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6865a033af58ad3de7625f8c/media.mp3)
-
----
-
 ## This American Life
 
 ### 594: My Summer Self
@@ -102,6 +102,14 @@ Last updated: 2025-07-10 12:25:35
 
 ## The Joe Rogan Experience
 
+### #2348 - Lukas Nelson
+
+**Released:** 2025-07-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
+
+---
+
 ### #2347 - Paul Stamets
 
 **Released:** 2025-07-09 17:00:00
@@ -115,14 +123,6 @@ Last updated: 2025-07-10 12:25:35
 **Released:** 2025-07-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
-
----
-
-### #2345 - Roman Yampolskiy
-
-**Released:** 2025-07-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2892325778.mp3?updated=1751560868)
 
 ---
 
@@ -177,14 +177,6 @@ Last updated: 2025-07-10 12:25:35
 **Released:** 2025-07-05 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619161c2-f380-4cb2-8236-b2ec014cc38a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### What was the purpose of USAID?
-
-**Released:** 2025-07-03 13:33:42
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e06cafc2-dad6-4709-885f-b30f00dd7d7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -260,24 +252,6 @@ Last updated: 2025-07-10 12:25:35
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: Charlize Theron"
-
-**Released:** 2025-07-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
-
----
-
-### "Nicholas Hoult"
-
-**Released:** 2025-07-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### James Gunn
@@ -301,6 +275,24 @@ Last updated: 2025-07-10 12:25:35
 **Released:** 2025-07-04 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38def48d-78e6-4900-9f19-f43da78ad61b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Charlize Theron"
+
+**Released:** 2025-07-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
+
+---
+
+### "Nicholas Hoult"
+
+**Released:** 2025-07-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
