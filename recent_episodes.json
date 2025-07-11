@@ -7,17 +7,17 @@
     "podcast_name": "Serial"
   },
   {
+    "guid": "b8810444-cb5e-404a-a40b-b9cc5670dee2",
+    "episode_title": "640. Why Governments Are Betting Big on Sports",
+    "release_date": "2025-07-11 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "0689b746-8569-4b01-8fa0-aff0a38f5d63",
     "episode_title": "How to Make Your Own Luck (Update)",
     "release_date": "2025-07-09 00:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "9d2d4f98-14df-41ff-b9cc-716ac637cfec",
-    "episode_title": "639. \u201cThis Country Kicks My Ass All the Time\u201d",
-    "release_date": "2025-07-04 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a42ee754-4030-4e01-b751-901acbc44502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a42ee754-4030-4e01-b751-901acbc44502&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -56,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "37079 at https://www.thisamericanlife.org",
-    "episode_title": "594: My Summer Self",
-    "release_date": "2025-07-06 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "a3aa64df-7056-4fbc-9310-edca9f805d76",
     "episode_title": "Summer School 1: A government's role in the economy is to make us all richer",
     "release_date": "2025-07-09 07:00:59",
@@ -75,6 +68,13 @@
     "release_date": "2025-07-04 20:19:18",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "37079 at https://www.thisamericanlife.org",
+    "episode_title": "594: My Summer Self",
+    "release_date": "2025-07-06 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "d4ab7074-5d64-11f0-a279-f77347d29f5c",
@@ -112,6 +112,104 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/bB7c_MHdCA2kYR9m8YgiK1j4UUn0svD9SIc0W1npjcY",
+    "episode_title": "Advice Line with Norma Kamali of Norma Kamali (2024)",
+    "release_date": "2025-07-10 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/vHBo7s-Zng1uzF2zkXV_3oky_33Q28kK6qqsmedfJMU",
+    "episode_title": "Rick Steves' Europe: Rick Steves (2021)",
+    "release_date": "2025-07-07 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76",
+    "episode_title": "Encore: The King of Tears",
+    "release_date": "2025-07-10 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "ebdbcd8a-76d2-11ef-a8c5-9fe769a9a7d6",
+    "episode_title": "The Moth Podcast: Cycling",
+    "release_date": "2025-07-11 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b67c30d0-76d2-11ef-92d1-3b2adc21cb07",
+    "episode_title": "The Moth Radio Hour: Oh, Brother",
+    "release_date": "2025-07-08 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Qab-KHUhCq9Y4YXOrXler_lAdq4Leg6RT5t0QrmPWBo",
+    "episode_title": "Armchair Anonymous: Sleepwalking II",
+    "release_date": "2025-07-11 06:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/3H7wFsMp2WvlwT50_xm5neQyJYCjTRJC5GatWCc3jbo",
+    "episode_title": "James Gunn",
+    "release_date": "2025-07-09 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/G6DgJVkpTB73Pwu_w_JKc5sO8Z0cqxzZ0cG2k8ayuxc",
+    "episode_title": "Nicholas Hoult Returns",
+    "release_date": "2025-07-07 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "243d85ee-df83-4339-b0ba-2f0f72c0b196",
+    "episode_title": "The Conan and Jordan Show \u2013 Painting The Barn",
+    "release_date": "2025-07-11 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fc8e0b6a-2185-4dba-a354-6d35da5dc82a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fc8e0b6a-2185-4dba-a354-6d35da5dc82a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "a54ecf7d-3358-4f38-ace0-aa8457b1268a",
+    "episode_title": "The Bear and the Bath",
+    "release_date": "2025-07-10 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9096d768-d430-4ae2-9b36-336963dbb237/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9096d768-d430-4ae2-9b36-336963dbb237&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "cb72c4f6-f24c-4a75-9545-846426f3a3c9",
+    "episode_title": "John Mulaney Talks to Ted Danson About \u201cSaturday Night Live\u201d",
+    "release_date": "2025-07-08 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6118b579-8679-4b72-abb1-6bff40cc34a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6118b579-8679-4b72-abb1-6bff40cc34a8&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "52b421c2-01ec-4e48-9a61-75d5906d1d2d",
+    "episode_title": "Ayo Edebiri",
+    "release_date": "2025-07-07 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/577f520f-365e-4f9b-a6a4-575a6de739dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=577f520f-365e-4f9b-a6a4-575a6de739dc&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "56f3205f-1864-43c7-a5dc-4cd62ee52d29",
+    "episode_title": "\"RE-RELEASE: Charlize Theron\"",
+    "release_date": "2025-07-10 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "703c477b-7d1d-4c9b-861f-7f919b711fc0",
+    "episode_title": "\"Nicholas Hoult\"",
+    "release_date": "2025-07-07 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "7d321520-9c0a-4cae-884c-b3150185d61a",
     "episode_title": "Sixdegrees.com: A Social Media Origin Story",
     "release_date": "2025-07-10 09:00:00",
@@ -138,96 +236,5 @@
     "release_date": "2025-07-05 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619161c2-f380-4cb2-8236-b2ec014cc38a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/bB7c_MHdCA2kYR9m8YgiK1j4UUn0svD9SIc0W1npjcY",
-    "episode_title": "Advice Line with Norma Kamali of Norma Kamali (2024)",
-    "release_date": "2025-07-10 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/vHBo7s-Zng1uzF2zkXV_3oky_33Q28kK6qqsmedfJMU",
-    "episode_title": "Rick Steves' Europe: Rick Steves (2021)",
-    "release_date": "2025-07-07 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76",
-    "episode_title": "Encore: The King of Tears",
-    "release_date": "2025-07-10 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "b67c30d0-76d2-11ef-92d1-3b2adc21cb07",
-    "episode_title": "The Moth Radio Hour: Oh, Brother",
-    "release_date": "2025-07-08 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "8944cfae-51d4-11f0-8522-27dc4c0170a8",
-    "episode_title": "The Moth Podcast: Joy and Pain",
-    "release_date": "2025-07-04 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7920529482.mp3?updated=1750864235",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "a54ecf7d-3358-4f38-ace0-aa8457b1268a",
-    "episode_title": "The Bear and the Bath",
-    "release_date": "2025-07-10 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9096d768-d430-4ae2-9b36-336963dbb237/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9096d768-d430-4ae2-9b36-336963dbb237&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "cb72c4f6-f24c-4a75-9545-846426f3a3c9",
-    "episode_title": "John Mulaney Talks to Ted Danson About \u201cSaturday Night Live\u201d",
-    "release_date": "2025-07-08 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6118b579-8679-4b72-abb1-6bff40cc34a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6118b579-8679-4b72-abb1-6bff40cc34a8&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "52b421c2-01ec-4e48-9a61-75d5906d1d2d",
-    "episode_title": "Ayo Edebiri",
-    "release_date": "2025-07-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/577f520f-365e-4f9b-a6a4-575a6de739dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=577f520f-365e-4f9b-a6a4-575a6de739dc&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/3H7wFsMp2WvlwT50_xm5neQyJYCjTRJC5GatWCc3jbo",
-    "episode_title": "James Gunn",
-    "release_date": "2025-07-09 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/G6DgJVkpTB73Pwu_w_JKc5sO8Z0cqxzZ0cG2k8ayuxc",
-    "episode_title": "Nicholas Hoult Returns",
-    "release_date": "2025-07-07 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ktZH88Zap44FhwtaWDzh3GAVS2u58hfebm1dcABK8qI",
-    "episode_title": "Armchair Anonymous: 4th of July",
-    "release_date": "2025-07-04 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/38def48d-78e6-4900-9f19-f43da78ad61b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "56f3205f-1864-43c7-a5dc-4cd62ee52d29",
-    "episode_title": "\"RE-RELEASE: Charlize Theron\"",
-    "release_date": "2025-07-10 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "703c477b-7d1d-4c9b-861f-7f919b711fc0",
-    "episode_title": "\"Nicholas Hoult\"",
-    "release_date": "2025-07-07 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
