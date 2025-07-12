@@ -21,6 +21,27 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "a28424f1-f91f-4321-b0cd-1a0539fe66d4",
+    "episode_title": "Made in America",
+    "release_date": "2025-07-11 22:25:07",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "a3aa64df-7056-4fbc-9310-edca9f805d76",
+    "episode_title": "Summer School 1: A government's role in the economy is to make us all richer",
+    "release_date": "2025-07-09 07:00:59",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "68712654374cdd852ad250df",
+    "episode_title": "How to find humor in life's absurdity | Maira Kalman (re-release)",
+    "release_date": "2025-07-12 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68712654374cdd852ad250df/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6871255e610560d3ef51f231",
     "episode_title": "The most powerful predictor of team success | Rafael Chiuzi",
     "release_date": "2025-07-11 15:09:38",
@@ -49,32 +70,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "686be18551ef1700a6c0404a",
-    "episode_title": "The inside story of Notre-Dame\u2019s incredible reconstruction | Philippe Villeneuve",
-    "release_date": "2025-07-07 15:02:29",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686be18551ef1700a6c0404a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37079 at https://www.thisamericanlife.org",
     "episode_title": "594: My Summer Self",
     "release_date": "2025-07-06 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3",
     "podcast_name": "This American Life"
-  },
-  {
-    "guid": "a28424f1-f91f-4321-b0cd-1a0539fe66d4",
-    "episode_title": "Made in America",
-    "release_date": "2025-07-11 22:25:07",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "a3aa64df-7056-4fbc-9310-edca9f805d76",
-    "episode_title": "Summer School 1: A government's role in the economy is to make us all richer",
-    "release_date": "2025-07-09 07:00:59",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
   },
   {
     "guid": "d4ab7074-5d64-11f0-a279-f77347d29f5c",
@@ -105,18 +105,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "0af5017c-41fa-4c96-b981-8ee85ded33f4",
-    "episode_title": "Roman Mars's Guide to San Francisco",
-    "release_date": "2025-07-11 17:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "e2d98d12-b50c-431b-b9e2-fbf7e2a5102d",
-    "episode_title": "Food Deserts",
-    "release_date": "2025-07-08 20:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "344bce94-2b9c-4c98-945d-b2fa0118626a",
+    "episode_title": "Selects: Child Labor: Not Funny",
+    "release_date": "2025-07-12 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/344bce94-2b9c-4c98-945d-b2fa0118626a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "7d321520-9c0a-4cae-884c-b3150185d61a",
@@ -140,18 +133,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "619161c2-f380-4cb2-8236-b2ec014cc38a",
-    "episode_title": "Selects: How Coelacanths Work",
-    "release_date": "2025-07-05 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619161c2-f380-4cb2-8236-b2ec014cc38a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "0af5017c-41fa-4c96-b981-8ee85ded33f4",
+    "episode_title": "Roman Mars's Guide to San Francisco",
+    "release_date": "2025-07-11 17:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
-    "guid": "06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76",
-    "episode_title": "Encore: The King of Tears",
-    "release_date": "2025-07-10 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "e2d98d12-b50c-431b-b9e2-fbf7e2a5102d",
+    "episode_title": "Food Deserts",
+    "release_date": "2025-07-08 20:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/bB7c_MHdCA2kYR9m8YgiK1j4UUn0svD9SIc0W1npjcY",
@@ -166,6 +159,27 @@
     "release_date": "2025-07-07 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76",
+    "episode_title": "Encore: The King of Tears",
+    "release_date": "2025-07-10 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "ebdbcd8a-76d2-11ef-a8c5-9fe769a9a7d6",
+    "episode_title": "The Moth Podcast: Cycling",
+    "release_date": "2025-07-11 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b67c30d0-76d2-11ef-92d1-3b2adc21cb07",
+    "episode_title": "The Moth Radio Hour: Oh, Brother",
+    "release_date": "2025-07-08 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "243d85ee-df83-4339-b0ba-2f0f72c0b196",
@@ -196,34 +210,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "56f3205f-1864-43c7-a5dc-4cd62ee52d29",
-    "episode_title": "\"RE-RELEASE: Charlize Theron\"",
-    "release_date": "2025-07-10 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "703c477b-7d1d-4c9b-861f-7f919b711fc0",
-    "episode_title": "\"Nicholas Hoult\"",
-    "release_date": "2025-07-07 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "ebdbcd8a-76d2-11ef-a8c5-9fe769a9a7d6",
-    "episode_title": "The Moth Podcast: Cycling",
-    "release_date": "2025-07-11 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b67c30d0-76d2-11ef-92d1-3b2adc21cb07",
-    "episode_title": "The Moth Radio Hour: Oh, Brother",
-    "release_date": "2025-07-08 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/Qab-KHUhCq9Y4YXOrXler_lAdq4Leg6RT5t0QrmPWBo",
     "episode_title": "Armchair Anonymous: Sleepwalking II",
     "release_date": "2025-07-11 06:35:00",
@@ -243,5 +229,19 @@
     "release_date": "2025-07-07 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "56f3205f-1864-43c7-a5dc-4cd62ee52d29",
+    "episode_title": "\"RE-RELEASE: Charlize Theron\"",
+    "release_date": "2025-07-10 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "703c477b-7d1d-4c9b-861f-7f919b711fc0",
+    "episode_title": "\"Nicholas Hoult\"",
+    "release_date": "2025-07-07 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
