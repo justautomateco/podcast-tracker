@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-11 12:24:33
+Last updated: 2025-07-12 01:05:04
 
 ## Serial
 
@@ -31,6 +31,14 @@ Last updated: 2025-07-11 12:24:33
 ---
 
 ## TED Talks Daily
+
+### The most powerful predictor of team success | Rafael Chiuzi
+
+**Released:** 2025-07-11 15:09:38
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6871255e610560d3ef51f231/media.mp3)
+
+---
 
 ### A story of moral imagination and bold entrepreneurship | Sitoyo Lopokoiyit and Jacqueline Novogratz
 
@@ -64,32 +72,6 @@ Last updated: 2025-07-11 12:24:33
 
 ---
 
-### Sunday Pick: The Science of Recharging on Weekends and Vacations | ReThinking with Adam Grant
-
-**Released:** 2025-07-06 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68659d8e31a42ee04e0158fd/media.mp3)
-
----
-
-## Planet Money
-
-### Summer School 1: A government's role in the economy is to make us all richer
-
-**Released:** 2025-07-09 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
-
----
-
-### The simple math of the big bill
-
-**Released:** 2025-07-04 20:19:18
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5332918582.mp3?d=1932&size=30915274&e=1255224475&t=podcast&p=510289)
-
----
-
 ## This American Life
 
 ### 594: My Summer Self
@@ -97,6 +79,24 @@ Last updated: 2025-07-11 12:24:33
 **Released:** 2025-07-06 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
+
+---
+
+## Planet Money
+
+### Made in America
+
+**Released:** 2025-07-11 22:25:07
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
+
+---
+
+### Summer School 1: A government's role in the economy is to make us all richer
+
+**Released:** 2025-07-09 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
 
 ---
 
@@ -138,11 +138,63 @@ Last updated: 2025-07-11 12:24:33
 
 ## 99% Invisible
 
+### Roman Mars's Guide to San Francisco
+
+**Released:** 2025-07-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
+
+---
+
 ### Food Deserts
 
 **Released:** 2025-07-08 20:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+### Sixdegrees.com: A Social Media Origin Story
+
+**Released:** 2025-07-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: 8 Track Cartridges
+
+**Released:** 2025-07-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1849a03-1f48-42c5-8363-b30f0145695d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Sherlock Holmes: The Man, The Myth
+
+**Released:** 2025-07-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e37f7fba-c88b-4fe2-a2c1-b314001ebe0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Coelacanths Work
+
+**Released:** 2025-07-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619161c2-f380-4cb2-8236-b2ec014cc38a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Revisionist History
+
+### Encore: The King of Tears
+
+**Released:** 2025-07-10 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -161,60 +213,6 @@ Last updated: 2025-07-11 12:24:33
 **Released:** 2025-07-07 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6fb813e5-33d7-4bcd-a689-c57c6d426b20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Encore: The King of Tears
-
-**Released:** 2025-07-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Podcast: Cycling
-
-**Released:** 2025-07-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517)
-
----
-
-### The Moth Radio Hour: Oh, Brother
-
-**Released:** 2025-07-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Sleepwalking II
-
-**Released:** 2025-07-11 06:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Gunn
-
-**Released:** 2025-07-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nicholas Hoult Returns
-
-**Released:** 2025-07-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,37 +268,47 @@ Last updated: 2025-07-11 12:24:33
 
 ---
 
-## Stuff You Should Know
+## The Moth
 
-### Sixdegrees.com: A Social Media Origin Story
+### The Moth Podcast: Cycling
 
-**Released:** 2025-07-10 09:00:00
+**Released:** 2025-07-11 04:25:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: 8 Track Cartridges
-
-**Released:** 2025-07-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1849a03-1f48-42c5-8363-b30f0145695d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517)
 
 ---
 
-### Sherlock Holmes: The Man, The Myth
+### The Moth Radio Hour: Oh, Brother
 
-**Released:** 2025-07-08 09:00:00
+**Released:** 2025-07-08 04:25:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e37f7fba-c88b-4fe2-a2c1-b314001ebe0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
 
 ---
 
-### Selects: How Coelacanths Work
+## Armchair Expert
 
-**Released:** 2025-07-05 09:00:00
+### Armchair Anonymous: Sleepwalking II
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619161c2-f380-4cb2-8236-b2ec014cc38a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-07-11 06:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James Gunn
+
+**Released:** 2025-07-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nicholas Hoult Returns
+
+**Released:** 2025-07-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
