@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-12 12:22:08
+Last updated: 2025-07-13 01:09:38
 
 ## Serial
 
@@ -9,42 +9,6 @@ Last updated: 2025-07-12 12:22:08
 **Released:** 2025-07-10 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/2ee1a2e9-75bf-4f07-8b4f-e4de1b215381/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=2ee1a2e9-75bf-4f07-8b4f-e4de1b215381&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### 640. Why Governments Are Betting Big on Sports
-
-**Released:** 2025-07-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
-
----
-
-### How to Make Your Own Luck (Update)
-
-**Released:** 2025-07-09 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Made in America
-
-**Released:** 2025-07-11 22:25:07
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
-
----
-
-### Summer School 1: A government's role in the economy is to make us all richer
-
-**Released:** 2025-07-09 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
 
 ---
 
@@ -87,6 +51,42 @@ Last updated: 2025-07-12 12:22:08
 **Released:** 2025-07-08 15:01:29
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686d31defe0897380eafcef6/media.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 640. Why Governments Are Betting Big on Sports
+
+**Released:** 2025-07-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
+
+---
+
+### How to Make Your Own Luck (Update)
+
+**Released:** 2025-07-09 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Made in America
+
+**Released:** 2025-07-11 22:25:07
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
+
+---
+
+### Summer School 1: A government's role in the economy is to make us all richer
+
+**Released:** 2025-07-09 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
 
 ---
 
@@ -136,6 +136,24 @@ Last updated: 2025-07-12 12:22:08
 
 ---
 
+## 99% Invisible
+
+### Roman Mars's Guide to San Francisco
+
+**Released:** 2025-07-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
+
+---
+
+### Food Deserts
+
+**Released:** 2025-07-08 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: Child Labor: Not Funny
@@ -167,24 +185,6 @@ Last updated: 2025-07-12 12:22:08
 **Released:** 2025-07-08 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e37f7fba-c88b-4fe2-a2c1-b314001ebe0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
-
----
-
-### Food Deserts
-
-**Released:** 2025-07-08 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
 
 ---
 
@@ -234,6 +234,32 @@ Last updated: 2025-07-12 12:22:08
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Sleepwalking II
+
+**Released:** 2025-07-11 06:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James Gunn
+
+**Released:** 2025-07-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nicholas Hoult Returns
+
+**Released:** 2025-07-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### The Conan and Jordan Show – Painting The Barn
@@ -265,32 +291,6 @@ Last updated: 2025-07-12 12:22:08
 **Released:** 2025-07-07 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/577f520f-365e-4f9b-a6a4-575a6de739dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=577f520f-365e-4f9b-a6a4-575a6de739dc&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Sleepwalking II
-
-**Released:** 2025-07-11 06:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Gunn
-
-**Released:** 2025-07-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nicholas Hoult Returns
-
-**Released:** 2025-07-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
