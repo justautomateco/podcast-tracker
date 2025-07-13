@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-13 01:09:38
+Last updated: 2025-07-13 12:22:56
 
 ## Serial
 
@@ -12,7 +12,33 @@ Last updated: 2025-07-13 01:09:38
 
 ---
 
+## Freakonomics Radio
+
+### 640. Why Governments Are Betting Big on Sports
+
+**Released:** 2025-07-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
+
+---
+
+### How to Make Your Own Luck (Update)
+
+**Released:** 2025-07-09 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
+
+### Sunday Pick: Barcelona: streetwear with a political twist | Far Flung
+
+**Released:** 2025-07-13 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687127f7c8b2c1159db05185/media.mp3)
+
+---
 
 ### How to find humor in life's absurdity | Maira Kalman (re-release)
 
@@ -46,32 +72,6 @@ Last updated: 2025-07-13 01:09:38
 
 ---
 
-### The miraculous device that saved my farm — and changed my life | Josephine Waweru
-
-**Released:** 2025-07-08 15:01:29
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686d31defe0897380eafcef6/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 640. Why Governments Are Betting Big on Sports
-
-**Released:** 2025-07-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
-
----
-
-### How to Make Your Own Luck (Update)
-
-**Released:** 2025-07-09 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Made in America
@@ -100,32 +100,6 @@ Last updated: 2025-07-13 01:09:38
 
 ---
 
-## The Joe Rogan Experience
-
-### #2348 - Lukas Nelson
-
-**Released:** 2025-07-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
-
----
-
-### #2347 - Paul Stamets
-
-**Released:** 2025-07-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
-
----
-
-### #2346 - Jim Lampley
-
-**Released:** 2025-07-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Passion Pill
@@ -151,6 +125,32 @@ Last updated: 2025-07-13 01:09:38
 **Released:** 2025-07-08 20:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2348 - Lukas Nelson
+
+**Released:** 2025-07-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
+
+---
+
+### #2347 - Paul Stamets
+
+**Released:** 2025-07-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
+
+---
+
+### #2346 - Jim Lampley
+
+**Released:** 2025-07-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
 
 ---
 
@@ -234,29 +234,21 @@ Last updated: 2025-07-13 01:09:38
 
 ---
 
-## Armchair Expert
+## SmartLess 
 
-### Armchair Anonymous: Sleepwalking II
+### "RE-RELEASE: Charlize Theron"
 
-**Released:** 2025-07-11 06:35:00
+**Released:** 2025-07-10 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Gunn
-
-**Released:** 2025-07-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
 
 ---
 
-### Nicholas Hoult Returns
+### "Nicholas Hoult"
 
-**Released:** 2025-07-07 07:35:00
+**Released:** 2025-07-07 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
 
 ---
 
@@ -294,21 +286,29 @@ Last updated: 2025-07-13 01:09:38
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "RE-RELEASE: Charlize Theron"
+### Armchair Anonymous: Sleepwalking II
 
-**Released:** 2025-07-10 07:00:00
+**Released:** 2025-07-11 06:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "Nicholas Hoult"
+### James Gunn
 
-**Released:** 2025-07-07 07:01:00
+**Released:** 2025-07-09 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e975c365-1b13-45ab-bf03-7edbf39ada48/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e975c365-1b13-45ab-bf03-7edbf39ada48&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nicholas Hoult Returns
+
+**Released:** 2025-07-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
