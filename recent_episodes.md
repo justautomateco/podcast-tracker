@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-13 12:22:56
+Last updated: 2025-07-14 01:06:42
 
 ## Serial
 
@@ -92,11 +92,37 @@ Last updated: 2025-07-13 12:22:56
 
 ## This American Life
 
-### 594: My Summer Self
+### 577: Something Only I Can See
 
-**Released:** 2025-07-06 18:00:00
+**Released:** 2025-07-13 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2348 - Lukas Nelson
+
+**Released:** 2025-07-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
+
+---
+
+### #2347 - Paul Stamets
+
+**Released:** 2025-07-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
+
+---
+
+### #2346 - Jim Lampley
+
+**Released:** 2025-07-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
 
 ---
 
@@ -125,32 +151,6 @@ Last updated: 2025-07-13 12:22:56
 **Released:** 2025-07-08 20:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2348 - Lukas Nelson
-
-**Released:** 2025-07-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
-
----
-
-### #2347 - Paul Stamets
-
-**Released:** 2025-07-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
-
----
-
-### #2346 - Jim Lampley
-
-**Released:** 2025-07-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
 
 ---
 
@@ -188,6 +188,16 @@ Last updated: 2025-07-13 12:22:56
 
 ---
 
+## Revisionist History
+
+### Encore: The King of Tears
+
+**Released:** 2025-07-10 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Norma Kamali of Norma Kamali (2024)
@@ -206,16 +216,6 @@ Last updated: 2025-07-13 12:22:56
 
 ---
 
-## Revisionist History
-
-### Encore: The King of Tears
-
-**Released:** 2025-07-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Cycling
@@ -231,6 +231,32 @@ Last updated: 2025-07-13 12:22:56
 **Released:** 2025-07-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Sleepwalking II
+
+**Released:** 2025-07-11 06:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James Gunn
+
+**Released:** 2025-07-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nicholas Hoult Returns
+
+**Released:** 2025-07-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -283,32 +309,6 @@ Last updated: 2025-07-13 12:22:56
 **Released:** 2025-07-07 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/577f520f-365e-4f9b-a6a4-575a6de739dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=577f520f-365e-4f9b-a6a4-575a6de739dc&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Sleepwalking II
-
-**Released:** 2025-07-11 06:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Gunn
-
-**Released:** 2025-07-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nicholas Hoult Returns
-
-**Released:** 2025-07-07 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/74367aa1-171b-4331-8a4a-e205beba38b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
