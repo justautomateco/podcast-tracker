@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-14 12:26:39
+Last updated: 2025-07-15 01:06:04
 
 ## Serial
 
@@ -30,7 +30,43 @@ Last updated: 2025-07-14 12:26:39
 
 ---
 
+## Planet Money
+
+### Made in America
+
+**Released:** 2025-07-11 22:25:07
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
+
+---
+
+### Summer School 1: A government's role in the economy is to make us all richer
+
+**Released:** 2025-07-09 07:00:59
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 577: Something Only I Can See
+
+**Released:** 2025-07-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
 ## TED Talks Daily
+
+### An unexpected plan for peace in the Middle East | Nada Majdalani
+
+**Released:** 2025-07-14 14:55:48
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68751a75610560d3ef2b611d/media.mp3)
+
+---
 
 ### Sunday Pick: Barcelona: streetwear with a political twist | Far Flung
 
@@ -64,42 +100,6 @@ Last updated: 2025-07-14 12:26:39
 
 ---
 
-### "Marigolds," a poem about wonder | Safiya Sinclair
-
-**Released:** 2025-07-09 15:02:22
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686e847e9af244138c7f4f67/media.mp3)
-
----
-
-## Planet Money
-
-### Made in America
-
-**Released:** 2025-07-11 22:25:07
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
-
----
-
-### Summer School 1: A government's role in the economy is to make us all richer
-
-**Released:** 2025-07-09 07:00:59
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2348 - Lukas Nelson
@@ -128,11 +128,29 @@ Last updated: 2025-07-14 12:26:39
 
 ## Hidden Brain
 
-### You 2.0: The Passion Pill
+### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
 
-**Released:** 2025-07-07 19:00:00
+**Released:** 2025-07-14 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/983cf1a2-79c1-40c7-8917-639b38b2de21/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=983cf1a2-79c1-40c7-8917-639b38b2de21&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Roman Mars's Guide to San Francisco
+
+**Released:** 2025-07-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
+
+---
+
+### Food Deserts
+
+**Released:** 2025-07-08 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
 
 ---
 
@@ -170,24 +188,6 @@ Last updated: 2025-07-14 12:26:39
 
 ---
 
-## 99% Invisible
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
-
----
-
-### Food Deserts
-
-**Released:** 2025-07-08 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### Encore: The King of Tears
@@ -213,50 +213,6 @@ Last updated: 2025-07-14 12:26:39
 **Released:** 2025-07-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6891626208.mp3?updated=1751396851)
-
----
-
-## How I Built This
-
-### Chobani: Hamdi Ulukaya (2022)
-
-**Released:** 2025-07-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Norma Kamali of Norma Kamali (2024)
-
-**Released:** 2025-07-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Jerrod Carmichael Returns
-
-**Released:** 2025-07-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Sleepwalking II
-
-**Released:** 2025-07-11 06:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James Gunn
-
-**Released:** 2025-07-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -309,6 +265,50 @@ Last updated: 2025-07-14 12:26:39
 **Released:** 2025-07-10 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Jerrod Carmichael Returns
+
+**Released:** 2025-07-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Sleepwalking II
+
+**Released:** 2025-07-11 06:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James Gunn
+
+**Released:** 2025-07-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Chobani: Hamdi Ulukaya (2022)
+
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Norma Kamali of Norma Kamali (2024)
+
+**Released:** 2025-07-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
