@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-15 12:26:31
+Last updated: 2025-07-16 01:04:26
 
 ## Serial
 
@@ -22,14 +22,6 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-### How to Make Your Own Luck (Update)
-
-**Released:** 2025-07-09 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/119789f4-3640-47f8-9003-43e644c94e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=119789f4-3640-47f8-9003-43e644c94e26&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 577: Something Only I Can See
@@ -41,6 +33,14 @@ Last updated: 2025-07-15 12:26:31
 ---
 
 ## TED Talks Daily
+
+### Why you should be able to vote on your phone | Bradley Tusk
+
+**Released:** 2025-07-15 15:19:18
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68766a40610560d3ef8f8c7b/media.mp3)
+
+---
 
 ### An unexpected plan for peace in the Middle East | Nada Majdalani
 
@@ -74,14 +74,6 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-### A story of moral imagination and bold entrepreneurship | Sitoyo Lopokoiyit and Jacqueline Novogratz
-
-**Released:** 2025-07-10 14:54:49
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/686fd439610560d3eff8ba37/media.mp3)
-
----
-
 ## Planet Money
 
 ### Made in America
@@ -102,6 +94,14 @@ Last updated: 2025-07-15 12:26:31
 
 ## The Joe Rogan Experience
 
+### #2349 - Danny Jones
+
+**Released:** 2025-07-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443)
+
+---
+
 ### #2348 - Lukas Nelson
 
 **Released:** 2025-07-10 17:00:00
@@ -118,14 +118,6 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-### #2346 - Jim Lampley
-
-**Released:** 2025-07-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9132860471.mp3?updated=1751993089)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
@@ -138,6 +130,14 @@ Last updated: 2025-07-15 12:26:31
 
 ## 99% Invisible
 
+### Neil Young’s iPod Killer
+
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
+
+---
+
 ### Roman Mars's Guide to San Francisco
 
 **Released:** 2025-07-11 17:00:00
@@ -146,11 +146,21 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-### Food Deserts
+## How I Built This
 
-**Released:** 2025-07-08 20:30:00
+### Chobani: Hamdi Ulukaya (2022)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8392c3eb-992f-4f0a-9012-6643295191b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8392c3eb-992f-4f0a-9012-6643295191b6&feed=BqbsxVfO)
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Norma Kamali of Norma Kamali (2024)
+
+**Released:** 2025-07-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,24 +198,6 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-## How I Built This
-
-### Chobani: Hamdi Ulukaya (2022)
-
-**Released:** 2025-07-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Norma Kamali of Norma Kamali (2024)
-
-**Released:** 2025-07-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Encore: The King of Tears
@@ -213,6 +205,24 @@ Last updated: 2025-07-15 12:26:31
 **Released:** 2025-07-10 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Curtain Call
+
+**Released:** 2025-07-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
+
+---
+
+### The Moth Podcast: Cycling
+
+**Released:** 2025-07-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517)
 
 ---
 
@@ -242,21 +252,21 @@ Last updated: 2025-07-15 12:26:31
 
 ---
 
-## The Moth
+## SmartLess 
 
-### The Moth Radio Hour: Curtain Call
+### "Graydon Carter"
 
-**Released:** 2025-07-15 04:25:00
+**Released:** 2025-07-14 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
 
 ---
 
-### The Moth Podcast: Cycling
+### "RE-RELEASE: Charlize Theron"
 
-**Released:** 2025-07-11 04:25:00
+**Released:** 2025-07-10 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
 
 ---
 
@@ -291,24 +301,6 @@ Last updated: 2025-07-15 12:26:31
 **Released:** 2025-07-09 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Graydon Carter"
-
-**Released:** 2025-07-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Charlize Theron"
-
-**Released:** 2025-07-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
 
 ---
 
