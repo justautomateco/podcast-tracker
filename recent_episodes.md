@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-16 01:04:26
+Last updated: 2025-07-16 12:26:40
 
 ## Serial
 
@@ -9,26 +9,6 @@ Last updated: 2025-07-16 01:04:26
 **Released:** 2025-07-10 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/2ee1a2e9-75bf-4f07-8b4f-e4de1b215381/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=2ee1a2e9-75bf-4f07-8b4f-e4de1b215381&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### 640. Why Governments Are Betting Big on Sports
-
-**Released:** 2025-07-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
 
 ---
 
@@ -74,7 +54,35 @@ Last updated: 2025-07-16 01:04:26
 
 ---
 
+## This American Life
+
+### 577: Something Only I Can See
+
+**Released:** 2025-07-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 640. Why Governments Are Betting Big on Sports
+
+**Released:** 2025-07-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
+
+### Summer School 2: How taxes change behavior and the economy
+
+**Released:** 2025-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8323898199.mp3?d=2230&size=35691294&e=1255755376&t=podcast&p=510289)
+
+---
 
 ### Made in America
 
@@ -84,11 +92,21 @@ Last updated: 2025-07-16 01:04:26
 
 ---
 
-### Summer School 1: A government's role in the economy is to make us all richer
+## 99% Invisible
 
-**Released:** 2025-07-09 07:00:59
+### Neil Young’s iPod Killer
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1091267621.mp3?d=2146&size=34351317&e=1255376133&t=podcast&p=510289)
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
+
+---
+
+### Roman Mars's Guide to San Francisco
+
+**Released:** 2025-07-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
 
 ---
 
@@ -128,43 +146,15 @@ Last updated: 2025-07-16 01:04:26
 
 ---
 
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Chobani: Hamdi Ulukaya (2022)
-
-**Released:** 2025-07-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Norma Kamali of Norma Kamali (2024)
-
-**Released:** 2025-07-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: Bengal Cats
+
+**Released:** 2025-07-16 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bfafca5d-bf89-4b75-bf8a-b3150155f756/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Great Big Yarn of Mel's Hole
 
@@ -187,14 +177,6 @@ Last updated: 2025-07-16 01:04:26
 **Released:** 2025-07-10 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: 8 Track Cartridges
-
-**Released:** 2025-07-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1849a03-1f48-42c5-8363-b30f0145695d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -254,6 +236,14 @@ Last updated: 2025-07-16 01:04:26
 
 ## SmartLess 
 
+### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
+
+**Released:** 2025-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
+
+---
+
 ### "Graydon Carter"
 
 **Released:** 2025-07-14 07:01:00
@@ -271,6 +261,14 @@ Last updated: 2025-07-16 01:04:26
 ---
 
 ## Armchair Expert
+
+### Bridget Read (on multilevel marketing)
+
+**Released:** 2025-07-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f371ce77-58a7-43e8-8790-1fbf1463f9bf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Listen Now: Flesh and Code
 
@@ -296,11 +294,21 @@ Last updated: 2025-07-16 01:04:26
 
 ---
 
-### James Gunn
+## How I Built This
 
-**Released:** 2025-07-09 07:35:00
+### Chobani: Hamdi Ulukaya (2022)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/350084af-4c0d-42e6-812d-f5a63d16455d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Norma Kamali of Norma Kamali (2024)
+
+**Released:** 2025-07-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
