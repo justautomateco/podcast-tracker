@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-16 12:26:40
+Last updated: 2025-07-17 01:05:02
 
 ## Serial
 
@@ -12,7 +12,35 @@ Last updated: 2025-07-16 12:26:40
 
 ---
 
+## Freakonomics Radio
+
+### 640. Why Governments Are Betting Big on Sports
+
+**Released:** 2025-07-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 577: Something Only I Can See
+
+**Released:** 2025-07-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
 ## TED Talks Daily
+
+### We don't "move on" from grief. We move forward with it | Nora McInerny (re-release)
+
+**Released:** 2025-07-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6876ceaf610560d3efad1a81/media.mp3)
+
+---
 
 ### Why you should be able to vote on your phone | Bradley Tusk
 
@@ -46,34 +74,6 @@ Last updated: 2025-07-16 12:26:40
 
 ---
 
-### The most powerful predictor of team success | Rafael Chiuzi
-
-**Released:** 2025-07-11 15:09:38
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6871255e610560d3ef51f231/media.mp3)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
-
----
-
-## Freakonomics Radio
-
-### 640. Why Governments Are Betting Big on Sports
-
-**Released:** 2025-07-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Summer School 2: How taxes change behavior and the economy
@@ -92,25 +92,15 @@ Last updated: 2025-07-16 12:26:40
 
 ---
 
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2350 - Ryan Callaghan
+
+**Released:** 2025-07-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7482151468.mp3?updated=1752683532)
+
+---
 
 ### #2349 - Danny Jones
 
@@ -128,14 +118,6 @@ Last updated: 2025-07-16 12:26:40
 
 ---
 
-### #2347 - Paul Stamets
-
-**Released:** 2025-07-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6926384936.mp3?updated=1752092291)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
@@ -143,6 +125,24 @@ Last updated: 2025-07-16 12:26:40
 **Released:** 2025-07-14 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Neil Young’s iPod Killer
+
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
+
+---
+
+### Roman Mars's Guide to San Francisco
+
+**Released:** 2025-07-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
 
 ---
 
@@ -187,6 +187,24 @@ Last updated: 2025-07-16 12:26:40
 **Released:** 2025-07-10 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Chobani: Hamdi Ulukaya (2022)
+
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Norma Kamali of Norma Kamali (2024)
+
+**Released:** 2025-07-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -291,24 +309,6 @@ Last updated: 2025-07-16 12:26:40
 **Released:** 2025-07-11 06:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Chobani: Hamdi Ulukaya (2022)
-
-**Released:** 2025-07-14 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Norma Kamali of Norma Kamali (2024)
-
-**Released:** 2025-07-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
