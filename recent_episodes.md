@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-17 01:05:02
-
-## Serial
-
-### The Retrievals, Season 2 - Trailer
-
-**Released:** 2025-07-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/2ee1a2e9-75bf-4f07-8b4f-e4de1b215381/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=2ee1a2e9-75bf-4f07-8b4f-e4de1b215381&feed=PpzWFGhg)
-
----
+Last updated: 2025-07-17 12:26:03
 
 ## Freakonomics Radio
 
@@ -19,16 +9,6 @@ Last updated: 2025-07-17 01:05:02
 **Released:** 2025-07-11 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
 
 ---
 
@@ -118,6 +98,16 @@ Last updated: 2025-07-17 01:05:02
 
 ---
 
+## This American Life
+
+### 577: Something Only I Can See
+
+**Released:** 2025-07-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
 ## Hidden Brain
 
 ### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
@@ -172,25 +162,15 @@ Last updated: 2025-07-17 01:05:02
 
 ---
 
-### Sixdegrees.com: A Social Media Origin Story
-
-**Released:** 2025-07-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### Encore: The King of Tears
-
-**Released:** 2025-07-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/06cb8dc0-aa2a-4fbf-a5a8-b31500f2df76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
+
+### Advice Line with Justin McLeod of Hinge
+
+**Released:** 2025-07-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Chobani: Hamdi Ulukaya (2022)
 
@@ -200,11 +180,13 @@ Last updated: 2025-07-17 01:05:02
 
 ---
 
-### Advice Line with Norma Kamali of Norma Kamali (2024)
+## Revisionist History
 
-**Released:** 2025-07-10 07:10:00
+### Encore: Analysis, Parapraxis, Elvis
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f59a14e-e154-402b-8899-3aa2f17b8fd0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -228,6 +210,14 @@ Last updated: 2025-07-17 01:05:02
 
 ## Conan O'Brien Needs A Friend
 
+### Marc Maron Returns
+
+**Released:** 2025-07-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
+
+---
+
 ### Kesha
 
 **Released:** 2025-07-14 04:05:00
@@ -241,14 +231,6 @@ Last updated: 2025-07-17 01:05:02
 **Released:** 2025-07-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fc8e0b6a-2185-4dba-a354-6d35da5dc82a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fc8e0b6a-2185-4dba-a354-6d35da5dc82a&feed=dHoohVNH)
-
----
-
-### The Bear and the Bath
-
-**Released:** 2025-07-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9096d768-d430-4ae2-9b36-336963dbb237/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9096d768-d430-4ae2-9b36-336963dbb237&feed=dHoohVNH)
 
 ---
 
@@ -267,14 +249,6 @@ Last updated: 2025-07-17 01:05:02
 **Released:** 2025-07-14 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Charlize Theron"
-
-**Released:** 2025-07-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/20c476c4-7a35-49b0-a3bb-5efb308301e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=20c476c4-7a35-49b0-a3bb-5efb308301e4&feed=hNaFxXpO)
 
 ---
 
