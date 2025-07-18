@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-18 01:04:15
+Last updated: 2025-07-18 12:26:13
 
 ## Freakonomics Radio
 
-### 640. Why Governments Are Betting Big on Sports
+### 641. What Does It Cost to Lead a Creative Life?
 
-**Released:** 2025-07-11 10:00:00
+**Released:** 2025-07-18 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e1301c9a-08c1-4835-aef4-161f91b1797b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e1301c9a-08c1-4835-aef4-161f91b1797b&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
 
 ---
 
@@ -72,6 +72,16 @@ Last updated: 2025-07-18 01:04:15
 
 ---
 
+## This American Life
+
+### 577: Something Only I Can See
+
+**Released:** 2025-07-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2351 - James McCann
@@ -95,26 +105,6 @@ Last updated: 2025-07-18 01:04:15
 **Released:** 2025-07-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
-
----
-
-## Hidden Brain
-
-### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
-
-**Released:** 2025-07-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
 
 ---
 
@@ -152,6 +142,16 @@ Last updated: 2025-07-18 01:04:15
 
 ---
 
+## Hidden Brain
+
+### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
+
+**Released:** 2025-07-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Neil Young’s iPod Killer
@@ -170,6 +170,24 @@ Last updated: 2025-07-18 01:04:15
 
 ---
 
+## How I Built This
+
+### Advice Line with Justin McLeod of Hinge
+
+**Released:** 2025-07-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chobani: Hamdi Ulukaya (2022)
+
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Encore: Analysis, Parapraxis, Elvis
@@ -177,24 +195,6 @@ Last updated: 2025-07-18 01:04:15
 **Released:** 2025-07-17 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Curtain Call
-
-**Released:** 2025-07-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
-
----
-
-### The Moth Podcast: Cycling
-
-**Released:** 2025-07-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1569733918.mp3?updated=1751317517)
 
 ---
 
@@ -216,29 +216,21 @@ Last updated: 2025-07-18 01:04:15
 
 ---
 
-### The Conan and Jordan Show – Painting The Barn
+## The Moth
 
-**Released:** 2025-07-11 04:05:00
+### The Moth Podcast: Cruise Control
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fc8e0b6a-2185-4dba-a354-6d35da5dc82a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fc8e0b6a-2185-4dba-a354-6d35da5dc82a&feed=dHoohVNH)
+**Released:** 2025-07-18 04:25:00
 
----
-
-## How I Built This
-
-### Advice Line with Justin McLeod of Hinge
-
-**Released:** 2025-07-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
 
 ---
 
-### Chobani: Hamdi Ulukaya (2022)
+### The Moth Radio Hour: Curtain Call
 
-**Released:** 2025-07-14 07:10:00
+**Released:** 2025-07-15 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
 
 ---
 
@@ -262,6 +254,14 @@ Last updated: 2025-07-18 01:04:15
 
 ## Armchair Expert
 
+### Armchair Anonymous: Cops
+
+**Released:** 2025-07-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Bridget Read (on multilevel marketing)
 
 **Released:** 2025-07-16 07:35:00
@@ -283,14 +283,6 @@ Last updated: 2025-07-18 01:04:15
 **Released:** 2025-07-14 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Sleepwalking II
-
-**Released:** 2025-07-11 06:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/706b612c-6c61-4d8c-9869-af4d09b5faff.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
