@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-17 12:26:03
+Last updated: 2025-07-18 01:04:15
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-07-17 12:26:03
 ---
 
 ## TED Talks Daily
+
+### Why good people become bad bosses | Jamie Woolf and Christopher Bell
+
+**Released:** 2025-07-17 14:56:30
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68790f1e0d2a218993d36936/media.mp3)
+
+---
 
 ### We don't "move on" from grief. We move forward with it | Nora McInerny (re-release)
 
@@ -46,14 +54,6 @@ Last updated: 2025-07-17 12:26:03
 
 ---
 
-### How to find humor in life's absurdity | Maira Kalman (re-release)
-
-**Released:** 2025-07-12 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68712654374cdd852ad250df/media.mp3)
-
----
-
 ## Planet Money
 
 ### Summer School 2: How taxes change behavior and the economy
@@ -74,6 +74,14 @@ Last updated: 2025-07-17 12:26:03
 
 ## The Joe Rogan Experience
 
+### #2351 - James McCann
+
+**Released:** 2025-07-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1702226179.mp3?updated=1752770348)
+
+---
+
 ### #2350 - Ryan Callaghan
 
 **Released:** 2025-07-16 17:00:00
@@ -87,14 +95,6 @@ Last updated: 2025-07-17 12:26:03
 **Released:** 2025-07-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443)
-
----
-
-### #2348 - Lukas Nelson
-
-**Released:** 2025-07-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8078584316.mp3?updated=1752167452)
 
 ---
 
@@ -118,25 +118,15 @@ Last updated: 2025-07-17 12:26:03
 
 ---
 
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### How Alchemy Worked
+
+**Released:** 2025-07-17 16:23:53
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13e6bbc7-5350-4d6b-8d2c-b31d010aed79/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Bengal Cats
 
@@ -162,21 +152,21 @@ Last updated: 2025-07-17 12:26:03
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Justin McLeod of Hinge
+### Neil Young’s iPod Killer
 
-**Released:** 2025-07-17 07:10:00
+**Released:** 2025-07-15 20:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
 
 ---
 
-### Chobani: Hamdi Ulukaya (2022)
+### Roman Mars's Guide to San Francisco
 
-**Released:** 2025-07-14 07:10:00
+**Released:** 2025-07-11 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
 
 ---
 
@@ -231,6 +221,24 @@ Last updated: 2025-07-17 12:26:03
 **Released:** 2025-07-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fc8e0b6a-2185-4dba-a354-6d35da5dc82a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fc8e0b6a-2185-4dba-a354-6d35da5dc82a&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Justin McLeod of Hinge
+
+**Released:** 2025-07-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chobani: Hamdi Ulukaya (2022)
+
+**Released:** 2025-07-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
