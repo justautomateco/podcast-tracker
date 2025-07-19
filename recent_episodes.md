@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-18 12:26:13
+Last updated: 2025-07-19 01:02:49
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-07-18 12:26:13
 ---
 
 ## TED Talks Daily
+
+### The jokes AI won’t tell | Jena Friedman
+
+**Released:** 2025-07-18 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687a604a81b46e5956952841/media.mp3)
+
+---
 
 ### Why good people become bad bosses | Jamie Woolf and Christopher Bell
 
@@ -46,15 +54,23 @@ Last updated: 2025-07-18 12:26:13
 
 ---
 
-### Sunday Pick: Barcelona: streetwear with a political twist | Far Flung
+## Planet Money
 
-**Released:** 2025-07-13 06:00:00
+### Why are we so obsessed with manufacturing?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687127f7c8b2c1159db05185/media.mp3)
+**Released:** 2025-07-18 21:40:41
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1669577855.mp3?d=1364&size=21832603&e=1255880057&t=podcast&p=510289)
 
 ---
 
-## Planet Money
+### Congress has voted to eliminate government funding for public media
+
+**Released:** 2025-07-18 13:06:23
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7923655502.mp3?d=121&size=1938121&e=1269646255&t=podcast&p=510289)
+
+---
 
 ### Summer School 2: How taxes change behavior and the economy
 
@@ -64,25 +80,15 @@ Last updated: 2025-07-18 12:26:13
 
 ---
 
-### Made in America
-
-**Released:** 2025-07-11 22:25:07
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7603437522.mp3?d=1849&size=29596195&e=1255526971&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
-
----
-
 ## The Joe Rogan Experience
+
+### #2352 - James Talarico
+
+**Released:** 2025-07-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562)
+
+---
 
 ### #2351 - James McCann
 
@@ -105,6 +111,26 @@ Last updated: 2025-07-18 12:26:13
 **Released:** 2025-07-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443)
+
+---
+
+## Hidden Brain
+
+### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
+
+**Released:** 2025-07-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Neil Young’s iPod Killer
+
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
 
 ---
 
@@ -139,34 +165,6 @@ Last updated: 2025-07-18 12:26:13
 **Released:** 2025-07-12 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/344bce94-2b9c-4c98-945d-b2fa0118626a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
-
-**Released:** 2025-07-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
-### Roman Mars's Guide to San Francisco
-
-**Released:** 2025-07-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d51243d8-a2e4-4920-97d1-2604bad9295d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d51243d8-a2e4-4920-97d1-2604bad9295d&feed=BqbsxVfO)
 
 ---
 
@@ -234,24 +232,6 @@ Last updated: 2025-07-18 12:26:13
 
 ---
 
-## SmartLess 
-
-### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
-
-**Released:** 2025-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
-
----
-
-### "Graydon Carter"
-
-**Released:** 2025-07-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Cops
@@ -283,6 +263,24 @@ Last updated: 2025-07-18 12:26:13
 **Released:** 2025-07-14 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
+
+**Released:** 2025-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
+
+---
+
+### "Graydon Carter"
+
+**Released:** 2025-07-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
 
 ---
 
