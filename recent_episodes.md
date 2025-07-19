@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-19 01:02:49
+Last updated: 2025-07-19 12:23:10
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-07-19 01:02:49
 ---
 
 ## TED Talks Daily
+
+### Stories of photographing monumental people -- from Michelle Obama to Stephen Hawking | Platon
+
+**Released:** 2025-07-19 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6879347981b46e595644cd03/media.mp3)
+
+---
 
 ### The jokes AI won’t tell | Jena Friedman
 
@@ -46,14 +54,6 @@ Last updated: 2025-07-19 01:02:49
 
 ---
 
-### An unexpected plan for peace in the Middle East | Nada Majdalani
-
-**Released:** 2025-07-14 14:55:48
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68751a75610560d3ef2b611d/media.mp3)
-
----
-
 ## Planet Money
 
 ### Why are we so obsessed with manufacturing?
@@ -77,6 +77,16 @@ Last updated: 2025-07-19 01:02:49
 **Released:** 2025-07-16 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8323898199.mp3?d=2230&size=35691294&e=1255755376&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
+
+**Released:** 2025-07-14 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
 
 ---
 
@@ -114,16 +124,6 @@ Last updated: 2025-07-19 01:02:49
 
 ---
 
-## Hidden Brain
-
-### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
-
-**Released:** 2025-07-14 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Neil Young’s iPod Killer
@@ -135,6 +135,14 @@ Last updated: 2025-07-19 01:02:49
 ---
 
 ## Stuff You Should Know
+
+### Selects: What exactly is stoicism?
+
+**Released:** 2025-07-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f58333e0-a3a9-4387-958b-b2fa0129603d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### How Alchemy Worked
 
@@ -157,14 +165,6 @@ Last updated: 2025-07-19 01:02:49
 **Released:** 2025-07-15 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/99b5095d-5a65-4515-8fdd-b31a0142e428/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Child Labor: Not Funny
-
-**Released:** 2025-07-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/344bce94-2b9c-4c98-945d-b2fa0118626a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -193,6 +193,40 @@ Last updated: 2025-07-19 01:02:49
 **Released:** 2025-07-17 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Cops
+
+**Released:** 2025-07-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bridget Read (on multilevel marketing)
+
+**Released:** 2025-07-16 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f371ce77-58a7-43e8-8790-1fbf1463f9bf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Listen Now: Flesh and Code
+
+**Released:** 2025-07-15 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e3c88d8-f1c9-46d8-a817-f84f8a2253cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jerrod Carmichael Returns
+
+**Released:** 2025-07-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -229,40 +263,6 @@ Last updated: 2025-07-19 01:02:49
 **Released:** 2025-07-15 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Cops
-
-**Released:** 2025-07-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bridget Read (on multilevel marketing)
-
-**Released:** 2025-07-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f371ce77-58a7-43e8-8790-1fbf1463f9bf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Listen Now: Flesh and Code
-
-**Released:** 2025-07-15 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e3c88d8-f1c9-46d8-a817-f84f8a2253cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jerrod Carmichael Returns
-
-**Released:** 2025-07-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
