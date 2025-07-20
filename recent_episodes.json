@@ -70,39 +70,18 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "6dd9910a-62af-11f0-86db-7f042722790f",
-    "episode_title": "#2352 - James Talarico",
-    "release_date": "2025-07-18 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "45933 at https://www.thisamericanlife.org",
+    "episode_title": "Bonus: Nancy's Deep Cuts",
+    "release_date": "2025-07-18 00:00:00",
+    "mp3_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3",
+    "podcast_name": "This American Life"
   },
   {
-    "guid": "a8f2b6fa-62ae-11f0-961a-ab00a9e3a3b8",
-    "episode_title": "#2351 - James McCann",
-    "release_date": "2025-07-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1702226179.mp3?updated=1752770348",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ddda96be-61da-11f0-b2a0-6bd801d2cbf1",
-    "episode_title": "#2350 - Ryan Callaghan",
-    "release_date": "2025-07-16 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7482151468.mp3?updated=1752683532",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "dee22b2a-6140-11f0-892e-f786529338b6",
-    "episode_title": "#2349 - Danny Jones",
-    "release_date": "2025-07-15 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "18ca449d-d24a-4793-b35b-1bab8e8aee89",
-    "episode_title": "Neil Young\u2019s iPod Killer",
-    "release_date": "2025-07-15 20:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "37096 at https://www.thisamericanlife.org",
+    "episode_title": "577: Something Only I Can See",
+    "release_date": "2025-07-13 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "f58333e0-a3a9-4387-958b-b2fa0129603d",
@@ -133,6 +112,41 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "18ca449d-d24a-4793-b35b-1bab8e8aee89",
+    "episode_title": "Neil Young\u2019s iPod Killer",
+    "release_date": "2025-07-15 20:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "6dd9910a-62af-11f0-86db-7f042722790f",
+    "episode_title": "#2352 - James Talarico",
+    "release_date": "2025-07-18 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "a8f2b6fa-62ae-11f0-961a-ab00a9e3a3b8",
+    "episode_title": "#2351 - James McCann",
+    "release_date": "2025-07-17 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1702226179.mp3?updated=1752770348",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "ddda96be-61da-11f0-b2a0-6bd801d2cbf1",
+    "episode_title": "#2350 - Ryan Callaghan",
+    "release_date": "2025-07-16 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7482151468.mp3?updated=1752683532",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "dee22b2a-6140-11f0-892e-f786529338b6",
+    "episode_title": "#2349 - Danny Jones",
+    "release_date": "2025-07-15 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/7YqNow0AZ0rlaqyDXZuAvc09dQNslOXSdeT4TKgLmPc",
     "episode_title": "Advice Line with Justin McLeod of Hinge",
     "release_date": "2025-07-17 07:10:00",
@@ -152,6 +166,20 @@
     "release_date": "2025-07-17 04:01:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "f2f34ea8-6331-11f0-b21a-a3aef1f3ef62",
+    "episode_title": "The Moth Podcast: Cruise Control",
+    "release_date": "2025-07-18 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b6a307dc-76d2-11ef-92d1-c37b67443154",
+    "episode_title": "The Moth Radio Hour: Curtain Call",
+    "release_date": "2025-07-15 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/A3soHpSnHa4FRUYNPrfso9frpk1Tas-lpPv_zIH4DVQ",
@@ -194,20 +222,6 @@
     "release_date": "2025-07-14 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/29ce278a-4ab3-4ac8-9f7a-c70467080591/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=29ce278a-4ab3-4ac8-9f7a-c70467080591&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f2f34ea8-6331-11f0-b21a-a3aef1f3ef62",
-    "episode_title": "The Moth Podcast: Cruise Control",
-    "release_date": "2025-07-18 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b6a307dc-76d2-11ef-92d1-c37b67443154",
-    "episode_title": "The Moth Radio Hour: Curtain Call",
-    "release_date": "2025-07-15 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "b6b67743-6a8d-4259-bd33-2b36736619d4",
