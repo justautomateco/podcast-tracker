@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-21 01:08:39
+Last updated: 2025-07-21 12:27:26
 
 ## Freakonomics Radio
 
@@ -82,9 +82,17 @@ Last updated: 2025-07-21 01:08:39
 
 ## This American Life
 
+### 864: Chicago Hope
+
+**Released:** 2025-07-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
+
+---
+
 ### Bonus: Nancy's Deep Cuts
 
-**Released:** 2025-07-18 00:00:00
+**Released:** 2025-07-17 00:00:00
 
 **Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
 
@@ -134,16 +142,6 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: What exactly is stoicism?
@@ -178,7 +176,25 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
+## 99% Invisible
+
+### Neil Young’s iPod Killer
+
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
+
+### WHOOP: Will Ahmed
+
+**Released:** 2025-07-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Justin McLeod of Hinge
 
@@ -188,15 +204,25 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
-### Chobani: Hamdi Ulukaya (2022)
+## Revisionist History
 
-**Released:** 2025-07-14 07:10:00
+### Encore: Analysis, Parapraxis, Elvis
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/368049ad-14e1-48ff-b11d-130550bb1c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
 ## Armchair Expert
+
+### Alexander Skarsgård
+
+**Released:** 2025-07-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0226b7a-69b4-45f6-8c68-57be8a23041b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Cops
 
@@ -222,24 +248,6 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
-### Jerrod Carmichael Returns
-
-**Released:** 2025-07-14 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Encore: Analysis, Parapraxis, Elvis
-
-**Released:** 2025-07-17 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Cruise Control
@@ -258,25 +266,15 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
-## SmartLess 
-
-### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
-
-**Released:** 2025-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
-
----
-
-### "Graydon Carter"
-
-**Released:** 2025-07-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
+
+### Flula Borg Returns Again
+
+**Released:** 2025-07-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f8055adb-e520-41f6-93d6-019a0dc2fa00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f8055adb-e520-41f6-93d6-019a0dc2fa00&feed=dHoohVNH)
+
+---
 
 ### Marc Maron Returns
 
@@ -286,11 +284,21 @@ Last updated: 2025-07-21 01:08:39
 
 ---
 
-### Kesha
+## SmartLess 
 
-**Released:** 2025-07-14 04:05:00
+### "Anthony Mackie"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/29ce278a-4ab3-4ac8-9f7a-c70467080591/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=29ce278a-4ab3-4ac8-9f7a-c70467080591&feed=dHoohVNH)
+**Released:** 2025-07-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
+
+---
+
+### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
+
+**Released:** 2025-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
 
 ---
 
