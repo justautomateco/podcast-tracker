@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-20 12:23:33
+Last updated: 2025-07-21 01:08:39
 
 ## Freakonomics Radio
 
@@ -9,24 +9,6 @@ Last updated: 2025-07-20 12:23:33
 **Released:** 2025-07-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### Bonus: Nancy's Deep Cuts
-
-**Released:** 2025-07-18 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
-
----
-
-### 577: Something Only I Can See
-
-**Released:** 2025-07-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3)
 
 ---
 
@@ -95,6 +77,16 @@ Last updated: 2025-07-20 12:23:33
 **Released:** 2025-07-16 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8323898199.mp3?d=2230&size=35691294&e=1255755376&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### Bonus: Nancy's Deep Cuts
+
+**Released:** 2025-07-18 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
 
 ---
 
@@ -186,70 +178,6 @@ Last updated: 2025-07-20 12:23:33
 
 ---
 
-## Revisionist History
-
-### Encore: Analysis, Parapraxis, Elvis
-
-**Released:** 2025-07-17 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Podcast: Cruise Control
-
-**Released:** 2025-07-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
-
----
-
-### The Moth Radio Hour: Curtain Call
-
-**Released:** 2025-07-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Marc Maron Returns
-
-**Released:** 2025-07-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
-
----
-
-### Kesha
-
-**Released:** 2025-07-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/29ce278a-4ab3-4ac8-9f7a-c70467080591/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=29ce278a-4ab3-4ac8-9f7a-c70467080591&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
-
-**Released:** 2025-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
-
----
-
-### "Graydon Carter"
-
-**Released:** 2025-07-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Justin McLeod of Hinge
@@ -299,6 +227,70 @@ Last updated: 2025-07-20 12:23:33
 **Released:** 2025-07-14 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eab0ffea-120f-4b9a-9713-b761d30fa51a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Encore: Analysis, Parapraxis, Elvis
+
+**Released:** 2025-07-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Cruise Control
+
+**Released:** 2025-07-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
+
+---
+
+### The Moth Radio Hour: Curtain Call
+
+**Released:** 2025-07-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
+
+**Released:** 2025-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
+
+---
+
+### "Graydon Carter"
+
+**Released:** 2025-07-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/66d7976a-b064-4ff3-a1c4-f8c8e02de6f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=66d7976a-b064-4ff3-a1c4-f8c8e02de6f7&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Marc Maron Returns
+
+**Released:** 2025-07-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
+
+---
+
+### Kesha
+
+**Released:** 2025-07-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/29ce278a-4ab3-4ac8-9f7a-c70467080591/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=29ce278a-4ab3-4ac8-9f7a-c70467080591&feed=dHoohVNH)
 
 ---
 
