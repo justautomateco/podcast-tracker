@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-21 12:27:26
+Last updated: 2025-07-22 01:04:57
 
 ## Freakonomics Radio
 
@@ -14,7 +14,15 @@ Last updated: 2025-07-21 12:27:26
 
 ## TED Talks Daily
 
-### Sunday Pick: How to value friendship (w/ Rhaina Cohen) | How to Be a Better Human
+### What silence can teach you about sound | Dallas Taylor (re-release)
+
+**Released:** 2025-07-21 14:56:21
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687e5515fd9acfeba42f844e/media.mp3)
+
+---
+
+### Sunday Pick: How to be a better friend (w/ Rhaina Cohen) | How to Be a Better Human
 
 **Released:** 2025-07-20 06:00:00
 
@@ -43,14 +51,6 @@ Last updated: 2025-07-21 12:27:26
 **Released:** 2025-07-17 14:56:30
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68790f1e0d2a218993d36936/media.mp3)
-
----
-
-### We don't "move on" from grief. We move forward with it | Nora McInerny (re-release)
-
-**Released:** 2025-07-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6876ceaf610560d3efad1a81/media.mp3)
 
 ---
 
@@ -134,11 +134,21 @@ Last updated: 2025-07-21 12:27:26
 
 ## Hidden Brain
 
-### You 2.0: The Path to Contentment + Your Questions Answered on Conversations
+### You 2.0: The Wisdom of Stoicism
 
-**Released:** 2025-07-14 19:00:00
+**Released:** 2025-07-21 18:33:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b0e7b129-f161-4a01-ac1a-f3e3fac5cd88/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b0e7b129-f161-4a01-ac1a-f3e3fac5cd88&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Neil Young’s iPod Killer
+
+**Released:** 2025-07-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
 
 ---
 
@@ -176,16 +186,6 @@ Last updated: 2025-07-21 12:27:26
 
 ---
 
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### WHOOP: Will Ahmed
@@ -211,6 +211,24 @@ Last updated: 2025-07-21 12:27:26
 **Released:** 2025-07-17 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Cruise Control
+
+**Released:** 2025-07-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
+
+---
+
+### The Moth Radio Hour: Curtain Call
+
+**Released:** 2025-07-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
 
 ---
 
@@ -245,24 +263,6 @@ Last updated: 2025-07-21 12:27:26
 **Released:** 2025-07-15 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e3c88d8-f1c9-46d8-a817-f84f8a2253cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Cruise Control
-
-**Released:** 2025-07-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
-
----
-
-### The Moth Radio Hour: Curtain Call
-
-**Released:** 2025-07-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1656851407.mp3?updated=1751986635)
 
 ---
 
