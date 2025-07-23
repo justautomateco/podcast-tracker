@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-23 01:06:09
+Last updated: 2025-07-23 12:26:54
 
 ## TED Talks Daily
 
@@ -64,6 +64,14 @@ Last updated: 2025-07-23 01:06:09
 
 ## Planet Money
 
+### Summer School 3: How government decides what to spend our money on
+
+**Released:** 2025-07-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2776470115.mp3?d=2198&size=35177204&e=1269634359&t=podcast&p=510289)
+
+---
+
 ### Why are we so obsessed with manufacturing?
 
 **Released:** 2025-07-18 21:40:41
@@ -80,11 +88,13 @@ Last updated: 2025-07-23 01:06:09
 
 ---
 
-### Summer School 2: How taxes change behavior and the economy
+## Hidden Brain
 
-**Released:** 2025-07-16 07:00:00
+### You 2.0: The Wisdom of Stoicism
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8323898199.mp3?d=2230&size=35691294&e=1255755376&t=podcast&p=510289)
+**Released:** 2025-07-21 18:33:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
 
 ---
 
@@ -140,17 +150,25 @@ Last updated: 2025-07-23 01:06:09
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### You 2.0: The Wisdom of Stoicism
+### The Quiet Storm
 
-**Released:** 2025-07-21 18:33:00
+**Released:** 2025-07-22 18:03:45
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Paperclips
+
+**Released:** 2025-07-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/00b8b746-0c67-4048-b5c5-b32200d44f7d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### How Boycotts Work (Or Do They?)
 
@@ -176,21 +194,13 @@ Last updated: 2025-07-23 01:06:09
 
 ---
 
-### Short Stuff: Bengal Cats
+## Revisionist History
 
-**Released:** 2025-07-16 09:00:00
+### Encore: Analysis, Parapraxis, Elvis
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bfafca5d-bf89-4b75-bf8a-b3150155f756/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-07-17 04:01:00
 
----
-
-## 99% Invisible
-
-### The Quiet Storm
-
-**Released:** 2025-07-22 18:03:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -209,42 +219,6 @@ Last updated: 2025-07-23 01:06:09
 **Released:** 2025-07-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a406121-474a-4d46-be1f-fd4b9b0e8e98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Encore: Analysis, Parapraxis, Elvis
-
-**Released:** 2025-07-17 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Alexander Skarsgård
-
-**Released:** 2025-07-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0226b7a-69b4-45f6-8c68-57be8a23041b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Cops
-
-**Released:** 2025-07-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bridget Read (on multilevel marketing)
-
-**Released:** 2025-07-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f371ce77-58a7-43e8-8790-1fbf1463f9bf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -284,6 +258,32 @@ Last updated: 2025-07-23 01:06:09
 
 ---
 
+## Armchair Expert
+
+### Rizwan Virk (on the simulation)
+
+**Released:** 2025-07-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4fd49341-d6d6-4980-a6f3-2fbf3b24a5a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Alexander Skarsgård
+
+**Released:** 2025-07-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0226b7a-69b4-45f6-8c68-57be8a23041b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Cops
+
+**Released:** 2025-07-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Anthony Mackie"
@@ -291,14 +291,6 @@ Last updated: 2025-07-23 01:06:09
 **Released:** 2025-07-21 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
-
----
-
-### INTRODUCING: Let’s Talk Off Camera with Kelly Ripa (w/ Colman Domingo)
-
-**Released:** 2025-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a347b01a-1fe5-48d3-869f-9a35f116ea3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a347b01a-1fe5-48d3-869f-9a35f116ea3f&feed=hNaFxXpO)
 
 ---
 
