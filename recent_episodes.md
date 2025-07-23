@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-22 12:26:38
-
-## Freakonomics Radio
-
-### 641. What Does It Cost to Lead a Creative Life?
-
-**Released:** 2025-07-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 864: Chicago Hope
-
-**Released:** 2025-07-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
-
----
-
-### Bonus: Nancy's Deep Cuts
-
-**Released:** 2025-07-17 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
-
----
+Last updated: 2025-07-23 01:06:09
 
 ## TED Talks Daily
+
+### 700 million people still live without electricity. Here’s how to fix that | Jacqueline Novogratz
+
+**Released:** 2025-07-22 15:04:36
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687fa5f5f6d4262b0778276b/media.mp3)
+
+---
 
 ### What silence can teach you about sound | Dallas Taylor (re-release)
 
@@ -64,11 +44,21 @@ Last updated: 2025-07-22 12:26:38
 
 ---
 
-### Why good people become bad bosses | Jamie Woolf and Christopher Bell
+## Freakonomics Radio
 
-**Released:** 2025-07-17 14:56:30
+### Why Does One Tiny State Set the Rules for Everyone? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68790f1e0d2a218993d36936/media.mp3)
+**Released:** 2025-07-23 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b043410d-bf95-4486-b5af-4e4c5d370d82/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b043410d-bf95-4486-b5af-4e4c5d370d82&feed=Y8lFbOT4)
+
+---
+
+### 641. What Does It Cost to Lead a Creative Life?
+
+**Released:** 2025-07-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
 
 ---
 
@@ -98,17 +88,33 @@ Last updated: 2025-07-22 12:26:38
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### You 2.0: The Wisdom of Stoicism
+### 864: Chicago Hope
 
-**Released:** 2025-07-21 18:33:00
+**Released:** 2025-07-20 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
+
+---
+
+### Bonus: Nancy's Deep Cuts
+
+**Released:** 2025-07-17 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2353 - Shaka Senghor
+
+**Released:** 2025-07-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
+
+---
 
 ### #2352 - James Talarico
 
@@ -134,21 +140,13 @@ Last updated: 2025-07-22 12:26:38
 
 ---
 
-### #2349 - Danny Jones
+## Hidden Brain
 
-**Released:** 2025-07-15 17:00:00
+### You 2.0: The Wisdom of Stoicism
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2936687013.mp3?updated=1752597443)
+**Released:** 2025-07-21 18:33:00
 
----
-
-## 99% Invisible
-
-### Neil Young’s iPod Killer
-
-**Released:** 2025-07-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/573bc602-a0d9-4052-b30f-e0011d1e38f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=573bc602-a0d9-4052-b30f-e0011d1e38f2&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
 
 ---
 
@@ -186,6 +184,16 @@ Last updated: 2025-07-22 12:26:38
 
 ---
 
+## 99% Invisible
+
+### The Quiet Storm
+
+**Released:** 2025-07-22 18:03:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### WHOOP: Will Ahmed
@@ -211,24 +219,6 @@ Last updated: 2025-07-22 12:26:38
 **Released:** 2025-07-17 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Flula Borg Returns Again
-
-**Released:** 2025-07-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f8055adb-e520-41f6-93d6-019a0dc2fa00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f8055adb-e520-41f6-93d6-019a0dc2fa00&feed=dHoohVNH)
-
----
-
-### Marc Maron Returns
-
-**Released:** 2025-07-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
 
 ---
 
@@ -273,6 +263,24 @@ Last updated: 2025-07-22 12:26:38
 **Released:** 2025-07-18 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Flula Borg Returns Again
+
+**Released:** 2025-07-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f8055adb-e520-41f6-93d6-019a0dc2fa00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f8055adb-e520-41f6-93d6-019a0dc2fa00&feed=dHoohVNH)
+
+---
+
+### Marc Maron Returns
+
+**Released:** 2025-07-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
 
 ---
 
