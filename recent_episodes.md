@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-23 12:26:54
+Last updated: 2025-07-24 01:05:08
 
 ## TED Talks Daily
+
+### How to get people to do what you want | Barry Sonnenfeld
+
+**Released:** 2025-07-23 15:05:56
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688015bee0a86cc3ab1bff69/media.mp3)
+
+---
 
 ### 700 million people still live without electricity. Here’s how to fix that | Jacqueline Novogratz
 
@@ -36,14 +44,6 @@ Last updated: 2025-07-23 12:26:54
 
 ---
 
-### The jokes AI won’t tell | Jena Friedman
-
-**Released:** 2025-07-18 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687a604a81b46e5956952841/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### Why Does One Tiny State Set the Rules for Everyone? (Update)
@@ -59,6 +59,50 @@ Last updated: 2025-07-23 12:26:54
 **Released:** 2025-07-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 864: Chicago Hope
+
+**Released:** 2025-07-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2354 - Joe DeRosa
+
+**Released:** 2025-07-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1303562599.mp3?updated=1753289032)
+
+---
+
+### #2353 - Shaka Senghor
+
+**Released:** 2025-07-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
+
+---
+
+### #2352 - James Talarico
+
+**Released:** 2025-07-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562)
+
+---
+
+### #2351 - James McCann
+
+**Released:** 2025-07-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1702226179.mp3?updated=1752770348)
 
 ---
 
@@ -85,78 +129,6 @@ Last updated: 2025-07-23 12:26:54
 **Released:** 2025-07-18 13:06:23
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7923655502.mp3?d=121&size=1938121&e=1269646255&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### You 2.0: The Wisdom of Stoicism
-
-**Released:** 2025-07-21 18:33:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 864: Chicago Hope
-
-**Released:** 2025-07-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
-
----
-
-### Bonus: Nancy's Deep Cuts
-
-**Released:** 2025-07-17 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/nancy_deep_cuts_part_1_public_feed_07_18_2026_v3.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2353 - Shaka Senghor
-
-**Released:** 2025-07-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
-
----
-
-### #2352 - James Talarico
-
-**Released:** 2025-07-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562)
-
----
-
-### #2351 - James McCann
-
-**Released:** 2025-07-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1702226179.mp3?updated=1752770348)
-
----
-
-### #2350 - Ryan Callaghan
-
-**Released:** 2025-07-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7482151468.mp3?updated=1752683532)
-
----
-
-## 99% Invisible
-
-### The Quiet Storm
-
-**Released:** 2025-07-22 18:03:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
@@ -194,13 +166,23 @@ Last updated: 2025-07-23 12:26:54
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### Encore: Analysis, Parapraxis, Elvis
+### You 2.0: The Wisdom of Stoicism
 
-**Released:** 2025-07-17 04:01:00
+**Released:** 2025-07-21 18:33:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Quiet Storm
+
+**Released:** 2025-07-22 18:03:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
@@ -222,6 +204,16 @@ Last updated: 2025-07-23 12:26:54
 
 ---
 
+## The Tim Ferriss Show
+
+### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+
+**Released:** 2025-07-23 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: All the World’s a Stage
@@ -240,6 +232,16 @@ Last updated: 2025-07-23 12:26:54
 
 ---
 
+## Revisionist History
+
+### Encore: Analysis, Parapraxis, Elvis
+
+**Released:** 2025-07-17 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1c2c2c15-8d6a-4f47-9643-b31c01387939/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Flula Borg Returns Again
@@ -255,6 +257,16 @@ Last updated: 2025-07-23 12:26:54
 **Released:** 2025-07-17 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/160772d8-5f9a-4a85-93e1-4017774c9f63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=160772d8-5f9a-4a85-93e1-4017774c9f63&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Anthony Mackie"
+
+**Released:** 2025-07-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
 
 ---
 
@@ -281,16 +293,6 @@ Last updated: 2025-07-23 12:26:54
 **Released:** 2025-07-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Anthony Mackie"
-
-**Released:** 2025-07-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
 
 ---
 
