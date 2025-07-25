@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-25 01:04:46
+Last updated: 2025-07-25 12:25:53
 
 ## Freakonomics Radio
+
+### 642. How to Wage Peace, According to Tony Blinken
+
+**Released:** 2025-07-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
+
+---
 
 ### Why Does One Tiny State Set the Rules for Everyone? (Update)
 
 **Released:** 2025-07-23 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b043410d-bf95-4486-b5af-4e4c5d370d82/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b043410d-bf95-4486-b5af-4e4c5d370d82&feed=Y8lFbOT4)
-
----
-
-### 641. What Does It Cost to Lead a Creative Life?
-
-**Released:** 2025-07-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f0b22e4e-b9b0-45d4-ad7f-5835b4592bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f0b22e4e-b9b0-45d4-ad7f-5835b4592bae&feed=Y8lFbOT4)
 
 ---
 
@@ -59,6 +59,32 @@ Last updated: 2025-07-25 01:04:46
 **Released:** 2025-07-20 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6879354481b46e5956452159/media.mp3)
+
+---
+
+## Planet Money
+
+### Summer School 3: How government decides what to spend our money on
+
+**Released:** 2025-07-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2776470115.mp3?d=2198&size=35177204&e=1269634359&t=podcast&p=510289)
+
+---
+
+### Why are we so obsessed with manufacturing?
+
+**Released:** 2025-07-18 21:40:41
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1669577855.mp3?d=1364&size=21832603&e=1255880057&t=podcast&p=510289)
+
+---
+
+### Congress has voted to eliminate government funding for public media
+
+**Released:** 2025-07-18 13:06:23
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7923655502.mp3?d=121&size=1938121&e=1269646255&t=podcast&p=510289)
 
 ---
 
@@ -106,32 +132,6 @@ Last updated: 2025-07-25 01:04:46
 
 ---
 
-## Planet Money
-
-### Summer School 3: How government decides what to spend our money on
-
-**Released:** 2025-07-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2776470115.mp3?d=2198&size=35177204&e=1269634359&t=podcast&p=510289)
-
----
-
-### Why are we so obsessed with manufacturing?
-
-**Released:** 2025-07-18 21:40:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1669577855.mp3?d=1364&size=21832603&e=1255880057&t=podcast&p=510289)
-
----
-
-### Congress has voted to eliminate government funding for public media
-
-**Released:** 2025-07-18 13:06:23
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7923655502.mp3?d=121&size=1938121&e=1269646255&t=podcast&p=510289)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Wisdom of Stoicism
@@ -139,6 +139,16 @@ Last updated: 2025-07-25 01:04:46
 **Released:** 2025-07-21 18:33:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Quiet Storm
+
+**Released:** 2025-07-22 18:03:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
@@ -176,16 +186,6 @@ Last updated: 2025-07-25 01:04:46
 
 ---
 
-## 99% Invisible
-
-### The Quiet Storm
-
-**Released:** 2025-07-22 18:03:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Troy Carter of Atom Factory
@@ -204,16 +204,6 @@ Last updated: 2025-07-25 01:04:46
 
 ---
 
-## The Tim Ferriss Show
-
-### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
-
-**Released:** 2025-07-23 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Encore: Good Old Boys
@@ -226,29 +216,19 @@ Last updated: 2025-07-25 01:04:46
 
 ## The Moth
 
+### The Moth Podcast: Full Costume
+
+**Released:** 2025-07-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753119714)
+
+---
+
 ### The Moth Radio Hour: All the World’s a Stage
 
 **Released:** 2025-07-22 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8845428179.mp3?updated=1752855923)
-
----
-
-### The Moth Podcast: Cruise Control
-
-**Released:** 2025-07-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8523607395.mp3?updated=1752773181)
-
----
-
-## SmartLess 
-
-### "Anthony Mackie"
-
-**Released:** 2025-07-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
 
 ---
 
@@ -272,6 +252,14 @@ Last updated: 2025-07-25 01:04:46
 
 ## Armchair Expert
 
+### Armchair Anonymous: Bad Dates
+
+**Released:** 2025-07-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44946906-8b32-4a22-bcbe-0f8532563b71.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Rizwan Virk (on the simulation)
 
 **Released:** 2025-07-23 07:35:00
@@ -288,11 +276,23 @@ Last updated: 2025-07-25 01:04:46
 
 ---
 
-### Armchair Anonymous: Cops
+## SmartLess 
 
-**Released:** 2025-07-18 07:35:00
+### "Anthony Mackie"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3602d2f0-1f0d-4742-9791-5d3f4f1c2167.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+
+**Released:** 2025-07-23 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
