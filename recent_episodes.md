@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-25 12:25:53
+Last updated: 2025-07-26 01:03:14
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-07-25 12:25:53
 ---
 
 ## TED Talks Daily
+
+### Why building new proteins from scratch is our new superpower | David Baker
+
+**Released:** 2025-07-25 15:03:06
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688399cdf6d4262b077fdd49/media.mp3)
+
+---
 
 ### Are we heading toward World War III? | Heni Ozi Cukier
 
@@ -54,37 +62,21 @@ Last updated: 2025-07-25 12:25:53
 
 ---
 
-### Sunday Pick: How to be a better friend (w/ Rhaina Cohen) | How to Be a Better Human
+## Planet Money
 
-**Released:** 2025-07-20 06:00:00
+### The President's Golden Share in U.S. Steel
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6879354481b46e5956452159/media.mp3)
+**Released:** 2025-07-25 22:08:20
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### Summer School 3: How government decides what to spend our money on
 
 **Released:** 2025-07-23 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2776470115.mp3?d=2198&size=35177204&e=1269634359&t=podcast&p=510289)
-
----
-
-### Why are we so obsessed with manufacturing?
-
-**Released:** 2025-07-18 21:40:41
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1669577855.mp3?d=1364&size=21832603&e=1255880057&t=podcast&p=510289)
-
----
-
-### Congress has voted to eliminate government funding for public media
-
-**Released:** 2025-07-18 13:06:23
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7923655502.mp3?d=121&size=1938121&e=1269646255&t=podcast&p=510289)
 
 ---
 
@@ -99,6 +91,14 @@ Last updated: 2025-07-25 12:25:53
 ---
 
 ## The Joe Rogan Experience
+
+### #2355 - Mike Baker
+
+**Released:** 2025-07-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
+
+---
 
 ### JRE MMA Show #168 with Khalil Rountree Jr.
 
@@ -124,11 +124,21 @@ Last updated: 2025-07-25 12:25:53
 
 ---
 
-### #2352 - James Talarico
+## 99% Invisible
 
-**Released:** 2025-07-18 17:00:00
+### Constitution Breakdown #1: Nikole Hannah-Jones
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6617605579.mp3?updated=1752823562)
+**Released:** 2025-07-25 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
+
+---
+
+### The Quiet Storm
+
+**Released:** 2025-07-22 18:03:45
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
@@ -139,16 +149,6 @@ Last updated: 2025-07-25 12:25:53
 **Released:** 2025-07-21 18:33:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Quiet Storm
-
-**Released:** 2025-07-22 18:03:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
 
 ---
 
@@ -183,24 +183,6 @@ Last updated: 2025-07-25 12:25:53
 **Released:** 2025-07-19 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f58333e0-a3a9-4387-958b-b2fa0129603d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Advice Line with Troy Carter of Atom Factory
-
-**Released:** 2025-07-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### WHOOP: Will Ahmed
-
-**Released:** 2025-07-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -250,6 +232,34 @@ Last updated: 2025-07-25 12:25:53
 
 ---
 
+## SmartLess 
+
+### "Anthony Mackie"
+
+**Released:** 2025-07-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Advice Line with Troy Carter of Atom Factory
+
+**Released:** 2025-07-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### WHOOP: Will Ahmed
+
+**Released:** 2025-07-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Bad Dates
@@ -273,16 +283,6 @@ Last updated: 2025-07-25 12:25:53
 **Released:** 2025-07-21 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0226b7a-69b4-45f6-8c68-57be8a23041b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Anthony Mackie"
-
-**Released:** 2025-07-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
 
 ---
 
