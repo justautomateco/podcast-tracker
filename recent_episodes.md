@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-26 01:03:14
+Last updated: 2025-07-26 12:23:24
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-07-26 01:03:14
 ---
 
 ## TED Talks Daily
+
+### Go ahead, dream about the future | Charlie Jane Anders (re-release)
+
+**Released:** 2025-07-26 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68839aff6e658a8b3c9204fa/media.mp3)
+
+---
 
 ### Why building new proteins from scratch is our new superpower | David Baker
 
@@ -51,14 +59,6 @@ Last updated: 2025-07-26 01:03:14
 **Released:** 2025-07-22 15:04:36
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687fa5f5f6d4262b0778276b/media.mp3)
-
----
-
-### What silence can teach you about sound | Dallas Taylor (re-release)
-
-**Released:** 2025-07-21 14:56:21
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687e5515fd9acfeba42f844e/media.mp3)
 
 ---
 
@@ -124,6 +124,16 @@ Last updated: 2025-07-26 01:03:14
 
 ---
 
+## Hidden Brain
+
+### You 2.0: The Wisdom of Stoicism
+
+**Released:** 2025-07-21 18:33:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Constitution Breakdown #1: Nikole Hannah-Jones
@@ -142,17 +152,15 @@ Last updated: 2025-07-26 01:03:14
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### You 2.0: The Wisdom of Stoicism
+### Selects: The Tale of the Church of the SubGenius
 
-**Released:** 2025-07-21 18:33:00
+**Released:** 2025-07-26 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c89ac6e0-7a61-40eb-a9a3-5cef684509ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c89ac6e0-7a61-40eb-a9a3-5cef684509ea&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### AQ Khan: How to Live Dangerously 
 
@@ -175,14 +183,6 @@ Last updated: 2025-07-26 01:03:14
 **Released:** 2025-07-22 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6af084ae-a22d-4f95-a45d-b317013d7196/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: What exactly is stoicism?
-
-**Released:** 2025-07-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f58333e0-a3a9-4387-958b-b2fa0129603d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -214,6 +214,24 @@ Last updated: 2025-07-26 01:03:14
 
 ---
 
+## How I Built This
+
+### Advice Line with Troy Carter of Atom Factory
+
+**Released:** 2025-07-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### WHOOP: Will Ahmed
+
+**Released:** 2025-07-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 1
@@ -239,24 +257,6 @@ Last updated: 2025-07-26 01:03:14
 **Released:** 2025-07-21 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Troy Carter of Atom Factory
-
-**Released:** 2025-07-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### WHOOP: Will Ahmed
-
-**Released:** 2025-07-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
