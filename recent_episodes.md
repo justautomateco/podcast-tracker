@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-27 01:11:19
+Last updated: 2025-07-27 12:24:14
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2025-07-27 01:11:19
 
 ---
 
+## This American Life
+
+### 864: Chicago Hope
+
+**Released:** 2025-07-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
+
+---
+
 ## TED Talks Daily
+
+### Sunday Pick: Unsolicited Advice: How to get your mojo back at work | Fixable
+
+**Released:** 2025-07-27 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68839de12a38d6f5cbac9f90/media.mp3)
+
+---
 
 ### Go ahead, dream about the future | Charlie Jane Anders (re-release)
 
@@ -51,24 +69,6 @@ Last updated: 2025-07-27 01:11:19
 **Released:** 2025-07-23 15:05:56
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688015bee0a86cc3ab1bff69/media.mp3)
-
----
-
-### 700 million people still live without electricity. Here’s how to fix that | Jacqueline Novogratz
-
-**Released:** 2025-07-22 15:04:36
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/687fa5f5f6d4262b0778276b/media.mp3)
-
----
-
-## This American Life
-
-### 864: Chicago Hope
-
-**Released:** 2025-07-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
 
 ---
 
@@ -186,6 +186,16 @@ Last updated: 2025-07-27 01:11:19
 
 ---
 
+## The Tim Ferriss Show
+
+### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+
+**Released:** 2025-07-23 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Troy Carter of Atom Factory
@@ -222,6 +232,16 @@ Last updated: 2025-07-27 01:11:19
 
 ---
 
+## Revisionist History
+
+### Encore: Good Old Boys
+
+**Released:** 2025-07-24 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Bad Dates
@@ -248,13 +268,13 @@ Last updated: 2025-07-27 01:11:19
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+### "Anthony Mackie"
 
-**Released:** 2025-07-23 22:00:00
+**Released:** 2025-07-21 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
 
 ---
 
@@ -273,26 +293,6 @@ Last updated: 2025-07-27 01:11:19
 **Released:** 2025-07-21 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f8055adb-e520-41f6-93d6-019a0dc2fa00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f8055adb-e520-41f6-93d6-019a0dc2fa00&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Anthony Mackie"
-
-**Released:** 2025-07-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
-
----
-
-## Revisionist History
-
-### Encore: Good Old Boys
-
-**Released:** 2025-07-24 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
