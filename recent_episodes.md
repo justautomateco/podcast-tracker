@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-27 12:24:14
+Last updated: 2025-07-28 01:09:44
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2025-07-27 12:24:14
 **Released:** 2025-07-23 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b043410d-bf95-4486-b5af-4e4c5d370d82/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b043410d-bf95-4486-b5af-4e4c5d370d82&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 864: Chicago Hope
-
-**Released:** 2025-07-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3974539898.mp3)
 
 ---
 
@@ -90,37 +80,13 @@ Last updated: 2025-07-27 12:24:14
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2355 - Mike Baker
+### 245: Allure of the Mean Friend
 
-**Released:** 2025-07-25 17:00:00
+**Released:** 2025-07-27 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
-
----
-
-### JRE MMA Show #168 with Khalil Rountree Jr.
-
-**Released:** 2025-07-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753375473)
-
----
-
-### #2354 - Joe DeRosa
-
-**Released:** 2025-07-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1303562599.mp3?updated=1753289032)
-
----
-
-### #2353 - Shaka Senghor
-
-**Released:** 2025-07-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8961029978.mp3)
 
 ---
 
@@ -186,13 +152,37 @@ Last updated: 2025-07-27 12:24:14
 
 ---
 
-## The Tim Ferriss Show
+## The Joe Rogan Experience
 
-### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+### #2355 - Mike Baker
 
-**Released:** 2025-07-23 22:00:00
+**Released:** 2025-07-25 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
+
+---
+
+### JRE MMA Show #168 with Khalil Rountree Jr.
+
+**Released:** 2025-07-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753375473)
+
+---
+
+### #2354 - Joe DeRosa
+
+**Released:** 2025-07-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1303562599.mp3?updated=1753289032)
+
+---
+
+### #2353 - Shaka Senghor
+
+**Released:** 2025-07-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
 
 ---
 
@@ -211,24 +201,6 @@ Last updated: 2025-07-27 12:24:14
 **Released:** 2025-07-21 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/37e70cc2-ab65-4b4c-8240-d8f2295477b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Full Costume
-
-**Released:** 2025-07-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753119714)
-
----
-
-### The Moth Radio Hour: All the World’s a Stage
-
-**Released:** 2025-07-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8845428179.mp3?updated=1752855923)
 
 ---
 
@@ -268,16 +240,6 @@ Last updated: 2025-07-27 12:24:14
 
 ---
 
-## SmartLess 
-
-### "Anthony Mackie"
-
-**Released:** 2025-07-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 1
@@ -293,6 +255,44 @@ Last updated: 2025-07-27 12:24:14
 **Released:** 2025-07-21 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f8055adb-e520-41f6-93d6-019a0dc2fa00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f8055adb-e520-41f6-93d6-019a0dc2fa00&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Anthony Mackie"
+
+**Released:** 2025-07-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79a9de46-2ca2-46c8-b09b-ccb3104de542/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79a9de46-2ca2-46c8-b09b-ccb3104de542&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Full Costume
+
+**Released:** 2025-07-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753119714)
+
+---
+
+### The Moth Radio Hour: All the World’s a Stage
+
+**Released:** 2025-07-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8845428179.mp3?updated=1752855923)
+
+---
+
+## The Tim Ferriss Show
+
+### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+
+**Released:** 2025-07-23 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
