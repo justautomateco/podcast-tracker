@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-30 01:06:10
-
-## Freakonomics Radio
-
-### 642. How to Wage Peace, According to Tony Blinken
-
-**Released:** 2025-07-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
-
----
+Last updated: 2025-07-30 12:27:41
 
 ## TED Talks Daily
 
@@ -54,21 +44,13 @@ Last updated: 2025-07-30 01:06:10
 
 ---
 
-## Planet Money
+## Freakonomics Radio
 
-### The President's Golden Share in U.S. Steel
+### 642. How to Wage Peace, According to Tony Blinken
 
-**Released:** 2025-07-25 22:08:20
+**Released:** 2025-07-25 10:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
-
----
-
-### Summer School 3: How government decides what to spend our money on
-
-**Released:** 2025-07-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2776470115.mp3?d=2198&size=35177204&e=1269634359&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
 
 ---
 
@@ -79,6 +61,86 @@ Last updated: 2025-07-30 01:06:10
 **Released:** 2025-07-27 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8961029978.mp3)
+
+---
+
+## Planet Money
+
+### Summer School 4: Who are all these regulations protecting?
+
+**Released:** 2025-07-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+
+---
+
+### The President's Golden Share in U.S. Steel
+
+**Released:** 2025-07-25 22:08:20
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
+
+---
+
+## Hidden Brain
+
+### You 2.0: Change Your Story, Change Your Life
+
+**Released:** 2025-07-28 19:20:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### Short Stuff: Bliss Point
+
+**Released:** 2025-07-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Humble and Deadly Cigarette
+
+**Released:** 2025-07-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c5b4f80a-d87f-4923-8422-b328015516fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: The Tale of the Church of the SubGenius
+
+**Released:** 2025-07-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### AQ Khan: How to Live Dangerously 
+
+**Released:** 2025-07-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/33b3b8cd-0c18-492d-8619-b324001604cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Air-Borne
+
+**Released:** 2025-07-29 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #1: Nikole Hannah-Jones
+
+**Released:** 2025-07-25 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
 
 ---
 
@@ -116,65 +178,31 @@ Last updated: 2025-07-30 01:06:10
 
 ---
 
-## Hidden Brain
+## How I Built This
 
-### You 2.0: Change Your Story, Change Your Life
+### Torchy's Tacos: Mike Rypka
 
-**Released:** 2025-07-28 19:20:00
+**Released:** 2025-07-28 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Air-Borne
-
-**Released:** 2025-07-29 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Constitution Breakdown #1: Nikole Hannah-Jones
+### Advice Line with Troy Carter of Atom Factory
 
-**Released:** 2025-07-25 17:30:00
+**Released:** 2025-07-24 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
-
----
-
-## Stuff You Should Know
-
-### The Humble and Deadly Cigarette
-
-**Released:** 2025-07-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c5b4f80a-d87f-4923-8422-b328015516fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Selects: The Tale of the Church of the SubGenius
+## Revisionist History
 
-**Released:** 2025-07-26 09:00:00
+### Encore: Good Old Boys
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-07-24 04:01:00
 
----
-
-### AQ Khan: How to Live Dangerously 
-
-**Released:** 2025-07-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/33b3b8cd-0c18-492d-8619-b324001604cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Paperclips
-
-**Released:** 2025-07-23 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/00b8b746-0c67-4048-b5c5-b32200d44f7d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,32 +224,6 @@ Last updated: 2025-07-30 01:06:10
 
 ---
 
-## Armchair Expert
-
-### Seth Meyers Returns Again
-
-**Released:** 2025-07-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a4658d0-6e78-4712-90a1-1fdc30abba15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Dates
-
-**Released:** 2025-07-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44946906-8b32-4a22-bcbe-0f8532563b71.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rizwan Virk (on the simulation)
-
-**Released:** 2025-07-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4fd49341-d6d6-4980-a6f3-2fbf3b24a5a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Andy Samberg
@@ -240,21 +242,29 @@ Last updated: 2025-07-30 01:06:10
 
 ---
 
-## How I Built This
+## Armchair Expert
 
-### Torchy's Tacos: Mike Rypka
+### Carter Sherman (on the sex recession)
 
-**Released:** 2025-07-28 07:10:00
+**Released:** 2025-07-30 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Advice Line with Troy Carter of Atom Factory
+### Seth Meyers Returns Again
 
-**Released:** 2025-07-24 07:10:00
+**Released:** 2025-07-28 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a4658d0-6e78-4712-90a1-1fdc30abba15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Dates
+
+**Released:** 2025-07-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44946906-8b32-4a22-bcbe-0f8532563b71.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,16 +275,6 @@ Last updated: 2025-07-30 01:06:10
 **Released:** 2025-07-28 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
-
----
-
-## Revisionist History
-
-### Encore: Good Old Boys
-
-**Released:** 2025-07-24 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
