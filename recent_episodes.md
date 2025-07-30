@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-29 12:27:50
+Last updated: 2025-07-30 01:06:10
 
 ## Freakonomics Radio
 
@@ -12,15 +12,15 @@ Last updated: 2025-07-29 12:27:50
 
 ---
 
-### Why Does One Tiny State Set the Rules for Everyone? (Update)
+## TED Talks Daily
 
-**Released:** 2025-07-23 00:00:00
+### The multidimensional magic of modern maps | Peter Wilczynski
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b043410d-bf95-4486-b5af-4e4c5d370d82/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b043410d-bf95-4486-b5af-4e4c5d370d82&feed=Y8lFbOT4)
+**Released:** 2025-07-29 14:59:54
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6888e1292a38d6f5cbdc6f86/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### A small nation’s surprising solution to unemployment | James Mnyupe
 
@@ -54,14 +54,6 @@ Last updated: 2025-07-29 12:27:50
 
 ---
 
-### Are we heading toward World War III? | Heni Ozi Cukier
-
-**Released:** 2025-07-24 15:02:10
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68824906e0a86cc3abb6508b/media.mp3)
-
----
-
 ## Planet Money
 
 ### The President's Golden Share in U.S. Steel
@@ -90,35 +82,15 @@ Last updated: 2025-07-29 12:27:50
 
 ---
 
-## Hidden Brain
-
-### You 2.0: Change Your Story, Change Your Life
-
-**Released:** 2025-07-28 19:20:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #1: Nikole Hannah-Jones
-
-**Released:** 2025-07-25 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
-
----
-
-### The Quiet Storm
-
-**Released:** 2025-07-22 18:03:45
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c957b09e-b5f0-4a0f-9d30-c09f2be5af32/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c957b09e-b5f0-4a0f-9d30-c09f2be5af32&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2356 - Mike Vecchione
+
+**Released:** 2025-07-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753808469)
+
+---
 
 ### #2355 - Mike Baker
 
@@ -144,11 +116,31 @@ Last updated: 2025-07-29 12:27:50
 
 ---
 
-### #2353 - Shaka Senghor
+## Hidden Brain
 
-**Released:** 2025-07-22 17:00:00
+### You 2.0: Change Your Story, Change Your Life
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9218167230.mp3?updated=1753202499)
+**Released:** 2025-07-28 19:20:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Air-Borne
+
+**Released:** 2025-07-29 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #1: Nikole Hannah-Jones
+
+**Released:** 2025-07-25 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
 
 ---
 
@@ -186,44 +178,6 @@ Last updated: 2025-07-29 12:27:50
 
 ---
 
-## The Tim Ferriss Show
-
-### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
-
-**Released:** 2025-07-23 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Torchy's Tacos: Mike Rypka
-
-**Released:** 2025-07-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Troy Carter of Atom Factory
-
-**Released:** 2025-07-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Encore: Good Old Boys
-
-**Released:** 2025-07-24 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Radio Hour: Defining Moments
@@ -239,34 +193,6 @@ Last updated: 2025-07-29 12:27:50
 **Released:** 2025-07-25 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753119714)
-
----
-
-## SmartLess 
-
-### "Julia Garner"
-
-**Released:** 2025-07-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Andy Samberg
-
-**Released:** 2025-07-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 1
-
-**Released:** 2025-07-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8ecf43fd-9f0d-4545-98a4-9773182cd3c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8ecf43fd-9f0d-4545-98a4-9773182cd3c2&feed=dHoohVNH)
 
 ---
 
@@ -293,6 +219,72 @@ Last updated: 2025-07-29 12:27:50
 **Released:** 2025-07-23 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4fd49341-d6d6-4980-a6f3-2fbf3b24a5a2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Andy Samberg
+
+**Released:** 2025-07-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 1
+
+**Released:** 2025-07-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8ecf43fd-9f0d-4545-98a4-9773182cd3c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8ecf43fd-9f0d-4545-98a4-9773182cd3c2&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Torchy's Tacos: Mike Rypka
+
+**Released:** 2025-07-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Troy Carter of Atom Factory
+
+**Released:** 2025-07-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Julia Garner"
+
+**Released:** 2025-07-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
+
+---
+
+## Revisionist History
+
+### Encore: Good Old Boys
+
+**Released:** 2025-07-24 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+
+**Released:** 2025-07-23 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
