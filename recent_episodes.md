@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-31 01:06:07
+Last updated: 2025-07-31 12:25:31
 
 ## Freakonomics Radio
 
@@ -9,24 +9,6 @@ Last updated: 2025-07-31 01:06:07
 **Released:** 2025-07-25 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Summer School 4: Who are all these regulations protecting?
-
-**Released:** 2025-07-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
-
----
-
-### The President's Golden Share in U.S. Steel
-
-**Released:** 2025-07-25 22:08:20
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
 
 ---
 
@@ -72,13 +54,21 @@ Last updated: 2025-07-31 01:06:07
 
 ---
 
-## This American Life
+## Planet Money
 
-### 245: Allure of the Mean Friend
+### Summer School 4: Who are all these regulations protecting?
 
-**Released:** 2025-07-27 18:00:00
+**Released:** 2025-07-30 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8961029978.mp3)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+
+---
+
+### The President's Golden Share in U.S. Steel
+
+**Released:** 2025-07-25 22:08:20
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
 
 ---
 
@@ -88,7 +78,7 @@ Last updated: 2025-07-31 01:06:07
 
 **Released:** 2025-07-30 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753903695)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753963764)
 
 ---
 
@@ -96,7 +86,7 @@ Last updated: 2025-07-31 01:06:07
 
 **Released:** 2025-07-29 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753808469)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753964624)
 
 ---
 
@@ -104,7 +94,7 @@ Last updated: 2025-07-31 01:06:07
 
 **Released:** 2025-07-25 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753945698)
 
 ---
 
@@ -112,41 +102,17 @@ Last updated: 2025-07-31 01:06:07
 
 **Released:** 2025-07-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753375473)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753944148)
 
 ---
 
-## Stuff You Should Know
+## This American Life
 
-### Short Stuff: Bliss Point
+### 245: Allure of the Mean Friend
 
-**Released:** 2025-07-30 09:00:00
+**Released:** 2025-07-27 18:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Humble and Deadly Cigarette
-
-**Released:** 2025-07-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c5b4f80a-d87f-4923-8422-b328015516fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The Tale of the Church of the SubGenius
-
-**Released:** 2025-07-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### AQ Khan: How to Live Dangerously 
-
-**Released:** 2025-07-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/33b3b8cd-0c18-492d-8619-b324001604cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8961029978.mp3)
 
 ---
 
@@ -178,53 +144,49 @@ Last updated: 2025-07-31 01:06:07
 
 ---
 
-## Revisionist History
+## Stuff You Should Know
 
-### Encore: Good Old Boys
+### Child Prodigies: Better to Burn Out Than Fade Away
 
-**Released:** 2025-07-24 04:01:00
+**Released:** 2025-07-31 09:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/8ed47044-1c48-4082-be04-b32300f0aedc/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Defining Moments
-
-**Released:** 2025-07-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8850243353.mp3?updated=1752855872)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36baafbd-c148-4976-b11b-b32801663bf7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### The Moth Podcast: Full Costume
+### Short Stuff: Bliss Point
 
-**Released:** 2025-07-25 04:25:00
+**Released:** 2025-07-30 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753119714)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Andy Samberg
-
-**Released:** 2025-07-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 1
+### The Humble and Deadly Cigarette
 
-**Released:** 2025-07-24 04:05:00
+**Released:** 2025-07-29 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8ecf43fd-9f0d-4545-98a4-9773182cd3c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8ecf43fd-9f0d-4545-98a4-9773182cd3c2&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c5b4f80a-d87f-4923-8422-b328015516fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: The Tale of the Church of the SubGenius
+
+**Released:** 2025-07-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
 ## How I Built This
+
+### Advice Line with Isaac Larian of MGA Entertainment
+
+**Released:** 2025-07-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Torchy's Tacos: Mike Rypka
 
@@ -234,11 +196,59 @@ Last updated: 2025-07-31 01:06:07
 
 ---
 
-### Advice Line with Troy Carter of Atom Factory
+## Revisionist History
 
-**Released:** 2025-07-24 07:10:00
+### What Is Your Life For? From Hidden Brain
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-07-31 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
+
+**Released:** 2025-07-30 04:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Defining Moments
+
+**Released:** 2025-07-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8850243353.mp3?updated=1753938055)
+
+---
+
+### The Moth Podcast: Full Costume
+
+**Released:** 2025-07-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4292979899.mp3?updated=1753942328)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
+
+**Released:** 2025-07-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
+
+---
+
+### Andy Samberg
+
+**Released:** 2025-07-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
 
 ---
 
@@ -270,21 +280,19 @@ Last updated: 2025-07-31 01:06:07
 
 ## SmartLess 
 
+### “John Mayer LIVE”
+
+**Released:** 2025-07-31 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/claritaspod.com/measure/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
+
+---
+
 ### "Julia Garner"
 
 **Released:** 2025-07-28 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/claritaspod.com/measure/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
-
-**Released:** 2025-07-30 04:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
