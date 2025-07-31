@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-07-30 12:27:41
+Last updated: 2025-07-31 01:06:07
+
+## Freakonomics Radio
+
+### 642. How to Wage Peace, According to Tony Blinken
+
+**Released:** 2025-07-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Summer School 4: Who are all these regulations protecting?
+
+**Released:** 2025-07-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+
+---
+
+### The President's Golden Share in U.S. Steel
+
+**Released:** 2025-07-25 22:08:20
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
+
+---
 
 ## TED Talks Daily
+
+### The blueprint for serving a million school lunches — every day | Wawira Njiru
+
+**Released:** 2025-07-30 16:47:05
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688a33c98118276109ee0703/media.mp3)
+
+---
 
 ### The multidimensional magic of modern maps | Peter Wilczynski
 
@@ -36,24 +72,6 @@ Last updated: 2025-07-30 12:27:41
 
 ---
 
-### Why building new proteins from scratch is our new superpower | David Baker
-
-**Released:** 2025-07-25 15:03:06
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688399cdf6d4262b077fdd49/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 642. How to Wage Peace, According to Tony Blinken
-
-**Released:** 2025-07-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b50250ca-3016-49e2-8559-53f61e9623ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b50250ca-3016-49e2-8559-53f61e9623ed&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 245: Allure of the Mean Friend
@@ -64,31 +82,37 @@ Last updated: 2025-07-30 12:27:41
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### Summer School 4: Who are all these regulations protecting?
+### #2357 - Sarko Gergerian
 
-**Released:** 2025-07-30 07:00:00
+**Released:** 2025-07-30 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
-
----
-
-### The President's Golden Share in U.S. Steel
-
-**Released:** 2025-07-25 22:08:20
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8441914486.mp3?d=1702&size=27238070&e=1256217315&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753903695)
 
 ---
 
-## Hidden Brain
+### #2356 - Mike Vecchione
 
-### You 2.0: Change Your Story, Change Your Life
+**Released:** 2025-07-29 17:00:00
 
-**Released:** 2025-07-28 19:20:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753808469)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+---
+
+### #2355 - Mike Baker
+
+**Released:** 2025-07-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
+
+---
+
+### JRE MMA Show #168 with Khalil Rountree Jr.
+
+**Released:** 2025-07-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753375473)
 
 ---
 
@@ -126,6 +150,16 @@ Last updated: 2025-07-30 12:27:41
 
 ---
 
+## Hidden Brain
+
+### You 2.0: Change Your Story, Change Your Life
+
+**Released:** 2025-07-28 19:20:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Air-Borne
@@ -141,58 +175,6 @@ Last updated: 2025-07-30 12:27:41
 **Released:** 2025-07-25 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9dc446cd-c165-4854-b8f5-a5a9509067d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9dc446cd-c165-4854-b8f5-a5a9509067d8&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2356 - Mike Vecchione
-
-**Released:** 2025-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753808469)
-
----
-
-### #2355 - Mike Baker
-
-**Released:** 2025-07-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1945588984.mp3?updated=1753418107)
-
----
-
-### JRE MMA Show #168 with Khalil Rountree Jr.
-
-**Released:** 2025-07-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8887521936.mp3?updated=1753375473)
-
----
-
-### #2354 - Joe DeRosa
-
-**Released:** 2025-07-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1303562599.mp3?updated=1753289032)
-
----
-
-## How I Built This
-
-### Torchy's Tacos: Mike Rypka
-
-**Released:** 2025-07-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Troy Carter of Atom Factory
-
-**Released:** 2025-07-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,6 +224,24 @@ Last updated: 2025-07-30 12:27:41
 
 ---
 
+## How I Built This
+
+### Torchy's Tacos: Mike Rypka
+
+**Released:** 2025-07-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Troy Carter of Atom Factory
+
+**Released:** 2025-07-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/114d86d8-0b40-4157-a3a2-2438a35c15c8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Carter Sherman (on the sex recession)
@@ -274,17 +274,17 @@ Last updated: 2025-07-30 12:27:41
 
 **Released:** 2025-07-28 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/claritaspod.com/measure/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
 
 ---
 
 ## The Tim Ferriss Show
 
-### #819: Rhonda Patrick, Ph.D. — Protocols for Fasting, Lowering Dementia Risk, Reversing Heart Aging, Using Sauna for Longevity (Hotter is Not Better), and a Few Supplements That Might Actually Matter
+### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
 
-**Released:** 2025-07-23 22:00:00
+**Released:** 2025-07-30 04:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66e28d66-ac6a-49ea-a972-f370f388a90d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
