@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-02 01:03:07
+Last updated: 2025-08-02 12:23:42
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-08-02 01:03:07
 ---
 
 ## TED Talks Daily
+
+### How to make learning as addictive as social media | Luis von Ahn (re-release)
+
+**Released:** 2025-08-02 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688d0d38fc150bcf7f585175/media.mp3)
+
+---
 
 ### Life is hard. Art helps | Liana Finck (re-release)
 
@@ -46,15 +54,15 @@ Last updated: 2025-08-02 01:03:07
 
 ---
 
-### A small nation’s surprising solution to unemployment | James Mnyupe
+## Planet Money
 
-**Released:** 2025-07-28 15:01:08
+### Would you trust an economist with your economy?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68878fc2e0a86cc3abdc5624/media.mp3)
+**Released:** 2025-08-02 02:13:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
 
 ---
-
-## Planet Money
 
 ### Summer School 4: Who are all these regulations protecting?
 
@@ -71,6 +79,16 @@ Last updated: 2025-08-02 01:03:07
 **Released:** 2025-07-28 19:20:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Air-Borne
+
+**Released:** 2025-07-29 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
 
 ---
 
@@ -120,6 +138,14 @@ Last updated: 2025-08-02 01:03:07
 
 ## Stuff You Should Know
 
+### Selects: Is birth order important?
+
+**Released:** 2025-08-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cab4b116-aa1d-425d-8a16-b32a0140115d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Child Prodigies: Better to Burn Out Than Fade Away
 
 **Released:** 2025-07-31 09:00:00
@@ -144,24 +170,6 @@ Last updated: 2025-08-02 01:03:07
 
 ---
 
-### Selects: The Tale of the Church of the SubGenius
-
-**Released:** 2025-07-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9801874e-83fa-4488-b931-b2fb01329840/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Air-Borne
-
-**Released:** 2025-07-29 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Isaac Larian of MGA Entertainment
@@ -180,24 +188,6 @@ Last updated: 2025-08-02 01:03:07
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Hot Child in the City
-
-**Released:** 2025-08-01 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738)
-
----
-
-### The Moth Radio Hour: Defining Moments
-
-**Released:** 2025-07-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8850243353.mp3?updated=1753938055)
-
----
-
 ## Revisionist History
 
 ### What Is Your Life For? From Hidden Brain
@@ -205,6 +195,24 @@ Last updated: 2025-08-02 01:03:07
 **Released:** 2025-07-31 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
+
+**Released:** 2025-07-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
+
+---
+
+### Andy Samberg
+
+**Released:** 2025-07-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
 
 ---
 
@@ -226,6 +234,24 @@ Last updated: 2025-08-02 01:03:07
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Hot Child in the City
+
+**Released:** 2025-08-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738)
+
+---
+
+### The Moth Radio Hour: Defining Moments
+
+**Released:** 2025-07-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8850243353.mp3?updated=1753938055)
+
+---
+
 ## SmartLess 
 
 ### “John Mayer LIVE”
@@ -241,24 +267,6 @@ Last updated: 2025-08-02 01:03:07
 **Released:** 2025-07-28 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
-
-**Released:** 2025-07-31 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
-
----
-
-### Andy Samberg
-
-**Released:** 2025-07-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
 
 ---
 
