@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-04 01:11:38
+Last updated: 2025-08-04 12:28:27
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-08-04 01:11:38
 **Released:** 2025-08-01 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
 
 ---
 
@@ -72,50 +82,6 @@ Last updated: 2025-08-04 01:11:38
 
 ---
 
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2359 - Mike Maxwell
-
-**Released:** 2025-08-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
-
----
-
-### #2358 - Chadd Wright
-
-**Released:** 2025-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
-
----
-
-### #2357 - Sarko Gergerian
-
-**Released:** 2025-07-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753969886)
-
----
-
-### #2356 - Mike Vecchione
-
-**Released:** 2025-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753970979)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: Change Your Story, Change Your Life
@@ -123,6 +89,16 @@ Last updated: 2025-08-04 01:11:38
 **Released:** 2025-07-28 19:20:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Air-Borne
+
+**Released:** 2025-07-29 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
 
 ---
 
@@ -160,31 +136,47 @@ Last updated: 2025-08-04 01:11:38
 
 ---
 
-## 99% Invisible
+## The Joe Rogan Experience
 
-### Air-Borne
+### #2359 - Mike Maxwell
 
-**Released:** 2025-07-29 17:30:00
+**Released:** 2025-08-01 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Isaac Larian of MGA Entertainment
-
-**Released:** 2025-07-31 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
 
 ---
 
-### Torchy's Tacos: Mike Rypka
+### #2358 - Chadd Wright
 
-**Released:** 2025-07-28 07:10:00
+**Released:** 2025-07-31 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e2440ae-65cf-4fa6-a108-562c00a90f1c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
+
+---
+
+### #2357 - Sarko Gergerian
+
+**Released:** 2025-07-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753969886)
+
+---
+
+### #2356 - Mike Vecchione
+
+**Released:** 2025-07-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753970979)
+
+---
+
+## The Tim Ferriss Show
+
+### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
+
+**Released:** 2025-07-30 04:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -200,37 +192,19 @@ Last updated: 2025-08-04 01:11:38
 
 ## Conan O'Brien Needs A Friend
 
+### Timothy Olyphant Returns Again
+
+**Released:** 2025-08-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dcf21e65-425c-400e-ad60-bdb2cb57bb88/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dcf21e65-425c-400e-ad60-bdb2cb57bb88&feed=dHoohVNH)
+
+---
+
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
 
 **Released:** 2025-07-31 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
-
----
-
-### Andy Samberg
-
-**Released:** 2025-07-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0d2125b2-3f4d-40a4-a37d-aa17f3a5542f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0d2125b2-3f4d-40a4-a37d-aa17f3a5542f&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Carter Sherman (on the sex recession)
-
-**Released:** 2025-07-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Seth Meyers Returns Again
-
-**Released:** 2025-07-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a4658d0-6e78-4712-90a1-1fdc30abba15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,7 +226,33 @@ Last updated: 2025-08-04 01:11:38
 
 ---
 
+## How I Built This
+
+### Simon Cowell: Music Mogul
+
+**Released:** 2025-08-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Isaac Larian of MGA Entertainment
+
+**Released:** 2025-07-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
+
+### "Marc Maron"
+
+**Released:** 2025-08-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
+
+---
 
 ### “John Mayer LIVE”
 
@@ -262,21 +262,21 @@ Last updated: 2025-08-04 01:11:38
 
 ---
 
-### "Julia Garner"
+## Armchair Expert
 
-**Released:** 2025-07-28 07:01:00
+### Ramy Youssef Returns
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
+**Released:** 2025-08-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Carter Sherman (on the sex recession)
 
-### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
+**Released:** 2025-07-30 07:35:00
 
-**Released:** 2025-07-30 04:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
