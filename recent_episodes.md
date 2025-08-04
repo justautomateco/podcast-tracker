@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-03 12:24:17
+Last updated: 2025-08-04 01:11:38
 
 ## Freakonomics Radio
 
@@ -74,21 +74,11 @@ Last updated: 2025-08-03 12:24:17
 
 ## This American Life
 
-### 245: Allure of the Mean Friend
+### 839: Meet Me at the Fair
 
-**Released:** 2025-07-27 18:00:00
+**Released:** 2025-08-03 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8961029978.mp3)
-
----
-
-## Hidden Brain
-
-### You 2.0: Change Your Story, Change Your Life
-
-**Released:** 2025-07-28 19:20:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
 
 ---
 
@@ -126,13 +116,13 @@ Last updated: 2025-08-03 12:24:17
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### Air-Borne
+### You 2.0: Change Your Story, Change Your Life
 
-**Released:** 2025-07-29 17:30:00
+**Released:** 2025-07-28 19:20:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c67859be-98ad-40b8-960d-1fb79a062919/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c67859be-98ad-40b8-960d-1fb79a062919&feed=kwWc0lhf)
 
 ---
 
@@ -170,13 +160,13 @@ Last updated: 2025-08-03 12:24:17
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
+### Air-Borne
 
-**Released:** 2025-07-30 04:00:00
+**Released:** 2025-07-29 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
 
 ---
 
@@ -226,21 +216,21 @@ Last updated: 2025-08-03 12:24:17
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### “John Mayer LIVE”
+### Carter Sherman (on the sex recession)
 
-**Released:** 2025-07-31 07:00:00
+**Released:** 2025-07-30 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "Julia Garner"
+### Seth Meyers Returns Again
 
-**Released:** 2025-07-28 07:01:00
+**Released:** 2025-07-28 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a4658d0-6e78-4712-90a1-1fdc30abba15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,21 +252,31 @@ Last updated: 2025-08-03 12:24:17
 
 ---
 
-## Armchair Expert
+## SmartLess 
 
-### Carter Sherman (on the sex recession)
+### “John Mayer LIVE”
 
-**Released:** 2025-07-30 07:35:00
+**Released:** 2025-07-31 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
 
 ---
 
-### Seth Meyers Returns Again
+### "Julia Garner"
 
-**Released:** 2025-07-28 07:35:00
+**Released:** 2025-07-28 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a4658d0-6e78-4712-90a1-1fdc30abba15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca0acd67-9dbf-4fc1-8869-ccc30b1b307d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca0acd67-9dbf-4fc1-8869-ccc30b1b307d&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
+
+**Released:** 2025-07-30 04:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
