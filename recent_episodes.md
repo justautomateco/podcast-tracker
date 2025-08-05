@@ -1,44 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-05 01:07:48
-
-## Freakonomics Radio
-
-### 643. Why Do Candles Still Exist?
-
-**Released:** 2025-08-01 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Would you trust an economist with your economy?
-
-**Released:** 2025-08-02 02:13:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
-
----
-
-### Summer School 4: Who are all these regulations protecting?
-
-**Released:** 2025-07-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
-
----
-
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
+Last updated: 2025-08-05 12:28:28
 
 ## TED Talks Daily
 
@@ -79,6 +41,78 @@ Last updated: 2025-08-05 01:07:48
 **Released:** 2025-07-31 15:01:30
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688b841e81182761094dd964/media.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 643. Why Do Candles Still Exist?
+
+**Released:** 2025-08-01 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
+
+---
+
+## Planet Money
+
+### Would you trust an economist with your economy?
+
+**Released:** 2025-08-02 02:13:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
+
+---
+
+### Summer School 4: Who are all these regulations protecting?
+
+**Released:** 2025-07-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+
+---
+
+## Stuff You Should Know
+
+### The Iconic, Complicated VW Beetle 
+
+**Released:** 2025-08-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/61f73342-ab9c-464b-ba4f-b32a01586102/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Is birth order important?
+
+**Released:** 2025-08-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cab4b116-aa1d-425d-8a16-b32a0140115d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Child Prodigies: Better to Burn Out Than Fade Away
+
+**Released:** 2025-07-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36baafbd-c148-4976-b11b-b32801663bf7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Bliss Point
+
+**Released:** 2025-07-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -126,40 +160,6 @@ Last updated: 2025-08-05 01:07:48
 
 ---
 
-## Stuff You Should Know
-
-### Selects: Is birth order important?
-
-**Released:** 2025-08-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cab4b116-aa1d-425d-8a16-b32a0140115d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Child Prodigies: Better to Burn Out Than Fade Away
-
-**Released:** 2025-07-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36baafbd-c148-4976-b11b-b32801663bf7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Bliss Point
-
-**Released:** 2025-07-30 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Humble and Deadly Cigarette
-
-**Released:** 2025-07-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c5b4f80a-d87f-4923-8422-b328015516fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Air-Borne
@@ -188,24 +188,6 @@ Last updated: 2025-08-05 01:07:48
 
 ---
 
-## Armchair Expert
-
-### Ramy Youssef Returns
-
-**Released:** 2025-08-04 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Carter Sherman (on the sex recession)
-
-**Released:** 2025-07-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### What Is Your Life For? From Hidden Brain
@@ -218,37 +200,19 @@ Last updated: 2025-08-05 01:07:48
 
 ## The Moth
 
+### The Moth Podcast: A Place at the Family Table
+
+**Released:** 2025-08-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6833086754.mp3?updated=1753938159)
+
+---
+
 ### The Moth Podcast: Hot Child in the City
 
 **Released:** 2025-08-01 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738)
-
----
-
-### The Moth Radio Hour: Defining Moments
-
-**Released:** 2025-07-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8850243353.mp3?updated=1753938055)
-
----
-
-## SmartLess 
-
-### "Marc Maron"
-
-**Released:** 2025-08-04 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
-
----
-
-### “John Mayer LIVE”
-
-**Released:** 2025-07-31 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
 
 ---
 
@@ -267,6 +231,42 @@ Last updated: 2025-08-05 01:07:48
 **Released:** 2025-07-31 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Ramy Youssef Returns
+
+**Released:** 2025-08-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Carter Sherman (on the sex recession)
+
+**Released:** 2025-07-30 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marc Maron"
+
+**Released:** 2025-08-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
+
+---
+
+### “John Mayer LIVE”
+
+**Released:** 2025-07-31 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
 
 ---
 
