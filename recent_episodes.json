@@ -49,6 +49,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "3d4a96bb-66a9-4eaf-8303-7c36e464516f",
+    "episode_title": "Summer School 5: The many ways governments influence industry",
+    "release_date": "2025-08-06 07:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "08678b87-e9b1-49a6-9502-05e5670827d6",
     "episode_title": "Would you trust an economist with your economy?",
     "release_date": "2025-08-02 02:13:24",
@@ -56,11 +63,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "51314951-6f1d-4c8b-8efd-0a33ce83708b",
-    "episode_title": "Summer School 4: Who are all these regulations protecting?",
-    "release_date": "2025-07-30 07:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
+    "guid": "1187f7b8-326b-4652-84d4-4eb7fefe918c",
+    "episode_title": "Radical Kindness",
+    "release_date": "2025-08-04 19:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "45748 at https://www.thisamericanlife.org",
@@ -98,18 +105,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "1187f7b8-326b-4652-84d4-4eb7fefe918c",
-    "episode_title": "Radical Kindness",
-    "release_date": "2025-08-04 19:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "f59cee91-fc60-4470-a4b8-b7adbd776f44",
     "episode_title": "Weeding is Fundamental Revisited",
     "release_date": "2025-08-05 17:30:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "16640b2a-3b63-4972-8497-b330011ad0a2",
+    "episode_title": "Short Stuff: Marianne Bachmeier: Vigilante Mother",
+    "release_date": "2025-08-06 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16640b2a-3b63-4972-8497-b330011ad0a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "61f73342-ab9c-464b-ba4f-b32a01586102",
@@ -133,34 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "a6e17285-6763-4387-827a-b32801040722",
-    "episode_title": "Short Stuff: Bliss Point",
-    "release_date": "2025-07-30 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/-GsfS_k7Ahtjl7JxP-W08UvEMOgo-uNOXFUfTGS3Af4",
-    "episode_title": "Simon Cowell: Music Mogul",
-    "release_date": "2025-08-04 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/qE2KUqxe3HKiZrkGcQoSQhkHno5nzM1V8z9PSqMNNZM",
-    "episode_title": "Advice Line with Isaac Larian of MGA Entertainment",
-    "release_date": "2025-07-31 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "88431b62-aa34-496d-9ba6-b32a01267b7f",
-    "episode_title": "What Is Your Life For? From Hidden Brain",
-    "release_date": "2025-07-31 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "b711c622-76d2-11ef-92d1-631903785bfe",
     "episode_title": "The Moth Podcast: A Place at the Family Table",
     "release_date": "2025-08-05 04:25:00",
@@ -173,6 +152,13 @@
     "release_date": "2025-08-01 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "88431b62-aa34-496d-9ba6-b32a01267b7f",
+    "episode_title": "What Is Your Life For? From Hidden Brain",
+    "release_date": "2025-07-31 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "42292942-415a-41bf-a3e7-f8505529c90a",
@@ -189,18 +175,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/TGoP-TwHWKzOv_pa8n-kD5OiSMd-bZcaf1DfDhlEpDA",
-    "episode_title": "Ramy Youssef Returns",
-    "release_date": "2025-08-04 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/-GsfS_k7Ahtjl7JxP-W08UvEMOgo-uNOXFUfTGS3Af4",
+    "episode_title": "Simon Cowell: Music Mogul",
+    "release_date": "2025-08-04 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/lbp__h3MC0StWoKB0y6Ov-248Z7g99IiM2HdApuEccA",
-    "episode_title": "Carter Sherman (on the sex recession)",
-    "release_date": "2025-07-30 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/qE2KUqxe3HKiZrkGcQoSQhkHno5nzM1V8z9PSqMNNZM",
+    "episode_title": "Advice Line with Isaac Larian of MGA Entertainment",
+    "release_date": "2025-07-31 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "bb8fcf79-5d3e-4a7d-8c1b-85f8f417d25f",
@@ -217,17 +203,24 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "gid://art19-episode-locator/V0/89iyh9Y0_2NW1IlzCVk-TihpmfM5zZhhFEscD_foENA",
+    "episode_title": "Caroline Fraser (on serial killers)",
+    "release_date": "2025-08-06 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/TGoP-TwHWKzOv_pa8n-kD5OiSMd-bZcaf1DfDhlEpDA",
+    "episode_title": "Ramy Youssef Returns",
+    "release_date": "2025-08-04 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/KWC5nyfqlyMUY6UIfaJ4byPZpT3mcalKpT4m87OQLBo",
     "episode_title": "#821: My Two-Year Secret Project, COYOTE \u2014 The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens",
     "release_date": "2025-08-05 04:00:00",
     "mp3_url": "https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/xcUiTXObA0XbohXQqwkDjWcY2Jo0fwlFmdNAzXXCwQ8",
-    "episode_title": "#820: Elizabeth Gilbert \u2014 How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)",
-    "release_date": "2025-07-30 04:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
   }
 ]

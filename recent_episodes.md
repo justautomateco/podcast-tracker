@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-06 01:06:33
+Last updated: 2025-08-06 12:28:12
 
 ## Freakonomics Radio
 
@@ -64,6 +64,14 @@ Last updated: 2025-08-06 01:06:33
 
 ## Planet Money
 
+### Summer School 5: The many ways governments influence industry
+
+**Released:** 2025-08-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+
+---
+
 ### Would you trust an economist with your economy?
 
 **Released:** 2025-08-02 02:13:24
@@ -72,11 +80,13 @@ Last updated: 2025-08-06 01:06:33
 
 ---
 
-### Summer School 4: Who are all these regulations protecting?
+## Hidden Brain
 
-**Released:** 2025-07-30 07:00:00
+### Radical Kindness
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+**Released:** 2025-08-04 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
 
 ---
 
@@ -124,16 +134,6 @@ Last updated: 2025-08-06 01:06:33
 
 ---
 
-## Hidden Brain
-
-### Radical Kindness
-
-**Released:** 2025-08-04 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Weeding is Fundamental Revisited
@@ -145,6 +145,14 @@ Last updated: 2025-08-06 01:06:33
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Marianne Bachmeier: Vigilante Mother
+
+**Released:** 2025-08-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16640b2a-3b63-4972-8497-b330011ad0a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Iconic, Complicated VW Beetle 
 
@@ -170,42 +178,6 @@ Last updated: 2025-08-06 01:06:33
 
 ---
 
-### Short Stuff: Bliss Point
-
-**Released:** 2025-07-30 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Simon Cowell: Music Mogul
-
-**Released:** 2025-08-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Isaac Larian of MGA Entertainment
-
-**Released:** 2025-07-31 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### What Is Your Life For? From Hidden Brain
-
-**Released:** 2025-07-31 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: A Place at the Family Table
@@ -221,6 +193,16 @@ Last updated: 2025-08-06 01:06:33
 **Released:** 2025-08-01 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738)
+
+---
+
+## Revisionist History
+
+### What Is Your Life For? From Hidden Brain
+
+**Released:** 2025-07-31 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -242,21 +224,21 @@ Last updated: 2025-08-06 01:06:33
 
 ---
 
-## Armchair Expert
+## How I Built This
 
-### Ramy Youssef Returns
+### Simon Cowell: Music Mogul
 
-**Released:** 2025-08-04 07:35:00
+**Released:** 2025-08-04 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Carter Sherman (on the sex recession)
+### Advice Line with Isaac Larian of MGA Entertainment
 
-**Released:** 2025-07-30 07:35:00
+**Released:** 2025-07-31 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f7032315-021e-4c2a-ad1b-b47496136c79.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -278,6 +260,24 @@ Last updated: 2025-08-06 01:06:33
 
 ---
 
+## Armchair Expert
+
+### Caroline Fraser (on serial killers)
+
+**Released:** 2025-08-06 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ramy Youssef Returns
+
+**Released:** 2025-08-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
@@ -285,14 +285,6 @@ Last updated: 2025-08-06 01:06:33
 **Released:** 2025-08-05 04:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
-
-**Released:** 2025-07-30 04:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9d5c3461-3492-48c6-8f3c-bdce994a15b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
