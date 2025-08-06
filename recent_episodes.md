@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-05 12:28:28
+Last updated: 2025-08-06 01:06:33
+
+## Freakonomics Radio
+
+### Why Does Tipping Still Exist? (Update)
+
+**Released:** 2025-08-06 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/57605835-a368-46e0-9e58-6f2a2cdfe368/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=57605835-a368-46e0-9e58-6f2a2cdfe368&feed=Y8lFbOT4)
+
+---
+
+### 643. Why Do Candles Still Exist?
+
+**Released:** 2025-08-01 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The powerful promise of Earth’s harshest places | Lei Zhang
+
+**Released:** 2025-08-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68911ea74ea73e146890d03d/media.mp3)
+
+---
 
 ### How ethics can help you make better decisions | Michael Schur (re-release)
 
@@ -36,34 +62,6 @@ Last updated: 2025-08-05 12:28:28
 
 ---
 
-### How to recapture the joy of the early internet | Michael Sun
-
-**Released:** 2025-07-31 15:01:30
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688b841e81182761094dd964/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 643. Why Do Candles Still Exist?
-
-**Released:** 2025-08-01 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
 ## Planet Money
 
 ### Would you trust an economist with your economy?
@@ -79,6 +77,70 @@ Last updated: 2025-08-05 12:28:28
 **Released:** 2025-07-30 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2191523728.mp3?d=2156&size=34504290&e=1256100344&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2360 - Caroline Fraser
+
+**Released:** 2025-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
+
+---
+
+### #2359 - Mike Maxwell
+
+**Released:** 2025-08-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
+
+---
+
+### #2358 - Chadd Wright
+
+**Released:** 2025-07-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
+
+---
+
+### #2357 - Sarko Gergerian
+
+**Released:** 2025-07-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753969886)
+
+---
+
+## Hidden Brain
+
+### Radical Kindness
+
+**Released:** 2025-08-04 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Weeding is Fundamental Revisited
+
+**Released:** 2025-08-05 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
 
 ---
 
@@ -113,60 +175,6 @@ Last updated: 2025-08-05 12:28:28
 **Released:** 2025-07-30 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6e17285-6763-4387-827a-b32801040722/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Joe Rogan Experience
-
-### #2359 - Mike Maxwell
-
-**Released:** 2025-08-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
-
----
-
-### #2358 - Chadd Wright
-
-**Released:** 2025-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
-
----
-
-### #2357 - Sarko Gergerian
-
-**Released:** 2025-07-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753969886)
-
----
-
-### #2356 - Mike Vecchione
-
-**Released:** 2025-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8174488822.mp3?updated=1753970979)
-
----
-
-## Hidden Brain
-
-### Radical Kindness
-
-**Released:** 2025-08-04 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Air-Borne
-
-**Released:** 2025-07-29 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2510ba79-cf47-4e51-a7d8-08e0ba181151/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2510ba79-cf47-4e51-a7d8-08e0ba181151&feed=BqbsxVfO)
 
 ---
 
@@ -271,6 +279,14 @@ Last updated: 2025-08-05 12:28:28
 ---
 
 ## The Tim Ferriss Show
+
+### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
+
+**Released:** 2025-08-05 04:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)
 
