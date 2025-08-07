@@ -1,6 +1,40 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-07 01:07:04
+Last updated: 2025-08-07 12:28:08
+
+## Serial
+
+### The Retrievals S02 Episode 4: The Solutions
+
+**Released:** 2025-08-07 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/af502c31-bcad-45fb-93e5-08b4e4d31a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=af502c31-bcad-45fb-93e5-08b4e4d31a02&feed=PpzWFGhg)
+
+---
+
+### The Retrievals S02 Episode 3: The Guidelines
+
+**Released:** 2025-08-07 10:55:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/190506ab-2704-42c4-8e31-8ff0b027184f/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=190506ab-2704-42c4-8e31-8ff0b027184f&feed=PpzWFGhg)
+
+---
+
+### The Retrievals S02 Episode 2: The Speech
+
+**Released:** 2025-08-07 10:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/78b28639-ff42-4552-a500-25be5c24ae86/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=78b28639-ff42-4552-a500-25be5c24ae86&feed=PpzWFGhg)
+
+---
+
+### The Retrievals S02 Episode 1: The Case
+
+**Released:** 2025-08-07 10:45:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1bc17233-2e46-4fba-9dc3-c24dc564c49c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1bc17233-2e46-4fba-9dc3-c24dc564c49c&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -17,24 +51,6 @@ Last updated: 2025-08-07 01:07:04
 **Released:** 2025-08-01 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db82e72d-a274-4a68-990a-87dd2155cb2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db82e72d-a274-4a68-990a-87dd2155cb2e&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
-
----
-
-### Would you trust an economist with your economy?
-
-**Released:** 2025-08-02 02:13:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
 
 ---
 
@@ -80,47 +96,21 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
-## This American Life
+## Planet Money
 
-### 839: Meet Me at the Fair
+### Summer School 5: The many ways governments influence industry
 
-**Released:** 2025-08-03 18:00:00
+**Released:** 2025-08-06 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Marianne Bachmeier: Vigilante Mother
-
-**Released:** 2025-08-06 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16640b2a-3b63-4972-8497-b330011ad0a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
 
 ---
 
-### The Iconic, Complicated VW Beetle 
+### Would you trust an economist with your economy?
 
-**Released:** 2025-08-05 09:00:00
+**Released:** 2025-08-02 02:13:24
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/61f73342-ab9c-464b-ba4f-b32a01586102/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Is birth order important?
-
-**Released:** 2025-08-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cab4b116-aa1d-425d-8a16-b32a0140115d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Child Prodigies: Better to Burn Out Than Fade Away
-
-**Released:** 2025-07-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36baafbd-c148-4976-b11b-b32801663bf7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
 
 ---
 
@@ -168,6 +158,16 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
+
+---
+
 ## 99% Invisible
 
 ### Weeding is Fundamental Revisited
@@ -178,31 +178,55 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
-## Revisionist History
+## Stuff You Should Know
 
-### What Is Your Life For? From Hidden Brain
+### Who's Up For A Circular Economy
 
-**Released:** 2025-07-31 04:01:00
+**Released:** 2025-08-07 09:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Caroline Fraser (on serial killers)
-
-**Released:** 2025-08-06 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bb76097-5b75-486f-99f2-b32f0144ecdb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Ramy Youssef Returns
+### Short Stuff: Marianne Bachmeier: Vigilante Mother
 
-**Released:** 2025-08-04 07:35:00
+**Released:** 2025-08-06 09:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16640b2a-3b63-4972-8497-b330011ad0a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Iconic, Complicated VW Beetle 
+
+**Released:** 2025-08-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/61f73342-ab9c-464b-ba4f-b32a01586102/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Is birth order important?
+
+**Released:** 2025-08-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cab4b116-aa1d-425d-8a16-b32a0140115d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## How I Built This
+
+### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+
+**Released:** 2025-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Simon Cowell: Music Mogul
+
+**Released:** 2025-08-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,24 +248,6 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
-## How I Built This
-
-### Simon Cowell: Music Mogul
-
-**Released:** 2025-08-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Isaac Larian of MGA Entertainment
-
-**Released:** 2025-07-31 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/70f81a60-3666-43cf-822d-f42889c8970e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Marc Maron"
@@ -252,15 +258,15 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
-### “John Mayer LIVE”
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-07-31 07:00:00
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5b50cdb2-9367-4da0-b037-993f849a6b8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5b50cdb2-9367-4da0-b037-993f849a6b8b&feed=hNaFxXpO)
+**Released:** 2025-08-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### Timothy Olyphant Returns Again
 
@@ -270,11 +276,21 @@ Last updated: 2025-08-07 01:07:04
 
 ---
 
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
+## Armchair Expert
 
-**Released:** 2025-07-31 04:05:00
+### Caroline Fraser (on serial killers)
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
+**Released:** 2025-08-06 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ramy Youssef Returns
+
+**Released:** 2025-08-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
