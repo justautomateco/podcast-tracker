@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-06 12:28:12
+Last updated: 2025-08-07 01:07:04
 
 ## Freakonomics Radio
 
@@ -20,7 +20,33 @@ Last updated: 2025-08-06 12:28:12
 
 ---
 
+## Planet Money
+
+### Summer School 5: The many ways governments influence industry
+
+**Released:** 2025-08-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+
+---
+
+### Would you trust an economist with your economy?
+
+**Released:** 2025-08-02 02:13:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
+
+---
+
 ## TED Talks Daily
+
+### The wonder of weightlifting | Jaime Seeman
+
+**Released:** 2025-08-06 15:11:43
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68921ee234f09da0e533233c/media.mp3)
+
+---
 
 ### The powerful promise of Earth’s harshest places | Lei Zhang
 
@@ -54,42 +80,6 @@ Last updated: 2025-08-06 12:28:12
 
 ---
 
-### Life is hard. Art helps | Liana Finck (re-release)
-
-**Released:** 2025-08-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688b8665c6d705dd3a42bfdf/media.mp3)
-
----
-
-## Planet Money
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
-
----
-
-### Would you trust an economist with your economy?
-
-**Released:** 2025-08-02 02:13:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1862096356.mp3?d=1941&size=31070337&e=1256575142&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### Radical Kindness
-
-**Released:** 2025-08-04 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
 ## This American Life
 
 ### 839: Meet Me at the Fair
@@ -97,50 +87,6 @@ Last updated: 2025-08-06 12:28:12
 **Released:** 2025-08-03 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2360 - Caroline Fraser
-
-**Released:** 2025-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
-
----
-
-### #2359 - Mike Maxwell
-
-**Released:** 2025-08-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
-
----
-
-### #2358 - Chadd Wright
-
-**Released:** 2025-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
-
----
-
-### #2357 - Sarko Gergerian
-
-**Released:** 2025-07-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2231703083.mp3?updated=1753969886)
-
----
-
-## 99% Invisible
-
-### Weeding is Fundamental Revisited
-
-**Released:** 2025-08-05 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +124,88 @@ Last updated: 2025-08-06 12:28:12
 
 ---
 
+## The Joe Rogan Experience
+
+### #2361 - Graham Linehan
+
+**Released:** 2025-08-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
+
+---
+
+### #2360 - Caroline Fraser
+
+**Released:** 2025-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
+
+---
+
+### #2359 - Mike Maxwell
+
+**Released:** 2025-08-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
+
+---
+
+### #2358 - Chadd Wright
+
+**Released:** 2025-07-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
+
+---
+
+## Hidden Brain
+
+### Radical Kindness
+
+**Released:** 2025-08-04 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Weeding is Fundamental Revisited
+
+**Released:** 2025-08-05 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### What Is Your Life For? From Hidden Brain
+
+**Released:** 2025-07-31 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Caroline Fraser (on serial killers)
+
+**Released:** 2025-08-06 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ramy Youssef Returns
+
+**Released:** 2025-08-04 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: A Place at the Family Table
@@ -193,34 +221,6 @@ Last updated: 2025-08-06 12:28:12
 **Released:** 2025-08-01 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6213912406.mp3?updated=1753939738)
-
----
-
-## Revisionist History
-
-### What Is Your Life For? From Hidden Brain
-
-**Released:** 2025-07-31 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/88431b62-aa34-496d-9ba6-b32a01267b7f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Timothy Olyphant Returns Again
-
-**Released:** 2025-08-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dcf21e65-425c-400e-ad60-bdb2cb57bb88/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dcf21e65-425c-400e-ad60-bdb2cb57bb88&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
-
-**Released:** 2025-07-31 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
 
 ---
 
@@ -260,21 +260,21 @@ Last updated: 2025-08-06 12:28:12
 
 ---
 
-## Armchair Expert
+## Conan O'Brien Needs A Friend
 
-### Caroline Fraser (on serial killers)
+### Timothy Olyphant Returns Again
 
-**Released:** 2025-08-06 07:35:00
+**Released:** 2025-08-04 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dcf21e65-425c-400e-ad60-bdb2cb57bb88/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dcf21e65-425c-400e-ad60-bdb2cb57bb88&feed=dHoohVNH)
 
 ---
 
-### Ramy Youssef Returns
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 2
 
-**Released:** 2025-08-04 07:35:00
+**Released:** 2025-07-31 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad0af716-2f0d-49fa-9c37-e07a48467599.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/89d6231e-cca6-4add-b511-bacabd587b36/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=89d6231e-cca6-4add-b511-bacabd587b36&feed=dHoohVNH)
 
 ---
 
@@ -282,7 +282,7 @@ Last updated: 2025-08-06 12:28:12
 
 ### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
 
-**Released:** 2025-08-05 04:00:00
+**Released:** 2025-08-06 02:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
