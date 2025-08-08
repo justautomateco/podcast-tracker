@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-07 12:28:08
+Last updated: 2025-08-08 01:06:45
 
 ## Serial
 
@@ -54,7 +54,25 @@ Last updated: 2025-08-07 12:28:08
 
 ---
 
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
+
+---
+
 ## TED Talks Daily
+
+### Is AI ruining music? | Dustin Ballard
+
+**Released:** 2025-08-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68921eed8184339560fb90b6/media.mp3)
+
+---
 
 ### The wonder of weightlifting | Jaime Seeman
 
@@ -85,14 +103,6 @@ Last updated: 2025-08-07 12:28:08
 **Released:** 2025-08-03 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688bee1310d9919845dac35b/media.mp3)
-
----
-
-### How to make learning as addictive as social media | Luis von Ahn (re-release)
-
-**Released:** 2025-08-02 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688d0d38fc150bcf7f585175/media.mp3)
 
 ---
 
@@ -140,14 +150,6 @@ Last updated: 2025-08-07 12:28:08
 
 ---
 
-### #2358 - Chadd Wright
-
-**Released:** 2025-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6110187398.mp3?updated=1754004577)
-
----
-
 ## Hidden Brain
 
 ### Radical Kindness
@@ -155,16 +157,6 @@ Last updated: 2025-08-07 12:28:08
 **Released:** 2025-08-04 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
 
 ---
 
@@ -248,16 +240,6 @@ Last updated: 2025-08-07 12:28:08
 
 ---
 
-## SmartLess 
-
-### "Marc Maron"
-
-**Released:** 2025-08-04 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
@@ -273,6 +255,16 @@ Last updated: 2025-08-07 12:28:08
 **Released:** 2025-08-04 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dcf21e65-425c-400e-ad60-bdb2cb57bb88/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dcf21e65-425c-400e-ad60-bdb2cb57bb88&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Marc Maron"
+
+**Released:** 2025-08-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
 
 ---
 
