@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-08 12:27:10
+Last updated: 2025-08-09 01:00:57
 
 ## Serial
 
@@ -54,43 +54,15 @@ Last updated: 2025-08-08 12:27:10
 
 ---
 
-## The Joe Rogan Experience
-
-### #2361 - Graham Linehan
-
-**Released:** 2025-08-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
-
----
-
-### #2360 - Caroline Fraser
-
-**Released:** 2025-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
-
----
-
-### #2359 - Mike Maxwell
-
-**Released:** 2025-08-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9910097531.mp3?updated=1754065481)
-
----
-
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
 ## TED Talks Daily
+
+### A bold idea to rebuild the working class | Molly Hemstreet
+
+**Released:** 2025-08-08 14:57:58
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894eba07f93fda8b2f2f788/media.mp3)
+
+---
 
 ### Is AI ruining music? | Dustin Ballard
 
@@ -124,11 +96,13 @@ Last updated: 2025-08-08 12:27:10
 
 ---
 
-### Sunday Pick: Ai Weiwei | Design Matters
+## This American Life
 
-**Released:** 2025-08-03 06:00:00
+### 839: Meet Me at the Fair
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/688bee1310d9919845dac35b/media.mp3)
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
 
 ---
 
@@ -150,6 +124,32 @@ Last updated: 2025-08-08 12:27:10
 
 ---
 
+## The Joe Rogan Experience
+
+### #2362 - Ralph Barbosa
+
+**Released:** 2025-08-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
+
+---
+
+### #2361 - Graham Linehan
+
+**Released:** 2025-08-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
+
+---
+
+### #2360 - Caroline Fraser
+
+**Released:** 2025-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
+
+---
+
 ## Hidden Brain
 
 ### Radical Kindness
@@ -157,34 +157,6 @@ Last updated: 2025-08-08 12:27:10
 **Released:** 2025-08-04 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Weeding is Fundamental Revisited
-
-**Released:** 2025-08-05 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
-
-**Released:** 2025-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Simon Cowell: Music Mogul
-
-**Released:** 2025-08-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -222,6 +194,16 @@ Last updated: 2025-08-08 12:27:10
 
 ---
 
+## 99% Invisible
+
+### Weeding is Fundamental Revisited
+
+**Released:** 2025-08-05 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: Traveling Together
@@ -240,16 +222,6 @@ Last updated: 2025-08-08 12:27:10
 
 ---
 
-## SmartLess 
-
-### "Marc Maron"
-
-**Released:** 2025-08-04 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
@@ -265,6 +237,34 @@ Last updated: 2025-08-08 12:27:10
 **Released:** 2025-08-04 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/dcf21e65-425c-400e-ad60-bdb2cb57bb88/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=dcf21e65-425c-400e-ad60-bdb2cb57bb88&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+
+**Released:** 2025-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Simon Cowell: Music Mogul
+
+**Released:** 2025-08-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marc Maron"
+
+**Released:** 2025-08-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
 
 ---
 
