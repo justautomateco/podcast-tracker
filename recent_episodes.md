@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-09 12:23:11
+Last updated: 2025-08-10 01:10:24
 
 ## Serial
 
@@ -54,6 +54,68 @@ Last updated: 2025-08-09 12:23:11
 
 ---
 
+## Planet Money
+
+### What happens when governments cook the books
+
+**Released:** 2025-08-09 02:48:51
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
+
+---
+
+### Summer School 5: The many ways governments influence industry
+
+**Released:** 2025-08-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 839: Meet Me at the Fair
+
+**Released:** 2025-08-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2363 - David Kipping
+
+**Released:** 2025-08-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610)
+
+---
+
+### #2362 - Ralph Barbosa
+
+**Released:** 2025-08-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
+
+---
+
+### #2361 - Graham Linehan
+
+**Released:** 2025-08-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
+
+---
+
+### #2360 - Caroline Fraser
+
+**Released:** 2025-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
+
+---
+
 ## TED Talks Daily
 
 ### How to preserve your private life in the age of social media | Bryce Dallas Howard (re-release)
@@ -96,60 +158,6 @@ Last updated: 2025-08-09 12:23:11
 
 ---
 
-## This American Life
-
-### 839: Meet Me at the Fair
-
-**Released:** 2025-08-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3)
-
----
-
-## Planet Money
-
-### What happens when governments cook the books
-
-**Released:** 2025-08-09 02:48:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
-
----
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
-
----
-
-## The Joe Rogan Experience
-
-### #2362 - Ralph Barbosa
-
-**Released:** 2025-08-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
-
----
-
-### #2361 - Graham Linehan
-
-**Released:** 2025-08-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
-
----
-
-### #2360 - Caroline Fraser
-
-**Released:** 2025-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
-
----
-
 ## Hidden Brain
 
 ### Radical Kindness
@@ -157,16 +165,6 @@ Last updated: 2025-08-09 12:23:11
 **Released:** 2025-08-04 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=71fa5ad1-fee5-4999-8ff2-23ee4a1b6dad&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Weeding is Fundamental Revisited
-
-**Released:** 2025-08-05 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
 
 ---
 
@@ -212,49 +210,13 @@ Last updated: 2025-08-09 12:23:11
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+### Weeding is Fundamental Revisited
 
-**Released:** 2025-08-07 07:00:00
+**Released:** 2025-08-05 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Simon Cowell: Music Mogul
-
-**Released:** 2025-08-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Traveling Together
-
-**Released:** 2025-08-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
-
----
-
-### The Moth Podcast: A Place at the Family Table
-
-**Released:** 2025-08-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6833086754.mp3?updated=1753938159)
-
----
-
-## The Tim Ferriss Show
-
-### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
-
-**Released:** 2025-08-06 02:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
 
 ---
 
@@ -284,6 +246,52 @@ Last updated: 2025-08-09 12:23:11
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Traveling Together
+
+**Released:** 2025-08-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
+
+---
+
+### The Moth Podcast: A Place at the Family Table
+
+**Released:** 2025-08-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6833086754.mp3?updated=1753938159)
+
+---
+
+## How I Built This
+
+### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+
+**Released:** 2025-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Simon Cowell: Music Mogul
+
+**Released:** 2025-08-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f7ea928-7f93-4ef8-8169-d95a07fb830f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marc Maron"
+
+**Released:** 2025-08-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
@@ -302,13 +310,13 @@ Last updated: 2025-08-09 12:23:11
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Marc Maron"
+### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
 
-**Released:** 2025-08-04 07:01:00
+**Released:** 2025-08-06 02:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/eb1f7e93-7621-4d2e-8b50-be88fbbcc53f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=eb1f7e93-7621-4d2e-8b50-be88fbbcc53f&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
