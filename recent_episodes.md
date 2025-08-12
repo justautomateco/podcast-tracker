@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-12 01:00:54
+Last updated: 2025-08-12 12:25:17
 
 ## Serial
 
@@ -33,6 +33,24 @@ Last updated: 2025-08-12 01:00:54
 **Released:** 2025-08-07 10:45:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1bc17233-2e46-4fba-9dc3-c24dc564c49c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1bc17233-2e46-4fba-9dc3-c24dc564c49c&feed=PpzWFGhg)
+
+---
+
+## Freakonomics Radio
+
+### The First Great American Industry (Update)
+
+**Released:** 2025-08-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
+
+---
+
+### Why Does Tipping Still Exist? (Update)
+
+**Released:** 2025-08-06 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/57605835-a368-46e0-9e58-6f2a2cdfe368/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=57605835-a368-46e0-9e58-6f2a2cdfe368&feed=Y8lFbOT4)
 
 ---
 
@@ -78,24 +96,6 @@ Last updated: 2025-08-12 01:00:54
 
 ---
 
-## Freakonomics Radio
-
-### The First Great American Industry (Update)
-
-**Released:** 2025-08-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
-
----
-
-### Why Does Tipping Still Exist? (Update)
-
-**Released:** 2025-08-06 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/57605835-a368-46e0-9e58-6f2a2cdfe368/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=57605835-a368-46e0-9e58-6f2a2cdfe368&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 838: Letters! Actual Letters!
@@ -106,21 +106,13 @@ Last updated: 2025-08-12 01:00:54
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### What happens when governments cook the books
+### The Best Years of Your Life
 
-**Released:** 2025-08-09 02:48:51
+**Released:** 2025-08-11 19:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
-
----
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
 
 ---
 
@@ -158,13 +150,21 @@ Last updated: 2025-08-12 01:00:54
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### The Best Years of Your Life
+### What happens when governments cook the books
 
-**Released:** 2025-08-11 19:00:00
+**Released:** 2025-08-09 02:48:51
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
+
+---
+
+### Summer School 5: The many ways governments influence industry
+
+**Released:** 2025-08-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
 
 ---
 
@@ -179,6 +179,14 @@ Last updated: 2025-08-12 01:00:54
 ---
 
 ## Stuff You Should Know
+
+### Heavy Metal Pt I
+
+**Released:** 2025-08-12 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d092e32-80ef-4239-b446-b33700139649/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: The Disappearance of Flight MH370, Part II
 
@@ -212,47 +220,21 @@ Last updated: 2025-08-12 01:00:54
 
 ---
 
-### The Iconic, Complicated VW Beetle 
-
-**Released:** 2025-08-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/61f73342-ab9c-464b-ba4f-b32a01586102/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Crumbl: Jason McGowan
-
-**Released:** 2025-08-11 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
-
-**Released:** 2025-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### The Moth Radio Hour: Our Parents, Ourselves
+
+**Released:** 2025-08-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
+
+---
 
 ### The Moth Podcast: Traveling Together
 
 **Released:** 2025-08-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
-
----
-
-### The Moth Podcast: A Place at the Family Table
-
-**Released:** 2025-08-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6833086754.mp3?updated=1753938159)
 
 ---
 
@@ -271,6 +253,34 @@ Last updated: 2025-08-12 01:00:54
 **Released:** 2025-08-07 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Jason Momoa"
+
+**Released:** 2025-08-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Crumbl: Jason McGowan
+
+**Released:** 2025-08-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+
+**Released:** 2025-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -297,16 +307,6 @@ Last updated: 2025-08-12 01:00:54
 **Released:** 2025-08-06 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jason Momoa"
-
-**Released:** 2025-08-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
 
 ---
 
