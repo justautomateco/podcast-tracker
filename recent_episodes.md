@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-13 01:02:08
+Last updated: 2025-08-13 12:25:46
+
+## Freakonomics Radio
+
+### The First Great American Industry (Update)
+
+**Released:** 2025-08-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -33,16 +43,6 @@ Last updated: 2025-08-13 01:02:08
 **Released:** 2025-08-07 10:45:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1bc17233-2e46-4fba-9dc3-c24dc564c49c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1bc17233-2e46-4fba-9dc3-c24dc564c49c&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### The First Great American Industry (Update)
-
-**Released:** 2025-08-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
 
 ---
 
@@ -132,6 +132,16 @@ Last updated: 2025-08-13 01:02:08
 
 ---
 
+## Planet Money
+
+### What happens when governments cook the books
+
+**Released:** 2025-08-09 02:48:51
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
+
+---
+
 ## Hidden Brain
 
 ### The Best Years of Your Life
@@ -153,6 +163,14 @@ Last updated: 2025-08-13 01:02:08
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Devil Horns
+
+**Released:** 2025-08-13 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e451f9a7-3bdf-45b7-b859-b33601287914/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Heavy Metal Pt I
 
@@ -186,15 +204,15 @@ Last updated: 2025-08-13 01:02:08
 
 ---
 
-### Short Stuff: Marianne Bachmeier: Vigilante Mother
+## How I Built This
 
-**Released:** 2025-08-06 09:00:00
+### Exclusive Update: The Chef Who Shocked the Culinary World and Why He’s Changing Course Again—Daniel Humm of Eleven Madison Park
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16640b2a-3b63-4972-8497-b330011ad0a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-08-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Crumbl: Jason McGowan
 
@@ -209,24 +227,6 @@ Last updated: 2025-08-13 01:02:08
 **Released:** 2025-08-07 07:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Our Parents, Ourselves
-
-**Released:** 2025-08-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
-
----
-
-### The Moth Podcast: Traveling Together
-
-**Released:** 2025-08-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
 
 ---
 
@@ -250,6 +250,14 @@ Last updated: 2025-08-13 01:02:08
 
 ## Armchair Expert
 
+### Chris Feistl & Dave Mitchell (former DEA agents)
+
+**Released:** 2025-08-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfd946b0-bab3-4a48-a0ab-eb8ee7df74d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Shaquille O'Neal
 
 **Released:** 2025-08-11 07:35:00
@@ -266,11 +274,21 @@ Last updated: 2025-08-13 01:02:08
 
 ---
 
-### Caroline Fraser (on serial killers)
+## The Moth
 
-**Released:** 2025-08-06 07:35:00
+### The Moth Radio Hour: Our Parents, Ourselves
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b22b6404-e303-48ae-8349-aaf4e12147b0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-08-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
+
+---
+
+### The Moth Podcast: Traveling Together
+
+**Released:** 2025-08-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
 
 ---
 
@@ -286,29 +304,11 @@ Last updated: 2025-08-13 01:02:08
 
 ## The Tim Ferriss Show
 
-### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
+### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
 
-**Released:** 2025-08-06 02:00:00
+**Released:** 2025-08-13 03:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Planet Money
-
-### What happens when governments cook the books
-
-**Released:** 2025-08-09 02:48:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
-
----
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
