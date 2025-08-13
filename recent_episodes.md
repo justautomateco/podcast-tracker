@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-12 12:25:17
+Last updated: 2025-08-13 01:02:08
 
 ## Serial
 
@@ -46,15 +46,15 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
-### Why Does Tipping Still Exist? (Update)
+## TED Talks Daily
 
-**Released:** 2025-08-06 01:00:00
+### A corporate job isn’t the only path to success. Here’s where to look next | Anuj Tanna
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/57605835-a368-46e0-9e58-6f2a2cdfe368/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=57605835-a368-46e0-9e58-6f2a2cdfe368&feed=Y8lFbOT4)
+**Released:** 2025-08-12 15:00:03
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b55515edc63baa300ac46/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The hidden logic of human harmony | Steven Pinker
 
@@ -88,14 +88,6 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
-### Is AI ruining music? | Dustin Ballard
-
-**Released:** 2025-08-07 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68921eed8184339560fb90b6/media.mp3)
-
----
-
 ## This American Life
 
 ### 838: Letters! Actual Letters!
@@ -106,17 +98,15 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### The Best Years of Your Life
+### #2364 - Brandon Epstein
 
-**Released:** 2025-08-11 19:00:00
+**Released:** 2025-08-12 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3519146391.mp3?updated=1755016961)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2363 - David Kipping
 
@@ -142,39 +132,23 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
-### #2360 - Caroline Fraser
+## Hidden Brain
 
-**Released:** 2025-08-05 17:00:00
+### The Best Years of Your Life
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8493364439.mp3?updated=1754411761)
+**Released:** 2025-08-11 19:00:00
 
----
-
-## Planet Money
-
-### What happens when governments cook the books
-
-**Released:** 2025-08-09 02:48:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
-
----
-
-### Summer School 5: The many ways governments influence industry
-
-**Released:** 2025-08-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
 
 ---
 
 ## 99% Invisible
 
-### Weeding is Fundamental Revisited
+### Sister Aimee and the Birth of the Megachurch
 
-**Released:** 2025-08-05 17:30:00
+**Released:** 2025-08-12 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8e8aff8c-9aa9-49f6-bf2c-64d11ca899ff&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
 
 ---
 
@@ -220,6 +194,24 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
+## How I Built This
+
+### Crumbl: Jason McGowan
+
+**Released:** 2025-08-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
+
+**Released:** 2025-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: Our Parents, Ourselves
@@ -256,34 +248,6 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
-## SmartLess 
-
-### "Jason Momoa"
-
-**Released:** 2025-08-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Crumbl: Jason McGowan
-
-**Released:** 2025-08-11 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
-
-**Released:** 2025-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
 
 ### Shaquille O'Neal
@@ -310,6 +274,16 @@ Last updated: 2025-08-12 12:25:17
 
 ---
 
+## SmartLess 
+
+### "Jason Momoa"
+
+**Released:** 2025-08-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #821: My Two-Year Secret Project, COYOTE — The Strategies and Tactics for Building a Bestseller from Nothing with Elan Lee of Exploding Kittens
@@ -317,6 +291,24 @@ Last updated: 2025-08-12 12:25:17
 **Released:** 2025-08-06 02:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a1902203-896c-4373-a9f1-57e00d6d3ff9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Planet Money
+
+### What happens when governments cook the books
+
+**Released:** 2025-08-09 02:48:51
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
+
+---
+
+### Summer School 5: The many ways governments influence industry
+
+**Released:** 2025-08-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1955087023.mp3?d=2181&size=34910128&e=1256812311&t=podcast&p=510289)
 
 ---
 
