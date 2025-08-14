@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-13 12:25:46
-
-## Freakonomics Radio
-
-### The First Great American Industry (Update)
-
-**Released:** 2025-08-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
-
----
+Last updated: 2025-08-14 01:02:32
 
 ## Serial
 
@@ -46,7 +36,97 @@ Last updated: 2025-08-13 12:25:46
 
 ---
 
+## Freakonomics Radio
+
+### The First Great American Industry (Update)
+
+**Released:** 2025-08-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Summer School 6: When the markets need a designer
+
+**Released:** 2025-08-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5722533572.mp3?d=2170&size=34732078&e=1257189367&t=podcast&p=510289)
+
+---
+
+### What happens when governments cook the books
+
+**Released:** 2025-08-09 02:48:51
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
+
+---
+
+## This American Life
+
+### 838: Letters! Actual Letters!
+
+**Released:** 2025-08-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2365 - Rep. Anna Paulina Luna
+
+**Released:** 2025-08-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8101783227.mp3?updated=1755103584)
+
+---
+
+### #2364 - Brandon Epstein
+
+**Released:** 2025-08-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3519146391.mp3?updated=1755016961)
+
+---
+
+### #2363 - David Kipping
+
+**Released:** 2025-08-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610)
+
+---
+
+### #2362 - Ralph Barbosa
+
+**Released:** 2025-08-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
+
+---
+
+## Hidden Brain
+
+### The Best Years of Your Life
+
+**Released:** 2025-08-11 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
+
+---
+
 ## TED Talks Daily
+
+### A multigenerational musical journey | Yijia Tu
+
+**Released:** 2025-08-13 15:36:26
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3)
+
+---
 
 ### A corporate job isn’t the only path to success. Here’s where to look next | Anuj Tanna
 
@@ -77,78 +157,6 @@ Last updated: 2025-08-13 12:25:46
 **Released:** 2025-08-09 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3)
-
----
-
-### A bold idea to rebuild the working class | Molly Hemstreet
-
-**Released:** 2025-08-08 14:57:58
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894eba07f93fda8b2f2f788/media.mp3)
-
----
-
-## This American Life
-
-### 838: Letters! Actual Letters!
-
-**Released:** 2025-08-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2364 - Brandon Epstein
-
-**Released:** 2025-08-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3519146391.mp3?updated=1755016961)
-
----
-
-### #2363 - David Kipping
-
-**Released:** 2025-08-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610)
-
----
-
-### #2362 - Ralph Barbosa
-
-**Released:** 2025-08-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
-
----
-
-### #2361 - Graham Linehan
-
-**Released:** 2025-08-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044)
-
----
-
-## Planet Money
-
-### What happens when governments cook the books
-
-**Released:** 2025-08-09 02:48:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289)
-
----
-
-## Hidden Brain
-
-### The Best Years of Your Life
-
-**Released:** 2025-08-11 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
 
 ---
 
@@ -230,24 +238,6 @@ Last updated: 2025-08-13 12:25:46
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Bob Odenkirk Returns
-
-**Released:** 2025-08-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
-
-**Released:** 2025-08-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Chris Feistl & Dave Mitchell (former DEA agents)
@@ -289,6 +279,24 @@ Last updated: 2025-08-13 12:25:46
 **Released:** 2025-08-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bob Odenkirk Returns
+
+**Released:** 2025-08-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
+
+**Released:** 2025-08-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH)
 
 ---
 

@@ -1,12 +1,5 @@
 [
   {
-    "guid": "79c89713-9ae0-4d0d-9cf3-c9740a8cf6c8",
-    "episode_title": "The First Great American Industry (Update)",
-    "release_date": "2025-08-08 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "a4a87446-dd65-44c8-b313-53e3bf981760",
     "episode_title": "The Retrievals S02 Episode 4: The Solutions",
     "release_date": "2025-08-07 11:00:00",
@@ -35,6 +28,76 @@
     "podcast_name": "Serial"
   },
   {
+    "guid": "79c89713-9ae0-4d0d-9cf3-c9740a8cf6c8",
+    "episode_title": "The First Great American Industry (Update)",
+    "release_date": "2025-08-08 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "671363da-44b1-4151-a21e-cd05cac5678f",
+    "episode_title": "Summer School 6: When the markets need a designer",
+    "release_date": "2025-08-13 07:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5722533572.mp3?d=2170&size=34732078&e=1257189367&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "17784ea8-a13b-4969-a825-7054897c3272",
+    "episode_title": "What happens when governments cook the books",
+    "release_date": "2025-08-09 02:48:51",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "45735 at https://www.thisamericanlife.org",
+    "episode_title": "838: Letters! Actual Letters!",
+    "release_date": "2025-08-10 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "e3846f7c-77d3-11f0-bd9b-37c96303cfcd",
+    "episode_title": "#2365 - Rep. Anna Paulina Luna",
+    "release_date": "2025-08-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8101783227.mp3?updated=1755103584",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "f41621d6-7702-11f0-8196-373bda9c4d55",
+    "episode_title": "#2364 - Brandon Epstein",
+    "release_date": "2025-08-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3519146391.mp3?updated=1755016961",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "72e41c42-74d4-11f0-b844-7b30b957340b",
+    "episode_title": "#2363 - David Kipping",
+    "release_date": "2025-08-09 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "3f8d6b12-73f5-11f0-aecc-2bd217b7238d",
+    "episode_title": "#2362 - Ralph Barbosa",
+    "release_date": "2025-08-08 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "653f75c3-f12a-4e69-9af1-05522c1212df",
+    "episode_title": "The Best Years of Your Life",
+    "release_date": "2025-08-11 19:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "689b5c395edc63baa3035f0e",
+    "episode_title": "A multigenerational musical journey | Yijia Tu",
+    "release_date": "2025-08-13 15:36:26",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "689b55515edc63baa300ac46",
     "episode_title": "A corporate job isn\u2019t the only path to success. Here\u2019s where to look next | Anuj Tanna",
     "release_date": "2025-08-12 15:00:03",
@@ -61,62 +124,6 @@
     "release_date": "2025-08-09 06:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6894eba07f93fda8b2f2f788",
-    "episode_title": "A bold idea to rebuild the working class | Molly Hemstreet",
-    "release_date": "2025-08-08 14:57:58",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894eba07f93fda8b2f2f788/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "45735 at https://www.thisamericanlife.org",
-    "episode_title": "838: Letters! Actual Letters!",
-    "release_date": "2025-08-10 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "f41621d6-7702-11f0-8196-373bda9c4d55",
-    "episode_title": "#2364 - Brandon Epstein",
-    "release_date": "2025-08-12 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3519146391.mp3?updated=1755016961",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "72e41c42-74d4-11f0-b844-7b30b957340b",
-    "episode_title": "#2363 - David Kipping",
-    "release_date": "2025-08-09 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "3f8d6b12-73f5-11f0-aecc-2bd217b7238d",
-    "episode_title": "#2362 - Ralph Barbosa",
-    "release_date": "2025-08-08 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "cf0cd576-72dc-11f0-b80e-af65c57e971a",
-    "episode_title": "#2361 - Graham Linehan",
-    "release_date": "2025-08-06 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6285790070.mp3?updated=1754501044",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "17784ea8-a13b-4969-a825-7054897c3272",
-    "episode_title": "What happens when governments cook the books",
-    "release_date": "2025-08-09 02:48:51",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5799051520.mp3?d=2091&size=33468587&e=1256971798&t=podcast&p=510289",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "653f75c3-f12a-4e69-9af1-05522c1212df",
-    "episode_title": "The Best Years of Your Life",
-    "release_date": "2025-08-11 19:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "b77a23ca-9487-4438-a479-94eeeff8d419",
@@ -182,20 +189,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "b086a53d-f976-4116-a6e2-1a6721f4dfe4",
-    "episode_title": "Bob Odenkirk Returns",
-    "release_date": "2025-08-11 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "98a9b248-466a-49cc-b99a-d3691d59db70",
-    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 3",
-    "release_date": "2025-08-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/K0ziYz3PXveQSw1Jxj4H7Q_1w49jPUYlfRAxrYEmes4",
     "episode_title": "Chris Feistl & Dave Mitchell (former DEA agents)",
     "release_date": "2025-08-13 07:35:00",
@@ -229,6 +222,20 @@
     "release_date": "2025-08-08 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b086a53d-f976-4116-a6e2-1a6721f4dfe4",
+    "episode_title": "Bob Odenkirk Returns",
+    "release_date": "2025-08-11 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "98a9b248-466a-49cc-b99a-d3691d59db70",
+    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 3",
+    "release_date": "2025-08-07 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "1a036f83-1028-433d-a39b-c5901b86609a",
