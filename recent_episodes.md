@@ -1,40 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-14 01:02:32
-
-## Serial
-
-### The Retrievals S02 Episode 4: The Solutions
-
-**Released:** 2025-08-07 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/af502c31-bcad-45fb-93e5-08b4e4d31a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=af502c31-bcad-45fb-93e5-08b4e4d31a02&feed=PpzWFGhg)
-
----
-
-### The Retrievals S02 Episode 3: The Guidelines
-
-**Released:** 2025-08-07 10:55:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/190506ab-2704-42c4-8e31-8ff0b027184f/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=190506ab-2704-42c4-8e31-8ff0b027184f&feed=PpzWFGhg)
-
----
-
-### The Retrievals S02 Episode 2: The Speech
-
-**Released:** 2025-08-07 10:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/78b28639-ff42-4552-a500-25be5c24ae86/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=78b28639-ff42-4552-a500-25be5c24ae86&feed=PpzWFGhg)
-
----
-
-### The Retrievals S02 Episode 1: The Case
-
-**Released:** 2025-08-07 10:45:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1bc17233-2e46-4fba-9dc3-c24dc564c49c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1bc17233-2e46-4fba-9dc3-c24dc564c49c&feed=PpzWFGhg)
-
----
+Last updated: 2025-08-14 12:26:38
 
 ## Freakonomics Radio
 
@@ -43,6 +9,48 @@ Last updated: 2025-08-14 01:02:32
 **Released:** 2025-08-08 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
+
+---
+
+## TED Talks Daily
+
+### A multigenerational musical journey | Yijia Tu
+
+**Released:** 2025-08-13 15:36:26
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3)
+
+---
+
+### A corporate job isn’t the only path to success. Here’s where to look next | Anuj Tanna
+
+**Released:** 2025-08-12 15:00:03
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b55515edc63baa300ac46/media.mp3)
+
+---
+
+### The hidden logic of human harmony | Steven Pinker
+
+**Released:** 2025-08-11 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689661757f93fda8b261271a/media.mp3)
+
+---
+
+### Sunday Pick: Protecting your time with Linda Babcock | WorkLife with Adam Grant
+
+**Released:** 2025-08-10 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894c18886fca1362808b698/media.mp3)
+
+---
+
+### How to preserve your private life in the age of social media | Bryce Dallas Howard (re-release)
+
+**Released:** 2025-08-09 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3)
 
 ---
 
@@ -118,48 +126,6 @@ Last updated: 2025-08-14 01:02:32
 
 ---
 
-## TED Talks Daily
-
-### A multigenerational musical journey | Yijia Tu
-
-**Released:** 2025-08-13 15:36:26
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3)
-
----
-
-### A corporate job isn’t the only path to success. Here’s where to look next | Anuj Tanna
-
-**Released:** 2025-08-12 15:00:03
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b55515edc63baa300ac46/media.mp3)
-
----
-
-### The hidden logic of human harmony | Steven Pinker
-
-**Released:** 2025-08-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689661757f93fda8b261271a/media.mp3)
-
----
-
-### Sunday Pick: Protecting your time with Linda Babcock | WorkLife with Adam Grant
-
-**Released:** 2025-08-10 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894c18886fca1362808b698/media.mp3)
-
----
-
-### How to preserve your private life in the age of social media | Bryce Dallas Howard (re-release)
-
-**Released:** 2025-08-09 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3)
-
----
-
 ## 99% Invisible
 
 ### Sister Aimee and the Birth of the Megachurch
@@ -170,7 +136,25 @@ Last updated: 2025-08-14 01:02:32
 
 ---
 
+## The Tim Ferriss Show
+
+### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
+
+**Released:** 2025-08-13 03:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Stuff You Should Know
+
+### Heavy Metal Pt II
+
+**Released:** 2025-08-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef277b41-4c09-4215-a869-b3370120b822/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Devil Horns
 
@@ -204,11 +188,21 @@ Last updated: 2025-08-14 01:02:32
 
 ---
 
-### Who's Up For A Circular Economy
+## The Moth
 
-**Released:** 2025-08-07 09:00:00
+### The Moth Radio Hour: Our Parents, Ourselves
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bb76097-5b75-486f-99f2-b32f0144ecdb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-08-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
+
+---
+
+### The Moth Podcast: Traveling Together
+
+**Released:** 2025-08-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
 
 ---
 
@@ -227,14 +221,6 @@ Last updated: 2025-08-14 01:02:32
 **Released:** 2025-08-11 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme
-
-**Released:** 2025-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -264,43 +250,15 @@ Last updated: 2025-08-14 01:02:32
 
 ---
 
-## The Moth
-
-### The Moth Radio Hour: Our Parents, Ourselves
-
-**Released:** 2025-08-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
-
----
-
-### The Moth Podcast: Traveling Together
-
-**Released:** 2025-08-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bob Odenkirk Returns
-
-**Released:** 2025-08-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 3
-
-**Released:** 2025-08-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH)
-
----
-
 ## SmartLess 
+
+### "RE-RELEASE: Liam Neeson”
+
+**Released:** 2025-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
+
+---
 
 ### "Jason Momoa"
 
@@ -310,13 +268,21 @@ Last updated: 2025-08-14 01:02:32
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
 
-**Released:** 2025-08-13 03:00:00
+**Released:** 2025-08-14 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
+
+---
+
+### Bob Odenkirk Returns
+
+**Released:** 2025-08-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
 
 ---
 

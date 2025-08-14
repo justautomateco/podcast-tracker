@@ -1,38 +1,45 @@
 [
   {
-    "guid": "a4a87446-dd65-44c8-b313-53e3bf981760",
-    "episode_title": "The Retrievals S02 Episode 4: The Solutions",
-    "release_date": "2025-08-07 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/af502c31-bcad-45fb-93e5-08b4e4d31a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=af502c31-bcad-45fb-93e5-08b4e4d31a02&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "1a87ee30-4825-4591-bfbd-806a5313f36f",
-    "episode_title": "The Retrievals S02 Episode 3: The Guidelines",
-    "release_date": "2025-08-07 10:55:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/190506ab-2704-42c4-8e31-8ff0b027184f/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=190506ab-2704-42c4-8e31-8ff0b027184f&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "bd9d396b-d23b-4e4b-bef1-48915bf4ee6d",
-    "episode_title": "The Retrievals S02 Episode 2: The Speech",
-    "release_date": "2025-08-07 10:50:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/78b28639-ff42-4552-a500-25be5c24ae86/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=78b28639-ff42-4552-a500-25be5c24ae86&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "c09f9189-16c3-46b0-ae93-11473e4da689",
-    "episode_title": "The Retrievals S02 Episode 1: The Case",
-    "release_date": "2025-08-07 10:45:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1bc17233-2e46-4fba-9dc3-c24dc564c49c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1bc17233-2e46-4fba-9dc3-c24dc564c49c&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "79c89713-9ae0-4d0d-9cf3-c9740a8cf6c8",
     "episode_title": "The First Great American Industry (Update)",
     "release_date": "2025-08-08 10:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "689b5c395edc63baa3035f0e",
+    "episode_title": "A multigenerational musical journey | Yijia Tu",
+    "release_date": "2025-08-13 15:36:26",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "689b55515edc63baa300ac46",
+    "episode_title": "A corporate job isn\u2019t the only path to success. Here\u2019s where to look next | Anuj Tanna",
+    "release_date": "2025-08-12 15:00:03",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b55515edc63baa300ac46/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "689661757f93fda8b261271a",
+    "episode_title": "The hidden logic of human harmony | Steven Pinker",
+    "release_date": "2025-08-11 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689661757f93fda8b261271a/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6894c18886fca1362808b698",
+    "episode_title": "Sunday Pick: Protecting your time with Linda Babcock | WorkLife with Adam Grant",
+    "release_date": "2025-08-10 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894c18886fca1362808b698/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6894bfe2f9482328d0ac7c6c",
+    "episode_title": "How to preserve your private life\u00a0in the age of social media | Bryce Dallas Howard (re-release)",
+    "release_date": "2025-08-09 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "671363da-44b1-4151-a21e-cd05cac5678f",
@@ -91,46 +98,25 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "689b5c395edc63baa3035f0e",
-    "episode_title": "A multigenerational musical journey | Yijia Tu",
-    "release_date": "2025-08-13 15:36:26",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "689b55515edc63baa300ac46",
-    "episode_title": "A corporate job isn\u2019t the only path to success. Here\u2019s where to look next | Anuj Tanna",
-    "release_date": "2025-08-12 15:00:03",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b55515edc63baa300ac46/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "689661757f93fda8b261271a",
-    "episode_title": "The hidden logic of human harmony | Steven Pinker",
-    "release_date": "2025-08-11 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689661757f93fda8b261271a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6894c18886fca1362808b698",
-    "episode_title": "Sunday Pick: Protecting your time with Linda Babcock | WorkLife with Adam Grant",
-    "release_date": "2025-08-10 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894c18886fca1362808b698/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6894bfe2f9482328d0ac7c6c",
-    "episode_title": "How to preserve your private life\u00a0in the age of social media | Bryce Dallas Howard (re-release)",
-    "release_date": "2025-08-09 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "b77a23ca-9487-4438-a479-94eeeff8d419",
     "episode_title": "Sister Aimee and the Birth of the Megachurch",
     "release_date": "2025-08-12 17:30:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XLRGiSzS8LCOlXX-aw2qI8v0xZApMWqYa535H8_lKBc",
+    "episode_title": "The Random Show \u2014 Ketones for Cognition, Tim\u2019s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More",
+    "release_date": "2025-08-13 03:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "ef277b41-4c09-4215-a869-b3370120b822",
+    "episode_title": "Heavy Metal Pt II",
+    "release_date": "2025-08-14 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef277b41-4c09-4215-a869-b3370120b822/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "e451f9a7-3bdf-45b7-b859-b33601287914",
@@ -161,11 +147,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "0bb76097-5b75-486f-99f2-b32f0144ecdb",
-    "episode_title": "Who's Up For A Circular Economy",
-    "release_date": "2025-08-07 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bb76097-5b75-486f-99f2-b32f0144ecdb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "b7364560-76d2-11ef-92d1-9f50739b2492",
+    "episode_title": "The Moth Radio Hour: Our Parents, Ourselves",
+    "release_date": "2025-08-12 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "ec7bc5e2-76d2-11ef-a8c5-63cf3e69465a",
+    "episode_title": "The Moth Podcast: Traveling Together",
+    "release_date": "2025-08-08 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/5TXzT78jVzoPls6dotqPCb7mAPyYWYfqi-RvdHLvaSQ",
@@ -179,13 +172,6 @@
     "episode_title": "Crumbl: Jason McGowan",
     "release_date": "2025-08-11 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Ahy_iz4lBDhm0xJoDNoGLy6QohK2N7-FttgJLLmWEDY",
-    "episode_title": "Advice Line with Mei Xu of Chesapeake Bay Candle and Blueme",
-    "release_date": "2025-08-07 07:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/cb0f8c51-35b4-4536-ace4-2d7dc71fa64d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
   },
   {
@@ -210,32 +196,11 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "b7364560-76d2-11ef-92d1-9f50739b2492",
-    "episode_title": "The Moth Radio Hour: Our Parents, Ourselves",
-    "release_date": "2025-08-12 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "ec7bc5e2-76d2-11ef-a8c5-63cf3e69465a",
-    "episode_title": "The Moth Podcast: Traveling Together",
-    "release_date": "2025-08-08 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b086a53d-f976-4116-a6e2-1a6721f4dfe4",
-    "episode_title": "Bob Odenkirk Returns",
-    "release_date": "2025-08-11 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "98a9b248-466a-49cc-b99a-d3691d59db70",
-    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 3",
-    "release_date": "2025-08-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04ac34c7-6ce6-49a5-9ec0-d9e527bdd61e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "38519e72-4ec9-4f71-8c54-eddc1fd9dcbd",
+    "episode_title": "\"RE-RELEASE: Liam Neeson\u201d",
+    "release_date": "2025-08-14 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "1a036f83-1028-433d-a39b-c5901b86609a",
@@ -245,10 +210,17 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/XLRGiSzS8LCOlXX-aw2qI8v0xZApMWqYa535H8_lKBc",
-    "episode_title": "The Random Show \u2014 Ketones for Cognition, Tim\u2019s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More",
-    "release_date": "2025-08-13 03:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "0c5da852-2309-44d8-900c-24904ee18334",
+    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 4",
+    "release_date": "2025-08-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "b086a53d-f976-4116-a6e2-1a6721f4dfe4",
+    "episode_title": "Bob Odenkirk Returns",
+    "release_date": "2025-08-11 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
