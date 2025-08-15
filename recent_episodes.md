@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-15 01:02:34
+Last updated: 2025-08-15 12:24:19
 
 ## Freakonomics Radio
 
-### The First Great American Industry (Update)
+### Why Do People Still Hunt Whales? (Update)
 
-**Released:** 2025-08-08 10:00:00
+**Released:** 2025-08-15 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e052ee4e-e07f-427d-bed3-ab1379a7da1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e052ee4e-e07f-427d-bed3-ab1379a7da1e&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 838: Letters! Actual Letters!
+
+**Released:** 2025-08-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
 
 ---
 
@@ -72,16 +82,6 @@ Last updated: 2025-08-15 01:02:34
 
 ---
 
-## This American Life
-
-### 838: Letters! Actual Letters!
-
-**Released:** 2025-08-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #169 - Protect Ya Neck
@@ -121,16 +121,6 @@ Last updated: 2025-08-15 01:02:34
 **Released:** 2025-08-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
-
----
-
-## 99% Invisible
-
-### Sister Aimee and the Birth of the Megachurch
-
-**Released:** 2025-08-12 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
 
 ---
 
@@ -186,31 +176,13 @@ Last updated: 2025-08-15 01:02:34
 
 ---
 
-## The Moth
+## 99% Invisible
 
-### The Moth Radio Hour: Our Parents, Ourselves
+### Sister Aimee and the Birth of the Megachurch
 
-**Released:** 2025-08-12 04:25:00
+**Released:** 2025-08-12 17:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
-
----
-
-### The Moth Podcast: Traveling Together
-
-**Released:** 2025-08-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4154263885.mp3?updated=1753942363)
-
----
-
-## Revisionist History
-
-### Americana Music Live with Drew Holcomb and Malcolm Gladwell
-
-**Released:** 2025-08-14 16:04:13
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
 
 ---
 
@@ -229,6 +201,70 @@ Last updated: 2025-08-15 01:02:34
 **Released:** 2025-08-11 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Americana Music Live with Drew Holcomb and Malcolm Gladwell
+
+**Released:** 2025-08-14 16:04:13
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Learning to Sail
+
+**Released:** 2025-08-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925)
+
+---
+
+### The Moth Radio Hour: Our Parents, Ourselves
+
+**Released:** 2025-08-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934)
+
+---
+
+## The Tim Ferriss Show
+
+### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
+
+**Released:** 2025-08-13 03:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Summer Camp
+
+**Released:** 2025-08-15 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chris Feistl & Dave Mitchell (former DEA agents)
+
+**Released:** 2025-08-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfd946b0-bab3-4a48-a0ab-eb8ee7df74d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Shaquille O'Neal
+
+**Released:** 2025-08-11 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2479cd5d-3861-4767-a40f-251edcb3bcf1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,42 +301,6 @@ Last updated: 2025-08-15 01:02:34
 **Released:** 2025-08-11 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Chris Feistl & Dave Mitchell (former DEA agents)
-
-**Released:** 2025-08-13 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfd946b0-bab3-4a48-a0ab-eb8ee7df74d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Shaquille O'Neal
-
-**Released:** 2025-08-11 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2479cd5d-3861-4767-a40f-251edcb3bcf1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Substitute Teacher
-
-**Released:** 2025-08-08 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ee64b41-6ca3-42cf-a08d-aaba515c2e3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
-
-**Released:** 2025-08-13 03:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
