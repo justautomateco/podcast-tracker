@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-14 12:26:38
+Last updated: 2025-08-15 01:02:34
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-08-14 12:26:38
 ---
 
 ## TED Talks Daily
+
+### A practical guide to taking control of your life | Cate Hall
+
+**Released:** 2025-08-14 14:53:13
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689cb7ea290bdec8f9c9cd09/media.mp3)
+
+---
 
 ### A multigenerational musical journey | Yijia Tu
 
@@ -46,14 +54,6 @@ Last updated: 2025-08-14 12:26:38
 
 ---
 
-### How to preserve your private life in the age of social media | Bryce Dallas Howard (re-release)
-
-**Released:** 2025-08-09 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894bfe2f9482328d0ac7c6c/media.mp3)
-
----
-
 ## Planet Money
 
 ### Summer School 6: When the markets need a designer
@@ -83,6 +83,14 @@ Last updated: 2025-08-14 12:26:38
 ---
 
 ## The Joe Rogan Experience
+
+### JRE MMA Show #169 - Protect Ya Neck
+
+**Released:** 2025-08-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7716986807.mp3?updated=1755190160)
+
+---
 
 ### #2365 - Rep. Anna Paulina Luna
 
@@ -116,16 +124,6 @@ Last updated: 2025-08-14 12:26:38
 
 ---
 
-## Hidden Brain
-
-### The Best Years of Your Life
-
-**Released:** 2025-08-11 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Sister Aimee and the Birth of the Megachurch
@@ -133,16 +131,6 @@ Last updated: 2025-08-14 12:26:38
 **Released:** 2025-08-12 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
-
-**Released:** 2025-08-13 03:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,6 +176,16 @@ Last updated: 2025-08-14 12:26:38
 
 ---
 
+## Hidden Brain
+
+### The Best Years of Your Life
+
+**Released:** 2025-08-11 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
+
+---
+
 ## The Moth
 
 ### The Moth Radio Hour: Our Parents, Ourselves
@@ -206,6 +204,16 @@ Last updated: 2025-08-14 12:26:38
 
 ---
 
+## Revisionist History
+
+### Americana Music Live with Drew Holcomb and Malcolm Gladwell
+
+**Released:** 2025-08-14 16:04:13
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Exclusive Update: The Chef Who Shocked the Culinary World and Why He’s Changing Course Again—Daniel Humm of Eleven Madison Park
@@ -221,6 +229,42 @@ Last updated: 2025-08-14 12:26:38
 **Released:** 2025-08-11 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
+
+**Released:** 2025-08-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
+
+---
+
+### Bob Odenkirk Returns
+
+**Released:** 2025-08-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Liam Neeson”
+
+**Released:** 2025-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
+
+---
+
+### "Jason Momoa"
+
+**Released:** 2025-08-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
 
 ---
 
@@ -250,39 +294,13 @@ Last updated: 2025-08-14 12:26:38
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "RE-RELEASE: Liam Neeson”
+### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
 
-**Released:** 2025-08-14 07:00:00
+**Released:** 2025-08-13 03:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
-
----
-
-### "Jason Momoa"
-
-**Released:** 2025-08-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
-
-**Released:** 2025-08-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
-
----
-
-### Bob Odenkirk Returns
-
-**Released:** 2025-08-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c5e4c9fc-3af0-48a0-8023-346cd174fe4d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c5e4c9fc-3af0-48a0-8023-346cd174fe4d&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
