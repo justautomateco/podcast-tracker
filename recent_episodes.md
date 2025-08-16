@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-15 12:24:19
-
-## Freakonomics Radio
-
-### Why Do People Still Hunt Whales? (Update)
-
-**Released:** 2025-08-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 838: Letters! Actual Letters!
-
-**Released:** 2025-08-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
-
----
+Last updated: 2025-08-16 00:59:40
 
 ## TED Talks Daily
+
+### Why your zip code shouldn’t determine your lifespan | Dion Dawson
+
+**Released:** 2025-08-15 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689e0476aabbc2ace336e84f/media.mp3)
+
+---
 
 ### A practical guide to taking control of your life | Cate Hall
 
@@ -56,15 +44,35 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
-### Sunday Pick: Protecting your time with Linda Babcock | WorkLife with Adam Grant
+## Freakonomics Radio
 
-**Released:** 2025-08-10 06:00:00
+### Why Do People Still Hunt Whales? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6894c18886fca1362808b698/media.mp3)
+**Released:** 2025-08-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 838: Letters! Actual Letters!
+
+**Released:** 2025-08-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3)
 
 ---
 
 ## Planet Money
+
+### When our inflation infeelings don’t match the CPI
+
+**Released:** 2025-08-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
+
+---
 
 ### Summer School 6: When the markets need a designer
 
@@ -82,7 +90,35 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
+## Hidden Brain
+
+### The Best Years of Your Life
+
+**Released:** 2025-08-11 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Sister Aimee and the Birth of the Megachurch
+
+**Released:** 2025-08-12 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2366 - Sam Tripoli
+
+**Released:** 2025-08-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7435623564.mp3?updated=1755267718)
+
+---
 
 ### JRE MMA Show #169 - Protect Ya Neck
 
@@ -113,14 +149,6 @@ Last updated: 2025-08-15 12:24:19
 **Released:** 2025-08-09 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9771280042.mp3?updated=1754731610)
-
----
-
-### #2362 - Ralph Barbosa
-
-**Released:** 2025-08-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3099638333.mp3?updated=1754671906)
 
 ---
 
@@ -166,54 +194,6 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
-## Hidden Brain
-
-### The Best Years of Your Life
-
-**Released:** 2025-08-11 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Sister Aimee and the Birth of the Megachurch
-
-**Released:** 2025-08-12 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Exclusive Update: The Chef Who Shocked the Culinary World and Why He’s Changing Course Again—Daniel Humm of Eleven Madison Park
-
-**Released:** 2025-08-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Crumbl: Jason McGowan
-
-**Released:** 2025-08-11 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Americana Music Live with Drew Holcomb and Malcolm Gladwell
-
-**Released:** 2025-08-14 16:04:13
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Learning to Sail
@@ -232,13 +212,31 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
+### Americana Music Live with Drew Holcomb and Malcolm Gladwell
 
-**Released:** 2025-08-13 03:00:00
+**Released:** 2025-08-14 16:04:13
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Exclusive Update: The Chef Who Shocked the Culinary World and Why He’s Changing Course Again—Daniel Humm of Eleven Madison Park
+
+**Released:** 2025-08-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Crumbl: Jason McGowan
+
+**Released:** 2025-08-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -268,6 +266,24 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
+## SmartLess 
+
+### "RE-RELEASE: Liam Neeson”
+
+**Released:** 2025-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
+
+---
+
+### "Jason Momoa"
+
+**Released:** 2025-08-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
@@ -286,21 +302,13 @@ Last updated: 2025-08-15 12:24:19
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "RE-RELEASE: Liam Neeson”
+### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
 
-**Released:** 2025-08-14 07:00:00
+**Released:** 2025-08-13 03:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
-
----
-
-### "Jason Momoa"
-
-**Released:** 2025-08-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
