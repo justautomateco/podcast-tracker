@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "45735 at https://www.thisamericanlife.org",
-    "episode_title": "838: Letters! Actual Letters!",
-    "release_date": "2025-08-10 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7140099693.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "689cb9a0290bdec8f9ca800d",
     "episode_title": "Sunday Pick: After the Glory Fades | Good Sport",
     "release_date": "2025-08-17 06:00:00",
@@ -47,6 +40,13 @@
     "release_date": "2025-08-13 15:36:26",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689b5c395edc63baa3035f0e/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "45610 at https://www.thisamericanlife.org",
+    "episode_title": "831: Lists!!!",
+    "release_date": "2025-08-17 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "e25b8754-44b1-4c67-a711-7686a6090564",
@@ -91,6 +91,20 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "653f75c3-f12a-4e69-9af1-05522c1212df",
+    "episode_title": "The Best Years of Your Life",
+    "release_date": "2025-08-11 19:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "b77a23ca-9487-4438-a479-94eeeff8d419",
+    "episode_title": "Sister Aimee and the Birth of the Megachurch",
+    "release_date": "2025-08-12 17:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "c9c55fa6-3e04-432f-9b33-b337014d4607",
     "episode_title": "Selects: How Rape Kits Work",
     "release_date": "2025-08-16 09:00:00",
@@ -119,18 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "653f75c3-f12a-4e69-9af1-05522c1212df",
-    "episode_title": "The Best Years of Your Life",
-    "release_date": "2025-08-11 19:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ee392288-8e7d-4b38-879c-aa367a0062fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ee392288-8e7d-4b38-879c-aa367a0062fa&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "b77a23ca-9487-4438-a479-94eeeff8d419",
-    "episode_title": "Sister Aimee and the Birth of the Megachurch",
-    "release_date": "2025-08-12 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/61ebe32b-cb12-4c68-8dcc-cf852d021bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=61ebe32b-cb12-4c68-8dcc-cf852d021bc5&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "a268f77c-93e0-4482-bbae-b33901047b9e",
+    "episode_title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+    "release_date": "2025-08-14 16:04:13",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/5TXzT78jVzoPls6dotqPCb7mAPyYWYfqi-RvdHLvaSQ",
@@ -145,34 +152,6 @@
     "release_date": "2025-08-11 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/0b791853-0e66-4265-99a2-5dbe54c6d8df.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "a268f77c-93e0-4482-bbae-b33901047b9e",
-    "episode_title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
-    "release_date": "2025-08-14 16:04:13",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/XLRGiSzS8LCOlXX-aw2qI8v0xZApMWqYa535H8_lKBc",
-    "episode_title": "The Random Show \u2014 Ketones for Cognition, Tim\u2019s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More",
-    "release_date": "2025-08-13 03:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "c60ea502-6cb6-11f0-9f09-8fefbdc1ea3b",
-    "episode_title": "The Moth Podcast: Learning to Sail",
-    "release_date": "2025-08-15 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b7364560-76d2-11ef-92d1-9f50739b2492",
-    "episode_title": "The Moth Radio Hour: Our Parents, Ourselves",
-    "release_date": "2025-08-12 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/LnPjzagYsBdUvEDkmpoyiyLfZQFsfriBkT5NJS0RdqQ",
@@ -194,6 +173,20 @@
     "release_date": "2025-08-11 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/2479cd5d-3861-4767-a40f-251edcb3bcf1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "c60ea502-6cb6-11f0-9f09-8fefbdc1ea3b",
+    "episode_title": "The Moth Podcast: Learning to Sail",
+    "release_date": "2025-08-15 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b7364560-76d2-11ef-92d1-9f50739b2492",
+    "episode_title": "The Moth Radio Hour: Our Parents, Ourselves",
+    "release_date": "2025-08-12 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5228632422.mp3?updated=1754662934",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "0c5da852-2309-44d8-900c-24904ee18334",
@@ -222,5 +215,12 @@
     "release_date": "2025-08-11 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/22d0dfd8-0020-4c1a-85c2-a29744c03bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=22d0dfd8-0020-4c1a-85c2-a29744c03bd7&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XLRGiSzS8LCOlXX-aw2qI8v0xZApMWqYa535H8_lKBc",
+    "episode_title": "The Random Show \u2014 Ketones for Cognition, Tim\u2019s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More",
+    "release_date": "2025-08-13 03:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
