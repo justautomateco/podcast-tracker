@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "45610 at https://www.thisamericanlife.org",
-    "episode_title": "831: Lists!!!",
-    "release_date": "2025-08-17 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "689f60f0290bdec8f989a887",
     "episode_title": "The brilliance of an economy that protects healthy forests | Ilona Szab\u00f3 de Carvalho",
     "release_date": "2025-08-18 14:57:53",
@@ -49,6 +42,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "45610 at https://www.thisamericanlife.org",
+    "episode_title": "831: Lists!!!",
+    "release_date": "2025-08-17 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "e25b8754-44b1-4c67-a711-7686a6090564",
     "episode_title": "When our inflation infeelings don\u2019t match the CPI",
     "release_date": "2025-08-15 20:30:00",
@@ -77,6 +77,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "aaf7dd8e-597b-4c87-a3d4-b33e00bcece6",
+    "episode_title": "The Unsolved Murder of Hall and Mills",
+    "release_date": "2025-08-19 11:33:50",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aaf7dd8e-597b-4c87-a3d4-b33e00bcece6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "c9c55fa6-3e04-432f-9b33-b337014d4607",
     "episode_title": "Selects: How Rape Kits Work",
     "release_date": "2025-08-16 09:00:00",
@@ -98,18 +105,32 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "3d092e32-80ef-4239-b446-b33700139649",
-    "episode_title": "Heavy Metal Pt I",
-    "release_date": "2025-08-12 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d092e32-80ef-4239-b446-b33700139649/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/XLRGiSzS8LCOlXX-aw2qI8v0xZApMWqYa535H8_lKBc",
     "episode_title": "The Random Show \u2014 Ketones for Cognition, Tim\u2019s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More",
     "release_date": "2025-08-13 03:00:00",
     "mp3_url": "https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "a268f77c-93e0-4482-bbae-b33901047b9e",
+    "episode_title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
+    "release_date": "2025-08-14 16:04:13",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "b75c1f88-76d2-11ef-92d1-c3d8c62d06da",
+    "episode_title": "The Moth Radio Hour: Keep Calm and Carry On",
+    "release_date": "2025-08-19 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "c60ea502-6cb6-11f0-9f09-8fefbdc1ea3b",
+    "episode_title": "The Moth Podcast: Learning to Sail",
+    "release_date": "2025-08-15 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/ssDrKDpG4Tywi6aMxlNkuWUd9WzFrMbss6xirIWUJ8w",
@@ -124,13 +145,6 @@
     "release_date": "2025-08-13 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "a268f77c-93e0-4482-bbae-b33901047b9e",
-    "episode_title": "Americana Music Live with Drew Holcomb and Malcolm Gladwell",
-    "release_date": "2025-08-14 16:04:13",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/sEBk7Kw1NMjYg4sAd53h_8Z4BJD_dkOxpaUXjem7HHw",
@@ -154,20 +168,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "63c6faf9-79e6-4311-b33d-5250f049778f",
-    "episode_title": "Jessica Williams",
-    "release_date": "2025-08-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0c5da852-2309-44d8-900c-24904ee18334",
-    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 4",
-    "release_date": "2025-08-14 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "17728b5b-11bd-4af0-88f8-edc36f2593ac",
     "episode_title": "\"James Gunn\"",
     "release_date": "2025-08-18 07:01:00",
@@ -180,5 +180,19 @@
     "release_date": "2025-08-14 07:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "63c6faf9-79e6-4311-b33d-5250f049778f",
+    "episode_title": "Jessica Williams",
+    "release_date": "2025-08-18 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "0c5da852-2309-44d8-900c-24904ee18334",
+    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 4",
+    "release_date": "2025-08-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]

@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-19 01:00:13
+Last updated: 2025-08-19 12:24:32
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-08-19 01:00:13
 **Released:** 2025-08-15 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 831: Lists!!!
-
-**Released:** 2025-08-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2025-08-19 01:00:13
 
 ---
 
+## This American Life
+
+### 831: Lists!!!
+
+**Released:** 2025-08-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
+
+---
+
 ## Planet Money
 
 ### When our inflation infeelings don’t match the CPI
@@ -104,6 +104,14 @@ Last updated: 2025-08-19 01:00:13
 
 ## Stuff You Should Know
 
+### The Unsolved Murder of Hall and Mills
+
+**Released:** 2025-08-19 11:33:50
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aaf7dd8e-597b-4c87-a3d4-b33e00bcece6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Selects: How Rape Kits Work
 
 **Released:** 2025-08-16 09:00:00
@@ -128,14 +136,6 @@ Last updated: 2025-08-19 01:00:13
 
 ---
 
-### Heavy Metal Pt I
-
-**Released:** 2025-08-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d092e32-80ef-4239-b446-b33700139649/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## The Tim Ferriss Show
 
 ### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
@@ -143,6 +143,34 @@ Last updated: 2025-08-19 01:00:13
 **Released:** 2025-08-13 03:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Americana Music Live with Drew Holcomb and Malcolm Gladwell
+
+**Released:** 2025-08-14 16:04:13
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Keep Calm and Carry On
+
+**Released:** 2025-08-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
+
+---
+
+### The Moth Podcast: Learning to Sail
+
+**Released:** 2025-08-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925)
 
 ---
 
@@ -161,16 +189,6 @@ Last updated: 2025-08-19 01:00:13
 **Released:** 2025-08-13 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Americana Music Live with Drew Holcomb and Malcolm Gladwell
-
-**Released:** 2025-08-14 16:04:13
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -200,24 +218,6 @@ Last updated: 2025-08-19 01:00:13
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Jessica Williams
-
-**Released:** 2025-08-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
-
-**Released:** 2025-08-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "James Gunn"
@@ -233,6 +233,24 @@ Last updated: 2025-08-19 01:00:13
 **Released:** 2025-08-14 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jessica Williams
+
+**Released:** 2025-08-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
+
+**Released:** 2025-08-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
 
 ---
 
