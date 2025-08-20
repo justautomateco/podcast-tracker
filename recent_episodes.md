@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-20 00:58:04
-
-## Freakonomics Radio
-
-### Why Do People Still Hunt Whales? (Update)
-
-**Released:** 2025-08-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
-
----
+Last updated: 2025-08-20 12:24:31
 
 ## TED Talks Daily
 
@@ -54,21 +44,13 @@ Last updated: 2025-08-20 00:58:04
 
 ---
 
-## Planet Money
+## Freakonomics Radio
 
-### When our inflation infeelings don’t match the CPI
+### Why Do People Still Hunt Whales? (Update)
 
-**Released:** 2025-08-15 20:30:00
+**Released:** 2025-08-15 10:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
-
----
-
-### Summer School 6: When the markets need a designer
-
-**Released:** 2025-08-13 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5722533572.mp3?d=2170&size=34732078&e=1257189367&t=podcast&p=510289)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
 
 ---
 
@@ -79,6 +61,36 @@ Last updated: 2025-08-20 00:58:04
 **Released:** 2025-08-17 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
+
+---
+
+## Planet Money
+
+### When our inflation infeelings don’t match the CPI
+
+**Released:** 2025-08-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
+
+---
+
+## Hidden Brain
+
+### How Our Brains Learn
+
+**Released:** 2025-08-18 19:39:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### All About That Bass
+
+**Released:** 2025-08-19 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
 
 ---
 
@@ -116,27 +128,15 @@ Last updated: 2025-08-20 00:58:04
 
 ---
 
-## Hidden Brain
-
-### How Our Brains Learn
-
-**Released:** 2025-08-18 19:39:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### All About That Bass
-
-**Released:** 2025-08-19 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: The Lost (?) Continent of Lemuria
+
+**Released:** 2025-08-20 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6fc37225-5d9b-479a-bec3-b33e00db2239/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Unsolved Murder of Hall and Mills
 
@@ -162,14 +162,6 @@ Last updated: 2025-08-20 00:58:04
 
 ---
 
-### Short Stuff: Devil Horns
-
-**Released:** 2025-08-13 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e451f9a7-3bdf-45b7-b859-b33601287914/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Revisionist History
 
 ### Americana Music Live with Drew Holcomb and Malcolm Gladwell
@@ -180,39 +172,29 @@ Last updated: 2025-08-20 00:58:04
 
 ---
 
-## How I Built This
+## Armchair Expert
 
-### Madison Reed: Amy Errett
+### Nancy Segal (on twins)
 
-**Released:** 2025-08-18 07:10:00
+**Released:** 2025-08-20 07:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Exclusive Update: The Chef Who Shocked the Culinary World and Why He’s Changing Course Again—Daniel Humm of Eleven Madison Park
-
-**Released:** 2025-08-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/392274c3-3063-4ece-8c2f-d2b4060da72d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## Conan O'Brien Needs A Friend
+### Luke Combs
 
-### Jessica Williams
+**Released:** 2025-08-18 07:35:00
 
-**Released:** 2025-08-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
+### Armchair Anonymous: Summer Camp
 
-**Released:** 2025-08-14 04:05:00
+**Released:** 2025-08-15 07:35:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +216,34 @@ Last updated: 2025-08-20 00:58:04
 
 ---
 
+## How I Built This
+
+### Madison Reed: Amy Errett
+
+**Released:** 2025-08-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Jessica Williams
+
+**Released:** 2025-08-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 4
+
+**Released:** 2025-08-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f3e3dc85-e12c-44e9-86cc-d8394144b508/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f3e3dc85-e12c-44e9-86cc-d8394144b508&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "James Gunn"
@@ -249,42 +259,6 @@ Last updated: 2025-08-20 00:58:04
 **Released:** 2025-08-14 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c0ca4e96-3b36-472c-aad6-5af14abfe5cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c0ca4e96-3b36-472c-aad6-5af14abfe5cd&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Luke Combs
-
-**Released:** 2025-08-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Summer Camp
-
-**Released:** 2025-08-15 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Feistl & Dave Mitchell (former DEA agents)
-
-**Released:** 2025-08-13 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dfd946b0-bab3-4a48-a0ab-eb8ee7df74d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### The Random Show — Ketones for Cognition, Tim’s Best Lab Results in 10+ Years, How Kevin Hit 100 Days Sober, Home Defense, Vibe Coding Unleashed, and More
-
-**Released:** 2025-08-13 03:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/281ef5b1-3132-4294-9f3a-f3a66d04a310.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
