@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-21 12:24:32
+Last updated: 2025-08-22 00:57:58
+
+## Freakonomics Radio
+
+### Why Do People Still Hunt Whales? (Update)
+
+**Released:** 2025-08-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The missing piece in the story of migration | Sonia Shah and Zeke Hernandez
+
+**Released:** 2025-08-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689e04cf66f126ae3fafbb91/media.mp3)
+
+---
 
 ### The science of making fruits and veggies last longer | Jenny Du
 
@@ -36,24 +54,6 @@ Last updated: 2025-08-21 12:24:32
 
 ---
 
-### Why venting doesn’t help you deal with anger | Jennifer Parlamis
-
-**Released:** 2025-08-16 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689e032f66f126ae3faf59d6/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Why Do People Still Hunt Whales? (Update)
-
-**Released:** 2025-08-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 831: Lists!!!
@@ -61,34 +61,6 @@ Last updated: 2025-08-21 12:24:32
 **Released:** 2025-08-17 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
-
----
-
-## Hidden Brain
-
-### How Our Brains Learn
-
-**Released:** 2025-08-18 19:39:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### Summer School 7: Trade blocks and blockages
-
-**Released:** 2025-08-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
-
----
-
-### When our inflation infeelings don’t match the CPI
-
-**Released:** 2025-08-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
 
 ---
 
@@ -118,11 +90,41 @@ Last updated: 2025-08-21 12:24:32
 
 ---
 
-### JRE MMA Show #169 - Protect Ya Neck
+## Planet Money
 
-**Released:** 2025-08-14 17:00:00
+### Summer School 7: Trade blocks and blockages
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7716986807.mp3?updated=1755190160)
+**Released:** 2025-08-20 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
+
+---
+
+### When our inflation infeelings don’t match the CPI
+
+**Released:** 2025-08-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
+
+---
+
+## Hidden Brain
+
+### How Our Brains Learn
+
+**Released:** 2025-08-18 19:39:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### All About That Bass
+
+**Released:** 2025-08-19 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
 
 ---
 
@@ -160,13 +162,13 @@ Last updated: 2025-08-21 12:24:32
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### All About That Bass
+### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
 
-**Released:** 2025-08-19 17:30:00
+**Released:** 2025-08-20 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -185,44 +187,6 @@ Last updated: 2025-08-21 12:24:32
 **Released:** 2025-08-18 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Americana Music Live with Drew Holcomb and Malcolm Gladwell
-
-**Released:** 2025-08-14 16:04:13
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/a268f77c-93e0-4482-bbae-b33901047b9e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
-
-**Released:** 2025-08-20 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Keep Calm and Carry On
-
-**Released:** 2025-08-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
-
----
-
-### The Moth Podcast: Learning to Sail
-
-**Released:** 2025-08-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925)
 
 ---
 
@@ -249,6 +213,24 @@ Last updated: 2025-08-21 12:24:32
 **Released:** 2025-08-15 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Keep Calm and Carry On
+
+**Released:** 2025-08-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
+
+---
+
+### The Moth Podcast: Learning to Sail
+
+**Released:** 2025-08-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925)
 
 ---
 
