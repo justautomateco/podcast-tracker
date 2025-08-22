@@ -1,10 +1,17 @@
 [
   {
-    "guid": "826776a2-2f4e-4b8e-b807-c31847c95af1",
-    "episode_title": "Why Do People Still Hunt Whales? (Update)",
-    "release_date": "2025-08-15 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4",
+    "guid": "aa65c35d-eb45-40ca-b261-fa9338f689ed",
+    "episode_title": "What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)",
+    "release_date": "2025-08-22 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "45610 at https://www.thisamericanlife.org",
+    "episode_title": "831: Lists!!!",
+    "release_date": "2025-08-17 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "689e04cf66f126ae3fafbb91",
@@ -42,11 +49,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "45610 at https://www.thisamericanlife.org",
-    "episode_title": "831: Lists!!!",
-    "release_date": "2025-08-17 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3",
-    "podcast_name": "This American Life"
+    "guid": "8302191c-23bd-40c4-a3b9-8cdd344ec679",
+    "episode_title": "Summer School 7: Trade blocks and blockages",
+    "release_date": "2025-08-20 07:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e25b8754-44b1-4c67-a711-7686a6090564",
+    "episode_title": "When our inflation infeelings don\u2019t match the CPI",
+    "release_date": "2025-08-15 20:30:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "c109bb90-7d5b-11f0-a1be-a782b991365f",
@@ -68,20 +82,6 @@
     "release_date": "2025-08-15 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT7435623564.mp3?updated=1755267718",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "8302191c-23bd-40c4-a3b9-8cdd344ec679",
-    "episode_title": "Summer School 7: Trade blocks and blockages",
-    "release_date": "2025-08-20 07:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e25b8754-44b1-4c67-a711-7686a6090564",
-    "episode_title": "When our inflation infeelings don\u2019t match the CPI",
-    "release_date": "2025-08-15 20:30:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929",
-    "podcast_name": "Planet Money"
   },
   {
     "guid": "93396ab7-906a-415b-b78b-bf42d870bd17",
@@ -126,59 +126,17 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/d-0HiHOoBYLlg3Rmh_TNJTx3OxQxtqwRM2A9xVBY9IU",
-    "episode_title": "#823: Dr. Jeffrey Goldberg \u2014 Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration",
-    "release_date": "2025-08-20 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ShEnAQf-SqWxZ8gE8o4H9UQUxsmSxtb6MUp2PABp5-I",
-    "episode_title": "Advice Line with Jamie Siminoff of Ring (August 2024)",
-    "release_date": "2025-08-21 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ssDrKDpG4Tywi6aMxlNkuWUd9WzFrMbss6xirIWUJ8w",
-    "episode_title": "Madison Reed: Amy Errett",
-    "release_date": "2025-08-18 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5g7E1WYlZhtyHCaOgNwcXWIZOys8oKwP2kcaNW3HQL0",
-    "episode_title": "Nancy Segal (on twins)",
-    "release_date": "2025-08-20 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/sEBk7Kw1NMjYg4sAd53h_8Z4BJD_dkOxpaUXjem7HHw",
-    "episode_title": "Luke Combs",
-    "release_date": "2025-08-18 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/LnPjzagYsBdUvEDkmpoyiyLfZQFsfriBkT5NJS0RdqQ",
-    "episode_title": "Armchair Anonymous: Summer Camp",
-    "release_date": "2025-08-15 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "ecce5cda-76d2-11ef-a8c5-8fd0332b76d7",
+    "episode_title": "The Moth Podcast: Confessions and Mt Olympus",
+    "release_date": "2025-08-22 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "b75c1f88-76d2-11ef-92d1-c3d8c62d06da",
     "episode_title": "The Moth Radio Hour: Keep Calm and Carry On",
     "release_date": "2025-08-19 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "c60ea502-6cb6-11f0-9f09-8fefbdc1ea3b",
-    "episode_title": "The Moth Podcast: Learning to Sail",
-    "release_date": "2025-08-15 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925",
     "podcast_name": "The Moth"
   },
   {
@@ -196,10 +154,52 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/ShEnAQf-SqWxZ8gE8o4H9UQUxsmSxtb6MUp2PABp5-I",
+    "episode_title": "Advice Line with Jamie Siminoff of Ring (August 2024)",
+    "release_date": "2025-08-21 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/ssDrKDpG4Tywi6aMxlNkuWUd9WzFrMbss6xirIWUJ8w",
+    "episode_title": "Madison Reed: Amy Errett",
+    "release_date": "2025-08-18 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
     "guid": "17728b5b-11bd-4af0-88f8-edc36f2593ac",
     "episode_title": "\"James Gunn\"",
     "release_date": "2025-08-18 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/sG70I1kxSVzvyT0OpdNxOSLb-cUCZ_Ms0Em46pZ5y-I",
+    "episode_title": "Armchair Anonymous: First Day of School",
+    "release_date": "2025-08-22 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5g7E1WYlZhtyHCaOgNwcXWIZOys8oKwP2kcaNW3HQL0",
+    "episode_title": "Nancy Segal (on twins)",
+    "release_date": "2025-08-20 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/sEBk7Kw1NMjYg4sAd53h_8Z4BJD_dkOxpaUXjem7HHw",
+    "episode_title": "Luke Combs",
+    "release_date": "2025-08-18 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/d-0HiHOoBYLlg3Rmh_TNJTx3OxQxtqwRM2A9xVBY9IU",
+    "episode_title": "#823: Dr. Jeffrey Goldberg \u2014 Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration",
+    "release_date": "2025-08-20 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

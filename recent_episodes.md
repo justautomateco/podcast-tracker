@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-22 00:57:58
+Last updated: 2025-08-22 12:23:26
 
 ## Freakonomics Radio
 
-### Why Do People Still Hunt Whales? (Update)
+### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
 
-**Released:** 2025-08-15 10:00:00
+**Released:** 2025-08-22 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8d5e2f48-91df-4f92-b247-49acdb810fb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8d5e2f48-91df-4f92-b247-49acdb810fb1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 831: Lists!!!
+
+**Released:** 2025-08-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
 
 ---
 
@@ -54,13 +64,21 @@ Last updated: 2025-08-22 00:57:58
 
 ---
 
-## This American Life
+## Planet Money
 
-### 831: Lists!!!
+### Summer School 7: Trade blocks and blockages
 
-**Released:** 2025-08-17 18:00:00
+**Released:** 2025-08-20 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
+
+---
+
+### When our inflation infeelings don’t match the CPI
+
+**Released:** 2025-08-15 20:30:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
 
 ---
 
@@ -87,24 +105,6 @@ Last updated: 2025-08-22 00:57:58
 **Released:** 2025-08-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7435623564.mp3?updated=1755267718)
-
----
-
-## Planet Money
-
-### Summer School 7: Trade blocks and blockages
-
-**Released:** 2025-08-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
-
----
-
-### When our inflation infeelings don’t match the CPI
-
-**Released:** 2025-08-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
 
 ---
 
@@ -162,75 +162,21 @@ Last updated: 2025-08-22 00:57:58
 
 ---
 
-## The Tim Ferriss Show
-
-### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
-
-**Released:** 2025-08-20 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Advice Line with Jamie Siminoff of Ring (August 2024)
-
-**Released:** 2025-08-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Madison Reed: Amy Errett
-
-**Released:** 2025-08-18 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Nancy Segal (on twins)
-
-**Released:** 2025-08-20 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Luke Combs
-
-**Released:** 2025-08-18 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Summer Camp
-
-**Released:** 2025-08-15 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34e08779-0caa-4972-ba84-e2b02fb9c475.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### The Moth Podcast: Confessions and Mt Olympus
+
+**Released:** 2025-08-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
 
 ### The Moth Radio Hour: Keep Calm and Carry On
 
 **Released:** 2025-08-19 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
-
----
-
-### The Moth Podcast: Learning to Sail
-
-**Released:** 2025-08-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2494729892.mp3?updated=1753938925)
 
 ---
 
@@ -252,6 +198,24 @@ Last updated: 2025-08-22 00:57:58
 
 ---
 
+## How I Built This
+
+### Advice Line with Jamie Siminoff of Ring (August 2024)
+
+**Released:** 2025-08-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Madison Reed: Amy Errett
+
+**Released:** 2025-08-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "James Gunn"
@@ -259,6 +223,42 @@ Last updated: 2025-08-22 00:57:58
 **Released:** 2025-08-18 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: First Day of School
+
+**Released:** 2025-08-22 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nancy Segal (on twins)
+
+**Released:** 2025-08-20 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Luke Combs
+
+**Released:** 2025-08-18 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
+
+**Released:** 2025-08-20 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
