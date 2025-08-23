@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-22 12:23:26
+Last updated: 2025-08-23 00:55:51
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-08-22 12:23:26
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 831: Lists!!!
+### What sex, soap and alcohol taught me about making an impact | Myriam Sidibe
 
-**Released:** 2025-08-17 18:00:00
+**Released:** 2025-08-22 15:28:45
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689f62b48f8e6e8461fbc94c/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The missing piece in the story of migration | Sonia Shah and Zeke Hernandez
 
@@ -56,75 +54,21 @@ Last updated: 2025-08-22 12:23:26
 
 ---
 
-### Sunday Pick: After the Glory Fades | Good Sport
+## Planet Money
 
-**Released:** 2025-08-17 06:00:00
+### Buy discount Ozempic here now click this link
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689cb9a0290bdec8f9ca800d/media.mp3)
+**Released:** 2025-08-22 23:16:11
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8968305027.mp3?t=podcast&e=nx-s1-5511707&p=510289&d=1926&size=30820816)
 
 ---
-
-## Planet Money
 
 ### Summer School 7: Trade blocks and blockages
 
 **Released:** 2025-08-20 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
-
----
-
-### When our inflation infeelings don’t match the CPI
-
-**Released:** 2025-08-15 20:30:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5983605932.mp3?t=podcast&e=nx-s1-5500523&p=510289&d=1915&size=30641929)
-
----
-
-## The Joe Rogan Experience
-
-### #2368 - Michael Button
-
-**Released:** 2025-08-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479079626.mp3?updated=1755708006)
-
----
-
-### #2367 - Jesse Welles
-
-**Released:** 2025-08-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2717084902.mp3?updated=1755622160)
-
----
-
-### #2366 - Sam Tripoli
-
-**Released:** 2025-08-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7435623564.mp3?updated=1755267718)
-
----
-
-## Hidden Brain
-
-### How Our Brains Learn
-
-**Released:** 2025-08-18 19:39:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### All About That Bass
-
-**Released:** 2025-08-19 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
 
 ---
 
@@ -162,21 +106,77 @@ Last updated: 2025-08-22 12:23:26
 
 ---
 
-## The Moth
+## Hidden Brain
 
-### The Moth Podcast: Confessions and Mt Olympus
+### How Our Brains Learn
 
-**Released:** 2025-08-22 04:25:00
+**Released:** 2025-08-18 19:39:29
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
 
 ---
 
-### The Moth Radio Hour: Keep Calm and Carry On
+## This American Life
 
-**Released:** 2025-08-19 04:25:00
+### 831: Lists!!!
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
+**Released:** 2025-08-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2369 - Ed Calderon
+
+**Released:** 2025-08-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
+
+---
+
+### #2368 - Michael Button
+
+**Released:** 2025-08-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479079626.mp3?updated=1755708006)
+
+---
+
+### #2367 - Jesse Welles
+
+**Released:** 2025-08-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2717084902.mp3?updated=1755622160)
+
+---
+
+## 99% Invisible
+
+### All About That Bass
+
+**Released:** 2025-08-19 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with Jamie Siminoff of Ring (August 2024)
+
+**Released:** 2025-08-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Madison Reed: Amy Errett
+
+**Released:** 2025-08-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -198,21 +198,21 @@ Last updated: 2025-08-22 12:23:26
 
 ---
 
-## How I Built This
+## The Moth
 
-### Advice Line with Jamie Siminoff of Ring (August 2024)
+### The Moth Podcast: Confessions and Mt Olympus
 
-**Released:** 2025-08-21 07:10:00
+**Released:** 2025-08-22 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
 
 ---
 
-### Madison Reed: Amy Errett
+### The Moth Radio Hour: Keep Calm and Carry On
 
-**Released:** 2025-08-18 07:10:00
+**Released:** 2025-08-19 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
 
 ---
 
