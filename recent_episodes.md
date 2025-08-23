@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-23 00:55:51
+Last updated: 2025-08-23 12:21:17
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-08-23 00:55:51
 ---
 
 ## TED Talks Daily
+
+### Why having fun is the secret to a healthier life | Catherine Price (re-release)
+
+**Released:** 2025-08-23 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a89b3b73bf5b629801a6b6/media.mp3)
+
+---
 
 ### What sex, soap and alcohol taught me about making an impact | Myriam Sidibe
 
@@ -46,14 +54,6 @@ Last updated: 2025-08-23 00:55:51
 
 ---
 
-### The brilliance of an economy that protects healthy forests | Ilona Szabó de Carvalho
-
-**Released:** 2025-08-18 14:57:53
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689f60f0290bdec8f989a887/media.mp3)
-
----
-
 ## Planet Money
 
 ### Buy discount Ozempic here now click this link
@@ -72,37 +72,23 @@ Last updated: 2025-08-23 00:55:51
 
 ---
 
-## Stuff You Should Know
+## This American Life
 
-### Private Equity: Your Ears Will Bleed
+### 831: Lists!!!
 
-**Released:** 2025-08-21 09:00:00
+**Released:** 2025-08-17 18:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/749474a7-07db-4037-987d-b340002852a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The Lost (?) Continent of Lemuria
-
-**Released:** 2025-08-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6fc37225-5d9b-479a-bec3-b33e00db2239/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
 
 ---
 
-### The Unsolved Murder of Hall and Mills
+## 99% Invisible
 
-**Released:** 2025-08-19 11:33:50
+### All About That Bass
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aaf7dd8e-597b-4c87-a3d4-b33e00bcece6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-08-19 17:30:00
 
----
-
-### Selects: How Rape Kits Work
-
-**Released:** 2025-08-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9c55fa6-3e04-432f-9b33-b337014d4607/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
 
 ---
 
@@ -113,16 +99,6 @@ Last updated: 2025-08-23 00:55:51
 **Released:** 2025-08-18 19:39:29
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 831: Lists!!!
-
-**Released:** 2025-08-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
 
 ---
 
@@ -152,13 +128,37 @@ Last updated: 2025-08-23 00:55:51
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### All About That Bass
+### Selects: The Flannen Isles Mystery
 
-**Released:** 2025-08-19 17:30:00
+**Released:** 2025-08-23 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14ae5ca9-633e-4f77-8279-b3390116e3ce/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Private Equity: Your Ears Will Bleed
+
+**Released:** 2025-08-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/749474a7-07db-4037-987d-b340002852a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: The Lost (?) Continent of Lemuria
+
+**Released:** 2025-08-20 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6fc37225-5d9b-479a-bec3-b33e00db2239/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Unsolved Murder of Hall and Mills
+
+**Released:** 2025-08-19 11:33:50
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aaf7dd8e-597b-4c87-a3d4-b33e00bcece6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -198,34 +198,6 @@ Last updated: 2025-08-23 00:55:51
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Confessions and Mt Olympus
-
-**Released:** 2025-08-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
-
----
-
-### The Moth Radio Hour: Keep Calm and Carry On
-
-**Released:** 2025-08-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
-
----
-
-## SmartLess 
-
-### "James Gunn"
-
-**Released:** 2025-08-18 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: First Day of School
@@ -252,6 +224,24 @@ Last updated: 2025-08-23 00:55:51
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Confessions and Mt Olympus
+
+**Released:** 2025-08-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
+
+### The Moth Radio Hour: Keep Calm and Carry On
+
+**Released:** 2025-08-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
@@ -259,6 +249,16 @@ Last updated: 2025-08-23 00:55:51
 **Released:** 2025-08-20 17:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "James Gunn"
+
+**Released:** 2025-08-18 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO)
 
 ---
 
