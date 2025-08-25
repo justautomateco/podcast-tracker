@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-24 12:21:29
+Last updated: 2025-08-25 01:00:43
+
+## Freakonomics Radio
+
+### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
+
+**Released:** 2025-08-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,26 +64,6 @@ Last updated: 2025-08-24 12:21:29
 
 ---
 
-## Freakonomics Radio
-
-### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
-
-**Released:** 2025-08-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 831: Lists!!!
-
-**Released:** 2025-08-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7730138979.mp3)
-
----
-
 ## Planet Money
 
 ### Buy discount Ozempic here now click this link
@@ -79,6 +79,16 @@ Last updated: 2025-08-24 12:21:29
 **Released:** 2025-08-20 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
+
+---
+
+## Hidden Brain
+
+### How Our Brains Learn
+
+**Released:** 2025-08-18 19:39:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
 
 ---
 
@@ -108,13 +118,13 @@ Last updated: 2025-08-24 12:21:29
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### How Our Brains Learn
+### All About That Bass
 
-**Released:** 2025-08-18 19:39:29
+**Released:** 2025-08-19 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
 
 ---
 
@@ -152,13 +162,13 @@ Last updated: 2025-08-24 12:21:29
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### All About That Bass
+### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
 
-**Released:** 2025-08-19 17:30:00
+**Released:** 2025-08-20 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -180,34 +190,6 @@ Last updated: 2025-08-24 12:21:29
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 5
-
-**Released:** 2025-08-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH)
-
----
-
-### Jessica Williams
-
-**Released:** 2025-08-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "James Gunn"
-
-**Released:** 2025-08-18 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jamie Siminoff of Ring (August 2024)
@@ -223,6 +205,34 @@ Last updated: 2025-08-24 12:21:29
 **Released:** 2025-08-18 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32497b2-a797-492f-8fcd-50415ac2ed67.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "James Gunn"
+
+**Released:** 2025-08-18 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7d094940-bba0-4efd-b8d1-8458576ad563/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7d094940-bba0-4efd-b8d1-8458576ad563&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 5
+
+**Released:** 2025-08-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH)
+
+---
+
+### Jessica Williams
+
+**Released:** 2025-08-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/31b30a30-a2fc-45a1-9632-5f594701b4dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=31b30a30-a2fc-45a1-9632-5f594701b4dd&feed=dHoohVNH)
 
 ---
 
@@ -249,16 +259,6 @@ Last updated: 2025-08-24 12:21:29
 **Released:** 2025-08-18 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e9a19edc-d7fe-4284-a23a-e1cce5d10bd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
-
-**Released:** 2025-08-20 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
