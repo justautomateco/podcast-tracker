@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-25 12:24:45
-
-## Freakonomics Radio
-
-### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
-
-**Released:** 2025-08-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
-
----
+Last updated: 2025-08-26 00:59:01
 
 ## TED Talks Daily
+
+### How AI could generate new life-forms | Eric Nguyen
+
+**Released:** 2025-08-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a8b8bb352b565debba2543/media.mp3)
+
+---
 
 ### TED Talks Daily Book Club: Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment | Rha Goddess
 
@@ -56,11 +44,33 @@ Last updated: 2025-08-25 12:24:45
 
 ---
 
-### The science of making fruits and veggies last longer | Jenny Du
+## Freakonomics Radio
 
-**Released:** 2025-08-20 15:00:00
+### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689f615d66f126ae3f0db09b/media.mp3)
+**Released:** 2025-08-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
+
+## Hidden Brain
+
+### The Trauma Script
+
+**Released:** 2025-08-25 19:58:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
 
 ---
 
@@ -108,16 +118,6 @@ Last updated: 2025-08-25 12:24:45
 
 ---
 
-## Hidden Brain
-
-### How Our Brains Learn
-
-**Released:** 2025-08-18 19:39:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6e79e99d-b979-4ecf-8eb4-e8a84e4dc768/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6e79e99d-b979-4ecf-8eb4-e8a84e4dc768&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### All About That Bass
@@ -162,34 +162,6 @@ Last updated: 2025-08-25 12:24:45
 
 ---
 
-## The Tim Ferriss Show
-
-### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
-
-**Released:** 2025-08-20 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Confessions and Mt Olympus
-
-**Released:** 2025-08-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
-
----
-
-### The Moth Radio Hour: Keep Calm and Carry On
-
-**Released:** 2025-08-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
-
----
-
 ## How I Built This
 
 ### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
@@ -208,6 +180,16 @@ Last updated: 2025-08-25 12:24:45
 
 ---
 
+## The Tim Ferriss Show
+
+### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
+
+**Released:** 2025-08-20 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Greg Daniels
@@ -223,6 +205,24 @@ Last updated: 2025-08-25 12:24:45
 **Released:** 2025-08-21 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Confessions and Mt Olympus
+
+**Released:** 2025-08-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
+
+### The Moth Radio Hour: Keep Calm and Carry On
+
+**Released:** 2025-08-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7327684461.mp3?updated=1754936618)
 
 ---
 
