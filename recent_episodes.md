@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-27 00:57:07
+Last updated: 2025-08-27 12:24:00
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2025-08-27 00:57:07
 **Released:** 2025-08-22 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
 
 ---
 
@@ -72,6 +62,54 @@ Last updated: 2025-08-27 00:57:07
 
 ---
 
+## Planet Money
+
+### Summer School 8: Graduation LIVE!
+
+**Released:** 2025-08-27 07:00:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
+
+---
+
+### Buy discount Ozempic here now click this link
+
+**Released:** 2025-08-22 23:16:11
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8968305027.mp3?t=podcast&e=nx-s1-5511707&p=510289&d=1926&size=30820816)
+
+---
+
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
+
+## Hidden Brain
+
+### The Trauma Script
+
+**Released:** 2025-08-25 19:58:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Ambassador Bridge
+
+**Released:** 2025-08-26 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2370 - Dave Smith
@@ -98,35 +136,15 @@ Last updated: 2025-08-27 00:57:07
 
 ---
 
-## Planet Money
-
-### Buy discount Ozempic here now click this link
-
-**Released:** 2025-08-22 23:16:11
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8968305027.mp3?t=podcast&e=nx-s1-5511707&p=510289&d=1926&size=30820816)
-
----
-
-### Summer School 7: Trade blocks and blockages
-
-**Released:** 2025-08-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8213286581.mp3?t=podcast&e=nx-s1-5500202&p=510289&d=2361&size=37785270)
-
----
-
-## Hidden Brain
-
-### The Trauma Script
-
-**Released:** 2025-08-25 19:58:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: 1561 Celestial Event
+
+**Released:** 2025-08-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c17922d6-63b1-4fb9-9d75-b34501001b9f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The History of Orthodontics
 
@@ -149,42 +167,6 @@ Last updated: 2025-08-27 00:57:07
 **Released:** 2025-08-21 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/749474a7-07db-4037-987d-b340002852a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The Lost (?) Continent of Lemuria
-
-**Released:** 2025-08-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6fc37225-5d9b-479a-bec3-b33e00db2239/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Ambassador Bridge
-
-**Released:** 2025-08-26 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Acceptance
-
-**Released:** 2025-08-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
-
----
-
-### The Moth Podcast: Confessions and Mt Olympus
-
-**Released:** 2025-08-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
 
 ---
 
@@ -224,7 +206,33 @@ Last updated: 2025-08-27 00:57:07
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Acceptance
+
+**Released:** 2025-08-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
+
+---
+
+### The Moth Podcast: Confessions and Mt Olympus
+
+**Released:** 2025-08-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
+
 ## Armchair Expert
+
+### Amanda Uhle (on hoarding)
+
+**Released:** 2025-08-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/429d110d-ba4d-40d6-af7b-1b01ccc0b66e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mom's Car: Kristen Bell
 
@@ -255,14 +263,6 @@ Last updated: 2025-08-27 00:57:07
 **Released:** 2025-08-22 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nancy Segal (on twins)
-
-**Released:** 2025-08-20 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb1eb1c9-21dc-408f-8e43-d0ac25464163.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
