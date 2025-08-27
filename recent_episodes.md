@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-26 12:25:43
+Last updated: 2025-08-27 00:57:07
+
+## Freakonomics Radio
+
+### Extra: A Modern Whaler Speaks Up (Update)
+
+**Released:** 2025-08-27 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
+
+---
+
+### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
+
+**Released:** 2025-08-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +31,14 @@ Last updated: 2025-08-26 12:25:43
 ---
 
 ## TED Talks Daily
+
+### Why you should spend less time with your kids | Lenore Skenazy
+
+**Released:** 2025-08-26 15:03:12
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac794f982c36846e7e0e14/media.mp3)
+
+---
 
 ### How AI could generate new life-forms | Eric Nguyen
 
@@ -46,21 +72,29 @@ Last updated: 2025-08-26 12:25:43
 
 ---
 
-### The missing piece in the story of migration | Sonia Shah and Zeke Hernandez
+## The Joe Rogan Experience
 
-**Released:** 2025-08-21 15:00:00
+### #2370 - Dave Smith
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689e04cf66f126ae3fafbb91/media.mp3)
+**Released:** 2025-08-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2973651657.mp3?updated=1756225724)
 
 ---
 
-## Freakonomics Radio
+### #2369 - Ed Calderon
 
-### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
+**Released:** 2025-08-22 17:00:00
 
-**Released:** 2025-08-22 10:00:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+---
+
+### #2368 - Michael Button
+
+**Released:** 2025-08-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479079626.mp3?updated=1755708006)
 
 ---
 
@@ -126,57 +160,13 @@ Last updated: 2025-08-26 12:25:43
 
 ---
 
-## The Joe Rogan Experience
-
-### #2369 - Ed Calderon
-
-**Released:** 2025-08-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
-
----
-
-### #2368 - Michael Button
-
-**Released:** 2025-08-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479079626.mp3?updated=1755708006)
-
----
-
-### #2367 - Jesse Welles
-
-**Released:** 2025-08-19 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2717084902.mp3?updated=1755622160)
-
----
-
 ## 99% Invisible
 
-### All About That Bass
+### Ambassador Bridge
 
-**Released:** 2025-08-19 17:30:00
+**Released:** 2025-08-26 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ceac762-82d9-4943-a8dc-11eb7a82b379/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ceac762-82d9-4943-a8dc-11eb7a82b379&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
-
-**Released:** 2025-08-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jamie Siminoff of Ring (August 2024)
-
-**Released:** 2025-08-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
 
 ---
 
@@ -195,6 +185,24 @@ Last updated: 2025-08-26 12:25:43
 **Released:** 2025-08-22 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
+
+## How I Built This
+
+### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
+
+**Released:** 2025-08-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jamie Siminoff of Ring (August 2024)
+
+**Released:** 2025-08-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -269,6 +277,14 @@ Last updated: 2025-08-26 12:25:43
 ---
 
 ## The Tim Ferriss Show
+
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+
+**Released:** 2025-08-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
 
