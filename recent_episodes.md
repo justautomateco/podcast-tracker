@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-27 12:24:00
+Last updated: 2025-08-28 00:56:24
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2025-08-27 12:24:00
 
 ---
 
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
+
 ## TED Talks Daily
+
+### Could we detect breast cancer with a fingerprint? | Simona Francese
+
+**Released:** 2025-08-27 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68af1c8d5012d423da358e55/media.mp3)
+
+---
 
 ### Why you should spend less time with your kids | Lenore Skenazy
 
@@ -54,14 +72,6 @@ Last updated: 2025-08-27 12:24:00
 
 ---
 
-### What sex, soap and alcohol taught me about making an impact | Myriam Sidibe
-
-**Released:** 2025-08-22 15:28:45
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/689f62b48f8e6e8461fbc94c/media.mp3)
-
----
-
 ## Planet Money
 
 ### Summer School 8: Graduation LIVE!
@@ -80,13 +90,29 @@ Last updated: 2025-08-27 12:24:00
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 865: The Other Territory
+### #2371 - Fedor Gorst
 
-**Released:** 2025-08-24 18:00:00
+**Released:** 2025-08-27 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324368595.mp3?updated=1756312781)
+
+---
+
+### #2370 - Dave Smith
+
+**Released:** 2025-08-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2973651657.mp3?updated=1756225724)
+
+---
+
+### #2369 - Ed Calderon
+
+**Released:** 2025-08-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
 
 ---
 
@@ -107,32 +133,6 @@ Last updated: 2025-08-27 12:24:00
 **Released:** 2025-08-26 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2370 - Dave Smith
-
-**Released:** 2025-08-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2973651657.mp3?updated=1756225724)
-
----
-
-### #2369 - Ed Calderon
-
-**Released:** 2025-08-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
-
----
-
-### #2368 - Michael Button
-
-**Released:** 2025-08-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479079626.mp3?updated=1755708006)
 
 ---
 
@@ -170,6 +170,16 @@ Last updated: 2025-08-27 12:24:00
 
 ---
 
+## The Tim Ferriss Show
+
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+
+**Released:** 2025-08-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
@@ -188,24 +198,6 @@ Last updated: 2025-08-27 12:24:00
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Greg Daniels
-
-**Released:** 2025-08-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 5
-
-**Released:** 2025-08-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### The Moth Radio Hour: Acceptance
@@ -221,6 +213,34 @@ Last updated: 2025-08-27 12:24:00
 **Released:** 2025-08-22 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+
+---
+
+## SmartLess 
+
+### "Olivia Colman"
+
+**Released:** 2025-08-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Greg Daniels
+
+**Released:** 2025-08-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 5
+
+**Released:** 2025-08-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH)
 
 ---
 
@@ -263,34 +283,6 @@ Last updated: 2025-08-27 12:24:00
 **Released:** 2025-08-22 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Olivia Colman"
-
-**Released:** 2025-08-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
-
-**Released:** 2025-08-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #823: Dr. Jeffrey Goldberg — Creating Supranormal Vision, Cutting-Edge Science for Eye Health, Supplements, Red Light Therapy, and The Future of Eyesight Restoration
-
-**Released:** 2025-08-20 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81ddb72b-f348-43c4-a801-e7e013edd41a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
