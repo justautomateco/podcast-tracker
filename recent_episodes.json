@@ -1,26 +1,5 @@
 [
   {
-    "guid": "36d9874e-cb5d-4fd2-aae5-228174cf912f",
-    "episode_title": "Extra: A Modern Whaler Speaks Up (Update)",
-    "release_date": "2025-08-27 00:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "aa65c35d-eb45-40ca-b261-fa9338f689ed",
-    "episode_title": "What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)",
-    "release_date": "2025-08-22 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "45940 at https://www.thisamericanlife.org",
-    "episode_title": "865: The Other Territory",
-    "release_date": "2025-08-24 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "68af1c8d5012d423da358e55",
     "episode_title": "Could we detect breast cancer with a fingerprint? | Simona Francese",
     "release_date": "2025-08-27 15:00:00",
@@ -54,6 +33,27 @@
     "release_date": "2025-08-23 06:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a89b3b73bf5b629801a6b6/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "45940 at https://www.thisamericanlife.org",
+    "episode_title": "865: The Other Territory",
+    "release_date": "2025-08-24 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "36d9874e-cb5d-4fd2-aae5-228174cf912f",
+    "episode_title": "Extra: A Modern Whaler Speaks Up (Update)",
+    "release_date": "2025-08-27 00:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "aa65c35d-eb45-40ca-b261-fa9338f689ed",
+    "episode_title": "What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)",
+    "release_date": "2025-08-22 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "f76ab18e-cfc1-478f-9618-de57b9113880",
@@ -105,6 +105,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "1b42c788-c959-4161-b9d6-b3470012d895",
+    "episode_title": "What are Blue Zones?",
+    "release_date": "2025-08-28 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b42c788-c959-4161-b9d6-b3470012d895/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "c17922d6-63b1-4fb9-9d75-b34501001b9f",
     "episode_title": "Short Stuff: 1561 Celestial Event",
     "release_date": "2025-08-27 09:00:00",
@@ -126,32 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "749474a7-07db-4037-987d-b340002852a0",
-    "episode_title": "Private Equity: Your Ears Will Bleed",
-    "release_date": "2025-08-21 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/749474a7-07db-4037-987d-b340002852a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/-ZXEDcOcrKOUaINwBabmHfXzjccz1HVyAHLDrZUGFv0",
-    "episode_title": "#824: Dr. Kevin Tracey \u2014 Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More",
-    "release_date": "2025-08-26 20:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/eefjiwaOb5VFVBqWaR4zNedOiRlNfyBByuR1yvcu9DU",
-    "episode_title": "(July 2021) Ben Chestnut: From Side Business to $12 Billion \u2013 The Accidental Triumph of Mailchimp",
-    "release_date": "2025-08-25 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ShEnAQf-SqWxZ8gE8o4H9UQUxsmSxtb6MUp2PABp5-I",
-    "episode_title": "Advice Line with Jamie Siminoff of Ring (August 2024)",
-    "release_date": "2025-08-21 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3096a0e4-74e0-4cec-ad7f-6ce29bf7ae27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "88dc1794-7847-4575-82ed-b345011c0aec",
+    "episode_title": "L\u2019Or\u00e9al and IBM: AI-Powered Beauty from Smart Talks with IBM",
+    "release_date": "2025-08-28 04:15:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "b78356fc-76d2-11ef-92d1-778f03803aa2",
@@ -166,27 +152,6 @@
     "release_date": "2025-08-22 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "770ebd8a-ebb3-4348-a247-89d85fbf9701",
-    "episode_title": "\"Olivia Colman\"",
-    "release_date": "2025-08-25 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "97eda9e1-928c-49a7-ab7a-29416b849b42",
-    "episode_title": "Greg Daniels",
-    "release_date": "2025-08-25 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "5e2cb711-de7d-44ce-a8e9-fea1a28f3311",
-    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 5",
-    "release_date": "2025-08-21 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/908bc108-b2af-4ca3-b2db-26331946735e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=908bc108-b2af-4ca3-b2db-26331946735e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/LuhArhE8wwEnpMr1NzPKW8rCFsAl2anvIEJanAw2xNg",
@@ -222,5 +187,47 @@
     "release_date": "2025-08-22 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "7a6d512b-e526-46bd-b42e-9dda905159d4",
+    "episode_title": "Summer S\u2019mores with Conan and the Chill Chums Season 5 Episode 6",
+    "release_date": "2025-08-28 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "97eda9e1-928c-49a7-ab7a-29416b849b42",
+    "episode_title": "Greg Daniels",
+    "release_date": "2025-08-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/-ZXEDcOcrKOUaINwBabmHfXzjccz1HVyAHLDrZUGFv0",
+    "episode_title": "#824: Dr. Kevin Tracey \u2014 Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More",
+    "release_date": "2025-08-26 20:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "770ebd8a-ebb3-4348-a247-89d85fbf9701",
+    "episode_title": "\"Olivia Colman\"",
+    "release_date": "2025-08-25 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/9tYHyWMrXdxMznz2ZcieyAQ1ZflrmepQFuiBYCrY4jc",
+    "episode_title": "Advice Line with Tim Ferriss",
+    "release_date": "2025-08-28 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/eefjiwaOb5VFVBqWaR4zNedOiRlNfyBByuR1yvcu9DU",
+    "episode_title": "(July 2021) Ben Chestnut: From Side Business to $12 Billion \u2013 The Accidental Triumph of Mailchimp",
+    "release_date": "2025-08-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   }
 ]
