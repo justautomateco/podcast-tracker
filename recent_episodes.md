@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-28 12:23:43
+Last updated: 2025-08-29 00:56:35
+
+## Freakonomics Radio
+
+### Extra: A Modern Whaler Speaks Up (Update)
+
+**Released:** 2025-08-27 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
+
+---
+
+### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
+
+**Released:** 2025-08-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
 
 ## TED Talks Daily
+
+### Want to make change? Let the kids tell their stories | Anshul Tewari
+
+**Released:** 2025-08-28 15:03:08
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac7a97de10ce2ec14d82f4/media.mp3)
+
+---
 
 ### Could we detect breast cancer with a fingerprint? | Simona Francese
 
@@ -36,42 +72,6 @@ Last updated: 2025-08-28 12:23:43
 
 ---
 
-### Why having fun is the secret to a healthier life | Catherine Price (re-release)
-
-**Released:** 2025-08-23 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a89b3b73bf5b629801a6b6/media.mp3)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
-
----
-
-## Freakonomics Radio
-
-### Extra: A Modern Whaler Speaks Up (Update)
-
-**Released:** 2025-08-27 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
-
----
-
-### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
-
-**Released:** 2025-08-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Summer School 8: Graduation LIVE!
@@ -91,6 +91,14 @@ Last updated: 2025-08-28 12:23:43
 ---
 
 ## The Joe Rogan Experience
+
+### #2372 - Garry Nolan
+
+**Released:** 2025-08-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9517744932.mp3?updated=1756399256)
+
+---
 
 ### #2371 - Fedor Gorst
 
@@ -170,6 +178,24 @@ Last updated: 2025-08-28 12:23:43
 
 ---
 
+## How I Built This
+
+### Advice Line with Tim Ferriss
+
+**Released:** 2025-08-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
+
+**Released:** 2025-08-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
@@ -177,6 +203,34 @@ Last updated: 2025-08-28 12:23:43
 **Released:** 2025-08-28 04:15:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+
+**Released:** 2025-08-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
+
+**Released:** 2025-08-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
+
+---
+
+### Greg Daniels
+
+**Released:** 2025-08-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
 
 ---
 
@@ -240,34 +294,6 @@ Last updated: 2025-08-28 12:23:43
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
-
-**Released:** 2025-08-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
-
----
-
-### Greg Daniels
-
-**Released:** 2025-08-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
-
-**Released:** 2025-08-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Olivia Colman"
@@ -275,24 +301,6 @@ Last updated: 2025-08-28 12:23:43
 **Released:** 2025-08-25 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Tim Ferriss
-
-**Released:** 2025-08-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
-
-**Released:** 2025-08-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
