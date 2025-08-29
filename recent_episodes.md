@@ -1,32 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-29 00:56:35
+Last updated: 2025-08-29 12:23:15
 
 ## Freakonomics Radio
+
+### 644. Has America Lost Its Appetite for the Common Good?
+
+**Released:** 2025-08-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/591eb09a-5294-4f1e-9d27-6193c50b453b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=591eb09a-5294-4f1e-9d27-6193c50b453b&feed=Y8lFbOT4)
+
+---
 
 ### Extra: A Modern Whaler Speaks Up (Update)
 
 **Released:** 2025-08-27 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
-
----
-
-### What Can Whales Teach Us About Clean Energy, Workplace Harmony, and Living the Good Life? (Update)
-
-**Released:** 2025-08-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/699a5bfd-4915-4057-be46-5c512a7a6bd7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=699a5bfd-4915-4057-be46-5c512a7a6bd7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
 
 ---
 
@@ -90,37 +80,13 @@ Last updated: 2025-08-29 00:56:35
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2372 - Garry Nolan
+### 865: The Other Territory
 
-**Released:** 2025-08-28 17:00:00
+**Released:** 2025-08-24 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9517744932.mp3?updated=1756399256)
-
----
-
-### #2371 - Fedor Gorst
-
-**Released:** 2025-08-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9324368595.mp3?updated=1756312781)
-
----
-
-### #2370 - Dave Smith
-
-**Released:** 2025-08-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2973651657.mp3?updated=1756225724)
-
----
-
-### #2369 - Ed Calderon
-
-**Released:** 2025-08-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7921026429.mp3?updated=1755881880)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
 
 ---
 
@@ -178,21 +144,13 @@ Last updated: 2025-08-29 00:56:35
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with Tim Ferriss
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
 
-**Released:** 2025-08-28 07:10:00
+**Released:** 2025-08-26 20:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
-
-**Released:** 2025-08-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,13 +164,21 @@ Last updated: 2025-08-29 00:56:35
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+### The Moth Podcast: Bug Juice and Slushies
 
-**Released:** 2025-08-26 20:00:00
+**Released:** 2025-08-29 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
+
+---
+
+### The Moth Radio Hour: Acceptance
+
+**Released:** 2025-08-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
 
 ---
 
@@ -234,25 +200,43 @@ Last updated: 2025-08-29 00:56:35
 
 ---
 
-## The Moth
+## How I Built This
 
-### The Moth Radio Hour: Acceptance
+### Advice Line with Tim Ferriss
 
-**Released:** 2025-08-26 04:25:00
+**Released:** 2025-08-28 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Podcast: Confessions and Mt Olympus
+### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
 
-**Released:** 2025-08-22 04:25:00
+**Released:** 2025-08-25 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5177710296.mp3?updated=1755035878)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Olivia Colman"
+
+**Released:** 2025-08-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Subway
+
+**Released:** 2025-08-29 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Amanda Uhle (on hoarding)
 
@@ -283,24 +267,6 @@ Last updated: 2025-08-29 00:56:35
 **Released:** 2025-08-25 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: First Day of School
-
-**Released:** 2025-08-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0f76a0c9-a973-4ea8-b820-66a8a54fc448.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Olivia Colman"
-
-**Released:** 2025-08-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
 
 ---
 
