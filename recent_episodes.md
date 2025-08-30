@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-30 00:54:00
-
-## Freakonomics Radio
-
-### 644. Has America Lost Its Appetite for the Common Good?
-
-**Released:** 2025-08-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/591eb09a-5294-4f1e-9d27-6193c50b453b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=591eb09a-5294-4f1e-9d27-6193c50b453b&feed=Y8lFbOT4)
-
----
-
-### Extra: A Modern Whaler Speaks Up (Update)
-
-**Released:** 2025-08-27 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
-
----
+Last updated: 2025-08-30 12:20:36
 
 ## TED Talks Daily
+
+### Do schools kill creativity? | Sir Ken Robinson (re-release)
+
+**Released:** 2025-08-30 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b07a11674c25e0eafd6f7e/media.mp3)
+
+---
 
 ### "The Unprompted," a poem that AI will never understand | Salome Agbaroji
 
@@ -64,11 +44,41 @@ Last updated: 2025-08-30 00:54:00
 
 ---
 
-### How AI could generate new life-forms | Eric Nguyen
+## Freakonomics Radio
 
-**Released:** 2025-08-25 15:00:00
+### 644. Has America Lost Its Appetite for the Common Good?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a8b8bb352b565debba2543/media.mp3)
+**Released:** 2025-08-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/591eb09a-5294-4f1e-9d27-6193c50b453b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=591eb09a-5294-4f1e-9d27-6193c50b453b&feed=Y8lFbOT4)
+
+---
+
+### Extra: A Modern Whaler Speaks Up (Update)
+
+**Released:** 2025-08-27 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
+
+## Hidden Brain
+
+### The Trauma Script
+
+**Released:** 2025-08-25 19:58:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
 
 ---
 
@@ -87,16 +97,6 @@ Last updated: 2025-08-30 00:54:00
 **Released:** 2025-08-27 07:00:02
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
-
----
-
-## Hidden Brain
-
-### The Trauma Script
-
-**Released:** 2025-08-25 19:58:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
 
 ---
 
@@ -126,17 +126,15 @@ Last updated: 2025-08-30 00:54:00
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Ambassador Bridge
+### Selects: What Were the BONE WARS?
 
-**Released:** 2025-08-26 17:30:00
+**Released:** 2025-08-30 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d09e70-945e-4906-aec2-b34500efcbd8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### What are Blue Zones?
 
@@ -162,11 +160,13 @@ Last updated: 2025-08-30 00:54:00
 
 ---
 
-### Selects: The Flannen Isles Mystery
+## 99% Invisible
 
-**Released:** 2025-08-23 09:00:00
+### Ambassador Bridge
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14ae5ca9-633e-4f77-8279-b3390116e3ce/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-08-26 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
 
 ---
 
@@ -195,6 +195,58 @@ Last updated: 2025-08-30 00:54:00
 **Released:** 2025-08-28 04:15:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+
+**Released:** 2025-08-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Subway
+
+**Released:** 2025-08-29 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Amanda Uhle (on hoarding)
+
+**Released:** 2025-08-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/429d110d-ba4d-40d6-af7b-1b01ccc0b66e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Kristen Bell
+
+**Released:** 2025-08-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/418f5084-86b5-4293-9c6d-bd9f8753ec3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Introducing... Mom's Car with Dax Shepard & BFAW
+
+**Released:** 2025-08-26 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/719e7af8-7c77-46d6-91da-9df75ce2f309.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Amanda Knox
+
+**Released:** 2025-08-25 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -241,58 +293,6 @@ Last updated: 2025-08-30 00:54:00
 **Released:** 2025-08-25 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Subway
-
-**Released:** 2025-08-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amanda Uhle (on hoarding)
-
-**Released:** 2025-08-27 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/429d110d-ba4d-40d6-af7b-1b01ccc0b66e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Kristen Bell
-
-**Released:** 2025-08-26 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/418f5084-86b5-4293-9c6d-bd9f8753ec3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Introducing... Mom's Car with Dax Shepard & BFAW
-
-**Released:** 2025-08-26 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/719e7af8-7c77-46d6-91da-9df75ce2f309.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amanda Knox
-
-**Released:** 2025-08-25 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
-
-**Released:** 2025-08-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
