@@ -14,8 +14,22 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "45940 at https://www.thisamericanlife.org",
+    "episode_title": "865: The Other Territory",
+    "release_date": "2025-08-24 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "68ac79d3e2f63983a7ad33fd",
+    "episode_title": "\"The Unprompted,\" a poem that AI will never understand | Salome Agbaroji",
+    "release_date": "2025-08-29 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac79d3e2f63983a7ad33fd/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "68ac7a97de10ce2ec14d82f4",
-    "episode_title": "Want to make change? Let the kids tell their stories | Anshul Tewari",
+    "episode_title": "Want to make change? Let young people tell their stories | Anshul Tewari",
     "release_date": "2025-08-28 15:03:08",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac7a97de10ce2ec14d82f4/media.mp3",
     "podcast_name": "TED Talks Daily"
@@ -42,11 +56,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68a76546e2f63983a741e9fc",
-    "episode_title": "TED Talks Daily Book Club: Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment | Rha Goddess",
-    "release_date": "2025-08-24 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68a76546e2f63983a741e9fc/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "24dc5da2-486f-47c0-b288-58967226289c",
+    "episode_title": "Lisa Cook and the fight for the Fed",
+    "release_date": "2025-08-29 23:12:17",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "f76ab18e-cfc1-478f-9618-de57b9113880",
@@ -56,25 +70,32 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "4d8562a7-28fc-41d7-84d8-ff8c92b87742",
-    "episode_title": "Buy discount Ozempic here now click this link",
-    "release_date": "2025-08-22 23:16:11",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8968305027.mp3?t=podcast&e=nx-s1-5511707&p=510289&d=1926&size=30820816",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "45940 at https://www.thisamericanlife.org",
-    "episode_title": "865: The Other Territory",
-    "release_date": "2025-08-24 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "915c46f3-8a00-448b-8fcd-c98695b1db33",
     "episode_title": "The Trauma Script",
     "release_date": "2025-08-25 19:58:29",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "a51845e4-83a2-11f0-b391-a759339482ab",
+    "episode_title": "#2372 - Garry Nolan",
+    "release_date": "2025-08-28 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9517744932.mp3?updated=1756399256",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b08fc01a-82f2-11f0-9bcc-23cf6e221876",
+    "episode_title": "#2371 - Fedor Gorst",
+    "release_date": "2025-08-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9324368595.mp3?updated=1756312781",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "26bebd8c-822a-11f0-867f-5feded2d51df",
+    "episode_title": "#2370 - Dave Smith",
+    "release_date": "2025-08-26 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2973651657.mp3?updated=1756225724",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "2d0bcb6e-b380-4442-81fa-803703b973ed",
@@ -112,11 +133,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/-ZXEDcOcrKOUaINwBabmHfXzjccz1HVyAHLDrZUGFv0",
-    "episode_title": "#824: Dr. Kevin Tracey \u2014 Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More",
-    "release_date": "2025-08-26 20:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/9tYHyWMrXdxMznz2ZcieyAQ1ZflrmepQFuiBYCrY4jc",
+    "episode_title": "Advice Line with Tim Ferriss",
+    "release_date": "2025-08-28 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/eefjiwaOb5VFVBqWaR4zNedOiRlNfyBByuR1yvcu9DU",
+    "episode_title": "(July 2021) Ben Chestnut: From Side Business to $12 Billion \u2013 The Accidental Triumph of Mailchimp",
+    "release_date": "2025-08-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "88dc1794-7847-4575-82ed-b345011c0aec",
@@ -124,20 +152,6 @@
     "release_date": "2025-08-28 04:15:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "3953df60-77c4-11f0-9555-ab13c0a87a08",
-    "episode_title": "The Moth Podcast: Bug Juice and Slushies",
-    "release_date": "2025-08-29 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b78356fc-76d2-11ef-92d1-778f03803aa2",
-    "episode_title": "The Moth Radio Hour: Acceptance",
-    "release_date": "2025-08-26 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "7a6d512b-e526-46bd-b42e-9dda905159d4",
@@ -154,18 +168,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/9tYHyWMrXdxMznz2ZcieyAQ1ZflrmepQFuiBYCrY4jc",
-    "episode_title": "Advice Line with Tim Ferriss",
-    "release_date": "2025-08-28 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "3953df60-77c4-11f0-9555-ab13c0a87a08",
+    "episode_title": "The Moth Podcast: Bug Juice and Slushies",
+    "release_date": "2025-08-29 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/eefjiwaOb5VFVBqWaR4zNedOiRlNfyBByuR1yvcu9DU",
-    "episode_title": "(July 2021) Ben Chestnut: From Side Business to $12 Billion \u2013 The Accidental Triumph of Mailchimp",
-    "release_date": "2025-08-25 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "b78356fc-76d2-11ef-92d1-778f03803aa2",
+    "episode_title": "The Moth Radio Hour: Acceptance",
+    "release_date": "2025-08-26 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "770ebd8a-ebb3-4348-a247-89d85fbf9701",
@@ -208,5 +222,12 @@
     "release_date": "2025-08-25 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/-ZXEDcOcrKOUaINwBabmHfXzjccz1HVyAHLDrZUGFv0",
+    "episode_title": "#824: Dr. Kevin Tracey \u2014 Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More",
+    "release_date": "2025-08-26 20:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
