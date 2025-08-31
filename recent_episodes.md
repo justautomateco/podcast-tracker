@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-08-31 01:00:34
+Last updated: 2025-08-31 12:21:17
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2025-08-31 01:00:34
 
 ---
 
+## This American Life
+
+### 865: The Other Territory
+
+**Released:** 2025-08-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
+
+---
+
 ## TED Talks Daily
+
+### Sunday Pick: How to stop devoting yourself to your job (w/ Sarah Jaffe) | How to Be a Better Human
+
+**Released:** 2025-08-31 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac7b67352b565debad271f/media.mp3)
+
+---
 
 ### Do schools kill creativity? | Sir Ken Robinson (re-release)
 
@@ -51,24 +69,6 @@ Last updated: 2025-08-31 01:00:34
 **Released:** 2025-08-27 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68af1c8d5012d423da358e55/media.mp3)
-
----
-
-### Why you should spend less time with your kids | Lenore Skenazy
-
-**Released:** 2025-08-26 15:03:12
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ac794f982c36846e7e0e14/media.mp3)
-
----
-
-## This American Life
-
-### 865: The Other Territory
-
-**Released:** 2025-08-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3210182538.mp3)
 
 ---
 
@@ -136,26 +136,6 @@ Last updated: 2025-08-31 01:00:34
 
 ---
 
-## The Tim Ferriss Show
-
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
-
-**Released:** 2025-08-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
-
-**Released:** 2025-08-28 04:15:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: What Were the BONE WARS?
@@ -190,21 +170,13 @@ Last updated: 2025-08-31 01:00:34
 
 ---
 
-## How I Built This
+## Revisionist History
 
-### Advice Line with Tim Ferriss
+### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
 
-**Released:** 2025-08-28 07:10:00
+**Released:** 2025-08-28 04:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
-
-**Released:** 2025-08-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -226,16 +198,6 @@ Last updated: 2025-08-31 01:00:34
 
 ---
 
-## SmartLess 
-
-### "Olivia Colman"
-
-**Released:** 2025-08-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
@@ -251,6 +213,24 @@ Last updated: 2025-08-31 01:00:34
 **Released:** 2025-08-25 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Tim Ferriss
+
+**Released:** 2025-08-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
+
+**Released:** 2025-08-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -293,6 +273,26 @@ Last updated: 2025-08-31 01:00:34
 **Released:** 2025-08-25 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Olivia Colman"
+
+**Released:** 2025-08-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
+
+**Released:** 2025-08-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
