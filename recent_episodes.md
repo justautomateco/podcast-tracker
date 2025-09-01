@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-01 01:06:52
+Last updated: 2025-09-01 12:24:47
 
 ## TED Talks Daily
 
@@ -98,34 +98,6 @@ Last updated: 2025-09-01 01:06:52
 
 ---
 
-## Planet Money
-
-### Lisa Cook and the fight for the Fed
-
-**Released:** 2025-08-29 23:12:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
-
----
-
-### Summer School 8: Graduation LIVE!
-
-**Released:** 2025-08-27 07:00:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
-
----
-
-## Hidden Brain
-
-### The Trauma Script
-
-**Released:** 2025-08-25 19:58:29
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: What Were the BONE WARS?
@@ -160,6 +132,34 @@ Last updated: 2025-09-01 01:06:52
 
 ---
 
+## Planet Money
+
+### Lisa Cook and the fight for the Fed
+
+**Released:** 2025-08-29 23:12:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
+
+---
+
+### Summer School 8: Graduation LIVE!
+
+**Released:** 2025-08-27 07:00:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
+
+---
+
+## Hidden Brain
+
+### The Trauma Script
+
+**Released:** 2025-08-25 19:58:29
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/749f28c3-2cc6-4709-a032-a32b9afb176b/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=749f28c3-2cc6-4709-a032-a32b9afb176b&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Ambassador Bridge
@@ -167,6 +167,24 @@ Last updated: 2025-09-01 01:06:52
 **Released:** 2025-08-26 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
+
+**Released:** 2025-09-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Tim Ferriss
+
+**Released:** 2025-08-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -180,24 +198,6 @@ Last updated: 2025-09-01 01:06:52
 
 ---
 
-## How I Built This
-
-### Advice Line with Tim Ferriss
-
-**Released:** 2025-08-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### (July 2021) Ben Chestnut: From Side Business to $12 Billion – The Accidental Triumph of Mailchimp
-
-**Released:** 2025-08-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ce0eaba4-6fbb-457d-ab77-5b758a7f569e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
@@ -208,53 +208,15 @@ Last updated: 2025-09-01 01:06:52
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
-
-**Released:** 2025-08-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
-
----
-
-### Greg Daniels
-
-**Released:** 2025-08-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/550e9bf3-986e-4817-bb2d-459253c9ea52/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=550e9bf3-986e-4817-bb2d-459253c9ea52&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Podcast: Bug Juice and Slushies
-
-**Released:** 2025-08-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
-
----
-
-### The Moth Radio Hour: Acceptance
-
-**Released:** 2025-08-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
-
----
-
-## SmartLess 
-
-### "Olivia Colman"
-
-**Released:** 2025-08-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2ca408f7-d78d-49cb-99ac-039443fdbf0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2ca408f7-d78d-49cb-99ac-039443fdbf0d&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Jason Aldean
+
+**Released:** 2025-09-01 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Subway
 
@@ -288,11 +250,49 @@ Last updated: 2025-09-01 01:06:52
 
 ---
 
-### Amanda Knox
+## The Moth
 
-**Released:** 2025-08-25 07:35:00
+### The Moth Podcast: Bug Juice and Slushies
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e9e3f13-f461-427f-95ae-0a446ec86b52.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-08-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
+
+---
+
+### The Moth Radio Hour: Acceptance
+
+**Released:** 2025-08-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Chris Fleming
+
+**Released:** 2025-09-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+
+---
+
+### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
+
+**Released:** 2025-08-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Steve Buscemi"
+
+**Released:** 2025-09-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
 
 ---
 
