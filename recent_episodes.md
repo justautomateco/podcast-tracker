@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-02 00:57:32
+Last updated: 2025-09-02 12:24:29
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-09-02 00:57:32
 **Released:** 2025-08-27 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d64db568-518c-4a0a-bf77-fd881991f572/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d64db568-518c-4a0a-bf77-fd881991f572&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 233: Starting From Scratch
+
+**Released:** 2025-08-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
 
 ---
 
@@ -62,6 +72,24 @@ Last updated: 2025-09-02 00:57:32
 
 ---
 
+## Planet Money
+
+### Lisa Cook and the fight for the Fed
+
+**Released:** 2025-08-29 23:12:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
+
+---
+
+### Summer School 8: Graduation LIVE!
+
+**Released:** 2025-08-27 07:00:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2372 - Garry Nolan
@@ -88,31 +116,23 @@ Last updated: 2025-09-02 00:57:32
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### Lisa Cook and the fight for the Fed
+### Escaping Perfectionism
 
-**Released:** 2025-08-29 23:12:17
+**Released:** 2025-09-01 18:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
-
----
-
-### Summer School 8: Graduation LIVE!
-
-**Released:** 2025-08-27 07:00:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2cfe43c1-e8ff-4a14-a89e-c5343491e187/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2cfe43c1-e8ff-4a14-a89e-c5343491e187&feed=kwWc0lhf)
 
 ---
 
-## This American Life
+## 99% Invisible
 
-### 233: Starting From Scratch
+### Ambassador Bridge
 
-**Released:** 2025-08-31 18:00:00
+**Released:** 2025-08-26 17:30:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
 
 ---
 
@@ -142,44 +162,6 @@ Last updated: 2025-09-02 00:57:32
 
 ---
 
-### The History of Orthodontics
-
-**Released:** 2025-08-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ec8d9036-5567-4b0e-956f-b34100f67b1a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Escaping Perfectionism
-
-**Released:** 2025-09-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2cfe43c1-e8ff-4a14-a89e-c5343491e187/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2cfe43c1-e8ff-4a14-a89e-c5343491e187&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Ambassador Bridge
-
-**Released:** 2025-08-26 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/557fc106-8548-4dac-986e-a92eb7d37c2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=557fc106-8548-4dac-986e-a92eb7d37c2f&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
-
-**Released:** 2025-08-28 04:15:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
@@ -198,25 +180,35 @@ Last updated: 2025-09-02 00:57:32
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Podcast: Bug Juice and Slushies
+### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
 
-**Released:** 2025-08-29 04:25:00
+**Released:** 2025-08-26 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Radio Hour: Acceptance
+## Revisionist History
 
-**Released:** 2025-08-26 04:25:00
+### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1008382559.mp3?updated=1755802524)
+**Released:** 2025-08-28 04:15:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
 ## Armchair Expert
+
+### Mom's Car: Karan Soni
+
+**Released:** 2025-09-02 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/756c5d9a-aa3f-4adc-8bce-5002624076f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Jason Aldean
 
@@ -242,19 +234,21 @@ Last updated: 2025-09-02 00:57:32
 
 ---
 
-### Mom's Car: Kristen Bell
+## The Moth
 
-**Released:** 2025-08-26 08:35:00
+### The Moth Radio Hour: To Thine Own Self Be True
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/418f5084-86b5-4293-9c6d-bd9f8753ec3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
 
 ---
 
-### Introducing... Mom's Car with Dax Shepard & BFAW
+### The Moth Podcast: Bug Juice and Slushies
 
-**Released:** 2025-08-26 07:35:00
+**Released:** 2025-08-29 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/719e7af8-7c77-46d6-91da-9df75ce2f309.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
 
 ---
 
@@ -283,16 +277,6 @@ Last updated: 2025-09-02 00:57:32
 **Released:** 2025-08-28 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #824: Dr. Kevin Tracey — Stimulating The Vagus Nerve to Tame Inflammation, Alleviate Depression, Treat Autoimmune Disorders (e.g., Rheumatoid Arthritis), and Much More
-
-**Released:** 2025-08-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec6634f3-3e92-4925-9abb-f33c8e8e1862.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
