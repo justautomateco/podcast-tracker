@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-03 00:53:49
+Last updated: 2025-09-03 12:23:16
 
 ## Freakonomics Radio
 
@@ -74,14 +74,6 @@ Last updated: 2025-09-03 00:53:49
 
 ---
 
-### Summer School 8: Graduation LIVE!
-
-**Released:** 2025-08-27 07:00:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2373 - Dave Landau
@@ -118,17 +110,15 @@ Last updated: 2025-09-03 00:53:49
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### The 99PI Anniversary Special: 15 for 15
+### Short Stuff: The Mpemba Effect
 
-**Released:** 2025-09-02 17:30:00
+**Released:** 2025-09-03 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c731722-65f5-4d9c-a3ae-b34c00df474c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### How Dolphins Work!
 
@@ -154,11 +144,13 @@ Last updated: 2025-09-03 00:53:49
 
 ---
 
-### Short Stuff: 1561 Celestial Event
+## 99% Invisible
 
-**Released:** 2025-08-27 09:00:00
+### The 99PI Anniversary Special: 15 for 15
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c17922d6-63b1-4fb9-9d75-b34501001b9f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-02 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
 
 ---
 
@@ -208,6 +200,16 @@ Last updated: 2025-09-03 00:53:49
 
 ---
 
+## SmartLess 
+
+### "Steve Buscemi"
+
+**Released:** 2025-09-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Chris Fleming
@@ -227,6 +229,14 @@ Last updated: 2025-09-03 00:53:49
 ---
 
 ## Armchair Expert
+
+### Mark Ronson Returns
+
+**Released:** 2025-09-03 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8411a9fa-4940-43e8-8353-88b6578cf161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mom's Car: Karan Soni
 
@@ -249,24 +259,6 @@ Last updated: 2025-09-03 00:53:49
 **Released:** 2025-08-29 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amanda Uhle (on hoarding)
-
-**Released:** 2025-08-27 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/429d110d-ba4d-40d6-af7b-1b01ccc0b66e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Steve Buscemi"
-
-**Released:** 2025-09-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
 
 ---
 

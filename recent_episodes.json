@@ -56,13 +56,6 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "f76ab18e-cfc1-478f-9618-de57b9113880",
-    "episode_title": "Summer School 8: Graduation LIVE!",
-    "release_date": "2025-08-27 07:00:02",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9996950267.mp3?t=podcast&e=nx-s1-5518210&p=510289&d=1848&size=29576969",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "7ef54088-879e-11f0-af34-db8b89b7c938",
     "episode_title": "#2373 - Dave Landau",
     "release_date": "2025-09-02 17:00:00",
@@ -91,11 +84,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "63c1c0bf-909c-4b9d-b599-0e6111e3ddff",
-    "episode_title": "The 99PI Anniversary Special: 15 for 15",
-    "release_date": "2025-09-02 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "4c731722-65f5-4d9c-a3ae-b34c00df474c",
+    "episode_title": "Short Stuff: The Mpemba Effect",
+    "release_date": "2025-09-03 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c731722-65f5-4d9c-a3ae-b34c00df474c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "de7e0484-34a1-48c0-a7bd-b34c0111f384",
@@ -119,11 +112,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "c17922d6-63b1-4fb9-9d75-b34501001b9f",
-    "episode_title": "Short Stuff: 1561 Celestial Event",
-    "release_date": "2025-08-27 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c17922d6-63b1-4fb9-9d75-b34501001b9f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "63c1c0bf-909c-4b9d-b599-0e6111e3ddff",
+    "episode_title": "The 99PI Anniversary Special: 15 for 15",
+    "release_date": "2025-09-02 17:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/5Vw-v_OOXKdpnwD51tvCgdo7WqY2RrxG7KaeHCTzqxI",
@@ -161,6 +154,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "f3fc08e4-2912-4e6d-bca2-4f74b4567bd3",
+    "episode_title": "\"Steve Buscemi\"",
+    "release_date": "2025-09-01 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "c0cf19c3-a788-44f8-9466-9b8c78ee95ec",
     "episode_title": "Chris Fleming",
     "release_date": "2025-09-01 04:05:00",
@@ -173,6 +173,13 @@
     "release_date": "2025-08-28 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/LA-S9tIAH-P-lRyOxrp8hLduvY3yFSvh-q11puEZeGY",
+    "episode_title": "Mark Ronson Returns",
+    "release_date": "2025-09-03 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/8411a9fa-4940-43e8-8353-88b6578cf161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/mqrg4qZZnOakRFZg-FJcdzWuLntWUkmu7Kaf0-eYDSI",
@@ -194,19 +201,5 @@
     "release_date": "2025-08-29 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/LuhArhE8wwEnpMr1NzPKW8rCFsAl2anvIEJanAw2xNg",
-    "episode_title": "Amanda Uhle (on hoarding)",
-    "release_date": "2025-08-27 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/429d110d-ba4d-40d6-af7b-1b01ccc0b66e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "f3fc08e4-2912-4e6d-bca2-4f74b4567bd3",
-    "episode_title": "\"Steve Buscemi\"",
-    "release_date": "2025-09-01 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
