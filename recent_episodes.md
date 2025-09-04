@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-04 00:54:15
+Last updated: 2025-09-04 12:23:52
 
 ## Freakonomics Radio
 
@@ -64,6 +64,24 @@ Last updated: 2025-09-04 00:54:15
 
 ---
 
+## Planet Money
+
+### The million dollar mystery behind Milk.com
+
+**Released:** 2025-09-03 16:00:24
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6719240903.mp3?t=podcast&e=nx-s1-5526903&p=510289&d=1241&size=19870285)
+
+---
+
+### Lisa Cook and the fight for the Fed
+
+**Released:** 2025-08-29 23:12:17
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2374 - Ben van Kerkwyk
@@ -90,24 +108,6 @@ Last updated: 2025-09-04 00:54:15
 
 ---
 
-## Planet Money
-
-### The million dollar mystery behind Milk.com
-
-**Released:** 2025-09-03 16:00:24
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6719240903.mp3?t=podcast&e=nx-s1-5526903&p=510289&d=1241&size=19870285)
-
----
-
-### Lisa Cook and the fight for the Fed
-
-**Released:** 2025-08-29 23:12:17
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8202609926.mp3?t=podcast&e=nx-s1-5522330&p=510289&d=1369&size=21912852)
-
----
-
 ## Hidden Brain
 
 ### Escaping Perfectionism
@@ -129,6 +129,14 @@ Last updated: 2025-09-04 00:54:15
 ---
 
 ## Stuff You Should Know
+
+### America’s Militarized Police
+
+**Released:** 2025-09-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f74a7b2-b814-46d2-bb23-b34e002d3514/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: The Mpemba Effect
 
@@ -154,11 +162,67 @@ Last updated: 2025-09-04 00:54:15
 
 ---
 
-### What are Blue Zones?
+## How I Built This
 
-**Released:** 2025-08-28 09:00:00
+### Advice Line: Playing to Your Strengths
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b42c788-c959-4161-b9d6-b3470012d895/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
+
+**Released:** 2025-09-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Don’t Look A Gift Horse Meat In The Mouth
+
+**Released:** 2025-09-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
+
+---
+
+### Chris Fleming
+
+**Released:** 2025-09-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: To Thine Own Self Be True
+
+**Released:** 2025-09-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
+
+---
+
+### The Moth Podcast: Bug Juice and Slushies
+
+**Released:** 2025-08-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
+
+---
+
+## SmartLess 
+
+### "Steve Buscemi"
+
+**Released:** 2025-09-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
 
 ---
 
@@ -169,34 +233,6 @@ Last updated: 2025-09-04 00:54:15
 **Released:** 2025-09-03 15:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
-
-**Released:** 2025-09-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Tim Ferriss
-
-**Released:** 2025-08-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/444c8167-0686-4ae3-ad0d-217dd492726b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### L’Oréal and IBM: AI-Powered Beauty from Smart Talks with IBM
-
-**Released:** 2025-08-28 04:15:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/0beee0a8-c610-49e0-9e79-b31a01555f7b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -231,52 +267,6 @@ Last updated: 2025-09-04 00:54:15
 **Released:** 2025-08-29 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Chris Fleming
-
-**Released:** 2025-09-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
-
----
-
-### Summer S’mores with Conan and the Chill Chums Season 5 Episode 6
-
-**Released:** 2025-08-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8da96ca3-3d3a-4d8e-8493-c64910eb8e92/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8da96ca3-3d3a-4d8e-8493-c64910eb8e92&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: To Thine Own Self Be True
-
-**Released:** 2025-09-02 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
-
----
-
-### The Moth Podcast: Bug Juice and Slushies
-
-**Released:** 2025-08-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
-
----
-
-## SmartLess 
-
-### "Steve Buscemi"
-
-**Released:** 2025-09-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
 
 ---
 
