@@ -1,24 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-05 00:55:20
+Last updated: 2025-09-05 12:22:36
 
 ## Freakonomics Radio
 
-### 644. Has America Lost Its Appetite for the Common Good?
+### 645. Is the Air Traffic Control System Broken?
 
-**Released:** 2025-08-29 10:00:00
+**Released:** 2025-09-05 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/591eb09a-5294-4f1e-9d27-6193c50b453b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=591eb09a-5294-4f1e-9d27-6193c50b453b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 233: Starting From Scratch
-
-**Released:** 2025-08-31 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
 
 ---
 
@@ -82,6 +72,50 @@ Last updated: 2025-09-05 00:55:20
 
 ---
 
+## This American Life
+
+### 233: Starting From Scratch
+
+**Released:** 2025-08-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
+
+---
+
+## Stuff You Should Know
+
+### America’s Militarized Police
+
+**Released:** 2025-09-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f74a7b2-b814-46d2-bb23-b34e002d3514/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: The Mpemba Effect
+
+**Released:** 2025-09-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c731722-65f5-4d9c-a3ae-b34c00df474c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### How Dolphins Work!
+
+**Released:** 2025-09-02 17:00:14
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7e0484-34a1-48c0-a7bd-b34c0111f384/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: What Were the BONE WARS?
+
+**Released:** 2025-08-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d09e70-945e-4906-aec2-b34500efcbd8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## Hidden Brain
 
 ### Escaping Perfectionism
@@ -128,6 +162,16 @@ Last updated: 2025-09-05 00:55:20
 
 ---
 
+## The Tim Ferriss Show
+
+### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+
+**Released:** 2025-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line: Playing to Your Strengths
@@ -143,102 +187,6 @@ Last updated: 2025-09-05 00:55:20
 **Released:** 2025-09-01 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Stuff You Should Know
-
-### America’s Militarized Police
-
-**Released:** 2025-09-04 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f74a7b2-b814-46d2-bb23-b34e002d3514/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The Mpemba Effect
-
-**Released:** 2025-09-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c731722-65f5-4d9c-a3ae-b34c00df474c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Dolphins Work!
-
-**Released:** 2025-09-02 17:00:14
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7e0484-34a1-48c0-a7bd-b34c0111f384/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: What Were the BONE WARS?
-
-**Released:** 2025-08-30 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d09e70-945e-4906-aec2-b34500efcbd8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
-
-**Released:** 2025-09-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: To Thine Own Self Be True
-
-**Released:** 2025-09-02 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
-
----
-
-### The Moth Podcast: Bug Juice and Slushies
-
-**Released:** 2025-08-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5985396576.mp3?updated=1755036812)
-
----
-
-## Armchair Expert
-
-### Mark Ronson Returns
-
-**Released:** 2025-09-03 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8411a9fa-4940-43e8-8353-88b6578cf161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Karan Soni
-
-**Released:** 2025-09-02 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/756c5d9a-aa3f-4adc-8bce-5002624076f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jason Aldean
-
-**Released:** 2025-09-01 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Subway
-
-**Released:** 2025-08-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd8f0b27-3ace-4ea2-a5d2-d915af30f0b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,6 +215,58 @@ Last updated: 2025-09-05 00:55:20
 **Released:** 2025-09-01 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Diavian Walters and Lori Gottlieb
+
+**Released:** 2025-09-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+
+---
+
+### The Moth Radio Hour: To Thine Own Self Be True
+
+**Released:** 2025-09-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Divorce II
+
+**Released:** 2025-09-05 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/92ec0c27-6714-46d4-882b-96945ebfcbcb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mark Ronson Returns
+
+**Released:** 2025-09-03 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8411a9fa-4940-43e8-8353-88b6578cf161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Karan Soni
+
+**Released:** 2025-09-02 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/756c5d9a-aa3f-4adc-8bce-5002624076f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jason Aldean
+
+**Released:** 2025-09-01 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
