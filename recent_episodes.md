@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-07 00:59:59
+Last updated: 2025-09-07 12:20:27
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-09-07 00:59:59
 ---
 
 ## TED Talks Daily
+
+### Beyond the Talk: Salome Agbaroji and Samora Pinderhughes in conversation with TED Talks Daily
+
+**Released:** 2025-09-07 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68bb1667b177a2f484dcbe09/media.mp3)
+
+---
 
 ### What will the future of art look like? A visual effects artist and a curator answer | Rob Bredow and Nora Atkinson
 
@@ -56,14 +64,6 @@ Last updated: 2025-09-07 00:59:59
 
 ---
 
-### What’s behind the rise of far right politics in Europe | Daphne Halikiopoulou
-
-**Released:** 2025-09-02 15:04:28
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b705d2093397eb05daef05/media.mp3)
-
----
-
 ## Planet Money
 
 ### What happens to central banks under pressure?
@@ -83,6 +83,14 @@ Last updated: 2025-09-07 00:59:59
 ---
 
 ## The Joe Rogan Experience
+
+### Fight Companion - September 6, 2025
+
+**Released:** 2025-09-07 00:42:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5988017400.mp3?updated=1757211426)
+
+---
 
 ### #2375 - Tim Dillon
 
@@ -162,6 +170,80 @@ Last updated: 2025-09-07 00:59:59
 
 ---
 
+## The Tim Ferriss Show
+
+### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+
+**Released:** 2025-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line: Playing to Your Strengths
+
+**Released:** 2025-09-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
+
+**Released:** 2025-09-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Steve Buscemi"
+
+**Released:** 2025-09-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Don’t Look A Gift Horse Meat In The Mouth
+
+**Released:** 2025-09-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
+
+---
+
+### Chris Fleming
+
+**Released:** 2025-09-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Diavian Walters and Lori Gottlieb
+
+**Released:** 2025-09-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+
+---
+
+### The Moth Radio Hour: To Thine Own Self Be True
+
+**Released:** 2025-09-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Divorce II
@@ -193,80 +275,6 @@ Last updated: 2025-09-07 00:59:59
 **Released:** 2025-09-01 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Diavian Walters and Lori Gottlieb
-
-**Released:** 2025-09-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
-
----
-
-### The Moth Radio Hour: To Thine Own Self Be True
-
-**Released:** 2025-09-02 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
-
----
-
-## How I Built This
-
-### Advice Line: Playing to Your Strengths
-
-**Released:** 2025-09-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
-
-**Released:** 2025-09-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Don’t Look A Gift Horse Meat In The Mouth
-
-**Released:** 2025-09-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
-
----
-
-### Chris Fleming
-
-**Released:** 2025-09-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Steve Buscemi"
-
-**Released:** 2025-09-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
-
-**Released:** 2025-09-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
