@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-06 12:19:59
+Last updated: 2025-09-07 00:59:59
+
+## Freakonomics Radio
+
+### 645. Is the Air Traffic Control System Broken?
+
+**Released:** 2025-09-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 233: Starting From Scratch
+
+**Released:** 2025-08-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -41,26 +61,6 @@ Last updated: 2025-09-06 12:19:59
 **Released:** 2025-09-02 15:04:28
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b705d2093397eb05daef05/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 645. Is the Air Traffic Control System Broken?
-
-**Released:** 2025-09-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 233: Starting From Scratch
-
-**Released:** 2025-08-31 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3)
 
 ---
 
@@ -118,16 +118,6 @@ Last updated: 2025-09-06 12:19:59
 
 ---
 
-## 99% Invisible
-
-### The 99PI Anniversary Special: 15 for 15
-
-**Released:** 2025-09-02 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Noise Pollution: Arrrgh!
@@ -162,67 +152,13 @@ Last updated: 2025-09-06 12:19:59
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line: Playing to Your Strengths
+### The 99PI Anniversary Special: 15 for 15
 
-**Released:** 2025-09-04 07:10:00
+**Released:** 2025-09-02 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
-
-**Released:** 2025-09-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Diavian Walters and Lori Gottlieb
-
-**Released:** 2025-09-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
-
----
-
-### The Moth Radio Hour: To Thine Own Self Be True
-
-**Released:** 2025-09-02 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
-
----
-
-## SmartLess 
-
-### "Steve Buscemi"
-
-**Released:** 2025-09-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Don’t Look A Gift Horse Meat In The Mouth
-
-**Released:** 2025-09-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
-
----
-
-### Chris Fleming
-
-**Released:** 2025-09-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
 
 ---
 
@@ -257,6 +193,70 @@ Last updated: 2025-09-06 12:19:59
 **Released:** 2025-09-01 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Diavian Walters and Lori Gottlieb
+
+**Released:** 2025-09-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+
+---
+
+### The Moth Radio Hour: To Thine Own Self Be True
+
+**Released:** 2025-09-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
+
+---
+
+## How I Built This
+
+### Advice Line: Playing to Your Strengths
+
+**Released:** 2025-09-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
+
+**Released:** 2025-09-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Don’t Look A Gift Horse Meat In The Mouth
+
+**Released:** 2025-09-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
+
+---
+
+### Chris Fleming
+
+**Released:** 2025-09-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Steve Buscemi"
+
+**Released:** 2025-09-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
 
 ---
 
