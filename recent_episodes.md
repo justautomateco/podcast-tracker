@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-08 00:58:45
+Last updated: 2025-09-08 12:25:08
 
 ## Freakonomics Radio
 
@@ -54,16 +54,6 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-## This American Life
-
-### 866: Watch Out for That Tree
-
-**Released:** 2025-09-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
-
----
-
 ## Planet Money
 
 ### What happens to central banks under pressure?
@@ -79,6 +69,16 @@ Last updated: 2025-09-08 00:58:45
 **Released:** 2025-09-03 16:00:24
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6719240903.mp3?t=podcast&e=nx-s1-5526903&p=510289&d=1241&size=19870285)
+
+---
+
+## This American Life
+
+### 866: Watch Out for That Tree
+
+**Released:** 2025-09-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
@@ -126,16 +126,6 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-## 99% Invisible
-
-### The 99PI Anniversary Special: 15 for 15
-
-**Released:** 2025-09-02 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Noise Pollution: Arrrgh!
@@ -170,17 +160,25 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+### The 99PI Anniversary Special: 15 for 15
 
-**Released:** 2025-09-03 15:00:00
+**Released:** 2025-09-02 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
 
 ---
 
 ## How I Built This
+
+### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
+
+**Released:** 2025-09-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line: Playing to Your Strengths
 
@@ -190,11 +188,13 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-### Don Vultaggio: AriZona Beverage Company - The Snap Decision That Outsmarted Snapple
+## The Tim Ferriss Show
 
-**Released:** 2025-09-01 07:10:00
+### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e81179e-8590-49d1-9386-304b451b4a7f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,17 +216,15 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Steve Buscemi"
+### Nate Bargatze
 
-**Released:** 2025-09-01 07:01:00
+**Released:** 2025-09-08 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/17f6ce57-3bd6-4e57-a27d-82e6572970b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=17f6ce57-3bd6-4e57-a27d-82e6572970b9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a613f46-d015-4a35-94a4-ef7a55ae855d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a613f46-d015-4a35-94a4-ef7a55ae855d&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### Don’t Look A Gift Horse Meat In The Mouth
 
@@ -236,15 +234,15 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-### Chris Fleming
+## Armchair Expert
 
-**Released:** 2025-09-01 04:05:00
+### Alicia Silverstone
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b6f6eb3c-555a-4b4f-a293-5c067290cda8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b6f6eb3c-555a-4b4f-a293-5c067290cda8&feed=dHoohVNH)
+**Released:** 2025-09-08 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d13fc2f4-1130-4b97-be28-b9ab775b1dda.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: Divorce II
 
@@ -270,11 +268,13 @@ Last updated: 2025-09-08 00:58:45
 
 ---
 
-### Jason Aldean
+## SmartLess 
 
-**Released:** 2025-09-01 07:35:00
+### "Mel Robbins"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08ec6f7e-9d64-4260-9dbb-d7356ddd2097.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
