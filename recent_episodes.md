@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-08 12:25:08
+Last updated: 2025-09-09 00:56:20
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2025-09-08 12:25:08
 
 ---
 
+## This American Life
+
+### 866: Watch Out for That Tree
+
+**Released:** 2025-09-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How nearly dying helped me discover my own cure (and many more) | David Fajgenbaum
+
+**Released:** 2025-09-08 16:56:01
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68bef18d02dac15235074cfd/media.mp3)
+
+---
 
 ### Beyond the Talk: Salome Agbaroji and Samora Pinderhughes in conversation with TED Talks Daily
 
@@ -46,14 +64,6 @@ Last updated: 2025-09-08 12:25:08
 
 ---
 
-### Most countries fail at clean energy. Here’s how mine succeeded | Sebastián Kind
-
-**Released:** 2025-09-03 15:08:37
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b85888093397eb0530d723/media.mp3)
-
----
-
 ## Planet Money
 
 ### What happens to central banks under pressure?
@@ -69,16 +79,6 @@ Last updated: 2025-09-08 12:25:08
 **Released:** 2025-09-03 16:00:24
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6719240903.mp3?t=podcast&e=nx-s1-5526903&p=510289&d=1241&size=19870285)
-
----
-
-## This American Life
-
-### 866: Watch Out for That Tree
-
-**Released:** 2025-09-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
@@ -118,11 +118,11 @@ Last updated: 2025-09-08 12:25:08
 
 ## Hidden Brain
 
-### Escaping Perfectionism
+### Winning the Battle Against Yourself
 
-**Released:** 2025-09-01 18:00:00
+**Released:** 2025-09-08 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2cfe43c1-e8ff-4a14-a89e-c5343491e187/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2cfe43c1-e8ff-4a14-a89e-c5343491e187&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
 
 ---
 
@@ -167,24 +167,6 @@ Last updated: 2025-09-08 12:25:08
 **Released:** 2025-09-02 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
-
-**Released:** 2025-09-08 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Playing to Your Strengths
-
-**Released:** 2025-09-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +216,34 @@ Last updated: 2025-09-08 12:25:08
 
 ---
 
+## SmartLess 
+
+### "Mel Robbins"
+
+**Released:** 2025-09-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
+
+**Released:** 2025-09-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line: Playing to Your Strengths
+
+**Released:** 2025-09-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Alicia Silverstone
@@ -265,16 +275,6 @@ Last updated: 2025-09-08 12:25:08
 **Released:** 2025-09-02 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/756c5d9a-aa3f-4adc-8bce-5002624076f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Mel Robbins"
-
-**Released:** 2025-09-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
