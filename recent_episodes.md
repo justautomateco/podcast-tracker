@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-09 00:56:20
+Last updated: 2025-09-09 12:25:39
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-09-09 00:56:20
 **Released:** 2025-09-05 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 866: Watch Out for That Tree
-
-**Released:** 2025-09-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
@@ -61,6 +51,16 @@ Last updated: 2025-09-09 00:56:20
 **Released:** 2025-09-04 14:56:38
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b9a8a74199e5a9ce192b5d/media.mp3)
+
+---
+
+## This American Life
+
+### 866: Watch Out for That Tree
+
+**Released:** 2025-09-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
@@ -128,6 +128,14 @@ Last updated: 2025-09-09 00:56:20
 
 ## Stuff You Should Know
 
+### The Man with the Golden Arm
+
+**Released:** 2025-09-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8cd2c5b4-251a-49e2-95db-b34e002e8e42/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Selects: Noise Pollution: Arrrgh!
 
 **Released:** 2025-09-06 09:00:00
@@ -170,31 +178,21 @@ Last updated: 2025-09-09 00:56:20
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
 
-**Released:** 2025-09-03 15:00:00
+**Released:** 2025-09-08 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Diavian Walters and Lori Gottlieb
-
-**Released:** 2025-09-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Moth Radio Hour: To Thine Own Self Be True
+### Advice Line: Playing to Your Strengths
 
-**Released:** 2025-09-02 04:25:00
+**Released:** 2025-09-04 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2889396312.mp3?updated=1756234862)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,35 +214,15 @@ Last updated: 2025-09-09 00:56:20
 
 ---
 
-## SmartLess 
-
-### "Mel Robbins"
-
-**Released:** 2025-09-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
-
-**Released:** 2025-09-08 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Playing to Your Strengths
-
-**Released:** 2025-09-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
+
+### Mom's Car: Joy Bryant
+
+**Released:** 2025-09-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ea1c8d9f-71b8-48da-827b-93215cef9bfc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Alicia Silverstone
 
@@ -270,11 +248,41 @@ Last updated: 2025-09-09 00:56:20
 
 ---
 
-### Mom's Car: Karan Soni
+## The Moth
 
-**Released:** 2025-09-02 07:35:00
+### The Moth Radio Hour: Clean Breaks
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/756c5d9a-aa3f-4adc-8bce-5002624076f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-09 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
+
+---
+
+### The Moth Podcast: Diavian Walters and Lori Gottlieb
+
+**Released:** 2025-09-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+
+---
+
+## The Tim Ferriss Show
+
+### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+
+**Released:** 2025-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Mel Robbins"
+
+**Released:** 2025-09-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
