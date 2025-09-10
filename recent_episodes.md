@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-09 12:25:39
+Last updated: 2025-09-10 00:54:54
 
-## Freakonomics Radio
+## This American Life
 
-### 645. Is the Air Traffic Control System Broken?
+### 866: Watch Out for That Tree
 
-**Released:** 2025-09-05 10:00:00
+**Released:** 2025-09-07 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
 ## TED Talks Daily
+
+### How digital culture is reshaping our faces and bodies | Elise Hu (re-release)
+
+**Released:** 2025-09-09 15:20:18
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c045330e15f0d4551498df/media.mp3)
+
+---
 
 ### How nearly dying helped me discover my own cure (and many more) | David Fajgenbaum
 
@@ -46,21 +54,13 @@ Last updated: 2025-09-09 12:25:39
 
 ---
 
-### How displaced people are driving local economies | Julienne Oyler
+## Freakonomics Radio
 
-**Released:** 2025-09-04 14:56:38
+### 645. Is the Air Traffic Control System Broken?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68b9a8a74199e5a9ce192b5d/media.mp3)
+**Released:** 2025-09-05 10:00:00
 
----
-
-## This American Life
-
-### 866: Watch Out for That Tree
-
-**Released:** 2025-09-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
 
 ---
 
@@ -79,50 +79,6 @@ Last updated: 2025-09-09 12:25:39
 **Released:** 2025-09-03 16:00:24
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6719240903.mp3?t=podcast&e=nx-s1-5526903&p=510289&d=1241&size=19870285)
-
----
-
-## The Joe Rogan Experience
-
-### Fight Companion - September 6, 2025
-
-**Released:** 2025-09-07 00:42:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5988017400.mp3?updated=1757211426)
-
----
-
-### #2375 - Tim Dillon
-
-**Released:** 2025-09-04 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5419927273.mp3?updated=1757003770)
-
----
-
-### #2374 - Ben van Kerkwyk
-
-**Released:** 2025-09-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1992554752.mp3?updated=1756936762)
-
----
-
-### #2373 - Dave Landau
-
-**Released:** 2025-09-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5358947803.mp3?updated=1756826672)
-
----
-
-## Hidden Brain
-
-### Winning the Battle Against Yourself
-
-**Released:** 2025-09-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
 
 ---
 
@@ -160,21 +116,57 @@ Last updated: 2025-09-09 12:25:39
 
 ---
 
-### How Dolphins Work!
+## Hidden Brain
 
-**Released:** 2025-09-02 17:00:14
+### Winning the Battle Against Yourself
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7e0484-34a1-48c0-a7bd-b34c0111f384/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
 
 ---
 
 ## 99% Invisible
 
-### The 99PI Anniversary Special: 15 for 15
+### Revisiting The 99% Invisible City
 
-**Released:** 2025-09-02 17:30:00
+**Released:** 2025-09-09 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e058772f-1f40-4066-b935-c01d95a9690a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e058772f-1f40-4066-b935-c01d95a9690a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2376 - Brigham Buhler
+
+**Released:** 2025-09-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3406958618.mp3?updated=1757438165)
+
+---
+
+### Fight Companion - September 6, 2025
+
+**Released:** 2025-09-07 00:42:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5988017400.mp3?updated=1757211426)
+
+---
+
+### #2375 - Tim Dillon
+
+**Released:** 2025-09-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5419927273.mp3?updated=1757003770)
+
+---
+
+### #2374 - Ben van Kerkwyk
+
+**Released:** 2025-09-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1992554752.mp3?updated=1756936762)
 
 ---
 
@@ -196,6 +188,24 @@ Last updated: 2025-09-09 12:25:39
 
 ---
 
+## The Tim Ferriss Show
+
+### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
+
+**Released:** 2025-09-09 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
+
+**Released:** 2025-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Nate Bargatze
@@ -211,6 +221,34 @@ Last updated: 2025-09-09 12:25:39
 **Released:** 2025-09-04 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Clean Breaks
+
+**Released:** 2025-09-09 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
+
+---
+
+### The Moth Podcast: Diavian Walters and Lori Gottlieb
+
+**Released:** 2025-09-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
+
+---
+
+## SmartLess 
+
+### "Mel Robbins"
+
+**Released:** 2025-09-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
@@ -245,44 +283,6 @@ Last updated: 2025-09-09 12:25:39
 **Released:** 2025-09-03 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8411a9fa-4940-43e8-8353-88b6578cf161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Clean Breaks
-
-**Released:** 2025-09-09 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
-
----
-
-### The Moth Podcast: Diavian Walters and Lori Gottlieb
-
-**Released:** 2025-09-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
-
----
-
-## The Tim Ferriss Show
-
-### #825: Dr. Dominic D’Agostino — All Things Ketones, How to Protect the Brain and Boost Cognition, Sardine Fasting, Diet Rules, Revisiting Metformin and Melatonin, and More 
-
-**Released:** 2025-09-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db7a9d0a-6fb3-48b9-863b-f8f8b8dda5bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Mel Robbins"
-
-**Released:** 2025-09-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
