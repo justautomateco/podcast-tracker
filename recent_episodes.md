@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-11 00:56:12
-
-## Freakonomics Radio
-
-### 645. Is the Air Traffic Control System Broken?
-
-**Released:** 2025-09-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
-
----
+Last updated: 2025-09-11 12:22:33
 
 ## TED Talks Daily
 
@@ -54,6 +44,26 @@ Last updated: 2025-09-11 00:56:12
 
 ---
 
+## Freakonomics Radio
+
+### 645. Is the Air Traffic Control System Broken?
+
+**Released:** 2025-09-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 866: Watch Out for That Tree
+
+**Released:** 2025-09-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
+
+---
+
 ## Planet Money
 
 ### Asking for a friend … which jobs are safe from AI?
@@ -69,16 +79,6 @@ Last updated: 2025-09-11 00:56:12
 **Released:** 2025-09-06 00:18:51
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8436152050.mp3?t=podcast&e=nx-s1-5532144&p=510289&d=1536&size=24578177)
-
----
-
-## This American Life
-
-### 866: Watch Out for That Tree
-
-**Released:** 2025-09-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
 
 ---
 
@@ -162,11 +162,31 @@ Last updated: 2025-09-11 00:56:12
 
 ---
 
-### America’s Militarized Police
+## The Tim Ferriss Show
 
-**Released:** 2025-09-04 09:00:00
+### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f74a7b2-b814-46d2-bb23-b34e002d3514/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-09 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line with Dave Weiner of Priority Bicycles
+
+**Released:** 2025-09-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d04cdae7-1b9f-41d4-a0c3-07c3d0ebf1b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
+
+**Released:** 2025-09-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -185,62 +205,6 @@ Last updated: 2025-09-11 00:56:12
 **Released:** 2025-09-05 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
-
----
-
-## How I Built This
-
-### Carlton Calvin: Razor. The wild rise, collapse, and reinvention of a mobile toy empire.
-
-**Released:** 2025-09-08 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Playing to Your Strengths
-
-**Released:** 2025-09-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58e024f9-ae1d-42cf-bd56-a8b499c4bf02.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Nate Bargatze
-
-**Released:** 2025-09-08 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a613f46-d015-4a35-94a4-ef7a55ae855d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a613f46-d015-4a35-94a4-ef7a55ae855d&feed=dHoohVNH)
-
----
-
-### Don’t Look A Gift Horse Meat In The Mouth
-
-**Released:** 2025-09-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ea371f8e-66f5-4c6d-ac2e-8d37f0a77618/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ea371f8e-66f5-4c6d-ac2e-8d37f0a77618&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Mel Robbins"
-
-**Released:** 2025-09-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
-
-**Released:** 2025-09-09 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -275,6 +239,42 @@ Last updated: 2025-09-11 00:56:12
 **Released:** 2025-09-05 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/92ec0c27-6714-46d4-882b-96945ebfcbcb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Kerry Washington"
+
+**Released:** 2025-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
+
+---
+
+### "Mel Robbins"
+
+**Released:** 2025-09-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Born to Be Badminton
+
+**Released:** 2025-09-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d0d8e772-34fb-40ff-96ea-94d09d143cc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d0d8e772-34fb-40ff-96ea-94d09d143cc9&feed=dHoohVNH)
+
+---
+
+### Nate Bargatze
+
+**Released:** 2025-09-08 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9a613f46-d015-4a35-94a4-ef7a55ae855d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9a613f46-d015-4a35-94a4-ef7a55ae855d&feed=dHoohVNH)
 
 ---
 
