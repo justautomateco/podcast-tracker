@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-12 00:54:17
-
-## Freakonomics Radio
-
-### 645. Is the Air Traffic Control System Broken?
-
-**Released:** 2025-09-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5ada9744-8a72-40ce-b2dc-c49948c2d5a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5ada9744-8a72-40ce-b2dc-c49948c2d5a1&feed=Y8lFbOT4)
-
----
+Last updated: 2025-09-12 12:22:51
 
 ## TED Talks Daily
 
@@ -54,6 +44,16 @@ Last updated: 2025-09-12 00:54:17
 
 ---
 
+## Freakonomics Radio
+
+### 646. An Air Traffic Controller Walks Into a Radio Studio ...
+
+**Released:** 2025-09-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
 ### 866: Watch Out for That Tree
@@ -61,24 +61,6 @@ Last updated: 2025-09-12 00:54:17
 **Released:** 2025-09-07 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
-
----
-
-## Planet Money
-
-### Asking for a friend … which jobs are safe from AI?
-
-**Released:** 2025-09-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
-
----
-
-### What happens to central banks under pressure?
-
-**Released:** 2025-09-06 00:18:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8436152050.mp3?t=podcast&e=nx-s1-5532144&p=510289&d=1536&size=24578177)
 
 ---
 
@@ -116,6 +98,34 @@ Last updated: 2025-09-12 00:54:17
 
 ---
 
+## Planet Money
+
+### Asking for a friend … which jobs are safe from AI?
+
+**Released:** 2025-09-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
+
+---
+
+### What happens to central banks under pressure?
+
+**Released:** 2025-09-06 00:18:51
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8436152050.mp3?t=podcast&e=nx-s1-5532144&p=510289&d=1536&size=24578177)
+
+---
+
+## Hidden Brain
+
+### Winning the Battle Against Yourself
+
+**Released:** 2025-09-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
 
 ### You’re So Good At Conversation! 
@@ -150,16 +160,6 @@ Last updated: 2025-09-12 00:54:17
 
 ---
 
-## Hidden Brain
-
-### Winning the Battle Against Yourself
-
-**Released:** 2025-09-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Revisiting The 99% Invisible City
@@ -167,6 +167,24 @@ Last updated: 2025-09-12 00:54:17
 **Released:** 2025-09-09 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Performing in LA and Antarctica
+
+**Released:** 2025-09-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
+
+---
+
+### The Moth Radio Hour: Clean Breaks
+
+**Released:** 2025-09-09 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
 
 ---
 
@@ -185,34 +203,6 @@ Last updated: 2025-09-12 00:54:17
 **Released:** 2025-09-08 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f45fbe76-9c6a-44ad-af31-8d13f1d5d820.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
-
-**Released:** 2025-09-09 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Clean Breaks
-
-**Released:** 2025-09-09 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
-
----
-
-### The Moth Podcast: Diavian Walters and Lori Gottlieb
-
-**Released:** 2025-09-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4671739198.mp3?updated=1755096728)
 
 ---
 
@@ -254,6 +244,14 @@ Last updated: 2025-09-12 00:54:17
 
 ## Armchair Expert
 
+### Armchair Anonymous: Unauthorized Evacuation II
+
+**Released:** 2025-09-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/28327fee-5472-441d-bec4-8cd8675dc007.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Seth Harp (on drug trafficking in the military)
 
 **Released:** 2025-09-10 07:35:00
@@ -278,11 +276,13 @@ Last updated: 2025-09-12 00:54:17
 
 ---
 
-### Armchair Anonymous: Divorce II
+## The Tim Ferriss Show
 
-**Released:** 2025-09-05 07:35:00
+### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/92ec0c27-6714-46d4-882b-96945ebfcbcb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-09 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
