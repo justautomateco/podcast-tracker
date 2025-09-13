@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-12 12:22:51
+Last updated: 2025-09-13 00:51:45
 
 ## TED Talks Daily
+
+### The life-saving secrets in your baby's DNA | Robert C. Green
+
+**Released:** 2025-09-12 16:09:24
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c445b46078db9201c8dedc/media.mp3)
+
+---
 
 ### Floating farms, sponge cities and the climate solutions already working | Harjeet Singh
 
@@ -36,14 +44,6 @@ Last updated: 2025-09-12 12:22:51
 
 ---
 
-### Beyond the Talk: Salome Agbaroji and Samora Pinderhughes in conversation with TED Talks Daily
-
-**Released:** 2025-09-07 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68bb1667b177a2f484dcbe09/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 646. An Air Traffic Controller Walks Into a Radio Studio ...
@@ -64,55 +64,21 @@ Last updated: 2025-09-12 12:22:51
 
 ---
 
-## The Joe Rogan Experience
-
-### #2378 - Charlie Sheen
-
-**Released:** 2025-09-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214)
-
----
-
-### #2377 - Carrot Top
-
-**Released:** 2025-09-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5544936992.mp3?updated=1757523448)
-
----
-
-### #2376 - Brigham Buhler
-
-**Released:** 2025-09-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3406958618.mp3?updated=1757438165)
-
----
-
-### Fight Companion - September 6, 2025
-
-**Released:** 2025-09-07 00:42:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5988017400.mp3?updated=1757211426)
-
----
-
 ## Planet Money
+
+### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+
+**Released:** 2025-09-12 21:41:53
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+
+---
 
 ### Asking for a friend … which jobs are safe from AI?
 
 **Released:** 2025-09-10 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
-
----
-
-### What happens to central banks under pressure?
-
-**Released:** 2025-09-06 00:18:51
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8436152050.mp3?t=podcast&e=nx-s1-5532144&p=510289&d=1536&size=24578177)
 
 ---
 
@@ -123,6 +89,16 @@ Last updated: 2025-09-12 12:22:51
 **Released:** 2025-09-08 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Revisiting The 99% Invisible City
+
+**Released:** 2025-09-09 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
 
 ---
 
@@ -160,13 +136,71 @@ Last updated: 2025-09-12 12:22:51
 
 ---
 
-## 99% Invisible
+## The Joe Rogan Experience
 
-### Revisiting The 99% Invisible City
+### #2378 - Charlie Sheen
 
-**Released:** 2025-09-09 17:30:00
+**Released:** 2025-09-11 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214)
+
+---
+
+### #2377 - Carrot Top
+
+**Released:** 2025-09-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5544936992.mp3?updated=1757523448)
+
+---
+
+### #2376 - Brigham Buhler
+
+**Released:** 2025-09-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3406958618.mp3?updated=1757438165)
+
+---
+
+### Fight Companion - September 6, 2025
+
+**Released:** 2025-09-07 00:42:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5988017400.mp3?updated=1757211426)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Unauthorized Evacuation II
+
+**Released:** 2025-09-12 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/28327fee-5472-441d-bec4-8cd8675dc007.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Seth Harp (on drug trafficking in the military)
+
+**Released:** 2025-09-10 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/342844b7-ed11-431c-8d0d-454c67402851.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Joy Bryant
+
+**Released:** 2025-09-09 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ea1c8d9f-71b8-48da-827b-93215cef9bfc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Alicia Silverstone
+
+**Released:** 2025-09-08 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d13fc2f4-1130-4b97-be28-b9ab775b1dda.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -239,40 +273,6 @@ Last updated: 2025-09-12 12:22:51
 **Released:** 2025-09-08 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Unauthorized Evacuation II
-
-**Released:** 2025-09-12 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/28327fee-5472-441d-bec4-8cd8675dc007.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Seth Harp (on drug trafficking in the military)
-
-**Released:** 2025-09-10 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/342844b7-ed11-431c-8d0d-454c67402851.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Joy Bryant
-
-**Released:** 2025-09-09 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ea1c8d9f-71b8-48da-827b-93215cef9bfc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Alicia Silverstone
-
-**Released:** 2025-09-08 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d13fc2f4-1130-4b97-be28-b9ab775b1dda.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
