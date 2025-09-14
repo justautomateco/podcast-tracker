@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-14 00:59:22
+Last updated: 2025-09-14 12:20:03
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-09-14 00:59:22
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to have curious conversations in dangerously divided times (w/ Mónica Guzmán) | How to Be a Better Human 
+
+**Released:** 2025-09-14 04:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c44a3e86eb67a6f61cbd40/media.mp3)
+
+---
 
 ### TED Intersections: How will new tech shape your life? A roboticist and a political strategist answer |  Bradley Tusk and Ali Kashani
 
@@ -56,11 +64,13 @@ Last updated: 2025-09-14 00:59:22
 
 ---
 
-### How digital culture is reshaping our faces and bodies | Elise Hu (re-release)
+## Hidden Brain
 
-**Released:** 2025-09-09 15:20:18
+### Winning the Battle Against Yourself
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c045330e15f0d4551498df/media.mp3)
+**Released:** 2025-09-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
 
 ---
 
@@ -79,16 +89,6 @@ Last updated: 2025-09-14 00:59:22
 **Released:** 2025-09-10 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
-
----
-
-## Hidden Brain
-
-### Winning the Battle Against Yourself
-
-**Released:** 2025-09-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
 
 ---
 
@@ -115,6 +115,16 @@ Last updated: 2025-09-14 00:59:22
 **Released:** 2025-09-09 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3406958618.mp3?updated=1757438165)
+
+---
+
+## 99% Invisible
+
+### Revisiting The 99% Invisible City
+
+**Released:** 2025-09-09 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
 
 ---
 
@@ -152,16 +162,6 @@ Last updated: 2025-09-14 00:59:22
 
 ---
 
-## 99% Invisible
-
-### Revisiting The 99% Invisible City
-
-**Released:** 2025-09-09 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Dave Weiner of Priority Bicycles
@@ -180,31 +180,21 @@ Last updated: 2025-09-14 00:59:22
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
+### The Moth Podcast: Performing in LA and Antarctica
 
-**Released:** 2025-09-09 21:30:00
+**Released:** 2025-09-12 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Kerry Washington"
-
-**Released:** 2025-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
 
 ---
 
-### "Mel Robbins"
+### The Moth Radio Hour: Clean Breaks
 
-**Released:** 2025-09-08 07:01:00
+**Released:** 2025-09-09 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
 
 ---
 
@@ -226,21 +216,21 @@ Last updated: 2025-09-14 00:59:22
 
 ---
 
-## The Moth
+## SmartLess 
 
-### The Moth Podcast: Performing in LA and Antarctica
+### "RE-RELEASE: Kerry Washington"
 
-**Released:** 2025-09-12 04:25:00
+**Released:** 2025-09-11 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
 
 ---
 
-### The Moth Radio Hour: Clean Breaks
+### "Mel Robbins"
 
-**Released:** 2025-09-09 04:25:00
+**Released:** 2025-09-08 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cebbf088-c2d1-41b4-ae7f-a6e5898871e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cebbf088-c2d1-41b4-ae7f-a6e5898871e1&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +265,16 @@ Last updated: 2025-09-14 00:59:22
 **Released:** 2025-09-08 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d13fc2f4-1130-4b97-be28-b9ab775b1dda.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
+
+**Released:** 2025-09-09 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
