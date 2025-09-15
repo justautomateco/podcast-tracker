@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-14 12:20:03
+Last updated: 2025-09-15 00:59:26
 
 ## Freakonomics Radio
 
@@ -14,11 +14,11 @@ Last updated: 2025-09-14 12:20:03
 
 ## This American Life
 
-### 866: Watch Out for That Tree
+### 867: College Disorientation
 
-**Released:** 2025-09-07 18:00:00
+**Released:** 2025-09-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
 
 ---
 
@@ -64,34 +64,6 @@ Last updated: 2025-09-14 12:20:03
 
 ---
 
-## Hidden Brain
-
-### Winning the Battle Against Yourself
-
-**Released:** 2025-09-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### The U.S. now owns a big chunk of Intel. That’s a huge deal.
-
-**Released:** 2025-09-12 21:41:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
-
----
-
-### Asking for a friend … which jobs are safe from AI?
-
-**Released:** 2025-09-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2378 - Charlie Sheen
@@ -118,13 +90,21 @@ Last updated: 2025-09-14 12:20:03
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### Revisiting The 99% Invisible City
+### The U.S. now owns a big chunk of Intel. That’s a huge deal.
 
-**Released:** 2025-09-09 17:30:00
+**Released:** 2025-09-12 21:41:53
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+
+---
+
+### Asking for a friend … which jobs are safe from AI?
+
+**Released:** 2025-09-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
 
 ---
 
@@ -162,6 +142,26 @@ Last updated: 2025-09-14 12:20:03
 
 ---
 
+## Hidden Brain
+
+### Winning the Battle Against Yourself
+
+**Released:** 2025-09-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9621f5e8-e7a7-4050-98cc-a5f169f5078f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9621f5e8-e7a7-4050-98cc-a5f169f5078f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Revisiting The 99% Invisible City
+
+**Released:** 2025-09-09 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Dave Weiner of Priority Bicycles
@@ -180,21 +180,13 @@ Last updated: 2025-09-14 12:20:03
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Podcast: Performing in LA and Antarctica
+### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
 
-**Released:** 2025-09-12 04:25:00
+**Released:** 2025-09-09 21:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
-
----
-
-### The Moth Radio Hour: Clean Breaks
-
-**Released:** 2025-09-09 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +226,24 @@ Last updated: 2025-09-14 12:20:03
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Performing in LA and Antarctica
+
+**Released:** 2025-09-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
+
+---
+
+### The Moth Radio Hour: Clean Breaks
+
+**Released:** 2025-09-09 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3241278664.mp3?updated=1757026006)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Unauthorized Evacuation II
@@ -265,16 +275,6 @@ Last updated: 2025-09-14 12:20:03
 **Released:** 2025-09-08 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d13fc2f4-1130-4b97-be28-b9ab775b1dda.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
-
-**Released:** 2025-09-09 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
