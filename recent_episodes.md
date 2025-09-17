@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-17 00:54:36
+Last updated: 2025-09-17 12:23:26
+
+## Freakonomics Radio
+
+### Is the World Ready for a Guaranteed Basic Income? (Update)
+
+**Released:** 2025-09-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
+
+---
+
+### 646. An Air Traffic Controller Walks Into a Radio Studio ...
+
+**Released:** 2025-09-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,16 +62,6 @@ Last updated: 2025-09-17 00:54:36
 
 ---
 
-## Freakonomics Radio
-
-### 646. An Air Traffic Controller Walks Into a Radio Studio ...
-
-**Released:** 2025-09-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 867: College Disorientation
@@ -66,19 +74,19 @@ Last updated: 2025-09-17 00:54:36
 
 ## Planet Money
 
+### When CEO pay exploded (update)
+
+**Released:** 2025-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
 ### The U.S. now owns a big chunk of Intel. That’s a huge deal.
 
 **Released:** 2025-09-12 21:41:53
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
-
----
-
-### Asking for a friend … which jobs are safe from AI?
-
-**Released:** 2025-09-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5214492477.mp3?t=podcast&e=nx-s1-5534485&p=510289&d=1731&size=27697825)
 
 ---
 
@@ -92,33 +100,25 @@ Last updated: 2025-09-17 00:54:36
 
 ---
 
-## The Joe Rogan Experience
+## 99% Invisible
 
-### #2379 - Matthew McConaughey
+### Replaceable You
 
-**Released:** 2025-09-16 17:00:00
+**Released:** 2025-09-16 17:30:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
-
----
-
-### #2378 - Charlie Sheen
-
-**Released:** 2025-09-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214)
-
----
-
-### #2377 - Carrot Top
-
-**Released:** 2025-09-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5544936992.mp3?updated=1757523448)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Killing a Dead Body
+
+**Released:** 2025-09-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb3839a6-3292-4f8b-9759-b35500e43924/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### What was the Four Pests Campaign? 
 
@@ -141,34 +141,6 @@ Last updated: 2025-09-17 00:54:36
 **Released:** 2025-09-11 12:31:22
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9024f9d3-86f1-4098-a643-b35500cb01ea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: North Sentinel Island
-
-**Released:** 2025-09-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/87f60a8e-01f9-4c63-8107-b34e01291057/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Replaceable You
-
-**Released:** 2025-09-16 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
-
-**Released:** 2025-09-16 18:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -254,6 +226,14 @@ Last updated: 2025-09-17 00:54:36
 
 ## Armchair Expert
 
+### Bobbi Brown (make-up artist and entrepreneur)
+
+**Released:** 2025-09-17 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1accdf19-e923-4ba9-84e2-a1d30582e55f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Mom's Car: Erick Richardson
 
 **Released:** 2025-09-16 07:35:00
@@ -278,11 +258,13 @@ Last updated: 2025-09-17 00:54:36
 
 ---
 
-### Seth Harp (on drug trafficking in the military)
+## The Tim Ferriss Show
 
-**Released:** 2025-09-10 07:35:00
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/342844b7-ed11-431c-8d0d-454c67402851.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
