@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-16 12:23:24
-
-## Freakonomics Radio
-
-### 646. An Air Traffic Controller Walks Into a Radio Studio ...
-
-**Released:** 2025-09-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
-
----
+Last updated: 2025-09-17 00:54:36
 
 ## TED Talks Daily
+
+### The grassroots movement transforming public safety | Aqeela Sherrills
+
+**Released:** 2025-09-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c832c99445f7a951cdd386/media.mp3)
+
+---
 
 ### Will climate change make your home uninsurable? | Amy Barnes
 
@@ -46,11 +44,13 @@ Last updated: 2025-09-16 12:23:24
 
 ---
 
-### Floating farms, sponge cities and the climate solutions already working | Harjeet Singh
+## Freakonomics Radio
 
-**Released:** 2025-09-11 16:12:13
+### 646. An Air Traffic Controller Walks Into a Radio Studio ...
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c2f4de2587357ccd46cfb4/media.mp3)
+**Released:** 2025-09-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
 
 ---
 
@@ -94,6 +94,14 @@ Last updated: 2025-09-16 12:23:24
 
 ## The Joe Rogan Experience
 
+### #2379 - Matthew McConaughey
+
+**Released:** 2025-09-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
+
+---
+
 ### #2378 - Charlie Sheen
 
 **Released:** 2025-09-11 17:00:00
@@ -107,14 +115,6 @@ Last updated: 2025-09-16 12:23:24
 **Released:** 2025-09-10 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5544936992.mp3?updated=1757523448)
-
----
-
-### #2376 - Brigham Buhler
-
-**Released:** 2025-09-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3406958618.mp3?updated=1757438165)
 
 ---
 
@@ -154,11 +154,39 @@ Last updated: 2025-09-16 12:23:24
 
 ## 99% Invisible
 
-### Revisiting The 99% Invisible City
+### Replaceable You
 
-**Released:** 2025-09-09 17:30:00
+**Released:** 2025-09-16 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/df1f3904-ba9e-475a-8ae3-a97fcf7a9f05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=df1f3904-ba9e-475a-8ae3-a97fcf7a9f05&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Nirav Tolia: Nextdoor. How neighborhood chatter went global
+
+**Released:** 2025-09-15 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Dave Weiner of Priority Bicycles
+
+**Released:** 2025-09-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d04cdae7-1b9f-41d4-a0c3-07c3d0ebf1b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -180,21 +208,47 @@ Last updated: 2025-09-16 12:23:24
 
 ---
 
-## How I Built This
+## Conan O'Brien Needs A Friend
 
-### Nirav Tolia: Nextdoor. How neighborhood chatter went global
+### Spinal Tap Live From The SiriusXM Garage
 
-**Released:** 2025-09-15 07:10:00
+**Released:** 2025-09-15 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
 
 ---
 
-### Advice Line with Dave Weiner of Priority Bicycles
+### Born to Be Badminton
 
-**Released:** 2025-09-11 07:10:00
+**Released:** 2025-09-11 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d04cdae7-1b9f-41d4-a0c3-07c3d0ebf1b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d0d8e772-34fb-40ff-96ea-94d09d143cc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d0d8e772-34fb-40ff-96ea-94d09d143cc9&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+### "Kate McKinnon"
+
+**Released:** 2025-09-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Kerry Washington"
+
+**Released:** 2025-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
 
 ---
 
@@ -229,60 +283,6 @@ Last updated: 2025-09-16 12:23:24
 **Released:** 2025-09-10 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/342844b7-ed11-431c-8d0d-454c67402851.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-### "Kate McKinnon"
-
-**Released:** 2025-09-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Kerry Washington"
-
-**Released:** 2025-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Spinal Tap Live From The SiriusXM Garage
-
-**Released:** 2025-09-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
-
----
-
-### Born to Be Badminton
-
-**Released:** 2025-09-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d0d8e772-34fb-40ff-96ea-94d09d143cc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d0d8e772-34fb-40ff-96ea-94d09d143cc9&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #826: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More
-
-**Released:** 2025-09-09 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1ed46ca6-668f-47ad-9fbf-9479341b0bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
