@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-17 12:23:26
+Last updated: 2025-09-18 00:54:12
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-09-17 12:23:26
 ---
 
 ## TED Talks Daily
+
+### How video games can power up your parenting | Hannah Boquet
+
+**Released:** 2025-09-17 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9e3f6dc62f0e1d6b08f0e/media.mp3)
+
+---
 
 ### The grassroots movement transforming public safety | Aqeela Sherrills
 
@@ -54,14 +62,6 @@ Last updated: 2025-09-17 12:23:26
 
 ---
 
-### The life-saving secrets in your baby's DNA | Robert C. Green
-
-**Released:** 2025-09-12 16:09:24
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c445b46078db9201c8dedc/media.mp3)
-
----
-
 ## This American Life
 
 ### 867: College Disorientation
@@ -72,21 +72,29 @@ Last updated: 2025-09-17 12:23:26
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### When CEO pay exploded (update)
+### #2380 - Jordan Jensen
 
-**Released:** 2025-09-17 07:00:00
+**Released:** 2025-09-17 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2118104746.mp3?updated=1758116038)
 
 ---
 
-### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+### #2379 - Matthew McConaughey
 
-**Released:** 2025-09-12 21:41:53
+**Released:** 2025-09-16 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
+
+---
+
+### #2378 - Charlie Sheen
+
+**Released:** 2025-09-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214)
 
 ---
 
@@ -144,6 +152,24 @@ Last updated: 2025-09-17 12:23:26
 
 ---
 
+## Planet Money
+
+### When CEO pay exploded (update)
+
+**Released:** 2025-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
+### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+
+**Released:** 2025-09-12 21:41:53
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+
+---
+
 ## How I Built This
 
 ### Nirav Tolia: Nextdoor. How neighborhood chatter went global
@@ -198,32 +224,6 @@ Last updated: 2025-09-17 12:23:26
 
 ---
 
-## SmartLess 
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-### "Kate McKinnon"
-
-**Released:** 2025-09-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Kerry Washington"
-
-**Released:** 2025-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Bobbi Brown (make-up artist and entrepreneur)
@@ -265,6 +265,32 @@ Last updated: 2025-09-17 12:23:26
 **Released:** 2025-09-16 18:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+### "Kate McKinnon"
+
+**Released:** 2025-09-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Kerry Washington"
+
+**Released:** 2025-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
 
 ---
 

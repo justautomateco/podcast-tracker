@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "68c9e3f6dc62f0e1d6b08f0e",
+    "episode_title": "How video games can power up your parenting | Hannah Boquet",
+    "release_date": "2025-09-17 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9e3f6dc62f0e1d6b08f0e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "68c832c99445f7a951cdd386",
     "episode_title": "The grassroots movement transforming public safety | Aqeela Sherrills",
     "release_date": "2025-09-16 15:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68c445b46078db9201c8dedc",
-    "episode_title": "The life-saving secrets in your baby's DNA | Robert C. Green",
-    "release_date": "2025-09-12 16:09:24",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c445b46078db9201c8dedc/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "45952 at https://www.thisamericanlife.org",
     "episode_title": "867: College Disorientation",
     "release_date": "2025-09-14 18:00:00",
@@ -56,18 +56,25 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "41b12af7-be58-4018-8d63-1f8be2953f9a",
-    "episode_title": "When CEO pay exploded (update)",
-    "release_date": "2025-09-17 07:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
-    "podcast_name": "Planet Money"
+    "guid": "95594fc6-9366-11f0-96ea-5fa074127a4c",
+    "episode_title": "#2380 - Jordan Jensen",
+    "release_date": "2025-09-17 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2118104746.mp3?updated=1758116038",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "e1da4dcb-e46c-45da-9de5-6175157ce7dd",
-    "episode_title": "The U.S. now owns a big chunk of Intel. That\u2019s a huge deal.",
-    "release_date": "2025-09-12 21:41:53",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443",
-    "podcast_name": "Planet Money"
+    "guid": "a91984d6-92b2-11f0-9d79-4355726e6c0b",
+    "episode_title": "#2379 - Matthew McConaughey",
+    "release_date": "2025-09-16 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "85e3f5fc-8ecd-11f0-80e5-13989013b5d8",
+    "episode_title": "#2378 - Charlie Sheen",
+    "release_date": "2025-09-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "885f4128-7227-4c40-b546-c44d801d675c",
@@ -112,6 +119,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "41b12af7-be58-4018-8d63-1f8be2953f9a",
+    "episode_title": "When CEO pay exploded (update)",
+    "release_date": "2025-09-17 07:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e1da4dcb-e46c-45da-9de5-6175157ce7dd",
+    "episode_title": "The U.S. now owns a big chunk of Intel. That\u2019s a huge deal.",
+    "release_date": "2025-09-12 21:41:53",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/bhLNgCGfugtqlbSLNQ0MiUsHL4nHRmH1zoGY9g6EOgI",
     "episode_title": "Nirav Tolia: Nextdoor. How neighborhood chatter went global",
     "release_date": "2025-09-15 07:10:00",
@@ -154,27 +175,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "e0b63c6f-47f1-461b-8b3e-6a1cb7bb23e0",
-    "episode_title": "INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne",
-    "release_date": "2025-09-16 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "2f34b7fc-e111-4639-ade9-2010abb57ed4",
-    "episode_title": "\"Kate McKinnon\"",
-    "release_date": "2025-09-15 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "668c0745-ff24-4083-83ab-56df88e91bf7",
-    "episode_title": "\"RE-RELEASE: Kerry Washington\"",
-    "release_date": "2025-09-11 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/t2yMZctDRV6mHzG9U0pphHCFUxt82lNfB8-z5awC-Tw",
     "episode_title": "Bobbi Brown (make-up artist and entrepreneur)",
     "release_date": "2025-09-17 07:35:00",
@@ -208,5 +208,26 @@
     "release_date": "2025-09-16 18:30:00",
     "mp3_url": "https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "e0b63c6f-47f1-461b-8b3e-6a1cb7bb23e0",
+    "episode_title": "INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne",
+    "release_date": "2025-09-16 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "2f34b7fc-e111-4639-ade9-2010abb57ed4",
+    "episode_title": "\"Kate McKinnon\"",
+    "release_date": "2025-09-15 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "668c0745-ff24-4083-83ab-56df88e91bf7",
+    "episode_title": "\"RE-RELEASE: Kerry Washington\"",
+    "release_date": "2025-09-11 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
