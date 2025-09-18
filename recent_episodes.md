@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-18 00:54:12
+Last updated: 2025-09-18 12:22:47
 
 ## Freakonomics Radio
 
@@ -17,6 +17,34 @@ Last updated: 2025-09-18 00:54:12
 **Released:** 2025-09-12 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### When CEO pay exploded (update)
+
+**Released:** 2025-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
+### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+
+**Released:** 2025-09-12 21:41:53
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+
+---
+
+## This American Life
+
+### 867: College Disorientation
+
+**Released:** 2025-09-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
 
 ---
 
@@ -62,13 +90,13 @@ Last updated: 2025-09-18 00:54:12
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 867: College Disorientation
+### It's Not My Fault!
 
-**Released:** 2025-09-14 18:00:00
+**Released:** 2025-09-15 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
 
 ---
 
@@ -98,27 +126,15 @@ Last updated: 2025-09-18 00:54:12
 
 ---
 
-## Hidden Brain
-
-### It's Not My Fault!
-
-**Released:** 2025-09-15 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Replaceable You
-
-**Released:** 2025-09-16 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### The Tuskegee Syphilis Experiment
+
+**Released:** 2025-09-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc23a6bc-7471-45b1-9dac-b359014f09d6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Killing a Dead Body
 
@@ -152,75 +168,41 @@ Last updated: 2025-09-18 00:54:12
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### When CEO pay exploded (update)
+### Replaceable You
 
-**Released:** 2025-09-17 07:00:00
+**Released:** 2025-09-16 17:30:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
 
 ---
 
-### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+## The Tim Ferriss Show
 
-**Released:** 2025-09-12 21:41:53
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## How I Built This
+
+### Advice Line with Bobbi Brown of Jones Road Beauty
+
+**Released:** 2025-09-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8edea05-418e-47ee-995a-8a05b961cf51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Nirav Tolia: Nextdoor. How neighborhood chatter went global
 
 **Released:** 2025-09-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Dave Weiner of Priority Bicycles
-
-**Released:** 2025-09-11 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d04cdae7-1b9f-41d4-a0c3-07c3d0ebf1b1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
-
----
-
-### The Moth Podcast: Performing in LA and Antarctica
-
-**Released:** 2025-09-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Spinal Tap Live From The SiriusXM Garage
-
-**Released:** 2025-09-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
-
----
-
-### Born to Be Badminton
-
-**Released:** 2025-09-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d0d8e772-34fb-40ff-96ea-94d09d143cc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d0d8e772-34fb-40ff-96ea-94d09d143cc9&feed=dHoohVNH)
 
 ---
 
@@ -258,16 +240,6 @@ Last updated: 2025-09-18 00:54:12
 
 ---
 
-## The Tim Ferriss Show
-
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
-
-**Released:** 2025-09-16 18:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
@@ -286,11 +258,39 @@ Last updated: 2025-09-18 00:54:12
 
 ---
 
-### "RE-RELEASE: Kerry Washington"
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-09-11 07:00:00
+### Snack Attack III: Rise of the Meat Flute
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0391b08-0966-4e57-bffd-4c1a9ed7cc5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0391b08-0966-4e57-bffd-4c1a9ed7cc5f&feed=hNaFxXpO)
+**Released:** 2025-09-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
+
+---
+
+### Spinal Tap Live From The SiriusXM Garage
+
+**Released:** 2025-09-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Live from the United Palace
+
+**Released:** 2025-09-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
+
+---
+
+### The Moth Podcast: Performing in LA and Antarctica
+
+**Released:** 2025-09-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
 
 ---
 
