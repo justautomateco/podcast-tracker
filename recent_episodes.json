@@ -1,5 +1,12 @@
 [
   {
+    "guid": "600a41de-6644-4972-b256-19cbf9af8dd6",
+    "episode_title": "647. China Is Run by Engineers. America Is Run by Lawyers.",
+    "release_date": "2025-09-19 11:50:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "fa60409b-64a9-4cc0-8f6f-d1dd5387b784",
     "episode_title": "Is the World Ready for a Guaranteed Basic Income? (Update)",
     "release_date": "2025-09-17 12:00:00",
@@ -7,11 +14,25 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "ad2fea5e-9dbc-4b63-85d7-0455d3b39bd1",
-    "episode_title": "646. An Air Traffic Controller Walks Into a Radio Studio ...",
-    "release_date": "2025-09-12 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0a548363-ba01-4e24-acf0-c9295e43b832/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0a548363-ba01-4e24-acf0-c9295e43b832&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "41b12af7-be58-4018-8d63-1f8be2953f9a",
+    "episode_title": "When CEO pay exploded (update)",
+    "release_date": "2025-09-17 07:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e1da4dcb-e46c-45da-9de5-6175157ce7dd",
+    "episode_title": "The U.S. now owns a big chunk of Intel. That\u2019s a huge deal.",
+    "release_date": "2025-09-12 21:41:53",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "45952 at https://www.thisamericanlife.org",
+    "episode_title": "867: College Disorientation",
+    "release_date": "2025-09-14 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "68cc202759fdf3f531d660c7",
@@ -49,41 +70,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "45952 at https://www.thisamericanlife.org",
-    "episode_title": "867: College Disorientation",
-    "release_date": "2025-09-14 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "41b12af7-be58-4018-8d63-1f8be2953f9a",
-    "episode_title": "When CEO pay exploded (update)",
-    "release_date": "2025-09-17 07:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e1da4dcb-e46c-45da-9de5-6175157ce7dd",
-    "episode_title": "The U.S. now owns a big chunk of Intel. That\u2019s a huge deal.",
-    "release_date": "2025-09-12 21:41:53",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "c6863d7e-6b89-4ff0-ae86-b510f61f7189",
-    "episode_title": "Replaceable You",
-    "release_date": "2025-09-16 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "885f4128-7227-4c40-b546-c44d801d675c",
-    "episode_title": "It's Not My Fault!",
-    "release_date": "2025-09-15 19:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "38ad0a84-9432-11f0-b87e-3b019e83e57e",
     "episode_title": "#2381 - Taylor Kitsch",
     "release_date": "2025-09-18 17:00:00",
@@ -103,6 +89,13 @@
     "release_date": "2025-09-16 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "885f4128-7227-4c40-b546-c44d801d675c",
+    "episode_title": "It's Not My Fault!",
+    "release_date": "2025-09-15 19:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "cc23a6bc-7471-45b1-9dac-b359014f09d6",
@@ -133,32 +126,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "b7ef236e-76d2-11ef-92d1-b7c49d131827",
-    "episode_title": "The Moth Radio Hour: Live from the United Palace",
-    "release_date": "2025-09-16 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692",
-    "podcast_name": "The Moth"
+    "guid": "c6863d7e-6b89-4ff0-ae86-b510f61f7189",
+    "episode_title": "Replaceable You",
+    "release_date": "2025-09-16 17:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
-    "guid": "39b2d56a-77c4-11f0-9555-ff0136671390",
-    "episode_title": "The Moth Podcast: Performing in LA and Antarctica",
-    "release_date": "2025-09-12 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "4a1325fc-8e93-4986-ac3c-c4831c8d8cda",
-    "episode_title": "Snack Attack III: Rise of the Meat Flute",
-    "release_date": "2025-09-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0057f707-9da0-4aeb-906d-f029946b4d63",
-    "episode_title": "Spinal Tap Live From The SiriusXM Garage",
-    "release_date": "2025-09-15 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/2qNmOy7-uZTmdTxONgGJ66HmaZtuE0wf9IKri_g3v5g",
+    "episode_title": "#827: Pablos Holman \u2014 One of The Scariest Hackers I\u2019ve Ever Met ",
+    "release_date": "2025-09-16 18:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "gid://art19-episode-locator/V0/nQOuI1FfE9RL_uf19lAaTgtSxfCccXN8AHfPGDWjPkw",
@@ -175,6 +154,20 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "4a1325fc-8e93-4986-ac3c-c4831c8d8cda",
+    "episode_title": "Snack Attack III: Rise of the Meat Flute",
+    "release_date": "2025-09-18 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "0057f707-9da0-4aeb-906d-f029946b4d63",
+    "episode_title": "Spinal Tap Live From The SiriusXM Garage",
+    "release_date": "2025-09-15 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "e0b63c6f-47f1-461b-8b3e-6a1cb7bb23e0",
     "episode_title": "INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne",
     "release_date": "2025-09-16 07:00:00",
@@ -189,11 +182,11 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/2qNmOy7-uZTmdTxONgGJ66HmaZtuE0wf9IKri_g3v5g",
-    "episode_title": "#827: Pablos Holman \u2014 One of The Scariest Hackers I\u2019ve Ever Met ",
-    "release_date": "2025-09-16 18:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/hBdj90TJPbHoLJhGg1QmfhW9qTlEV4fuilEmX5eu42Y",
+    "episode_title": "Armchair Anonymous: Arrested",
+    "release_date": "2025-09-19 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/t2yMZctDRV6mHzG9U0pphHCFUxt82lNfB8-z5awC-Tw",
@@ -217,10 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/FWyARizq61wVxahfPtstmRAyqn-nNeYsnwIgmRRu9eY",
-    "episode_title": "Armchair Anonymous: Unauthorized Evacuation II",
-    "release_date": "2025-09-12 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/28327fee-5472-441d-bec4-8cd8675dc007.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "ed6e32f0-76d2-11ef-a8c5-bf6ca12f6574",
+    "episode_title": "The Moth Podcast: Answers Before Questions",
+    "release_date": "2025-09-19 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b7ef236e-76d2-11ef-92d1-b7c49d131827",
+    "episode_title": "The Moth Radio Hour: Live from the United Palace",
+    "release_date": "2025-09-16 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692",
+    "podcast_name": "The Moth"
   }
 ]
