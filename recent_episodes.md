@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-18 12:22:47
+Last updated: 2025-09-19 00:56:08
 
 ## Freakonomics Radio
 
@@ -20,35 +20,15 @@ Last updated: 2025-09-18 12:22:47
 
 ---
 
-## Planet Money
-
-### When CEO pay exploded (update)
-
-**Released:** 2025-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
-
----
-
-### The U.S. now owns a big chunk of Intel. That’s a huge deal.
-
-**Released:** 2025-09-12 21:41:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
-
----
-
-## This American Life
-
-### 867: College Disorientation
-
-**Released:** 2025-09-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
-
----
-
 ## TED Talks Daily
+
+### The link between evolution and language | Richard Dawkins
+
+**Released:** 2025-09-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68cc202759fdf3f531d660c7/media.mp3)
+
+---
 
 ### How video games can power up your parenting | Hannah Boquet
 
@@ -82,11 +62,41 @@ Last updated: 2025-09-18 12:22:47
 
 ---
 
-### TED Intersections: How will new tech shape your life? A roboticist and a political strategist answer |  Bradley Tusk and Ali Kashani
+## This American Life
 
-**Released:** 2025-09-13 04:00:00
+### 867: College Disorientation
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c4473244d0096b879ad08f/media.mp3)
+**Released:** 2025-09-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
+
+---
+
+## Planet Money
+
+### When CEO pay exploded (update)
+
+**Released:** 2025-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
+### The U.S. now owns a big chunk of Intel. That’s a huge deal.
+
+**Released:** 2025-09-12 21:41:53
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
+
+---
+
+## 99% Invisible
+
+### Replaceable You
+
+**Released:** 2025-09-16 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
 
 ---
 
@@ -102,6 +112,14 @@ Last updated: 2025-09-18 12:22:47
 
 ## The Joe Rogan Experience
 
+### #2381 - Taylor Kitsch
+
+**Released:** 2025-09-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5798201763.mp3?updated=1758209601)
+
+---
+
 ### #2380 - Jordan Jensen
 
 **Released:** 2025-09-17 17:00:00
@@ -115,14 +133,6 @@ Last updated: 2025-09-18 12:22:47
 **Released:** 2025-09-16 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
-
----
-
-### #2378 - Charlie Sheen
-
-**Released:** 2025-09-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8686694568.mp3?updated=1757610214)
 
 ---
 
@@ -160,31 +170,39 @@ Last updated: 2025-09-18 12:22:47
 
 ---
 
-### You’re So Good At Conversation! 
+## The Moth
 
-**Released:** 2025-09-11 12:31:22
+### The Moth Radio Hour: Live from the United Palace
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9024f9d3-86f1-4098-a643-b35500cb01ea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-16 04:25:00
 
----
-
-## 99% Invisible
-
-### Replaceable You
-
-**Released:** 2025-09-16 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
 
 ---
 
-## The Tim Ferriss Show
+### The Moth Podcast: Performing in LA and Antarctica
 
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+**Released:** 2025-09-12 04:25:00
 
-**Released:** 2025-09-16 18:30:00
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+## Conan O'Brien Needs A Friend
+
+### Snack Attack III: Rise of the Meat Flute
+
+**Released:** 2025-09-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
+
+---
+
+### Spinal Tap Live From The SiriusXM Garage
+
+**Released:** 2025-09-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
 
 ---
 
@@ -203,6 +221,34 @@ Last updated: 2025-09-18 12:22:47
 **Released:** 2025-09-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+### "Kate McKinnon"
+
+**Released:** 2025-09-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -237,60 +283,6 @@ Last updated: 2025-09-18 12:22:47
 **Released:** 2025-09-12 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/28327fee-5472-441d-bec4-8cd8675dc007.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-### "Kate McKinnon"
-
-**Released:** 2025-09-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Snack Attack III: Rise of the Meat Flute
-
-**Released:** 2025-09-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
-
----
-
-### Spinal Tap Live From The SiriusXM Garage
-
-**Released:** 2025-09-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
-
----
-
-### The Moth Podcast: Performing in LA and Antarctica
-
-**Released:** 2025-09-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8941231624.mp3?updated=1755097512)
 
 ---
 
