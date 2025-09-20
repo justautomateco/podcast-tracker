@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-20 00:53:27
+Last updated: 2025-09-20 12:21:15
+
+## Freakonomics Radio
+
+### 647. China Is Run by Engineers. America Is Run by Lawyers.
+
+**Released:** 2025-09-19 11:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
+
+---
+
+### Is the World Ready for a Guaranteed Basic Income? (Update)
+
+**Released:** 2025-09-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,24 +62,6 @@ Last updated: 2025-09-20 00:53:27
 
 ---
 
-## Freakonomics Radio
-
-### 647. China Is Run by Engineers. America Is Run by Lawyers.
-
-**Released:** 2025-09-19 11:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
-
----
-
-### Is the World Ready for a Guaranteed Basic Income? (Update)
-
-**Released:** 2025-09-17 12:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 867: College Disorientation
@@ -69,6 +69,44 @@ Last updated: 2025-09-20 00:53:27
 **Released:** 2025-09-14 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
+
+---
+
+## Planet Money
+
+### In Gaza, money is falling apart
+
+**Released:** 2025-09-20 04:00:01
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
+
+---
+
+### When CEO pay exploded (update)
+
+**Released:** 2025-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
+## Hidden Brain
+
+### It's Not My Fault!
+
+**Released:** 2025-09-15 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Replaceable You
+
+**Released:** 2025-09-16 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
 
 ---
 
@@ -98,17 +136,15 @@ Last updated: 2025-09-20 00:53:27
 
 ---
 
-## Planet Money
+## Stuff You Should Know
 
-### When CEO pay exploded (update)
+### Selects: Slime Mold: 0% Mold, 100% Amazing
 
-**Released:** 2025-09-17 07:00:00
+**Released:** 2025-09-20 09:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9f267da-2943-4928-b47f-b3530148d244/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### The Tuskegee Syphilis Experiment
 
@@ -134,31 +170,21 @@ Last updated: 2025-09-20 00:53:27
 
 ---
 
-### Selects: What's the deal with subpoenas?
+## The Moth
 
-**Released:** 2025-09-13 09:00:00
+### The Moth Podcast: Answers Before Questions
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78a8d603-74d4-4695-8d04-b34e0133db75/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-19 04:25:00
 
----
-
-## Hidden Brain
-
-### It's Not My Fault!
-
-**Released:** 2025-09-15 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
 
 ---
 
-## 99% Invisible
+### The Moth Radio Hour: Live from the United Palace
 
-### Replaceable You
+**Released:** 2025-09-16 04:25:00
 
-**Released:** 2025-09-16 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
 
 ---
 
@@ -177,70 +203,6 @@ Last updated: 2025-09-20 00:53:27
 **Released:** 2025-09-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
-
-**Released:** 2025-09-16 18:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Snack Attack III: Rise of the Meat Flute
-
-**Released:** 2025-09-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
-
----
-
-### Spinal Tap Live From The SiriusXM Garage
-
-**Released:** 2025-09-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-### "Kate McKinnon"
-
-**Released:** 2025-09-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### The Moth Podcast: Answers Before Questions
-
-**Released:** 2025-09-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
-
----
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
 
 ---
 
@@ -275,6 +237,52 @@ Last updated: 2025-09-20 00:53:27
 **Released:** 2025-09-15 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd3a61ac-f7d3-4a13-b6b3-026130432add.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+### "Kate McKinnon"
+
+**Released:** 2025-09-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Snack Attack III: Rise of the Meat Flute
+
+**Released:** 2025-09-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
+
+---
+
+### Spinal Tap Live From The SiriusXM Garage
+
+**Released:** 2025-09-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
 
 ---
 
