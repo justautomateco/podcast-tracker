@@ -1,54 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-19 12:23:46
-
-## Freakonomics Radio
-
-### 647. China Is Run by Engineers. America Is Run by Lawyers.
-
-**Released:** 2025-09-19 11:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
-
----
-
-### Is the World Ready for a Guaranteed Basic Income? (Update)
-
-**Released:** 2025-09-17 12:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### When CEO pay exploded (update)
-
-**Released:** 2025-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
-
----
-
-### The U.S. now owns a big chunk of Intel. That’s a huge deal.
-
-**Released:** 2025-09-12 21:41:53
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9014127847.mp3?t=podcast&e=nx-s1-5540076&p=510289&d=1526&size=24421443)
-
----
-
-## This American Life
-
-### 867: College Disorientation
-
-**Released:** 2025-09-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
-
----
+Last updated: 2025-09-20 00:53:27
 
 ## TED Talks Daily
+
+### Yancey Strickler and Jenny Du: How do you rethink how the world works? An entrepreneur and an engineer answer | TED Intersections
+
+**Released:** 2025-09-19 17:29:15
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68cd922b2cf15c8db0213282/media.mp3)
+
+---
 
 ### The link between evolution and language | Richard Dawkins
 
@@ -82,11 +44,31 @@ Last updated: 2025-09-19 12:23:46
 
 ---
 
-### Sunday Pick: How to have curious conversations in dangerously divided times (w/ Mónica Guzmán) | How to Be a Better Human 
+## Freakonomics Radio
 
-**Released:** 2025-09-14 04:00:00
+### 647. China Is Run by Engineers. America Is Run by Lawyers.
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c44a3e86eb67a6f61cbd40/media.mp3)
+**Released:** 2025-09-19 11:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
+
+---
+
+### Is the World Ready for a Guaranteed Basic Income? (Update)
+
+**Released:** 2025-09-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 867: College Disorientation
+
+**Released:** 2025-09-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
 
 ---
 
@@ -116,13 +98,13 @@ Last updated: 2025-09-19 12:23:46
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### It's Not My Fault!
+### When CEO pay exploded (update)
 
-**Released:** 2025-09-15 19:00:00
+**Released:** 2025-09-17 07:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
 
 ---
 
@@ -160,6 +142,16 @@ Last updated: 2025-09-19 12:23:46
 
 ---
 
+## Hidden Brain
+
+### It's Not My Fault!
+
+**Released:** 2025-09-15 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Replaceable You
@@ -167,16 +159,6 @@ Last updated: 2025-09-19 12:23:46
 **Released:** 2025-09-16 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
-
-**Released:** 2025-09-16 18:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,6 +177,16 @@ Last updated: 2025-09-19 12:23:46
 **Released:** 2025-09-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +226,24 @@ Last updated: 2025-09-19 12:23:46
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Answers Before Questions
+
+**Released:** 2025-09-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
+
+---
+
+### The Moth Radio Hour: Live from the United Palace
+
+**Released:** 2025-09-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Arrested
@@ -265,24 +275,6 @@ Last updated: 2025-09-19 12:23:46
 **Released:** 2025-09-15 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd3a61ac-f7d3-4a13-b6b3-026130432add.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Podcast: Answers Before Questions
-
-**Released:** 2025-09-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
-
----
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
 
 ---
 
