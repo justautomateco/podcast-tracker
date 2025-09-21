@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-21 01:00:41
+Last updated: 2025-09-21 12:21:12
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-09-21 01:00:41
 **Released:** 2025-09-17 12:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 867: College Disorientation
+
+**Released:** 2025-09-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2025-09-21 01:00:41
 
 ---
 
-## This American Life
-
-### 867: College Disorientation
-
-**Released:** 2025-09-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3)
-
----
-
 ## Planet Money
 
 ### In Gaza, money is falling apart
@@ -87,6 +87,32 @@ Last updated: 2025-09-21 01:00:41
 **Released:** 2025-09-17 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
+
+---
+
+## The Joe Rogan Experience
+
+### #2381 - Taylor Kitsch
+
+**Released:** 2025-09-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5798201763.mp3?updated=1758209601)
+
+---
+
+### #2380 - Jordan Jensen
+
+**Released:** 2025-09-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2118104746.mp3?updated=1758116038)
+
+---
+
+### #2379 - Matthew McConaughey
+
+**Released:** 2025-09-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
 
 ---
 
@@ -144,50 +170,6 @@ Last updated: 2025-09-21 01:00:41
 
 ---
 
-## The Joe Rogan Experience
-
-### #2381 - Taylor Kitsch
-
-**Released:** 2025-09-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5798201763.mp3?updated=1758209601)
-
----
-
-### #2380 - Jordan Jensen
-
-**Released:** 2025-09-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2118104746.mp3?updated=1758116038)
-
----
-
-### #2379 - Matthew McConaughey
-
-**Released:** 2025-09-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
-
----
-
-## The Moth
-
-### The Moth Podcast: Answers Before Questions
-
-**Released:** 2025-09-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
-
----
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
-
----
-
 ## How I Built This
 
 ### Advice Line with Bobbi Brown of Jones Road Beauty
@@ -221,6 +203,42 @@ Last updated: 2025-09-21 01:00:41
 **Released:** 2025-09-15 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Answers Before Questions
+
+**Released:** 2025-09-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
+
+---
+
+### The Moth Radio Hour: Live from the United Palace
+
+**Released:** 2025-09-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+### "Kate McKinnon"
+
+**Released:** 2025-09-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
 
 ---
 
@@ -265,24 +283,6 @@ Last updated: 2025-09-21 01:00:41
 **Released:** 2025-09-16 18:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-### "Kate McKinnon"
-
-**Released:** 2025-09-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
 
 ---
 
