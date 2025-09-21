@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-20 12:21:15
+Last updated: 2025-09-21 01:00:41
 
 ## Freakonomics Radio
 
@@ -22,43 +22,43 @@ Last updated: 2025-09-20 12:21:15
 
 ## TED Talks Daily
 
-### Yancey Strickler and Jenny Du: How do you rethink how the world works? An entrepreneur and an engineer answer | TED Intersections
+### (#1) Elise’s Top Ten: The psychology of your future self | Dan Gilbert
 
-**Released:** 2025-09-19 17:29:15
+**Released:** 2025-09-20 15:09:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68cd922b2cf15c8db0213282/media.mp3)
-
----
-
-### The link between evolution and language | Richard Dawkins
-
-**Released:** 2025-09-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68cc202759fdf3f531d660c7/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea036e7ae452746dc77/media.mp3)
 
 ---
 
-### How video games can power up your parenting | Hannah Boquet
+### (#2) Elise’s Top Ten: You don't actually know what your future self wants | Shankar Vedantam
 
-**Released:** 2025-09-17 15:00:00
+**Released:** 2025-09-20 15:08:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9e3f6dc62f0e1d6b08f0e/media.mp3)
-
----
-
-### The grassroots movement transforming public safety | Aqeela Sherrills
-
-**Released:** 2025-09-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c832c99445f7a951cdd386/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea82c8045b9a2864b07/media.mp3)
 
 ---
 
-### Will climate change make your home uninsurable? | Amy Barnes
+### (#3) Elise’s Top Ten: If I should have a daughter ... | Sarah Kay
 
-**Released:** 2025-09-15 17:47:55
+**Released:** 2025-09-20 15:07:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c8514b1f3cc9645385df4f/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9ceb136e7ae452746e27e/media.mp3)
+
+---
+
+### (#4) Elise’s Top Ten: The power of vulnerability | Brené Brown
+
+**Released:** 2025-09-20 15:06:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9ceb736e7ae452746e46e/media.mp3)
+
+---
+
+### (#5) Elise’s Top Ten: The new political story that could change everything | George Monbiot
+
+**Released:** 2025-09-20 15:05:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cebdd40e25a9258938ef/media.mp3)
 
 ---
 
@@ -100,6 +100,40 @@ Last updated: 2025-09-20 12:21:15
 
 ---
 
+## Stuff You Should Know
+
+### Selects: Slime Mold: 0% Mold, 100% Amazing
+
+**Released:** 2025-09-20 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9f267da-2943-4928-b47f-b3530148d244/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Tuskegee Syphilis Experiment
+
+**Released:** 2025-09-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc23a6bc-7471-45b1-9dac-b359014f09d6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Killing a Dead Body
+
+**Released:** 2025-09-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb3839a6-3292-4f8b-9759-b35500e43924/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### What was the Four Pests Campaign? 
+
+**Released:** 2025-09-16 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d55298db-166a-4dfe-8719-b35901403f6f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## 99% Invisible
 
 ### Replaceable You
@@ -136,40 +170,6 @@ Last updated: 2025-09-20 12:21:15
 
 ---
 
-## Stuff You Should Know
-
-### Selects: Slime Mold: 0% Mold, 100% Amazing
-
-**Released:** 2025-09-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9f267da-2943-4928-b47f-b3530148d244/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Tuskegee Syphilis Experiment
-
-**Released:** 2025-09-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc23a6bc-7471-45b1-9dac-b359014f09d6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Killing a Dead Body
-
-**Released:** 2025-09-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb3839a6-3292-4f8b-9759-b35500e43924/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### What was the Four Pests Campaign? 
-
-**Released:** 2025-09-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d55298db-166a-4dfe-8719-b35901403f6f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Answers Before Questions
@@ -203,6 +203,24 @@ Last updated: 2025-09-20 12:21:15
 **Released:** 2025-09-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Snack Attack III: Rise of the Meat Flute
+
+**Released:** 2025-09-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
+
+---
+
+### Spinal Tap Live From The SiriusXM Garage
+
+**Released:** 2025-09-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
 
 ---
 
@@ -265,24 +283,6 @@ Last updated: 2025-09-20 12:21:15
 **Released:** 2025-09-15 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Snack Attack III: Rise of the Meat Flute
-
-**Released:** 2025-09-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
-
----
-
-### Spinal Tap Live From The SiriusXM Garage
-
-**Released:** 2025-09-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH)
 
 ---
 
