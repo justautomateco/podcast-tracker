@@ -1,26 +1,5 @@
 [
   {
-    "guid": "600a41de-6644-4972-b256-19cbf9af8dd6",
-    "episode_title": "647. China Is Run by Engineers. America Is Run by Lawyers.",
-    "release_date": "2025-09-19 11:50:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "fa60409b-64a9-4cc0-8f6f-d1dd5387b784",
-    "episode_title": "Is the World Ready for a Guaranteed Basic Income? (Update)",
-    "release_date": "2025-09-17 12:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "45976 at https://www.thisamericanlife.org",
-    "episode_title": "868: The Hand That Rocks The Gavel",
-    "release_date": "2025-09-21 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "68c9cea036e7ae452746dc77",
     "episode_title": "(#1) Elise\u2019s Top Ten: The psychology of your future self | Dan Gilbert",
     "release_date": "2025-09-20 15:09:00",
@@ -56,6 +35,27 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "600a41de-6644-4972-b256-19cbf9af8dd6",
+    "episode_title": "647. China Is Run by Engineers. America Is Run by Lawyers.",
+    "release_date": "2025-09-19 11:50:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "fa60409b-64a9-4cc0-8f6f-d1dd5387b784",
+    "episode_title": "Is the World Ready for a Guaranteed Basic Income? (Update)",
+    "release_date": "2025-09-17 12:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "45976 at https://www.thisamericanlife.org",
+    "episode_title": "868: The Hand That Rocks The Gavel",
+    "release_date": "2025-09-21 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "de1313a3-e55a-4317-9fc3-ea6cda3e9763",
     "episode_title": "In Gaza, money is falling apart",
     "release_date": "2025-09-20 04:00:01",
@@ -68,6 +68,13 @@
     "release_date": "2025-09-17 07:00:00",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "885f4128-7227-4c40-b546-c44d801d675c",
+    "episode_title": "It's Not My Fault!",
+    "release_date": "2025-09-15 19:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "38ad0a84-9432-11f0-b87e-3b019e83e57e",
@@ -89,6 +96,13 @@
     "release_date": "2025-09-16 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "c6863d7e-6b89-4ff0-ae86-b510f61f7189",
+    "episode_title": "Replaceable You",
+    "release_date": "2025-09-16 17:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "c9f267da-2943-4928-b47f-b3530148d244",
@@ -119,32 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "885f4128-7227-4c40-b546-c44d801d675c",
-    "episode_title": "It's Not My Fault!",
-    "release_date": "2025-09-15 19:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "c6863d7e-6b89-4ff0-ae86-b510f61f7189",
-    "episode_title": "Replaceable You",
-    "release_date": "2025-09-16 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/nQOuI1FfE9RL_uf19lAaTgtSxfCccXN8AHfPGDWjPkw",
-    "episode_title": "Advice Line with Bobbi Brown of Jones Road Beauty",
-    "release_date": "2025-09-18 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/f8edea05-418e-47ee-995a-8a05b961cf51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/bhLNgCGfugtqlbSLNQ0MiUsHL4nHRmH1zoGY9g6EOgI",
-    "episode_title": "Nirav Tolia: Nextdoor. How neighborhood chatter went global",
-    "release_date": "2025-09-15 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/fc3e4298-cc8c-4a17-aa45-206818a0426d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "cb69ed05-6383-4f48-ba87-84b0f42c1c23",
+    "episode_title": "Janelle James",
+    "release_date": "2025-09-22 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "4a1325fc-8e93-4986-ac3c-c4831c8d8cda",
@@ -154,11 +147,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "0057f707-9da0-4aeb-906d-f029946b4d63",
-    "episode_title": "Spinal Tap Live From The SiriusXM Garage",
-    "release_date": "2025-09-15 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13c01e14-cf97-41b9-b297-ec27a57d8f90/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13c01e14-cf97-41b9-b297-ec27a57d8f90&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "ea4edb47-890d-458c-8919-b35d01166133",
+    "episode_title": "The Alabama Murders",
+    "release_date": "2025-09-22 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "ed6e32f0-76d2-11ef-a8c5-bf6ca12f6574",
@@ -173,6 +166,27 @@
     "release_date": "2025-09-16 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "7b76c3d4-4f50-4a4f-a038-e0d405462322",
+    "episode_title": "\"Lionel Richie\"",
+    "release_date": "2025-09-22 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "e0b63c6f-47f1-461b-8b3e-6a1cb7bb23e0",
+    "episode_title": "INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne",
+    "release_date": "2025-09-16 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/TB3jLzojlTwAgzCazTTUByjYLAgDWaEm1sItCa6J5AM",
+    "episode_title": "Dominic Fike",
+    "release_date": "2025-09-22 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/hBdj90TJPbHoLJhGg1QmfhW9qTlEV4fuilEmX5eu42Y",
@@ -194,33 +208,5 @@
     "release_date": "2025-09-16 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/704c08af-136d-4566-a5a3-bc67b511a82b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/vLxQIUVllStEq7LfCYlw_7LB5K6N_8BDjinpToDP7qM",
-    "episode_title": "Timothy Olyphant",
-    "release_date": "2025-09-15 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/cd3a61ac-f7d3-4a13-b6b3-026130432add.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "e0b63c6f-47f1-461b-8b3e-6a1cb7bb23e0",
-    "episode_title": "INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne",
-    "release_date": "2025-09-16 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "2f34b7fc-e111-4639-ade9-2010abb57ed4",
-    "episode_title": "\"Kate McKinnon\"",
-    "release_date": "2025-09-15 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f73cee26-9094-4b2a-ad15-6f54ecd17457/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f73cee26-9094-4b2a-ad15-6f54ecd17457&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/2qNmOy7-uZTmdTxONgGJ66HmaZtuE0wf9IKri_g3v5g",
-    "episode_title": "#827: Pablos Holman \u2014 One of The Scariest Hackers I\u2019ve Ever Met ",
-    "release_date": "2025-09-16 18:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
