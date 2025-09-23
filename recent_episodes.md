@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-23 00:54:55
+Last updated: 2025-09-23 12:23:30
 
 ## Freakonomics Radio
 
@@ -126,17 +126,15 @@ Last updated: 2025-09-23 00:54:55
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Replaceable You
+### Tdhtdhtdhtdhtdh: Sound Effects! 
 
-**Released:** 2025-09-16 17:30:00
+**Released:** 2025-09-23 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cc1d46b-cd4e-4c3d-a790-b3600117ea01/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: Slime Mold: 0% Mold, 100% Amazing
 
@@ -162,11 +160,13 @@ Last updated: 2025-09-23 00:54:55
 
 ---
 
-### What was the Four Pests Campaign? 
+## 99% Invisible
 
-**Released:** 2025-09-16 09:00:00
+### Replaceable You
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d55298db-166a-4dfe-8719-b35901403f6f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-09-16 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/293d671a-7cc9-465e-b467-1734e9e844ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=293d671a-7cc9-465e-b467-1734e9e844ca&feed=BqbsxVfO)
 
 ---
 
@@ -198,21 +198,13 @@ Last updated: 2025-09-23 00:54:55
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Podcast: Answers Before Questions
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
 
-**Released:** 2025-09-19 04:25:00
+**Released:** 2025-09-16 18:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
-
----
-
-### The Moth Radio Hour: Live from the United Palace
-
-**Released:** 2025-09-16 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1671210778.mp3?updated=1757543692)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,7 +226,33 @@ Last updated: 2025-09-23 00:54:55
 
 ---
 
+## The Moth
+
+### The Moth Radio Hour: Question Marks
+
+**Released:** 2025-09-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
+
+---
+
+### The Moth Podcast: Answers Before Questions
+
+**Released:** 2025-09-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
+
+---
+
 ## Armchair Expert
+
+### Mom's Car: Monica Padman
+
+**Released:** 2025-09-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Dominic Fike
 
@@ -260,14 +278,6 @@ Last updated: 2025-09-23 00:54:55
 
 ---
 
-### Mom's Car: Erick Richardson
-
-**Released:** 2025-09-16 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704c08af-136d-4566-a5a3-bc67b511a82b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Lionel Richie"
@@ -275,24 +285,6 @@ Last updated: 2025-09-23 00:54:55
 **Released:** 2025-09-22 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
-
----
-
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
-
-**Released:** 2025-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
-
-**Released:** 2025-09-16 18:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
