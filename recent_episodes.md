@@ -1,48 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-22 12:24:06
-
-## TED Talks Daily
-
-### (#1) Elise’s Top Ten: The psychology of your future self | Dan Gilbert
-
-**Released:** 2025-09-20 15:09:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea036e7ae452746dc77/media.mp3)
-
----
-
-### (#2) Elise’s Top Ten: You don't actually know what your future self wants | Shankar Vedantam
-
-**Released:** 2025-09-20 15:08:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea82c8045b9a2864b07/media.mp3)
-
----
-
-### (#3) Elise’s Top Ten: If I should have a daughter ... | Sarah Kay
-
-**Released:** 2025-09-20 15:07:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9ceb136e7ae452746e27e/media.mp3)
-
----
-
-### (#4) Elise’s Top Ten: The power of vulnerability | Brené Brown
-
-**Released:** 2025-09-20 15:06:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9ceb736e7ae452746e46e/media.mp3)
-
----
-
-### (#5) Elise’s Top Ten: The new political story that could change everything | George Monbiot
-
-**Released:** 2025-09-20 15:05:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cebdd40e25a9258938ef/media.mp3)
-
----
+Last updated: 2025-09-23 00:54:55
 
 ## Freakonomics Radio
 
@@ -72,6 +30,48 @@ Last updated: 2025-09-22 12:24:06
 
 ---
 
+## TED Talks Daily
+
+### How we took on an oil giant — and won | Melinda Janki
+
+**Released:** 2025-09-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d162056f2bb8719fb62d8b/media.mp3)
+
+---
+
+### Sunday Pick: Mexico City | Far Flung
+
+**Released:** 2025-09-22 14:43:57
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d160ad02bd59159730b30b/media.mp3)
+
+---
+
+### (#1) Elise’s Top Ten: The psychology of your future self | Dan Gilbert
+
+**Released:** 2025-09-20 15:09:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea036e7ae452746dc77/media.mp3)
+
+---
+
+### (#2) Elise’s Top Ten: You don't actually know what your future self wants | Shankar Vedantam
+
+**Released:** 2025-09-20 15:08:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea82c8045b9a2864b07/media.mp3)
+
+---
+
+### (#3) Elise’s Top Ten: If I should have a daughter ... | Sarah Kay
+
+**Released:** 2025-09-20 15:07:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9ceb136e7ae452746e27e/media.mp3)
+
+---
+
 ## Planet Money
 
 ### In Gaza, money is falling apart
@@ -87,16 +87,6 @@ Last updated: 2025-09-22 12:24:06
 **Released:** 2025-09-17 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
-
----
-
-## Hidden Brain
-
-### It's Not My Fault!
-
-**Released:** 2025-09-15 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e103c9ac-7bf8-49d8-b066-33febee8397f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e103c9ac-7bf8-49d8-b066-33febee8397f&feed=kwWc0lhf)
 
 ---
 
@@ -123,6 +113,16 @@ Last updated: 2025-09-22 12:24:06
 **Released:** 2025-09-16 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6702665228.mp3?updated=1758043497)
+
+---
+
+## Hidden Brain
+
+### Passion vs. Paycheck
+
+**Released:** 2025-09-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
 
 ---
 
@@ -170,21 +170,21 @@ Last updated: 2025-09-22 12:24:06
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### Janelle James
+### Poppi: Allison and Stephen Ellsworth.  From Farmers Market Vinegar Drink to $2B Soda Sensation
 
-**Released:** 2025-09-22 04:05:00
+**Released:** 2025-09-22 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a417e4e7-7858-4e16-a487-dc95c0fc432a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Snack Attack III: Rise of the Meat Flute
+### Advice Line with Bobbi Brown of Jones Road Beauty
 
-**Released:** 2025-09-18 04:05:00
+**Released:** 2025-09-18 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8edea05-418e-47ee-995a-8a05b961cf51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,21 +216,21 @@ Last updated: 2025-09-22 12:24:06
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Lionel Richie"
+### Janelle James
 
-**Released:** 2025-09-22 07:01:00
+**Released:** 2025-09-22 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
 
 ---
 
-### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+### Snack Attack III: Rise of the Meat Flute
 
-**Released:** 2025-09-16 07:00:00
+**Released:** 2025-09-18 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c4134e5a-6cb5-4de5-b9e4-10e09ca75cac/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c4134e5a-6cb5-4de5-b9e4-10e09ca75cac&feed=dHoohVNH)
 
 ---
 
@@ -265,6 +265,34 @@ Last updated: 2025-09-22 12:24:06
 **Released:** 2025-09-16 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704c08af-136d-4566-a5a3-bc67b511a82b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Lionel Richie"
+
+**Released:** 2025-09-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+
+---
+
+### INTRODUCING: We Need A Fourth with Brian Baumgartner, Cooper Manning and Kenny Mayne
+
+**Released:** 2025-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e0ae4bf2-f6ac-4ce1-93f8-705a035ba760/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e0ae4bf2-f6ac-4ce1-93f8-705a035ba760&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #827: Pablos Holman — One of The Scariest Hackers I’ve Ever Met 
+
+**Released:** 2025-09-16 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f1c75-b045-4c57-9bd2-f9bd026b9207.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
