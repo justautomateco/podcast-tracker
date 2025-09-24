@@ -1,22 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-24 00:55:43
+Last updated: 2025-09-24 12:24:25
 
-## Freakonomics Radio
+## This American Life
 
-### 647. China Is Run by Engineers. America Is Run by Lawyers.
+### 868: The Hand That Rocks The Gavel
 
-**Released:** 2025-09-19 11:50:00
+**Released:** 2025-09-21 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
-
----
-
-### Is the World Ready for a Guaranteed Basic Income? (Update)
-
-**Released:** 2025-09-17 12:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c03f1fb-6d4b-4eb0-8d98-e13d582e8f25&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
 
 ---
 
@@ -62,13 +54,23 @@ Last updated: 2025-09-24 00:55:43
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 868: The Hand That Rocks The Gavel
+### 647. China Is Run by Engineers. America Is Run by Lawyers.
 
-**Released:** 2025-09-21 18:00:00
+**Released:** 2025-09-19 11:50:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
+
+---
+
+## Hidden Brain
+
+### Passion vs. Paycheck
+
+**Released:** 2025-09-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
 
 ---
 
@@ -79,14 +81,6 @@ Last updated: 2025-09-24 00:55:43
 **Released:** 2025-09-20 04:00:01
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
-
----
-
-### When CEO pay exploded (update)
-
-**Released:** 2025-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4593219277.mp3?t=podcast&e=nx-s1-5543496&p=510289&d=1369&size=21907000)
 
 ---
 
@@ -116,16 +110,6 @@ Last updated: 2025-09-24 00:55:43
 
 ---
 
-## Hidden Brain
-
-### Passion vs. Paycheck
-
-**Released:** 2025-09-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### The New Jungle
@@ -137,6 +121,14 @@ Last updated: 2025-09-24 00:55:43
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Death Cap Mushroom
+
+**Released:** 2025-09-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ce49a5a1-be9d-448f-84e6-b3590116ff38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Tdhtdhtdhtdhtdh: Sound Effects! 
 
@@ -159,14 +151,6 @@ Last updated: 2025-09-24 00:55:43
 **Released:** 2025-09-18 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc23a6bc-7471-45b1-9dac-b359014f09d6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Killing a Dead Body
-
-**Released:** 2025-09-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb3839a6-3292-4f8b-9759-b35500e43924/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -216,7 +200,25 @@ Last updated: 2025-09-24 00:55:43
 
 ---
 
+## SmartLess 
+
+### "Lionel Richie"
+
+**Released:** 2025-09-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
+
+### Andy Richter Returns
+
+**Released:** 2025-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
+
+---
 
 ### Janelle James
 
@@ -234,17 +236,15 @@ Last updated: 2025-09-24 00:55:43
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Lionel Richie"
+### Steven Pinker Returns (on common knowledge)
 
-**Released:** 2025-09-22 07:01:00
+**Released:** 2025-09-24 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Mom's Car: Monica Padman
 
@@ -267,14 +267,6 @@ Last updated: 2025-09-24 00:55:43
 **Released:** 2025-09-19 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bobbi Brown (make-up artist and entrepreneur)
-
-**Released:** 2025-09-17 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1accdf19-e923-4ba9-84e2-a1d30582e55f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
