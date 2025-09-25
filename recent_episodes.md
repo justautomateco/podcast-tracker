@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-24 12:24:25
+Last updated: 2025-09-25 00:55:50
 
-## This American Life
+## Freakonomics Radio
 
-### 868: The Hand That Rocks The Gavel
+### 647. China Is Run by Engineers. America Is Run by Lawyers.
 
-**Released:** 2025-09-21 18:00:00
+**Released:** 2025-09-19 11:50:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### The emerging science of finding critical metals | Mfikeyi Makayi 
+
+**Released:** 2025-09-24 18:13:48
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d3f352d4ea86dd5914b09f/media.mp3)
+
+---
 
 ### Inside WWE's storytelling machine | Paul "Triple H" Levesque
 
@@ -46,21 +54,31 @@ Last updated: 2025-09-24 12:24:25
 
 ---
 
-### (#2) Elise’s Top Ten: You don't actually know what your future self wants | Shankar Vedantam
+## This American Life
 
-**Released:** 2025-09-20 15:08:00
+### 868: The Hand That Rocks The Gavel
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea82c8045b9a2864b07/media.mp3)
+**Released:** 2025-09-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
 
 ---
 
-## Freakonomics Radio
+## Planet Money
 
-### 647. China Is Run by Engineers. America Is Run by Lawyers.
+### How Jane Street’s secret billion-dollar trade unraveled
 
-**Released:** 2025-09-19 11:50:00
+**Released:** 2025-09-24 16:52:33
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
+
+---
+
+### In Gaza, money is falling apart
+
+**Released:** 2025-09-20 04:00:01
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
 
 ---
 
@@ -74,17 +92,15 @@ Last updated: 2025-09-24 12:24:25
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### In Gaza, money is falling apart
+### #2383 - Ian Edwards
 
-**Released:** 2025-09-20 04:00:01
+**Released:** 2025-09-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2382 - Andrew Santino
 
@@ -99,14 +115,6 @@ Last updated: 2025-09-24 12:24:25
 **Released:** 2025-09-18 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5798201763.mp3?updated=1758209601)
-
----
-
-### #2380 - Jordan Jensen
-
-**Released:** 2025-09-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2118104746.mp3?updated=1758116038)
 
 ---
 
@@ -154,6 +162,16 @@ Last updated: 2025-09-24 12:24:25
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Poppi: Allison and Stephen Ellsworth.  From Farmers Market Vinegar Drink to $2B Soda Sensation
@@ -172,16 +190,6 @@ Last updated: 2025-09-24 12:24:25
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders
-
-**Released:** 2025-09-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moth Radio Hour: Question Marks
@@ -197,16 +205,6 @@ Last updated: 2025-09-24 12:24:25
 **Released:** 2025-09-19 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
-
----
-
-## SmartLess 
-
-### "Lionel Richie"
-
-**Released:** 2025-09-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
@@ -267,6 +265,26 @@ Last updated: 2025-09-24 12:24:25
 **Released:** 2025-09-19 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Lionel Richie"
+
+**Released:** 2025-09-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
