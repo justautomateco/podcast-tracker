@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-25 12:25:08
+Last updated: 2025-09-26 00:55:16
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-09-25 12:25:08
 ---
 
 ## TED Talks Daily
+
+### Inside India's astonishing solar revolution | Kanika Chawla
+
+**Released:** 2025-09-25 15:14:43
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d556caacc34956e6dfe13e/media.mp3)
+
+---
 
 ### The emerging science of finding critical metals | Mfikeyi Makayi 
 
@@ -46,14 +54,6 @@ Last updated: 2025-09-25 12:25:08
 
 ---
 
-### (#1) Elise’s Top Ten: The psychology of your future self | Dan Gilbert
-
-**Released:** 2025-09-20 15:09:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68c9cea036e7ae452746dc77/media.mp3)
-
----
-
 ## This American Life
 
 ### 868: The Hand That Rocks The Gavel
@@ -61,6 +61,32 @@ Last updated: 2025-09-25 12:25:08
 **Released:** 2025-09-21 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2384 - Mark Kerr
+
+**Released:** 2025-09-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
+
+---
+
+### #2383 - Ian Edwards
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
+
+---
+
+### #2382 - Andrew Santino
+
+**Released:** 2025-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
 
 ---
 
@@ -89,42 +115,6 @@ Last updated: 2025-09-25 12:25:08
 **Released:** 2025-09-22 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2383 - Ian Edwards
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
-
----
-
-### #2382 - Andrew Santino
-
-**Released:** 2025-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
-
----
-
-### #2381 - Taylor Kitsch
-
-**Released:** 2025-09-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5798201763.mp3?updated=1758209601)
-
----
-
-## 99% Invisible
-
-### The New Jungle
-
-**Released:** 2025-09-23 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
 
 ---
 
@@ -162,6 +152,26 @@ Last updated: 2025-09-25 12:25:08
 
 ---
 
+## 99% Invisible
+
+### The New Jungle
+
+**Released:** 2025-09-23 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Alabama Murders
@@ -169,40 +179,6 @@ Last updated: 2025-09-25 12:25:08
 **Released:** 2025-09-22 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Steven Pinker Returns (on common knowledge)
-
-**Released:** 2025-09-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Monica Padman
-
-**Released:** 2025-09-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dominic Fike
-
-**Released:** 2025-09-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Arrested
-
-**Released:** 2025-09-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,16 +218,6 @@ Last updated: 2025-09-25 12:25:08
 
 ---
 
-## SmartLess 
-
-### "Lionel Richie"
-
-**Released:** 2025-09-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### That Zagrebian ’Tude
@@ -278,13 +244,47 @@ Last updated: 2025-09-25 12:25:08
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+### "Lionel Richie"
 
-**Released:** 2025-09-24 17:00:00
+**Released:** 2025-09-22 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Steven Pinker Returns (on common knowledge)
+
+**Released:** 2025-09-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Monica Padman
+
+**Released:** 2025-09-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dominic Fike
+
+**Released:** 2025-09-22 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Arrested
+
+**Released:** 2025-09-19 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
