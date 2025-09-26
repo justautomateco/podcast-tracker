@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-26 00:55:16
+Last updated: 2025-09-26 12:23:34
 
 ## Freakonomics Radio
 
-### 647. China Is Run by Engineers. America Is Run by Lawyers.
+### Is the U.S. Really Less Corrupt Than China? (Update)
 
-**Released:** 2025-09-19 11:50:00
+**Released:** 2025-09-26 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fc90903d-9031-451f-a515-8883e2f85131/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fc90903d-9031-451f-a515-8883e2f85131&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 868: The Hand That Rocks The Gavel
+
+**Released:** 2025-09-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
 
 ---
 
@@ -54,13 +64,21 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
-## This American Life
+## Planet Money
 
-### 868: The Hand That Rocks The Gavel
+### How Jane Street’s secret billion-dollar trade unraveled
 
-**Released:** 2025-09-21 18:00:00
+**Released:** 2025-09-24 16:52:33
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
+
+---
+
+### In Gaza, money is falling apart
+
+**Released:** 2025-09-20 04:00:01
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
 
 ---
 
@@ -90,24 +108,6 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
-## Planet Money
-
-### How Jane Street’s secret billion-dollar trade unraveled
-
-**Released:** 2025-09-24 16:52:33
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
-
----
-
-### In Gaza, money is falling apart
-
-**Released:** 2025-09-20 04:00:01
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
-
----
-
 ## Hidden Brain
 
 ### Passion vs. Paycheck
@@ -115,6 +115,16 @@ Last updated: 2025-09-26 00:55:16
 **Released:** 2025-09-22 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The New Jungle
+
+**Released:** 2025-09-23 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
 
 ---
 
@@ -152,36 +162,6 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
-## 99% Invisible
-
-### The New Jungle
-
-**Released:** 2025-09-23 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Alabama Murders
-
-**Released:** 2025-09-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Randy Hetrick of TRX
@@ -200,7 +180,25 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+
+---
 
 ### The Moth Radio Hour: Question Marks
 
@@ -210,11 +208,37 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
-### The Moth Podcast: Answers Before Questions
+## Armchair Expert
 
-**Released:** 2025-09-19 04:25:00
+### Armchair Anonymous: Valet Driver
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3897783928.mp3?updated=1758040432)
+**Released:** 2025-09-26 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db458739-7d7f-46f1-bb93-16298d11deec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Steven Pinker Returns (on common knowledge)
+
+**Released:** 2025-09-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Monica Padman
+
+**Released:** 2025-09-23 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dominic Fike
+
+**Released:** 2025-09-22 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -254,37 +278,13 @@ Last updated: 2025-09-26 00:55:16
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Steven Pinker Returns (on common knowledge)
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
 
-**Released:** 2025-09-24 07:35:00
+**Released:** 2025-09-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Monica Padman
-
-**Released:** 2025-09-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dominic Fike
-
-**Released:** 2025-09-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Arrested
-
-**Released:** 2025-09-19 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a802f0a2-1986-4c9b-a6a5-82aa419614f8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
