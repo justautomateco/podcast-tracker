@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-26 12:23:34
+Last updated: 2025-09-27 00:53:39
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-09-26 12:23:34
 ---
 
 ## TED Talks Daily
+
+### How do you turn hope into action? A doctor and a public health expert answer | David Fajgenbaum and Celina de Sola
+
+**Released:** 2025-09-26 15:04:13
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d6a907136216b12fbf7654/media.mp3)
+
+---
 
 ### Inside India's astonishing solar revolution | Kanika Chawla
 
@@ -56,15 +64,15 @@ Last updated: 2025-09-26 12:23:34
 
 ---
 
-### Sunday Pick: Mexico City | Far Flung
+## Planet Money
 
-**Released:** 2025-09-22 14:43:57
+### How refrigeration took over the world
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d160ad02bd59159730b30b/media.mp3)
+**Released:** 2025-09-26 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
 
 ---
-
-## Planet Money
 
 ### How Jane Street’s secret billion-dollar trade unraveled
 
@@ -82,7 +90,25 @@ Last updated: 2025-09-26 12:23:34
 
 ---
 
+## Hidden Brain
+
+### Passion vs. Paycheck
+
+**Released:** 2025-09-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2385 - Rick Strassman
+
+**Released:** 2025-09-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1758905627)
+
+---
 
 ### #2384 - Mark Kerr
 
@@ -108,16 +134,6 @@ Last updated: 2025-09-26 12:23:34
 
 ---
 
-## Hidden Brain
-
-### Passion vs. Paycheck
-
-**Released:** 2025-09-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### The New Jungle
@@ -130,35 +146,53 @@ Last updated: 2025-09-26 12:23:34
 
 ## Stuff You Should Know
 
-### A Tribute To The Far Side
+### SYSK’s Fall True Crime Playlist: The Hinterkaifeck Axe Murders
 
-**Released:** 2025-09-25 09:00:00
+**Released:** 2025-09-26 15:36:28
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8407287d-ce6f-4747-b55b-b36201414a95/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Death Cap Mushroom
-
-**Released:** 2025-09-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ce49a5a1-be9d-448f-84e6-b3590116ff38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/25a115d1-f5f2-4e77-a3d3-b36301808064/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Tdhtdhtdhtdhtdh: Sound Effects! 
+### SYSK’s Fall True Crime Playlist: SYSK Live: The DB Cooper Heist
 
-**Released:** 2025-09-23 09:00:00
+**Released:** 2025-09-26 15:35:47
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cc1d46b-cd4e-4c3d-a790-b3600117ea01/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7580ad2f-0d49-42bd-8ea1-b363017e4bed/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Selects: Slime Mold: 0% Mold, 100% Amazing
+### SYSK’s Fall True Crime Playlist: Who Committed the 1912 Villisca Ax Murders?
 
-**Released:** 2025-09-20 09:00:00
+**Released:** 2025-09-26 15:34:26
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c9f267da-2943-4928-b47f-b3530148d244/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cd93f19-7f58-4210-87e0-b363017d12da/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+###  SYSK’s Fall True Crime Playlist: The Tylenol Murders, Part I
+
+**Released:** 2025-09-26 15:34:13
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bd08811c-de32-4a1c-bc5b-b363017bd9e0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Fall True Crime Playlist: The Chowchilla Bus Kidnapping
+
+**Released:** 2025-09-26 15:33:57
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/875c884a-9189-4059-adaf-b363017a35a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -180,13 +214,29 @@ Last updated: 2025-09-26 12:23:34
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### The Alabama Murders
+### That Zagrebian ’Tude
 
-**Released:** 2025-09-22 09:00:00
+**Released:** 2025-09-25 04:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
+
+---
+
+### Andy Richter Returns
+
+**Released:** 2025-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
+
+---
+
+### Janelle James
+
+**Released:** 2025-09-22 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
 
 ---
 
@@ -205,6 +255,16 @@ Last updated: 2025-09-26 12:23:34
 **Released:** 2025-09-23 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
+
+---
+
+## SmartLess 
+
+### "Lionel Richie"
+
+**Released:** 2025-09-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
@@ -239,42 +299,6 @@ Last updated: 2025-09-26 12:23:34
 **Released:** 2025-09-22 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### That Zagrebian ’Tude
-
-**Released:** 2025-09-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
-
----
-
-### Andy Richter Returns
-
-**Released:** 2025-09-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
-
----
-
-### Janelle James
-
-**Released:** 2025-09-22 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Lionel Richie"
-
-**Released:** 2025-09-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
