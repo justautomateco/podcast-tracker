@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-27 00:53:39
+Last updated: 2025-09-27 12:20:50
 
 ## Freakonomics Radio
 
@@ -9,6 +9,24 @@ Last updated: 2025-09-27 00:53:39
 **Released:** 2025-09-26 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### How refrigeration took over the world
+
+**Released:** 2025-09-26 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
+
+---
+
+### How Jane Street’s secret billion-dollar trade unraveled
+
+**Released:** 2025-09-24 16:52:33
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
 
 ---
 
@@ -64,42 +82,6 @@ Last updated: 2025-09-27 00:53:39
 
 ---
 
-## Planet Money
-
-### How refrigeration took over the world
-
-**Released:** 2025-09-26 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
-
----
-
-### How Jane Street’s secret billion-dollar trade unraveled
-
-**Released:** 2025-09-24 16:52:33
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
-
----
-
-### In Gaza, money is falling apart
-
-**Released:** 2025-09-20 04:00:01
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4338613418.mp3?t=podcast&e=nx-s1-5547307&p=510289&d=2107&size=33727722)
-
----
-
-## Hidden Brain
-
-### Passion vs. Paycheck
-
-**Released:** 2025-09-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2385 - Rick Strassman
@@ -134,7 +116,25 @@ Last updated: 2025-09-27 00:53:39
 
 ---
 
+## Hidden Brain
+
+### Passion vs. Paycheck
+
+**Released:** 2025-09-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
+
+---
 
 ### The New Jungle
 
@@ -145,6 +145,14 @@ Last updated: 2025-09-27 00:53:39
 ---
 
 ## Stuff You Should Know
+
+### Selects: How Area 51 Works
+
+**Released:** 2025-09-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/440d4b60-7363-4b77-8051-b35c014202bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### SYSK’s Fall True Crime Playlist: The Hinterkaifeck Axe Murders
 
@@ -178,24 +186,6 @@ Last updated: 2025-09-27 00:53:39
 
 ---
 
-### SYSK’s Fall True Crime Playlist: The Chowchilla Bus Kidnapping
-
-**Released:** 2025-09-26 15:33:57
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/875c884a-9189-4059-adaf-b363017a35a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### The Alabama Murders
-
-**Released:** 2025-09-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Randy Hetrick of TRX
@@ -211,6 +201,26 @@ Last updated: 2025-09-27 00:53:39
 **Released:** 2025-09-22 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a417e4e7-7858-4e16-a487-dc95c0fc432a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -299,16 +309,6 @@ Last updated: 2025-09-27 00:53:39
 **Released:** 2025-09-22 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
