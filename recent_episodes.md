@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-28 01:01:36
+Last updated: 2025-09-28 12:21:12
 
-## Freakonomics Radio
+## This American Life
 
-### Is the U.S. Really Less Corrupt Than China? (Update)
+### 868: The Hand That Rocks The Gavel
 
-**Released:** 2025-09-26 10:00:00
+**Released:** 2025-09-21 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
 
 ---
 
 ## TED Talks Daily
+
+### TED Talks Daily Book Club: How to Be Free: A Proven Guide to Escaping Life’s Hidden Prisons | Shaka Senghor
+
+**Released:** 2025-09-28 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d6bd6c2552b72c200711bb/media.mp3)
+
+---
 
 ### Forget the corporate ladder — winners take risks | Molly Graham (re-release)
 
@@ -46,11 +54,13 @@ Last updated: 2025-09-28 01:01:36
 
 ---
 
-### Inside WWE's storytelling machine | Paul "Triple H" Levesque
+## Freakonomics Radio
 
-**Released:** 2025-09-23 17:00:00
+### Is the U.S. Really Less Corrupt Than China? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d2b7c46f2bb8719f2f2e71/media.mp3)
+**Released:** 2025-09-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
 
 ---
 
@@ -72,13 +82,37 @@ Last updated: 2025-09-28 01:01:36
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 868: The Hand That Rocks The Gavel
+### #2385 - Rick Strassman
 
-**Released:** 2025-09-21 18:00:00
+**Released:** 2025-09-26 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1758905627)
+
+---
+
+### #2384 - Mark Kerr
+
+**Released:** 2025-09-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
+
+---
+
+### #2383 - Ian Edwards
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
+
+---
+
+### #2382 - Andrew Santino
+
+**Released:** 2025-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
 
 ---
 
@@ -134,40 +168,6 @@ Last updated: 2025-09-28 01:01:36
 
 ---
 
-## The Joe Rogan Experience
-
-### #2385 - Rick Strassman
-
-**Released:** 2025-09-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1758905627)
-
----
-
-### #2384 - Mark Kerr
-
-**Released:** 2025-09-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
-
----
-
-### #2383 - Ian Edwards
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
-
----
-
-### #2382 - Andrew Santino
-
-**Released:** 2025-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
-
----
-
 ## 99% Invisible
 
 ### Constitution Breakdown #2: Rep. Sharice Davids
@@ -183,6 +183,34 @@ Last updated: 2025-09-28 01:01:36
 **Released:** 2025-09-23 17:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+
+---
+
+### The Moth Radio Hour: Question Marks
+
+**Released:** 2025-09-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
 
 ---
 
@@ -204,13 +232,29 @@ Last updated: 2025-09-28 01:01:36
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### The Alabama Murders
+### That Zagrebian ’Tude
 
-**Released:** 2025-09-22 09:00:00
+**Released:** 2025-09-25 04:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
+
+---
+
+### Andy Richter Returns
+
+**Released:** 2025-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
+
+---
+
+### Janelle James
+
+**Released:** 2025-09-22 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
 
 ---
 
@@ -248,47 +292,13 @@ Last updated: 2025-09-28 01:01:36
 
 ---
 
-## Conan O'Brien Needs A Friend
+## SmartLess 
 
-### That Zagrebian ’Tude
+### "Lionel Richie"
 
-**Released:** 2025-09-25 04:05:00
+**Released:** 2025-09-22 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
-
----
-
-### Andy Richter Returns
-
-**Released:** 2025-09-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
-
----
-
-### Janelle James
-
-**Released:** 2025-09-22 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Presenting Heavyweight: The Messenger
-
-**Released:** 2025-09-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
-
----
-
-### The Moth Radio Hour: Question Marks
-
-**Released:** 2025-09-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
@@ -299,16 +309,6 @@ Last updated: 2025-09-28 01:01:36
 **Released:** 2025-09-24 17:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Lionel Richie"
-
-**Released:** 2025-09-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
