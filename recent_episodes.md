@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-29 00:57:24
-
-## Freakonomics Radio
-
-### Is the U.S. Really Less Corrupt Than China? (Update)
-
-**Released:** 2025-09-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 286: Mind Games
-
-**Released:** 2025-09-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
-
----
+Last updated: 2025-09-29 12:24:29
 
 ## TED Talks Daily
 
@@ -64,6 +44,16 @@ Last updated: 2025-09-29 00:57:24
 
 ---
 
+## Freakonomics Radio
+
+### Is the U.S. Really Less Corrupt Than China? (Update)
+
+**Released:** 2025-09-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### How refrigeration took over the world
@@ -82,47 +72,13 @@ Last updated: 2025-09-29 00:57:24
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2385 - Rick Strassman
+### 286: Mind Games
 
-**Released:** 2025-09-26 17:00:00
+**Released:** 2025-09-28 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1758905627)
-
----
-
-### #2384 - Mark Kerr
-
-**Released:** 2025-09-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
-
----
-
-### #2383 - Ian Edwards
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
-
----
-
-### #2382 - Andrew Santino
-
-**Released:** 2025-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
-
----
-
-## Hidden Brain
-
-### Passion vs. Paycheck
-
-**Released:** 2025-09-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
 
 ---
 
@@ -168,6 +124,16 @@ Last updated: 2025-09-29 00:57:24
 
 ---
 
+## Hidden Brain
+
+### Passion vs. Paycheck
+
+**Released:** 2025-09-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/ac1a8eec-9552-4932-8a32-0a9828a3b1a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=ac1a8eec-9552-4932-8a32-0a9828a3b1a6&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Constitution Breakdown #2: Rep. Sharice Davids
@@ -186,35 +152,67 @@ Last updated: 2025-09-29 00:57:24
 
 ---
 
-## How I Built This
+## The Joe Rogan Experience
 
-### Advice Line with Randy Hetrick of TRX
+### #2385 - Rick Strassman
 
-**Released:** 2025-09-25 07:10:00
+**Released:** 2025-09-26 17:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0d731ad-83aa-4003-9a30-fb4f59b13ba8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Poppi: Allison and Stephen Ellsworth.  From Farmers Market Vinegar Drink to $2B Soda Sensation
-
-**Released:** 2025-09-22 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a417e4e7-7858-4e16-a487-dc95c0fc432a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1758905627)
 
 ---
 
-## Revisionist History
+### #2384 - Mark Kerr
 
-### The Alabama Murders
+**Released:** 2025-09-25 17:00:00
 
-**Released:** 2025-09-22 09:00:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+---
+
+### #2383 - Ian Edwards
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
+
+---
+
+### #2382 - Andrew Santino
+
+**Released:** 2025-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
+
+---
+
+## The Moth
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+
+---
+
+### The Moth Radio Hour: Question Marks
+
+**Released:** 2025-09-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Werner Herzog Returns
+
+**Released:** 2025-09-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
+
+---
 
 ### That Zagrebian ’Tude
 
@@ -232,15 +230,43 @@ Last updated: 2025-09-29 00:57:24
 
 ---
 
-### Janelle James
+## How I Built This
 
-**Released:** 2025-09-22 04:05:00
+### Craigslist: Craig Newmark — The Forrest Gump of the Internet
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/97d0786b-f541-419d-b5bc-1e07bf628b57/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=97d0786b-f541-419d-b5bc-1e07bf628b57&feed=dHoohVNH)
+**Released:** 2025-09-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Randy Hetrick of TRX
+
+**Released:** 2025-09-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0d731ad-83aa-4003-9a30-fb4f59b13ba8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Michelle Pfeiffer"
+
+**Released:** 2025-09-29 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Kristen Bell & Justine Lupe
+
+**Released:** 2025-09-29 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Valet Driver
 
@@ -263,42 +289,6 @@ Last updated: 2025-09-29 00:57:24
 **Released:** 2025-09-23 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dominic Fike
-
-**Released:** 2025-09-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Presenting Heavyweight: The Messenger
-
-**Released:** 2025-09-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
-
----
-
-### The Moth Radio Hour: Question Marks
-
-**Released:** 2025-09-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
-
----
-
-## SmartLess 
-
-### "Lionel Richie"
-
-**Released:** 2025-09-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8021f836-292b-4103-b0a4-c0f274716574/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8021f836-292b-4103-b0a4-c0f274716574&feed=hNaFxXpO)
 
 ---
 
