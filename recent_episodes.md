@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-28 12:21:12
+Last updated: 2025-09-29 00:57:24
+
+## Freakonomics Radio
+
+### Is the U.S. Really Less Corrupt Than China? (Update)
+
+**Released:** 2025-09-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
-### 868: The Hand That Rocks The Gavel
+### 286: Mind Games
 
-**Released:** 2025-09-21 18:00:00
+**Released:** 2025-09-28 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-09-28 12:21:12
 **Released:** 2025-09-24 18:13:48
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d3f352d4ea86dd5914b09f/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Is the U.S. Really Less Corrupt Than China? (Update)
-
-**Released:** 2025-09-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
 
 ---
 
@@ -186,34 +186,6 @@ Last updated: 2025-09-28 12:21:12
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders
-
-**Released:** 2025-09-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Presenting Heavyweight: The Messenger
-
-**Released:** 2025-09-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
-
----
-
-### The Moth Radio Hour: Question Marks
-
-**Released:** 2025-09-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
-
----
-
 ## How I Built This
 
 ### Advice Line with Randy Hetrick of TRX
@@ -229,6 +201,16 @@ Last updated: 2025-09-28 12:21:12
 **Released:** 2025-09-22 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a417e4e7-7858-4e16-a487-dc95c0fc432a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders
+
+**Released:** 2025-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/ea4edb47-890d-458c-8919-b35d01166133/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -289,6 +271,24 @@ Last updated: 2025-09-28 12:21:12
 **Released:** 2025-09-22 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c493d47-5679-431a-9c6d-b5bba090cced.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+
+---
+
+### The Moth Radio Hour: Question Marks
+
+**Released:** 2025-09-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
 
 ---
 
