@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-30 00:56:20
+Last updated: 2025-09-30 12:25:09
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-09-30 00:56:20
 **Released:** 2025-09-26 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 286: Mind Games
+
+**Released:** 2025-09-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
 
 ---
 
@@ -54,16 +64,6 @@ Last updated: 2025-09-30 00:56:20
 
 ---
 
-## This American Life
-
-### 286: Mind Games
-
-**Released:** 2025-09-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
-
----
-
 ## Planet Money
 
 ### How refrigeration took over the world
@@ -89,6 +89,66 @@ Last updated: 2025-09-30 00:56:20
 **Released:** 2025-09-29 19:50:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### Why Would Anyone Want to Appease Hitler? 
+
+**Released:** 2025-09-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d11f8b29-ff69-4939-8f43-b3620143b794/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Area 51 Works
+
+**Released:** 2025-09-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/440d4b60-7363-4b77-8051-b35c014202bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Fall True Crime Playlist: The Hinterkaifeck Axe Murders
+
+**Released:** 2025-09-26 15:36:28
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/25a115d1-f5f2-4e77-a3d3-b36301808064/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Fall True Crime Playlist: SYSK Live: The DB Cooper Heist
+
+**Released:** 2025-09-26 15:35:47
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7580ad2f-0d49-42bd-8ea1-b363017e4bed/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK’s Fall True Crime Playlist: Who Committed the 1912 Villisca Ax Murders?
+
+**Released:** 2025-09-26 15:34:26
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cd93f19-7f58-4210-87e0-b363017d12da/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
+
+---
+
+### The New Jungle
+
+**Released:** 2025-09-23 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
 
 ---
 
@@ -126,66 +186,6 @@ Last updated: 2025-09-30 00:56:20
 
 ---
 
-## 99% Invisible
-
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
-
----
-
-### The New Jungle
-
-**Released:** 2025-09-23 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Area 51 Works
-
-**Released:** 2025-09-27 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/440d4b60-7363-4b77-8051-b35c014202bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### SYSK’s Fall True Crime Playlist: The Hinterkaifeck Axe Murders
-
-**Released:** 2025-09-26 15:36:28
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/25a115d1-f5f2-4e77-a3d3-b36301808064/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### SYSK’s Fall True Crime Playlist: SYSK Live: The DB Cooper Heist
-
-**Released:** 2025-09-26 15:35:47
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7580ad2f-0d49-42bd-8ea1-b363017e4bed/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### SYSK’s Fall True Crime Playlist: Who Committed the 1912 Villisca Ax Murders?
-
-**Released:** 2025-09-26 15:34:26
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cd93f19-7f58-4210-87e0-b363017d12da/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-###  SYSK’s Fall True Crime Playlist: The Tylenol Murders, Part I
-
-**Released:** 2025-09-26 15:34:13
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bd08811c-de32-4a1c-bc5b-b363017bd9e0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Craigslist: Craig Newmark — The Forrest Gump of the Internet
@@ -204,7 +204,25 @@ Last updated: 2025-09-30 00:56:20
 
 ---
 
+## The Tim Ferriss Show
+
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
+
+### The Moth Radio Hour: Relative Silence
+
+**Released:** 2025-09-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
+
+---
 
 ### Presenting Heavyweight: The Messenger
 
@@ -214,45 +232,13 @@ Last updated: 2025-09-30 00:56:20
 
 ---
 
-### The Moth Radio Hour: Question Marks
+## SmartLess 
 
-**Released:** 2025-09-23 04:25:00
+### "Michelle Pfeiffer"
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4438021072.mp3?updated=1758050667)
+**Released:** 2025-09-29 07:01:00
 
----
-
-## Armchair Expert
-
-### Kristen Bell & Justine Lupe
-
-**Released:** 2025-09-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Valet Driver
-
-**Released:** 2025-09-26 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db458739-7d7f-46f1-bb93-16298d11deec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Steven Pinker Returns (on common knowledge)
-
-**Released:** 2025-09-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Monica Padman
-
-**Released:** 2025-09-23 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b06992dc-f703-486d-a104-5942c62d5a46.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
 
 ---
 
@@ -282,23 +268,37 @@ Last updated: 2025-09-30 00:56:20
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Michelle Pfeiffer"
+### Mom's Car: Timothy Simons
 
-**Released:** 2025-09-29 07:01:00
+**Released:** 2025-09-30 07:35:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Kristen Bell & Justine Lupe
 
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+**Released:** 2025-09-29 07:35:00
 
-**Released:** 2025-09-24 17:00:00
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+### Armchair Anonymous: Valet Driver
+
+**Released:** 2025-09-26 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db458739-7d7f-46f1-bb93-16298d11deec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Steven Pinker Returns (on common knowledge)
+
+**Released:** 2025-09-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
