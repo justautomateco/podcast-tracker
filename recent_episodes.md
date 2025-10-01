@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-09-30 12:25:09
+Last updated: 2025-10-01 01:02:34
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-09-30 12:25:09
 ---
 
 ## TED Talks Daily
+
+### This TED Talk is full of bad ideas | Gabe Whaley
+
+**Released:** 2025-09-30 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dbf03a597bc7d53f824ce7/media.mp3)
+
+---
 
 ### How Dolly Parton led me to an epiphany | Jad Abumrad (re-release)
 
@@ -56,14 +64,6 @@ Last updated: 2025-09-30 12:25:09
 
 ---
 
-### Inside India's astonishing solar revolution | Kanika Chawla
-
-**Released:** 2025-09-25 15:14:43
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d556caacc34956e6dfe13e/media.mp3)
-
----
-
 ## Planet Money
 
 ### How refrigeration took over the world
@@ -82,6 +82,40 @@ Last updated: 2025-09-30 12:25:09
 
 ---
 
+## The Joe Rogan Experience
+
+### #2386 - The Red Clay Strays
+
+**Released:** 2025-09-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097)
+
+---
+
+### #2385 - Rick Strassman
+
+**Released:** 2025-09-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
+
+---
+
+### #2384 - Mark Kerr
+
+**Released:** 2025-09-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
+
+---
+
+### #2383 - Ian Edwards
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
+
+---
+
 ## Hidden Brain
 
 ### Love 2.0: How to Fix Your Marriage, Part 1
@@ -89,6 +123,24 @@ Last updated: 2025-09-30 12:25:09
 **Released:** 2025-09-29 19:50:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Power Broker #13: Drop Dead City
+
+**Released:** 2025-09-30 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
 
 ---
 
@@ -134,140 +186,6 @@ Last updated: 2025-09-30 12:25:09
 
 ---
 
-## 99% Invisible
-
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
-
----
-
-### The New Jungle
-
-**Released:** 2025-09-23 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/491d888d-0f47-42dc-b578-5c6e5ee4fb22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=491d888d-0f47-42dc-b578-5c6e5ee4fb22&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2385 - Rick Strassman
-
-**Released:** 2025-09-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
-
----
-
-### #2384 - Mark Kerr
-
-**Released:** 2025-09-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
-
----
-
-### #2383 - Ian Edwards
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
-
----
-
-### #2382 - Andrew Santino
-
-**Released:** 2025-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6672666569.mp3?updated=1758645107)
-
----
-
-## How I Built This
-
-### Craigslist: Craig Newmark — The Forrest Gump of the Internet
-
-**Released:** 2025-09-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Randy Hetrick of TRX
-
-**Released:** 2025-09-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0d731ad-83aa-4003-9a30-fb4f59b13ba8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Moth Radio Hour: Relative Silence
-
-**Released:** 2025-09-30 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
-
----
-
-### Presenting Heavyweight: The Messenger
-
-**Released:** 2025-09-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
-
----
-
-## SmartLess 
-
-### "Michelle Pfeiffer"
-
-**Released:** 2025-09-29 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Werner Herzog Returns
-
-**Released:** 2025-09-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
-
----
-
-### That Zagrebian ’Tude
-
-**Released:** 2025-09-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
-
----
-
-### Andy Richter Returns
-
-**Released:** 2025-09-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Mom's Car: Timothy Simons
@@ -299,6 +217,96 @@ Last updated: 2025-09-30 12:25:09
 **Released:** 2025-09-24 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93527064-c66a-4f55-ae15-09e3be8bda9d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Relative Silence
+
+**Released:** 2025-09-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
+
+---
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Werner Herzog Returns
+
+**Released:** 2025-09-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
+
+---
+
+### That Zagrebian ’Tude
+
+**Released:** 2025-09-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/471ad0d7-6303-41eb-8f74-e762aa6be836/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=471ad0d7-6303-41eb-8f74-e762aa6be836&feed=dHoohVNH)
+
+---
+
+### Andy Richter Returns
+
+**Released:** 2025-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7358d8c9-4d4c-4fbd-8da2-6754c20221c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7358d8c9-4d4c-4fbd-8da2-6754c20221c8&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Michelle Pfeiffer"
+
+**Released:** 2025-09-29 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Craigslist: Craig Newmark — The Forrest Gump of the Internet
+
+**Released:** 2025-09-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Randy Hetrick of TRX
+
+**Released:** 2025-09-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0d731ad-83aa-4003-9a30-fb4f59b13ba8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
+
+**Released:** 2025-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
