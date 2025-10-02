@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-01 12:25:13
-
-## Freakonomics Radio
-
-### Is the U.S. Really Less Corrupt Than China? (Update)
-
-**Released:** 2025-09-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
-
----
+Last updated: 2025-10-02 00:54:41
 
 ## TED Talks Daily
+
+### 3 simple ways to build stronger relationships at work | Alyssa Birnbaum
+
+**Released:** 2025-10-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dd360cd5c8a1f9b369e27f/media.mp3)
+
+---
 
 ### This TED Talk is full of bad ideas | Gabe Whaley
 
@@ -46,11 +44,13 @@ Last updated: 2025-10-01 12:25:13
 
 ---
 
-### How do you turn hope into action? A doctor and a public health expert answer | David Fajgenbaum and Celina de Sola
+## Freakonomics Radio
 
-**Released:** 2025-09-26 15:04:13
+### Is the U.S. Really Less Corrupt Than China? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d6a907136216b12fbf7654/media.mp3)
+**Released:** 2025-09-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
 
 ---
 
@@ -61,94 +61,6 @@ Last updated: 2025-10-01 12:25:13
 **Released:** 2025-09-28 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
-
----
-
-## Planet Money
-
-### We make a board game
-
-**Released:** 2025-10-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
-
----
-
-### How refrigeration took over the world
-
-**Released:** 2025-09-26 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
-
----
-
-### How Jane Street’s secret billion-dollar trade unraveled
-
-**Released:** 2025-09-24 16:52:33
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2926769650.mp3?t=podcast&e=nx-s1-5551163&p=510289&d=1733&size=27736277)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 1
-
-**Released:** 2025-09-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2386 - The Red Clay Strays
-
-**Released:** 2025-09-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097)
-
----
-
-### #2385 - Rick Strassman
-
-**Released:** 2025-09-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
-
----
-
-### #2384 - Mark Kerr
-
-**Released:** 2025-09-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
-
----
-
-### #2383 - Ian Edwards
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5603752610.mp3?updated=1758730630)
-
----
-
-## 99% Invisible
-
-### The Power Broker #13: Drop Dead City
-
-**Released:** 2025-09-30 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
 
 ---
 
@@ -194,21 +106,93 @@ Last updated: 2025-10-01 12:25:13
 
 ---
 
-## The Moth
+## Planet Money
 
-### The Moth Radio Hour: Relative Silence
+### We make a board game
 
-**Released:** 2025-09-30 04:25:00
+**Released:** 2025-10-01 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
 
 ---
 
-### Presenting Heavyweight: The Messenger
+### How refrigeration took over the world
 
-**Released:** 2025-09-26 04:25:00
+**Released:** 2025-09-26 21:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: How to Fix Your Marriage, Part 1
+
+**Released:** 2025-09-29 19:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2387 - Gregg Braden
+
+**Released:** 2025-10-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9624267000.mp3?updated=1759335681)
+
+---
+
+### #2386 - The Red Clay Strays
+
+**Released:** 2025-09-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097)
+
+---
+
+### #2385 - Rick Strassman
+
+**Released:** 2025-09-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
+
+---
+
+### #2384 - Mark Kerr
+
+**Released:** 2025-09-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
+
+---
+
+## 99% Invisible
+
+### The Power Broker #13: Drop Dead City
+
+**Released:** 2025-09-30 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -227,6 +211,24 @@ Last updated: 2025-10-01 12:25:13
 **Released:** 2025-09-25 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0d731ad-83aa-4003-9a30-fb4f59b13ba8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Moth Radio Hour: Relative Silence
+
+**Released:** 2025-09-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
+
+---
+
+### Presenting Heavyweight: The Messenger
+
+**Released:** 2025-09-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
 
 ---
 
@@ -289,24 +291,6 @@ Last updated: 2025-10-01 12:25:13
 **Released:** 2025-09-26 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db458739-7d7f-46f1-bb93-16298d11deec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
-
-**Released:** 2025-09-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #828: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should)
-
-**Released:** 2025-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f5ad04d8-b303-4edc-94d3-15e070e4580f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
