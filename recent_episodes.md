@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-03 00:54:32
+Last updated: 2025-10-03 12:22:54
 
 ## Freakonomics Radio
 
-### Is the U.S. Really Less Corrupt Than China? (Update)
+### 648. The Merger You Never Knew You Wanted
 
-**Released:** 2025-09-26 10:00:00
+**Released:** 2025-10-03 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/533df8b2-1630-4983-b2b7-64778956d346/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=533df8b2-1630-4983-b2b7-64778956d346&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 286: Mind Games
+
+**Released:** 2025-09-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
 
 ---
 
@@ -54,26 +64,6 @@ Last updated: 2025-10-03 00:54:32
 
 ---
 
-## This American Life
-
-### 286: Mind Games
-
-**Released:** 2025-09-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 1
-
-**Released:** 2025-09-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
-
----
-
 ## Planet Money
 
 ### We make a board game
@@ -89,6 +79,16 @@ Last updated: 2025-10-03 00:54:32
 **Released:** 2025-09-26 21:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5790592833.mp3?t=podcast&e=nx-s1-5553615&p=510289&d=1409&size=22553583)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: How to Fix Your Marriage, Part 1
+
+**Released:** 2025-09-29 19:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
 
 ---
 
@@ -123,6 +123,24 @@ Last updated: 2025-10-03 00:54:32
 **Released:** 2025-09-26 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
+
+---
+
+## 99% Invisible
+
+### The Power Broker #13: Drop Dead City
+
+**Released:** 2025-09-30 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
 
 ---
 
@@ -168,24 +186,6 @@ Last updated: 2025-10-03 00:54:32
 
 ---
 
-## 99% Invisible
-
-### The Power Broker #13: Drop Dead City
-
-**Released:** 2025-09-30 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Tony Xu of Doordash
@@ -222,31 +222,21 @@ Last updated: 2025-10-03 00:54:32
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+### Embraces and Egg Timers: The Moth Podcast 
 
-**Released:** 2025-09-30 18:00:00
+**Released:** 2025-10-03 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
 
 ---
-
-## The Moth
 
 ### The Moth Radio Hour: Relative Silence
 
 **Released:** 2025-09-30 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
-
----
-
-### Presenting Heavyweight: The Messenger
-
-**Released:** 2025-09-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9457554486.mp3?updated=1758661642)
 
 ---
 
@@ -265,6 +255,26 @@ Last updated: 2025-10-03 00:54:32
 **Released:** 2025-09-29 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Michelle Pfeiffer"
+
+**Released:** 2025-09-29 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -291,24 +301,6 @@ Last updated: 2025-10-03 00:54:32
 **Released:** 2025-09-29 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Valet Driver
-
-**Released:** 2025-09-26 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db458739-7d7f-46f1-bb93-16298d11deec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Michelle Pfeiffer"
-
-**Released:** 2025-09-29 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
 
 ---
 
