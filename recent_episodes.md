@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-02 12:22:21
+Last updated: 2025-10-03 00:54:32
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-10-02 12:22:21
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 286: Mind Games
+### What separates us from chimpanzees? | Jane Goodall
 
-**Released:** 2025-09-28 18:00:00
+**Released:** 2025-10-02 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dda9f17be17a7f01a34608/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### 3 simple ways to build stronger relationships at work | Alyssa Birnbaum
 
@@ -56,11 +54,23 @@ Last updated: 2025-10-02 12:22:21
 
 ---
 
-### Forget the corporate ladder — winners take risks | Molly Graham (re-release)
+## This American Life
 
-**Released:** 2025-09-27 15:00:00
+### 286: Mind Games
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68d6ae4a730cf5a747538681/media.mp3)
+**Released:** 2025-09-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: How to Fix Your Marriage, Part 1
+
+**Released:** 2025-09-29 19:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
 
 ---
 
@@ -84,6 +94,14 @@ Last updated: 2025-10-02 12:22:21
 
 ## The Joe Rogan Experience
 
+### #2388 - Lionel Richie
+
+**Released:** 2025-10-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9761329510.mp3?updated=1759423225)
+
+---
+
 ### #2387 - Gregg Braden
 
 **Released:** 2025-10-01 17:00:00
@@ -105,42 +123,6 @@ Last updated: 2025-10-02 12:22:21
 **Released:** 2025-09-26 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1150401288.mp3?updated=1759187038)
-
----
-
-### #2384 - Mark Kerr
-
-**Released:** 2025-09-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9944762104.mp3?updated=1758818325)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 1
-
-**Released:** 2025-09-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Power Broker #13: Drop Dead City
-
-**Released:** 2025-09-30 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +168,42 @@ Last updated: 2025-10-02 12:22:21
 
 ---
 
+## 99% Invisible
+
+### The Power Broker #13: Drop Dead City
+
+**Released:** 2025-09-30 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #2: Rep. Sharice Davids
+
+**Released:** 2025-09-27 03:54:34
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with Tony Xu of Doordash
+
+**Released:** 2025-10-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Craigslist: Craig Newmark — The Forrest Gump of the Internet
+
+**Released:** 2025-09-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Alabama Murders - Part 2: Coon Dog Cemetery Road 
@@ -201,6 +219,16 @@ Last updated: 2025-10-02 12:22:21
 **Released:** 2025-10-02 03:45:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b6913054-b75a-4799-85d0-b367014b424c/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,34 +268,6 @@ Last updated: 2025-10-02 12:22:21
 
 ---
 
-## SmartLess 
-
-### "Michelle Pfeiffer"
-
-**Released:** 2025-09-29 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Tony Xu of Doordash
-
-**Released:** 2025-10-02 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Craigslist: Craig Newmark — The Forrest Gump of the Internet
-
-**Released:** 2025-09-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
 
 ### Matt Friend (impressionist)
@@ -302,13 +302,13 @@ Last updated: 2025-10-02 12:22:21
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+### "Michelle Pfeiffer"
 
-**Released:** 2025-09-30 18:00:00
+**Released:** 2025-09-29 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
 
 ---
 
