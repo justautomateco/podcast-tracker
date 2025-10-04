@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-04 00:52:33
+Last updated: 2025-10-04 12:20:26
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-10-04 00:52:33
 **Released:** 2025-10-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 286: Mind Games
+
+**Released:** 2025-09-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
 
 ---
 
@@ -72,16 +82,6 @@ Last updated: 2025-10-04 00:52:33
 
 ---
 
-## This American Life
-
-### 286: Mind Games
-
-**Released:** 2025-09-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #170 with Michael "Venom" Page
@@ -134,14 +134,6 @@ Last updated: 2025-10-04 00:52:33
 
 ---
 
-### Constitution Breakdown #2: Rep. Sharice Davids
-
-**Released:** 2025-09-27 03:54:34
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c127e66e-5cea-40fd-ada8-2bb854d308fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c127e66e-5cea-40fd-ada8-2bb854d308fc&feed=BqbsxVfO)
-
----
-
 ## Hidden Brain
 
 ### Love 2.0: How to Fix Your Marriage, Part 1
@@ -153,6 +145,14 @@ Last updated: 2025-10-04 00:52:33
 ---
 
 ## Stuff You Should Know
+
+### Selects: How Mail Order Marriages Work
+
+**Released:** 2025-10-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc45ffb3-348f-40ba-9041-b3680147204d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Mystery of the Sleepy Sickness
 
@@ -178,14 +178,6 @@ Last updated: 2025-10-04 00:52:33
 
 ---
 
-### Selects: How Area 51 Works
-
-**Released:** 2025-09-27 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/440d4b60-7363-4b77-8051-b35c014202bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 2: Coon Dog Cemetery Road 
@@ -201,32 +193,6 @@ Last updated: 2025-10-04 00:52:33
 **Released:** 2025-10-02 03:45:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b6913054-b75a-4799-85d0-b367014b424c/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Matt Friend (impressionist)
-
-**Released:** 2025-10-01 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Timothy Simons
-
-**Released:** 2025-09-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kristen Bell & Justine Lupe
-
-**Released:** 2025-09-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -276,16 +242,6 @@ Last updated: 2025-10-04 00:52:33
 
 ---
 
-## The Tim Ferriss Show
-
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
-
-**Released:** 2025-09-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Don’t Look A Gift Horse Meat In The Mouth Yet Again
@@ -301,6 +257,42 @@ Last updated: 2025-10-04 00:52:33
 **Released:** 2025-09-29 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Matt Friend (impressionist)
+
+**Released:** 2025-10-01 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Timothy Simons
+
+**Released:** 2025-09-30 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kristen Bell & Justine Lupe
+
+**Released:** 2025-09-29 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
