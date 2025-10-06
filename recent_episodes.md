@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-06 00:56:38
+Last updated: 2025-10-06 12:24:25
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-10-06 00:56:38
 **Released:** 2025-10-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 869: Harold
+
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
 
 ---
 
@@ -54,62 +64,6 @@ Last updated: 2025-10-06 00:56:38
 
 ---
 
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
-
----
-
-## Planet Money
-
-### The Planet Money Game: Test our prototype
-
-**Released:** 2025-10-04 00:18:34
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1105581200.mp3?t=podcast&e=nx-s1-5561924&p=510289&d=2141&size=34266471)
-
----
-
-### We make a board game
-
-**Released:** 2025-10-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 1
-
-**Released:** 2025-09-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Get Played with Roman Mars and Ben Brock Johnson
-
-**Released:** 2025-10-03 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f3bc0c88-c20c-47d2-8865-67c71ba52e3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f3bc0c88-c20c-47d2-8865-67c71ba52e3b&feed=BqbsxVfO)
-
----
-
-### The Power Broker #13: Drop Dead City
-
-**Released:** 2025-09-30 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #170 with Michael "Venom" Page
@@ -141,6 +95,24 @@ Last updated: 2025-10-06 00:56:38
 **Released:** 2025-09-30 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097)
+
+---
+
+## Planet Money
+
+### The Planet Money Game: Test our prototype
+
+**Released:** 2025-10-04 00:18:34
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1105581200.mp3?t=podcast&e=nx-s1-5561924&p=510289&d=2141&size=34266471)
+
+---
+
+### We make a board game
+
+**Released:** 2025-10-01 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
 
 ---
 
@@ -178,21 +150,41 @@ Last updated: 2025-10-06 00:56:38
 
 ---
 
-## How I Built This
+## Hidden Brain
 
-### Advice Line with Tony Xu of Doordash
+### Love 2.0: How to Fix Your Marriage, Part 1
 
-**Released:** 2025-10-02 07:00:00
+**Released:** 2025-09-29 19:50:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
 
 ---
 
-### Craigslist: Craig Newmark — The Forrest Gump of the Internet
+## 99% Invisible
 
-**Released:** 2025-09-29 07:10:00
+### Get Played with Roman Mars and Ben Brock Johnson
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a3ffb69-0885-4a1d-a760-96177ad1f4c0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-03 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f3bc0c88-c20c-47d2-8865-67c71ba52e3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f3bc0c88-c20c-47d2-8865-67c71ba52e3b&feed=BqbsxVfO)
+
+---
+
+### The Power Broker #13: Drop Dead City
+
+**Released:** 2025-09-30 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+
+**Released:** 2025-09-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,31 +206,65 @@ Last updated: 2025-10-06 00:56:38
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
 
-**Released:** 2025-09-30 18:00:00
+**Released:** 2025-10-06 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Tony Xu of Doordash
+
+**Released:** 2025-10-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Charlie Sheen
+
+**Released:** 2025-10-06 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e6ed5330-71c9-4f9a-92af-18b73f44e450.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Matt Friend (impressionist)
+
+**Released:** 2025-10-01 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Timothy Simons
+
+**Released:** 2025-09-30 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Charlie Sheen
+
+**Released:** 2025-10-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
+
+---
 
 ### Don’t Look A Gift Horse Meat In The Mouth Yet Again
 
 **Released:** 2025-10-02 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/074512eb-a369-4d15-aab7-d087661121da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=074512eb-a369-4d15-aab7-d087661121da&feed=dHoohVNH)
-
----
-
-### Werner Herzog Returns
-
-**Released:** 2025-09-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/87599057-3d6f-420d-8879-bc5d1473369d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=87599057-3d6f-420d-8879-bc5d1473369d&feed=dHoohVNH)
 
 ---
 
@@ -260,39 +286,13 @@ Last updated: 2025-10-06 00:56:38
 
 ---
 
-## Armchair Expert
-
-### Matt Friend (impressionist)
-
-**Released:** 2025-10-01 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Timothy Simons
-
-**Released:** 2025-09-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kristen Bell & Justine Lupe
-
-**Released:** 2025-09-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bcc75585-4ec8-4624-bb4b-d39c8d9ed104.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
-### "Michelle Pfeiffer"
+### "Kirsten Dunst"
 
-**Released:** 2025-09-29 07:01:00
+**Released:** 2025-10-06 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bfbdce64-5d56-4a50-800b-ea1f404f2438/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bfbdce64-5d56-4a50-800b-ea1f404f2438&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
