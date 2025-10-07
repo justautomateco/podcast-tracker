@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-06 12:24:25
+Last updated: 2025-10-07 00:55:45
 
 ## Freakonomics Radio
 
@@ -12,17 +12,23 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 869: Harold
+### Beyond the Talk: Deja Foxx on finding alternative online spaces
 
-**Released:** 2025-10-05 18:00:00
+**Released:** 2025-10-06 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dfe92959fa988cc4271dff/media.mp3)
 
 ---
 
-## TED Talks Daily
+### Going viral taught me the internet is broken — but fixable | Deja Foxx
+
+**Released:** 2025-10-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dfe93b1300c48ae105d960/media.mp3)
+
+---
 
 ### Sunday Pick: How Texas became America’s biggest producer of wind energy | Speed & Scale
 
@@ -48,19 +54,41 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-### What separates us from chimpanzees? | Jane Goodall
+## This American Life
 
-**Released:** 2025-10-02 15:00:00
+### 869: Harold
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dda9f17be17a7f01a34608/media.mp3)
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
 
 ---
 
-### 3 simple ways to build stronger relationships at work | Alyssa Birnbaum
+## Planet Money
 
-**Released:** 2025-10-01 15:00:00
+### The Planet Money Game: Test our prototype
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dd360cd5c8a1f9b369e27f/media.mp3)
+**Released:** 2025-10-04 00:18:34
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1105581200.mp3?t=podcast&e=nx-s1-5561924&p=510289&d=2141&size=34266471)
+
+---
+
+### We make a board game
+
+**Released:** 2025-10-01 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: How to Fix Your Marriage, Part 2
+
+**Released:** 2025-10-06 19:16:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/29f20135-17cd-4d9c-8e7d-7761cc5fd3fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=29f20135-17cd-4d9c-8e7d-7761cc5fd3fa&feed=kwWc0lhf)
 
 ---
 
@@ -98,24 +126,6 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-## Planet Money
-
-### The Planet Money Game: Test our prototype
-
-**Released:** 2025-10-04 00:18:34
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1105581200.mp3?t=podcast&e=nx-s1-5561924&p=510289&d=2141&size=34266471)
-
----
-
-### We make a board game
-
-**Released:** 2025-10-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Mail Order Marriages Work
@@ -150,16 +160,6 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 1
-
-**Released:** 2025-09-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7f54695a-6e7a-4295-83fb-cb7be5db3eac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7f54695a-6e7a-4295-83fb-cb7be5db3eac&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Get Played with Roman Mars and Ben Brock Johnson
@@ -178,13 +178,21 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
 
-**Released:** 2025-09-30 18:00:00
+**Released:** 2025-10-06 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Tony Xu of Doordash
+
+**Released:** 2025-10-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,21 +214,49 @@ Last updated: 2025-10-06 12:24:25
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
+### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
 
-**Released:** 2025-10-06 07:10:00
+**Released:** 2025-09-30 18:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Advice Line with Tony Xu of Doordash
+## The Moth
 
-**Released:** 2025-10-02 07:00:00
+### Embraces and Egg Timers: The Moth Podcast 
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/091ea513-99d3-4e8d-b71f-3cb46a5a3452.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
+
+---
+
+### The Moth Radio Hour: Relative Silence
+
+**Released:** 2025-09-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Charlie Sheen
+
+**Released:** 2025-10-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
+
+---
+
+### Don’t Look A Gift Horse Meat In The Mouth Yet Again
+
+**Released:** 2025-10-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/074512eb-a369-4d15-aab7-d087661121da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=074512eb-a369-4d15-aab7-d087661121da&feed=dHoohVNH)
 
 ---
 
@@ -247,42 +283,6 @@ Last updated: 2025-10-06 12:24:25
 **Released:** 2025-09-30 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Charlie Sheen
-
-**Released:** 2025-10-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
-
----
-
-### Don’t Look A Gift Horse Meat In The Mouth Yet Again
-
-**Released:** 2025-10-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/074512eb-a369-4d15-aab7-d087661121da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=074512eb-a369-4d15-aab7-d087661121da&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Embraces and Egg Timers: The Moth Podcast 
-
-**Released:** 2025-10-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
-
----
-
-### The Moth Radio Hour: Relative Silence
-
-**Released:** 2025-09-30 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
 
 ---
 
