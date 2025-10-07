@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-07 00:55:45
+Last updated: 2025-10-07 12:24:40
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-10-07 00:55:45
 **Released:** 2025-10-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 869: Harold
+
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-10-07 00:55:45
 **Released:** 2025-10-03 15:28:32
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ddad1609b1c365e40823c0/media.mp3)
-
----
-
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
 
 ---
 
@@ -128,6 +128,14 @@ Last updated: 2025-10-07 00:55:45
 
 ## Stuff You Should Know
 
+### The Happy Place of Saturday Morning Cartoons
+
+**Released:** 2025-10-07 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8145a22a-654a-418a-ac17-b36f000e7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Selects: How Mail Order Marriages Work
 
 **Released:** 2025-10-04 09:00:00
@@ -149,14 +157,6 @@ Last updated: 2025-10-07 00:55:45
 **Released:** 2025-10-01 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c276040f-8539-475e-ad07-b36800deaf84/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Why Would Anyone Want to Appease Hitler? 
-
-**Released:** 2025-09-30 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d11f8b29-ff69-4939-8f43-b3620143b794/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -224,24 +224,6 @@ Last updated: 2025-10-07 00:55:45
 
 ---
 
-## The Moth
-
-### Embraces and Egg Timers: The Moth Podcast 
-
-**Released:** 2025-10-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
-
----
-
-### The Moth Radio Hour: Relative Silence
-
-**Released:** 2025-09-30 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5763835819.mp3?updated=1758924945)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Charlie Sheen
@@ -260,7 +242,43 @@ Last updated: 2025-10-07 00:55:45
 
 ---
 
+## SmartLess 
+
+### "Kirsten Dunst"
+
+**Released:** 2025-10-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Still Existing and Bucket Listing: The Moth Radio Hour
+
+**Released:** 2025-10-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
+
+---
+
+### Embraces and Egg Timers: The Moth Podcast 
+
+**Released:** 2025-10-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
+
+---
+
 ## Armchair Expert
+
+### Mom's Car: Jackie Tohn
+
+**Released:** 2025-10-07 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b70b2c56-1588-452b-8cc0-e7ee3e2a4dc9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Charlie Sheen
 
@@ -275,24 +293,6 @@ Last updated: 2025-10-07 00:55:45
 **Released:** 2025-10-01 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Timothy Simons
-
-**Released:** 2025-09-30 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8be4f8bf-5014-4acb-8cbf-0ad8f231dcc5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Kirsten Dunst"
-
-**Released:** 2025-10-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
