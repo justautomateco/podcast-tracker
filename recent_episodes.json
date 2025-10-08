@@ -1,17 +1,10 @@
 [
   {
-    "guid": "1347ecd9-20be-4f1b-923b-0c2d9bf1536b",
-    "episode_title": "648. The Merger You Never Knew You Wanted",
-    "release_date": "2025-10-03 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46020 at https://www.thisamericanlife.org",
-    "episode_title": "869: Harold",
-    "release_date": "2025-10-05 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3",
-    "podcast_name": "This American Life"
+    "guid": "68e44681965488b63a43da2d",
+    "episode_title": "Inside the Gaza peace plan | Ian Bremmer",
+    "release_date": "2025-10-07 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e44681965488b63a43da2d/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "68dfe92959fa988cc4271dff",
@@ -42,11 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68ddad1609b1c365e40823c0",
-    "episode_title": "Can AI make us more human? A social psychologist and a business leader answer | Heidi Grant and Barry Cooper",
-    "release_date": "2025-10-03 15:28:32",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ddad1609b1c365e40823c0/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46020 at https://www.thisamericanlife.org",
+    "episode_title": "869: Harold",
+    "release_date": "2025-10-05 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "1347ecd9-20be-4f1b-923b-0c2d9bf1536b",
+    "episode_title": "648. The Merger You Never Knew You Wanted",
+    "release_date": "2025-10-03 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "c72dfd06-9621-41c3-a0bc-728f21d410fa",
@@ -61,41 +61,6 @@
     "release_date": "2025-10-01 07:00:00",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e9ba8045-0d6f-473a-906e-ebe2744a2a67",
-    "episode_title": "Love 2.0: How to Fix Your Marriage, Part 2",
-    "release_date": "2025-10-06 19:16:46",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/29f20135-17cd-4d9c-8e7d-7761cc5fd3fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=29f20135-17cd-4d9c-8e7d-7761cc5fd3fa&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "6e4ffdd2-a002-11f0-89d8-4717d46844d3",
-    "episode_title": "JRE MMA Show #170 with Michael \"Venom\" Page",
-    "release_date": "2025-10-03 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9085882241.mp3?updated=1759511092",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "e5d0c900-9f11-11f0-ace1-2f96d2930197",
-    "episode_title": "#2388 - Lionel Richie",
-    "release_date": "2025-10-02 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9761329510.mp3?updated=1759423225",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "c6603f0e-9e7d-11f0-bc1c-530ec1e08ad8",
-    "episode_title": "#2387 - Gregg Braden",
-    "release_date": "2025-10-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9624267000.mp3?updated=1759335681",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "fc82827a-9e11-11f0-9e84-f36f8c021099",
-    "episode_title": "#2386 - The Red Clay Strays",
-    "release_date": "2025-09-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097",
-    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "8145a22a-654a-418a-ac17-b36f000e7c3c",
@@ -126,6 +91,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "e9ba8045-0d6f-473a-906e-ebe2744a2a67",
+    "episode_title": "Love 2.0: How to Fix Your Marriage, Part 2",
+    "release_date": "2025-10-06 19:16:46",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/29f20135-17cd-4d9c-8e7d-7761cc5fd3fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=29f20135-17cd-4d9c-8e7d-7761cc5fd3fa&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "20d19b89-a1bb-4e40-8fbe-48173237b3ba",
+    "episode_title": "Hidden Levels #1: Mr. Boomshakalaka",
+    "release_date": "2025-10-07 15:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "7c3ff50d-2817-4427-ba73-adcf31708302",
     "episode_title": "Get Played with Roman Mars and Ben Brock Johnson",
     "release_date": "2025-10-03 17:30:00",
@@ -133,11 +112,32 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "e1d1ce1d-2d2b-454d-b913-e954b467d0b3",
-    "episode_title": "The Power Broker #13: Drop Dead City",
-    "release_date": "2025-09-30 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "48838e36-a334-11f0-b541-ab90e68229f8",
+    "episode_title": "#2389 - Sal Vulcano",
+    "release_date": "2025-10-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3614771186.mp3?updated=1759854556",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6e4ffdd2-a002-11f0-89d8-4717d46844d3",
+    "episode_title": "JRE MMA Show #170 with Michael \"Venom\" Page",
+    "release_date": "2025-10-03 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9085882241.mp3?updated=1759511092",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "e5d0c900-9f11-11f0-ace1-2f96d2930197",
+    "episode_title": "#2388 - Lionel Richie",
+    "release_date": "2025-10-02 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9761329510.mp3?updated=1759423225",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "c6603f0e-9e7d-11f0-bc1c-530ec1e08ad8",
+    "episode_title": "#2387 - Gregg Braden",
+    "release_date": "2025-10-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9624267000.mp3?updated=1759335681",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "gid://art19-episode-locator/V0/VrGjfLFFkjm9s6fEMmGBYUI-l0kABBrBDQyKfXVTJt4",
@@ -168,11 +168,18 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/rwzqqPxVUzBeN42USCzGGj6dtlyoo3lGakrwK5QgctI",
-    "episode_title": "#829: James Nestor \u2014 Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance ",
-    "release_date": "2025-09-30 18:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "b8605bd8-76d2-11ef-92d1-8b1181cac76d",
+    "episode_title": "Still Existing and Bucket Listing: The Moth Radio Hour",
+    "release_date": "2025-10-07 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "edbca62e-76d2-11ef-a8c5-2747c0fe0475",
+    "episode_title": "Embraces and Egg Timers: The Moth Podcast ",
+    "release_date": "2025-10-03 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "8fb9a760-cecc-41c7-bf87-ae799e629c3f",
@@ -187,27 +194,6 @@
     "release_date": "2025-10-02 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/074512eb-a369-4d15-aab7-d087661121da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=074512eb-a369-4d15-aab7-d087661121da&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "c93fad7c-dbd6-449c-b860-d85bda3779ad",
-    "episode_title": "\"Kirsten Dunst\"",
-    "release_date": "2025-10-06 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "b8605bd8-76d2-11ef-92d1-8b1181cac76d",
-    "episode_title": "Still Existing and Bucket Listing: The Moth Radio Hour",
-    "release_date": "2025-10-07 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "edbca62e-76d2-11ef-a8c5-2747c0fe0475",
-    "episode_title": "Embraces and Egg Timers: The Moth Podcast ",
-    "release_date": "2025-10-03 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/7pSXU4pvg0R8zDw8vETLbVhboXHigPkxBIH2ZzGKGvA",
@@ -229,5 +215,12 @@
     "release_date": "2025-10-01 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "c93fad7c-dbd6-449c-b860-d85bda3779ad",
+    "episode_title": "\"Kirsten Dunst\"",
+    "release_date": "2025-10-06 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

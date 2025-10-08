@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-07 12:24:40
-
-## Freakonomics Radio
-
-### 648. The Merger You Never Knew You Wanted
-
-**Released:** 2025-10-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
-
----
+Last updated: 2025-10-08 00:54:52
 
 ## TED Talks Daily
+
+### Inside the Gaza peace plan | Ian Bremmer
+
+**Released:** 2025-10-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e44681965488b63a43da2d/media.mp3)
+
+---
 
 ### Beyond the Talk: Deja Foxx on finding alternative online spaces
 
@@ -56,11 +44,23 @@ Last updated: 2025-10-07 12:24:40
 
 ---
 
-### Can AI make us more human? A social psychologist and a business leader answer | Heidi Grant and Barry Cooper
+## This American Life
 
-**Released:** 2025-10-03 15:28:32
+### 869: Harold
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ddad1609b1c365e40823c0/media.mp3)
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 648. The Merger You Never Knew You Wanted
+
+**Released:** 2025-10-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fcfa16d9-e6ce-4aed-9d2f-322f1a459927/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fcfa16d9-e6ce-4aed-9d2f-322f1a459927&feed=Y8lFbOT4)
 
 ---
 
@@ -79,50 +79,6 @@ Last updated: 2025-10-07 12:24:40
 **Released:** 2025-10-01 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1309901593.mp3?t=podcast&e=nx-s1-5558425&p=510289&d=1937&size=31005136)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Fix Your Marriage, Part 2
-
-**Released:** 2025-10-06 19:16:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/29f20135-17cd-4d9c-8e7d-7761cc5fd3fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=29f20135-17cd-4d9c-8e7d-7761cc5fd3fa&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### JRE MMA Show #170 with Michael "Venom" Page
-
-**Released:** 2025-10-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9085882241.mp3?updated=1759511092)
-
----
-
-### #2388 - Lionel Richie
-
-**Released:** 2025-10-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9761329510.mp3?updated=1759423225)
-
----
-
-### #2387 - Gregg Braden
-
-**Released:** 2025-10-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9624267000.mp3?updated=1759335681)
-
----
-
-### #2386 - The Red Clay Strays
-
-**Released:** 2025-09-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2750594396.mp3?updated=1759251097)
 
 ---
 
@@ -160,7 +116,25 @@ Last updated: 2025-10-07 12:24:40
 
 ---
 
+## Hidden Brain
+
+### Love 2.0: How to Fix Your Marriage, Part 2
+
+**Released:** 2025-10-06 19:16:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/29f20135-17cd-4d9c-8e7d-7761cc5fd3fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=29f20135-17cd-4d9c-8e7d-7761cc5fd3fa&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
+
+### Hidden Levels #1: Mr. Boomshakalaka
+
+**Released:** 2025-10-07 15:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO)
+
+---
 
 ### Get Played with Roman Mars and Ben Brock Johnson
 
@@ -170,11 +144,37 @@ Last updated: 2025-10-07 12:24:40
 
 ---
 
-### The Power Broker #13: Drop Dead City
+## The Joe Rogan Experience
 
-**Released:** 2025-09-30 17:30:00
+### #2389 - Sal Vulcano
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6b53d733-efdc-4a87-8ca1-6450947d9204/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6b53d733-efdc-4a87-8ca1-6450947d9204&feed=BqbsxVfO)
+**Released:** 2025-10-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3614771186.mp3?updated=1759854556)
+
+---
+
+### JRE MMA Show #170 with Michael "Venom" Page
+
+**Released:** 2025-10-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9085882241.mp3?updated=1759511092)
+
+---
+
+### #2388 - Lionel Richie
+
+**Released:** 2025-10-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9761329510.mp3?updated=1759423225)
+
+---
+
+### #2387 - Gregg Braden
+
+**Released:** 2025-10-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9624267000.mp3?updated=1759335681)
 
 ---
 
@@ -214,13 +214,21 @@ Last updated: 2025-10-07 12:24:40
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #829: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance 
+### Still Existing and Bucket Listing: The Moth Radio Hour
 
-**Released:** 2025-09-30 18:00:00
+**Released:** 2025-10-07 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ed2a0ab-2b93-4a2a-b472-90379f6ffd85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
+
+---
+
+### Embraces and Egg Timers: The Moth Podcast 
+
+**Released:** 2025-10-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
 
 ---
 
@@ -239,34 +247,6 @@ Last updated: 2025-10-07 12:24:40
 **Released:** 2025-10-02 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/074512eb-a369-4d15-aab7-d087661121da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=074512eb-a369-4d15-aab7-d087661121da&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Kirsten Dunst"
-
-**Released:** 2025-10-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Still Existing and Bucket Listing: The Moth Radio Hour
-
-**Released:** 2025-10-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
-
----
-
-### Embraces and Egg Timers: The Moth Podcast 
-
-**Released:** 2025-10-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4979098382.mp3?updated=1758729300)
 
 ---
 
@@ -293,6 +273,16 @@ Last updated: 2025-10-07 12:24:40
 **Released:** 2025-10-01 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/029ec5d4-d061-43ff-8b5e-bd3a68ace6e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Kirsten Dunst"
+
+**Released:** 2025-10-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
