@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-11 00:53:02
-
-## Freakonomics Radio
-
-### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
-
-**Released:** 2025-10-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
-
----
+Last updated: 2025-10-11 12:20:40
 
 ## TED Talks Daily
 
@@ -61,6 +41,26 @@ Last updated: 2025-10-11 00:53:02
 **Released:** 2025-10-06 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dfe92959fa988cc4271dff/media.mp3)
+
+---
+
+## This American Life
+
+### 869: Harold
+
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
+
+**Released:** 2025-10-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
 
 ---
 
@@ -146,6 +146,14 @@ Last updated: 2025-10-11 00:53:02
 
 ## Stuff You Should Know
 
+### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
+
+**Released:** 2025-10-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aed58415-1672-4704-b9e9-b36f0105a0e4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Everyone Deserves A Good Death
 
 **Released:** 2025-10-09 09:00:00
@@ -167,14 +175,6 @@ Last updated: 2025-10-11 00:53:02
 **Released:** 2025-10-07 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8145a22a-654a-418a-ac17-b36f000e7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Mail Order Marriages Work
-
-**Released:** 2025-10-04 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc45ffb3-348f-40ba-9041-b3680147204d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -206,6 +206,16 @@ Last updated: 2025-10-11 00:53:02
 
 ---
 
+## The Tim Ferriss Show
+
+### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+
+**Released:** 2025-10-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Banned Books Week: The Moth Podcast
@@ -221,24 +231,6 @@ Last updated: 2025-10-11 00:53:02
 **Released:** 2025-10-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Hot Athens
-
-**Released:** 2025-10-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
-
----
-
-### Charlie Sheen
-
-**Released:** 2025-10-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
 
 ---
 
@@ -276,6 +268,24 @@ Last updated: 2025-10-11 00:53:02
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Hot Athens
+
+**Released:** 2025-10-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
+
+---
+
+### Charlie Sheen
+
+**Released:** 2025-10-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Paul Thomas Anderson"
@@ -291,16 +301,6 @@ Last updated: 2025-10-11 00:53:02
 **Released:** 2025-10-06 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
-
-**Released:** 2025-10-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
