@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-10 12:24:27
+Last updated: 2025-10-11 00:53:02
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-10-10 12:24:27
 ---
 
 ## TED Talks Daily
+
+### The hidden cost of buying gold | Claudia Vega
+
+**Released:** 2025-10-10 15:01:14
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e7d0eccf3fb48800791012/media.mp3)
+
+---
 
 ### How we’re turning pollution into toys, toothpaste and more | Xu Hao
 
@@ -56,29 +64,21 @@ Last updated: 2025-10-10 12:24:27
 
 ---
 
-### Going viral taught me the internet is broken — but fixable | Deja Foxx
+## Planet Money
 
-**Released:** 2025-10-06 15:00:00
+### How the government got hedge funded
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dfe93b1300c48ae105d960/media.mp3)
+**Released:** 2025-10-10 20:46:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6935404481.mp3?t=podcast&e=nx-s1-5565181&p=510289&d=1690&size=27045808)
 
 ---
-
-## Planet Money
 
 ### Two ways AI is changing the business of crime (Two Indicators)
 
 **Released:** 2025-10-08 07:00:05
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527)
-
----
-
-### BOARD GAMES 2: Making our prototype
-
-**Released:** 2025-10-04 00:18:34
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1105581200.mp3?t=podcast&e=nx-s1-5561924&p=510289&d=2141&size=34266471)
 
 ---
 
@@ -93,6 +93,14 @@ Last updated: 2025-10-10 12:24:27
 ---
 
 ## The Joe Rogan Experience
+
+### #2392 - John Kiriakou
+
+**Released:** 2025-10-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4655978057.mp3?updated=1760116931)
+
+---
 
 ### #2391 - Duncan Trussell
 
@@ -118,29 +126,21 @@ Last updated: 2025-10-10 12:24:27
 
 ---
 
-### JRE MMA Show #170 with Michael "Venom" Page
+## 99% Invisible
 
-**Released:** 2025-10-03 17:00:00
+### Hidden Levels #2: Stick It to 'Em
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9085882241.mp3?updated=1759511092)
+**Released:** 2025-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
 
 ---
-
-## 99% Invisible
 
 ### Hidden Levels #1: Mr. Boomshakalaka
 
 **Released:** 2025-10-07 15:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO)
-
----
-
-### Get Played with Roman Mars and Ben Brock Johnson
-
-**Released:** 2025-10-03 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f3bc0c88-c20c-47d2-8865-67c71ba52e3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f3bc0c88-c20c-47d2-8865-67c71ba52e3b&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +178,24 @@ Last updated: 2025-10-10 12:24:27
 
 ---
 
+## How I Built This
+
+### Advice Line with Michael Dubin of Dollar Shave Club
+
+**Released:** 2025-10-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
+
+**Released:** 2025-10-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Alabama Murders - Part 3: A Peculiar Institution 
@@ -206,24 +224,6 @@ Last updated: 2025-10-10 12:24:27
 
 ---
 
-## How I Built This
-
-### Advice Line with Michael Dubin of Dollar Shave Club
-
-**Released:** 2025-10-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
-
-**Released:** 2025-10-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Hot Athens
@@ -239,24 +239,6 @@ Last updated: 2025-10-10 12:24:27
 **Released:** 2025-10-06 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Paul Thomas Anderson"
-
-**Released:** 2025-10-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
-
----
-
-### "Kirsten Dunst"
-
-**Released:** 2025-10-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
@@ -291,6 +273,24 @@ Last updated: 2025-10-10 12:24:27
 **Released:** 2025-10-06 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e6ed5330-71c9-4f9a-92af-18b73f44e450.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Paul Thomas Anderson"
+
+**Released:** 2025-10-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
+
+---
+
+### "Kirsten Dunst"
+
+**Released:** 2025-10-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
