@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-11 12:20:40
+Last updated: 2025-10-12 00:58:22
+
+## Freakonomics Radio
+
+### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
+
+**Released:** 2025-10-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 869: Harold
+
+**Released:** 2025-10-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
+
+---
 
 ## TED Talks Daily
+
+### How to raise confident kids in an age of anxiety | Lenore Skenazy
+
+**Released:** 2025-10-11 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e530c5d798804c9ea8d726/media.mp3)
+
+---
 
 ### The hidden cost of buying gold | Claudia Vega
 
@@ -36,34 +64,6 @@ Last updated: 2025-10-11 12:20:40
 
 ---
 
-### Beyond the Talk: Deja Foxx on finding alternative online spaces
-
-**Released:** 2025-10-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68dfe92959fa988cc4271dff/media.mp3)
-
----
-
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
-
----
-
-## Freakonomics Radio
-
-### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
-
-**Released:** 2025-10-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### How the government got hedge funded
@@ -79,6 +79,40 @@ Last updated: 2025-10-11 12:20:40
 **Released:** 2025-10-08 07:00:05
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527)
+
+---
+
+## Stuff You Should Know
+
+### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
+
+**Released:** 2025-10-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aed58415-1672-4704-b9e9-b36f0105a0e4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Everyone Deserves A Good Death
+
+**Released:** 2025-10-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1efa5974-39d6-4306-8a39-b370017bdd7d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: The Call is Coming... FROM INSIDE THE HOUSE
+
+**Released:** 2025-10-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb213020-281f-4f61-8ea5-b36800e333cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Happy Place of Saturday Morning Cartoons
+
+**Released:** 2025-10-07 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8145a22a-654a-418a-ac17-b36f000e7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -144,40 +178,6 @@ Last updated: 2025-10-11 12:20:40
 
 ---
 
-## Stuff You Should Know
-
-### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
-
-**Released:** 2025-10-11 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aed58415-1672-4704-b9e9-b36f0105a0e4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Everyone Deserves A Good Death
-
-**Released:** 2025-10-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1efa5974-39d6-4306-8a39-b370017bdd7d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The Call is Coming... FROM INSIDE THE HOUSE
-
-**Released:** 2025-10-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb213020-281f-4f61-8ea5-b36800e333cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Happy Place of Saturday Morning Cartoons
-
-**Released:** 2025-10-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8145a22a-654a-418a-ac17-b36f000e7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Michael Dubin of Dollar Shave Club
@@ -206,13 +206,21 @@ Last updated: 2025-10-11 12:20:40
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+### Hot Athens
 
-**Released:** 2025-10-10 09:00:00
+**Released:** 2025-10-09 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
+
+---
+
+### Charlie Sheen
+
+**Released:** 2025-10-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
 
 ---
 
@@ -231,6 +239,24 @@ Last updated: 2025-10-11 12:20:40
 **Released:** 2025-10-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Paul Thomas Anderson"
+
+**Released:** 2025-10-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
+
+---
+
+### "Kirsten Dunst"
+
+**Released:** 2025-10-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
 
 ---
 
@@ -268,39 +294,13 @@ Last updated: 2025-10-11 12:20:40
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Hot Athens
+### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
 
-**Released:** 2025-10-09 04:05:00
+**Released:** 2025-10-10 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
-
----
-
-### Charlie Sheen
-
-**Released:** 2025-10-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Paul Thomas Anderson"
-
-**Released:** 2025-10-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
-
----
-
-### "Kirsten Dunst"
-
-**Released:** 2025-10-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
