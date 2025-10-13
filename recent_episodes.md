@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-12 12:21:09
+Last updated: 2025-10-13 00:59:50
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-10-12 12:21:09
 **Released:** 2025-10-10 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 870: My Other Self
+
+**Released:** 2025-10-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-10-12 12:21:09
 **Released:** 2025-10-08 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e52bc2f33983f40382c38d/media.mp3)
-
----
-
-## This American Life
-
-### 869: Harold
-
-**Released:** 2025-10-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3)
 
 ---
 
@@ -126,6 +126,24 @@ Last updated: 2025-10-12 12:21:09
 
 ---
 
+## 99% Invisible
+
+### Hidden Levels #2: Stick It to 'Em
+
+**Released:** 2025-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #1: Mr. Boomshakalaka
+
+**Released:** 2025-10-07 15:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
@@ -160,21 +178,31 @@ Last updated: 2025-10-12 12:21:09
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Hidden Levels #2: Stick It to 'Em
+### The Alabama Murders - Part 3: A Peculiar Institution 
 
-**Released:** 2025-10-10 15:00:00
+**Released:** 2025-10-09 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Hidden Levels #1: Mr. Boomshakalaka
+## The Moth
 
-**Released:** 2025-10-07 15:30:00
+### Banned Books Week: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO)
+**Released:** 2025-10-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
+
+---
+
+### Still Existing and Bucket Listing: The Moth Radio Hour
+
+**Released:** 2025-10-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
 
 ---
 
@@ -193,16 +221,6 @@ Last updated: 2025-10-12 12:21:09
 **Released:** 2025-10-06 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 3: A Peculiar Institution 
-
-**Released:** 2025-10-09 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -255,24 +273,6 @@ Last updated: 2025-10-12 12:21:09
 **Released:** 2025-10-06 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e6ed5330-71c9-4f9a-92af-18b73f44e450.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Banned Books Week: The Moth Podcast
-
-**Released:** 2025-10-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
-
----
-
-### Still Existing and Bucket Listing: The Moth Radio Hour
-
-**Released:** 2025-10-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
 
 ---
 
