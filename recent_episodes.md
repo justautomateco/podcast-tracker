@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-13 00:59:50
+Last updated: 2025-10-13 12:24:37
 
 ## Freakonomics Radio
 
@@ -178,6 +178,16 @@ Last updated: 2025-10-13 00:59:50
 
 ---
 
+## The Tim Ferriss Show
+
+### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+
+**Released:** 2025-10-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Alabama Murders - Part 3: A Peculiar Institution 
@@ -188,43 +198,15 @@ Last updated: 2025-10-13 00:59:50
 
 ---
 
-## The Moth
-
-### Banned Books Week: The Moth Podcast
-
-**Released:** 2025-10-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
-
----
-
-### Still Existing and Bucket Listing: The Moth Radio Hour
-
-**Released:** 2025-10-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
-
----
-
-## How I Built This
-
-### Advice Line with Michael Dubin of Dollar Shave Club
-
-**Released:** 2025-10-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Pressbox and Tide Cleaners: Vijen Patel. The $1.99 Gamble That Built a National Brand
-
-**Released:** 2025-10-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c313102d-c6f8-4404-a016-73bb19c5f17e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
+
+### Rose Byrne
+
+**Released:** 2025-10-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
+
+---
 
 ### Hot Athens
 
@@ -234,15 +216,15 @@ Last updated: 2025-10-13 00:59:50
 
 ---
 
-### Charlie Sheen
+## Armchair Expert
 
-**Released:** 2025-10-06 04:05:00
+### Sharon Horgan
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3d063876-096a-460d-b814-3db48ec4c6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3d063876-096a-460d-b814-3db48ec4c6c9&feed=dHoohVNH)
+**Released:** 2025-10-13 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b299e65-04cb-4566-be6b-57d2303b1d42.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: Moving
 
@@ -268,39 +250,57 @@ Last updated: 2025-10-13 00:59:50
 
 ---
 
-### Charlie Sheen
+## The Moth
 
-**Released:** 2025-10-06 07:35:00
+### Banned Books Week: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e6ed5330-71c9-4f9a-92af-18b73f44e450.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
+
+---
+
+### Still Existing and Bucket Listing: The Moth Radio Hour
+
+**Released:** 2025-10-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
+
+---
+
+## How I Built This
+
+### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
+
+**Released:** 2025-10-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Michael Dubin of Dollar Shave Club
+
+**Released:** 2025-10-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## SmartLess 
+
+### "Julia Roberts"
+
+**Released:** 2025-10-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
+
+---
 
 ### "RE-RELEASE: Paul Thomas Anderson"
 
 **Released:** 2025-10-09 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
-
----
-
-### "Kirsten Dunst"
-
-**Released:** 2025-10-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a2271908-2d02-4fb8-aca5-3d3bb69c7475/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a2271908-2d02-4fb8-aca5-3d3bb69c7475&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
-
-**Released:** 2025-10-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
