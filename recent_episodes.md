@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-14 00:55:59
+Last updated: 2025-10-14 12:25:28
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-10-14 00:55:59
 **Released:** 2025-10-10 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 870: My Other Self
+
+**Released:** 2025-10-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-10-14 00:55:59
 **Released:** 2025-10-09 15:33:31
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e52f99d798804c9ea84806/media.mp3)
-
----
-
-## This American Life
-
-### 870: My Other Self
-
-**Released:** 2025-10-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
 
 ---
 
@@ -116,6 +116,16 @@ Last updated: 2025-10-14 00:55:59
 
 ---
 
+## Hidden Brain
+
+### Love 2.0: Reimagining Our Relationships
+
+**Released:** 2025-10-13 20:55:20
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Hidden Levels #2: Stick It to 'Em
@@ -134,17 +144,15 @@ Last updated: 2025-10-14 00:55:59
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### Love 2.0: Reimagining Our Relationships
+### We want our MTV!
 
-**Released:** 2025-10-13 20:55:20
+**Released:** 2025-10-14 09:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1132a291-ae2f-4dac-a592-b37201021712/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
 
@@ -170,31 +178,21 @@ Last updated: 2025-10-14 00:55:59
 
 ---
 
-### The Happy Place of Saturday Morning Cartoons
+## The Moth
 
-**Released:** 2025-10-07 09:00:00
+### Grit and Gumption: The Moth Radio Hour
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8145a22a-654a-418a-ac17-b36f000e7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-10-14 04:25:00
 
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 3: A Peculiar Institution 
-
-**Released:** 2025-10-09 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740)
 
 ---
 
-## The Tim Ferriss Show
+### Banned Books Week: The Moth Podcast
 
-### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+**Released:** 2025-10-10 04:25:00
 
-**Released:** 2025-10-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
 
 ---
 
@@ -216,24 +214,6 @@ Last updated: 2025-10-14 00:55:59
 
 ---
 
-## The Moth
-
-### Banned Books Week: The Moth Podcast
-
-**Released:** 2025-10-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
-
----
-
-### Still Existing and Bucket Listing: The Moth Radio Hour
-
-**Released:** 2025-10-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1810866358.mp3?updated=1759271370)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Rose Byrne
@@ -249,6 +229,16 @@ Last updated: 2025-10-14 00:55:59
 **Released:** 2025-10-09 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders - Part 3: A Peculiar Institution 
+
+**Released:** 2025-10-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -271,6 +261,14 @@ Last updated: 2025-10-14 00:55:59
 ---
 
 ## Armchair Expert
+
+### Mom's Car: Nate Tuck
+
+**Released:** 2025-10-14 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a79ce9e-855c-4998-ad7b-208677b70719.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Sharon Horgan
 
@@ -296,11 +294,13 @@ Last updated: 2025-10-14 00:55:59
 
 ---
 
-### Mom's Car: Jackie Tohn
+## The Tim Ferriss Show
 
-**Released:** 2025-10-07 07:35:00
+### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b70b2c56-1588-452b-8cc0-e7ee3e2a4dc9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
