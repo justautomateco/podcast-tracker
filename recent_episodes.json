@@ -1,5 +1,12 @@
 [
   {
+    "guid": "cc54b05f-a59f-4f04-8bf9-2c05a90f6c5f",
+    "episode_title": "How Can We Break Our Addiction to Contempt? (Update)",
+    "release_date": "2025-10-15 00:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "7201f18b-7bd5-4c8c-9d8d-026d9ee00d01",
     "episode_title": "649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?",
     "release_date": "2025-10-10 10:00:00",
@@ -7,11 +14,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46019 at https://www.thisamericanlife.org",
-    "episode_title": "870: My Other Self",
-    "release_date": "2025-10-12 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3",
-    "podcast_name": "This American Life"
+    "guid": "68ee64bcc68aefb908faca20",
+    "episode_title": "A pastry chef works his chocolatier magic \u2014 live | Amaury Guichon",
+    "release_date": "2025-10-14 15:00:59",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ee64bcc68aefb908faca20/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "68ed1444f513ad2b8151057d",
@@ -42,11 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68e52f99d798804c9ea84806",
-    "episode_title": "How we\u2019re turning pollution into toys, toothpaste and more | Xu Hao",
-    "release_date": "2025-10-09 15:33:31",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e52f99d798804c9ea84806/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46019 at https://www.thisamericanlife.org",
+    "episode_title": "870: My Other Self",
+    "release_date": "2025-10-12 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "59aab8a8-d97c-4805-bc50-487b87f6f875",
@@ -61,6 +68,27 @@
     "release_date": "2025-10-08 07:00:05",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "defa15aa-d749-4812-999f-8aefb0cae886",
+    "episode_title": "Love 2.0: Reimagining Our Relationships",
+    "release_date": "2025-10-13 20:55:20",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "1248b832-09e2-491e-a99b-d4a2ca75d1b4",
+    "episode_title": "Hidden Levels #3: This Game Wants YOU",
+    "release_date": "2025-10-14 15:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "622b1d83-458d-4518-9453-ea36475c751f",
+    "episode_title": "Hidden Levels #2: Stick It to 'Em",
+    "release_date": "2025-10-10 15:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "9429df34-a58c-11f0-96c9-73762416e63c",
@@ -82,34 +110,6 @@
     "release_date": "2025-10-08 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT8840768743.mp3?updated=1759943710",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "48838e36-a334-11f0-b541-ab90e68229f8",
-    "episode_title": "#2389 - Sal Vulcano",
-    "release_date": "2025-10-07 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3614771186.mp3?updated=1759854556",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "defa15aa-d749-4812-999f-8aefb0cae886",
-    "episode_title": "Love 2.0: Reimagining Our Relationships",
-    "release_date": "2025-10-13 20:55:20",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "622b1d83-458d-4518-9453-ea36475c751f",
-    "episode_title": "Hidden Levels #2: Stick It to 'Em",
-    "release_date": "2025-10-10 15:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "20d19b89-a1bb-4e40-8fbe-48173237b3ba",
-    "episode_title": "Hidden Levels #1: Mr. Boomshakalaka",
-    "release_date": "2025-10-07 15:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "1132a291-ae2f-4dac-a592-b37201021712",
@@ -140,20 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "b88493cc-76d2-11ef-92d1-a724f100d48e",
-    "episode_title": "Grit and Gumption: The Moth Radio Hour",
-    "release_date": "2025-10-14 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "5977c148-97c8-11f0-9c60-27454f2b9a90",
-    "episode_title": "Banned Books Week: The Moth Podcast",
-    "release_date": "2025-10-10 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/1Ap3HylW9s5ECq5zWhQsaDCKsbMhm9Qe_IqdyZx8KYU",
     "episode_title": "Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.",
     "release_date": "2025-10-13 07:10:00",
@@ -168,6 +154,13 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "9abf0967-6a68-452e-8489-b36e0157b201",
+    "episode_title": "The Alabama Murders - Part 3: A Peculiar Institution ",
+    "release_date": "2025-10-09 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "8c3b3dbf-36db-4bee-b22f-5731165736e9",
     "episode_title": "Rose Byrne",
     "release_date": "2025-10-13 04:05:00",
@@ -180,27 +173,6 @@
     "release_date": "2025-10-09 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "9abf0967-6a68-452e-8489-b36e0157b201",
-    "episode_title": "The Alabama Murders - Part 3: A Peculiar Institution ",
-    "release_date": "2025-10-09 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "720c56ed-1e88-41c8-b731-3f4d2483c8f2",
-    "episode_title": "\"Julia Roberts\"",
-    "release_date": "2025-10-13 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "0fe4f4cb-2a58-4475-828e-7e1d2586c289",
-    "episode_title": "\"RE-RELEASE: Paul Thomas Anderson\"",
-    "release_date": "2025-10-09 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/gUqVsDciX6hb5jZE-T6YJ4XlVY_ss9WQw58vi5pe3QQ",
@@ -231,10 +203,38 @@
     "podcast_name": "Armchair Expert"
   },
   {
+    "guid": "b88493cc-76d2-11ef-92d1-a724f100d48e",
+    "episode_title": "Grit and Gumption: The Moth Radio Hour",
+    "release_date": "2025-10-14 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "5977c148-97c8-11f0-9c60-27454f2b9a90",
+    "episode_title": "Banned Books Week: The Moth Podcast",
+    "release_date": "2025-10-10 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/VE8meKDv3DtbyHu6IoDaEYjOh6--1kSeGRrkZgKX9RA",
     "episode_title": "#830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate \u2014 Realistic Economics, Avoiding The Winner\u2019s Curse, Using Temptation Bundling, and Going Against the Establishment",
     "release_date": "2025-10-10 09:00:00",
     "mp3_url": "https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "720c56ed-1e88-41c8-b731-3f4d2483c8f2",
+    "episode_title": "\"Julia Roberts\"",
+    "release_date": "2025-10-13 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "0fe4f4cb-2a58-4475-828e-7e1d2586c289",
+    "episode_title": "\"RE-RELEASE: Paul Thomas Anderson\"",
+    "release_date": "2025-10-09 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

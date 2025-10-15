@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-14 12:25:28
+Last updated: 2025-10-15 00:57:31
 
 ## Freakonomics Radio
+
+### How Can We Break Our Addiction to Contempt? (Update)
+
+**Released:** 2025-10-15 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
+
+---
 
 ### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
 
@@ -12,17 +20,15 @@ Last updated: 2025-10-14 12:25:28
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 870: My Other Self
+### A pastry chef works his chocolatier magic — live | Amaury Guichon
 
-**Released:** 2025-10-12 18:00:00
+**Released:** 2025-10-14 15:00:59
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ee64bcc68aefb908faca20/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The flourishing future of women's sports | Kate Johnson
 
@@ -56,11 +62,13 @@ Last updated: 2025-10-14 12:25:28
 
 ---
 
-### How we’re turning pollution into toys, toothpaste and more | Xu Hao
+## This American Life
 
-**Released:** 2025-10-09 15:33:31
+### 870: My Other Self
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e52f99d798804c9ea84806/media.mp3)
+**Released:** 2025-10-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
 
 ---
 
@@ -79,6 +87,34 @@ Last updated: 2025-10-14 12:25:28
 **Released:** 2025-10-08 07:00:05
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: Reimagining Our Relationships
+
+**Released:** 2025-10-13 20:55:20
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Hidden Levels #3: This Game Wants YOU
+
+**Released:** 2025-10-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #2: Stick It to 'Em
+
+**Released:** 2025-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
 
 ---
 
@@ -105,42 +141,6 @@ Last updated: 2025-10-14 12:25:28
 **Released:** 2025-10-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8840768743.mp3?updated=1759943710)
-
----
-
-### #2389 - Sal Vulcano
-
-**Released:** 2025-10-07 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3614771186.mp3?updated=1759854556)
-
----
-
-## Hidden Brain
-
-### Love 2.0: Reimagining Our Relationships
-
-**Released:** 2025-10-13 20:55:20
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Hidden Levels #2: Stick It to 'Em
-
-**Released:** 2025-10-10 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #1: Mr. Boomshakalaka
-
-**Released:** 2025-10-07 15:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ca82483e-895b-4528-b730-a37e61ea83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ca82483e-895b-4528-b730-a37e61ea83c0&feed=BqbsxVfO)
 
 ---
 
@@ -178,24 +178,6 @@ Last updated: 2025-10-14 12:25:28
 
 ---
 
-## The Moth
-
-### Grit and Gumption: The Moth Radio Hour
-
-**Released:** 2025-10-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740)
-
----
-
-### Banned Books Week: The Moth Podcast
-
-**Released:** 2025-10-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
-
----
-
 ## How I Built This
 
 ### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
@@ -214,6 +196,16 @@ Last updated: 2025-10-14 12:25:28
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 3: A Peculiar Institution 
+
+**Released:** 2025-10-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Rose Byrne
@@ -229,34 +221,6 @@ Last updated: 2025-10-14 12:25:28
 **Released:** 2025-10-09 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 3: A Peculiar Institution 
-
-**Released:** 2025-10-09 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/9abf0967-6a68-452e-8489-b36e0157b201/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## SmartLess 
-
-### "Julia Roberts"
-
-**Released:** 2025-10-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Paul Thomas Anderson"
-
-**Released:** 2025-10-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
 
 ---
 
@@ -294,6 +258,24 @@ Last updated: 2025-10-14 12:25:28
 
 ---
 
+## The Moth
+
+### Grit and Gumption: The Moth Radio Hour
+
+**Released:** 2025-10-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740)
+
+---
+
+### Banned Books Week: The Moth Podcast
+
+**Released:** 2025-10-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4066735969.mp3?updated=1759956764)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
@@ -301,6 +283,24 @@ Last updated: 2025-10-14 12:25:28
 **Released:** 2025-10-10 09:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Julia Roberts"
+
+**Released:** 2025-10-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Paul Thomas Anderson"
+
+**Released:** 2025-10-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
 
 ---
 
