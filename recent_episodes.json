@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46019 at https://www.thisamericanlife.org",
+    "episode_title": "870: My Other Self",
+    "release_date": "2025-10-12 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "68ee64bcc68aefb908faca20",
     "episode_title": "A pastry chef works his chocolatier magic \u2014 live | Amaury Guichon",
     "release_date": "2025-10-14 15:00:59",
@@ -49,24 +56,10 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "46019 at https://www.thisamericanlife.org",
-    "episode_title": "870: My Other Self",
-    "release_date": "2025-10-12 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "59aab8a8-d97c-4805-bc50-487b87f6f875",
     "episode_title": "How the government got hedge funded",
     "release_date": "2025-10-10 20:46:00",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6935404481.mp3?t=podcast&e=nx-s1-5565181&p=510289&d=1690&size=27045808",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "23888612-b034-4ed7-bce9-6c7be9e2f761",
-    "episode_title": "Two ways AI is changing the business of crime (Two Indicators)",
-    "release_date": "2025-10-08 07:00:05",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527",
     "podcast_name": "Planet Money"
   },
   {
@@ -75,20 +68,6 @@
     "release_date": "2025-10-13 20:55:20",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "1248b832-09e2-491e-a99b-d4a2ca75d1b4",
-    "episode_title": "Hidden Levels #3: This Game Wants YOU",
-    "release_date": "2025-10-14 15:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "622b1d83-458d-4518-9453-ea36475c751f",
-    "episode_title": "Hidden Levels #2: Stick It to 'Em",
-    "release_date": "2025-10-10 15:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "9429df34-a58c-11f0-96c9-73762416e63c",
@@ -112,6 +91,27 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "1248b832-09e2-491e-a99b-d4a2ca75d1b4",
+    "episode_title": "Hidden Levels #3: This Game Wants YOU",
+    "release_date": "2025-10-14 15:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "622b1d83-458d-4518-9453-ea36475c751f",
+    "episode_title": "Hidden Levels #2: Stick It to 'Em",
+    "release_date": "2025-10-10 15:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "aa3ffc4b-32f8-430d-9a13-b37501292562",
+    "episode_title": "Short Stuff: China's Corpse Walkers",
+    "release_date": "2025-10-15 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aa3ffc4b-32f8-430d-9a13-b37501292562/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "1132a291-ae2f-4dac-a592-b37201021712",
     "episode_title": "We want our MTV!",
     "release_date": "2025-10-14 09:00:00",
@@ -133,27 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "fb213020-281f-4f61-8ea5-b36800e333cb",
-    "episode_title": "Short Stuff: The Call is Coming... FROM INSIDE THE HOUSE",
-    "release_date": "2025-10-08 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb213020-281f-4f61-8ea5-b36800e333cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/1Ap3HylW9s5ECq5zWhQsaDCKsbMhm9Qe_IqdyZx8KYU",
-    "episode_title": "Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.",
-    "release_date": "2025-10-13 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/oYN7gUTrA1ziCf-OCxCSPt6S9dZ8gefN6o4gzPp2r3I",
-    "episode_title": "Advice Line with Michael Dubin of Dollar Shave Club",
-    "release_date": "2025-10-09 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "9abf0967-6a68-452e-8489-b36e0157b201",
     "episode_title": "The Alabama Murders - Part 3: A Peculiar Institution ",
     "release_date": "2025-10-09 04:01:00",
@@ -161,18 +140,11 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "8c3b3dbf-36db-4bee-b22f-5731165736e9",
-    "episode_title": "Rose Byrne",
-    "release_date": "2025-10-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "309d1464-063e-4398-a70d-4e2d47b4c2be",
-    "episode_title": "Hot Athens",
-    "release_date": "2025-10-09 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/fG6e9mnjuDY28mmH22j4jE7Uss-15_W1-k5VXYTF83U",
+    "episode_title": "Andy Roddick (former professional tennis player)",
+    "release_date": "2025-10-15 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/d890d9bf-8e65-4ce6-9f56-5b8467923867.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/gUqVsDciX6hb5jZE-T6YJ4XlVY_ss9WQw58vi5pe3QQ",
@@ -196,13 +168,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/L73v_WPMbPfs0gagF3IfgAWOAuRMZLTufMs_Ya6-7xs",
-    "episode_title": "Toby Stuart (on social status)",
-    "release_date": "2025-10-08 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/4228047c-f4af-4195-83f2-65c6562431ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
     "guid": "b88493cc-76d2-11ef-92d1-a724f100d48e",
     "episode_title": "Grit and Gumption: The Moth Radio Hour",
     "release_date": "2025-10-14 04:25:00",
@@ -217,11 +182,18 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/VE8meKDv3DtbyHu6IoDaEYjOh6--1kSeGRrkZgKX9RA",
-    "episode_title": "#830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate \u2014 Realistic Economics, Avoiding The Winner\u2019s Curse, Using Temptation Bundling, and Going Against the Establishment",
-    "release_date": "2025-10-10 09:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/1Ap3HylW9s5ECq5zWhQsaDCKsbMhm9Qe_IqdyZx8KYU",
+    "episode_title": "Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.",
+    "release_date": "2025-10-13 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/oYN7gUTrA1ziCf-OCxCSPt6S9dZ8gefN6o4gzPp2r3I",
+    "episode_title": "Advice Line with Michael Dubin of Dollar Shave Club",
+    "release_date": "2025-10-09 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "720c56ed-1e88-41c8-b731-3f4d2483c8f2",
@@ -236,5 +208,33 @@
     "release_date": "2025-10-09 07:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "2edfeaa8-e1e0-4e84-b79c-647d7459902e",
+    "episode_title": "Bill Burr Live From The Fonda Theater In Hollywood",
+    "release_date": "2025-10-15 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "8c3b3dbf-36db-4bee-b22f-5731165736e9",
+    "episode_title": "Rose Byrne",
+    "release_date": "2025-10-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "309d1464-063e-4398-a70d-4e2d47b4c2be",
+    "episode_title": "Hot Athens",
+    "release_date": "2025-10-09 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/VE8meKDv3DtbyHu6IoDaEYjOh6--1kSeGRrkZgKX9RA",
+    "episode_title": "#830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate \u2014 Realistic Economics, Avoiding The Winner\u2019s Curse, Using Temptation Bundling, and Going Against the Establishment",
+    "release_date": "2025-10-10 09:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-15 00:57:31
+Last updated: 2025-10-15 12:26:12
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-10-15 00:57:31
 **Released:** 2025-10-10 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 870: My Other Self
+
+**Released:** 2025-10-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-## This American Life
-
-### 870: My Other Self
-
-**Released:** 2025-10-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
-
----
-
 ## Planet Money
 
 ### How the government got hedge funded
@@ -82,14 +82,6 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-### Two ways AI is changing the business of crime (Two Indicators)
-
-**Released:** 2025-10-08 07:00:05
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7204865836.mp3?t=podcast&e=nx-s1-5564762&p=510289&d=1179&size=18870527)
-
----
-
 ## Hidden Brain
 
 ### Love 2.0: Reimagining Our Relationships
@@ -97,24 +89,6 @@ Last updated: 2025-10-15 00:57:31
 **Released:** 2025-10-13 20:55:20
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Hidden Levels #3: This Game Wants YOU
-
-**Released:** 2025-10-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #2: Stick It to 'Em
-
-**Released:** 2025-10-10 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
 
 ---
 
@@ -144,7 +118,33 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
+## 99% Invisible
+
+### Hidden Levels #3: This Game Wants YOU
+
+**Released:** 2025-10-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #2: Stick It to 'Em
+
+**Released:** 2025-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: China's Corpse Walkers
+
+**Released:** 2025-10-15 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aa3ffc4b-32f8-430d-9a13-b37501292562/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### We want our MTV!
 
@@ -170,32 +170,6 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-### Short Stuff: The Call is Coming... FROM INSIDE THE HOUSE
-
-**Released:** 2025-10-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb213020-281f-4f61-8ea5-b36800e333cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
-
-**Released:** 2025-10-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Michael Dubin of Dollar Shave Club
-
-**Released:** 2025-10-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 3: A Peculiar Institution 
@@ -206,25 +180,15 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Rose Byrne
-
-**Released:** 2025-10-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
-
----
-
-### Hot Athens
-
-**Released:** 2025-10-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
+
+### Andy Roddick (former professional tennis player)
+
+**Released:** 2025-10-15 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d890d9bf-8e65-4ce6-9f56-5b8467923867.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mom's Car: Nate Tuck
 
@@ -250,14 +214,6 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-### Toby Stuart (on social status)
-
-**Released:** 2025-10-08 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4228047c-f4af-4195-83f2-65c6562431ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Grit and Gumption: The Moth Radio Hour
@@ -276,13 +232,21 @@ Last updated: 2025-10-15 00:57:31
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
 
-**Released:** 2025-10-10 09:00:00
+**Released:** 2025-10-13 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Michael Dubin of Dollar Shave Club
+
+**Released:** 2025-10-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e84c900e-84aa-4d3a-90f3-fb2151f8672b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -301,6 +265,42 @@ Last updated: 2025-10-15 00:57:31
 **Released:** 2025-10-09 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cf496f89-475c-48b8-b51f-bc48dfc1e78f/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cf496f89-475c-48b8-b51f-bc48dfc1e78f&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bill Burr Live From The Fonda Theater In Hollywood
+
+**Released:** 2025-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
+
+---
+
+### Rose Byrne
+
+**Released:** 2025-10-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
+
+---
+
+### Hot Athens
+
+**Released:** 2025-10-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba467b70-a7c3-4f5f-8858-c01d2b9d6c3e&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #830: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment
+
+**Released:** 2025-10-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/73b40154-c616-4ba1-af34-04c52a37a7d2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
