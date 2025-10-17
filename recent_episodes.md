@@ -1,8 +1,62 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-16 12:25:26
+Last updated: 2025-10-17 00:56:42
+
+## Serial
+
+### The Preventionist - Trailer
+
+**Released:** 2025-10-16 14:12:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
+
+---
+
+## Freakonomics Radio
+
+### How Can We Break Our Addiction to Contempt? (Update)
+
+**Released:** 2025-10-15 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
+
+---
+
+### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
+
+**Released:** 2025-10-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### An Update from Ira
+
+**Released:** 2025-10-16 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
+
+---
+
+### 870: My Other Self
+
+**Released:** 2025-10-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
+
+---
 
 ## TED Talks Daily
+
+### What it’s really like to win the lottery | Matt Pitcher
+
+**Released:** 2025-10-16 15:01:47
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68efd37ece402940bca482ac/media.mp3)
+
+---
 
 ### Tax the rich — and save the planet | Esther Duflo
 
@@ -36,50 +90,6 @@ Last updated: 2025-10-16 12:25:26
 
 ---
 
-### How to raise confident kids in an age of anxiety | Lenore Skenazy
-
-**Released:** 2025-10-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68e530c5d798804c9ea8d726/media.mp3)
-
----
-
-## This American Life
-
-### An Update from Ira
-
-**Released:** 2025-10-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
-
----
-
-### 870: My Other Self
-
-**Released:** 2025-10-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3)
-
----
-
-## Freakonomics Radio
-
-### How Can We Break Our Addiction to Contempt? (Update)
-
-**Released:** 2025-10-15 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
-
----
-
-### 649. Should Ohio State (and Michigan, and Clemson) Join the N.F.L.?
-
-**Released:** 2025-10-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6aea8101-a3e6-49aa-8f23-8265d75fd2dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6aea8101-a3e6-49aa-8f23-8265d75fd2dd&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### The year NYC went broke
@@ -95,6 +105,60 @@ Last updated: 2025-10-16 12:25:26
 **Released:** 2025-10-10 20:46:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6935404481.mp3?t=podcast&e=nx-s1-5565181&p=510289&d=1690&size=27045808)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: Reimagining Our Relationships
+
+**Released:** 2025-10-13 20:55:20
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2394 - Palmer Luckey
+
+**Released:** 2025-10-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
+
+---
+
+### #2393 - Bryan Callen
+
+**Released:** 2025-10-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
+
+---
+
+### #2392 - John Kiriakou
+
+**Released:** 2025-10-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4655978057.mp3?updated=1760116931)
+
+---
+
+## 99% Invisible
+
+### Hidden Levels #3: This Game Wants YOU
+
+**Released:** 2025-10-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #2: Stick It to 'Em
+
+**Released:** 2025-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
 
 ---
 
@@ -132,34 +196,6 @@ Last updated: 2025-10-16 12:25:26
 
 ---
 
-## Hidden Brain
-
-### Love 2.0: Reimagining Our Relationships
-
-**Released:** 2025-10-13 20:55:20
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Hidden Levels #3: This Game Wants YOU
-
-**Released:** 2025-10-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #2: Stick It to 'Em
-
-**Released:** 2025-10-10 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/19c9b3c3-154b-4082-bdf0-6fb8ea1074ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=19c9b3c3-154b-4082-bdf0-6fb8ea1074ad&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 4: The Protocol
@@ -188,6 +224,34 @@ Last updated: 2025-10-16 12:25:26
 
 ---
 
+## How I Built This
+
+### Advice Line with Stacy Madison of Stacy’s Pita Chips
+
+**Released:** 2025-10-16 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
+
+**Released:** 2025-10-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Julia Roberts"
+
+**Released:** 2025-10-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Mary Bronstein
@@ -211,24 +275,6 @@ Last updated: 2025-10-16 12:25:26
 **Released:** 2025-10-13 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Advice Line with Stacy Madison of Stacy’s Pita Chips
-
-**Released:** 2025-10-16 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
-
-**Released:** 2025-10-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -263,16 +309,6 @@ Last updated: 2025-10-16 12:25:26
 **Released:** 2025-10-10 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9cee0c8-d185-4b16-8493-2fde5e9c841a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Julia Roberts"
-
-**Released:** 2025-10-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
 
 ---
 
