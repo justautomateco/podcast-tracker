@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-18 00:53:54
+Last updated: 2025-10-18 12:21:17
+
+## Serial
+
+### The Preventionist - Trailer
+
+**Released:** 2025-10-16 14:12:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -17,16 +27,6 @@ Last updated: 2025-10-18 00:53:54
 **Released:** 2025-10-15 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
-
----
-
-## Serial
-
-### The Preventionist - Trailer
-
-**Released:** 2025-10-16 14:12:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
 
 ---
 
@@ -108,6 +108,32 @@ Last updated: 2025-10-18 00:53:54
 
 ---
 
+## The Joe Rogan Experience
+
+### #2395 - Mariana van Zeller
+
+**Released:** 2025-10-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664)
+
+---
+
+### #2394 - Palmer Luckey
+
+**Released:** 2025-10-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
+
+---
+
+### #2393 - Bryan Callen
+
+**Released:** 2025-10-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
+
+---
+
 ## Hidden Brain
 
 ### Love 2.0: Reimagining Our Relationships
@@ -119,6 +145,14 @@ Last updated: 2025-10-18 00:53:54
 ---
 
 ## Stuff You Should Know
+
+### Selects: How ESP Works (?)
+
+**Released:** 2025-10-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3723c0e3-8012-4ac6-b7b6-b37601249d2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### VH-1: MTV for Your Parents
 
@@ -144,14 +178,6 @@ Last updated: 2025-10-18 00:53:54
 
 ---
 
-### Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement
-
-**Released:** 2025-10-11 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aed58415-1672-4704-b9e9-b36f0105a0e4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Hidden Levels #4: Machinima
@@ -170,29 +196,13 @@ Last updated: 2025-10-18 00:53:54
 
 ---
 
-## The Joe Rogan Experience
+## Revisionist History
 
-### #2395 - Mariana van Zeller
+### The Alabama Murders - Part 4: The Protocol
 
-**Released:** 2025-10-17 17:00:00
+**Released:** 2025-10-16 04:01:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6106163059.mp3)
-
----
-
-### #2394 - Palmer Luckey
-
-**Released:** 2025-10-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
-
----
-
-### #2393 - Bryan Callen
-
-**Released:** 2025-10-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -214,16 +224,6 @@ Last updated: 2025-10-18 00:53:54
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders - Part 4: The Protocol
-
-**Released:** 2025-10-16 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### The Moment of Truth: The Moth Podcast
@@ -239,6 +239,42 @@ Last updated: 2025-10-18 00:53:54
 **Released:** 2025-10-14 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740)
+
+---
+
+## SmartLess 
+
+### "Julia Roberts"
+
+**Released:** 2025-10-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Mary Bronstein
+
+**Released:** 2025-10-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
+
+---
+
+### Bill Burr Live From The Fonda Theater In Hollywood
+
+**Released:** 2025-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
+
+---
+
+### Rose Byrne
+
+**Released:** 2025-10-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
 
 ---
 
@@ -273,42 +309,6 @@ Last updated: 2025-10-18 00:53:54
 **Released:** 2025-10-13 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b299e65-04cb-4566-be6b-57d2303b1d42.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Mary Bronstein
-
-**Released:** 2025-10-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
-
----
-
-### Bill Burr Live From The Fonda Theater In Hollywood
-
-**Released:** 2025-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
-
----
-
-### Rose Byrne
-
-**Released:** 2025-10-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Julia Roberts"
-
-**Released:** 2025-10-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
 
 ---
 

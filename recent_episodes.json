@@ -1,5 +1,12 @@
 [
   {
+    "guid": "f98d8682-d934-4078-bcdd-b3a6bbef7963",
+    "episode_title": "The Preventionist - Trailer",
+    "release_date": "2025-10-16 14:12:22",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg",
+    "podcast_name": "Serial"
+  },
+  {
     "guid": "02fc9dca-5efb-41db-825e-4c30164e85e9",
     "episode_title": "A Question-Asker Becomes a Question-Answerer",
     "release_date": "2025-10-17 10:00:00",
@@ -12,13 +19,6 @@
     "release_date": "2025-10-15 00:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "f98d8682-d934-4078-bcdd-b3a6bbef7963",
-    "episode_title": "The Preventionist - Trailer",
-    "release_date": "2025-10-16 14:12:22",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg",
-    "podcast_name": "Serial"
   },
   {
     "guid": "46031 at https://www.thisamericanlife.org",
@@ -84,11 +84,39 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "55022294-ab59-11f0-a20c-470eb3a344ee",
+    "episode_title": "#2395 - Mariana van Zeller",
+    "release_date": "2025-10-17 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "9c4fe9e6-aa3d-11f0-8576-07020834cec2",
+    "episode_title": "#2394 - Palmer Luckey",
+    "release_date": "2025-10-16 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "fd91a42c-a98b-11f0-9fae-cb7bbe3f41ad",
+    "episode_title": "#2393 - Bryan Callen",
+    "release_date": "2025-10-15 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "defa15aa-d749-4812-999f-8aefb0cae886",
     "episode_title": "Love 2.0: Reimagining Our Relationships",
     "release_date": "2025-10-13 20:55:20",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9fb419bb-4f0b-40d2-ac02-c882c74f4914/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9fb419bb-4f0b-40d2-ac02-c882c74f4914&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "3723c0e3-8012-4ac6-b7b6-b37601249d2b",
+    "episode_title": "Selects: How ESP Works (?)",
+    "release_date": "2025-10-18 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3723c0e3-8012-4ac6-b7b6-b37601249d2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "8f56df59-d7fc-481f-bbbc-b372010f62d0",
@@ -112,13 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "aed58415-1672-4704-b9e9-b36f0105a0e4",
-    "episode_title": "Selects: How Schoolhouse Rock Rocked: Featuring Bob Nastanovich of Pavement",
-    "release_date": "2025-10-11 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aed58415-1672-4704-b9e9-b36f0105a0e4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "a594b4ed-d79f-4c67-9b82-a99701543351",
     "episode_title": "Hidden Levels #4: Machinima",
     "release_date": "2025-10-17 09:00:00",
@@ -133,25 +154,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "55022294-ab59-11f0-a20c-470eb3a344ee",
-    "episode_title": "#2395 - Mariana van Zeller",
-    "release_date": "2025-10-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6106163059.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "9c4fe9e6-aa3d-11f0-8576-07020834cec2",
-    "episode_title": "#2394 - Palmer Luckey",
-    "release_date": "2025-10-16 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "fd91a42c-a98b-11f0-9fae-cb7bbe3f41ad",
-    "episode_title": "#2393 - Bryan Callen",
-    "release_date": "2025-10-15 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "eb15a887-3157-42fb-bc30-b36f00e95cd5",
+    "episode_title": "The Alabama Murders - Part 4: The Protocol",
+    "release_date": "2025-10-16 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/qUhGhi0afGeW4QfhdJkVxUWhrS_EAZu4q5OFFXJpDl0",
@@ -168,13 +175,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "eb15a887-3157-42fb-bc30-b36f00e95cd5",
-    "episode_title": "The Alabama Murders - Part 4: The Protocol",
-    "release_date": "2025-10-16 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "ee0b1dc2-76d2-11ef-a8c5-c78c325a72e0",
     "episode_title": "The Moment of Truth: The Moth Podcast",
     "release_date": "2025-10-17 04:25:00",
@@ -187,6 +187,34 @@
     "release_date": "2025-10-14 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "720c56ed-1e88-41c8-b731-3f4d2483c8f2",
+    "episode_title": "\"Julia Roberts\"",
+    "release_date": "2025-10-13 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "66306057-ae8d-4c02-bbcb-db77859a3c6b",
+    "episode_title": "Mary Bronstein",
+    "release_date": "2025-10-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "2edfeaa8-e1e0-4e84-b79c-647d7459902e",
+    "episode_title": "Bill Burr Live From The Fonda Theater In Hollywood",
+    "release_date": "2025-10-15 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "8c3b3dbf-36db-4bee-b22f-5731165736e9",
+    "episode_title": "Rose Byrne",
+    "release_date": "2025-10-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/FVjBI546byZHJo2Ir9uMIvfdxNBTzoNEPdtFohV_q8E",
@@ -215,33 +243,5 @@
     "release_date": "2025-10-13 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/4b299e65-04cb-4566-be6b-57d2303b1d42.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "66306057-ae8d-4c02-bbcb-db77859a3c6b",
-    "episode_title": "Mary Bronstein",
-    "release_date": "2025-10-16 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "2edfeaa8-e1e0-4e84-b79c-647d7459902e",
-    "episode_title": "Bill Burr Live From The Fonda Theater In Hollywood",
-    "release_date": "2025-10-15 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "8c3b3dbf-36db-4bee-b22f-5731165736e9",
-    "episode_title": "Rose Byrne",
-    "release_date": "2025-10-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "720c56ed-1e88-41c8-b731-3f4d2483c8f2",
-    "episode_title": "\"Julia Roberts\"",
-    "release_date": "2025-10-13 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
