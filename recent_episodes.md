@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-20 01:01:22
-
-## Serial
-
-### The Preventionist - Trailer
-
-**Released:** 2025-10-16 14:12:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
-
----
+Last updated: 2025-10-20 12:25:28
 
 ## Freakonomics Radio
 
@@ -27,6 +17,16 @@ Last updated: 2025-10-20 01:01:22
 **Released:** 2025-10-15 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
+
+---
+
+## Serial
+
+### The Preventionist - Trailer
+
+**Released:** 2025-10-16 14:12:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
 
 ---
 
@@ -90,24 +90,6 @@ Last updated: 2025-10-20 01:01:22
 
 ---
 
-## Planet Money
-
-### How Russia’s shadow fleet is sailing around oil sanctions
-
-**Released:** 2025-10-17 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935)
-
----
-
-### The year NYC went broke
-
-**Released:** 2025-10-15 14:13:37
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4471332189.mp3?t=podcast&e=nx-s1-5575106&p=510289&d=1919&size=30706295)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2396 - Andrew Schulz
@@ -139,6 +121,24 @@ Last updated: 2025-10-20 01:01:22
 **Released:** 2025-10-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
+
+---
+
+## Planet Money
+
+### How Russia’s shadow fleet is sailing around oil sanctions
+
+**Released:** 2025-10-17 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935)
+
+---
+
+### The year NYC went broke
+
+**Released:** 2025-10-15 14:13:37
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4471332189.mp3?t=podcast&e=nx-s1-5575106&p=510289&d=1919&size=30706295)
 
 ---
 
@@ -216,19 +216,19 @@ Last updated: 2025-10-20 01:01:22
 
 ## How I Built This
 
+### Magnolia: Chip & Joanna Gaines. From House Flipping to Household Name
+
+**Released:** 2025-10-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Advice Line with Stacy Madison of Stacy’s Pita Chips
 
 **Released:** 2025-10-16 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Faherty Brand: Alex and Mike Faherty.  How Jersey Shore + Manhattan Chic grew to 80 stores.
-
-**Released:** 2025-10-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9e268793-cc1f-4c1e-aa1d-91c9fff69d3d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -250,43 +250,15 @@ Last updated: 2025-10-20 01:01:22
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Mary Bronstein
-
-**Released:** 2025-10-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
-
----
-
-### Bill Burr Live From The Fonda Theater In Hollywood
-
-**Released:** 2025-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
-
----
-
-### Rose Byrne
-
-**Released:** 2025-10-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8839090-2277-4d2d-9957-12270836de78/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8839090-2277-4d2d-9957-12270836de78&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Julia Roberts"
-
-**Released:** 2025-10-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c3ca9365-eebc-4695-a5b2-543eecca5e12/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c3ca9365-eebc-4695-a5b2-543eecca5e12&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Jennifer Aniston
+
+**Released:** 2025-10-20 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/866a2ec7-60eb-4aa7-b302-8789d0973978.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Wedding II
 
@@ -312,11 +284,39 @@ Last updated: 2025-10-20 01:01:22
 
 ---
 
-### Sharon Horgan
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-10-13 07:35:00
+### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b299e65-04cb-4566-be6b-57d2303b1d42.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
+
+---
+
+### Mary Bronstein
+
+**Released:** 2025-10-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
+
+---
+
+### Bill Burr Live From The Fonda Theater In Hollywood
+
+**Released:** 2025-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Edgar Wright"
+
+**Released:** 2025-10-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
 
 ---
 
