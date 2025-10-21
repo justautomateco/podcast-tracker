@@ -7,20 +7,6 @@
     "podcast_name": "Serial"
   },
   {
-    "guid": "02fc9dca-5efb-41db-825e-4c30164e85e9",
-    "episode_title": "A Question-Asker Becomes a Question-Answerer",
-    "release_date": "2025-10-17 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "cc54b05f-a59f-4f04-8bf9-2c05a90f6c5f",
-    "episode_title": "How Can We Break Our Addiction to Contempt? (Update)",
-    "release_date": "2025-10-15 00:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "68f652cf59323046ca84d9b0",
     "episode_title": "Inside the mind of a newborn baby | Claudia Passos Ferreira",
     "release_date": "2025-10-20 15:19:36",
@@ -54,6 +40,20 @@
     "release_date": "2025-10-16 15:01:47",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68efd37ece402940bca482ac/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "02fc9dca-5efb-41db-825e-4c30164e85e9",
+    "episode_title": "A Question-Asker Becomes a Question-Answerer",
+    "release_date": "2025-10-17 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "cc54b05f-a59f-4f04-8bf9-2c05a90f6c5f",
+    "episode_title": "How Can We Break Our Addiction to Contempt? (Update)",
+    "release_date": "2025-10-15 00:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "45781 at https://www.thisamericanlife.org",
@@ -119,18 +119,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "a594b4ed-d79f-4c67-9b82-a99701543351",
-    "episode_title": "Hidden Levels #4: Machinima",
-    "release_date": "2025-10-17 09:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "1248b832-09e2-491e-a99b-d4a2ca75d1b4",
-    "episode_title": "Hidden Levels #3: This Game Wants YOU",
-    "release_date": "2025-10-14 15:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "d1755bd7-165f-492e-a5ee-b37c00f31bb3",
+    "episode_title": "[Insert Your Own Catchy Title About Younger Dryas Here]",
+    "release_date": "2025-10-21 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1755bd7-165f-492e-a5ee-b37c00f31bb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "3723c0e3-8012-4ac6-b7b6-b37601249d2b",
@@ -154,11 +147,32 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "1132a291-ae2f-4dac-a592-b37201021712",
-    "episode_title": "We want our MTV!",
-    "release_date": "2025-10-14 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1132a291-ae2f-4dac-a592-b37201021712/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "52fe9fb7-7e5d-459e-979f-60ed028d8b7d",
+    "episode_title": "Hidden Levels #5: Press B to Touch Grass",
+    "release_date": "2025-10-21 09:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "a594b4ed-d79f-4c67-9b82-a99701543351",
+    "episode_title": "Hidden Levels #4: Machinima",
+    "release_date": "2025-10-17 09:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "1248b832-09e2-491e-a99b-d4a2ca75d1b4",
+    "episode_title": "Hidden Levels #3: This Game Wants YOU",
+    "release_date": "2025-10-14 15:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "eb15a887-3157-42fb-bc30-b36f00e95cd5",
+    "episode_title": "The Alabama Murders - Part 4: The Protocol",
+    "release_date": "2025-10-16 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/NlSezmvw97u1ORQ2I-i3HXZU0um08vNFYol1LQUxA6s",
@@ -175,25 +189,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "eb15a887-3157-42fb-bc30-b36f00e95cd5",
-    "episode_title": "The Alabama Murders - Part 4: The Protocol",
-    "release_date": "2025-10-16 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "ee0b1dc2-76d2-11ef-a8c5-c78c325a72e0",
-    "episode_title": "The Moment of Truth: The Moth Podcast",
-    "release_date": "2025-10-17 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b88493cc-76d2-11ef-92d1-a724f100d48e",
-    "episode_title": "Grit and Gumption: The Moth Radio Hour",
-    "release_date": "2025-10-14 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/BCgQUFDrVsWoHvK79SkWIvT9d9Xucrd4CSERchLjrMQ",
+    "episode_title": "Mom's Car: Briegh Morrison",
+    "release_date": "2025-10-21 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/c7d6a85a-c6ac-4546-9a20-6de9fa072777.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/8smrDqU-ObCshOZmCZDnOcF3-V17gk5_cDhgqu2ujD4",
@@ -217,11 +217,18 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/gUqVsDciX6hb5jZE-T6YJ4XlVY_ss9WQw58vi5pe3QQ",
-    "episode_title": "Mom's Car: Nate Tuck",
-    "release_date": "2025-10-14 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/7a79ce9e-855c-4998-ad7b-208677b70719.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "b8a8de9e-76d2-11ef-92d1-3764ea0a0bce",
+    "episode_title": "Fatherhood: The Moth Radio Hour",
+    "release_date": "2025-10-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "ee0b1dc2-76d2-11ef-a8c5-c78c325a72e0",
+    "episode_title": "The Moment of Truth: The Moth Podcast",
+    "release_date": "2025-10-17 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "e52c9a00-46b5-42ce-8794-0aa872a290ae",

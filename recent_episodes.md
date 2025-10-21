@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-21 00:58:20
+Last updated: 2025-10-21 12:25:52
 
 ## Serial
 
@@ -9,24 +9,6 @@ Last updated: 2025-10-21 00:58:20
 **Released:** 2025-10-16 14:12:22
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### A Question-Asker Becomes a Question-Answerer
-
-**Released:** 2025-10-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
-
----
-
-### How Can We Break Our Addiction to Contempt? (Update)
-
-**Released:** 2025-10-15 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
 
 ---
 
@@ -69,6 +51,24 @@ Last updated: 2025-10-21 00:58:20
 **Released:** 2025-10-16 15:01:47
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68efd37ece402940bca482ac/media.mp3)
+
+---
+
+## Freakonomics Radio
+
+### A Question-Asker Becomes a Question-Answerer
+
+**Released:** 2025-10-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
+
+---
+
+### How Can We Break Our Addiction to Contempt? (Update)
+
+**Released:** 2025-10-15 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
 
 ---
 
@@ -152,25 +152,15 @@ Last updated: 2025-10-21 00:58:20
 
 ---
 
-## 99% Invisible
-
-### Hidden Levels #4: Machinima
-
-**Released:** 2025-10-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #3: This Game Wants YOU
-
-**Released:** 2025-10-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### [Insert Your Own Catchy Title About Younger Dryas Here]
+
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1755bd7-165f-492e-a5ee-b37c00f31bb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How ESP Works (?)
 
@@ -196,11 +186,39 @@ Last updated: 2025-10-21 00:58:20
 
 ---
 
-### We want our MTV!
+## 99% Invisible
 
-**Released:** 2025-10-14 09:00:00
+### Hidden Levels #5: Press B to Touch Grass
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1132a291-ae2f-4dac-a592-b37201021712/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #4: Machinima
+
+**Released:** 2025-10-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #3: This Game Wants YOU
+
+**Released:** 2025-10-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders - Part 4: The Protocol
+
+**Released:** 2025-10-16 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -222,35 +240,15 @@ Last updated: 2025-10-21 00:58:20
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders - Part 4: The Protocol
-
-**Released:** 2025-10-16 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### The Moment of Truth: The Moth Podcast
-
-**Released:** 2025-10-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
-
----
-
-### Grit and Gumption: The Moth Radio Hour
-
-**Released:** 2025-10-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2284773100.mp3?updated=1759858740)
-
----
-
 ## Armchair Expert
+
+### Mom's Car: Briegh Morrison
+
+**Released:** 2025-10-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7d6a85a-c6ac-4546-9a20-6de9fa072777.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Jennifer Aniston
 
@@ -276,11 +274,21 @@ Last updated: 2025-10-21 00:58:20
 
 ---
 
-### Mom's Car: Nate Tuck
+## The Moth
 
-**Released:** 2025-10-14 07:35:00
+### Fatherhood: The Moth Radio Hour
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a79ce9e-855c-4998-ad7b-208677b70719.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
+
+---
+
+### The Moment of Truth: The Moth Podcast
+
+**Released:** 2025-10-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
 
 ---
 
