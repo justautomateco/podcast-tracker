@@ -1,18 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-21 12:25:52
+Last updated: 2025-10-22 00:59:14
 
-## Serial
+## This American Life
 
-### The Preventionist - Trailer
+### 844: This Is the Case of Henry Dee
 
-**Released:** 2025-10-16 14:12:22
+**Released:** 2025-10-19 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
+
+---
+
+### An Update from Ira
+
+**Released:** 2025-10-16 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
 
 ---
 
 ## TED Talks Daily
+
+### The art of reading minds | Oz Pearlman
+
+**Released:** 2025-10-21 15:06:41
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f6b35380f2667740972552/media.mp3)
+
+---
 
 ### Inside the mind of a newborn baby | Claudia Passos Ferreira
 
@@ -46,11 +62,13 @@ Last updated: 2025-10-21 12:25:52
 
 ---
 
-### What it’s really like to win the lottery | Matt Pitcher
+## Serial
 
-**Released:** 2025-10-16 15:01:47
+### The Preventionist - Trailer
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68efd37ece402940bca482ac/media.mp3)
+**Released:** 2025-10-16 14:12:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
 
 ---
 
@@ -61,32 +79,6 @@ Last updated: 2025-10-21 12:25:52
 **Released:** 2025-10-17 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
-
----
-
-### How Can We Break Our Addiction to Contempt? (Update)
-
-**Released:** 2025-10-15 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f828fb94-7fc7-4e08-a675-bf85e2fb9436/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f828fb94-7fc7-4e08-a675-bf85e2fb9436&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 844: This Is the Case of Henry Dee
-
-**Released:** 2025-10-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
-
----
-
-### An Update from Ira
-
-**Released:** 2025-10-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
 
 ---
 
@@ -105,40 +97,6 @@ Last updated: 2025-10-21 12:25:52
 **Released:** 2025-10-15 14:13:37
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4471332189.mp3?t=podcast&e=nx-s1-5575106&p=510289&d=1919&size=30706295)
-
----
-
-## The Joe Rogan Experience
-
-### #2396 - Andrew Schulz
-
-**Released:** 2025-10-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8253233930.mp3?updated=1760804993)
-
----
-
-### #2395 - Mariana van Zeller
-
-**Released:** 2025-10-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664)
-
----
-
-### #2394 - Palmer Luckey
-
-**Released:** 2025-10-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
-
----
-
-### #2393 - Bryan Callen
-
-**Released:** 2025-10-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
 
 ---
 
@@ -204,11 +162,55 @@ Last updated: 2025-10-21 12:25:52
 
 ---
 
-### Hidden Levels #3: This Game Wants YOU
+## The Joe Rogan Experience
 
-**Released:** 2025-10-14 15:00:00
+### #2397 - Richard Lindzen & William Happer
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/4d1f2aec-fe38-4f7c-942a-ebf9e924c04e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=4d1f2aec-fe38-4f7c-942a-ebf9e924c04e&feed=BqbsxVfO)
+**Released:** 2025-10-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8807266011.mp3?updated=1761063287)
+
+---
+
+### #2396 - Andrew Schulz
+
+**Released:** 2025-10-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8253233930.mp3?updated=1760804993)
+
+---
+
+### #2395 - Mariana van Zeller
+
+**Released:** 2025-10-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664)
+
+---
+
+### #2394 - Palmer Luckey
+
+**Released:** 2025-10-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
+
+---
+
+### #2393 - Bryan Callen
+
+**Released:** 2025-10-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
+
+---
+
+## The Tim Ferriss Show
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -237,6 +239,50 @@ Last updated: 2025-10-21 12:25:52
 **Released:** 2025-10-16 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
+
+**Released:** 2025-10-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
+
+---
+
+### Mary Bronstein
+
+**Released:** 2025-10-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
+
+---
+
+### Bill Burr Live From The Fonda Theater In Hollywood
+
+**Released:** 2025-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Fatherhood: The Moth Radio Hour
+
+**Released:** 2025-10-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
+
+---
+
+### The Moment of Truth: The Moth Podcast
+
+**Released:** 2025-10-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
 
 ---
 
@@ -274,50 +320,6 @@ Last updated: 2025-10-21 12:25:52
 
 ---
 
-## The Moth
-
-### Fatherhood: The Moth Radio Hour
-
-**Released:** 2025-10-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
-
----
-
-### The Moment of Truth: The Moth Podcast
-
-**Released:** 2025-10-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
-
-**Released:** 2025-10-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
-
----
-
-### Mary Bronstein
-
-**Released:** 2025-10-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
-
----
-
-### Bill Burr Live From The Fonda Theater In Hollywood
-
-**Released:** 2025-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Edgar Wright"
@@ -325,16 +327,6 @@ Last updated: 2025-10-21 12:25:52
 **Released:** 2025-10-20 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
