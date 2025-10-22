@@ -1,22 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-22 00:59:14
+Last updated: 2025-10-22 12:25:45
 
-## This American Life
+## Serial
 
-### 844: This Is the Case of Henry Dee
+### The Preventionist - Trailer
 
-**Released:** 2025-10-19 18:00:00
+**Released:** 2025-10-16 14:12:22
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
 
 ---
 
-### An Update from Ira
+## Freakonomics Radio
 
-**Released:** 2025-10-16 00:00:00
+### A Question-Asker Becomes a Question-Answerer
 
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
+**Released:** 2025-10-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
 
 ---
 
@@ -62,23 +64,21 @@ Last updated: 2025-10-22 00:59:14
 
 ---
 
-## Serial
+## This American Life
 
-### The Preventionist - Trailer
+### 844: This Is the Case of Henry Dee
 
-**Released:** 2025-10-16 14:12:22
+**Released:** 2025-10-19 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
 
 ---
 
-## Freakonomics Radio
+### An Update from Ira
 
-### A Question-Asker Becomes a Question-Answerer
+**Released:** 2025-10-16 00:00:00
 
-**Released:** 2025-10-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
 
 ---
 
@@ -107,40 +107,6 @@ Last updated: 2025-10-22 00:59:14
 **Released:** 2025-10-20 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### [Insert Your Own Catchy Title About Younger Dryas Here]
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1755bd7-165f-492e-a5ee-b37c00f31bb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How ESP Works (?)
-
-**Released:** 2025-10-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3723c0e3-8012-4ac6-b7b6-b37601249d2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### VH-1: MTV for Your Parents
-
-**Released:** 2025-10-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8f56df59-d7fc-481f-bbbc-b372010f62d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: China's Corpse Walkers
-
-**Released:** 2025-10-15 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aa3ffc4b-32f8-430d-9a13-b37501292562/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -204,23 +170,37 @@ Last updated: 2025-10-22 00:59:14
 
 ---
 
-## The Tim Ferriss Show
+## Stuff You Should Know
 
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+### Short Stuff: Curse of Broken Mirrors
 
-**Released:** 2025-10-20 14:00:00
+**Released:** 2025-10-22 09:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b03978e-23d2-463f-9f64-b37d0176435a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-## Revisionist History
+### [Insert Your Own Catchy Title About Younger Dryas Here]
 
-### The Alabama Murders - Part 4: The Protocol
+**Released:** 2025-10-21 09:00:00
 
-**Released:** 2025-10-16 04:01:00
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1755bd7-165f-492e-a5ee-b37c00f31bb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+---
+
+### Selects: How ESP Works (?)
+
+**Released:** 2025-10-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3723c0e3-8012-4ac6-b7b6-b37601249d2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### VH-1: MTV for Your Parents
+
+**Released:** 2025-10-16 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8f56df59-d7fc-481f-bbbc-b372010f62d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -242,6 +222,26 @@ Last updated: 2025-10-22 00:59:14
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 4: The Protocol
+
+**Released:** 2025-10-16 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/eb15a887-3157-42fb-bc30-b36f00e95cd5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
@@ -257,14 +257,6 @@ Last updated: 2025-10-22 00:59:14
 **Released:** 2025-10-16 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e92b594a-e87e-476d-9a00-66d0f3177c71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e92b594a-e87e-476d-9a00-66d0f3177c71&feed=dHoohVNH)
-
----
-
-### Bill Burr Live From The Fonda Theater In Hollywood
-
-**Released:** 2025-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9aeeb037-bc44-44aa-acde-85f905caec35/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9aeeb037-bc44-44aa-acde-85f905caec35&feed=dHoohVNH)
 
 ---
 
@@ -288,6 +280,14 @@ Last updated: 2025-10-22 00:59:14
 
 ## Armchair Expert
 
+### Stephen Dubner Returns Again
+
+**Released:** 2025-10-22 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4686b218-b85d-4f76-b231-80245419f01e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Mom's Car: Briegh Morrison
 
 **Released:** 2025-10-21 07:35:00
@@ -309,14 +309,6 @@ Last updated: 2025-10-22 00:59:14
 **Released:** 2025-10-17 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1aeb8a2d-1623-4fb9-946d-4fb13df50d16.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andy Roddick (former professional tennis player)
-
-**Released:** 2025-10-15 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d890d9bf-8e65-4ce6-9f56-5b8467923867.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
