@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-22 12:25:45
-
-## Serial
-
-### The Preventionist - Trailer
-
-**Released:** 2025-10-16 14:12:22
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
-
----
+Last updated: 2025-10-23 00:57:38
 
 ## Freakonomics Radio
 
@@ -22,7 +12,53 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
+## Planet Money
+
+### TikTok’s Trojan Horse Strategy
+
+**Released:** 2025-10-22 20:37:38
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982)
+
+---
+
+### How Russia’s shadow fleet is sailing around oil sanctions
+
+**Released:** 2025-10-17 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935)
+
+---
+
+## Serial
+
+### The Preventionist - Trailer
+
+**Released:** 2025-10-16 14:12:22
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
+
+---
+
+## This American Life
+
+### 844: This Is the Case of Henry Dee
+
+**Released:** 2025-10-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How to pull the emergency brake on global warming | Mohamed A. Sultan
+
+**Released:** 2025-10-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f7a13a5d128a844c5238d2/media.mp3)
+
+---
 
 ### The art of reading minds | Oz Pearlman
 
@@ -56,79 +92,15 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
-### The new era of AI-powered protein design | César Ramírez-Sarmiento
-
-**Released:** 2025-10-17 15:40:13
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f110bcc7f907f368d42f17/media.mp3)
-
----
-
-## This American Life
-
-### 844: This Is the Case of Henry Dee
-
-**Released:** 2025-10-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
-
----
-
-### An Update from Ira
-
-**Released:** 2025-10-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_standalone_promo_10_15_2025_v2.mp3)
-
----
-
-## Planet Money
-
-### How Russia’s shadow fleet is sailing around oil sanctions
-
-**Released:** 2025-10-17 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935)
-
----
-
-### The year NYC went broke
-
-**Released:** 2025-10-15 14:13:37
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4471332189.mp3?t=podcast&e=nx-s1-5575106&p=510289&d=1919&size=30706295)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Move On
-
-**Released:** 2025-10-20 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #4: Machinima
-
-**Released:** 2025-10-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2398 - Francis Foster & Konstantin Kisin
+
+**Released:** 2025-10-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6504921109.mp3?updated=1761157354)
+
+---
 
 ### #2397 - Richard Lindzen & William Happer
 
@@ -159,14 +131,6 @@ Last updated: 2025-10-22 12:25:45
 **Released:** 2025-10-16 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
-
----
-
-### #2393 - Bryan Callen
-
-**Released:** 2025-10-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4706004283.mp3?updated=1760547074)
 
 ---
 
@@ -204,21 +168,31 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
-## How I Built This
+## Hidden Brain
 
-### Magnolia: Chip & Joanna Gaines. From House Flipping to Household Name
+### Love 2.0: How to Move On
 
-**Released:** 2025-10-20 07:10:00
+**Released:** 2025-10-20 19:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
 
 ---
 
-### Advice Line with Stacy Madison of Stacy’s Pita Chips
+## 99% Invisible
 
-**Released:** 2025-10-16 07:10:00
+### Hidden Levels #5: Press B to Touch Grass
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #4: Machinima
+
+**Released:** 2025-10-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
 
 ---
 
@@ -232,13 +206,21 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+### Fatherhood: The Moth Radio Hour
 
-**Released:** 2025-10-20 14:00:00
+**Released:** 2025-10-21 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
+
+---
+
+### The Moment of Truth: The Moth Podcast
+
+**Released:** 2025-10-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
 
 ---
 
@@ -260,21 +242,31 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Fatherhood: The Moth Radio Hour
+### "Edgar Wright"
 
-**Released:** 2025-10-21 04:25:00
+**Released:** 2025-10-20 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
 
 ---
 
-### The Moment of Truth: The Moth Podcast
+## How I Built This
 
-**Released:** 2025-10-17 04:25:00
+### Magnolia: Chip & Joanna Gaines. From House Flipping to Household Name
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
+**Released:** 2025-10-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Stacy Madison of Stacy’s Pita Chips
+
+**Released:** 2025-10-16 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b3987658-aa8d-4f09-9af8-35032fcd0d27.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -312,13 +304,21 @@ Last updated: 2025-10-22 12:25:45
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Edgar Wright"
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
 
-**Released:** 2025-10-20 07:01:00
+**Released:** 2025-10-22 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
