@@ -1,28 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-23 12:25:34
+Last updated: 2025-10-24 00:54:30
 
-## Serial
+## Freakonomics Radio
 
-### The Preventionist - Trailer
+### A Question-Asker Becomes a Question-Answerer
 
-**Released:** 2025-10-16 14:12:22
+**Released:** 2025-10-17 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4fa4b47d-9c2c-4128-b7a8-1c3851579ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4fa4b47d-9c2c-4128-b7a8-1c3851579ba9&feed=PpzWFGhg)
-
----
-
-## This American Life
-
-### 844: This Is the Case of Henry Dee
-
-**Released:** 2025-10-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### Touchdown! The flag football movement is here | Troy Vincent Sr.
+
+**Released:** 2025-10-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f8ffb953978989ad6ebf78/media.mp3)
+
+---
 
 ### How to pull the emergency brake on global warming | Mohamed A. Sultan
 
@@ -56,21 +54,13 @@ Last updated: 2025-10-23 12:25:34
 
 ---
 
-### The difference between healthy and unhealthy love | Katie Hood (re-release)
+## This American Life
 
-**Released:** 2025-10-18 15:00:00
+### 844: This Is the Case of Henry Dee
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f1136dc7f907f368d5785c/media.mp3)
+**Released:** 2025-10-19 18:00:00
 
----
-
-## Freakonomics Radio
-
-### A Question-Asker Becomes a Question-Answerer
-
-**Released:** 2025-10-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/be6ebc59-f6a6-4d75-a0a2-54e1260e9e60/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=be6ebc59-f6a6-4d75-a0a2-54e1260e9e60&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
 
 ---
 
@@ -92,17 +82,15 @@ Last updated: 2025-10-23 12:25:34
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Love 2.0: How to Move On
+### #2399 - Daryl Davis & Jeff Schoep
 
-**Released:** 2025-10-20 19:00:00
+**Released:** 2025-10-23 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5883236559.mp3?updated=1761241430)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2398 - Francis Foster & Konstantin Kisin
 
@@ -136,15 +124,43 @@ Last updated: 2025-10-23 12:25:34
 
 ---
 
-### #2394 - Palmer Luckey
+## Hidden Brain
 
-**Released:** 2025-10-16 17:00:00
+### Love 2.0: How to Move On
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5293529745.mp3?updated=1760631506)
+**Released:** 2025-10-20 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Hidden Levels #5: Press B to Touch Grass
+
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #4: Machinima
+
+**Released:** 2025-10-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### THE HUMAN SCREAM
+
+**Released:** 2025-10-23 13:38:02
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1865e51-c127-43f4-a39c-b37f00db74be/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Curse of Broken Mirrors
 
@@ -167,24 +183,6 @@ Last updated: 2025-10-23 12:25:34
 **Released:** 2025-10-18 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3723c0e3-8012-4ac6-b7b6-b37601249d2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #4: Machinima
-
-**Released:** 2025-10-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2c7f8fd1-0ff6-41ea-8d68-92133652fd8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2c7f8fd1-0ff6-41ea-8d68-92133652fd8e&feed=BqbsxVfO)
 
 ---
 
@@ -216,24 +214,6 @@ Last updated: 2025-10-23 12:25:34
 
 ---
 
-## The Tim Ferriss Show
-
-### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
-
-**Released:** 2025-10-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Fatherhood: The Moth Radio Hour
@@ -249,34 +229,6 @@ Last updated: 2025-10-23 12:25:34
 **Released:** 2025-10-17 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036)
-
----
-
-## SmartLess 
-
-### "Edgar Wright"
-
-**Released:** 2025-10-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matt Gourley Needs A Fan
-
-**Released:** 2025-10-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
-
----
-
-### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
-
-**Released:** 2025-10-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
 
 ---
 
@@ -311,6 +263,52 @@ Last updated: 2025-10-23 12:25:34
 **Released:** 2025-10-17 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1aeb8a2d-1623-4fb9-946d-4fb13df50d16.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matt Gourley Needs A Fan
+
+**Released:** 2025-10-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
+
+---
+
+### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
+
+**Released:** 2025-10-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Edgar Wright"
+
+**Released:** 2025-10-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
+
+**Released:** 2025-10-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
