@@ -1,10 +1,24 @@
 [
   {
+    "guid": "ad2949b4-a7c4-4b21-9705-8f725314a216",
+    "episode_title": "650. The Doctor Won\u2019t See You Now",
+    "release_date": "2025-10-24 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "45781 at https://www.thisamericanlife.org",
     "episode_title": "844: This Is the Case of Henry Dee",
     "release_date": "2025-10-19 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "68fb935418bcdad2ab258118",
+    "episode_title": "How satellites are supporting farmers across Africa | Catherine Nakalembe",
+    "release_date": "2025-10-24 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb935418bcdad2ab258118/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "68f8ffb953978989ad6ebf78",
@@ -35,31 +49,17 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "68f260029f00599e2d9dca94",
-    "episode_title": "TED Talks Daily Book Club: Why change is so scary \u2014 and how to unlock its potential | Maya Shankar (re-release)",
-    "release_date": "2025-10-19 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f260029f00599e2d9dca94/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "ad2949b4-a7c4-4b21-9705-8f725314a216",
-    "episode_title": "650. The Doctor Won\u2019t See You Now",
-    "release_date": "2025-10-24 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "d862c07d-e2b7-4d7c-80dd-e1682111c594",
+    "episode_title": "Should the fine have to fit the crime?",
+    "release_date": "2025-10-24 21:29:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4993919360.mp3?t=podcast&e=nx-s1-5585267&p=510289&d=1536&size=24580685",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "4e055a9d-1cae-41fd-ad4b-bc3251c44807",
     "episode_title": "TikTok\u2019s Trojan Horse Strategy",
     "release_date": "2025-10-22 20:37:38",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "fa70538f-b354-4ff8-912e-b8175749e970",
-    "episode_title": "How Russia\u2019s shadow fleet is sailing around oil sanctions",
-    "release_date": "2025-10-17 21:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935",
     "podcast_name": "Planet Money"
   },
   {
@@ -88,13 +88,6 @@
     "episode_title": "#2396 - Andrew Schulz",
     "release_date": "2025-10-18 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT8253233930.mp3?updated=1760804993",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "55022294-ab59-11f0-a20c-470eb3a344ee",
-    "episode_title": "#2395 - Mariana van Zeller",
-    "release_date": "2025-10-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -147,41 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "bdc48de5-5d43-4e17-9eb3-b36f00eeb223",
-    "episode_title": "The Alabama Murders - Part 5: Cruel and Unusual",
-    "release_date": "2025-10-23 04:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "59a63082-97c8-11f0-9c60-cf9c23b28d53",
-    "episode_title": "Baseball and Community: The Moth Podcast",
-    "release_date": "2025-10-24 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b8a8de9e-76d2-11ef-92d1-3764ea0a0bce",
-    "episode_title": "Fatherhood: The Moth Radio Hour",
-    "release_date": "2025-10-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "1aeb0716-1370-4447-837e-2514da0e5ff5",
-    "episode_title": "Matt Gourley Needs A Fan",
-    "release_date": "2025-10-23 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "e52c9a00-46b5-42ce-8794-0aa872a290ae",
-    "episode_title": "Tom Holland and Dominic Sandbrook of The Rest Is History Podcast",
-    "release_date": "2025-10-20 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/j1NO4nBt9VZCpWWvtcfPOZKOsJCzIpsn7YqKc3R_si0",
     "episode_title": "Advice Line with John Zimmer of Lyft",
     "release_date": "2025-10-23 07:10:00",
@@ -194,6 +152,13 @@
     "release_date": "2025-10-20 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "bdc48de5-5d43-4e17-9eb3-b36f00eeb223",
+    "episode_title": "The Alabama Murders - Part 5: Cruel and Unusual",
+    "release_date": "2025-10-23 04:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/4azyIOJl2RRd_uT9T_NpZWQYnrVJqgKcrxzMNq1ByAs",
@@ -224,11 +189,32 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "8c50db54-4136-4631-8ca7-2d51033c4d7b",
-    "episode_title": "\"Edgar Wright\"",
-    "release_date": "2025-10-20 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "1aeb0716-1370-4447-837e-2514da0e5ff5",
+    "episode_title": "Matt Gourley Needs A Fan",
+    "release_date": "2025-10-23 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e52c9a00-46b5-42ce-8794-0aa872a290ae",
+    "episode_title": "Tom Holland and Dominic Sandbrook of The Rest Is History Podcast",
+    "release_date": "2025-10-20 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "59a63082-97c8-11f0-9c60-cf9c23b28d53",
+    "episode_title": "Baseball and Community: The Moth Podcast",
+    "release_date": "2025-10-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b8a8de9e-76d2-11ef-92d1-3764ea0a0bce",
+    "episode_title": "Fatherhood: The Moth Radio Hour",
+    "release_date": "2025-10-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/cqY-h8RHRNJsF8t8niCE7DTdaZSkOmc2jqFefweQwVU",
@@ -243,5 +229,12 @@
     "release_date": "2025-10-20 14:00:00",
     "mp3_url": "https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "8c50db54-4136-4631-8ca7-2d51033c4d7b",
+    "episode_title": "\"Edgar Wright\"",
+    "release_date": "2025-10-20 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

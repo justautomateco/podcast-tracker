@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-24 12:25:29
+Last updated: 2025-10-25 00:56:14
+
+## Freakonomics Radio
+
+### 650. The Doctor Won’t See You Now
+
+**Released:** 2025-10-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +23,14 @@ Last updated: 2025-10-24 12:25:29
 ---
 
 ## TED Talks Daily
+
+### How satellites are supporting farmers across Africa | Catherine Nakalembe
+
+**Released:** 2025-10-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb935418bcdad2ab258118/media.mp3)
+
+---
 
 ### Touchdown! The flag football movement is here | Troy Vincent Sr.
 
@@ -46,39 +64,21 @@ Last updated: 2025-10-24 12:25:29
 
 ---
 
-### TED Talks Daily Book Club: Why change is so scary — and how to unlock its potential | Maya Shankar (re-release)
-
-**Released:** 2025-10-19 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f260029f00599e2d9dca94/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 650. The Doctor Won’t See You Now
-
-**Released:** 2025-10-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
+
+### Should the fine have to fit the crime?
+
+**Released:** 2025-10-24 21:29:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4993919360.mp3?t=podcast&e=nx-s1-5585267&p=510289&d=1536&size=24580685)
+
+---
 
 ### TikTok’s Trojan Horse Strategy
 
 **Released:** 2025-10-22 20:37:38
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982)
-
----
-
-### How Russia’s shadow fleet is sailing around oil sanctions
-
-**Released:** 2025-10-17 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4911777192.mp3?t=podcast&e=nx-s1-5577076&p=510289&d=1878&size=30050935)
 
 ---
 
@@ -113,14 +113,6 @@ Last updated: 2025-10-24 12:25:29
 **Released:** 2025-10-18 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8253233930.mp3?updated=1760804993)
-
----
-
-### #2395 - Mariana van Zeller
-
-**Released:** 2025-10-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6106163059.mp3?updated=1760750664)
 
 ---
 
@@ -186,52 +178,6 @@ Last updated: 2025-10-24 12:25:29
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders - Part 5: Cruel and Unusual
-
-**Released:** 2025-10-23 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Baseball and Community: The Moth Podcast
-
-**Released:** 2025-10-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
-
----
-
-### Fatherhood: The Moth Radio Hour
-
-**Released:** 2025-10-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matt Gourley Needs A Fan
-
-**Released:** 2025-10-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
-
----
-
-### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
-
-**Released:** 2025-10-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
-
----
-
 ## How I Built This
 
 ### Advice Line with John Zimmer of Lyft
@@ -247,6 +193,16 @@ Last updated: 2025-10-24 12:25:29
 **Released:** 2025-10-20 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders - Part 5: Cruel and Unusual
+
+**Released:** 2025-10-23 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -284,13 +240,39 @@ Last updated: 2025-10-24 12:25:29
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Edgar Wright"
+### Matt Gourley Needs A Fan
 
-**Released:** 2025-10-20 07:01:00
+**Released:** 2025-10-23 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
+
+---
+
+### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
+
+**Released:** 2025-10-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Baseball and Community: The Moth Podcast
+
+**Released:** 2025-10-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
+
+---
+
+### Fatherhood: The Moth Radio Hour
+
+**Released:** 2025-10-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
 
 ---
 
@@ -309,6 +291,16 @@ Last updated: 2025-10-24 12:25:29
 **Released:** 2025-10-20 14:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Edgar Wright"
+
+**Released:** 2025-10-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
 
 ---
 
