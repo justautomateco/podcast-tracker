@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-26 01:01:28
-
-## Freakonomics Radio
-
-### 650. The Doctor Won’t See You Now
-
-**Released:** 2025-10-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
-
----
+Last updated: 2025-10-26 12:21:34
 
 ## TED Talks Daily
+
+### TED Talks Daily Book Club: You are not alone in your loneliness | Jonny Sun (re-release)
+
+**Released:** 2025-10-26 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb94651f072c7a1694f7b5/media.mp3)
+
+---
 
 ### Give yourself permission to be creative | Ethan Hawke (re-release)
 
@@ -46,11 +44,13 @@ Last updated: 2025-10-26 01:01:28
 
 ---
 
-### The art of reading minds | Oz Pearlman
+## Freakonomics Radio
 
-**Released:** 2025-10-21 15:06:41
+### 650. The Doctor Won’t See You Now
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f6b35380f2667740972552/media.mp3)
+**Released:** 2025-10-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
 
 ---
 
@@ -126,24 +126,6 @@ Last updated: 2025-10-26 01:01:28
 
 ---
 
-## 99% Invisible
-
-### Hidden Levels #6: Segagaga
-
-**Released:** 2025-10-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: The Great Finger in the Wendy’s Chili Caper
@@ -178,6 +160,42 @@ Last updated: 2025-10-26 01:01:28
 
 ---
 
+## 99% Invisible
+
+### Hidden Levels #6: Segagaga
+
+**Released:** 2025-10-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #5: Press B to Touch Grass
+
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
+
+**Released:** 2025-10-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with John Zimmer of Lyft
@@ -206,24 +224,6 @@ Last updated: 2025-10-26 01:01:28
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Matt Gourley Needs A Fan
-
-**Released:** 2025-10-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
-
----
-
-### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
-
-**Released:** 2025-10-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### Baseball and Community: The Moth Podcast
@@ -239,24 +239,6 @@ Last updated: 2025-10-26 01:01:28
 **Released:** 2025-10-21 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
-
----
-
-## The Tim Ferriss Show
-
-### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
-
-**Released:** 2025-10-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -301,6 +283,24 @@ Last updated: 2025-10-26 01:01:28
 **Released:** 2025-10-20 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matt Gourley Needs A Fan
+
+**Released:** 2025-10-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
+
+---
+
+### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
+
+**Released:** 2025-10-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
 
 ---
 
