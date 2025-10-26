@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-25 12:21:22
+Last updated: 2025-10-26 01:01:28
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-10-25 12:21:22
 ---
 
 ## TED Talks Daily
+
+### Give yourself permission to be creative | Ethan Hawke (re-release)
+
+**Released:** 2025-10-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb93cbf8e5a63e34865edc/media.mp3)
+
+---
 
 ### How satellites are supporting farmers across Africa | Catherine Nakalembe
 
@@ -46,11 +54,13 @@ Last updated: 2025-10-25 12:21:22
 
 ---
 
-### Inside the mind of a newborn baby | Claudia Passos Ferreira
+## This American Life
 
-**Released:** 2025-10-20 15:19:36
+### 844: This Is the Case of Henry Dee
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f652cf59323046ca84d9b0/media.mp3)
+**Released:** 2025-10-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
 
 ---
 
@@ -73,6 +83,14 @@ Last updated: 2025-10-25 12:21:22
 ---
 
 ## The Joe Rogan Experience
+
+### #2400 - Katee Sackhoff
+
+**Released:** 2025-10-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546)
+
+---
 
 ### #2399 - Daryl Davis & Jeff Schoep
 
@@ -98,14 +116,6 @@ Last updated: 2025-10-25 12:21:22
 
 ---
 
-### #2396 - Andrew Schulz
-
-**Released:** 2025-10-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8253233930.mp3?updated=1760804993)
-
----
-
 ## Hidden Brain
 
 ### Love 2.0: How to Move On
@@ -113,6 +123,24 @@ Last updated: 2025-10-25 12:21:22
 **Released:** 2025-10-20 19:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Hidden Levels #6: Segagaga
+
+**Released:** 2025-10-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #5: Press B to Touch Grass
+
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
 
 ---
 
@@ -150,24 +178,6 @@ Last updated: 2025-10-25 12:21:22
 
 ---
 
-## 99% Invisible
-
-### Hidden Levels #6: Segagaga
-
-**Released:** 2025-10-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with John Zimmer of Lyft
@@ -186,24 +196,6 @@ Last updated: 2025-10-25 12:21:22
 
 ---
 
-## The Tim Ferriss Show
-
-### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
-
-**Released:** 2025-10-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 5: Cruel and Unusual
@@ -211,40 +203,6 @@ Last updated: 2025-10-25 12:21:22
 **Released:** 2025-10-23 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Military
-
-**Released:** 2025-10-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Stephen Dubner Returns Again
-
-**Released:** 2025-10-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4686b218-b85d-4f76-b231-80245419f01e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Briegh Morrison
-
-**Released:** 2025-10-21 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7d6a85a-c6ac-4546-9a20-6de9fa072777.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jennifer Aniston
-
-**Released:** 2025-10-20 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/866a2ec7-60eb-4aa7-b302-8789d0973978.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -284,6 +242,58 @@ Last updated: 2025-10-25 12:21:22
 
 ---
 
+## The Tim Ferriss Show
+
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
+
+**Released:** 2025-10-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Military
+
+**Released:** 2025-10-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Stephen Dubner Returns Again
+
+**Released:** 2025-10-22 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4686b218-b85d-4f76-b231-80245419f01e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Briegh Morrison
+
+**Released:** 2025-10-21 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7d6a85a-c6ac-4546-9a20-6de9fa072777.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jennifer Aniston
+
+**Released:** 2025-10-20 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/866a2ec7-60eb-4aa7-b302-8789d0973978.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Edgar Wright"
@@ -291,16 +301,6 @@ Last updated: 2025-10-25 12:21:22
 **Released:** 2025-10-20 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
-
----
-
-## This American Life
-
-### 844: This Is the Case of Henry Dee
-
-**Released:** 2025-10-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3)
 
 ---
 
