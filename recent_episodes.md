@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-27 01:03:11
+Last updated: 2025-10-27 12:25:44
 
 ## Freakonomics Radio
 
@@ -19,24 +19,6 @@ Last updated: 2025-10-27 01:03:11
 **Released:** 2025-10-26 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
-
----
-
-## Planet Money
-
-### Should the fine have to fit the crime?
-
-**Released:** 2025-10-24 21:29:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4993919360.mp3?t=podcast&e=nx-s1-5585267&p=510289&d=1536&size=24580685)
-
----
-
-### TikTok’s Trojan Horse Strategy
-
-**Released:** 2025-10-22 20:37:38
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982)
 
 ---
 
@@ -82,6 +64,34 @@ Last updated: 2025-10-27 01:03:11
 
 ---
 
+## Planet Money
+
+### Should the fine have to fit the crime?
+
+**Released:** 2025-10-24 21:29:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4993919360.mp3?t=podcast&e=nx-s1-5585267&p=510289&d=1536&size=24580685)
+
+---
+
+### TikTok’s Trojan Horse Strategy
+
+**Released:** 2025-10-22 20:37:38
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4283952550.mp3?t=podcast&e=nx-s1-5582749&p=510289&d=1503&size=24056982)
+
+---
+
+## Hidden Brain
+
+### Love 2.0: How to Move On
+
+**Released:** 2025-10-20 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2400 - Katee Sackhoff
@@ -113,16 +123,6 @@ Last updated: 2025-10-27 01:03:11
 **Released:** 2025-10-21 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8807266011.mp3?updated=1761063287)
-
----
-
-## Hidden Brain
-
-### Love 2.0: How to Move On
-
-**Released:** 2025-10-20 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
 
 ---
 
@@ -190,37 +190,19 @@ Last updated: 2025-10-27 01:03:11
 
 ## How I Built This
 
+### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
+
+**Released:** 2025-10-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Advice Line with John Zimmer of Lyft
 
 **Released:** 2025-10-23 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Magnolia: Chip & Joanna Gaines. From House Flipping to Household Name
-
-**Released:** 2025-10-20 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/86f1ac96-4c78-4b44-ac42-2691d74712c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
-
-**Released:** 2025-10-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,17 +224,33 @@ Last updated: 2025-10-27 01:03:11
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Edgar Wright"
+### Judd Apatow Returns
 
-**Released:** 2025-10-20 07:01:00
+**Released:** 2025-10-27 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/499fc674-4d0b-4512-8bec-a3b48420247e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=499fc674-4d0b-4512-8bec-a3b48420247e&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH)
+
+---
+
+### Matt Gourley Needs A Fan
+
+**Released:** 2025-10-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
 
 ---
 
 ## Armchair Expert
+
+### Rose Byrne
+
+**Released:** 2025-10-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Military
 
@@ -278,29 +276,31 @@ Last updated: 2025-10-27 01:03:11
 
 ---
 
-### Jennifer Aniston
+## SmartLess 
 
-**Released:** 2025-10-20 07:35:00
+### "Oscar Isaac"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/866a2ec7-60eb-4aa7-b302-8789d0973978.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-27 07:01:00
 
----
-
-## Conan O'Brien Needs A Friend
-
-### Matt Gourley Needs A Fan
-
-**Released:** 2025-10-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
-### Tom Holland and Dominic Sandbrook of The Rest Is History Podcast
+## The Tim Ferriss Show
 
-**Released:** 2025-10-20 04:05:00
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ad6beca7-711c-4754-9977-db2494c16e1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ad6beca7-711c-4754-9977-db2494c16e1c&feed=dHoohVNH)
+**Released:** 2025-10-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
+
+**Released:** 2025-10-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
