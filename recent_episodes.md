@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-28 00:56:39
+Last updated: 2025-10-28 12:24:42
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-10-28 00:56:39
 **Released:** 2025-10-24 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2025-10-28 00:56:39
 
 ---
 
+## This American Life
+
+### 871: The Thing About Things
+
+**Released:** 2025-10-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+
+---
+
 ## Planet Money
 
 ### Should the fine have to fit the crime?
@@ -92,6 +92,40 @@ Last updated: 2025-10-28 00:56:39
 
 ---
 
+## Stuff You Should Know
+
+### The Texas Chain Saw Massacre: Masterpiece
+
+**Released:** 2025-10-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ca8a4f21-80e8-4ac1-95b9-b37f00fee0b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: The Great Finger in the Wendy’s Chili Caper
+
+**Released:** 2025-10-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5c75aec-4e93-4950-9fd2-b37c0114088b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### THE HUMAN SCREAM
+
+**Released:** 2025-10-23 13:38:02
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1865e51-c127-43f4-a39c-b37f00db74be/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Curse of Broken Mirrors
+
+**Released:** 2025-10-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b03978e-23d2-463f-9f64-b37d0176435a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## 99% Invisible
 
 ### Hidden Levels #6: Segagaga
@@ -99,14 +133,6 @@ Last updated: 2025-10-28 00:56:39
 **Released:** 2025-10-24 09:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
 
 ---
 
@@ -144,37 +170,21 @@ Last updated: 2025-10-28 00:56:39
 
 ---
 
-## Stuff You Should Know
+## How I Built This
 
-### Selects: The Great Finger in the Wendy’s Chili Caper
+### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
 
-**Released:** 2025-10-25 09:00:00
+**Released:** 2025-10-27 07:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5c75aec-4e93-4950-9fd2-b37c0114088b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### THE HUMAN SCREAM
-
-**Released:** 2025-10-23 13:38:02
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1865e51-c127-43f4-a39c-b37f00db74be/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Short Stuff: Curse of Broken Mirrors
+### Advice Line with John Zimmer of Lyft
 
-**Released:** 2025-10-22 09:00:00
+**Released:** 2025-10-23 07:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b03978e-23d2-463f-9f64-b37d0176435a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### [Insert Your Own Catchy Title About Younger Dryas Here]
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1755bd7-165f-492e-a5ee-b37c00f31bb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -185,24 +195,6 @@ Last updated: 2025-10-28 00:56:39
 **Released:** 2025-10-23 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Baseball and Community: The Moth Podcast
-
-**Released:** 2025-10-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
-
----
-
-### Fatherhood: The Moth Radio Hour
-
-**Released:** 2025-10-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7473471274.mp3?updated=1760755337)
 
 ---
 
@@ -225,6 +217,14 @@ Last updated: 2025-10-28 00:56:39
 ---
 
 ## Armchair Expert
+
+### Mom's Car: Tim Lovestedt
+
+**Released:** 2025-10-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Rose Byrne
 
@@ -250,39 +250,21 @@ Last updated: 2025-10-28 00:56:39
 
 ---
 
-### Mom's Car: Briegh Morrison
+## The Moth
 
-**Released:** 2025-10-21 07:35:00
+### Lost and Found: The Moth Radio Hour
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7d6a85a-c6ac-4546-9a20-6de9fa072777.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-28 04:25:00
 
----
-
-## How I Built This
-
-### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
-
-**Released:** 2025-10-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904)
 
 ---
 
-### Advice Line with John Zimmer of Lyft
+### Baseball and Community: The Moth Podcast
 
-**Released:** 2025-10-23 07:10:00
+**Released:** 2025-10-24 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Oscar Isaac"
-
-**Released:** 2025-10-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
 
 ---
 
@@ -293,6 +275,16 @@ Last updated: 2025-10-28 00:56:39
 **Released:** 2025-10-22 18:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Oscar Isaac"
+
+**Released:** 2025-10-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
