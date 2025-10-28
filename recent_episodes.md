@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-27 12:25:44
+Last updated: 2025-10-28 00:56:39
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-10-27 12:25:44
 ---
 
 ## TED Talks Daily
+
+### The surprising science of adolescent brains | Jennifer Pfeifer
+
+**Released:** 2025-10-27 15:00:13
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ff88fd5d04b866960492a0/media.mp3)
+
+---
 
 ### TED Talks Daily Book Club: You are not alone in your loneliness | Jonny Sun (re-release)
 
@@ -56,14 +64,6 @@ Last updated: 2025-10-27 12:25:44
 
 ---
 
-### How to pull the emergency brake on global warming | Mohamed A. Sultan
-
-**Released:** 2025-10-22 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68f7a13a5d128a844c5238d2/media.mp3)
-
----
-
 ## Planet Money
 
 ### Should the fine have to fit the crime?
@@ -84,11 +84,29 @@ Last updated: 2025-10-27 12:25:44
 
 ## Hidden Brain
 
-### Love 2.0: How to Move On
+### Reframing the Battle of Wills
 
-**Released:** 2025-10-20 19:00:00
+**Released:** 2025-10-27 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fb02d2d7-1920-4e47-868d-3e87916bf048/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fb02d2d7-1920-4e47-868d-3e87916bf048&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Hidden Levels #6: Segagaga
+
+**Released:** 2025-10-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #5: Press B to Touch Grass
+
+**Released:** 2025-10-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
 
 ---
 
@@ -160,24 +178,6 @@ Last updated: 2025-10-27 12:25:44
 
 ---
 
-## 99% Invisible
-
-### Hidden Levels #6: Segagaga
-
-**Released:** 2025-10-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #5: Press B to Touch Grass
-
-**Released:** 2025-10-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/569764e4-272d-42e1-8142-860f0ed21c3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=569764e4-272d-42e1-8142-860f0ed21c3d&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 5: Cruel and Unusual
@@ -185,24 +185,6 @@ Last updated: 2025-10-27 12:25:44
 **Released:** 2025-10-23 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
-
-**Released:** 2025-10-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with John Zimmer of Lyft
-
-**Released:** 2025-10-23 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -276,6 +258,24 @@ Last updated: 2025-10-27 12:25:44
 
 ---
 
+## How I Built This
+
+### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
+
+**Released:** 2025-10-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with John Zimmer of Lyft
+
+**Released:** 2025-10-23 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Oscar Isaac"
@@ -293,14 +293,6 @@ Last updated: 2025-10-27 12:25:44
 **Released:** 2025-10-22 18:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #831: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More
-
-**Released:** 2025-10-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b4b5e58-ee3c-4c8b-bf1d-fe4790ed3d56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
