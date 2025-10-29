@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-29 01:00:53
+Last updated: 2025-10-29 12:26:11
+
+## Freakonomics Radio
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
+
+---
+
+### 650. The Doctor Won’t See You Now
+
+**Released:** 2025-10-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 871: The Thing About Things
+
+**Released:** 2025-10-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -41,26 +69,6 @@ Last updated: 2025-10-29 01:00:53
 **Released:** 2025-10-24 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb935418bcdad2ab258118/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 650. The Doctor Won’t See You Now
-
-**Released:** 2025-10-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
 
 ---
 
@@ -110,7 +118,67 @@ Last updated: 2025-10-29 01:00:53
 
 ---
 
+## The Joe Rogan Experience
+
+### #2401 - Avi Loeb
+
+**Released:** 2025-10-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5753154005.mp3?updated=1761669167)
+
+---
+
+### #2400 - Katee Sackhoff
+
+**Released:** 2025-10-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546)
+
+---
+
+### #2399 - Daryl Davis & Jeff Schoep
+
+**Released:** 2025-10-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5883236559.mp3?updated=1761241430)
+
+---
+
+### #2398 - Francis Foster & Konstantin Kisin
+
+**Released:** 2025-10-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6504921109.mp3?updated=1761157354)
+
+---
+
+## How I Built This
+
+### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
+
+**Released:** 2025-10-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with John Zimmer of Lyft
+
+**Released:** 2025-10-23 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: The Bell Witch
+
+**Released:** 2025-10-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/75f2dc77-fa36-4451-b59d-b38400d19600/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Texas Chain Saw Massacre: Masterpiece
 
@@ -136,24 +204,6 @@ Last updated: 2025-10-29 01:00:53
 
 ---
 
-### Short Stuff: Curse of Broken Mirrors
-
-**Released:** 2025-10-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b03978e-23d2-463f-9f64-b37d0176435a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
-
-**Released:** 2025-10-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 5: Cruel and Unusual
@@ -164,55 +214,31 @@ Last updated: 2025-10-29 01:00:53
 
 ---
 
-## How I Built This
+## The Moth
 
-### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
+### Lost and Found: The Moth Radio Hour
 
-**Released:** 2025-10-27 07:10:00
+**Released:** 2025-10-28 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with John Zimmer of Lyft
-
-**Released:** 2025-10-23 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904)
 
 ---
 
-## Armchair Expert
+### Baseball and Community: The Moth Podcast
 
-### Mom's Car: Tim Lovestedt
+**Released:** 2025-10-24 04:25:00
 
-**Released:** 2025-10-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
 
 ---
 
-### Rose Byrne
+## The Tim Ferriss Show
 
-**Released:** 2025-10-27 07:35:00
+### #832: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-10-22 18:00:00
 
----
-
-### Armchair Anonymous: Military
-
-**Released:** 2025-10-24 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Stephen Dubner Returns Again
-
-**Released:** 2025-10-22 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4686b218-b85d-4f76-b231-80245419f01e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -244,21 +270,37 @@ Last updated: 2025-10-29 01:00:53
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### Lost and Found: The Moth Radio Hour
+### Cas Holman (on being playful)
 
-**Released:** 2025-10-28 04:25:00
+**Released:** 2025-10-29 07:35:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/562cd7c5-958f-4e57-b656-202683f83149.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Baseball and Community: The Moth Podcast
+### Mom's Car: Tim Lovestedt
 
-**Released:** 2025-10-24 04:25:00
+**Released:** 2025-10-28 07:35:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rose Byrne
+
+**Released:** 2025-10-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Military
+
+**Released:** 2025-10-24 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

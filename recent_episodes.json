@@ -1,5 +1,26 @@
 [
   {
+    "guid": "23041e41-cafa-43a4-b10e-e2846236d673",
+    "episode_title": "Are Two C.E.O.s Better Than One? (Update)",
+    "release_date": "2025-10-29 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "ad2949b4-a7c4-4b21-9705-8f725314a216",
+    "episode_title": "650. The Doctor Won\u2019t See You Now",
+    "release_date": "2025-10-24 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46032 at https://www.thisamericanlife.org",
+    "episode_title": "871: The Thing About Things",
+    "release_date": "2025-10-26 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "68ffdcbc4bfd27f82dd735c7",
     "episode_title": "What if you could talk to your favorite character in a movie? | Christoph Lassner",
     "release_date": "2025-10-28 15:00:00",
@@ -33,20 +54,6 @@
     "release_date": "2025-10-24 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb935418bcdad2ab258118/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "ad2949b4-a7c4-4b21-9705-8f725314a216",
-    "episode_title": "650. The Doctor Won\u2019t See You Now",
-    "release_date": "2025-10-24 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46032 at https://www.thisamericanlife.org",
-    "episode_title": "871: The Thing About Things",
-    "release_date": "2025-10-26 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "d862c07d-e2b7-4d7c-80dd-e1682111c594",
@@ -84,6 +91,55 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "733164d0-b37b-11f0-86d7-fba6577c7bda",
+    "episode_title": "#2401 - Avi Loeb",
+    "release_date": "2025-10-28 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5753154005.mp3?updated=1761669167",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6710febe-b14a-11f0-9da0-5f1f6ac6dc57",
+    "episode_title": "#2400 - Katee Sackhoff",
+    "release_date": "2025-10-25 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "df2bd06c-afa2-11f0-bcd7-dbd2b0ec9a27",
+    "episode_title": "#2399 - Daryl Davis & Jeff Schoep",
+    "release_date": "2025-10-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5883236559.mp3?updated=1761241430",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "c22a7d9e-af64-11f0-99d9-ff45cdba3030",
+    "episode_title": "#2398 - Francis Foster & Konstantin Kisin",
+    "release_date": "2025-10-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6504921109.mp3?updated=1761157354",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/PV_KNo8UHCgAwXOM1xcGXA65_7Jlm7E9bC-0VUqO6Ok",
+    "episode_title": "Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse",
+    "release_date": "2025-10-27 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/j1NO4nBt9VZCpWWvtcfPOZKOsJCzIpsn7YqKc3R_si0",
+    "episode_title": "Advice Line with John Zimmer of Lyft",
+    "release_date": "2025-10-23 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "75f2dc77-fa36-4451-b59d-b38400d19600",
+    "episode_title": "Short Stuff: The Bell Witch",
+    "release_date": "2025-10-29 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/75f2dc77-fa36-4451-b59d-b38400d19600/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "ca8a4f21-80e8-4ac1-95b9-b37f00fee0b1",
     "episode_title": "The Texas Chain Saw Massacre: Masterpiece",
     "release_date": "2025-10-28 09:00:00",
@@ -105,20 +161,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "9b03978e-23d2-463f-9f64-b37d0176435a",
-    "episode_title": "Short Stuff: Curse of Broken Mirrors",
-    "release_date": "2025-10-22 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b03978e-23d2-463f-9f64-b37d0176435a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/cqY-h8RHRNJsF8t8niCE7DTdaZSkOmc2jqFefweQwVU",
-    "episode_title": "#832: The Return of The Lion Tracker \u2014 Boyd Varty on The Wild Man Within, Nature\u2019s Hidden Wisdom, and How to Feel Fully Alive",
-    "release_date": "2025-10-22 18:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "bdc48de5-5d43-4e17-9eb3-b36f00eeb223",
     "episode_title": "The Alabama Murders - Part 5: Cruel and Unusual",
     "release_date": "2025-10-23 04:01:00",
@@ -126,46 +168,25 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/PV_KNo8UHCgAwXOM1xcGXA65_7Jlm7E9bC-0VUqO6Ok",
-    "episode_title": "Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse",
-    "release_date": "2025-10-27 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "b8cba690-76d2-11ef-92d1-1f6e9091b86f",
+    "episode_title": "Lost and Found: The Moth Radio Hour",
+    "release_date": "2025-10-28 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/j1NO4nBt9VZCpWWvtcfPOZKOsJCzIpsn7YqKc3R_si0",
-    "episode_title": "Advice Line with John Zimmer of Lyft",
-    "release_date": "2025-10-23 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "59a63082-97c8-11f0-9c60-cf9c23b28d53",
+    "episode_title": "Baseball and Community: The Moth Podcast",
+    "release_date": "2025-10-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/QItVf1XISITDe4An7MDNFPI074J2l3ydDrfS5HFwrCM",
-    "episode_title": "Mom's Car: Tim Lovestedt",
-    "release_date": "2025-10-28 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/7Lf0WE5I5pCR5jCqeHBT0WkgTx0rFPHvwVE-xZzY0pM",
-    "episode_title": "Rose Byrne",
-    "release_date": "2025-10-27 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/4azyIOJl2RRd_uT9T_NpZWQYnrVJqgKcrxzMNq1ByAs",
-    "episode_title": "Armchair Anonymous: Military",
-    "release_date": "2025-10-24 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/vAdu_sUVa6FrBC9wVYJ0IEk9XzBE3VfCpIhTQbaxUhg",
-    "episode_title": "Stephen Dubner Returns Again",
-    "release_date": "2025-10-22 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/4686b218-b85d-4f76-b231-80245419f01e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/cqY-h8RHRNJsF8t8niCE7DTdaZSkOmc2jqFefweQwVU",
+    "episode_title": "#832: The Return of The Lion Tracker \u2014 Boyd Varty on The Wild Man Within, Nature\u2019s Hidden Wisdom, and How to Feel Fully Alive",
+    "release_date": "2025-10-22 18:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/269bc23d-6e4d-4f2e-8804-4e82826ba80c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "b0a7f3be-3bfc-4c69-a275-d830defcc87c",
@@ -189,17 +210,31 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "b8cba690-76d2-11ef-92d1-1f6e9091b86f",
-    "episode_title": "Lost and Found: The Moth Radio Hour",
-    "release_date": "2025-10-28 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/VCSh5pu7hiflximpmCM63IBX2nCDlOK20Nn_6l722Bw",
+    "episode_title": "Cas Holman (on being playful)",
+    "release_date": "2025-10-29 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/562cd7c5-958f-4e57-b656-202683f83149.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "59a63082-97c8-11f0-9c60-cf9c23b28d53",
-    "episode_title": "Baseball and Community: The Moth Podcast",
-    "release_date": "2025-10-24 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3586634011.mp3?updated=1760476035",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/QItVf1XISITDe4An7MDNFPI074J2l3ydDrfS5HFwrCM",
+    "episode_title": "Mom's Car: Tim Lovestedt",
+    "release_date": "2025-10-28 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/7Lf0WE5I5pCR5jCqeHBT0WkgTx0rFPHvwVE-xZzY0pM",
+    "episode_title": "Rose Byrne",
+    "release_date": "2025-10-27 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/4azyIOJl2RRd_uT9T_NpZWQYnrVJqgKcrxzMNq1ByAs",
+    "episode_title": "Armchair Anonymous: Military",
+    "release_date": "2025-10-24 07:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/d388cf70-2373-4299-9046-1d05214900f7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
