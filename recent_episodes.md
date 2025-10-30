@@ -1,6 +1,60 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-30 01:00:15
+Last updated: 2025-10-30 12:24:59
+
+## Serial
+
+### The Preventionist - Ep. 3
+
+**Released:** 2025-10-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/0d1cd45d-65cd-4d03-aded-ff6991eb98ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=0d1cd45d-65cd-4d03-aded-ff6991eb98ff&feed=PpzWFGhg)
+
+---
+
+### The Preventionist - Ep. 2
+
+**Released:** 2025-10-30 09:55:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/7e38349a-8943-4150-a6da-7814ed8d7884/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=7e38349a-8943-4150-a6da-7814ed8d7884&feed=PpzWFGhg)
+
+---
+
+### The Preventionist - Ep. 1
+
+**Released:** 2025-10-30 09:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/5c9184db-dbac-4548-aaab-a3fe77d5024d/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=5c9184db-dbac-4548-aaab-a3fe77d5024d&feed=PpzWFGhg)
+
+---
+
+## Freakonomics Radio
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
+
+---
+
+### 650. The Doctor Won’t See You Now
+
+**Released:** 2025-10-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 871: The Thing About Things
+
+**Released:** 2025-10-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,16 +98,6 @@ Last updated: 2025-10-30 01:00:15
 
 ---
 
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
-
----
-
 ## Planet Money
 
 ### The remittance mystery
@@ -72,58 +116,6 @@ Last updated: 2025-10-30 01:00:15
 
 ---
 
-## Freakonomics Radio
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
-
----
-
-### 650. The Doctor Won’t See You Now
-
-**Released:** 2025-10-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2f01cdf8-ebdc-4089-9630-57fc18a59b11/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2f01cdf8-ebdc-4089-9630-57fc18a59b11&feed=Y8lFbOT4)
-
----
-
-## The Joe Rogan Experience
-
-### #2402 - Miranda Lambert
-
-**Released:** 2025-10-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3513247141.mp3?updated=1761758021)
-
----
-
-### #2401 - Avi Loeb
-
-**Released:** 2025-10-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5753154005.mp3?updated=1761669167)
-
----
-
-### #2400 - Katee Sackhoff
-
-**Released:** 2025-10-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546)
-
----
-
-### #2399 - Daryl Davis & Jeff Schoep
-
-**Released:** 2025-10-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5883236559.mp3?updated=1761241430)
-
----
-
 ## Hidden Brain
 
 ### Reframing the Battle of Wills
@@ -134,7 +126,33 @@ Last updated: 2025-10-30 01:00:15
 
 ---
 
+## 99% Invisible
+
+### Your Call Is Important to Us
+
+**Released:** 2025-10-28 17:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
+
+---
+
+### Hidden Levels #6: Segagaga
+
+**Released:** 2025-10-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### SYSK's 2025 Shocktober Halloween Spooktacular 
+
+**Released:** 2025-10-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/af030fe2-d458-4ef9-9d2a-b3850114ad51/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: The Bell Witch
 
@@ -168,49 +186,21 @@ Last updated: 2025-10-30 01:00:15
 
 ---
 
-## 99% Invisible
-
-### Your Call Is Important to Us
-
-**Released:** 2025-10-28 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
-
----
-
-### Hidden Levels #6: Segagaga
-
-**Released:** 2025-10-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/98ee4833-ab2f-4558-80d4-572c1e1c6203/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=98ee4833-ab2f-4558-80d4-572c1e1c6203&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 5: Cruel and Unusual
-
-**Released:** 2025-10-23 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bdc48de5-5d43-4e17-9eb3-b36f00eeb223/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
+
+### Advice Line with Niraj Shah of Wayfair
+
+**Released:** 2025-10-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
 
 **Released:** 2025-10-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with John Zimmer of Lyft
-
-**Released:** 2025-10-23 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/387587f2-9024-4dad-bef4-94cd35b30c87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -221,6 +211,16 @@ Last updated: 2025-10-30 01:00:15
 **Released:** 2025-10-29 16:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders - Part 6: The Porterfield Sessions
+
+**Released:** 2025-10-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -243,6 +243,14 @@ Last updated: 2025-10-30 01:00:15
 ---
 
 ## Armchair Expert
+
+### Listen Now: BETH’S DEAD
+
+**Released:** 2025-10-30 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e38a7e8c-c2e7-47e4-a4e7-91142eecd756.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Cas Holman (on being playful)
 
@@ -288,19 +296,19 @@ Last updated: 2025-10-30 01:00:15
 
 ## Conan O'Brien Needs A Friend
 
+### The Tallest Thing in Marrakesh
+
+**Released:** 2025-10-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
+
+---
+
 ### Judd Apatow Returns
 
 **Released:** 2025-10-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH)
-
----
-
-### Matt Gourley Needs A Fan
-
-**Released:** 2025-10-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/755944a5-2109-496d-ac9a-3061e7dff26d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=755944a5-2109-496d-ac9a-3061e7dff26d&feed=dHoohVNH)
 
 ---
 
