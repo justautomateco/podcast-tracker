@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-01 01:01:33
+Last updated: 2025-11-01 12:21:33
 
 ## Serial
 
@@ -46,6 +46,16 @@ Last updated: 2025-11-01 01:01:33
 
 ---
 
+## This American Life
+
+### 871: The Thing About Things
+
+**Released:** 2025-10-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+
+---
+
 ## TED Talks Daily
 
 ### How to empower the next generation of pilots | Refilwe Ledwaba
@@ -88,16 +98,6 @@ Last updated: 2025-11-01 01:01:33
 
 ---
 
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
-
----
-
 ## Planet Money
 
 ### After the shutdown, SNAP will still be in trouble
@@ -113,6 +113,16 @@ Last updated: 2025-11-01 01:01:33
 **Released:** 2025-10-30 00:34:25
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
+
+---
+
+## Hidden Brain
+
+### Reframing the Battle of Wills
+
+**Released:** 2025-10-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
 
 ---
 
@@ -158,35 +168,15 @@ Last updated: 2025-11-01 01:01:33
 
 ---
 
-## 99% Invisible
-
-### Constitution Breakdown #3: Sen. Elizabeth Warren
-
-**Released:** 2025-10-31 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
-
----
-
-### Your Call Is Important to Us
-
-**Released:** 2025-10-28 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Reframing the Battle of Wills
-
-**Released:** 2025-10-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
+
+### Selects: How Extinction Works
+
+**Released:** 2025-11-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ed9eb6e-7744-4803-9359-b38501359588/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### SYSK's 2025 Shocktober Halloween Spooktacular 
 
@@ -212,11 +202,21 @@ Last updated: 2025-11-01 01:01:33
 
 ---
 
-### Selects: The Great Finger in the Wendy’s Chili Caper
+## 99% Invisible
 
-**Released:** 2025-10-25 09:00:00
+### Constitution Breakdown #3: Sen. Elizabeth Warren
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5c75aec-4e93-4950-9fd2-b37c0114088b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-10-31 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
+
+---
+
+### Your Call Is Important to Us
+
+**Released:** 2025-10-28 17:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
 
 ---
 
@@ -284,6 +284,16 @@ Last updated: 2025-11-01 01:01:33
 
 ---
 
+## SmartLess 
+
+### "Oscar Isaac"
+
+**Released:** 2025-10-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Babysitting II
@@ -323,16 +333,6 @@ Last updated: 2025-11-01 01:01:33
 **Released:** 2025-10-27 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Oscar Isaac"
-
-**Released:** 2025-10-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
