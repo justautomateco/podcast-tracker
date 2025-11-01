@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-10-31 12:25:37
+Last updated: 2025-11-01 01:01:33
 
 ## Serial
 
@@ -28,17 +28,33 @@ Last updated: 2025-10-31 12:25:37
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 871: The Thing About Things
+### 651. The Ultimate Dance Partner
 
-**Released:** 2025-10-26 18:00:00
+**Released:** 2025-10-31 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+
+---
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### How to empower the next generation of pilots | Refilwe Ledwaba
+
+**Released:** 2025-10-31 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69037d3795ee8b1815f9d82f/media.mp3)
+
+---
 
 ### We’re doing AI all wrong. Here’s how to get it right | Sasha Luccioni
 
@@ -72,33 +88,25 @@ Last updated: 2025-10-31 12:25:37
 
 ---
 
-### TED Talks Daily Book Club: You are not alone in your loneliness | Jonny Sun (re-release)
+## This American Life
 
-**Released:** 2025-10-26 06:00:00
+### 871: The Thing About Things
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68fb94651f072c7a1694f7b5/media.mp3)
+**Released:** 2025-10-26 18:00:00
 
----
-
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
-
----
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
 
 ---
 
 ## Planet Money
+
+### After the shutdown, SNAP will still be in trouble
+
+**Released:** 2025-11-01 00:29:42
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
+
+---
 
 ### The remittance mystery
 
@@ -108,15 +116,15 @@ Last updated: 2025-10-31 12:25:37
 
 ---
 
-### Should the fine have to fit the crime?
+## The Joe Rogan Experience
 
-**Released:** 2025-10-24 21:29:00
+### #2404 - Elon Musk
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4993919360.mp3?t=podcast&e=nx-s1-5585267&p=510289&d=1545&size=24721119)
+**Released:** 2025-10-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8982688516.mp3?updated=1761931168)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2403 - Andrew Gallimore
 
@@ -147,6 +155,24 @@ Last updated: 2025-10-31 12:25:37
 **Released:** 2025-10-25 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546)
+
+---
+
+## 99% Invisible
+
+### Constitution Breakdown #3: Sen. Elizabeth Warren
+
+**Released:** 2025-10-31 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
+
+---
+
+### Your Call Is Important to Us
+
+**Released:** 2025-10-28 17:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
 
 ---
 
@@ -194,26 +220,6 @@ Last updated: 2025-10-31 12:25:37
 
 ---
 
-## 99% Invisible
-
-### Your Call Is Important to Us
-
-**Released:** 2025-10-28 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 6: The Porterfield Sessions
-
-**Released:** 2025-10-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Niraj Shah of Wayfair
@@ -232,13 +238,13 @@ Last updated: 2025-10-31 12:25:37
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
+### The Alabama Murders - Part 6: The Porterfield Sessions
 
-**Released:** 2025-10-29 16:30:00
+**Released:** 2025-10-30 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -327,6 +333,16 @@ Last updated: 2025-10-31 12:25:37
 **Released:** 2025-10-27 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
+
+**Released:** 2025-10-29 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
