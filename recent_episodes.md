@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-01 12:21:33
+Last updated: 2025-11-02 01:02:43
+
+## Freakonomics Radio
+
+### 651. The Ultimate Dance Partner
+
+**Released:** 2025-10-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+
+---
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -28,35 +46,15 @@ Last updated: 2025-11-01 12:21:33
 
 ---
 
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
-
----
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
-
----
-
 ## TED Talks Daily
+
+### How to build your confidence — and spark it in others | Brittany Packnett Cunningham (re-release) 
+
+**Released:** 2025-11-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6903892e59814a1956b8149b/media.mp3)
+
+---
 
 ### How to empower the next generation of pilots | Refilwe Ledwaba
 
@@ -90,11 +88,13 @@ Last updated: 2025-11-01 12:21:33
 
 ---
 
-### The surprising science of adolescent brains | Jennifer Pfeifer
+## This American Life
 
-**Released:** 2025-10-27 15:00:13
+### 871: The Thing About Things
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ff88fd5d04b866960492a0/media.mp3)
+**Released:** 2025-10-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
 
 ---
 
@@ -113,16 +113,6 @@ Last updated: 2025-11-01 12:21:33
 **Released:** 2025-10-30 00:34:25
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
-
----
-
-## Hidden Brain
-
-### Reframing the Battle of Wills
-
-**Released:** 2025-10-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
 
 ---
 
@@ -160,11 +150,13 @@ Last updated: 2025-11-01 12:21:33
 
 ---
 
-### #2400 - Katee Sackhoff
+## Hidden Brain
 
-**Released:** 2025-10-25 17:00:00
+### Reframing the Battle of Wills
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8530864888.mp3?updated=1761413546)
+**Released:** 2025-10-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
 
 ---
 
@@ -220,6 +212,16 @@ Last updated: 2025-11-01 12:21:33
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 6: The Porterfield Sessions
+
+**Released:** 2025-10-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Niraj Shah of Wayfair
@@ -235,16 +237,6 @@ Last updated: 2025-11-01 12:21:33
 **Released:** 2025-10-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 6: The Porterfield Sessions
-
-**Released:** 2025-10-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -281,16 +273,6 @@ Last updated: 2025-11-01 12:21:33
 **Released:** 2025-10-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Oscar Isaac"
-
-**Released:** 2025-10-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
@@ -343,6 +325,16 @@ Last updated: 2025-11-01 12:21:33
 **Released:** 2025-10-29 16:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Oscar Isaac"
+
+**Released:** 2025-10-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
