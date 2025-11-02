@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-02 01:02:43
-
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
-
----
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
-
----
+Last updated: 2025-11-02 12:20:59
 
 ## Serial
 
@@ -47,6 +29,14 @@ Last updated: 2025-11-02 01:02:43
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to use your muscles — or risk losing them | How to Be a Better Human
+
+**Released:** 2025-11-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69037e4fbb560dc306887ca2/media.mp3)
+
+---
 
 ### How to build your confidence — and spark it in others | Brittany Packnett Cunningham (re-release) 
 
@@ -80,14 +70,6 @@ Last updated: 2025-11-02 01:02:43
 
 ---
 
-### What if you could talk to your favorite character in a movie? | Christoph Lassner
-
-**Released:** 2025-10-28 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ffdcbc4bfd27f82dd735c7/media.mp3)
-
----
-
 ## This American Life
 
 ### 871: The Thing About Things
@@ -95,6 +77,24 @@ Last updated: 2025-11-02 01:02:43
 **Released:** 2025-10-26 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 651. The Ultimate Dance Partner
+
+**Released:** 2025-10-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+
+---
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
 
 ---
 
@@ -222,24 +222,6 @@ Last updated: 2025-11-02 01:02:43
 
 ---
 
-## How I Built This
-
-### Advice Line with Niraj Shah of Wayfair
-
-**Released:** 2025-10-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
-
-**Released:** 2025-10-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### A Spooky Scary Halloween: The Moth Podcast
@@ -258,6 +240,24 @@ Last updated: 2025-11-02 01:02:43
 
 ---
 
+## How I Built This
+
+### Advice Line with Niraj Shah of Wayfair
+
+**Released:** 2025-10-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse
+
+**Released:** 2025-10-27 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### The Tallest Thing in Marrakesh
@@ -273,6 +273,16 @@ Last updated: 2025-11-02 01:02:43
 **Released:** 2025-10-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Oscar Isaac"
+
+**Released:** 2025-10-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
@@ -325,16 +335,6 @@ Last updated: 2025-11-02 01:02:43
 **Released:** 2025-10-29 16:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Oscar Isaac"
-
-**Released:** 2025-10-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
 
 ---
 
