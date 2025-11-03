@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-02 12:20:59
+Last updated: 2025-11-03 01:02:02
+
+## Freakonomics Radio
+
+### 651. The Ultimate Dance Partner
+
+**Released:** 2025-10-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+
+---
+
+### Are Two C.E.O.s Better Than One? (Update)
+
+**Released:** 2025-10-29 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -25,6 +43,16 @@ Last updated: 2025-11-02 12:20:59
 **Released:** 2025-10-30 09:50:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/5c9184db-dbac-4548-aaab-a3fe77d5024d/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=5c9184db-dbac-4548-aaab-a3fe77d5024d&feed=PpzWFGhg)
+
+---
+
+## This American Life
+
+### 872: Winners
+
+**Released:** 2025-11-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
 
 ---
 
@@ -67,34 +95,6 @@ Last updated: 2025-11-02 12:20:59
 **Released:** 2025-10-29 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69022b4be5f14b413111d7c6/media.mp3)
-
----
-
-## This American Life
-
-### 871: The Thing About Things
-
-**Released:** 2025-10-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3)
-
----
-
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
-
----
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
 
 ---
 
@@ -240,6 +240,48 @@ Last updated: 2025-11-02 12:20:59
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Babysitting II
+
+**Released:** 2025-10-31 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/690f1ace-c59e-459b-9d51-489288f704cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Listen Now: BETH’S DEAD
+
+**Released:** 2025-10-30 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e38a7e8c-c2e7-47e4-a4e7-91142eecd756.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Cas Holman (on being playful)
+
+**Released:** 2025-10-29 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/562cd7c5-958f-4e57-b656-202683f83149.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Tim Lovestedt
+
+**Released:** 2025-10-28 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rose Byrne
+
+**Released:** 2025-10-27 07:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Niraj Shah of Wayfair
@@ -283,48 +325,6 @@ Last updated: 2025-11-02 12:20:59
 **Released:** 2025-10-27 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Babysitting II
-
-**Released:** 2025-10-31 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/690f1ace-c59e-459b-9d51-489288f704cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Listen Now: BETH’S DEAD
-
-**Released:** 2025-10-30 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e38a7e8c-c2e7-47e4-a4e7-91142eecd756.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Cas Holman (on being playful)
-
-**Released:** 2025-10-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/562cd7c5-958f-4e57-b656-202683f83149.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Tim Lovestedt
-
-**Released:** 2025-10-28 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rose Byrne
-
-**Released:** 2025-10-27 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

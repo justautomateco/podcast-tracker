@@ -1,5 +1,19 @@
 [
   {
+    "guid": "594ee8c1-1661-414e-a317-43cb71c31c61",
+    "episode_title": "651. The Ultimate Dance Partner",
+    "release_date": "2025-10-31 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "23041e41-cafa-43a4-b10e-e2846236d673",
+    "episode_title": "Are Two C.E.O.s Better Than One? (Update)",
+    "release_date": "2025-10-29 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "560da90f-2007-4fe8-a8dc-633792df2276",
     "episode_title": "The Preventionist - Ep. 3",
     "release_date": "2025-10-30 10:00:00",
@@ -19,6 +33,13 @@
     "release_date": "2025-10-30 09:50:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/5c9184db-dbac-4548-aaab-a3fe77d5024d/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=5c9184db-dbac-4548-aaab-a3fe77d5024d&feed=PpzWFGhg",
     "podcast_name": "Serial"
+  },
+  {
+    "guid": "46035 at https://www.thisamericanlife.org",
+    "episode_title": "872: Winners",
+    "release_date": "2025-11-02 17:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "69037e4fbb560dc306887ca2",
@@ -54,27 +75,6 @@
     "release_date": "2025-10-29 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69022b4be5f14b413111d7c6/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46032 at https://www.thisamericanlife.org",
-    "episode_title": "871: The Thing About Things",
-    "release_date": "2025-10-26 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "594ee8c1-1661-414e-a317-43cb71c31c61",
-    "episode_title": "651. The Ultimate Dance Partner",
-    "release_date": "2025-10-31 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "23041e41-cafa-43a4-b10e-e2846236d673",
-    "episode_title": "Are Two C.E.O.s Better Than One? (Update)",
-    "release_date": "2025-10-29 01:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "f0597504-f269-4221-a394-c5b6f0460eaa",
@@ -189,41 +189,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Bat6FlVONUvxXGXigZxNkw2fBZWf1Psvc1aapVW1m7I",
-    "episode_title": "Advice Line with Niraj Shah of Wayfair",
-    "release_date": "2025-10-30 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/PV_KNo8UHCgAwXOM1xcGXA65_7Jlm7E9bC-0VUqO6Ok",
-    "episode_title": "Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse",
-    "release_date": "2025-10-27 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "e12c5e81-d361-49bf-9f3e-4a1ead7d2d1a",
-    "episode_title": "The Tallest Thing in Marrakesh",
-    "release_date": "2025-10-30 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "b0a7f3be-3bfc-4c69-a275-d830defcc87c",
-    "episode_title": "Judd Apatow Returns",
-    "release_date": "2025-10-27 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "5d57e7b4-c44a-432c-8937-f2c66d6aa52b",
-    "episode_title": "\"Oscar Isaac\"",
-    "release_date": "2025-10-27 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/Y5sTFlHb2pBb7wdbKoMWZP9-wIeqYViRWRS9hXF6HbE",
     "episode_title": "Armchair Anonymous: Babysitting II",
     "release_date": "2025-10-31 07:35:00",
@@ -257,6 +222,41 @@
     "release_date": "2025-10-27 07:35:00",
     "mp3_url": "https://rss.art19.com/episodes/e2f0c30f-8880-48d5-ac40-1ba85a2ae620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Bat6FlVONUvxXGXigZxNkw2fBZWf1Psvc1aapVW1m7I",
+    "episode_title": "Advice Line with Niraj Shah of Wayfair",
+    "release_date": "2025-10-30 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/PV_KNo8UHCgAwXOM1xcGXA65_7Jlm7E9bC-0VUqO6Ok",
+    "episode_title": "Nuts.com: Jeff Braverman. From Corner Store to Snacktime Powerhouse",
+    "release_date": "2025-10-27 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/3ed9a87b-4724-4128-b9f4-d75ef7c71a76.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "e12c5e81-d361-49bf-9f3e-4a1ead7d2d1a",
+    "episode_title": "The Tallest Thing in Marrakesh",
+    "release_date": "2025-10-30 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "b0a7f3be-3bfc-4c69-a275-d830defcc87c",
+    "episode_title": "Judd Apatow Returns",
+    "release_date": "2025-10-27 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9c14b60f-5412-47f5-b777-b82b98377d5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9c14b60f-5412-47f5-b777-b82b98377d5a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "5d57e7b4-c44a-432c-8937-f2c66d6aa52b",
+    "episode_title": "\"Oscar Isaac\"",
+    "release_date": "2025-10-27 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ccd84131-3d0b-4729-98b0-a9b65b70d065/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ccd84131-3d0b-4729-98b0-a9b65b70d065&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/fuwxeDrJO0weRz1LYVWxY5KG53xJNJBaEbSAl99SDeU",
