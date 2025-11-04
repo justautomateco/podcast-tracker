@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-03 12:25:49
+Last updated: 2025-11-04 00:58:55
 
 ## Serial
 
@@ -46,17 +46,15 @@ Last updated: 2025-11-03 12:25:49
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 872: Winners
+### How AI can solve its own energy crisis | Varun Sivaram
 
-**Released:** 2025-11-02 17:00:00
+**Released:** 2025-11-03 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d02dfdc0dff06df9df49/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Sunday Pick: How to use your muscles — or risk losing them | How to Be a Better Human
 
@@ -90,29 +88,13 @@ Last updated: 2025-11-03 12:25:49
 
 ---
 
-### How to measure the planet’s heartbeat | Yadvinder Malhi
+## This American Life
 
-**Released:** 2025-10-29 15:00:00
+### 872: Winners
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69022b4be5f14b413111d7c6/media.mp3)
+**Released:** 2025-11-02 17:00:00
 
----
-
-## Planet Money
-
-### After the shutdown, SNAP will still be in trouble
-
-**Released:** 2025-11-01 00:29:42
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
-
----
-
-### The remittance mystery
-
-**Released:** 2025-10-30 00:34:25
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
 
 ---
 
@@ -150,13 +132,31 @@ Last updated: 2025-11-03 12:25:49
 
 ---
 
+## Planet Money
+
+### After the shutdown, SNAP will still be in trouble
+
+**Released:** 2025-11-01 00:29:42
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
+
+---
+
+### The remittance mystery
+
+**Released:** 2025-10-30 00:34:25
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
+
+---
+
 ## Hidden Brain
 
-### Reframing the Battle of Wills
+### How Nature Heals Us
 
-**Released:** 2025-10-27 19:00:00
+**Released:** 2025-11-03 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/78fb94f5-b617-43a4-b641-f0b400922a49/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=78fb94f5-b617-43a4-b641-f0b400922a49&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
 
 ---
 
@@ -212,16 +212,6 @@ Last updated: 2025-11-03 12:25:49
 
 ---
 
-## The Tim Ferriss Show
-
-### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
-
-**Released:** 2025-10-29 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 6: The Porterfield Sessions
@@ -229,24 +219,6 @@ Last updated: 2025-11-03 12:25:49
 **Released:** 2025-10-30 04:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Babylist: Natalie Gordon. How a new mom used nap time to build a $500M business.
-
-**Released:** 2025-11-03 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdf507a9-a1de-4a1f-a4e4-3acdbdd4914f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Niraj Shah of Wayfair
-
-**Released:** 2025-10-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,6 +237,24 @@ Last updated: 2025-11-03 12:25:49
 **Released:** 2025-10-28 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904)
+
+---
+
+## How I Built This
+
+### Babylist: Natalie Gordon. How a new mom used nap time to build a $500M business.
+
+**Released:** 2025-11-03 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdf507a9-a1de-4a1f-a4e4-3acdbdd4914f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Niraj Shah of Wayfair
+
+**Released:** 2025-10-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a23b0023-b23b-4834-86f3-b2de297fb034.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -335,6 +325,16 @@ Last updated: 2025-11-03 12:25:49
 **Released:** 2025-10-28 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
+
+**Released:** 2025-10-29 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
