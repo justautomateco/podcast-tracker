@@ -1,5 +1,19 @@
 [
   {
+    "guid": "594ee8c1-1661-414e-a317-43cb71c31c61",
+    "episode_title": "651. The Ultimate Dance Partner",
+    "release_date": "2025-10-31 10:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "23041e41-cafa-43a4-b10e-e2846236d673",
+    "episode_title": "Are Two C.E.O.s Better Than One? (Update)",
+    "release_date": "2025-10-29 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "560da90f-2007-4fe8-a8dc-633792df2276",
     "episode_title": "The Preventionist - Ep. 3",
     "release_date": "2025-10-30 10:00:00",
@@ -19,20 +33,6 @@
     "release_date": "2025-10-30 09:50:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/5c9184db-dbac-4548-aaab-a3fe77d5024d/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=5c9184db-dbac-4548-aaab-a3fe77d5024d&feed=PpzWFGhg",
     "podcast_name": "Serial"
-  },
-  {
-    "guid": "594ee8c1-1661-414e-a317-43cb71c31c61",
-    "episode_title": "651. The Ultimate Dance Partner",
-    "release_date": "2025-10-31 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "23041e41-cafa-43a4-b10e-e2846236d673",
-    "episode_title": "Are Two C.E.O.s Better Than One? (Update)",
-    "release_date": "2025-10-29 01:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "6908d02dfdc0dff06df9df49",
@@ -70,6 +70,20 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "f0597504-f269-4221-a394-c5b6f0460eaa",
+    "episode_title": "After the shutdown, SNAP will still be in trouble",
+    "release_date": "2025-11-01 00:29:42",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "1d2b8d1f-8dec-417a-9003-0c611e4a2433",
+    "episode_title": "The remittance mystery",
+    "release_date": "2025-10-30 00:34:25",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "46035 at https://www.thisamericanlife.org",
     "episode_title": "872: Winners",
     "release_date": "2025-11-02 17:00:00",
@@ -105,25 +119,32 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "f0597504-f269-4221-a394-c5b6f0460eaa",
-    "episode_title": "After the shutdown, SNAP will still be in trouble",
-    "release_date": "2025-11-01 00:29:42",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "1d2b8d1f-8dec-417a-9003-0c611e4a2433",
-    "episode_title": "The remittance mystery",
-    "release_date": "2025-10-30 00:34:25",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "27a2d29c-9c58-4e25-9368-366ae0250184",
     "episode_title": "How Nature Heals Us",
     "release_date": "2025-11-03 20:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "4343f9da-fd37-48c6-bb6e-02e381e019a5",
+    "episode_title": "Constitution Breakdown #3: Sen. Elizabeth Warren",
+    "release_date": "2025-10-31 17:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "884116bf-a2e9-4762-97b5-5dc410b10c0b",
+    "episode_title": "Your Call Is Important to Us",
+    "release_date": "2025-10-28 17:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "435274b6-1c38-4770-8b97-b38a01554047",
+    "episode_title": "What To Do With All This Nuclear Waste?",
+    "release_date": "2025-11-04 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/435274b6-1c38-4770-8b97-b38a01554047/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "7ed9eb6e-7744-4803-9359-b38501359588",
@@ -147,46 +168,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "ca8a4f21-80e8-4ac1-95b9-b37f00fee0b1",
-    "episode_title": "The Texas Chain Saw Massacre: Masterpiece",
-    "release_date": "2025-10-28 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ca8a4f21-80e8-4ac1-95b9-b37f00fee0b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "4343f9da-fd37-48c6-bb6e-02e381e019a5",
-    "episode_title": "Constitution Breakdown #3: Sen. Elizabeth Warren",
-    "release_date": "2025-10-31 17:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "884116bf-a2e9-4762-97b5-5dc410b10c0b",
-    "episode_title": "Your Call Is Important to Us",
-    "release_date": "2025-10-28 17:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "41707455-3c5e-4996-ae8a-b36f00f47ff4",
     "episode_title": "The Alabama Murders - Part 6: The Porterfield Sessions",
     "release_date": "2025-10-30 04:01:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "ee58a4fc-76d2-11ef-a8c5-f3504d9afae9",
-    "episode_title": "A Spooky Scary Halloween: The Moth Podcast",
-    "release_date": "2025-10-31 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b8cba690-76d2-11ef-92d1-1f6e9091b86f",
-    "episode_title": "Lost and Found: The Moth Radio Hour",
-    "release_date": "2025-10-28 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4576128899.mp3?updated=1761333904",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/lDY7q5OLGg3sQIW6vkC8TP40ClLxL_uIhH65yALOJ4s",
@@ -203,6 +189,27 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "b8ee31e2-76d2-11ef-92d1-bb0080a7ab25",
+    "episode_title": "Life After Death: The Moth Radio Hour",
+    "release_date": "2025-11-04 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "ee58a4fc-76d2-11ef-a8c5-f3504d9afae9",
+    "episode_title": "A Spooky Scary Halloween: The Moth Podcast",
+    "release_date": "2025-10-31 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/fuwxeDrJO0weRz1LYVWxY5KG53xJNJBaEbSAl99SDeU",
+    "episode_title": "#833: Jack Canfield \u2014 Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen",
+    "release_date": "2025-10-29 16:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "7b58e174-4789-4c73-814a-f097d53b596d",
     "episode_title": "Claire Danes Returns",
     "release_date": "2025-11-03 05:05:00",
@@ -217,11 +224,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "dc6a44ac-a983-4b46-80e0-715d1bfea141",
-    "episode_title": "\"David Duchovny\"",
-    "release_date": "2025-11-03 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/wTGE_Z-cguIbTzY5lb09xedoYIZWo_wTVPnmf10FUyA",
+    "episode_title": "Mom's Car: Ryan Hansen",
+    "release_date": "2025-11-04 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/c8fda182-5e38-464e-9042-866120f48d40.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/HSsMeuccC-OELbn061AYWVB_SnXugAg1kEuI68TlYbk",
@@ -252,17 +259,10 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/QItVf1XISITDe4An7MDNFPI074J2l3ydDrfS5HFwrCM",
-    "episode_title": "Mom's Car: Tim Lovestedt",
-    "release_date": "2025-10-28 07:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/193908d4-8581-4ef1-be43-b4fc2ea207c4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/fuwxeDrJO0weRz1LYVWxY5KG53xJNJBaEbSAl99SDeU",
-    "episode_title": "#833: Jack Canfield \u2014 Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen",
-    "release_date": "2025-10-29 16:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "dc6a44ac-a983-4b46-80e0-715d1bfea141",
+    "episode_title": "\"David Duchovny\"",
+    "release_date": "2025-11-03 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
