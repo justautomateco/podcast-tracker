@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-05 01:00:36
+Last updated: 2025-11-05 12:25:50
 
 ## Serial
 
@@ -126,6 +126,14 @@ Last updated: 2025-11-05 01:00:36
 
 ## Planet Money
 
+### Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
+
+**Released:** 2025-11-05 08:05:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
+
+---
+
 ### After the shutdown, SNAP will still be in trouble
 
 **Released:** 2025-11-01 00:29:42
@@ -139,16 +147,6 @@ Last updated: 2025-11-05 01:00:36
 **Released:** 2025-10-30 00:34:25
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
-
----
-
-## Hidden Brain
-
-### How Nature Heals Us
-
-**Released:** 2025-11-03 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
 
 ---
 
@@ -178,11 +176,13 @@ Last updated: 2025-11-05 01:00:36
 
 ---
 
-### Short Stuff: The Bell Witch
+## Hidden Brain
 
-**Released:** 2025-10-29 09:00:00
+### How Nature Heals Us
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/75f2dc77-fa36-4451-b59d-b38400d19600/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-11-03 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
 
 ---
 
@@ -204,21 +204,13 @@ Last updated: 2025-11-05 01:00:36
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
+### The Alabama Murders - Part 6: The Porterfield Sessions
 
-**Released:** 2025-11-05 00:00:00
+**Released:** 2025-10-30 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
-
-**Released:** 2025-10-29 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -240,13 +232,21 @@ Last updated: 2025-11-05 01:00:36
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### The Alabama Murders - Part 6: The Porterfield Sessions
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
 
-**Released:** 2025-10-30 04:01:00
+**Released:** 2025-11-05 00:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
+
+**Released:** 2025-10-29 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -268,7 +268,33 @@ Last updated: 2025-11-05 01:00:36
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Claire Danes Returns
+
+**Released:** 2025-11-03 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
+
+---
+
+### The Tallest Thing in Marrakesh
+
+**Released:** 2025-10-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
+
+### Malala Yousafzai (education activist)
+
+**Released:** 2025-11-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mom's Car: Ryan Hansen
 
@@ -302,14 +328,6 @@ Last updated: 2025-11-05 01:00:36
 
 ---
 
-### Cas Holman (on being playful)
-
-**Released:** 2025-10-29 07:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/562cd7c5-958f-4e57-b656-202683f83149.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "David Duchovny"
@@ -317,24 +335,6 @@ Last updated: 2025-11-05 01:00:36
 **Released:** 2025-11-03 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Claire Danes Returns
-
-**Released:** 2025-11-03 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
-### The Tallest Thing in Marrakesh
-
-**Released:** 2025-10-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
 
 ---
 
