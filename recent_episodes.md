@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-04 12:27:12
-
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
-
----
-
-### Are Two C.E.O.s Better Than One? (Update)
-
-**Released:** 2025-10-29 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a62cbc62-6a3d-4e82-b580-0939fbb3e82b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a62cbc62-6a3d-4e82-b580-0939fbb3e82b&feed=Y8lFbOT4)
-
----
+Last updated: 2025-11-05 01:00:36
 
 ## Serial
 
@@ -47,6 +29,14 @@ Last updated: 2025-11-04 12:27:12
 ---
 
 ## TED Talks Daily
+
+### Everything you need to know about AI agents | Swami Sivasubramanian
+
+**Released:** 2025-11-04 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d0ab6ec9ad274ad03264/media.mp3)
+
+---
 
 ### How AI can solve its own energy crisis | Varun Sivaram
 
@@ -80,29 +70,13 @@ Last updated: 2025-11-04 12:27:12
 
 ---
 
-### We’re doing AI all wrong. Here’s how to get it right | Sasha Luccioni
+## Freakonomics Radio
 
-**Released:** 2025-10-30 15:00:46
+### 651. The Ultimate Dance Partner
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/68ffdd20594b6591119168ed/media.mp3)
+**Released:** 2025-10-31 10:00:00
 
----
-
-## Planet Money
-
-### After the shutdown, SNAP will still be in trouble
-
-**Released:** 2025-11-01 00:29:42
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
-
----
-
-### The remittance mystery
-
-**Released:** 2025-10-30 00:34:25
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
 
 ---
 
@@ -117,6 +91,14 @@ Last updated: 2025-11-04 12:27:12
 ---
 
 ## The Joe Rogan Experience
+
+### #2405 - Luis J Gomez & Big Jay Oakerson
+
+**Released:** 2025-11-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
+
+---
 
 ### #2404 - Elon Musk
 
@@ -142,11 +124,21 @@ Last updated: 2025-11-04 12:27:12
 
 ---
 
-### #2401 - Avi Loeb
+## Planet Money
 
-**Released:** 2025-10-28 17:00:00
+### After the shutdown, SNAP will still be in trouble
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5753154005.mp3?updated=1761669167)
+**Released:** 2025-11-01 00:29:42
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
+
+---
+
+### The remittance mystery
+
+**Released:** 2025-10-30 00:34:25
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
 
 ---
 
@@ -157,24 +149,6 @@ Last updated: 2025-11-04 12:27:12
 **Released:** 2025-11-03 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #3: Sen. Elizabeth Warren
-
-**Released:** 2025-10-31 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
-
----
-
-### Your Call Is Important to Us
-
-**Released:** 2025-10-28 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b792594a-de0f-46fb-9118-2af18c95d298/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b792594a-de0f-46fb-9118-2af18c95d298&feed=BqbsxVfO)
 
 ---
 
@@ -212,13 +186,39 @@ Last updated: 2025-11-04 12:27:12
 
 ---
 
-## Revisionist History
+## 99% Invisible
 
-### The Alabama Murders - Part 6: The Porterfield Sessions
+### Gear (Articles of Interest)
 
-**Released:** 2025-10-30 04:01:00
+**Released:** 2025-11-04 18:15:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #3: Sen. Elizabeth Warren
+
+**Released:** 2025-10-31 17:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
+
+**Released:** 2025-11-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
+
+**Released:** 2025-10-29 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,6 +240,16 @@ Last updated: 2025-11-04 12:27:12
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 6: The Porterfield Sessions
+
+**Released:** 2025-10-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### Life After Death: The Moth Radio Hour
@@ -255,34 +265,6 @@ Last updated: 2025-11-04 12:27:12
 **Released:** 2025-10-31 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
-
----
-
-## The Tim Ferriss Show
-
-### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
-
-**Released:** 2025-10-29 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Claire Danes Returns
-
-**Released:** 2025-11-03 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
-### The Tallest Thing in Marrakesh
-
-**Released:** 2025-10-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
 
 ---
 
@@ -335,6 +317,24 @@ Last updated: 2025-11-04 12:27:12
 **Released:** 2025-11-03 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Claire Danes Returns
+
+**Released:** 2025-11-03 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
+
+---
+
+### The Tallest Thing in Marrakesh
+
+**Released:** 2025-10-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
 
 ---
 
