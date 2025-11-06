@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-05 12:25:50
+Last updated: 2025-11-06 00:59:36
+
+## Freakonomics Radio
+
+### 651. The Ultimate Dance Partner
+
+**Released:** 2025-10-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -28,7 +38,25 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
+## This American Life
+
+### 872: Winners
+
+**Released:** 2025-11-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How AI is discovering athletes that human scouts miss | Richard Felton-Thomas
+
+**Released:** 2025-11-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d1a56ec9ad274ad07a58/media.mp3)
+
+---
 
 ### Everything you need to know about AI agents | Swami Sivasubramanian
 
@@ -62,35 +90,33 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
-### How to empower the next generation of pilots | Refilwe Ledwaba
+## Planet Money
 
-**Released:** 2025-10-31 15:00:00
+### Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69037d3795ee8b1815f9d82f/media.mp3)
+**Released:** 2025-11-05 08:05:02
 
----
-
-## Freakonomics Radio
-
-### 651. The Ultimate Dance Partner
-
-**Released:** 2025-10-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
 
 ---
 
-## This American Life
+### After the shutdown, SNAP will still be in trouble
 
-### 872: Winners
+**Released:** 2025-11-01 00:29:42
 
-**Released:** 2025-11-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2406 - Russell Crowe
+
+**Released:** 2025-11-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
+
+---
 
 ### #2405 - Luis J Gomez & Big Jay Oakerson
 
@@ -116,41 +142,25 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
-### #2402 - Miranda Lambert
+## Hidden Brain
 
-**Released:** 2025-10-29 17:00:00
+### How Nature Heals Us
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3513247141.mp3?updated=1761758021)
+**Released:** 2025-11-03 20:00:00
 
----
-
-## Planet Money
-
-### Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
-
-**Released:** 2025-11-05 08:05:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
-
----
-
-### After the shutdown, SNAP will still be in trouble
-
-**Released:** 2025-11-01 00:29:42
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
-
----
-
-### The remittance mystery
-
-**Released:** 2025-10-30 00:34:25
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9751450875.mp3?t=podcast&e=nx-s1-5590256&p=510289&d=1706&size=27301599)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: "Peace" Pipes
+
+**Released:** 2025-11-05 18:58:03
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a85b9faa-0d40-4bcd-b307-b38a01534adb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### What To Do With All This Nuclear Waste?
 
@@ -176,16 +186,6 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
-## Hidden Brain
-
-### How Nature Heals Us
-
-**Released:** 2025-11-03 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Gear (Articles of Interest)
@@ -204,13 +204,13 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### The Alabama Murders - Part 6: The Porterfield Sessions
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
 
-**Released:** 2025-10-30 04:01:00
+**Released:** 2025-11-05 00:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -232,39 +232,13 @@ Last updated: 2025-11-05 12:25:50
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
+### The Alabama Murders - Part 6: The Porterfield Sessions
 
-**Released:** 2025-11-05 00:00:00
+**Released:** 2025-10-30 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #833: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen
-
-**Released:** 2025-10-29 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a95c9785-a0d7-4aca-a7eb-16cae804f09d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
-
----
-
-### A Spooky Scary Halloween: The Moth Podcast
-
-**Released:** 2025-10-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/41707455-3c5e-4996-ae8a-b36f00f47ff4/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -283,6 +257,24 @@ Last updated: 2025-11-05 12:25:50
 **Released:** 2025-10-30 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ba6d4bd3-d358-4783-b543-6da337f7fe71/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ba6d4bd3-d358-4783-b543-6da337f7fe71&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Life After Death: The Moth Radio Hour
+
+**Released:** 2025-11-04 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
+
+---
+
+### A Spooky Scary Halloween: The Moth Podcast
+
+**Released:** 2025-10-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
 
 ---
 
