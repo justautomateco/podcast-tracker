@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-07 00:59:33
+Last updated: 2025-11-07 12:24:44
 
 ## Freakonomics Radio
 
-### 651. The Ultimate Dance Partner
+### 652. Inside the Horse-Industrial Complex
 
-**Released:** 2025-10-31 10:00:00
+**Released:** 2025-11-07 11:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c3d49cca-bb16-4981-a2ba-f6b52296065f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c3d49cca-bb16-4981-a2ba-f6b52296065f&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
 
 ---
 
@@ -54,26 +54,6 @@ Last updated: 2025-11-07 00:59:33
 
 ---
 
-## This American Life
-
-### 872: Winners
-
-**Released:** 2025-11-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
-
----
-
-## Hidden Brain
-
-### How Nature Heals Us
-
-**Released:** 2025-11-03 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
 ## Planet Money
 
 ### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
@@ -92,21 +72,39 @@ Last updated: 2025-11-07 00:59:33
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### Gear (Articles of Interest)
+### 872: Winners
 
-**Released:** 2025-11-04 18:15:00
+**Released:** 2025-11-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
 
 ---
 
-### Constitution Breakdown #3: Sen. Elizabeth Warren
+## The Joe Rogan Experience
 
-**Released:** 2025-10-31 17:30:00
+### #2406 - Russell Crowe
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
+**Released:** 2025-11-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
+
+---
+
+### #2405 - Luis J Gomez & Big Jay Oakerson
+
+**Released:** 2025-11-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
+
+---
+
+### #2404 - Elon Musk
+
+**Released:** 2025-10-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8982688516.mp3?updated=1761931168)
 
 ---
 
@@ -144,67 +142,31 @@ Last updated: 2025-11-07 00:59:33
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### The Alabama Murders - Part 7: The Second Warrant 
+### How Nature Heals Us
 
-**Released:** 2025-11-06 05:01:00
+**Released:** 2025-11-03 20:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
 
 ---
 
-### A Spooky Scary Halloween: The Moth Podcast
+## 99% Invisible
 
-**Released:** 2025-10-31 04:25:00
+### Gear (Articles of Interest)
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
+**Released:** 2025-11-04 18:15:00
 
----
-
-## Conan O'Brien Needs A Friend
-
-### Play It Again, Yassir
-
-**Released:** 2025-11-06 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
 
 ---
 
-### Claire Danes Returns
+### Constitution Breakdown #3: Sen. Elizabeth Warren
 
-**Released:** 2025-11-03 05:05:00
+**Released:** 2025-10-31 17:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
-
-**Released:** 2025-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
-
----
-
-### "David Duchovny"
-
-**Released:** 2025-11-03 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
 
 ---
 
@@ -226,7 +188,25 @@ Last updated: 2025-11-07 00:59:33
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 7: The Second Warrant 
+
+**Released:** 2025-11-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Wild Card IX
+
+**Released:** 2025-11-07 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Malala Yousafzai (education activist)
 
@@ -252,11 +232,39 @@ Last updated: 2025-11-07 00:59:33
 
 ---
 
-### Armchair Anonymous: Babysitting II
+## The Moth
 
-**Released:** 2025-10-31 07:35:00
+### Veterans Day: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/690f1ace-c59e-459b-9d51-489288f704cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+
+---
+
+### Life After Death: The Moth Radio Hour
+
+**Released:** 2025-11-04 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Play It Again, Yassir
+
+**Released:** 2025-11-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
+
+---
+
+### Claire Danes Returns
+
+**Released:** 2025-11-03 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
 
 ---
 
@@ -267,6 +275,24 @@ Last updated: 2025-11-07 00:59:33
 **Released:** 2025-11-05 00:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
+
+**Released:** 2025-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
+
+---
+
+### "David Duchovny"
+
+**Released:** 2025-11-03 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
 
 ---
 
