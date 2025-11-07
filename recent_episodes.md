@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-06 12:25:30
+Last updated: 2025-11-07 00:59:33
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-11-06 12:25:30
 ---
 
 ## TED Talks Daily
+
+### 3 tips to make your world beautifully wild | Isabella Tree
+
+**Released:** 2025-11-06 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d1f12a5c8b64eada5a6f/media.mp3)
+
+---
 
 ### How AI is discovering athletes that human scouts miss | Richard Felton-Thomas
 
@@ -46,14 +54,6 @@ Last updated: 2025-11-06 12:25:30
 
 ---
 
-### How to build your confidence — and spark it in others | Brittany Packnett Cunningham (re-release) 
-
-**Released:** 2025-11-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6903892e59814a1956b8149b/media.mp3)
-
----
-
 ## This American Life
 
 ### 872: Winners
@@ -61,24 +61,6 @@ Last updated: 2025-11-06 12:25:30
 **Released:** 2025-11-02 17:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
-
----
-
-## Planet Money
-
-### Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
-
-**Released:** 2025-11-05 08:05:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
-
----
-
-### After the shutdown, SNAP will still be in trouble
-
-**Released:** 2025-11-01 00:29:42
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
 
 ---
 
@@ -92,37 +74,21 @@ Last updated: 2025-11-06 12:25:30
 
 ---
 
-## The Joe Rogan Experience
+## Planet Money
 
-### #2406 - Russell Crowe
+### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
 
-**Released:** 2025-11-05 18:00:00
+**Released:** 2025-11-05 08:05:02
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
-
----
-
-### #2405 - Luis J Gomez & Big Jay Oakerson
-
-**Released:** 2025-11-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
 
 ---
 
-### #2404 - Elon Musk
+### After the shutdown, SNAP will still be in trouble
 
-**Released:** 2025-10-31 17:00:00
+**Released:** 2025-11-01 00:29:42
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8982688516.mp3?updated=1761931168)
-
----
-
-### #2403 - Andrew Gallimore
-
-**Released:** 2025-10-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4443664185.mp3?updated=1761842806)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
 
 ---
 
@@ -178,6 +144,70 @@ Last updated: 2025-11-06 12:25:30
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 7: The Second Warrant 
+
+**Released:** 2025-11-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Life After Death: The Moth Radio Hour
+
+**Released:** 2025-11-04 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
+
+---
+
+### A Spooky Scary Halloween: The Moth Podcast
+
+**Released:** 2025-10-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Play It Again, Yassir
+
+**Released:** 2025-11-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
+
+---
+
+### Claire Danes Returns
+
+**Released:** 2025-11-03 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
+
+**Released:** 2025-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
+
+---
+
+### "David Duchovny"
+
+**Released:** 2025-11-03 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Tariq Farid of Edible Arrangements
@@ -193,16 +223,6 @@ Last updated: 2025-11-06 12:25:30
 **Released:** 2025-11-03 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdf507a9-a1de-4a1f-a4e4-3acdbdd4914f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 7: The Second Warrant 
-
-**Released:** 2025-11-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -237,60 +257,6 @@ Last updated: 2025-11-06 12:25:30
 **Released:** 2025-10-31 07:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/690f1ace-c59e-459b-9d51-489288f704cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Play It Again, Yassir
-
-**Released:** 2025-11-06 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
-
----
-
-### Claire Danes Returns
-
-**Released:** 2025-11-03 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
-
----
-
-### A Spooky Scary Halloween: The Moth Podcast
-
-**Released:** 2025-10-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5458445971.mp3?updated=1760476521)
-
----
-
-## SmartLess 
-
-### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
-
-**Released:** 2025-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
-
----
-
-### "David Duchovny"
-
-**Released:** 2025-11-03 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
 
 ---
 
