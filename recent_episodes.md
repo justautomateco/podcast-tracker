@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-07 12:24:44
+Last updated: 2025-11-08 00:56:01
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-11-07 12:24:44
 ---
 
 ## TED Talks Daily
+
+### Why your blood should flow like ketchup | Sean Farrington
+
+**Released:** 2025-11-07 16:11:37
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/690b7e6c68ccec9b8ef7b489/media.mp3)
+
+---
 
 ### 3 tips to make your world beautifully wild | Isabella Tree
 
@@ -46,29 +54,21 @@ Last updated: 2025-11-07 12:24:44
 
 ---
 
-### Sunday Pick: How to use your muscles — or risk losing them | How to Be a Better Human
+## Planet Money
 
-**Released:** 2025-11-02 07:00:00
+### A new experiment in remote work … from the inside
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69037e4fbb560dc306887ca2/media.mp3)
+**Released:** 2025-11-07 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
 
 ---
-
-## Planet Money
 
 ### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
 
 **Released:** 2025-11-05 08:05:02
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
-
----
-
-### After the shutdown, SNAP will still be in trouble
-
-**Released:** 2025-11-01 00:29:42
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2398824952.mp3?t=podcast&e=nx-s1-5593039&p=510289&d=1787&size=28596855)
 
 ---
 
@@ -82,7 +82,25 @@ Last updated: 2025-11-07 12:24:44
 
 ---
 
+## Hidden Brain
+
+### How Nature Heals Us
+
+**Released:** 2025-11-03 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2407 - Billy Bob Thornton
+
+**Released:** 2025-11-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9623773367.mp3?updated=1762536764)
+
+---
 
 ### #2406 - Russell Crowe
 
@@ -100,11 +118,13 @@ Last updated: 2025-11-07 12:24:44
 
 ---
 
-### #2404 - Elon Musk
+## 99% Invisible
 
-**Released:** 2025-10-31 17:00:00
+### Gear (Articles of Interest)
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8982688516.mp3?updated=1761931168)
+**Released:** 2025-11-04 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
 
 ---
 
@@ -142,31 +162,13 @@ Last updated: 2025-11-07 12:24:44
 
 ---
 
-## Hidden Brain
+## The Tim Ferriss Show
 
-### How Nature Heals Us
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
 
-**Released:** 2025-11-03 20:00:00
+**Released:** 2025-11-05 00:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Gear (Articles of Interest)
-
-**Released:** 2025-11-04 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #3: Sen. Elizabeth Warren
-
-**Released:** 2025-10-31 17:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/62b2b8e1-528d-4b70-ba3c-b349cdfe3386/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=62b2b8e1-528d-4b70-ba3c-b349cdfe3386&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,6 +197,24 @@ Last updated: 2025-11-07 12:24:44
 **Released:** 2025-11-06 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Veterans Day: The Moth Podcast
+
+**Released:** 2025-11-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+
+---
+
+### Life After Death: The Moth Radio Hour
+
+**Released:** 2025-11-04 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
 
 ---
 
@@ -232,24 +252,6 @@ Last updated: 2025-11-07 12:24:44
 
 ---
 
-## The Moth
-
-### Veterans Day: The Moth Podcast
-
-**Released:** 2025-11-07 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
-
----
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Play It Again, Yassir
@@ -265,16 +267,6 @@ Last updated: 2025-11-07 12:24:44
 **Released:** 2025-11-03 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
-
-**Released:** 2025-11-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
