@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-08 12:21:31
+Last updated: 2025-11-09 01:02:26
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-11-08 12:21:31
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 872: Winners
+### My identity is a superpower — not an obstacle | America Ferrera
 
-**Released:** 2025-11-02 17:00:00
+**Released:** 2025-11-08 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/690e44916d62d4e03d8213cf/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Why your blood should flow like ketchup | Sean Farrington
 
@@ -56,14 +54,6 @@ Last updated: 2025-11-08 12:21:31
 
 ---
 
-### How AI can solve its own energy crisis | Varun Sivaram
-
-**Released:** 2025-11-03 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d02dfdc0dff06df9df49/media.mp3)
-
----
-
 ## Planet Money
 
 ### A new experiment in remote work … from the inside
@@ -82,49 +72,13 @@ Last updated: 2025-11-08 12:21:31
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### How Nature Heals Us
+### 872: Winners
 
-**Released:** 2025-11-03 20:00:00
+**Released:** 2025-11-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2407 - Billy Bob Thornton
-
-**Released:** 2025-11-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9623773367.mp3?updated=1762536764)
-
----
-
-### #2406 - Russell Crowe
-
-**Released:** 2025-11-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
-
----
-
-### #2405 - Luis J Gomez & Big Jay Oakerson
-
-**Released:** 2025-11-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
-
----
-
-## 99% Invisible
-
-### Gear (Articles of Interest)
-
-**Released:** 2025-11-04 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3)
 
 ---
 
@@ -162,6 +116,60 @@ Last updated: 2025-11-08 12:21:31
 
 ---
 
+## Hidden Brain
+
+### How Nature Heals Us
+
+**Released:** 2025-11-03 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2408 - Bret Weinstein
+
+**Released:** 2025-11-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6539804907.mp3?updated=1762624833)
+
+---
+
+### #2407 - Billy Bob Thornton
+
+**Released:** 2025-11-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9623773367.mp3?updated=1762536764)
+
+---
+
+### #2406 - Russell Crowe
+
+**Released:** 2025-11-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
+
+---
+
+### #2405 - Luis J Gomez & Big Jay Oakerson
+
+**Released:** 2025-11-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
+
+---
+
+## 99% Invisible
+
+### Gear (Articles of Interest)
+
+**Released:** 2025-11-04 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Tariq Farid of Edible Arrangements
@@ -177,6 +185,44 @@ Last updated: 2025-11-08 12:21:31
 **Released:** 2025-11-03 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdf507a9-a1de-4a1f-a4e4-3acdbdd4914f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Alabama Murders - Part 7: The Second Warrant 
+
+**Released:** 2025-11-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
+
+**Released:** 2025-11-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Veterans Day: The Moth Podcast
+
+**Released:** 2025-11-07 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+
+---
+
+### Life After Death: The Moth Radio Hour
+
+**Released:** 2025-11-04 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
 
 ---
 
@@ -214,34 +260,6 @@ Last updated: 2025-11-08 12:21:31
 
 ---
 
-## Revisionist History
-
-### The Alabama Murders - Part 7: The Second Warrant 
-
-**Released:** 2025-11-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Veterans Day: The Moth Podcast
-
-**Released:** 2025-11-07 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
-
----
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Play It Again, Yassir
@@ -275,16 +293,6 @@ Last updated: 2025-11-08 12:21:31
 **Released:** 2025-11-03 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
-
-**Released:** 2025-11-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
