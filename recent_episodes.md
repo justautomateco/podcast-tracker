@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-10 01:02:25
+Last updated: 2025-11-10 12:25:42
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-11-10 01:02:25
 **Released:** 2025-11-07 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 873: Got You Pegged
-
-**Released:** 2025-11-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -64,21 +54,13 @@ Last updated: 2025-11-10 01:02:25
 
 ---
 
-## Planet Money
+## This American Life
 
-### A new experiment in remote work … from the inside
+### 873: Got You Pegged
 
-**Released:** 2025-11-07 21:00:00
+**Released:** 2025-11-09 18:00:00
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
-
----
-
-### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
-
-**Released:** 2025-11-05 08:05:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -113,6 +95,24 @@ Last updated: 2025-11-10 01:02:25
 **Released:** 2025-11-04 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5951656230.mp3?updated=1762280123)
+
+---
+
+## Planet Money
+
+### A new experiment in remote work … from the inside
+
+**Released:** 2025-11-07 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
+
+---
+
+### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
+
+**Released:** 2025-11-05 08:05:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
 
 ---
 
@@ -170,24 +170,6 @@ Last updated: 2025-11-10 01:02:25
 
 ---
 
-## How I Built This
-
-### Advice Line with Tariq Farid of Edible Arrangements
-
-**Released:** 2025-11-06 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2dfe59de-2d09-4443-a2b7-7c856f58a34d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Babylist: Natalie Gordon. How a new mom used nap time to build a $500M business.
-
-**Released:** 2025-11-03 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdf507a9-a1de-4a1f-a4e4-3acdbdd4914f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Alabama Murders - Part 7: The Second Warrant 
@@ -205,6 +187,24 @@ Last updated: 2025-11-10 01:02:25
 **Released:** 2025-11-05 00:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Backroads: Tom Hale. How a desk worker became a trailblazer in active travel
+
+**Released:** 2025-11-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d68da6f0-eb50-4612-bf7e-179e3c9d5e0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Tariq Farid of Edible Arrangements
+
+**Released:** 2025-11-06 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2dfe59de-2d09-4443-a2b7-7c856f58a34d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,25 +226,15 @@ Last updated: 2025-11-10 01:02:25
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Play It Again, Yassir
-
-**Released:** 2025-11-06 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
-
----
-
-### Claire Danes Returns
-
-**Released:** 2025-11-03 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5332edbd-f0bc-404c-bea5-84fec6ac6b3b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5332edbd-f0bc-404c-bea5-84fec6ac6b3b&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
+
+### Anthony Hopkins
+
+**Released:** 2025-11-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Wild Card IX
 
@@ -270,29 +260,39 @@ Last updated: 2025-11-10 01:02:25
 
 ---
 
-### Reese Witherspoon
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-11-03 08:35:00
+### Rachel Sennott
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93072d37-d5f1-4497-b0a4-8fac2178b311.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-10 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+
+---
+
+### Play It Again, Yassir
+
+**Released:** 2025-11-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
 
 ---
 
 ## SmartLess 
+
+### "Tom Freston"
+
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+
+---
 
 ### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
 
 **Released:** 2025-11-06 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
-
----
-
-### "David Duchovny"
-
-**Released:** 2025-11-03 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e2542f2f-98a1-461c-82c8-5e08b58c0b23/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e2542f2f-98a1-461c-82c8-5e08b58c0b23&feed=hNaFxXpO)
 
 ---
 
