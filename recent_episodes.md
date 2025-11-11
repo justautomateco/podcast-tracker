@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-10 12:25:42
+Last updated: 2025-11-11 01:00:21
 
 ## Freakonomics Radio
 
@@ -14,6 +14,14 @@ Last updated: 2025-11-10 12:25:42
 
 ## TED Talks Daily
 
+### These AI devices protect nature in real time | Juan M. Lavista Ferres
+
+**Released:** 2025-11-10 16:03:07
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69120aaecb5f8761fb65bb80/media.mp3)
+
+---
+
 ### Sunday Pick: Tech Solutions (#1): The affordable tech that will revolutionize farming (with Samir Ibrahim and Josephine Waweru)
 
 **Released:** 2025-11-09 07:00:00
@@ -22,7 +30,7 @@ Last updated: 2025-11-10 12:25:42
 
 ---
 
-### My identity is a superpower — not an obstacle | America Ferrera
+### My identity is a superpower — not an obstacle | America Ferrera (re-release)
 
 **Released:** 2025-11-08 16:00:00
 
@@ -46,14 +54,6 @@ Last updated: 2025-11-10 12:25:42
 
 ---
 
-### How AI is discovering athletes that human scouts miss | Richard Felton-Thomas
-
-**Released:** 2025-11-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6908d1a56ec9ad274ad07a58/media.mp3)
-
----
-
 ## This American Life
 
 ### 873: Got You Pegged
@@ -61,6 +61,34 @@ Last updated: 2025-11-10 12:25:42
 **Released:** 2025-11-09 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
+
+---
+
+## Planet Money
+
+### A new experiment in remote work … from the inside
+
+**Released:** 2025-11-07 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
+
+---
+
+### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
+
+**Released:** 2025-11-05 08:05:02
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
+
+---
+
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
 
 ---
 
@@ -98,24 +126,6 @@ Last updated: 2025-11-10 12:25:42
 
 ---
 
-## Planet Money
-
-### A new experiment in remote work … from the inside
-
-**Released:** 2025-11-07 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
-
----
-
-### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
-
-**Released:** 2025-11-05 08:05:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Conversion Therapy Doesn't Work
@@ -150,16 +160,6 @@ Last updated: 2025-11-10 12:25:42
 
 ---
 
-## Hidden Brain
-
-### How Nature Heals Us
-
-**Released:** 2025-11-03 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/91f19383-375e-47f9-a481-a89d544db384/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=91f19383-375e-47f9-a481-a89d544db384&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Gear (Articles of Interest)
@@ -167,26 +167,6 @@ Last updated: 2025-11-10 12:25:42
 **Released:** 2025-11-04 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### The Alabama Murders - Part 7: The Second Warrant 
-
-**Released:** 2025-11-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
-
-**Released:** 2025-11-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,6 +188,16 @@ Last updated: 2025-11-10 12:25:42
 
 ---
 
+## Revisionist History
+
+### The Alabama Murders - Part 7: The Second Warrant 
+
+**Released:** 2025-11-06 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### Veterans Day: The Moth Podcast
@@ -223,40 +213,6 @@ Last updated: 2025-11-10 12:25:42
 **Released:** 2025-11-04 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
-
----
-
-## Armchair Expert
-
-### Anthony Hopkins
-
-**Released:** 2025-11-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card IX
-
-**Released:** 2025-11-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Malala Yousafzai (education activist)
-
-**Released:** 2025-11-05 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Ryan Hansen
-
-**Released:** 2025-11-04 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8fda182-5e38-464e-9042-866120f48d40.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -293,6 +249,50 @@ Last updated: 2025-11-10 12:25:42
 **Released:** 2025-11-06 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
+
+**Released:** 2025-11-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Anthony Hopkins
+
+**Released:** 2025-11-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card IX
+
+**Released:** 2025-11-07 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Malala Yousafzai (education activist)
+
+**Released:** 2025-11-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Ryan Hansen
+
+**Released:** 2025-11-04 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8fda182-5e38-464e-9042-866120f48d40.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
