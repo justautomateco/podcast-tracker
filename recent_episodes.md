@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-11 01:00:21
+Last updated: 2025-11-11 12:25:22
 
 ## Freakonomics Radio
 
@@ -82,16 +82,6 @@ Last updated: 2025-11-11 01:00:21
 
 ---
 
-## Hidden Brain
-
-### Why Following Your Dreams Isn't Enough
-
-**Released:** 2025-11-10 20:59:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2408 - Bret Weinstein
@@ -126,7 +116,35 @@ Last updated: 2025-11-11 01:00:21
 
 ---
 
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Gear (Articles of Interest)
+
+**Released:** 2025-11-04 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Eco-Disasters 101: The Salton Sea
+
+**Released:** 2025-11-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/adc87a05-4885-492a-a651-b3910137d7b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Conversion Therapy Doesn't Work
 
@@ -152,21 +170,13 @@ Last updated: 2025-11-11 01:00:21
 
 ---
 
-### What To Do With All This Nuclear Waste?
+## The Tim Ferriss Show
 
-**Released:** 2025-11-04 10:00:00
+### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/435274b6-1c38-4770-8b97-b38a01554047/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-11-05 00:00:00
 
----
-
-## 99% Invisible
-
-### Gear (Articles of Interest)
-
-**Released:** 2025-11-04 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/80a563cd-5d23-4bf3-bcdd-94ed8887400c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=80a563cd-5d23-4bf3-bcdd-94ed8887400c&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -190,6 +200,14 @@ Last updated: 2025-11-11 01:00:21
 
 ## Revisionist History
 
+### From Medal of Honor: Showing Up On Veterans Day
+
+**Released:** 2025-11-11 05:15:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ### The Alabama Murders - Part 7: The Second Warrant 
 
 **Released:** 2025-11-06 05:01:00
@@ -198,21 +216,55 @@ Last updated: 2025-11-11 01:00:21
 
 ---
 
+## Armchair Expert
+
+### Mom's Car: Larry Trilling
+
+**Released:** 2025-11-11 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8caba07-5983-4c77-bf67-72a0d217ba92.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anthony Hopkins
+
+**Released:** 2025-11-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card IX
+
+**Released:** 2025-11-07 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Malala Yousafzai (education activist)
+
+**Released:** 2025-11-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
+
+### Advice: The Moth Radio Hour
+
+**Released:** 2025-11-11 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
+
+---
 
 ### Veterans Day: The Moth Podcast
 
 **Released:** 2025-11-07 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
-
----
-
-### Life After Death: The Moth Radio Hour
-
-**Released:** 2025-11-04 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6162946581.mp3?updated=1762116538)
 
 ---
 
@@ -249,50 +301,6 @@ Last updated: 2025-11-11 01:00:21
 **Released:** 2025-11-06 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #834: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More 
-
-**Released:** 2025-11-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b2e791b-8eb4-4963-8cf6-a1ddc5e052b3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Anthony Hopkins
-
-**Released:** 2025-11-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card IX
-
-**Released:** 2025-11-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Malala Yousafzai (education activist)
-
-**Released:** 2025-11-05 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Ryan Hansen
-
-**Released:** 2025-11-04 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8fda182-5e38-464e-9042-866120f48d40.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
