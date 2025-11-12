@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-12 00:59:52
-
-## Freakonomics Radio
-
-### 652. Inside the Horse-Industrial Complex
-
-**Released:** 2025-11-07 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 873: Got You Pegged
-
-**Released:** 2025-11-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
-
----
+Last updated: 2025-11-12 12:25:59
 
 ## TED Talks Daily
 
@@ -64,6 +44,44 @@ Last updated: 2025-11-12 00:59:52
 
 ---
 
+## Planet Money
+
+### A new experiment in remote work … from the inside
+
+**Released:** 2025-11-07 21:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
+
+---
+
+## This American Life
+
+### 873: Got You Pegged
+
+**Released:** 2025-11-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
+
+---
+
+## Freakonomics Radio
+
+### What Happens When You Turn 20
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+
+---
+
+### 652. Inside the Horse-Industrial Complex
+
+**Released:** 2025-11-07 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2409 - Brian Redban
@@ -98,24 +116,6 @@ Last updated: 2025-11-12 00:59:52
 
 ---
 
-## Planet Money
-
-### A new experiment in remote work … from the inside
-
-**Released:** 2025-11-07 21:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9062923990.mp3?t=podcast&e=nx-s1-5601059&p=510289&d=1696&size=27139431)
-
----
-
-### Everything’s more expensive!! Pet care!! Concert tickets!! (Two Indicators)
-
-**Released:** 2025-11-05 08:05:02
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8527498172.mp3?t=podcast&e=nx-s1-5598476&p=510289&d=1059&size=16951258)
-
----
-
 ## Hidden Brain
 
 ### Why Following Your Dreams Isn't Enough
@@ -127,6 +127,14 @@ Last updated: 2025-11-12 00:59:52
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Third Man Syndrome
+
+**Released:** 2025-11-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e7c9054b-9e62-4ff7-9284-b391013cd942/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Eco-Disasters 101: The Salton Sea
 
@@ -206,21 +214,13 @@ Last updated: 2025-11-12 00:59:52
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Advice: The Moth Radio Hour
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
 
-**Released:** 2025-11-11 05:25:00
+**Released:** 2025-11-12 01:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
-
----
-
-### Veterans Day: The Moth Podcast
-
-**Released:** 2025-11-07 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,25 +242,33 @@ Last updated: 2025-11-12 00:59:52
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Tom Freston"
+### Advice: The Moth Radio Hour
 
-**Released:** 2025-11-10 08:01:00
+**Released:** 2025-11-11 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
-### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
+### Veterans Day: The Moth Podcast
 
-**Released:** 2025-11-06 08:00:00
+**Released:** 2025-11-07 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
 
 ---
 
 ## Armchair Expert
+
+### Mel Robbins (on the Let Them Theory)
+
+**Released:** 2025-11-12 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Mom's Car: Larry Trilling
 
@@ -286,11 +294,21 @@ Last updated: 2025-11-12 00:59:52
 
 ---
 
-### Malala Yousafzai (education activist)
+## SmartLess 
 
-**Released:** 2025-11-05 08:35:00
+### "Tom Freston"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/95f7e07d-2d3c-49da-ad91-3473d7a20c9e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+
+---
+
+### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
+
+**Released:** 2025-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
 
 ---
 
