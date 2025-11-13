@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-13 00:59:50
+Last updated: 2025-11-13 12:26:27
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-11-13 00:59:50
 **Released:** 2025-11-07 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 873: Got You Pegged
+
+**Released:** 2025-11-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -80,13 +90,13 @@ Last updated: 2025-11-13 00:59:50
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 873: Got You Pegged
+### Why Following Your Dreams Isn't Enough
 
-**Released:** 2025-11-09 18:00:00
+**Released:** 2025-11-10 20:59:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
 
 ---
 
@@ -124,13 +134,13 @@ Last updated: 2025-11-13 00:59:50
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### Why Following Your Dreams Isn't Enough
+### How to Write a Joke
 
-**Released:** 2025-11-10 20:59:00
+**Released:** 2025-11-11 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
 
 ---
 
@@ -160,39 +170,21 @@ Last updated: 2025-11-13 00:59:50
 
 ---
 
-### The Mystery of the Death Valley Germans
-
-**Released:** 2025-11-06 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/feb0a7e5-6071-49be-95a1-b38d00201eea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### How to Write a Joke
-
-**Released:** 2025-11-11 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### Advice Line with Chet Pipkin of Belkin International
+
+**Released:** 2025-11-13 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d79f2f63-4087-4f86-a089-29e146918bfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Backroads: Tom Hale. How a desk worker became a trailblazer in active travel
 
 **Released:** 2025-11-10 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d68da6f0-eb50-4612-bf7e-179e3c9d5e0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Tariq Farid of Edible Arrangements
-
-**Released:** 2025-11-06 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2dfe59de-2d09-4443-a2b7-7c856f58a34d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -203,14 +195,6 @@ Last updated: 2025-11-13 00:59:50
 **Released:** 2025-11-11 05:15:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Alabama Murders - Part 7: The Second Warrant 
-
-**Released:** 2025-11-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -232,13 +216,39 @@ Last updated: 2025-11-13 00:59:50
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+### A Strong Dose
 
-**Released:** 2025-11-12 01:00:00
+**Released:** 2025-11-13 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
+
+---
+
+### Rachel Sennott
+
+**Released:** 2025-11-10 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+
+---
+
+### "Tom Freston"
+
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
 
 ---
 
@@ -276,39 +286,13 @@ Last updated: 2025-11-13 00:59:50
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Tom Freston"
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
 
-**Released:** 2025-11-10 08:01:00
+**Released:** 2025-11-12 01:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
-
----
-
-### INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)
-
-**Released:** 2025-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Rachel Sennott
-
-**Released:** 2025-11-10 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
-
----
-
-### Play It Again, Yassir
-
-**Released:** 2025-11-06 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

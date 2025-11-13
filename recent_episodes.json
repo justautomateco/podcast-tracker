@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46047 at https://www.thisamericanlife.org",
+    "episode_title": "873: Got You Pegged",
+    "release_date": "2025-11-09 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "6913ca2ddac02c1fcfcc99c8",
     "episode_title": "Two US governors \u2014 a Democrat and a Republican \u2014 on why there's hope for democracy | Matt Meyer and J. Kevin Stitt",
     "release_date": "2025-11-12 16:00:00",
@@ -63,11 +70,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46047 at https://www.thisamericanlife.org",
-    "episode_title": "873: Got You Pegged",
-    "release_date": "2025-11-09 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3",
-    "podcast_name": "This American Life"
+    "guid": "601bdc02-bdbc-471a-8118-29e9be09c405",
+    "episode_title": "Why Following Your Dreams Isn't Enough",
+    "release_date": "2025-11-10 20:59:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "be38c580-bf98-11f0-bc58-535445b7308c",
@@ -98,11 +105,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "601bdc02-bdbc-471a-8118-29e9be09c405",
-    "episode_title": "Why Following Your Dreams Isn't Enough",
-    "release_date": "2025-11-10 20:59:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "3631886a-44de-48b0-bb51-4e23cc76ff15",
+    "episode_title": "How to Write a Joke",
+    "release_date": "2025-11-11 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "e7c9054b-9e62-4ff7-9284-b391013cd942",
@@ -126,18 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "feb0a7e5-6071-49be-95a1-b38d00201eea",
-    "episode_title": "The Mystery of the Death Valley Germans",
-    "release_date": "2025-11-06 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/feb0a7e5-6071-49be-95a1-b38d00201eea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "3631886a-44de-48b0-bb51-4e23cc76ff15",
-    "episode_title": "How to Write a Joke",
-    "release_date": "2025-11-11 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "gid://art19-episode-locator/V0/B1gwcwrl4x3inljUbYHmLto99WNony9q9avOx00j7DU",
+    "episode_title": "Advice Line with Chet Pipkin of Belkin International",
+    "release_date": "2025-11-13 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/d79f2f63-4087-4f86-a089-29e146918bfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/MLFdirC1N3SbdhXN9GMXyg9THoDnL_z0RdCtxW1-U2w",
@@ -147,24 +147,10 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Xzu65_ZIEUSRGYnjSsxy5yO_HopkOKtErc6EdC4lNa8",
-    "episode_title": "Advice Line with Tariq Farid of Edible Arrangements",
-    "release_date": "2025-11-06 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/2dfe59de-2d09-4443-a2b7-7c856f58a34d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "c4ebc9b8-d99b-4d8a-afc2-b3910130c99d",
     "episode_title": "From Medal of Honor: Showing Up On Veterans Day",
     "release_date": "2025-11-11 05:15:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "16551cf9-c539-4070-94fb-b36f0100bf1d",
-    "episode_title": "The Alabama Murders - Part 7: The Second Warrant ",
-    "release_date": "2025-11-06 05:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
   },
   {
@@ -182,11 +168,32 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/byLiXapcM3HIsiwU_7O_2WYjyEScgEF-CtXA8UXbYG8",
-    "episode_title": "#835: Ben Patrick (KneesOverToesGuy) \u2014 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More ",
-    "release_date": "2025-11-12 01:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "93f4e930-c354-41a2-8c8d-e50853cc1b14",
+    "episode_title": "A Strong Dose",
+    "release_date": "2025-11-13 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "ab089aa0-7695-4aaa-9920-4415851cce31",
+    "episode_title": "Rachel Sennott",
+    "release_date": "2025-11-10 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "966b2473-3a9e-4898-8003-3c91dec21f10",
+    "episode_title": "\"RE-RELEASE: Jenny Slate\"",
+    "release_date": "2025-11-13 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "79303346-7b5b-4a3c-8a48-44356c389a25",
+    "episode_title": "\"Tom Freston\"",
+    "release_date": "2025-11-10 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/HO9IkMyu_spuwnh9uqVzgP2x3XmttHzU_1tyUaHmAHc",
@@ -217,31 +224,10 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "79303346-7b5b-4a3c-8a48-44356c389a25",
-    "episode_title": "\"Tom Freston\"",
-    "release_date": "2025-11-10 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "670e825b-9bb2-4d93-89f9-914e0950a758",
-    "episode_title": "INTRODUCING: I Need You Guys with Gabe Liedman, Jenny Slate and Max Silvestri (w/ Sean Hayes)",
-    "release_date": "2025-11-06 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "ab089aa0-7695-4aaa-9920-4415851cce31",
-    "episode_title": "Rachel Sennott",
-    "release_date": "2025-11-10 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "5e2d576b-70a4-4d7e-ade2-c6fc5a471e55",
-    "episode_title": "Play It Again, Yassir",
-    "release_date": "2025-11-06 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/byLiXapcM3HIsiwU_7O_2WYjyEScgEF-CtXA8UXbYG8",
+    "episode_title": "#835: Ben Patrick (KneesOverToesGuy) \u2014 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More ",
+    "release_date": "2025-11-12 01:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
