@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-12 12:25:59
+Last updated: 2025-11-13 00:59:50
+
+## Freakonomics Radio
+
+### What Happens When You Turn 20
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+
+---
+
+### 652. Inside the Horse-Industrial Complex
+
+**Released:** 2025-11-07 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
+
+**Released:** 2025-11-12 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6913ca2ddac02c1fcfcc99c8/media.mp3)
+
+---
 
 ### My journey to thank all the people responsible for my morning coffee | A.J. Jacobs (re-release)
 
@@ -36,15 +62,15 @@ Last updated: 2025-11-12 12:25:59
 
 ---
 
-### Why your blood should flow like ketchup | Sean Farrington
+## Planet Money
 
-**Released:** 2025-11-07 16:11:37
+### Buy now, pay dearly? (update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/690b7e6c68ccec9b8ef7b489/media.mp3)
+**Released:** 2025-11-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
 
 ---
-
-## Planet Money
 
 ### A new experiment in remote work … from the inside
 
@@ -64,25 +90,15 @@ Last updated: 2025-11-12 12:25:59
 
 ---
 
-## Freakonomics Radio
-
-### What Happens When You Turn 20
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
-
----
-
-### 652. Inside the Horse-Industrial Complex
-
-**Released:** 2025-11-07 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6b75367b-d10a-4f03-8a0f-e11b856473e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6b75367b-d10a-4f03-8a0f-e11b856473e7&feed=Y8lFbOT4)
-
----
-
 ## The Joe Rogan Experience
+
+### #2410 - Jeff Dye
+
+**Released:** 2025-11-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
+
+---
 
 ### #2409 - Brian Redban
 
@@ -105,14 +121,6 @@ Last updated: 2025-11-12 12:25:59
 **Released:** 2025-11-07 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9623773367.mp3?updated=1762536764)
-
----
-
-### #2406 - Russell Crowe
-
-**Released:** 2025-11-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8795334918.mp3?updated=1762366923)
 
 ---
 
@@ -160,14 +168,6 @@ Last updated: 2025-11-12 12:25:59
 
 ---
 
-### Short Stuff: "Peace" Pipes
-
-**Released:** 2025-11-05 18:58:03
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a85b9faa-0d40-4bcd-b307-b38a01534adb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### How to Write a Joke
@@ -175,24 +175,6 @@ Last updated: 2025-11-12 12:25:59
 **Released:** 2025-11-11 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### From Medal of Honor: Showing Up On Veterans Day
-
-**Released:** 2025-11-11 05:15:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Alabama Murders - Part 7: The Second Warrant 
-
-**Released:** 2025-11-06 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -214,31 +196,21 @@ Last updated: 2025-11-12 12:25:59
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+### From Medal of Honor: Showing Up On Veterans Day
 
-**Released:** 2025-11-12 01:00:00
+**Released:** 2025-11-11 05:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Rachel Sennott
-
-**Released:** 2025-11-10 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Play It Again, Yassir
+### The Alabama Murders - Part 7: The Second Warrant 
 
-**Released:** 2025-11-06 05:05:00
+**Released:** 2025-11-06 05:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/16551cf9-c539-4070-94fb-b36f0100bf1d/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -257,6 +229,16 @@ Last updated: 2025-11-12 12:25:59
 **Released:** 2025-11-07 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+
+---
+
+## The Tim Ferriss Show
+
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -309,6 +291,24 @@ Last updated: 2025-11-12 12:25:59
 **Released:** 2025-11-06 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c26e80e0-1be5-45c3-ae07-7b7ecfe93b8a&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Rachel Sennott
+
+**Released:** 2025-11-10 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+
+---
+
+### Play It Again, Yassir
+
+**Released:** 2025-11-06 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1c201e7d-7471-4432-b375-f4a3be18684c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1c201e7d-7471-4432-b375-f4a3be18684c&feed=dHoohVNH)
 
 ---
 
