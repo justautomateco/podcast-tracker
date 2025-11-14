@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-13 12:26:27
+Last updated: 2025-11-14 01:00:11
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 873: Got You Pegged
+### How climate shocks could break the economy | Edmond Rhys Jones
 
-**Released:** 2025-11-09 18:00:00
+**Released:** 2025-11-13 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
 
@@ -64,11 +62,13 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
-### My identity is a superpower — not an obstacle | America Ferrera (re-release)
+## This American Life
 
-**Released:** 2025-11-08 16:00:00
+### 873: Got You Pegged
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/690e44916d62d4e03d8213cf/media.mp3)
+**Released:** 2025-11-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -90,17 +90,15 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Why Following Your Dreams Isn't Enough
+### #2411 - Gavin de Becker
 
-**Released:** 2025-11-10 20:59:00
+**Released:** 2025-11-13 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2410 - Jeff Dye
 
@@ -134,6 +132,16 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### How to Write a Joke
@@ -145,6 +153,14 @@ Last updated: 2025-11-13 12:26:27
 ---
 
 ## Stuff You Should Know
+
+### Pop Tarts: No Fruit Necessary
+
+**Released:** 2025-11-13 13:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/215fc91b-1401-4dd1-877a-b394004e9851/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Third Man Syndrome
 
@@ -188,13 +204,13 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### From Medal of Honor: Showing Up On Veterans Day
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
 
-**Released:** 2025-11-11 05:15:00
+**Released:** 2025-11-12 01:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -213,6 +229,40 @@ Last updated: 2025-11-13 12:26:27
 **Released:** 2025-11-07 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4210215781.mp3?updated=1760544712)
+
+---
+
+## Armchair Expert
+
+### Mel Robbins (on the Let Them Theory)
+
+**Released:** 2025-11-12 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Larry Trilling
+
+**Released:** 2025-11-11 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8caba07-5983-4c77-bf67-72a0d217ba92.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anthony Hopkins
+
+**Released:** 2025-11-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card IX
+
+**Released:** 2025-11-07 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,47 +302,13 @@ Last updated: 2025-11-13 12:26:27
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Mel Robbins (on the Let Them Theory)
+### From Medal of Honor: Showing Up On Veterans Day
 
-**Released:** 2025-11-12 08:35:00
+**Released:** 2025-11-11 05:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Larry Trilling
-
-**Released:** 2025-11-11 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8caba07-5983-4c77-bf67-72a0d217ba92.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Anthony Hopkins
-
-**Released:** 2025-11-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card IX
-
-**Released:** 2025-11-07 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f1485125-1117-4090-be72-f99a4ce849b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
