@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-15 00:58:28
+Last updated: 2025-11-15 12:22:13
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-11-15 00:58:28
 **Released:** 2025-11-12 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 873: Got You Pegged
+
+**Released:** 2025-11-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -59,16 +69,6 @@ Last updated: 2025-11-15 00:58:28
 **Released:** 2025-11-10 16:03:07
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69120aaecb5f8761fb65bb80/media.mp3)
-
----
-
-## This American Life
-
-### 873: Got You Pegged
-
-**Released:** 2025-11-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
 
 ---
 
@@ -144,6 +144,14 @@ Last updated: 2025-11-15 00:58:28
 
 ## Stuff You Should Know
 
+### Selects: How Personality Tests Work
+
+**Released:** 2025-11-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c8f84950-2be6-4198-955a-b39401203a65/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Pop Tarts: No Fruit Necessary
 
 **Released:** 2025-11-13 13:00:00
@@ -165,14 +173,6 @@ Last updated: 2025-11-15 00:58:28
 **Released:** 2025-11-11 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/adc87a05-4885-492a-a651-b3910137d7b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Conversion Therapy Doesn't Work
-
-**Released:** 2025-11-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f42e827-df5c-4199-9600-b38a0164e088/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -214,70 +214,6 @@ Last updated: 2025-11-15 00:58:28
 
 ---
 
-## The Moth
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
-
----
-
-### Advice: The Moth Radio Hour
-
-**Released:** 2025-11-11 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### A Strong Dose
-
-**Released:** 2025-11-13 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
-
----
-
-### Rachel Sennott
-
-**Released:** 2025-11-10 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Jenny Slate"
-
-**Released:** 2025-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
-
----
-
-### "Tom Freston"
-
-**Released:** 2025-11-10 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Unexpected Orgasm II
@@ -309,6 +245,70 @@ Last updated: 2025-11-15 00:58:28
 **Released:** 2025-11-10 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### A Strong Dose
+
+**Released:** 2025-11-13 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
+
+---
+
+### Rachel Sennott
+
+**Released:** 2025-11-10 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+
+---
+
+### "Tom Freston"
+
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Talking About Advice: The Moth Podcast
+
+**Released:** 2025-11-14 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+
+---
+
+### Advice: The Moth Radio Hour
+
+**Released:** 2025-11-11 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 

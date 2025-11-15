@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46047 at https://www.thisamericanlife.org",
+    "episode_title": "873: Got You Pegged",
+    "release_date": "2025-11-09 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "69165242e4a19aaf0792d8fa",
     "episode_title": "How to unlock your flirting superpowers | Francesca Hogi",
     "release_date": "2025-11-14 16:00:14",
@@ -47,13 +54,6 @@
     "release_date": "2025-11-10 16:03:07",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69120aaecb5f8761fb65bb80/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46047 at https://www.thisamericanlife.org",
-    "episode_title": "873: Got You Pegged",
-    "release_date": "2025-11-09 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "a3736841-1b0e-4f5d-b837-dd1205cd0575",
@@ -112,6 +112,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "c8f84950-2be6-4198-955a-b39401203a65",
+    "episode_title": "Selects: How Personality Tests Work",
+    "release_date": "2025-11-15 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c8f84950-2be6-4198-955a-b39401203a65/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "215fc91b-1401-4dd1-877a-b394004e9851",
     "episode_title": "Pop Tarts: No Fruit Necessary",
     "release_date": "2025-11-13 13:00:00",
@@ -130,13 +137,6 @@
     "episode_title": "Eco-Disasters 101: The Salton Sea",
     "release_date": "2025-11-11 10:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/adc87a05-4885-492a-a651-b3910137d7b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "1f42e827-df5c-4199-9600-b38a0164e088",
-    "episode_title": "Selects: How Conversion Therapy Doesn't Work",
-    "release_date": "2025-11-08 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f42e827-df5c-4199-9600-b38a0164e088/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
   },
   {
@@ -168,55 +168,6 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "59d793a2-97c8-11f0-9c60-0b103a89368a",
-    "episode_title": "Talking About Advice: The Moth Podcast",
-    "release_date": "2025-11-14 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b910e5ca-76d2-11ef-92d1-8f8ae02c3908",
-    "episode_title": "Advice: The Moth Radio Hour",
-    "release_date": "2025-11-11 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "93f4e930-c354-41a2-8c8d-e50853cc1b14",
-    "episode_title": "A Strong Dose",
-    "release_date": "2025-11-13 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "ab089aa0-7695-4aaa-9920-4415851cce31",
-    "episode_title": "Rachel Sennott",
-    "release_date": "2025-11-10 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/byLiXapcM3HIsiwU_7O_2WYjyEScgEF-CtXA8UXbYG8",
-    "episode_title": "#835: Ben Patrick (KneesOverToesGuy) \u2014 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More ",
-    "release_date": "2025-11-12 01:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "966b2473-3a9e-4898-8003-3c91dec21f10",
-    "episode_title": "\"RE-RELEASE: Jenny Slate\"",
-    "release_date": "2025-11-13 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "79303346-7b5b-4a3c-8a48-44356c389a25",
-    "episode_title": "\"Tom Freston\"",
-    "release_date": "2025-11-10 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/QReU1JTSIFn7wGzOyJO7VJXwEYPd7LL9mhOxzUuNWpM",
     "episode_title": "Armchair Anonymous: Unexpected Orgasm II",
     "release_date": "2025-11-14 08:35:00",
@@ -243,5 +194,54 @@
     "release_date": "2025-11-10 08:35:00",
     "mp3_url": "https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/byLiXapcM3HIsiwU_7O_2WYjyEScgEF-CtXA8UXbYG8",
+    "episode_title": "#835: Ben Patrick (KneesOverToesGuy) \u2014 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More ",
+    "release_date": "2025-11-12 01:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "93f4e930-c354-41a2-8c8d-e50853cc1b14",
+    "episode_title": "A Strong Dose",
+    "release_date": "2025-11-13 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "ab089aa0-7695-4aaa-9920-4415851cce31",
+    "episode_title": "Rachel Sennott",
+    "release_date": "2025-11-10 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "966b2473-3a9e-4898-8003-3c91dec21f10",
+    "episode_title": "\"RE-RELEASE: Jenny Slate\"",
+    "release_date": "2025-11-13 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "79303346-7b5b-4a3c-8a48-44356c389a25",
+    "episode_title": "\"Tom Freston\"",
+    "release_date": "2025-11-10 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "59d793a2-97c8-11f0-9c60-0b103a89368a",
+    "episode_title": "Talking About Advice: The Moth Podcast",
+    "release_date": "2025-11-14 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b910e5ca-76d2-11ef-92d1-8f8ae02c3908",
+    "episode_title": "Advice: The Moth Radio Hour",
+    "release_date": "2025-11-11 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288",
+    "podcast_name": "The Moth"
   }
 ]
