@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-15 12:22:13
+Last updated: 2025-11-16 01:03:55
 
 ## Freakonomics Radio
 
@@ -27,48 +27,6 @@ Last updated: 2025-11-15 12:22:13
 **Released:** 2025-11-09 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
-
----
-
-## TED Talks Daily
-
-### How to unlock your flirting superpowers | Francesca Hogi
-
-**Released:** 2025-11-14 16:00:14
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3)
-
----
-
-### How climate shocks could break the economy | Edmond Rhys Jones
-
-**Released:** 2025-11-13 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
-
----
-
-### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
-
-**Released:** 2025-11-12 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6913ca2ddac02c1fcfcc99c8/media.mp3)
-
----
-
-### My journey to thank all the people responsible for my morning coffee | A.J. Jacobs (re-release)
-
-**Released:** 2025-11-11 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135c7f7728b8766cf5cf7b/media.mp3)
-
----
-
-### These AI devices protect nature in real time | Juan M. Lavista Ferres
-
-**Released:** 2025-11-10 16:03:07
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69120aaecb5f8761fb65bb80/media.mp3)
 
 ---
 
@@ -124,24 +82,6 @@ Last updated: 2025-11-15 12:22:13
 
 ---
 
-### #2408 - Bret Weinstein
-
-**Released:** 2025-11-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6539804907.mp3?updated=1762624833)
-
----
-
-## Hidden Brain
-
-### Why Following Your Dreams Isn't Enough
-
-**Released:** 2025-11-10 20:59:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Personality Tests Work
@@ -173,6 +113,58 @@ Last updated: 2025-11-15 12:22:13
 **Released:** 2025-11-11 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/adc87a05-4885-492a-a651-b3910137d7b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+
+---
+
+## TED Talks Daily
+
+### How to stop AI from killing your critical thinking | Advait Sarkar
+
+**Released:** 2025-11-15 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6915fde5c66f88b092ce1eb9/media.mp3)
+
+---
+
+### How to unlock your flirting superpowers | Francesca Hogi
+
+**Released:** 2025-11-14 16:00:14
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3)
+
+---
+
+### How climate shocks could break the economy | Edmond Rhys Jones
+
+**Released:** 2025-11-13 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
+
+---
+
+### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
+
+**Released:** 2025-11-12 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6913ca2ddac02c1fcfcc99c8/media.mp3)
+
+---
+
+### My journey to thank all the people responsible for my morning coffee | A.J. Jacobs (re-release)
+
+**Released:** 2025-11-11 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135c7f7728b8766cf5cf7b/media.mp3)
 
 ---
 
@@ -211,6 +203,60 @@ Last updated: 2025-11-15 12:22:13
 **Released:** 2025-11-11 05:15:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Talking About Advice: The Moth Podcast
+
+**Released:** 2025-11-14 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+
+---
+
+### Advice: The Moth Radio Hour
+
+**Released:** 2025-11-11 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### A Strong Dose
+
+**Released:** 2025-11-13 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
+
+---
+
+### Rachel Sennott
+
+**Released:** 2025-11-10 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+
+---
+
+### "Tom Freston"
+
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
 
 ---
 
@@ -255,60 +301,6 @@ Last updated: 2025-11-15 12:22:13
 **Released:** 2025-11-12 01:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### A Strong Dose
-
-**Released:** 2025-11-13 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
-
----
-
-### Rachel Sennott
-
-**Released:** 2025-11-10 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Jenny Slate"
-
-**Released:** 2025-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
-
----
-
-### "Tom Freston"
-
-**Released:** 2025-11-10 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
-
----
-
-### Advice: The Moth Radio Hour
-
-**Released:** 2025-11-11 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
