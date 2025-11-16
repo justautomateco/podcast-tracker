@@ -1,6 +1,48 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-16 01:03:55
+Last updated: 2025-11-16 12:21:42
+
+## TED Talks Daily
+
+### TED Talks Daily Book Club: Human Nature: Nine Ways to Feel About Our Changing Planet | Kate Marvel
+
+**Released:** 2025-11-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6916087be4a19aaf07783edd/media.mp3)
+
+---
+
+### How to stop AI from killing your critical thinking | Advait Sarkar
+
+**Released:** 2025-11-15 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6915fde5c66f88b092ce1eb9/media.mp3)
+
+---
+
+### How to unlock your flirting superpowers | Francesca Hogi
+
+**Released:** 2025-11-14 16:00:14
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3)
+
+---
+
+### How climate shocks could break the economy | Edmond Rhys Jones
+
+**Released:** 2025-11-13 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
+
+---
+
+### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
+
+**Released:** 2025-11-12 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6913ca2ddac02c1fcfcc99c8/media.mp3)
+
+---
 
 ## Freakonomics Radio
 
@@ -30,6 +72,16 @@ Last updated: 2025-11-16 01:03:55
 
 ---
 
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+
+---
+
 ## Planet Money
 
 ### The obscure pool of money the US used to bail out Argentina
@@ -45,40 +97,6 @@ Last updated: 2025-11-16 01:03:55
 **Released:** 2025-11-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
-
----
-
-## The Joe Rogan Experience
-
-### #2412 - Adam Carolla
-
-**Released:** 2025-11-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
-
----
-
-### #2411 - Gavin de Becker
-
-**Released:** 2025-11-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
-
----
-
-### #2410 - Jeff Dye
-
-**Released:** 2025-11-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
-
----
-
-### #2409 - Brian Redban
-
-**Released:** 2025-11-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
 
 ---
 
@@ -116,55 +134,37 @@ Last updated: 2025-11-16 01:03:55
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Why Following Your Dreams Isn't Enough
+### #2412 - Adam Carolla
 
-**Released:** 2025-11-10 20:59:00
+**Released:** 2025-11-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
-
----
-
-## TED Talks Daily
-
-### How to stop AI from killing your critical thinking | Advait Sarkar
-
-**Released:** 2025-11-15 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6915fde5c66f88b092ce1eb9/media.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
 
 ---
 
-### How to unlock your flirting superpowers | Francesca Hogi
+### #2411 - Gavin de Becker
 
-**Released:** 2025-11-14 16:00:14
+**Released:** 2025-11-13 18:00:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3)
-
----
-
-### How climate shocks could break the economy | Edmond Rhys Jones
-
-**Released:** 2025-11-13 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
 
 ---
 
-### Two US governors — a Democrat and a Republican — on why there's hope for democracy | Matt Meyer and J. Kevin Stitt
+### #2410 - Jeff Dye
 
-**Released:** 2025-11-12 16:00:00
+**Released:** 2025-11-12 18:00:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6913ca2ddac02c1fcfcc99c8/media.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
 
 ---
 
-### My journey to thank all the people responsible for my morning coffee | A.J. Jacobs (re-release)
+### #2409 - Brian Redban
 
-**Released:** 2025-11-11 16:00:00
+**Released:** 2025-11-11 18:00:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135c7f7728b8766cf5cf7b/media.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
 
 ---
 
@@ -206,21 +206,13 @@ Last updated: 2025-11-16 01:03:55
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Talking About Advice: The Moth Podcast
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
 
-**Released:** 2025-11-14 05:25:00
+**Released:** 2025-11-12 01:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
-
----
-
-### Advice: The Moth Radio Hour
-
-**Released:** 2025-11-11 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,21 +234,21 @@ Last updated: 2025-11-16 01:03:55
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "RE-RELEASE: Jenny Slate"
+### Talking About Advice: The Moth Podcast
 
-**Released:** 2025-11-13 08:00:00
+**Released:** 2025-11-14 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
 
 ---
 
-### "Tom Freston"
+### Advice: The Moth Radio Hour
 
-**Released:** 2025-11-10 08:01:00
+**Released:** 2025-11-11 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
@@ -294,13 +286,21 @@ Last updated: 2025-11-16 01:03:55
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+### "RE-RELEASE: Jenny Slate"
 
-**Released:** 2025-11-12 01:00:00
+**Released:** 2025-11-13 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+
+---
+
+### "Tom Freston"
+
+**Released:** 2025-11-10 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
 
 ---
 
