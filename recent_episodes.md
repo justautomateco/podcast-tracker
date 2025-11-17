@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-16 12:21:42
+Last updated: 2025-11-17 01:01:03
+
+## Freakonomics Radio
+
+### 653. Does Horse Racing Have a Future?
+
+**Released:** 2025-11-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
+
+---
+
+### What Happens When You Turn 20
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 874: Under One Roof
+
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,41 +72,37 @@ Last updated: 2025-11-16 12:21:42
 
 ---
 
-## Freakonomics Radio
+## The Joe Rogan Experience
 
-### 653. Does Horse Racing Have a Future?
+### #2412 - Adam Carolla
 
-**Released:** 2025-11-14 11:00:00
+**Released:** 2025-11-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
-### What Happens When You Turn 20
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
 
 ---
 
-## This American Life
+### #2411 - Gavin de Becker
 
-### 873: Got You Pegged
+**Released:** 2025-11-13 18:00:00
 
-**Released:** 2025-11-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
 
 ---
 
-## Hidden Brain
+### #2410 - Jeff Dye
 
-### Why Following Your Dreams Isn't Enough
+**Released:** 2025-11-12 18:00:00
 
-**Released:** 2025-11-10 20:59:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
+---
+
+### #2409 - Brian Redban
+
+**Released:** 2025-11-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
 
 ---
 
@@ -97,6 +121,16 @@ Last updated: 2025-11-16 12:21:42
 **Released:** 2025-11-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
+
+---
+
+## Hidden Brain
+
+### Why Following Your Dreams Isn't Enough
+
+**Released:** 2025-11-10 20:59:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/672ea4b9-53c2-4731-8bfa-0592e352ceee/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=672ea4b9-53c2-4731-8bfa-0592e352ceee&feed=kwWc0lhf)
 
 ---
 
@@ -134,40 +168,6 @@ Last updated: 2025-11-16 12:21:42
 
 ---
 
-## The Joe Rogan Experience
-
-### #2412 - Adam Carolla
-
-**Released:** 2025-11-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
-
----
-
-### #2411 - Gavin de Becker
-
-**Released:** 2025-11-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
-
----
-
-### #2410 - Jeff Dye
-
-**Released:** 2025-11-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
-
----
-
-### #2409 - Brian Redban
-
-**Released:** 2025-11-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
-
----
-
 ## 99% Invisible
 
 ### How to Write a Joke
@@ -175,6 +175,26 @@ Last updated: 2025-11-16 12:21:42
 **Released:** 2025-11-11 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### From Medal of Honor: Showing Up On Veterans Day
+
+**Released:** 2025-11-11 05:15:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,26 +216,6 @@ Last updated: 2025-11-16 12:21:42
 
 ---
 
-## Revisionist History
-
-### From Medal of Honor: Showing Up On Veterans Day
-
-**Released:** 2025-11-11 05:15:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### A Strong Dose
@@ -231,24 +231,6 @@ Last updated: 2025-11-16 12:21:42
 **Released:** 2025-11-10 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
-
----
-
-### Advice: The Moth Radio Hour
-
-**Released:** 2025-11-11 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
@@ -301,6 +283,24 @@ Last updated: 2025-11-16 12:21:42
 **Released:** 2025-11-10 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Talking About Advice: The Moth Podcast
+
+**Released:** 2025-11-14 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+
+---
+
+### Advice: The Moth Radio Hour
+
+**Released:** 2025-11-11 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
