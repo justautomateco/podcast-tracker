@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-17 01:01:03
+Last updated: 2025-11-17 12:25:49
 
 ## Freakonomics Radio
 
@@ -72,6 +72,24 @@ Last updated: 2025-11-17 01:01:03
 
 ---
 
+## Planet Money
+
+### The obscure pool of money the US used to bail out Argentina
+
+**Released:** 2025-11-15 00:08:44
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
+
+---
+
+### Buy now, pay dearly? (update)
+
+**Released:** 2025-11-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2412 - Adam Carolla
@@ -103,24 +121,6 @@ Last updated: 2025-11-17 01:01:03
 **Released:** 2025-11-11 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
-
----
-
-## Planet Money
-
-### The obscure pool of money the US used to bail out Argentina
-
-**Released:** 2025-11-15 00:08:44
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
-
----
-
-### Buy now, pay dearly? (update)
-
-**Released:** 2025-11-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
 
 ---
 
@@ -200,6 +200,14 @@ Last updated: 2025-11-17 01:01:03
 
 ## How I Built This
 
+### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
+
+**Released:** 2025-11-17 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Advice Line with Chet Pipkin of Belkin International
 
 **Released:** 2025-11-13 08:10:00
@@ -208,15 +216,15 @@ Last updated: 2025-11-17 01:01:03
 
 ---
 
-### Backroads: Tom Hale. How a desk worker became a trailblazer in active travel
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-11-10 07:10:00
+### Paul Scheer Returns
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d68da6f0-eb50-4612-bf7e-179e3c9d5e0a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-17 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### A Strong Dose
 
@@ -226,15 +234,51 @@ Last updated: 2025-11-17 01:01:03
 
 ---
 
-### Rachel Sennott
+## The Moth
 
-**Released:** 2025-11-10 05:05:00
+### Talking About Advice: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/652f80c2-22c5-4584-945a-d42dfee9890e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=652f80c2-22c5-4584-945a-d42dfee9890e&feed=dHoohVNH)
+**Released:** 2025-11-14 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+
+---
+
+### Advice: The Moth Radio Hour
+
+**Released:** 2025-11-11 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
+
+---
+
+## SmartLess 
+
+### "Claire Danes"
+
+**Released:** 2025-11-17 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Billy Crudup
+
+**Released:** 2025-11-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Unexpected Orgasm II
 
@@ -257,50 +301,6 @@ Last updated: 2025-11-17 01:01:03
 **Released:** 2025-11-11 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8caba07-5983-4c77-bf67-72a0d217ba92.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Anthony Hopkins
-
-**Released:** 2025-11-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fb5f417-a9ee-4a55-bbb1-7ed6a04c5272.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Jenny Slate"
-
-**Released:** 2025-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
-
----
-
-### "Tom Freston"
-
-**Released:** 2025-11-10 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c7e16274-cd9c-4f09-9490-f8a59a4ca6c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c7e16274-cd9c-4f09-9490-f8a59a4ca6c9&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
-
----
-
-### Advice: The Moth Radio Hour
-
-**Released:** 2025-11-11 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
 
 ---
 
