@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-18 00:59:31
-
-## Freakonomics Radio
-
-### 653. Does Horse Racing Have a Future?
-
-**Released:** 2025-11-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
-### What Happens When You Turn 20
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
-
----
+Last updated: 2025-11-18 12:26:23
 
 ## TED Talks Daily
 
@@ -62,13 +44,21 @@ Last updated: 2025-11-18 00:59:31
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 874: Under One Roof
+### 653. Does Horse Racing Have a Future?
 
-**Released:** 2025-11-16 18:00:00
+**Released:** 2025-11-14 11:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
+
+---
+
+### What Happens When You Turn 20
+
+**Released:** 2025-11-12 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
 
 ---
 
@@ -87,16 +77,6 @@ Last updated: 2025-11-18 00:59:31
 **Released:** 2025-11-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
-
----
-
-## Hidden Brain
-
-### The Power of Family Stories
-
-**Released:** 2025-11-17 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
 
 ---
 
@@ -134,17 +114,25 @@ Last updated: 2025-11-18 00:59:31
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### How to Write a Joke
+### The Power of Family Stories
 
-**Released:** 2025-11-11 18:15:00
+**Released:** 2025-11-17 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### AM Radio: Solid Gold
+
+**Released:** 2025-11-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Personality Tests Work
 
@@ -170,11 +158,13 @@ Last updated: 2025-11-18 00:59:31
 
 ---
 
-### Eco-Disasters 101: The Salton Sea
+## 99% Invisible
 
-**Released:** 2025-11-11 10:00:00
+### How to Write a Joke
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/adc87a05-4885-492a-a651-b3910137d7b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-11-11 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
 
 ---
 
@@ -188,17 +178,33 @@ Last updated: 2025-11-18 00:59:31
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### From Medal of Honor: Showing Up On Veterans Day
+### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
 
-**Released:** 2025-11-11 05:15:00
+**Released:** 2025-11-17 08:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/64abdb4f-3009-4e8c-b842-b3910124a476/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Chet Pipkin of Belkin International
+
+**Released:** 2025-11-13 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d79f2f63-4087-4f86-a089-29e146918bfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## The Moth
+
+### Afraid to Look: The Moth Radio Hour
+
+**Released:** 2025-11-18 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
+
+---
 
 ### Talking About Advice: The Moth Podcast
 
@@ -208,11 +214,21 @@ Last updated: 2025-11-18 00:59:31
 
 ---
 
-### Advice: The Moth Radio Hour
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-11-11 05:25:00
+### Paul Scheer Returns
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7958259675.mp3?updated=1762742288)
+**Released:** 2025-11-17 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
+
+---
+
+### A Strong Dose
+
+**Released:** 2025-11-13 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
 
 ---
 
@@ -239,50 +255,6 @@ Last updated: 2025-11-18 00:59:31
 **Released:** 2025-11-12 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Larry Trilling
-
-**Released:** 2025-11-11 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c8caba07-5983-4c77-bf67-72a0d217ba92.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Paul Scheer Returns
-
-**Released:** 2025-11-17 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
-
----
-
-### A Strong Dose
-
-**Released:** 2025-11-13 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/72b2e402-6d54-4aef-8a54-f92e4b9ea869/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=72b2e402-6d54-4aef-8a54-f92e4b9ea869&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
-
-**Released:** 2025-11-17 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Chet Pipkin of Belkin International
-
-**Released:** 2025-11-13 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d79f2f63-4087-4f86-a089-29e146918bfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
