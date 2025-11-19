@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-19 00:59:40
+Last updated: 2025-11-19 12:25:49
+
+## This American Life
+
+### 874: Under One Roof
+
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,35 +54,15 @@ Last updated: 2025-11-19 00:59:40
 
 ---
 
-## Freakonomics Radio
-
-### 653. Does Horse Racing Have a Future?
-
-**Released:** 2025-11-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
-### What Happens When You Turn 20
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 874: Under One Roof
-
-**Released:** 2025-11-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
-
----
-
 ## Planet Money
+
+### Days of our Tariffs
+
+**Released:** 2025-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
+
+---
 
 ### The obscure pool of money the US used to bail out Argentina
 
@@ -87,6 +77,16 @@ Last updated: 2025-11-19 00:59:40
 **Released:** 2025-11-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
+
+---
+
+## Freakonomics Radio
+
+### 653. Does Horse Racing Have a Future?
+
+**Released:** 2025-11-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
 
 ---
 
@@ -146,6 +146,14 @@ Last updated: 2025-11-19 00:59:40
 
 ## Stuff You Should Know
 
+### Short Stuff: Victorian Flower Language
+
+**Released:** 2025-11-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### AM Radio: Solid Gold
 
 **Released:** 2025-11-18 10:00:00
@@ -170,24 +178,6 @@ Last updated: 2025-11-19 00:59:40
 
 ---
 
-### Short Stuff: Third Man Syndrome
-
-**Released:** 2025-11-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e7c9054b-9e62-4ff7-9284-b391013cd942/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #835: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More 
-
-**Released:** 2025-11-12 01:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ff2f399e-07dc-4a93-9092-0ecb34e26e64.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
@@ -206,21 +196,13 @@ Last updated: 2025-11-19 00:59:40
 
 ---
 
-## The Moth
+## Revisionist History
 
-### Afraid to Look: The Moth Radio Hour
+### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
 
-**Released:** 2025-11-18 05:25:00
+**Released:** 2025-11-19 05:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
-
----
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -242,25 +224,33 @@ Last updated: 2025-11-19 00:59:40
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Claire Danes"
+### Afraid to Look: The Moth Radio Hour
 
-**Released:** 2025-11-17 08:01:00
+**Released:** 2025-11-18 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
 
 ---
 
-### "RE-RELEASE: Jenny Slate"
+### Talking About Advice: The Moth Podcast
 
-**Released:** 2025-11-13 08:00:00
+**Released:** 2025-11-14 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
 
 ---
 
 ## Armchair Expert
+
+### Andrew Ross Sorkin (on stock market crashes)
+
+**Released:** 2025-11-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Billy Crudup
 
@@ -278,11 +268,21 @@ Last updated: 2025-11-19 00:59:40
 
 ---
 
-### Mel Robbins (on the Let Them Theory)
+## SmartLess 
 
-**Released:** 2025-11-12 08:35:00
+### "Claire Danes"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-17 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
 
 ---
 
