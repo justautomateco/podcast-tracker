@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-18 12:26:23
+Last updated: 2025-11-19 00:59:40
 
 ## TED Talks Daily
+
+### Wicked's costume designer on how to tell stories with clothes | Paul Tazewell
+
+**Released:** 2025-11-18 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691b99fc7cf1b7ec458558c9/media.mp3)
+
+---
 
 ### How to see (and stop) deforestation from space | Tasso Azevedo
 
@@ -36,14 +44,6 @@ Last updated: 2025-11-18 12:26:23
 
 ---
 
-### How climate shocks could break the economy | Edmond Rhys Jones
-
-**Released:** 2025-11-13 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69135d1aa17ebcde88a69628/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 653. Does Horse Racing Have a Future?
@@ -59,6 +59,16 @@ Last updated: 2025-11-18 12:26:23
 **Released:** 2025-11-12 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8ad5331c-8eff-4020-886d-a99cb3b9990f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8ad5331c-8eff-4020-886d-a99cb3b9990f&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 874: Under One Roof
+
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
 
 ---
 
@@ -81,6 +91,14 @@ Last updated: 2025-11-18 12:26:23
 ---
 
 ## The Joe Rogan Experience
+
+### #2413 - Theo Von
+
+**Released:** 2025-11-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2379334722.mp3?updated=1763489262)
+
+---
 
 ### #2412 - Adam Carolla
 
@@ -106,14 +124,6 @@ Last updated: 2025-11-18 12:26:23
 
 ---
 
-### #2409 - Brian Redban
-
-**Released:** 2025-11-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8305697762.mp3?updated=1762884696)
-
----
-
 ## Hidden Brain
 
 ### The Power of Family Stories
@@ -121,6 +131,16 @@ Last updated: 2025-11-18 12:26:23
 **Released:** 2025-11-17 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Moving Walkway Is Ending
+
+**Released:** 2025-11-18 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
 
 ---
 
@@ -155,16 +175,6 @@ Last updated: 2025-11-18 12:26:23
 **Released:** 2025-11-12 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e7c9054b-9e62-4ff7-9284-b391013cd942/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### How to Write a Joke
-
-**Released:** 2025-11-11 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c41e04fb-da91-48a4-939c-a669ff50b745/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c41e04fb-da91-48a4-939c-a669ff50b745&feed=BqbsxVfO)
 
 ---
 
@@ -232,6 +242,24 @@ Last updated: 2025-11-18 12:26:23
 
 ---
 
+## SmartLess 
+
+### "Claire Danes"
+
+**Released:** 2025-11-17 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Jenny Slate"
+
+**Released:** 2025-11-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### Billy Crudup
@@ -255,24 +283,6 @@ Last updated: 2025-11-18 12:26:23
 **Released:** 2025-11-12 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c167e46e-f372-411b-8f2a-22201edbb3dd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Claire Danes"
-
-**Released:** 2025-11-17 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Jenny Slate"
-
-**Released:** 2025-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/9bf6f339-0b60-4cac-8f3b-dab12043fc11/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=9bf6f339-0b60-4cac-8f3b-dab12043fc11&feed=hNaFxXpO)
 
 ---
 
