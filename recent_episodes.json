@@ -1,10 +1,24 @@
 [
   {
+    "guid": "a747ffd2-7f9a-4a66-b359-8012e8d4a3b4",
+    "episode_title": "653. Does Horse Racing Have a Future?",
+    "release_date": "2025-11-14 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "46041 at https://www.thisamericanlife.org",
     "episode_title": "874: Under One Roof",
     "release_date": "2025-11-16 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "691cdbc467ed28baec48cbf3",
+    "episode_title": "How to communicate with your dog, from a Westminster champion | Jennifer Crank",
+    "release_date": "2025-11-19 16:13:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691cdbc467ed28baec48cbf3/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "691b99fc7cf1b7ec458558c9",
@@ -35,39 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69165242e4a19aaf0792d8fa",
-    "episode_title": "How to unlock your flirting superpowers | Francesca Hogi",
-    "release_date": "2025-11-14 16:00:14",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "9d021a52-6a8a-4d6b-98a0-918745420098",
-    "episode_title": "Days of our Tariffs",
-    "release_date": "2025-11-19 08:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "a3736841-1b0e-4f5d-b837-dd1205cd0575",
-    "episode_title": "The obscure pool of money the US used to bail out Argentina",
-    "release_date": "2025-11-15 00:08:44",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "bddd79b3-75ee-4d4f-932f-c0f41a1ac5a2",
-    "episode_title": "Buy now, pay dearly? (update)",
-    "release_date": "2025-11-12 17:00:00",
-    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "a747ffd2-7f9a-4a66-b359-8012e8d4a3b4",
-    "episode_title": "653. Does Horse Racing Have a Future?",
-    "release_date": "2025-11-14 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "f4fc9406-c511-11f0-abd3-872ad44514ab",
+    "episode_title": "#2414 - Brian Simpson",
+    "release_date": "2025-11-19 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "51025322-c43a-11f0-ae04-cb108f162bf5",
@@ -91,13 +77,6 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "be38c580-bf98-11f0-bc58-535445b7308c",
-    "episode_title": "#2410 - Jeff Dye",
-    "release_date": "2025-11-12 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "af26182a-f8c9-4102-9209-5656636898cf",
     "episode_title": "The Power of Family Stories",
     "release_date": "2025-11-17 20:00:00",
@@ -105,11 +84,18 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "6c5a51f9-b6d4-4a09-a75d-77e3d8cdcde0",
-    "episode_title": "The Moving Walkway Is Ending",
-    "release_date": "2025-11-18 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "9d021a52-6a8a-4d6b-98a0-918745420098",
+    "episode_title": "Days of our Tariffs",
+    "release_date": "2025-11-19 08:00:00",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "a3736841-1b0e-4f5d-b837-dd1205cd0575",
+    "episode_title": "The obscure pool of money the US used to bail out Argentina",
+    "release_date": "2025-11-15 00:08:44",
+    "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "31a9a947-8124-4263-9434-b391013a59cc",
@@ -140,6 +126,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "6c5a51f9-b6d4-4a09-a75d-77e3d8cdcde0",
+    "episode_title": "The Moving Walkway Is Ending",
+    "release_date": "2025-11-18 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/Soq9YL_gWBiKTxzGDEIJQwfQrmkrrRoIL1dYuOKxpbY",
     "episode_title": "Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.",
     "release_date": "2025-11-17 08:10:00",
@@ -159,6 +152,27 @@
     "release_date": "2025-11-19 05:01:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/pzrCPIIbZ7c6scakri3YPYeNz0IRqaI3QNVM7ZYwprY",
+    "episode_title": "Andrew Ross Sorkin (on stock market crashes)",
+    "release_date": "2025-11-19 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/HDo65DWeqc_3jxzzvkjeYK6SeUz9V7P-NkcxUMYrmmg",
+    "episode_title": "Billy Crudup",
+    "release_date": "2025-11-17 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QReU1JTSIFn7wGzOyJO7VJXwEYPd7LL9mhOxzUuNWpM",
+    "episode_title": "Armchair Anonymous: Unexpected Orgasm II",
+    "release_date": "2025-11-14 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "4ef3add3-79ef-478e-8cb2-d232495f782f",
@@ -189,25 +203,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/pzrCPIIbZ7c6scakri3YPYeNz0IRqaI3QNVM7ZYwprY",
-    "episode_title": "Andrew Ross Sorkin (on stock market crashes)",
-    "release_date": "2025-11-19 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/HDo65DWeqc_3jxzzvkjeYK6SeUz9V7P-NkcxUMYrmmg",
-    "episode_title": "Billy Crudup",
-    "release_date": "2025-11-17 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QReU1JTSIFn7wGzOyJO7VJXwEYPd7LL9mhOxzUuNWpM",
-    "episode_title": "Armchair Anonymous: Unexpected Orgasm II",
-    "release_date": "2025-11-14 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/Sj41p-Hz1eEOoSyln30JZgliC3KnWansHTuswT7ZD0g",
+    "episode_title": "#836: The 4-Hour Workweek Principles \u2014 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom",
+    "release_date": "2025-11-19 15:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "28beaf19-b305-4a5f-8e68-e180453b4118",

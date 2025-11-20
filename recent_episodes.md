@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-19 12:25:49
+Last updated: 2025-11-20 00:58:34
+
+## Freakonomics Radio
+
+### 653. Does Horse Racing Have a Future?
+
+**Released:** 2025-11-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +23,14 @@ Last updated: 2025-11-19 12:25:49
 ---
 
 ## TED Talks Daily
+
+### How to communicate with your dog, from a Westminster champion | Jennifer Crank
+
+**Released:** 2025-11-19 16:13:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691cdbc467ed28baec48cbf3/media.mp3)
+
+---
 
 ### Wicked's costume designer on how to tell stories with clothes | Paul Tazewell
 
@@ -46,51 +64,15 @@ Last updated: 2025-11-19 12:25:49
 
 ---
 
-### How to unlock your flirting superpowers | Francesca Hogi
-
-**Released:** 2025-11-14 16:00:14
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69165242e4a19aaf0792d8fa/media.mp3)
-
----
-
-## Planet Money
-
-### Days of our Tariffs
-
-**Released:** 2025-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
-
----
-
-### The obscure pool of money the US used to bail out Argentina
-
-**Released:** 2025-11-15 00:08:44
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
-
----
-
-### Buy now, pay dearly? (update)
-
-**Released:** 2025-11-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2913788566.mp3?t=podcast&e=nx-s1-5605981&p=510289&d=1509&size=24160218)
-
----
-
-## Freakonomics Radio
-
-### 653. Does Horse Racing Have a Future?
-
-**Released:** 2025-11-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
 ## The Joe Rogan Experience
+
+### #2414 - Brian Simpson
+
+**Released:** 2025-11-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
+
+---
 
 ### #2413 - Theo Von
 
@@ -116,14 +98,6 @@ Last updated: 2025-11-19 12:25:49
 
 ---
 
-### #2410 - Jeff Dye
-
-**Released:** 2025-11-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9078393406.mp3?updated=1762971986)
-
----
-
 ## Hidden Brain
 
 ### The Power of Family Stories
@@ -134,13 +108,21 @@ Last updated: 2025-11-19 12:25:49
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### The Moving Walkway Is Ending
+### Days of our Tariffs
 
-**Released:** 2025-11-18 18:15:00
+**Released:** 2025-11-19 08:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
+
+---
+
+### The obscure pool of money the US used to bail out Argentina
+
+**Released:** 2025-11-15 00:08:44
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
 
 ---
 
@@ -178,6 +160,16 @@ Last updated: 2025-11-19 12:25:49
 
 ---
 
+## 99% Invisible
+
+### The Moving Walkway Is Ending
+
+**Released:** 2025-11-18 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
@@ -203,6 +195,32 @@ Last updated: 2025-11-19 12:25:49
 **Released:** 2025-11-19 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Andrew Ross Sorkin (on stock market crashes)
+
+**Released:** 2025-11-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Billy Crudup
+
+**Released:** 2025-11-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Unexpected Orgasm II
+
+**Released:** 2025-11-14 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,29 +260,13 @@ Last updated: 2025-11-19 12:25:49
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Andrew Ross Sorkin (on stock market crashes)
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
 
-**Released:** 2025-11-19 08:35:00
+**Released:** 2025-11-19 15:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Billy Crudup
-
-**Released:** 2025-11-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Unexpected Orgasm II
-
-**Released:** 2025-11-14 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
