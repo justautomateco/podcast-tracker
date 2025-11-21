@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-21 00:59:01
+Last updated: 2025-11-21 12:24:19
+
+## Freakonomics Radio
+
+### 654. Is the Public Ready for Private Equity?
+
+**Released:** 2025-11-21 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 874: Under One Roof
+
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,26 +64,6 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
-## This American Life
-
-### 874: Under One Roof
-
-**Released:** 2025-11-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
-
----
-
-## Freakonomics Radio
-
-### 653. Does Horse Racing Have a Future?
-
-**Released:** 2025-11-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Days of our Tariffs
@@ -79,16 +79,6 @@ Last updated: 2025-11-21 00:59:01
 **Released:** 2025-11-15 00:08:44
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
-
----
-
-## Hidden Brain
-
-### The Power of Family Stories
-
-**Released:** 2025-11-17 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
 
 ---
 
@@ -126,6 +116,26 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
+## Hidden Brain
+
+### The Power of Family Stories
+
+**Released:** 2025-11-17 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Moving Walkway Is Ending
+
+**Released:** 2025-11-18 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Graffiti: So Cool It’s A Pillar of Hip Hop 
@@ -160,44 +170,6 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
-## 99% Invisible
-
-### The Moving Walkway Is Ending
-
-**Released:** 2025-11-18 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Advice Line with Anthony Casalena of Squarespace
-
-**Released:** 2025-11-20 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
-
-**Released:** 2025-11-17 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
@@ -208,13 +180,21 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Claire Danes"
+### Food Fiascos: The Moth Podcast
 
-**Released:** 2025-11-17 08:01:00
+**Released:** 2025-11-21 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
+
+---
+
+### Afraid to Look: The Moth Radio Hour
+
+**Released:** 2025-11-18 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
 
 ---
 
@@ -236,7 +216,43 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
+## SmartLess 
+
+### "Claire Danes"
+
+**Released:** 2025-11-17 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Advice Line with Anthony Casalena of Squarespace
+
+**Released:** 2025-11-20 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
+
+**Released:** 2025-11-17 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Dental Disaster
+
+**Released:** 2025-11-21 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Andrew Ross Sorkin (on stock market crashes)
 
@@ -254,29 +270,13 @@ Last updated: 2025-11-21 00:59:01
 
 ---
 
-### Armchair Anonymous: Unexpected Orgasm II
+## The Tim Ferriss Show
 
-**Released:** 2025-11-14 08:35:00
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-19 15:00:00
 
----
-
-## The Moth
-
-### Afraid to Look: The Moth Radio Hour
-
-**Released:** 2025-11-18 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
-
----
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
