@@ -1,17 +1,10 @@
 [
   {
-    "guid": "a747ffd2-7f9a-4a66-b359-8012e8d4a3b4",
-    "episode_title": "653. Does Horse Racing Have a Future?",
-    "release_date": "2025-11-14 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46041 at https://www.thisamericanlife.org",
-    "episode_title": "874: Under One Roof",
-    "release_date": "2025-11-16 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3",
-    "podcast_name": "This American Life"
+    "guid": "691f3a044105c9a021282ebb",
+    "episode_title": "The thrill of not knowing all the answers | Harini Bhat",
+    "release_date": "2025-11-20 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a044105c9a021282ebb/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "691cdbc467ed28baec48cbf3",
@@ -42,11 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6915fde5c66f88b092ce1eb9",
-    "episode_title": "How to stop AI from killing your critical thinking | Advait Sarkar",
-    "release_date": "2025-11-15 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6915fde5c66f88b092ce1eb9/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46041 at https://www.thisamericanlife.org",
+    "episode_title": "874: Under One Roof",
+    "release_date": "2025-11-16 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "a747ffd2-7f9a-4a66-b359-8012e8d4a3b4",
+    "episode_title": "653. Does Horse Racing Have a Future?",
+    "release_date": "2025-11-14 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "9d021a52-6a8a-4d6b-98a0-918745420098",
@@ -61,6 +61,20 @@
     "release_date": "2025-11-15 00:08:44",
     "mp3_url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "af26182a-f8c9-4102-9209-5656636898cf",
+    "episode_title": "The Power of Family Stories",
+    "release_date": "2025-11-17 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "fee2dbbe-c5d0-11f0-9b5f-77fbdbaaf2e8",
+    "episode_title": "#2415 - Adam Ray",
+    "release_date": "2025-11-20 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "f4fc9406-c511-11f0-abd3-872ad44514ab",
@@ -82,20 +96,6 @@
     "release_date": "2025-11-14 18:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "cd5e47ec-c01f-11f0-a4f1-f7715a33ff0d",
-    "episode_title": "#2411 - Gavin de Becker",
-    "release_date": "2025-11-13 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "af26182a-f8c9-4102-9209-5656636898cf",
-    "episode_title": "The Power of Family Stories",
-    "release_date": "2025-11-17 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "3f35d83a-c99e-4ce3-b8c6-b39a01623bdc",
@@ -126,18 +126,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "215fc91b-1401-4dd1-877a-b394004e9851",
-    "episode_title": "Pop Tarts: No Fruit Necessary",
-    "release_date": "2025-11-13 13:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/215fc91b-1401-4dd1-877a-b394004e9851/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "6c5a51f9-b6d4-4a09-a75d-77e3d8cdcde0",
     "episode_title": "The Moving Walkway Is Ending",
     "release_date": "2025-11-18 18:15:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Sj41p-Hz1eEOoSyln30JZgliC3KnWansHTuswT7ZD0g",
+    "episode_title": "#836: The 4-Hour Workweek Principles \u2014 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom",
+    "release_date": "2025-11-19 15:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "gid://art19-episode-locator/V0/J8x3KMhPwWtdHLO-ZRZB2g3GoJPIRChjmQm3wd3Oejc",
@@ -161,18 +161,11 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "b93397aa-76d2-11ef-92d1-2bfe151544f7",
-    "episode_title": "Afraid to Look: The Moth Radio Hour",
-    "release_date": "2025-11-18 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "59d793a2-97c8-11f0-9c60-0b103a89368a",
-    "episode_title": "Talking About Advice: The Moth Podcast",
-    "release_date": "2025-11-14 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520",
-    "podcast_name": "The Moth"
+    "guid": "28beaf19-b305-4a5f-8e68-e180453b4118",
+    "episode_title": "\"Claire Danes\"",
+    "release_date": "2025-11-17 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "0a8196d1-19af-451c-8472-e232d6534b07",
@@ -187,20 +180,6 @@
     "release_date": "2025-11-17 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "28beaf19-b305-4a5f-8e68-e180453b4118",
-    "episode_title": "\"Claire Danes\"",
-    "release_date": "2025-11-17 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Sj41p-Hz1eEOoSyln30JZgliC3KnWansHTuswT7ZD0g",
-    "episode_title": "#836: The 4-Hour Workweek Principles \u2014 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom",
-    "release_date": "2025-11-19 15:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "gid://art19-episode-locator/V0/pzrCPIIbZ7c6scakri3YPYeNz0IRqaI3QNVM7ZYwprY",
@@ -222,5 +201,19 @@
     "release_date": "2025-11-14 08:35:00",
     "mp3_url": "https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "b93397aa-76d2-11ef-92d1-2bfe151544f7",
+    "episode_title": "Afraid to Look: The Moth Radio Hour",
+    "release_date": "2025-11-18 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "59d793a2-97c8-11f0-9c60-0b103a89368a",
+    "episode_title": "Talking About Advice: The Moth Podcast",
+    "release_date": "2025-11-14 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520",
+    "podcast_name": "The Moth"
   }
 ]

@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-20 12:25:43
-
-## Freakonomics Radio
-
-### 653. Does Horse Racing Have a Future?
-
-**Released:** 2025-11-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 874: Under One Roof
-
-**Released:** 2025-11-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
-
----
+Last updated: 2025-11-21 00:59:01
 
 ## TED Talks Daily
+
+### The thrill of not knowing all the answers | Harini Bhat
+
+**Released:** 2025-11-20 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a044105c9a021282ebb/media.mp3)
+
+---
 
 ### How to communicate with your dog, from a Westminster champion | Jennifer Crank
 
@@ -56,11 +44,23 @@ Last updated: 2025-11-20 12:25:43
 
 ---
 
-### How to stop AI from killing your critical thinking | Advait Sarkar
+## This American Life
 
-**Released:** 2025-11-15 16:00:00
+### 874: Under One Roof
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6915fde5c66f88b092ce1eb9/media.mp3)
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 653. Does Horse Racing Have a Future?
+
+**Released:** 2025-11-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/021319a8-c4e4-4fce-8d8f-328c88b6c5bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=021319a8-c4e4-4fce-8d8f-328c88b6c5bf&feed=Y8lFbOT4)
 
 ---
 
@@ -82,7 +82,25 @@ Last updated: 2025-11-20 12:25:43
 
 ---
 
+## Hidden Brain
+
+### The Power of Family Stories
+
+**Released:** 2025-11-17 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2415 - Adam Ray
+
+**Released:** 2025-11-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
+
+---
 
 ### #2414 - Brian Simpson
 
@@ -105,24 +123,6 @@ Last updated: 2025-11-20 12:25:43
 **Released:** 2025-11-14 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
-
----
-
-### #2411 - Gavin de Becker
-
-**Released:** 2025-11-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1841746151.mp3?updated=1763054117)
-
----
-
-## Hidden Brain
-
-### The Power of Family Stories
-
-**Released:** 2025-11-17 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
 
 ---
 
@@ -160,14 +160,6 @@ Last updated: 2025-11-20 12:25:43
 
 ---
 
-### Pop Tarts: No Fruit Necessary
-
-**Released:** 2025-11-13 13:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/215fc91b-1401-4dd1-877a-b394004e9851/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### The Moving Walkway Is Ending
@@ -175,6 +167,16 @@ Last updated: 2025-11-20 12:25:43
 **Released:** 2025-11-18 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,21 +208,13 @@ Last updated: 2025-11-20 12:25:43
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Afraid to Look: The Moth Radio Hour
+### "Claire Danes"
 
-**Released:** 2025-11-18 05:25:00
+**Released:** 2025-11-17 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
-
----
-
-### Talking About Advice: The Moth Podcast
-
-**Released:** 2025-11-14 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
 
 ---
 
@@ -239,26 +233,6 @@ Last updated: 2025-11-20 12:25:43
 **Released:** 2025-11-17 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Claire Danes"
-
-**Released:** 2025-11-17 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +259,24 @@ Last updated: 2025-11-20 12:25:43
 **Released:** 2025-11-14 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a452372-d679-4b89-82f1-af0e70dfe6a5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Afraid to Look: The Moth Radio Hour
+
+**Released:** 2025-11-18 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
+
+---
+
+### Talking About Advice: The Moth Podcast
+
+**Released:** 2025-11-14 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9198627808.mp3?updated=1761247520)
 
 ---
 
