@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-22 00:57:10
+Last updated: 2025-11-22 12:21:26
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-11-22 00:57:10
 ---
 
 ## TED Talks Daily
+
+### 4 hard truths about capitalism and climate | Steve Howard
+
+**Released:** 2025-11-22 05:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69136067dac02c1fcface8c9/media.mp3)
+
+---
 
 ### The army of autonomous robots restoring nature | Tom Chi
 
@@ -46,24 +54,6 @@ Last updated: 2025-11-22 00:57:10
 
 ---
 
-### How to see (and stop) deforestation from space | Tasso Azevedo
-
-**Released:** 2025-11-17 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69176500c66f88b09235e985/media.mp3)
-
----
-
-## This American Life
-
-### 874: Under One Roof
-
-**Released:** 2025-11-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
-
----
-
 ## Planet Money
 
 ### The Consumer Sentiment vs. Consumer Spending Puzzle
@@ -79,6 +69,16 @@ Last updated: 2025-11-22 00:57:10
 **Released:** 2025-11-19 08:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
+
+---
+
+## This American Life
+
+### 874: Under One Roof
+
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
 
 ---
 
@@ -162,24 +162,6 @@ Last updated: 2025-11-22 00:57:10
 
 ---
 
-### Selects: How Personality Tests Work
-
-**Released:** 2025-11-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c8f84950-2be6-4198-955a-b39401203a65/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
-
-**Released:** 2025-11-19 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Anthony Casalena of Squarespace
@@ -198,6 +180,26 @@ Last updated: 2025-11-22 00:57:10
 
 ---
 
+## Revisionist History
+
+### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
+
+**Released:** 2025-11-19 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Food Fiascos: The Moth Podcast
@@ -213,6 +215,24 @@ Last updated: 2025-11-22 00:57:10
 **Released:** 2025-11-18 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Putting The Fun Back In Funeral with Special Guest Paul Scheer
+
+**Released:** 2025-11-20 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
+
+---
+
+### Paul Scheer Returns
+
+**Released:** 2025-11-17 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
 
 ---
 
@@ -249,34 +269,6 @@ Last updated: 2025-11-22 00:57:10
 **Released:** 2025-11-17 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Putting The Fun Back In Funeral with Special Guest Paul Scheer
-
-**Released:** 2025-11-20 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
-
----
-
-### Paul Scheer Returns
-
-**Released:** 2025-11-17 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
