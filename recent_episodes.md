@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-21 12:24:19
+Last updated: 2025-11-22 00:57:10
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-11-21 12:24:19
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 874: Under One Roof
+### The army of autonomous robots restoring nature | Tom Chi
 
-**Released:** 2025-11-16 18:00:00
+**Released:** 2025-11-21 16:01:37
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69208ce1c367efee9620464e/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The thrill of not knowing all the answers | Harini Bhat
 
@@ -56,15 +54,25 @@ Last updated: 2025-11-21 12:24:19
 
 ---
 
-### TED Talks Daily Book Club: Human Nature: Nine Ways to Feel About Our Changing Planet | Kate Marvel
+## This American Life
 
-**Released:** 2025-11-16 07:00:00
+### 874: Under One Roof
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6916087be4a19aaf07783edd/media.mp3)
+**Released:** 2025-11-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
 
 ---
 
 ## Planet Money
+
+### The Consumer Sentiment vs. Consumer Spending Puzzle
+
+**Released:** 2025-11-21 22:35:48
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
+
+---
 
 ### Days of our Tariffs
 
@@ -74,15 +82,15 @@ Last updated: 2025-11-21 12:24:19
 
 ---
 
-### The obscure pool of money the US used to bail out Argentina
+## The Joe Rogan Experience
 
-**Released:** 2025-11-15 00:08:44
+### #2416 - Dan Farah
 
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9455717657.mp3?t=podcast&e=nx-s1-5609382&p=510289&d=1757&size=28122889)
+**Released:** 2025-11-21 18:15:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2415 - Adam Ray
 
@@ -105,14 +113,6 @@ Last updated: 2025-11-21 12:24:19
 **Released:** 2025-11-18 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2379334722.mp3?updated=1763489262)
-
----
-
-### #2412 - Adam Carolla
-
-**Released:** 2025-11-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7333946951.mp3?updated=1763140394)
 
 ---
 
@@ -180,52 +180,6 @@ Last updated: 2025-11-21 12:24:19
 
 ---
 
-## The Moth
-
-### Food Fiascos: The Moth Podcast
-
-**Released:** 2025-11-21 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
-
----
-
-### Afraid to Look: The Moth Radio Hour
-
-**Released:** 2025-11-18 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Putting The Fun Back In Funeral with Special Guest Paul Scheer
-
-**Released:** 2025-11-20 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
-
----
-
-### Paul Scheer Returns
-
-**Released:** 2025-11-17 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Claire Danes"
-
-**Released:** 2025-11-17 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Anthony Casalena of Squarespace
@@ -241,6 +195,24 @@ Last updated: 2025-11-21 12:24:19
 **Released:** 2025-11-17 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Food Fiascos: The Moth Podcast
+
+**Released:** 2025-11-21 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
+
+---
+
+### Afraid to Look: The Moth Radio Hour
+
+**Released:** 2025-11-18 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
 
 ---
 
@@ -267,6 +239,34 @@ Last updated: 2025-11-21 12:24:19
 **Released:** 2025-11-17 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Claire Danes"
+
+**Released:** 2025-11-17 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Putting The Fun Back In Funeral with Special Guest Paul Scheer
+
+**Released:** 2025-11-20 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
+
+---
+
+### Paul Scheer Returns
+
+**Released:** 2025-11-17 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
 
 ---
 
