@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-23 01:07:40
+Last updated: 2025-11-23 12:21:10
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-11-23 01:07:40
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to love your hometown (w/ Hanif Abdurraqib & Sarah Kay) | How to Be a Better Human
+
+**Released:** 2025-11-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69208d8ecc6c5ee953bb59e2/media.mp3)
+
+---
 
 ### 4 hard truths about capitalism and climate | Steve Howard
 
@@ -56,14 +64,6 @@ Last updated: 2025-11-23 01:07:40
 
 ---
 
-### Wicked's costume designer on how to tell stories with clothes | Paul Tazewell
-
-**Released:** 2025-11-18 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691b99fc7cf1b7ec458558c9/media.mp3)
-
----
-
 ## Planet Money
 
 ### The Consumer Sentiment vs. Consumer Spending Puzzle
@@ -82,37 +82,13 @@ Last updated: 2025-11-23 01:07:40
 
 ---
 
-## Stuff You Should Know
+## Hidden Brain
 
-### Selects: Rockettes: Still Kicking After All These Years
+### The Power of Family Stories
 
-**Released:** 2025-11-22 10:00:00
+**Released:** 2025-11-17 20:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ca53697-c632-4042-bd68-b39400f2e9ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Graffiti: So Cool It’s A Pillar of Hip Hop 
-
-**Released:** 2025-11-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f35d83a-c99e-4ce3-b8c6-b39a01623bdc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Victorian Flower Language
-
-**Released:** 2025-11-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### AM Radio: Solid Gold
-
-**Released:** 2025-11-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
 
 ---
 
@@ -160,13 +136,37 @@ Last updated: 2025-11-23 01:07:40
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### The Power of Family Stories
+### Selects: Rockettes: Still Kicking After All These Years
 
-**Released:** 2025-11-17 20:00:00
+**Released:** 2025-11-22 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ca53697-c632-4042-bd68-b39400f2e9ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Graffiti: So Cool It’s A Pillar of Hip Hop 
+
+**Released:** 2025-11-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f35d83a-c99e-4ce3-b8c6-b39a01623bdc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Victorian Flower Language
+
+**Released:** 2025-11-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### AM Radio: Solid Gold
+
+**Released:** 2025-11-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -226,32 +226,6 @@ Last updated: 2025-11-23 01:07:40
 
 ---
 
-## Armchair Expert
-
-### Armchair Anonymous: Dental Disaster
-
-**Released:** 2025-11-21 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Ross Sorkin (on stock market crashes)
-
-**Released:** 2025-11-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Billy Crudup
-
-**Released:** 2025-11-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Putting The Fun Back In Funeral with Special Guest Paul Scheer
@@ -277,6 +251,32 @@ Last updated: 2025-11-23 01:07:40
 **Released:** 2025-11-17 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Dental Disaster
+
+**Released:** 2025-11-21 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Andrew Ross Sorkin (on stock market crashes)
+
+**Released:** 2025-11-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Billy Crudup
+
+**Released:** 2025-11-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
