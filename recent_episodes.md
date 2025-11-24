@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-24 01:03:57
-
-## This American Life
-
-### 875: I Hate Mysteries
-
-**Released:** 2025-11-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
-
----
+Last updated: 2025-11-24 12:26:25
 
 ## TED Talks Daily
 
@@ -61,6 +51,50 @@ Last updated: 2025-11-24 01:03:57
 **Released:** 2025-11-21 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 875: I Hate Mysteries
+
+**Released:** 2025-11-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
+
+---
+
+## Stuff You Should Know
+
+### Selects: Rockettes: Still Kicking After All These Years
+
+**Released:** 2025-11-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ca53697-c632-4042-bd68-b39400f2e9ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Graffiti: So Cool It’s A Pillar of Hip Hop 
+
+**Released:** 2025-11-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f35d83a-c99e-4ce3-b8c6-b39a01623bdc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Victorian Flower Language
+
+**Released:** 2025-11-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### AM Radio: Solid Gold
+
+**Released:** 2025-11-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -126,40 +160,6 @@ Last updated: 2025-11-24 01:03:57
 
 ---
 
-## Stuff You Should Know
-
-### Selects: Rockettes: Still Kicking After All These Years
-
-**Released:** 2025-11-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ca53697-c632-4042-bd68-b39400f2e9ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Graffiti: So Cool It’s A Pillar of Hip Hop 
-
-**Released:** 2025-11-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f35d83a-c99e-4ce3-b8c6-b39a01623bdc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Victorian Flower Language
-
-**Released:** 2025-11-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### AM Radio: Solid Gold
-
-**Released:** 2025-11-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### The Moving Walkway Is Ending
@@ -170,21 +170,31 @@ Last updated: 2025-11-24 01:03:57
 
 ---
 
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
+
+### Hydro Flask: Travis Rosbach. How a thirsty surfer changed the water bottle industry
+
+**Released:** 2025-11-24 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eed681d2-381f-4061-ac8c-ae9ec2dcb4c3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Anthony Casalena of Squarespace
 
 **Released:** 2025-11-20 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Gymshark: Ben Francis.  From pizza delivery to billion-dollar fitness brand.
-
-**Released:** 2025-11-17 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8773e762-8ed1-4638-928d-fef819854588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,45 +226,15 @@ Last updated: 2025-11-24 01:03:57
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Putting The Fun Back In Funeral with Special Guest Paul Scheer
-
-**Released:** 2025-11-20 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
-
----
-
-### Paul Scheer Returns
-
-**Released:** 2025-11-17 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Claire Danes"
-
-**Released:** 2025-11-17 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/78946260-7c94-47e4-aa87-b6b2c0f1f200/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=78946260-7c94-47e4-aa87-b6b2c0f1f200&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Joel Edgerton
+
+**Released:** 2025-11-24 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Dental Disaster
 
@@ -272,11 +252,31 @@ Last updated: 2025-11-24 01:03:57
 
 ---
 
-### Billy Crudup
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-11-17 08:35:00
+### Leanne Morgan
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a83627c-58ec-419a-acc1-bd6ac4380d85.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-24 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
+
+---
+
+### Putting The Fun Back In Funeral with Special Guest Paul Scheer
+
+**Released:** 2025-11-20 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Benedict Cumberbatch"
+
+**Released:** 2025-11-24 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
 
 ---
 
