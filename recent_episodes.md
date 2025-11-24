@@ -1,24 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-23 12:21:10
-
-## Freakonomics Radio
-
-### 654. Is the Public Ready for Private Equity?
-
-**Released:** 2025-11-21 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
-
----
+Last updated: 2025-11-24 01:03:57
 
 ## This American Life
 
-### 874: Under One Roof
+### 875: I Hate Mysteries
 
-**Released:** 2025-11-16 18:00:00
+**Released:** 2025-11-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2025-11-23 12:21:10
 
 ---
 
+## Freakonomics Radio
+
+### 654. Is the Public Ready for Private Equity?
+
+**Released:** 2025-11-21 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### The Consumer Sentiment vs. Consumer Spending Puzzle
@@ -89,16 +89,6 @@ Last updated: 2025-11-23 12:21:10
 **Released:** 2025-11-17 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fe10f865-c7b8-46d5-9ad5-ab569133ed14/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fe10f865-c7b8-46d5-9ad5-ab569133ed14&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Moving Walkway Is Ending
-
-**Released:** 2025-11-18 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +160,16 @@ Last updated: 2025-11-23 12:21:10
 
 ---
 
+## 99% Invisible
+
+### The Moving Walkway Is Ending
+
+**Released:** 2025-11-18 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Anthony Casalena of Squarespace
@@ -195,16 +195,6 @@ Last updated: 2025-11-23 12:21:10
 **Released:** 2025-11-19 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -241,6 +231,16 @@ Last updated: 2025-11-23 12:21:10
 **Released:** 2025-11-17 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/78a47b45-6fb3-4fb3-b88e-844145274f9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=78a47b45-6fb3-4fb3-b88e-844145274f9a&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
