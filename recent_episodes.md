@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-25 00:59:13
+Last updated: 2025-11-25 12:26:50
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-11-25 00:59:13
 **Released:** 2025-11-21 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 875: I Hate Mysteries
-
-**Released:** 2025-11-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
 
 ---
 
@@ -64,13 +54,13 @@ Last updated: 2025-11-25 00:59:13
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### Parents: Keep Out!
+### 875: I Hate Mysteries
 
-**Released:** 2025-11-24 20:00:00
+**Released:** 2025-11-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
 
 ---
 
@@ -126,6 +116,16 @@ Last updated: 2025-11-25 00:59:13
 
 ---
 
+## Hidden Brain
+
+### Parents: Keep Out!
+
+**Released:** 2025-11-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### The Moving Walkway Is Ending
@@ -137,6 +137,14 @@ Last updated: 2025-11-25 00:59:13
 ---
 
 ## Stuff You Should Know
+
+### Rice is Nice
+
+**Released:** 2025-11-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8270440f-68d5-4e98-8789-b39f0117a724/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Rockettes: Still Kicking After All These Years
 
@@ -162,14 +170,6 @@ Last updated: 2025-11-25 00:59:13
 
 ---
 
-### AM Radio: Solid Gold
-
-**Released:** 2025-11-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Hydro Flask: Travis Rosbach. How a thirsty surfer changed the water bottle industry
@@ -188,16 +188,6 @@ Last updated: 2025-11-25 00:59:13
 
 ---
 
-## The Tim Ferriss Show
-
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
-
-**Released:** 2025-11-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
@@ -210,19 +200,19 @@ Last updated: 2025-11-25 00:59:13
 
 ## The Moth
 
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
+
+**Released:** 2025-11-25 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
+
+---
+
 ### Food Fiascos: The Moth Podcast
 
 **Released:** 2025-11-21 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
-
----
-
-### Afraid to Look: The Moth Radio Hour
-
-**Released:** 2025-11-18 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8030170634.mp3?updated=1763232677)
 
 ---
 
@@ -252,16 +242,6 @@ Last updated: 2025-11-25 00:59:13
 
 ---
 
-## SmartLess 
-
-### "Benedict Cumberbatch"
-
-**Released:** 2025-11-24 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Leanne Morgan
@@ -277,6 +257,26 @@ Last updated: 2025-11-25 00:59:13
 **Released:** 2025-11-20 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Benedict Cumberbatch"
+
+**Released:** 2025-11-24 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
