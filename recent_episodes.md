@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-26 01:00:16
+Last updated: 2025-11-26 12:26:42
 
 ## Freakonomics Radio
 
@@ -12,40 +12,6 @@ Last updated: 2025-11-26 01:00:16
 
 ---
 
-## The Joe Rogan Experience
-
-### #2417 - Ben van Kerkwyk
-
-**Released:** 2025-11-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
-
----
-
-### #2416 - Dan Farah
-
-**Released:** 2025-11-21 18:15:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
-
----
-
-### #2415 - Adam Ray
-
-**Released:** 2025-11-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
-
----
-
-### #2414 - Brian Simpson
-
-**Released:** 2025-11-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
-
----
-
 ## This American Life
 
 ### 875: I Hate Mysteries
@@ -53,24 +19,6 @@ Last updated: 2025-11-26 01:00:16
 **Released:** 2025-11-23 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
-
----
-
-## Planet Money
-
-### The Consumer Sentiment vs. Consumer Spending Puzzle
-
-**Released:** 2025-11-21 22:35:48
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
-
----
-
-### Days of our Tariffs
-
-**Released:** 2025-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
 
 ---
 
@@ -116,6 +64,50 @@ Last updated: 2025-11-26 01:00:16
 
 ---
 
+## Planet Money
+
+### The Consumer Sentiment vs. Consumer Spending Puzzle
+
+**Released:** 2025-11-21 22:35:48
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
+
+---
+
+## The Joe Rogan Experience
+
+### #2417 - Ben van Kerkwyk
+
+**Released:** 2025-11-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
+
+---
+
+### #2416 - Dan Farah
+
+**Released:** 2025-11-21 18:15:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
+
+---
+
+### #2415 - Adam Ray
+
+**Released:** 2025-11-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
+
+---
+
+### #2414 - Brian Simpson
+
+**Released:** 2025-11-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
+
+---
+
 ## 99% Invisible
 
 ### Murderland
@@ -137,6 +129,14 @@ Last updated: 2025-11-26 01:00:16
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Pies
+
+**Released:** 2025-11-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6c538789-274c-4197-b546-b39a0145abaa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Rice is Nice
 
@@ -162,24 +162,6 @@ Last updated: 2025-11-26 01:00:16
 
 ---
 
-### Short Stuff: Victorian Flower Language
-
-**Released:** 2025-11-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/31a9a947-8124-4263-9434-b391013a59cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
-
-**Released:** 2025-11-19 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Hydro Flask: Travis Rosbach. How a thirsty surfer changed the water bottle industry
@@ -195,50 +177,6 @@ Last updated: 2025-11-26 01:00:16
 **Released:** 2025-11-20 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
-
-**Released:** 2025-11-25 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
-
----
-
-### Food Fiascos: The Moth Podcast
-
-**Released:** 2025-11-21 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
-
----
-
-## Armchair Expert
-
-### Joel Edgerton
-
-**Released:** 2025-11-24 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Dental Disaster
-
-**Released:** 2025-11-21 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Andrew Ross Sorkin (on stock market crashes)
-
-**Released:** 2025-11-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3174023f-18b9-4af4-a15b-8f9ab965e5c7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -260,13 +198,21 @@ Last updated: 2025-11-26 01:00:16
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
 
-**Released:** 2025-11-19 15:00:00
+**Released:** 2025-11-25 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
+
+---
+
+### Food Fiascos: The Moth Podcast
+
+**Released:** 2025-11-21 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
 
 ---
 
@@ -277,6 +223,42 @@ Last updated: 2025-11-26 01:00:16
 **Released:** 2025-11-24 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### David Fajgenbaum (on repurposing medicine)
+
+**Released:** 2025-11-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a0a3dd2-7ebc-4424-83c9-52519044cb56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Joel Edgerton
+
+**Released:** 2025-11-24 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Dental Disaster
+
+**Released:** 2025-11-21 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+
+**Released:** 2025-11-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
