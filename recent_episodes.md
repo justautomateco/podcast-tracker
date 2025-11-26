@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-25 12:26:50
+Last updated: 2025-11-26 01:00:16
 
 ## Freakonomics Radio
 
@@ -12,7 +12,77 @@ Last updated: 2025-11-25 12:26:50
 
 ---
 
+## The Joe Rogan Experience
+
+### #2417 - Ben van Kerkwyk
+
+**Released:** 2025-11-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
+
+---
+
+### #2416 - Dan Farah
+
+**Released:** 2025-11-21 18:15:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
+
+---
+
+### #2415 - Adam Ray
+
+**Released:** 2025-11-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
+
+---
+
+### #2414 - Brian Simpson
+
+**Released:** 2025-11-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
+
+---
+
+## This American Life
+
+### 875: I Hate Mysteries
+
+**Released:** 2025-11-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
+
+---
+
+## Planet Money
+
+### The Consumer Sentiment vs. Consumer Spending Puzzle
+
+**Released:** 2025-11-21 22:35:48
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
+
+---
+
+### Days of our Tariffs
+
+**Released:** 2025-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
+
+---
+
 ## TED Talks Daily
+
+### How AI is unearthing hidden scientific knowledge | Sara Beery
+
+**Released:** 2025-11-25 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d2cf75ae15fa6698472c/media.mp3)
+
+---
 
 ### How the fridge changed food | Nicola Twilley
 
@@ -46,73 +116,13 @@ Last updated: 2025-11-25 12:26:50
 
 ---
 
-### The thrill of not knowing all the answers | Harini Bhat
+## 99% Invisible
 
-**Released:** 2025-11-20 16:00:00
+### Murderland
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a044105c9a021282ebb/media.mp3)
+**Released:** 2025-11-25 18:15:00
 
----
-
-## This American Life
-
-### 875: I Hate Mysteries
-
-**Released:** 2025-11-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
-
----
-
-## Planet Money
-
-### The Consumer Sentiment vs. Consumer Spending Puzzle
-
-**Released:** 2025-11-21 22:35:48
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
-
----
-
-### Days of our Tariffs
-
-**Released:** 2025-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7551497061.mp3?t=podcast&e=nx-s1-5608384&p=510289&d=1803&size=28861423)
-
----
-
-## The Joe Rogan Experience
-
-### #2416 - Dan Farah
-
-**Released:** 2025-11-21 18:15:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
-
----
-
-### #2415 - Adam Ray
-
-**Released:** 2025-11-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
-
----
-
-### #2414 - Brian Simpson
-
-**Released:** 2025-11-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
-
----
-
-### #2413 - Theo Von
-
-**Released:** 2025-11-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2379334722.mp3?updated=1763489262)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
 
 ---
 
@@ -123,16 +133,6 @@ Last updated: 2025-11-25 12:26:50
 **Released:** 2025-11-24 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Moving Walkway Is Ending
-
-**Released:** 2025-11-18 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f800a107-76a1-441e-bb0b-11d2d9e47925/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f800a107-76a1-441e-bb0b-11d2d9e47925&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +170,16 @@ Last updated: 2025-11-25 12:26:50
 
 ---
 
+## Revisionist History
+
+### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
+
+**Released:** 2025-11-19 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Hydro Flask: Travis Rosbach. How a thirsty surfer changed the water bottle industry
@@ -185,16 +195,6 @@ Last updated: 2025-11-25 12:26:50
 **Released:** 2025-11-20 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Introducing Business History: How Free Whisky, Hot Pants and Low Fares Led to Southwest's Success 
-
-**Released:** 2025-11-19 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/582ec0ff-50c5-4e60-9d77-b3980140e368/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,16 +260,6 @@ Last updated: 2025-11-25 12:26:50
 
 ---
 
-## SmartLess 
-
-### "Benedict Cumberbatch"
-
-**Released:** 2025-11-24 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
@@ -277,6 +267,16 @@ Last updated: 2025-11-25 12:26:50
 **Released:** 2025-11-19 15:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Benedict Cumberbatch"
+
+**Released:** 2025-11-24 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
 
 ---
 
