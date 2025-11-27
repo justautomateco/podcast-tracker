@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-26 12:26:42
+Last updated: 2025-11-27 00:59:16
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2025-11-26 12:26:42
 ---
 
 ## TED Talks Daily
+
+### Will AI make humans useless? | Akram Awad
+
+**Released:** 2025-11-26 05:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6925d109064897cd5f7e7805/media.mp3)
+
+---
 
 ### How AI is unearthing hidden scientific knowledge | Sara Beery
 
@@ -56,14 +64,6 @@ Last updated: 2025-11-26 12:26:42
 
 ---
 
-### The army of autonomous robots restoring nature | Tom Chi
-
-**Released:** 2025-11-21 16:01:37
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69208ce1c367efee9620464e/media.mp3)
-
----
-
 ## Planet Money
 
 ### The Consumer Sentiment vs. Consumer Spending Puzzle
@@ -75,6 +75,14 @@ Last updated: 2025-11-26 12:26:42
 ---
 
 ## The Joe Rogan Experience
+
+### #2418 - Chris Williamson
+
+**Released:** 2025-11-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1284914876.mp3?updated=1764173684)
+
+---
 
 ### #2417 - Ben van Kerkwyk
 
@@ -97,34 +105,6 @@ Last updated: 2025-11-26 12:26:42
 **Released:** 2025-11-20 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6872566201.mp3?updated=1763660342)
-
----
-
-### #2414 - Brian Simpson
-
-**Released:** 2025-11-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3653150856.mp3?updated=1763574233)
-
----
-
-## 99% Invisible
-
-### Murderland
-
-**Released:** 2025-11-25 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Parents: Keep Out!
-
-**Released:** 2025-11-24 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
 
 ---
 
@@ -162,6 +142,26 @@ Last updated: 2025-11-26 12:26:42
 
 ---
 
+## Hidden Brain
+
+### Parents: Keep Out!
+
+**Released:** 2025-11-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Murderland
+
+**Released:** 2025-11-25 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Hydro Flask: Travis Rosbach. How a thirsty surfer changed the water bottle industry
@@ -177,24 +177,6 @@ Last updated: 2025-11-26 12:26:42
 **Released:** 2025-11-20 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3a36068e-531c-4071-b252-cd25ee49f4e9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Leanne Morgan
-
-**Released:** 2025-11-24 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
-
----
-
-### Putting The Fun Back In Funeral with Special Guest Paul Scheer
-
-**Released:** 2025-11-20 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
 
 ---
 
@@ -216,13 +198,13 @@ Last updated: 2025-11-26 12:26:42
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Benedict Cumberbatch"
+### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
 
-**Released:** 2025-11-24 08:01:00
+**Released:** 2025-11-26 21:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,13 +234,31 @@ Last updated: 2025-11-26 12:26:42
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #836: The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom
+### "Benedict Cumberbatch"
 
-**Released:** 2025-11-19 15:00:00
+**Released:** 2025-11-24 08:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2d23c9ce-8bc8-4fe3-a836-2698639efb0c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Leanne Morgan
+
+**Released:** 2025-11-24 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
+
+---
+
+### Putting The Fun Back In Funeral with Special Guest Paul Scheer
+
+**Released:** 2025-11-20 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/04337f7d-703c-45f4-90ee-ccfae3659dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=04337f7d-703c-45f4-90ee-ccfae3659dc5&feed=dHoohVNH)
 
 ---
 
