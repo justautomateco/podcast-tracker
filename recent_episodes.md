@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-28 00:57:59
-
-## Freakonomics Radio
-
-### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
-
-**Released:** 2025-11-27 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
-
----
-
-### 654. Is the Public Ready for Private Equity?
-
-**Released:** 2025-11-21 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/50a18abf-6a56-4670-9c91-d9c75bf67710/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=50a18abf-6a56-4670-9c91-d9c75bf67710&feed=Y8lFbOT4)
-
----
+Last updated: 2025-11-28 12:25:02
 
 ## TED Talks Daily
 
@@ -62,6 +44,16 @@ Last updated: 2025-11-28 00:57:59
 
 ---
 
+## Freakonomics Radio
+
+### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
+
+**Released:** 2025-11-27 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
 ### 875: I Hate Mysteries
@@ -69,16 +61,6 @@ Last updated: 2025-11-28 00:57:59
 **Released:** 2025-11-23 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3)
-
----
-
-## Hidden Brain
-
-### Parents: Keep Out!
-
-**Released:** 2025-11-24 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
 
 ---
 
@@ -131,6 +113,16 @@ Last updated: 2025-11-28 00:57:59
 **Released:** 2025-11-21 18:15:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
+
+---
+
+## Hidden Brain
+
+### Parents: Keep Out!
+
+**Released:** 2025-11-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
 
 ---
 
@@ -206,13 +198,21 @@ Last updated: 2025-11-28 00:57:59
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
+### Making Everything Possible: The Moth Podcast
 
-**Released:** 2025-11-26 21:05:00
+**Released:** 2025-11-28 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
+
+**Released:** 2025-11-25 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
 
 ---
 
@@ -234,25 +234,25 @@ Last updated: 2025-11-28 00:57:59
 
 ---
 
-## The Moth
+## SmartLess 
 
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
+### "Benedict Cumberbatch"
 
-**Released:** 2025-11-25 05:25:00
+**Released:** 2025-11-24 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
-
----
-
-### Food Fiascos: The Moth Podcast
-
-**Released:** 2025-11-21 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6776024991.mp3?updated=1761247581)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Thanksgiving III 
+
+**Released:** 2025-11-28 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### David Fajgenbaum (on repurposing medicine)
 
@@ -270,21 +270,13 @@ Last updated: 2025-11-28 00:57:59
 
 ---
 
-### Armchair Anonymous: Dental Disaster
+## The Tim Ferriss Show
 
-**Released:** 2025-11-21 08:35:00
+### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/21a68355-e9ea-4e44-9622-ba04436f6b10.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-11-26 21:05:00
 
----
-
-## SmartLess 
-
-### "Benedict Cumberbatch"
-
-**Released:** 2025-11-24 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
