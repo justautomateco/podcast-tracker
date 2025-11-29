@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-28 12:25:02
+Last updated: 2025-11-29 00:58:25
+
+## Freakonomics Radio
+
+### Dying Is Easy. Retail Is Hard. (Update)
+
+**Released:** 2025-11-28 13:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
+
+---
+
+### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
+
+**Released:** 2025-11-27 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### "The minister of loneliness" | Sarah Kay
+
+**Released:** 2025-11-28 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692480aabe0b912f50192308/media.mp3)
+
+---
 
 ### The daily practice that could rewire your brain | Timm Chiusano
 
@@ -36,24 +62,6 @@ Last updated: 2025-11-28 12:25:02
 
 ---
 
-### Sunday Pick: How to love your hometown (w/ Hanif Abdurraqib & Sarah Kay) | How to Be a Better Human
-
-**Released:** 2025-11-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69208d8ecc6c5ee953bb59e2/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
-
-**Released:** 2025-11-27 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 875: I Hate Mysteries
@@ -66,19 +74,19 @@ Last updated: 2025-11-28 12:25:02
 
 ## Planet Money
 
+### Capitalism (Taylor's Version) (25-minute Podcast Version)
+
+**Released:** 2025-11-28 22:05:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
+
+---
+
 ### Saving lives with fewer dollars
 
 **Released:** 2025-11-27 01:25:32
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
-
----
-
-### The Consumer Sentiment vs. Consumer Spending Puzzle
-
-**Released:** 2025-11-21 22:35:48
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2377745323.mp3?t=podcast&e=nx-s1-5616629&p=510289&d=1198&size=19169785)
 
 ---
 
@@ -105,14 +113,6 @@ Last updated: 2025-11-28 12:25:02
 **Released:** 2025-11-25 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
-
----
-
-### #2416 - Dan Farah
-
-**Released:** 2025-11-21 18:15:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3036218314.mp3?updated=1763748974)
 
 ---
 
@@ -162,6 +162,14 @@ Last updated: 2025-11-28 12:25:02
 
 ## 99% Invisible
 
+### Constitution Breakdown #4: Janet Napolitano
+
+**Released:** 2025-11-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
+
+---
+
 ### Murderland
 
 **Released:** 2025-11-25 18:15:00
@@ -198,24 +206,6 @@ Last updated: 2025-11-28 12:25:02
 
 ---
 
-## The Moth
-
-### Making Everything Possible: The Moth Podcast
-
-**Released:** 2025-11-28 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
-
----
-
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
-
-**Released:** 2025-11-25 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Classic Colonizer
@@ -231,16 +221,6 @@ Last updated: 2025-11-28 12:25:02
 **Released:** 2025-11-24 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Benedict Cumberbatch"
-
-**Released:** 2025-11-24 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
 
 ---
 
@@ -267,6 +247,34 @@ Last updated: 2025-11-28 12:25:02
 **Released:** 2025-11-24 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Making Everything Possible: The Moth Podcast
+
+**Released:** 2025-11-28 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
+
+**Released:** 2025-11-25 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
+
+---
+
+## SmartLess 
+
+### "Benedict Cumberbatch"
+
+**Released:** 2025-11-24 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/15dd71e0-4c0c-45c1-b762-fe27c50f7088/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=15dd71e0-4c0c-45c1-b762-fe27c50f7088&feed=hNaFxXpO)
 
 ---
 
