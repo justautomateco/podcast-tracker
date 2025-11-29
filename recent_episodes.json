@@ -1,19 +1,5 @@
 [
   {
-    "guid": "627c0a2a-c5e7-4b44-a6d6-b0ac4107b97b",
-    "episode_title": "Dying Is Easy. Retail Is Hard. (Update)",
-    "release_date": "2025-11-28 13:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "8697bf8c-24ce-4658-8fbb-5f783c7fcd7c",
-    "episode_title": "Is Macy\u2019s Thanksgiving Parade Its Most Valuable Asset? (Update)",
-    "release_date": "2025-11-27 01:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "692480aabe0b912f50192308",
     "episode_title": "\"The minister of loneliness\" | Sarah Kay",
     "release_date": "2025-11-28 16:00:00",
@@ -49,6 +35,20 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "627c0a2a-c5e7-4b44-a6d6-b0ac4107b97b",
+    "episode_title": "Dying Is Easy. Retail Is Hard. (Update)",
+    "release_date": "2025-11-28 13:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "8697bf8c-24ce-4658-8fbb-5f783c7fcd7c",
+    "episode_title": "Is Macy\u2019s Thanksgiving Parade Its Most Valuable Asset? (Update)",
+    "release_date": "2025-11-27 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "46059 at https://www.thisamericanlife.org",
     "episode_title": "875: I Hate Mysteries",
     "release_date": "2025-11-23 18:00:00",
@@ -68,6 +68,13 @@
     "release_date": "2025-11-27 01:25:32",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "9c491d00-62fc-45f2-b22b-0cccd3717e84",
+    "episode_title": "Parents: Keep Out!",
+    "release_date": "2025-11-24 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "e61e5b06-cb59-11f0-995e-b3cc942fd67a",
@@ -91,11 +98,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "9c491d00-62fc-45f2-b22b-0cccd3717e84",
-    "episode_title": "Parents: Keep Out!",
-    "release_date": "2025-11-24 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "4897d11f-daf7-454b-8fda-b398014011c4",
+    "episode_title": "Selects: How Black Friday Works",
+    "release_date": "2025-11-29 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "4aff478e-6544-4346-bdb9-b3a00173a8c9",
@@ -119,13 +126,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "9ca53697-c632-4042-bd68-b39400f2e9ac",
-    "episode_title": "Selects: Rockettes: Still Kicking After All These Years",
-    "release_date": "2025-11-22 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ca53697-c632-4042-bd68-b39400f2e9ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "d89cabd2-476a-4cb4-89ce-4c0fb3e1b157",
     "episode_title": "Constitution Breakdown #4: Janet Napolitano",
     "release_date": "2025-11-28 17:00:00",
@@ -138,6 +138,13 @@
     "release_date": "2025-11-25 18:15:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "af23bc71-f11d-44c8-8570-b3a1013ffc32",
+    "episode_title": "IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum",
+    "release_date": "2025-11-27 05:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/A19GNYIahCVVWXswqsjR9srD9zvsQDyGz7K8DoSgBrU",
@@ -154,13 +161,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "af23bc71-f11d-44c8-8570-b3a1013ffc32",
-    "episode_title": "IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum",
-    "release_date": "2025-11-27 05:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "154fa4e0-6127-4055-882b-9e54864cf5ed",
     "episode_title": "Classic Colonizer",
     "release_date": "2025-11-27 05:05:00",
@@ -173,6 +173,20 @@
     "release_date": "2025-11-24 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "5a079e76-97c8-11f0-9c60-ab6954044b4c",
+    "episode_title": "Making Everything Possible: The Moth Podcast",
+    "release_date": "2025-11-28 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b956a81c-76d2-11ef-92d1-179f44b5ef5f",
+    "episode_title": "The Place to Be: Stories of Belonging: The Moth Radio Hour",
+    "release_date": "2025-11-25 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Eo4uuEOcU-3rq5ePNVsICtJriDqN6GivG-q9UfqVOpM",
@@ -194,20 +208,6 @@
     "release_date": "2025-11-24 08:35:00",
     "mp3_url": "https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "5a079e76-97c8-11f0-9c60-ab6954044b4c",
-    "episode_title": "Making Everything Possible: The Moth Podcast",
-    "release_date": "2025-11-28 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b956a81c-76d2-11ef-92d1-179f44b5ef5f",
-    "episode_title": "The Place to Be: Stories of Belonging: The Moth Radio Hour",
-    "release_date": "2025-11-25 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "9cbe072b-cb33-4ba1-9993-497003410fd3",
