@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-29 12:22:50
+Last updated: 2025-11-30 01:07:13
+
+## Freakonomics Radio
+
+### Dying Is Easy. Retail Is Hard. (Update)
+
+**Released:** 2025-11-28 13:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
+
+---
+
+### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
+
+**Released:** 2025-11-27 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Can AI uplift entrepreneurs that traditional banks reject? | Mercedes Bidart
+
+**Released:** 2025-11-29 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a50d35aa096b5512477/media.mp3)
+
+---
 
 ### "The minister of loneliness" | Sarah Kay
 
@@ -33,32 +59,6 @@ Last updated: 2025-11-29 12:22:50
 **Released:** 2025-11-25 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d2cf75ae15fa6698472c/media.mp3)
-
----
-
-### How the fridge changed food | Nicola Twilley
-
-**Released:** 2025-11-24 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d28875ae15fa669819a2/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Dying Is Easy. Retail Is Hard. (Update)
-
-**Released:** 2025-11-28 13:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
-
----
-
-### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
-
-**Released:** 2025-11-27 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
 
 ---
 
@@ -100,7 +100,33 @@ Last updated: 2025-11-29 12:22:50
 
 ---
 
+## 99% Invisible
+
+### Constitution Breakdown #4: Janet Napolitano
+
+**Released:** 2025-11-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
+
+---
+
+### Murderland
+
+**Released:** 2025-11-25 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2420 - Chris Masterjohn
+
+**Released:** 2025-11-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6871125742.mp3?updated=1764433140)
+
+---
 
 ### #2419 - John Lisle
 
@@ -160,34 +186,6 @@ Last updated: 2025-11-29 12:22:50
 
 ---
 
-## 99% Invisible
-
-### Constitution Breakdown #4: Janet Napolitano
-
-**Released:** 2025-11-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
-### Murderland
-
-**Released:** 2025-11-25 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
-
-**Released:** 2025-11-27 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Bill Creelman of Spindrift
@@ -206,39 +204,13 @@ Last updated: 2025-11-29 12:22:50
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Classic Colonizer
+### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
 
-**Released:** 2025-11-27 05:05:00
+**Released:** 2025-11-27 05:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
-
----
-
-### Leanne Morgan
-
-**Released:** 2025-11-24 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Making Everything Possible: The Moth Podcast
-
-**Released:** 2025-11-28 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
-
----
-
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
-
-**Released:** 2025-11-25 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -265,6 +237,42 @@ Last updated: 2025-11-29 12:22:50
 **Released:** 2025-11-24 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Making Everything Possible: The Moth Podcast
+
+**Released:** 2025-11-28 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
+
+**Released:** 2025-11-25 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Classic Colonizer
+
+**Released:** 2025-11-27 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
+
+---
+
+### Leanne Morgan
+
+**Released:** 2025-11-24 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0bbe7436-cff7-4bdc-8917-41d8f7b9f43c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0bbe7436-cff7-4bdc-8917-41d8f7b9f43c&feed=dHoohVNH)
 
 ---
 
