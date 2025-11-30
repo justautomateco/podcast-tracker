@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-11-30 01:07:13
+Last updated: 2025-11-30 12:22:35
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-11-30 01:07:13
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: Tech Solutions (#3): How one of China’s biggest tech companies is tackling carbon removal (with Xu Hao)
+
+**Released:** 2025-11-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d1fc9d16465c9017cf1f/media.mp3)
+
+---
 
 ### Can AI uplift entrepreneurs that traditional banks reject? | Mercedes Bidart
 
@@ -54,14 +62,6 @@ Last updated: 2025-11-30 01:07:13
 
 ---
 
-### How AI is unearthing hidden scientific knowledge | Sara Beery
-
-**Released:** 2025-11-25 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d2cf75ae15fa6698472c/media.mp3)
-
----
-
 ## This American Life
 
 ### 875: I Hate Mysteries
@@ -87,34 +87,6 @@ Last updated: 2025-11-30 01:07:13
 **Released:** 2025-11-27 01:25:32
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
-
----
-
-## Hidden Brain
-
-### Parents: Keep Out!
-
-**Released:** 2025-11-24 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #4: Janet Napolitano
-
-**Released:** 2025-11-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
-### Murderland
-
-**Released:** 2025-11-25 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
 
 ---
 
@@ -149,6 +121,34 @@ Last updated: 2025-11-30 01:07:13
 **Released:** 2025-11-25 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
+
+---
+
+## Hidden Brain
+
+### Parents: Keep Out!
+
+**Released:** 2025-11-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Constitution Breakdown #4: Janet Napolitano
+
+**Released:** 2025-11-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
+
+---
+
+### Murderland
+
+**Released:** 2025-11-25 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
 
 ---
 
@@ -214,32 +214,6 @@ Last updated: 2025-11-30 01:07:13
 
 ---
 
-## Armchair Expert
-
-### Armchair Anonymous: Thanksgiving III 
-
-**Released:** 2025-11-28 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Fajgenbaum (on repurposing medicine)
-
-**Released:** 2025-11-26 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a0a3dd2-7ebc-4424-83c9-52519044cb56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Joel Edgerton
-
-**Released:** 2025-11-24 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Making Everything Possible: The Moth Podcast
@@ -293,6 +267,32 @@ Last updated: 2025-11-30 01:07:13
 **Released:** 2025-11-26 21:05:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Thanksgiving III 
+
+**Released:** 2025-11-28 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Fajgenbaum (on repurposing medicine)
+
+**Released:** 2025-11-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a0a3dd2-7ebc-4424-83c9-52519044cb56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Joel Edgerton
+
+**Released:** 2025-11-24 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87546bcf-f8dd-4bab-b1a8-a0a085dcfdc8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
