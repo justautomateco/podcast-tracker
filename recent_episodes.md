@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-02 01:01:08
+Last updated: 2025-12-02 12:28:18
 
 ## Freakonomics Radio
 
@@ -72,24 +72,6 @@ Last updated: 2025-12-02 01:01:08
 
 ---
 
-## Planet Money
-
-### Capitalism (Taylor's Version) (25-minute Podcast Version)
-
-**Released:** 2025-11-28 22:05:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
-
----
-
-### Saving lives with fewer dollars
-
-**Released:** 2025-11-27 01:25:32
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2420 - Chris Masterjohn
@@ -124,6 +106,24 @@ Last updated: 2025-12-02 01:01:08
 
 ---
 
+## Planet Money
+
+### Capitalism (Taylor's Version) (25-minute Podcast Version)
+
+**Released:** 2025-11-28 22:05:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
+
+---
+
+### Saving lives with fewer dollars
+
+**Released:** 2025-11-27 01:25:32
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
+
+---
+
 ## Hidden Brain
 
 ### Murder Mystery
@@ -135,6 +135,14 @@ Last updated: 2025-12-02 01:01:08
 ---
 
 ## Stuff You Should Know
+
+### The Brutal History of Prison Labor
+
+**Released:** 2025-12-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5d523bc-ab41-45f9-97d0-b3a601555b17/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Black Friday Works
 
@@ -160,14 +168,6 @@ Last updated: 2025-12-02 01:01:08
 
 ---
 
-### Rice is Nice
-
-**Released:** 2025-11-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8270440f-68d5-4e98-8789-b39f0117a724/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Constitution Breakdown #4: Janet Napolitano
@@ -183,6 +183,16 @@ Last updated: 2025-12-02 01:01:08
 **Released:** 2025-11-25 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
+
+**Released:** 2025-11-26 21:05:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,47 +216,19 @@ Last updated: 2025-12-02 01:01:08
 
 ## Revisionist History
 
+### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
+
+**Released:** 2025-12-02 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
 
 **Released:** 2025-11-27 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matthew Rhys Returns Again
-
-**Released:** 2025-12-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
-
----
-
-### Classic Colonizer
-
-**Released:** 2025-11-27 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Making Everything Possible: The Moth Podcast
-
-**Released:** 2025-11-28 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
-
----
-
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
-
-**Released:** 2025-11-25 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
 
 ---
 
@@ -276,6 +258,24 @@ Last updated: 2025-12-02 01:01:08
 
 ---
 
+## The Moth
+
+### If the Shoe Fits: The Moth Radio Hour
+
+**Released:** 2025-12-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
+
+---
+
+### Making Everything Possible: The Moth Podcast
+
+**Released:** 2025-11-28 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
 ## SmartLess 
 
 ### "Noah Hawley"
@@ -286,13 +286,21 @@ Last updated: 2025-12-02 01:01:08
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
+### Matthew Rhys Returns Again
 
-**Released:** 2025-11-26 21:05:00
+**Released:** 2025-12-01 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
+
+---
+
+### Classic Colonizer
+
+**Released:** 2025-11-27 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
 
 ---
 
