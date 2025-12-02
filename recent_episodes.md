@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-01 12:26:59
+Last updated: 2025-12-02 01:01:08
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 513: 129 Cars
+### An art movement built on ancestral wisdom | Jackie Lebo
 
-**Released:** 2025-11-30 18:00:00
+**Released:** 2025-12-01 17:06:21
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692dca5e8b4530ad2f38f963/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Sunday Pick: Tech Solutions (#3): How one of China’s biggest tech companies is tackling carbon removal (with Xu Hao)
 
@@ -48,7 +46,7 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
-### "The minister of loneliness" | Sarah Kay
+### "The Minister of Loneliness" | Sarah Kay
 
 **Released:** 2025-11-28 16:00:00
 
@@ -64,11 +62,13 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
-### Will AI make humans useless? | Akram Awad
+## This American Life
 
-**Released:** 2025-11-26 05:00:00
+### 513: 129 Cars
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6925d109064897cd5f7e7805/media.mp3)
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -126,29 +126,11 @@ Last updated: 2025-12-01 12:26:59
 
 ## Hidden Brain
 
-### Parents: Keep Out!
+### Murder Mystery
 
-**Released:** 2025-11-24 20:00:00
+**Released:** 2025-12-01 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/0548b2f6-b888-4806-9711-f674c7dddd9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=0548b2f6-b888-4806-9711-f674c7dddd9d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #4: Janet Napolitano
-
-**Released:** 2025-11-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
-### Murderland
-
-**Released:** 2025-11-25 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -186,6 +168,24 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
+## 99% Invisible
+
+### Constitution Breakdown #4: Janet Napolitano
+
+**Released:** 2025-11-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
+
+---
+
+### Murderland
+
+**Released:** 2025-11-25 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
@@ -214,24 +214,6 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
-## The Moth
-
-### Making Everything Possible: The Moth Podcast
-
-**Released:** 2025-11-28 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
-
----
-
-### The Place to Be: Stories of Belonging: The Moth Radio Hour
-
-**Released:** 2025-11-25 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Matthew Rhys Returns Again
@@ -250,13 +232,21 @@ Last updated: 2025-12-01 12:26:59
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Noah Hawley"
+### Making Everything Possible: The Moth Podcast
 
-**Released:** 2025-12-01 08:01:00
+**Released:** 2025-11-28 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
+### The Place to Be: Stories of Belonging: The Moth Radio Hour
+
+**Released:** 2025-11-25 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2265605117.mp3?updated=1763941480)
 
 ---
 
@@ -283,6 +273,16 @@ Last updated: 2025-12-01 12:26:59
 **Released:** 2025-11-26 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a0a3dd2-7ebc-4424-83c9-52519044cb56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Noah Hawley"
+
+**Released:** 2025-12-01 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
 
 ---
 
