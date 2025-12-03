@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-03 01:01:42
+Last updated: 2025-12-03 12:27:31
 
 ## Freakonomics Radio
 
@@ -64,6 +64,14 @@ Last updated: 2025-12-03 01:01:42
 
 ## Planet Money
 
+### Is AI slopifying the job market? (Two Indicators)
+
+**Released:** 2025-12-03 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
+
+---
+
 ### Capitalism (Taylor's Version) (25-minute Podcast Version)
 
 **Released:** 2025-11-28 22:05:00
@@ -77,6 +85,16 @@ Last updated: 2025-12-03 01:01:42
 **Released:** 2025-11-27 01:25:32
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
+
+---
+
+## This American Life
+
+### 513: 129 Cars
+
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -121,50 +139,6 @@ Last updated: 2025-12-03 01:01:42
 **Released:** 2025-12-01 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 513: 129 Cars
-
-**Released:** 2025-11-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
-
----
-
-## Stuff You Should Know
-
-### The Brutal History of Prison Labor
-
-**Released:** 2025-12-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5d523bc-ab41-45f9-97d0-b3a601555b17/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Black Friday Works
-
-**Released:** 2025-11-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Julia Child, la Grandes Gourmande 
-
-**Released:** 2025-11-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4aff478e-6544-4346-bdb9-b3a00173a8c9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Pies
-
-**Released:** 2025-11-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6c538789-274c-4197-b546-b39a0145abaa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -222,29 +196,37 @@ Last updated: 2025-12-03 01:01:42
 
 ---
 
-## Armchair Expert
+## Stuff You Should Know
 
-### D'Arcy Carden Returns
+### Short Stuff: Camberley Kate
 
-**Released:** 2025-12-01 08:35:00
+**Released:** 2025-12-03 10:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8851c8e-a8ca-4eb1-b136-0f5dd9ca4fb3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Thanksgiving III 
-
-**Released:** 2025-11-28 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/83e48971-c5a8-4f32-9054-b398012d51af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### David Fajgenbaum (on repurposing medicine)
+### The Brutal History of Prison Labor
 
-**Released:** 2025-11-26 08:35:00
+**Released:** 2025-12-02 10:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7a0a3dd2-7ebc-4424-83c9-52519044cb56.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5d523bc-ab41-45f9-97d0-b3a601555b17/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Black Friday Works
+
+**Released:** 2025-11-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Julia Child, la Grandes Gourmande 
+
+**Released:** 2025-11-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4aff478e-6544-4346-bdb9-b3a00173a8c9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -281,6 +263,32 @@ Last updated: 2025-12-03 01:01:42
 **Released:** 2025-11-27 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### James L. Brooks (director and producer)
+
+**Released:** 2025-12-03 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2025-12-01 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8851c8e-a8ca-4eb1-b136-0f5dd9ca4fb3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Thanksgiving III 
+
+**Released:** 2025-11-28 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
