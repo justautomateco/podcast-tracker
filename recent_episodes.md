@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-02 12:28:18
+Last updated: 2025-12-03 01:01:42
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-12-02 12:28:18
 ---
 
 ## TED Talks Daily
+
+### How I found resilience through artistry | Misty Copeland
+
+**Released:** 2025-12-02 17:31:26
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692f21eefb6ea8e378a2e5ef/media.mp3)
+
+---
 
 ### An art movement built on ancestral wisdom | Jackie Lebo
 
@@ -54,25 +62,33 @@ Last updated: 2025-12-02 12:28:18
 
 ---
 
-### The daily practice that could rewire your brain | Timm Chiusano
+## Planet Money
 
-**Released:** 2025-11-27 16:00:00
+### Capitalism (Taylor's Version) (25-minute Podcast Version)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d30900a96fa12b36115b/media.mp3)
+**Released:** 2025-11-28 22:05:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
 
 ---
 
-## This American Life
+### Saving lives with fewer dollars
 
-### 513: 129 Cars
+**Released:** 2025-11-27 01:25:32
 
-**Released:** 2025-11-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2421 - Derek, More Plates More Dates
+
+**Released:** 2025-12-02 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743)
+
+---
 
 ### #2420 - Chris Masterjohn
 
@@ -98,32 +114,6 @@ Last updated: 2025-12-02 12:28:18
 
 ---
 
-### #2417 - Ben van Kerkwyk
-
-**Released:** 2025-11-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9499986944.mp3?updated=1764094133)
-
----
-
-## Planet Money
-
-### Capitalism (Taylor's Version) (25-minute Podcast Version)
-
-**Released:** 2025-11-28 22:05:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
-
----
-
-### Saving lives with fewer dollars
-
-**Released:** 2025-11-27 01:25:32
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
-
----
-
 ## Hidden Brain
 
 ### Murder Mystery
@@ -131,6 +121,16 @@ Last updated: 2025-12-02 12:28:18
 **Released:** 2025-12-01 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
+
+---
+
+## This American Life
+
+### 513: 129 Cars
+
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -170,29 +170,19 @@ Last updated: 2025-12-02 12:28:18
 
 ## 99% Invisible
 
+### U Is for Urbanism
+
+**Released:** 2025-12-02 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
+
+---
+
 ### Constitution Breakdown #4: Janet Napolitano
 
 **Released:** 2025-11-28 17:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
-### Murderland
-
-**Released:** 2025-11-25 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/011641f0-bded-4b01-a707-bb172d90850a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=011641f0-bded-4b01-a707-bb172d90850a&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
-
-**Released:** 2025-11-26 21:05:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -276,16 +266,6 @@ Last updated: 2025-12-02 12:28:18
 
 ---
 
-## SmartLess 
-
-### "Noah Hawley"
-
-**Released:** 2025-12-01 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Matthew Rhys Returns Again
@@ -301,6 +281,26 @@ Last updated: 2025-12-02 12:28:18
 **Released:** 2025-11-27 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
+
+**Released:** 2025-11-26 21:05:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Noah Hawley"
+
+**Released:** 2025-12-01 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
 
 ---
 
