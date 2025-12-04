@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-03 12:27:31
+Last updated: 2025-12-04 01:01:18
 
 ## Freakonomics Radio
 
@@ -12,11 +12,13 @@ Last updated: 2025-12-03 12:27:31
 
 ---
 
-### Is Macy’s Thanksgiving Parade Its Most Valuable Asset? (Update)
+## This American Life
 
-**Released:** 2025-11-27 01:00:00
+### 513: 129 Cars
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3fc891e2-f81a-4a75-bc6d-ca066cdbd730/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3fc891e2-f81a-4a75-bc6d-ca066cdbd730&feed=Y8lFbOT4)
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -88,17 +90,15 @@ Last updated: 2025-12-03 12:27:31
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 513: 129 Cars
+### #2422 - Jensen Huang
 
-**Released:** 2025-11-30 18:00:00
+**Released:** 2025-12-03 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2421 - Derek, More Plates More Dates
 
@@ -121,14 +121,6 @@ Last updated: 2025-12-03 12:27:31
 **Released:** 2025-11-27 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4343304864.mp3?updated=1764268283)
-
----
-
-### #2418 - Chris Williamson
-
-**Released:** 2025-11-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1284914876.mp3?updated=1764173684)
 
 ---
 
@@ -157,42 +149,6 @@ Last updated: 2025-12-03 12:27:31
 **Released:** 2025-11-28 17:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
-
-**Released:** 2025-12-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Bill Creelman of Spindrift
-
-**Released:** 2025-11-27 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/927b8018-df5b-49a0-be05-887c34277a89.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
-
-**Released:** 2025-12-02 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
-
-**Released:** 2025-11-27 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -230,6 +186,52 @@ Last updated: 2025-12-03 12:27:31
 
 ---
 
+## How I Built This
+
+### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
+
+**Released:** 2025-12-01 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Bill Creelman of Spindrift
+
+**Released:** 2025-11-27 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/927b8018-df5b-49a0-be05-887c34277a89.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+
+**Released:** 2025-12-03 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
+
+**Released:** 2025-12-02 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
+
+**Released:** 2025-11-27 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### If the Shoe Fits: The Moth Radio Hour
@@ -245,24 +247,6 @@ Last updated: 2025-12-03 12:27:31
 **Released:** 2025-11-28 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matthew Rhys Returns Again
-
-**Released:** 2025-12-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
-
----
-
-### Classic Colonizer
-
-**Released:** 2025-11-27 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
 
 ---
 
@@ -292,16 +276,6 @@ Last updated: 2025-12-03 12:27:31
 
 ---
 
-## The Tim Ferriss Show
-
-### #837: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck
-
-**Released:** 2025-11-26 21:05:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77e6511e-b5bb-4f3e-87d7-019f4e297767.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Noah Hawley"
@@ -309,6 +283,24 @@ Last updated: 2025-12-03 12:27:31
 **Released:** 2025-12-01 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matthew Rhys Returns Again
+
+**Released:** 2025-12-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
+
+---
+
+### Classic Colonizer
+
+**Released:** 2025-11-27 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
 
 ---
 
