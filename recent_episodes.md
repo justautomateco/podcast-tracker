@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-04 01:01:18
+Last updated: 2025-12-04 12:28:14
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2025-12-04 01:01:18
 **Released:** 2025-11-28 13:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 513: 129 Cars
-
-**Released:** 2025-11-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2025-12-04 01:01:18
 
 ---
 
+## This American Life
+
+### 513: 129 Cars
+
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
+
+---
+
 ## Planet Money
 
 ### Is AI slopifying the job market? (Two Indicators)
@@ -82,11 +82,13 @@ Last updated: 2025-12-04 01:01:18
 
 ---
 
-### Saving lives with fewer dollars
+## Hidden Brain
 
-**Released:** 2025-11-27 01:25:32
+### Murder Mystery
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5987420210.mp3?t=podcast&e=nx-s1-5622126&p=510289&d=1957&size=31314008)
+**Released:** 2025-12-01 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -124,16 +126,6 @@ Last updated: 2025-12-04 01:01:18
 
 ---
 
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### U Is for Urbanism
@@ -153,6 +145,14 @@ Last updated: 2025-12-04 01:01:18
 ---
 
 ## Stuff You Should Know
+
+### What's the bar exam like anyway?
+
+**Released:** 2025-12-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dc983dd4-7183-46d3-8173-b3a30130945d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Camberley Kate
 
@@ -178,39 +178,21 @@ Last updated: 2025-12-04 01:01:18
 
 ---
 
-### Julia Child, la Grandes Gourmande 
+## How I Built This
 
-**Released:** 2025-11-27 10:00:00
+### Advice Line with Jane Wurwand of Dermalogica (2024)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4aff478e-6544-4346-bdb9-b3a00173a8c9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
 
 **Released:** 2025-12-01 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Bill Creelman of Spindrift
-
-**Released:** 2025-11-27 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/927b8018-df5b-49a0-be05-887c34277a89.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
-
-**Released:** 2025-12-03 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -221,14 +203,6 @@ Last updated: 2025-12-04 01:01:18
 **Released:** 2025-12-02 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
-
-**Released:** 2025-11-27 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/23598145-b31e-4e0d-b40f-b3830117fe99/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -247,6 +221,24 @@ Last updated: 2025-12-04 01:01:18
 **Released:** 2025-11-28 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The House Dick
+
+**Released:** 2025-12-04 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
+
+---
+
+### Matthew Rhys Returns Again
+
+**Released:** 2025-12-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
 
 ---
 
@@ -276,6 +268,16 @@ Last updated: 2025-12-04 01:01:18
 
 ---
 
+## The Tim Ferriss Show
+
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+
+**Released:** 2025-12-03 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Noah Hawley"
@@ -283,24 +285,6 @@ Last updated: 2025-12-04 01:01:18
 **Released:** 2025-12-01 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matthew Rhys Returns Again
-
-**Released:** 2025-12-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
-
----
-
-### Classic Colonizer
-
-**Released:** 2025-11-27 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/699a5a04-26fa-4770-9ed7-352431913ffe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=699a5a04-26fa-4770-9ed7-352431913ffe&feed=dHoohVNH)
 
 ---
 
