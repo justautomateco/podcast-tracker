@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-05 01:02:03
-
-## Freakonomics Radio
-
-### Dying Is Easy. Retail Is Hard. (Update)
-
-**Released:** 2025-11-28 13:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-05 12:26:56
 
 ## TED Talks Daily
 
@@ -54,6 +44,24 @@ Last updated: 2025-12-05 01:02:03
 
 ---
 
+## Freakonomics Radio
+
+### 655. “The Greatest Piece of Participatory Art Ever Created”
+
+**Released:** 2025-12-05 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
+
+---
+
+### Dying Is Easy. Retail Is Hard. (Update)
+
+**Released:** 2025-11-28 13:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
 ### 513: 129 Cars
@@ -61,42 +69,6 @@ Last updated: 2025-12-05 01:02:03
 **Released:** 2025-11-30 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2422 - Jensen Huang
-
-**Released:** 2025-12-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142)
-
----
-
-### #2421 - Derek, More Plates More Dates
-
-**Released:** 2025-12-02 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743)
-
----
-
-### #2420 - Chris Masterjohn
-
-**Released:** 2025-11-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6871125742.mp3?updated=1764433140)
-
----
-
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -152,6 +124,16 @@ Last updated: 2025-12-05 01:02:03
 
 ---
 
+## Hidden Brain
+
+### Murder Mystery
+
+**Released:** 2025-12-01 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### U Is for Urbanism
@@ -170,24 +152,6 @@ Last updated: 2025-12-05 01:02:03
 
 ---
 
-## How I Built This
-
-### Advice Line with Jane Wurwand of Dermalogica (2024)
-
-**Released:** 2025-12-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
-
-**Released:** 2025-12-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
@@ -200,6 +164,14 @@ Last updated: 2025-12-05 01:02:03
 
 ## The Moth
 
+### Finding Soul: The Moth Podcast
+
+**Released:** 2025-12-05 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
 ### If the Shoe Fits: The Moth Radio Hour
 
 **Released:** 2025-12-02 05:25:00
@@ -208,11 +180,29 @@ Last updated: 2025-12-05 01:02:03
 
 ---
 
-### Making Everything Possible: The Moth Podcast
+## Armchair Expert
 
-**Released:** 2025-11-28 05:25:00
+### Armchair Anonymous: Wild Card X
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2556200177.mp3?updated=1762449639)
+**Released:** 2025-12-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8aeaa1b-4249-4a6e-8766-c0c6d64326fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James L. Brooks (director and producer)
+
+**Released:** 2025-12-03 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2025-12-01 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8851c8e-a8ca-4eb1-b136-0f5dd9ca4fb3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,39 +224,21 @@ Last updated: 2025-12-05 01:02:03
 
 ---
 
-## Armchair Expert
+## How I Built This
 
-### James L. Brooks (director and producer)
+### Advice Line with Jane Wurwand of Dermalogica (2024)
 
-**Released:** 2025-12-03 08:35:00
+**Released:** 2025-12-04 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### D'Arcy Carden Returns
-
-**Released:** 2025-12-01 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8851c8e-a8ca-4eb1-b136-0f5dd9ca4fb3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Armchair Anonymous: Thanksgiving III 
+### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
 
-**Released:** 2025-11-28 08:35:00
+**Released:** 2025-12-01 08:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/35937a02-2679-4304-b226-df6114f6f3f2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
-
-**Released:** 2025-12-03 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -277,6 +249,16 @@ Last updated: 2025-12-05 01:02:03
 **Released:** 2025-12-01 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+
+**Released:** 2025-12-03 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
