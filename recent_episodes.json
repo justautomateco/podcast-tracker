@@ -7,6 +7,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6920d183c367efee9636e571",
+    "episode_title": "Why are we demolishing homes during a housing crisis? | Olaf Grawert",
+    "release_date": "2025-12-04 17:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d183c367efee9636e571/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "69318d0cfb6ea8e378651cae",
+    "episode_title": "How we built Watch Duty, the lifesaving wildfire alert app | John Mills",
+    "release_date": "2025-12-03 05:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69318d0cfb6ea8e378651cae/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "692f21eefb6ea8e378a2e5ef",
     "episode_title": "How I found resilience through artistry | Misty Copeland",
     "release_date": "2025-12-02 17:31:26",
@@ -28,46 +42,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "691f3a50d35aa096b5512477",
-    "episode_title": "Can AI uplift entrepreneurs that traditional banks reject? | Mercedes Bidart",
-    "release_date": "2025-11-29 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a50d35aa096b5512477/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "692480aabe0b912f50192308",
-    "episode_title": "\"The Minister of Loneliness\" | Sarah Kay",
-    "release_date": "2025-11-28 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692480aabe0b912f50192308/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37160 at https://www.thisamericanlife.org",
     "episode_title": "513: 129 Cars",
     "release_date": "2025-11-30 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3",
     "podcast_name": "This American Life"
-  },
-  {
-    "guid": "2cd52213-02ae-418c-a7a1-9ba0d245a04c",
-    "episode_title": "Is AI slopifying the job market? (Two Indicators)",
-    "release_date": "2025-12-03 08:00:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "9f88cdc2-7e26-46e5-a0db-0db80a83a0b6",
-    "episode_title": "Capitalism (Taylor's Version) (25-minute Podcast Version)",
-    "release_date": "2025-11-28 22:05:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "c99521af-a584-4376-940b-716a1be8d7be",
-    "episode_title": "Murder Mystery",
-    "release_date": "2025-12-01 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "6e4f9780-d003-11f0-a67a-2fa2ea515ea0",
@@ -91,25 +70,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "e61e5b06-cb59-11f0-995e-b3cc942fd67a",
-    "episode_title": "#2419 - John Lisle",
-    "release_date": "2025-11-27 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4343304864.mp3?updated=1764268283",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "c99521af-a584-4376-940b-716a1be8d7be",
+    "episode_title": "Murder Mystery",
+    "release_date": "2025-12-01 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "cfe7226c-e95d-4d06-a7f6-d6559a3b755d",
-    "episode_title": "U Is for Urbanism",
-    "release_date": "2025-12-02 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "2cd52213-02ae-418c-a7a1-9ba0d245a04c",
+    "episode_title": "Is AI slopifying the job market? (Two Indicators)",
+    "release_date": "2025-12-03 08:00:00",
+    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "d89cabd2-476a-4cb4-89ce-4c0fb3e1b157",
-    "episode_title": "Constitution Breakdown #4: Janet Napolitano",
-    "release_date": "2025-11-28 17:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "9f88cdc2-7e26-46e5-a0db-0db80a83a0b6",
+    "episode_title": "Capitalism (Taylor's Version) (25-minute Podcast Version)",
+    "release_date": "2025-11-28 22:05:00",
+    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "dc983dd4-7183-46d3-8173-b3a30130945d",
@@ -138,6 +117,20 @@
     "release_date": "2025-11-29 10:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "cfe7226c-e95d-4d06-a7f6-d6559a3b755d",
+    "episode_title": "U Is for Urbanism",
+    "release_date": "2025-12-02 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "d89cabd2-476a-4cb4-89ce-4c0fb3e1b157",
+    "episode_title": "Constitution Breakdown #4: Janet Napolitano",
+    "release_date": "2025-11-28 17:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/yK7mcEK_yKOvw28lHinG-oXkZinNaBVsVLtnUttAdTI",

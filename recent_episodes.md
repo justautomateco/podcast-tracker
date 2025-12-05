@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-04 12:28:14
+Last updated: 2025-12-05 01:02:03
 
 ## Freakonomics Radio
 
@@ -13,6 +13,22 @@ Last updated: 2025-12-04 12:28:14
 ---
 
 ## TED Talks Daily
+
+### Why are we demolishing homes during a housing crisis? | Olaf Grawert
+
+**Released:** 2025-12-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d183c367efee9636e571/media.mp3)
+
+---
+
+### How we built Watch Duty, the lifesaving wildfire alert app | John Mills
+
+**Released:** 2025-12-03 05:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69318d0cfb6ea8e378651cae/media.mp3)
+
+---
 
 ### How I found resilience through artistry | Misty Copeland
 
@@ -38,22 +54,6 @@ Last updated: 2025-12-04 12:28:14
 
 ---
 
-### Can AI uplift entrepreneurs that traditional banks reject? | Mercedes Bidart
-
-**Released:** 2025-11-29 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/691f3a50d35aa096b5512477/media.mp3)
-
----
-
-### "The Minister of Loneliness" | Sarah Kay
-
-**Released:** 2025-11-28 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692480aabe0b912f50192308/media.mp3)
-
----
-
 ## This American Life
 
 ### 513: 129 Cars
@@ -61,34 +61,6 @@ Last updated: 2025-12-04 12:28:14
 **Released:** 2025-11-30 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
-
----
-
-## Planet Money
-
-### Is AI slopifying the job market? (Two Indicators)
-
-**Released:** 2025-12-03 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
-
----
-
-### Capitalism (Taylor's Version) (25-minute Podcast Version)
-
-**Released:** 2025-11-28 22:05:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
-
----
-
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -118,29 +90,31 @@ Last updated: 2025-12-04 12:28:14
 
 ---
 
-### #2419 - John Lisle
+## Hidden Brain
 
-**Released:** 2025-11-27 18:00:00
+### Murder Mystery
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4343304864.mp3?updated=1764268283)
+**Released:** 2025-12-01 20:00:00
 
----
-
-## 99% Invisible
-
-### U Is for Urbanism
-
-**Released:** 2025-12-02 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
-### Constitution Breakdown #4: Janet Napolitano
+## Planet Money
 
-**Released:** 2025-11-28 17:00:00
+### Is AI slopifying the job market? (Two Indicators)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
+**Released:** 2025-12-03 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
+
+---
+
+### Capitalism (Taylor's Version) (25-minute Podcast Version)
+
+**Released:** 2025-11-28 22:05:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
 
 ---
 
@@ -175,6 +149,24 @@ Last updated: 2025-12-04 12:28:14
 **Released:** 2025-11-29 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### U Is for Urbanism
+
+**Released:** 2025-12-02 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #4: Janet Napolitano
+
+**Released:** 2025-11-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
 
 ---
 
