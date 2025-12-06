@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-06 00:58:47
+Last updated: 2025-12-06 12:23:03
 
 ## Freakonomics Radio
 
@@ -64,6 +64,40 @@ Last updated: 2025-12-06 00:58:47
 
 ---
 
+## The Joe Rogan Experience
+
+### #2423 - John Cena
+
+**Released:** 2025-12-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105)
+
+---
+
+### #2422 - Jensen Huang
+
+**Released:** 2025-12-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142)
+
+---
+
+### #2421 - Derek, More Plates More Dates
+
+**Released:** 2025-12-02 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743)
+
+---
+
+### #2420 - Chris Masterjohn
+
+**Released:** 2025-11-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6871125742.mp3?updated=1764433140)
+
+---
+
 ## Planet Money
 
 ### How hurricanes became a hot investment
@@ -82,27 +116,15 @@ Last updated: 2025-12-06 00:58:47
 
 ---
 
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### U Is for Urbanism
-
-**Released:** 2025-12-02 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Selects: What Is A Mold-A-Rama?
+
+**Released:** 2025-12-06 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e98e2578-6a06-4c82-a2ab-b39c01138287/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### What's the bar exam like anyway?
 
@@ -128,11 +150,23 @@ Last updated: 2025-12-06 00:58:47
 
 ---
 
-### Selects: How Black Friday Works
+## Hidden Brain
 
-**Released:** 2025-11-29 10:00:00
+### Murder Mystery
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-01 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### U Is for Urbanism
+
+**Released:** 2025-12-02 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
 
 ---
 
@@ -164,24 +198,6 @@ Last updated: 2025-12-06 00:58:47
 
 ---
 
-## The Moth
-
-### Finding Soul: The Moth Podcast
-
-**Released:** 2025-12-05 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
-
----
-
-### If the Shoe Fits: The Moth Radio Hour
-
-**Released:** 2025-12-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### The House Dick
@@ -197,6 +213,24 @@ Last updated: 2025-12-06 00:58:47
 **Released:** 2025-12-01 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Finding Soul: The Moth Podcast
+
+**Released:** 2025-12-05 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+### If the Shoe Fits: The Moth Radio Hour
+
+**Released:** 2025-12-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
 
 ---
 

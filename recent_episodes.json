@@ -49,6 +49,34 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "27937036-d194-11f0-8556-130887eb602c",
+    "episode_title": "#2423 - John Cena",
+    "release_date": "2025-12-05 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6e4f9780-d003-11f0-a67a-2fa2ea515ea0",
+    "episode_title": "#2422 - Jensen Huang",
+    "release_date": "2025-12-03 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "8fd04afc-cf2d-11f0-9df2-4b0707b4ad34",
+    "episode_title": "#2421 - Derek, More Plates More Dates",
+    "release_date": "2025-12-02 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "462c69e2-ccb9-11f0-b712-67831c3b4a24",
+    "episode_title": "#2420 - Chris Masterjohn",
+    "release_date": "2025-11-29 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6871125742.mp3?updated=1764433140",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "d35e0dd6-ed81-453b-8926-e1facae812ee",
     "episode_title": "How hurricanes became a hot investment",
     "release_date": "2025-12-05 23:54:30",
@@ -63,18 +91,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "c99521af-a584-4376-940b-716a1be8d7be",
-    "episode_title": "Murder Mystery",
-    "release_date": "2025-12-01 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "cfe7226c-e95d-4d06-a7f6-d6559a3b755d",
-    "episode_title": "U Is for Urbanism",
-    "release_date": "2025-12-02 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "e98e2578-6a06-4c82-a2ab-b39c01138287",
+    "episode_title": "Selects: What Is A Mold-A-Rama?",
+    "release_date": "2025-12-06 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e98e2578-6a06-4c82-a2ab-b39c01138287/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "dc983dd4-7183-46d3-8173-b3a30130945d",
@@ -98,11 +119,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "4897d11f-daf7-454b-8fda-b398014011c4",
-    "episode_title": "Selects: How Black Friday Works",
-    "release_date": "2025-11-29 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4897d11f-daf7-454b-8fda-b398014011c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "c99521af-a584-4376-940b-716a1be8d7be",
+    "episode_title": "Murder Mystery",
+    "release_date": "2025-12-01 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "cfe7226c-e95d-4d06-a7f6-d6559a3b755d",
+    "episode_title": "U Is for Urbanism",
+    "release_date": "2025-12-02 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "1f0dddba-f07b-4e0c-af64-b3a001082ba8",
@@ -126,20 +154,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "ef1a1330-76d2-11ef-a8c5-47be57455507",
-    "episode_title": "Finding Soul: The Moth Podcast",
-    "release_date": "2025-12-05 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "ba0f0088-76d2-11ef-92d1-2f1e6d097d0c",
-    "episode_title": "If the Shoe Fits: The Moth Radio Hour",
-    "release_date": "2025-12-02 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "5ef480de-1b1f-4ecd-be0e-7e86cfc41995",
     "episode_title": "The House Dick",
     "release_date": "2025-12-04 05:05:00",
@@ -152,6 +166,20 @@
     "release_date": "2025-12-01 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "ef1a1330-76d2-11ef-a8c5-47be57455507",
+    "episode_title": "Finding Soul: The Moth Podcast",
+    "release_date": "2025-12-05 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "ba0f0088-76d2-11ef-92d1-2f1e6d097d0c",
+    "episode_title": "If the Shoe Fits: The Moth Radio Hour",
+    "release_date": "2025-12-02 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "0475b60d-f49a-4122-a4c0-5d5b1f3d4169",
