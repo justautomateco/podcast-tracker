@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-05 12:26:56
+Last updated: 2025-12-06 00:58:47
+
+## Freakonomics Radio
+
+### “The Greatest Piece of Participatory Art Ever Created”
+
+**Released:** 2025-12-05 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How ibogaine could treat depression and anxiety | Nolan Williams
+
+**Released:** 2025-12-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69330496a63c6eaa596c7e6e/media.mp3)
+
+---
 
 ### Why are we demolishing homes during a housing crisis? | Olaf Grawert
 
@@ -36,32 +54,6 @@ Last updated: 2025-12-05 12:26:56
 
 ---
 
-### Sunday Pick: Tech Solutions (#3): How one of China’s biggest tech companies is tackling carbon removal (with Xu Hao)
-
-**Released:** 2025-11-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d1fc9d16465c9017cf1f/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 655. “The Greatest Piece of Participatory Art Ever Created”
-
-**Released:** 2025-12-05 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
-
----
-
-### Dying Is Easy. Retail Is Hard. (Update)
-
-**Released:** 2025-11-28 13:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/901e4e04-cfbc-4708-b58a-1d3a447c5eda/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=901e4e04-cfbc-4708-b58a-1d3a447c5eda&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 513: 129 Cars
@@ -74,6 +66,14 @@ Last updated: 2025-12-05 12:26:56
 
 ## Planet Money
 
+### How hurricanes became a hot investment
+
+**Released:** 2025-12-05 23:54:30
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
+
+---
+
 ### Is AI slopifying the job market? (Two Indicators)
 
 **Released:** 2025-12-03 08:00:00
@@ -82,11 +82,23 @@ Last updated: 2025-12-05 12:26:56
 
 ---
 
-### Capitalism (Taylor's Version) (25-minute Podcast Version)
+## Hidden Brain
 
-**Released:** 2025-11-28 22:05:00
+### Murder Mystery
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7732155007.mp3?t=podcast&e=nx-s1-5622117&p=510289&d=1470&size=23536623)
+**Released:** 2025-12-01 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### U Is for Urbanism
+
+**Released:** 2025-12-02 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
 
 ---
 
@@ -124,34 +136,6 @@ Last updated: 2025-12-05 12:26:56
 
 ---
 
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### U Is for Urbanism
-
-**Released:** 2025-12-02 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #4: Janet Napolitano
-
-**Released:** 2025-11-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8fb93dfd-0ad7-4658-874e-616cfc71460d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8fb93dfd-0ad7-4658-874e-616cfc71460d&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
@@ -159,6 +143,24 @@ Last updated: 2025-12-05 12:26:56
 **Released:** 2025-12-02 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Advice Line with Jane Wurwand of Dermalogica (2024)
+
+**Released:** 2025-12-04 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
+
+**Released:** 2025-12-01 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -177,6 +179,34 @@ Last updated: 2025-12-05 12:26:56
 **Released:** 2025-12-02 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The House Dick
+
+**Released:** 2025-12-04 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
+
+---
+
+### Matthew Rhys Returns Again
+
+**Released:** 2025-12-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Noah Hawley"
+
+**Released:** 2025-12-01 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
 
 ---
 
@@ -203,52 +233,6 @@ Last updated: 2025-12-05 12:26:56
 **Released:** 2025-12-01 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8851c8e-a8ca-4eb1-b136-0f5dd9ca4fb3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The House Dick
-
-**Released:** 2025-12-04 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
-
----
-
-### Matthew Rhys Returns Again
-
-**Released:** 2025-12-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d6a52eae-ab6a-4990-a9f2-baf396f0f2c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d6a52eae-ab6a-4990-a9f2-baf396f0f2c6&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Advice Line with Jane Wurwand of Dermalogica (2024)
-
-**Released:** 2025-12-04 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Meridith Baer Home: Meridith Baer. She Started Over at 50 and Put Home Staging on the Map.
-
-**Released:** 2025-12-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80d27d1e-7350-416f-a913-8c44421962cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Noah Hawley"
-
-**Released:** 2025-12-01 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
 
 ---
 
