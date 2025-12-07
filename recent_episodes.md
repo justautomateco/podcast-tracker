@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-07 01:07:28
+Last updated: 2025-12-07 12:22:39
 
-## This American Life
+## Freakonomics Radio
 
-### 513: 129 Cars
+### “The Greatest Piece of Participatory Art Ever Created”
 
-**Released:** 2025-11-30 18:00:00
+**Released:** 2025-12-05 11:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### TED Talks Daily Book Club: Embrace your limitations | Oliver Burkeman
+
+**Released:** 2025-12-07 07:00:45
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69349e41eab4d846e0e7e13c/media.mp3)
+
+---
 
 ### The ethical case for taking on the climate crisis | Al Gore, Wanjira Mathai & Karenna Gore (TED Countdown House)
 
@@ -46,11 +54,13 @@ Last updated: 2025-12-07 01:07:28
 
 ---
 
-### How I found resilience through artistry | Misty Copeland
+## This American Life
 
-**Released:** 2025-12-02 17:31:26
+### 513: 129 Cars
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/692f21eefb6ea8e378a2e5ef/media.mp3)
+**Released:** 2025-11-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3)
 
 ---
 
@@ -69,26 +79,6 @@ Last updated: 2025-12-07 01:07:28
 **Released:** 2025-12-03 08:00:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
-
----
-
-## Freakonomics Radio
-
-### “The Greatest Piece of Participatory Art Ever Created”
-
-**Released:** 2025-12-05 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
-
----
-
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -115,6 +105,16 @@ Last updated: 2025-12-07 01:07:28
 **Released:** 2025-12-02 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743)
+
+---
+
+## Hidden Brain
+
+### Murder Mystery
+
+**Released:** 2025-12-01 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
 
 ---
 
@@ -200,6 +200,24 @@ Last updated: 2025-12-07 01:07:28
 
 ---
 
+## The Moth
+
+### Finding Soul: The Moth Podcast
+
+**Released:** 2025-12-05 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+### If the Shoe Fits: The Moth Radio Hour
+
+**Released:** 2025-12-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Wild Card X
@@ -251,24 +269,6 @@ Last updated: 2025-12-07 01:07:28
 **Released:** 2025-12-01 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0a3e5ea2-bb51-4ebf-bb84-096dc6fab0fe&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Finding Soul: The Moth Podcast
-
-**Released:** 2025-12-05 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
-
----
-
-### If the Shoe Fits: The Moth Radio Hour
-
-**Released:** 2025-12-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
 
 ---
 
