@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-08 12:26:58
+Last updated: 2025-12-09 01:01:23
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-12-08 12:26:58
 ---
 
 ## TED Talks Daily
+
+### The surprisingly simple reason teams fail | Tessa West
+
+**Released:** 2025-12-08 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6936f4aac3bfafbbda20ffda/media.mp3)
+
+---
 
 ### TED Talks Daily Book Club: Embrace your limitations | Oliver Burkeman
 
@@ -46,14 +54,6 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
-### How we built Watch Duty, the lifesaving wildfire alert app | John Mills
-
-**Released:** 2025-12-03 05:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69318d0cfb6ea8e378651cae/media.mp3)
-
----
-
 ## Planet Money
 
 ### How hurricanes became a hot investment
@@ -72,13 +72,23 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
+## Hidden Brain
+
+### The Paradox of Pleasure
+
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
+
+---
+
 ## This American Life
 
 ### 876: Bigger Than Me
 
 **Released:** 2025-12-07 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
 
 ---
 
@@ -142,16 +152,6 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
-## Hidden Brain
-
-### Murder Mystery
-
-**Released:** 2025-12-01 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1bbbda06-48c6-4710-9cc4-23253e30baf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1bbbda06-48c6-4710-9cc4-23253e30baf7&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### U Is for Urbanism
@@ -162,9 +162,19 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
+## Revisionist History
+
+### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
+
+**Released:** 2025-12-02 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
-### (September 2020) Khan Academy: Sal Khan. From Tutoring His Cousins to Teaching the World For Free
+### Khan Academy: Sal Khan. From Tutoring His Cousins to Teaching the World For Free (September 2020)
 
 **Released:** 2025-12-08 08:00:00
 
@@ -180,13 +190,49 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
 
-**Released:** 2025-12-02 05:01:00
+**Released:** 2025-12-03 20:30:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Finding Soul: The Moth Podcast
+
+**Released:** 2025-12-05 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+### If the Shoe Fits: The Moth Radio Hour
+
+**Released:** 2025-12-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Will Arnett Returns
+
+**Released:** 2025-12-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
+
+---
+
+### The House Dick
+
+**Released:** 2025-12-04 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
 
 ---
 
@@ -216,42 +262,6 @@ Last updated: 2025-12-08 12:26:58
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Will Arnett Returns
-
-**Released:** 2025-12-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
-
----
-
-### The House Dick
-
-**Released:** 2025-12-04 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Finding Soul: The Moth Podcast
-
-**Released:** 2025-12-05 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
-
----
-
-### If the Shoe Fits: The Moth Radio Hour
-
-**Released:** 2025-12-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
-
----
-
 ## SmartLess 
 
 ### "Laura Dern"
@@ -259,16 +269,6 @@ Last updated: 2025-12-08 12:26:58
 **Released:** 2025-12-08 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
-
-**Released:** 2025-12-03 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
