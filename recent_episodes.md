@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-09 01:01:23
+Last updated: 2025-12-09 12:27:26
 
 ## Freakonomics Radio
 
@@ -72,16 +72,6 @@ Last updated: 2025-12-09 01:01:23
 
 ---
 
-## Hidden Brain
-
-### The Paradox of Pleasure
-
-**Released:** 2025-12-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
-
----
-
 ## This American Life
 
 ### 876: Bigger Than Me
@@ -118,7 +108,25 @@ Last updated: 2025-12-09 01:01:23
 
 ---
 
+## Hidden Brain
+
+### The Paradox of Pleasure
+
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### Operation Paul Bunyan 
+
+**Released:** 2025-12-09 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bf48dee4-cacf-411e-8780-b3ad013802ee/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: What Is A Mold-A-Rama?
 
@@ -144,14 +152,6 @@ Last updated: 2025-12-09 01:01:23
 
 ---
 
-### The Brutal History of Prison Labor
-
-**Released:** 2025-12-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5d523bc-ab41-45f9-97d0-b3a601555b17/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### U Is for Urbanism
@@ -159,16 +159,6 @@ Last updated: 2025-12-09 01:01:23
 **Released:** 2025-12-02 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### How to Experience the Joy of Giving Right Now: A Giving Tuesday Special from The Happiness Lab
-
-**Released:** 2025-12-02 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/6b9f998d-346c-4ecb-b3d7-b3a000b0b731/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -187,34 +177,6 @@ Last updated: 2025-12-09 01:01:23
 **Released:** 2025-12-04 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5113d6d1-ec89-4325-ac21-9a382eb54834.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
-
-**Released:** 2025-12-03 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Finding Soul: The Moth Podcast
-
-**Released:** 2025-12-05 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
-
----
-
-### If the Shoe Fits: The Moth Radio Hour
-
-**Released:** 2025-12-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9483604722.mp3?updated=1764543516)
 
 ---
 
@@ -259,6 +221,34 @@ Last updated: 2025-12-09 01:01:23
 **Released:** 2025-12-03 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Eye Opening Encounters: The Moth Radio Hour
+
+**Released:** 2025-12-09 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
+
+---
+
+### Finding Soul: The Moth Podcast
+
+**Released:** 2025-12-05 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+## The Tim Ferriss Show
+
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+
+**Released:** 2025-12-03 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
