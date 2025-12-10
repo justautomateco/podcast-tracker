@@ -7,20 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "d35e0dd6-ed81-453b-8926-e1facae812ee",
-    "episode_title": "How hurricanes became a hot investment",
-    "release_date": "2025-12-05 23:54:30",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "2cd52213-02ae-418c-a7a1-9ba0d245a04c",
-    "episode_title": "Is AI slopifying the job market? (Two Indicators)",
-    "release_date": "2025-12-03 08:00:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "46068 at https://www.thisamericanlife.org",
     "episode_title": "876: Bigger Than Me",
     "release_date": "2025-12-07 18:00:00",
@@ -63,6 +49,20 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "c3407de7-5cc9-451a-bef3-118eb4f0c5a5",
+    "episode_title": "Strange threadfellows: How the U.S. military shaped what we all wear",
+    "release_date": "2025-12-10 08:00:00",
+    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "d35e0dd6-ed81-453b-8926-e1facae812ee",
+    "episode_title": "How hurricanes became a hot investment",
+    "release_date": "2025-12-05 23:54:30",
+    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "5780887a-d4b8-11f0-a77c-6bec21e3f266",
     "episode_title": "JRE MMA Show #171 with Brendan Allen",
     "release_date": "2025-12-09 18:00:00",
@@ -84,11 +84,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "75814462-60e8-4a18-862d-1964ed408fd3",
-    "episode_title": "The Paradox of Pleasure",
-    "release_date": "2025-12-08 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "2db35a80-f62c-44c0-a553-b39c011853a0",
+    "episode_title": "Short Stuff: Atacama Skeleton ",
+    "release_date": "2025-12-10 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db35a80-f62c-44c0-a553-b39c011853a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "bf48dee4-cacf-411e-8780-b3ad013802ee",
@@ -112,11 +112,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "83e48971-c5a8-4f32-9054-b398012d51af",
-    "episode_title": "Short Stuff: Camberley Kate",
-    "release_date": "2025-12-03 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/83e48971-c5a8-4f32-9054-b398012d51af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "75814462-60e8-4a18-862d-1964ed408fd3",
+    "episode_title": "The Paradox of Pleasure",
+    "release_date": "2025-12-08 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "978821c3-e644-4533-852f-bca7885fdcd7",
@@ -154,27 +154,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/njtbE8l8ifotczadmXVhZN9e6YLHYtqvJNe601iWMTs",
-    "episode_title": "Jake Johnson Returns Again",
-    "release_date": "2025-12-08 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/6NX8MWT_eMo80Al-Ahthdb0sBKUsCjI6XtgF-QB_s4g",
-    "episode_title": "Armchair Anonymous: Wild Card X",
-    "release_date": "2025-12-05 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/f8aeaa1b-4249-4a6e-8766-c0c6d64326fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/MUab__WKrY2OzUgvtov5pI3xXS9KZ5dpeRqmkflKlxA",
-    "episode_title": "James L. Brooks (director and producer)",
-    "release_date": "2025-12-03 08:35:00",
-    "mp3_url": "https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
     "guid": "ba33515e-76d2-11ef-92d1-c771d231b273",
     "episode_title": "Eye Opening Encounters: The Moth Radio Hour",
     "release_date": "2025-12-09 05:25:00",
@@ -187,6 +166,27 @@
     "release_date": "2025-12-05 05:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gy-B8geW_Uo5LOYQFhEU_AAexT-V4cOuAFAdtOJ5aRY",
+    "episode_title": "Coltan Scrivner (on morbid curiosities)",
+    "release_date": "2025-12-10 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/njtbE8l8ifotczadmXVhZN9e6YLHYtqvJNe601iWMTs",
+    "episode_title": "Jake Johnson Returns Again",
+    "release_date": "2025-12-08 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/6NX8MWT_eMo80Al-Ahthdb0sBKUsCjI6XtgF-QB_s4g",
+    "episode_title": "Armchair Anonymous: Wild Card X",
+    "release_date": "2025-12-05 08:35:00",
+    "mp3_url": "https://rss.art19.com/episodes/f8aeaa1b-4249-4a6e-8766-c0c6d64326fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "cfea2cfd-603c-4bea-a22a-3683141834b8",

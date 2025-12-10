@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-10 01:03:08
+Last updated: 2025-12-10 12:27:38
 
 ## Freakonomics Radio
 
@@ -9,24 +9,6 @@ Last updated: 2025-12-10 01:03:08
 **Released:** 2025-12-05 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### How hurricanes became a hot investment
-
-**Released:** 2025-12-05 23:54:30
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
-
----
-
-### Is AI slopifying the job market? (Two Indicators)
-
-**Released:** 2025-12-03 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
 
 ---
 
@@ -82,6 +64,24 @@ Last updated: 2025-12-10 01:03:08
 
 ---
 
+## Planet Money
+
+### Strange threadfellows: How the U.S. military shaped what we all wear
+
+**Released:** 2025-12-10 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
+
+---
+
+### How hurricanes became a hot investment
+
+**Released:** 2025-12-05 23:54:30
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
+
+---
+
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #171 with Brendan Allen
@@ -108,17 +108,15 @@ Last updated: 2025-12-10 01:03:08
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### The Paradox of Pleasure
+### Short Stuff: Atacama Skeleton 
 
-**Released:** 2025-12-08 20:00:00
+**Released:** 2025-12-10 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2db35a80-f62c-44c0-a553-b39c011853a0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Operation Paul Bunyan 
 
@@ -144,11 +142,13 @@ Last updated: 2025-12-10 01:03:08
 
 ---
 
-### Short Stuff: Camberley Kate
+## Hidden Brain
 
-**Released:** 2025-12-03 10:00:00
+### The Paradox of Pleasure
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/83e48971-c5a8-4f32-9054-b398012d51af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
 
 ---
 
@@ -198,32 +198,6 @@ Last updated: 2025-12-10 01:03:08
 
 ---
 
-## Armchair Expert
-
-### Jake Johnson Returns Again
-
-**Released:** 2025-12-08 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card X
-
-**Released:** 2025-12-05 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8aeaa1b-4249-4a6e-8766-c0c6d64326fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James L. Brooks (director and producer)
-
-**Released:** 2025-12-03 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f6eed0e-2cdf-471a-8024-11e3de6a0096.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Eye Opening Encounters: The Moth Radio Hour
@@ -239,6 +213,32 @@ Last updated: 2025-12-10 01:03:08
 **Released:** 2025-12-05 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+## Armchair Expert
+
+### Coltan Scrivner (on morbid curiosities)
+
+**Released:** 2025-12-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jake Johnson Returns Again
+
+**Released:** 2025-12-08 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card X
+
+**Released:** 2025-12-05 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8aeaa1b-4249-4a6e-8766-c0c6d64326fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
