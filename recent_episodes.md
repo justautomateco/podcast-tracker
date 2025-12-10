@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-09 12:27:26
+Last updated: 2025-12-10 01:03:08
 
 ## Freakonomics Radio
 
@@ -12,7 +12,43 @@ Last updated: 2025-12-09 12:27:26
 
 ---
 
+## Planet Money
+
+### How hurricanes became a hot investment
+
+**Released:** 2025-12-05 23:54:30
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
+
+---
+
+### Is AI slopifying the job market? (Two Indicators)
+
+**Released:** 2025-12-03 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
+
+---
+
+## This American Life
+
+### 876: Bigger Than Me
+
+**Released:** 2025-12-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+
+---
+
 ## TED Talks Daily
+
+### Schools urgently need a redesign. Here's how | Aylon Samouha
+
+**Released:** 2025-12-09 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693846784f84d8410fb2c0ca/media.mp3)
+
+---
 
 ### The surprisingly simple reason teams fail | Tessa West
 
@@ -46,43 +82,15 @@ Last updated: 2025-12-09 12:27:26
 
 ---
 
-### Why are we demolishing homes during a housing crisis? | Olaf Grawert
-
-**Released:** 2025-12-04 17:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6920d183c367efee9636e571/media.mp3)
-
----
-
-## Planet Money
-
-### How hurricanes became a hot investment
-
-**Released:** 2025-12-05 23:54:30
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
-
----
-
-### Is AI slopifying the job market? (Two Indicators)
-
-**Released:** 2025-12-03 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
-
----
-
-## This American Life
-
-### 876: Bigger Than Me
-
-**Released:** 2025-12-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
-
----
-
 ## The Joe Rogan Experience
+
+### JRE MMA Show #171 with Brendan Allen
+
+**Released:** 2025-12-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
+
+---
 
 ### #2423 - John Cena
 
@@ -97,14 +105,6 @@ Last updated: 2025-12-09 12:27:26
 **Released:** 2025-12-03 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142)
-
----
-
-### #2421 - Derek, More Plates More Dates
-
-**Released:** 2025-12-02 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5479881704.mp3?updated=1764694743)
 
 ---
 
@@ -154,11 +154,11 @@ Last updated: 2025-12-09 12:27:26
 
 ## 99% Invisible
 
-### U Is for Urbanism
+### The Checkerboard
 
-**Released:** 2025-12-02 18:15:00
+**Released:** 2025-12-09 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e53f74fc-89d0-4fc8-827f-469575c00ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e53f74fc-89d0-4fc8-827f-469575c00ad8&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
 
 ---
 
@@ -242,16 +242,6 @@ Last updated: 2025-12-09 12:27:26
 
 ---
 
-## The Tim Ferriss Show
-
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
-
-**Released:** 2025-12-03 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Laura Dern"
@@ -259,6 +249,24 @@ Last updated: 2025-12-09 12:27:26
 **Released:** 2025-12-08 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+
+**Released:** 2025-12-03 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
