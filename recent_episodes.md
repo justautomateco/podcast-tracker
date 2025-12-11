@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-10 12:27:38
-
-## Freakonomics Radio
-
-### “The Greatest Piece of Participatory Art Ever Created”
-
-**Released:** 2025-12-05 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-11 01:03:46
 
 ## This American Life
 
@@ -23,6 +13,14 @@ Last updated: 2025-12-10 12:27:38
 ---
 
 ## TED Talks Daily
+
+### Why I attempt the world's most dangerous stunts | Michelle Khare
+
+**Released:** 2025-12-10 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6939963934867e026d360623/media.mp3)
+
+---
 
 ### Schools urgently need a redesign. Here's how | Aylon Samouha
 
@@ -56,11 +54,13 @@ Last updated: 2025-12-10 12:27:38
 
 ---
 
-### How ibogaine could treat depression and anxiety | Nolan Williams
+## Freakonomics Radio
 
-**Released:** 2025-12-05 17:00:00
+### “The Greatest Piece of Participatory Art Ever Created”
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69330496a63c6eaa596c7e6e/media.mp3)
+**Released:** 2025-12-05 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
 
 ---
 
@@ -84,6 +84,14 @@ Last updated: 2025-12-10 12:27:38
 
 ## The Joe Rogan Experience
 
+### #2424 - Jelly Roll
+
+**Released:** 2025-12-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
+
+---
+
 ### JRE MMA Show #171 with Brendan Allen
 
 **Released:** 2025-12-09 18:00:00
@@ -97,14 +105,6 @@ Last updated: 2025-12-10 12:27:38
 **Released:** 2025-12-05 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105)
-
----
-
-### #2422 - Jensen Huang
-
-**Released:** 2025-12-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6973484021.mp3?updated=1764784142)
 
 ---
 
@@ -180,24 +180,6 @@ Last updated: 2025-12-10 12:27:38
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Will Arnett Returns
-
-**Released:** 2025-12-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
-
----
-
-### The House Dick
-
-**Released:** 2025-12-04 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### Eye Opening Encounters: The Moth Radio Hour
@@ -213,6 +195,16 @@ Last updated: 2025-12-10 12:27:38
 **Released:** 2025-12-05 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1288716815.mp3?updated=1762370319)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,21 +244,21 @@ Last updated: 2025-12-10 12:27:38
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+### Will Arnett Returns
 
-**Released:** 2025-12-09 22:00:00
+**Released:** 2025-12-08 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
 
 ---
 
-### #838: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello
+### The House Dick
 
-**Released:** 2025-12-03 20:30:00
+**Released:** 2025-12-04 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b02812d-4b52-4a07-9312-770ebf56c955.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0825f756-0d55-42a4-9dbc-05bb5514b533/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0825f756-0d55-42a4-9dbc-05bb5514b533&feed=dHoohVNH)
 
 ---
 
