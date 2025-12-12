@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-11 12:28:52
-
-## Freakonomics Radio
-
-### “The Greatest Piece of Participatory Art Ever Created”
-
-**Released:** 2025-12-05 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 876: Bigger Than Me
-
-**Released:** 2025-12-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
-
----
+Last updated: 2025-12-12 01:03:23
 
 ## TED Talks Daily
+
+### The question that saved my company from bankruptcy | Sharon Price John
+
+**Released:** 2025-12-11 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69384c6f34867e026de133e1/media.mp3)
+
+---
 
 ### Why I attempt the world's most dangerous stunts | Michelle Khare
 
@@ -56,11 +44,13 @@ Last updated: 2025-12-11 12:28:52
 
 ---
 
-### The ethical case for taking on the climate crisis | Al Gore, Wanjira Mathai & Karenna Gore (TED Countdown House)
+## Freakonomics Radio
 
-**Released:** 2025-12-06 16:00:00
+### “The Greatest Piece of Participatory Art Ever Created”
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6931e913a63c6eaa591007f2/media.mp3)
+**Released:** 2025-12-05 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab7ab945-4774-48ca-bb9b-162b79eb9502/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab7ab945-4774-48ca-bb9b-162b79eb9502&feed=Y8lFbOT4)
 
 ---
 
@@ -82,7 +72,25 @@ Last updated: 2025-12-11 12:28:52
 
 ---
 
+## This American Life
+
+### 876: Bigger Than Me
+
+**Released:** 2025-12-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2425 - Ethan Hawke
+
+**Released:** 2025-12-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
+
+---
 
 ### #2424 - Jelly Roll
 
@@ -105,26 +113,6 @@ Last updated: 2025-12-11 12:28:52
 **Released:** 2025-12-05 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105)
-
----
-
-## Hidden Brain
-
-### The Paradox of Pleasure
-
-**Released:** 2025-12-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Checkerboard
-
-**Released:** 2025-12-09 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
 
 ---
 
@@ -162,6 +150,36 @@ Last updated: 2025-12-11 12:28:52
 
 ---
 
+## Hidden Brain
+
+### The Paradox of Pleasure
+
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Checkerboard
+
+**Released:** 2025-12-09 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
+
+**Released:** 2025-12-11 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring
@@ -180,13 +198,21 @@ Last updated: 2025-12-11 12:28:52
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
+### Cocoland
 
-**Released:** 2025-12-11 05:01:00
+**Released:** 2025-12-11 05:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
+
+---
+
+### Will Arnett Returns
+
+**Released:** 2025-12-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
 
 ---
 
@@ -234,34 +260,6 @@ Last updated: 2025-12-11 12:28:52
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Cocoland
-
-**Released:** 2025-12-11 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
-
----
-
-### Will Arnett Returns
-
-**Released:** 2025-12-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "RE-RELEASE: Adam Sandler"
@@ -277,6 +275,16 @@ Last updated: 2025-12-11 12:28:52
 **Released:** 2025-12-08 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
