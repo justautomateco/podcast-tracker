@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-13 00:59:31
+Last updated: 2025-12-13 12:23:22
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2025-12-13 00:59:31
 **Released:** 2025-12-12 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 876: Bigger Than Me
+
+**Released:** 2025-12-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2025-12-13 00:59:31
 **Released:** 2025-12-08 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6936f4aac3bfafbbda20ffda/media.mp3)
-
----
-
-## This American Life
-
-### 876: Bigger Than Me
-
-**Released:** 2025-12-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
 
 ---
 
@@ -120,6 +120,14 @@ Last updated: 2025-12-13 00:59:31
 
 ## Stuff You Should Know
 
+### Selects: Star Wars Holiday Spectacular
+
+**Released:** 2025-12-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5b25e8e2-8256-4823-ae24-b3a80167e7cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### SYSK's 12 Days of Christmas… Toys: What Makes a Must-Have Christmas Toy?
 
 **Released:** 2025-12-12 10:10:00
@@ -152,14 +160,6 @@ Last updated: 2025-12-13 00:59:31
 
 ---
 
-### SYSK's 12 Days of Christmas… Toys: Cabbage Patch Kids: Must-Have Toy of the Century
-
-**Released:** 2025-12-12 10:05:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/845db4e3-ec9e-4ff1-9c1f-b3b001266bf0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### The Checkerboard
@@ -167,16 +167,6 @@ Last updated: 2025-12-13 00:59:31
 **Released:** 2025-12-09 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
-
-**Released:** 2025-12-11 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -195,6 +185,26 @@ Last updated: 2025-12-13 00:59:31
 **Released:** 2025-12-08 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/353116ab-3825-455c-98fa-96ae0aede281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
+
+**Released:** 2025-12-11 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -224,24 +234,6 @@ Last updated: 2025-12-13 00:59:31
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Cocoland
-
-**Released:** 2025-12-11 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
-
----
-
-### Will Arnett Returns
-
-**Released:** 2025-12-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### Crowd Control: The Moth Podcast
@@ -260,6 +252,24 @@ Last updated: 2025-12-13 00:59:31
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Cocoland
+
+**Released:** 2025-12-11 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
+
+---
+
+### Will Arnett Returns
+
+**Released:** 2025-12-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Adam Sandler"
@@ -275,16 +285,6 @@ Last updated: 2025-12-13 00:59:31
 **Released:** 2025-12-08 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
