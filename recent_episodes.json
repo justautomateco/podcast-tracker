@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "693af2820375da4a9e2416f1",
+    "episode_title": "Is the AI bubble about to burst? | Henrik Zeberg",
+    "release_date": "2025-12-12 16:07:40",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693af2820375da4a9e2416f1/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69384c6f34867e026de133e1",
     "episode_title": "The question that saved my company from bankruptcy | Sharon Price John",
     "release_date": "2025-12-11 16:00:00",
@@ -35,13 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69349e41eab4d846e0e7e13c",
-    "episode_title": "TED Talks Daily Book Club: Embrace your limitations | Oliver Burkeman",
-    "release_date": "2025-12-07 07:00:45",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69349e41eab4d846e0e7e13c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "46068 at https://www.thisamericanlife.org",
     "episode_title": "876: Bigger Than Me",
     "release_date": "2025-12-07 18:00:00",
@@ -49,32 +49,18 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "15ee9adc-0916-43e6-99ee-29bf79e6a52d",
+    "episode_title": "When Chicago pawned its parking meters",
+    "release_date": "2025-12-12 23:59:37",
+    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "c3407de7-5cc9-451a-bef3-118eb4f0c5a5",
     "episode_title": "Strange threadfellows: How the U.S. military shaped what we all wear",
     "release_date": "2025-12-10 08:00:00",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "d35e0dd6-ed81-453b-8926-e1facae812ee",
-    "episode_title": "How hurricanes became a hot investment",
-    "release_date": "2025-12-05 23:54:30",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "75814462-60e8-4a18-862d-1964ed408fd3",
-    "episode_title": "The Paradox of Pleasure",
-    "release_date": "2025-12-08 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "978821c3-e644-4533-852f-bca7885fdcd7",
-    "episode_title": "The Checkerboard",
-    "release_date": "2025-12-09 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "c11eb41a-d624-11f0-ab2e-738d969da713",
@@ -98,11 +84,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "27937036-d194-11f0-8556-130887eb602c",
-    "episode_title": "#2423 - John Cena",
-    "release_date": "2025-12-05 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "75814462-60e8-4a18-862d-1964ed408fd3",
+    "episode_title": "The Paradox of Pleasure",
+    "release_date": "2025-12-08 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "88b2ed27-a79e-49bb-a470-b3b001264aee",
@@ -116,6 +102,13 @@
     "episode_title": "SYSK's 12 Days of Christmas\u2026 Toys: How Play-Doh Works",
     "release_date": "2025-12-12 10:05:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2cec91da-51c2-4b60-a6d4-b3b001467b9d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "6cffe812-1cc4-417d-a448-b3b001467376",
+    "episode_title": "SYSK's 12 Days of Christmas\u2026 Toys: How Yo-Yos Work",
+    "release_date": "2025-12-12 10:05:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6cffe812-1cc4-417d-a448-b3b001467376/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
   },
   {
@@ -133,11 +126,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "a13f11a7-66c0-4153-baad-b3b0012666d8",
-    "episode_title": "SYSK's 12 Days of Christmas\u2026 Toys: Hula-Hoops: The Toy That's A Shape",
-    "release_date": "2025-12-12 10:05:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13f11a7-66c0-4153-baad-b3b0012666d8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "978821c3-e644-4533-852f-bca7885fdcd7",
+    "episode_title": "The Checkerboard",
+    "release_date": "2025-12-09 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "644d8547-87a9-4dcf-8319-b3af0154a8b7",
+    "episode_title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing ",
+    "release_date": "2025-12-11 05:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/6xKHFR3GI7rspEo5025f1DikFRfIhmuGhoVwg-W5Dks",
@@ -152,27 +152,6 @@
     "release_date": "2025-12-08 08:00:00",
     "mp3_url": "https://rss.art19.com/episodes/353116ab-3825-455c-98fa-96ae0aede281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "644d8547-87a9-4dcf-8319-b3af0154a8b7",
-    "episode_title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing ",
-    "release_date": "2025-12-11 05:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "974f3707-c854-4acb-8336-cadc30917ad3",
-    "episode_title": "Cocoland",
-    "release_date": "2025-12-11 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "e1de7e17-63e9-4822-972d-e8d96705bc51",
-    "episode_title": "Will Arnett Returns",
-    "release_date": "2025-12-08 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/aoN4opviyuPSBeTiclpw2HAy4Fo8_O7j4-CnzvAL-S8",
@@ -194,6 +173,20 @@
     "release_date": "2025-12-08 08:35:00",
     "mp3_url": "https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "974f3707-c854-4acb-8336-cadc30917ad3",
+    "episode_title": "Cocoland",
+    "release_date": "2025-12-11 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e1de7e17-63e9-4822-972d-e8d96705bc51",
+    "episode_title": "Will Arnett Returns",
+    "release_date": "2025-12-08 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "5a3559a6-97c8-11f0-9c60-c334d9ac2ede",

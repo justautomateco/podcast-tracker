@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-12 12:27:01
+Last updated: 2025-12-13 00:59:31
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-12-12 12:27:01
 ---
 
 ## TED Talks Daily
+
+### Is the AI bubble about to burst? | Henrik Zeberg
+
+**Released:** 2025-12-12 16:07:40
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693af2820375da4a9e2416f1/media.mp3)
+
+---
 
 ### The question that saved my company from bankruptcy | Sharon Price John
 
@@ -46,14 +54,6 @@ Last updated: 2025-12-12 12:27:01
 
 ---
 
-### TED Talks Daily Book Club: Embrace your limitations | Oliver Burkeman
-
-**Released:** 2025-12-07 07:00:45
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69349e41eab4d846e0e7e13c/media.mp3)
-
----
-
 ## This American Life
 
 ### 876: Bigger Than Me
@@ -66,39 +66,19 @@ Last updated: 2025-12-12 12:27:01
 
 ## Planet Money
 
+### When Chicago pawned its parking meters
+
+**Released:** 2025-12-12 23:59:37
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
+
+---
+
 ### Strange threadfellows: How the U.S. military shaped what we all wear
 
 **Released:** 2025-12-10 08:00:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
-
----
-
-### How hurricanes became a hot investment
-
-**Released:** 2025-12-05 23:54:30
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
-
----
-
-## Hidden Brain
-
-### The Paradox of Pleasure
-
-**Released:** 2025-12-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Checkerboard
-
-**Released:** 2025-12-09 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
 
 ---
 
@@ -128,11 +108,13 @@ Last updated: 2025-12-12 12:27:01
 
 ---
 
-### #2423 - John Cena
+## Hidden Brain
 
-**Released:** 2025-12-05 18:00:00
+### The Paradox of Pleasure
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2483372060.mp3?updated=1764956105)
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
 
 ---
 
@@ -154,6 +136,14 @@ Last updated: 2025-12-12 12:27:01
 
 ---
 
+### SYSK's 12 Days of Christmas… Toys: How Yo-Yos Work
+
+**Released:** 2025-12-12 10:05:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6cffe812-1cc4-417d-a448-b3b001467376/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### SYSK's 12 Days of Christmas… Toys: A Partial History of Action Figures
 
 **Released:** 2025-12-12 10:05:00
@@ -170,11 +160,23 @@ Last updated: 2025-12-12 12:27:01
 
 ---
 
-### SYSK's 12 Days of Christmas… Toys: Hula-Hoops: The Toy That's A Shape
+## 99% Invisible
 
-**Released:** 2025-12-12 10:05:00
+### The Checkerboard
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13f11a7-66c0-4153-baad-b3b0012666d8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-09 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
+
+**Released:** 2025-12-11 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -193,34 +195,6 @@ Last updated: 2025-12-12 12:27:01
 **Released:** 2025-12-08 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/353116ab-3825-455c-98fa-96ae0aede281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
-
-**Released:** 2025-12-11 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Cocoland
-
-**Released:** 2025-12-11 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
-
----
-
-### Will Arnett Returns
-
-**Released:** 2025-12-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
 
 ---
 
@@ -247,6 +221,24 @@ Last updated: 2025-12-12 12:27:01
 **Released:** 2025-12-08 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Cocoland
+
+**Released:** 2025-12-11 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
+
+---
+
+### Will Arnett Returns
+
+**Released:** 2025-12-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
 
 ---
 
