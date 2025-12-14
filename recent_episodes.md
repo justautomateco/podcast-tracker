@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-14 01:07:57
-
-## Freakonomics Radio
-
-### 656. How Handel Got His Mojo Back
-
-**Released:** 2025-12-12 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-14 12:23:40
 
 ## TED Talks Daily
+
+### Sunday Pick: How to beat impostor syndrome | from Fixable
+
+**Released:** 2025-12-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693b249cd527840ddbd6337e/media.mp3)
+
+---
 
 ### This revolutionary moment in space exploration | Chris Hadfield
 
@@ -46,11 +44,13 @@ Last updated: 2025-12-14 01:07:57
 
 ---
 
-### Schools urgently need a redesign. Here's how | Aylon Samouha
+## Freakonomics Radio
 
-**Released:** 2025-12-09 16:00:00
+### 656. How Handel Got His Mojo Back
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693846784f84d8410fb2c0ca/media.mp3)
+**Released:** 2025-12-12 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
 
 ---
 
@@ -89,32 +89,6 @@ Last updated: 2025-12-14 01:07:57
 **Released:** 2025-12-08 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2425 - Ethan Hawke
-
-**Released:** 2025-12-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
-
----
-
-### #2424 - Jelly Roll
-
-**Released:** 2025-12-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
-
----
-
-### JRE MMA Show #171 with Brendan Allen
-
-**Released:** 2025-12-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
 
 ---
 
@@ -160,6 +134,32 @@ Last updated: 2025-12-14 01:07:57
 
 ---
 
+## The Joe Rogan Experience
+
+### #2425 - Ethan Hawke
+
+**Released:** 2025-12-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
+
+---
+
+### #2424 - Jelly Roll
+
+**Released:** 2025-12-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
+
+---
+
+### JRE MMA Show #171 with Brendan Allen
+
+**Released:** 2025-12-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
+
+---
+
 ## 99% Invisible
 
 ### The Checkerboard
@@ -188,16 +188,6 @@ Last updated: 2025-12-14 01:07:57
 
 ---
 
-## Revisionist History
-
-### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
-
-**Released:** 2025-12-11 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
@@ -208,21 +198,13 @@ Last updated: 2025-12-14 01:07:57
 
 ---
 
-## The Moth
+## Revisionist History
 
-### Crowd Control: The Moth Podcast
+### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
 
-**Released:** 2025-12-12 05:25:00
+**Released:** 2025-12-11 05:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
-
----
-
-### Eye Opening Encounters: The Moth Radio Hour
-
-**Released:** 2025-12-09 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -267,6 +249,24 @@ Last updated: 2025-12-14 01:07:57
 **Released:** 2025-12-08 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Crowd Control: The Moth Podcast
+
+**Released:** 2025-12-12 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
+
+---
+
+### Eye Opening Encounters: The Moth Radio Hour
+
+**Released:** 2025-12-09 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
 
 ---
 
