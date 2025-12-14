@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-13 12:23:22
+Last updated: 2025-12-14 01:07:57
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2025-12-13 12:23:22
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 876: Bigger Than Me
+### This revolutionary moment in space exploration | Chris Hadfield
 
-**Released:** 2025-12-07 18:00:00
+**Released:** 2025-12-13 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69384b976957d1e181d6a5cc/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Is the AI bubble about to burst? | Henrik Zeberg
 
@@ -56,11 +54,13 @@ Last updated: 2025-12-13 12:23:22
 
 ---
 
-### The surprisingly simple reason teams fail | Tessa West
+## This American Life
 
-**Released:** 2025-12-08 16:00:00
+### 876: Bigger Than Me
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6936f4aac3bfafbbda20ffda/media.mp3)
+**Released:** 2025-12-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
 
 ---
 
@@ -79,6 +79,16 @@ Last updated: 2025-12-13 12:23:22
 **Released:** 2025-12-10 08:00:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
+
+---
+
+## Hidden Brain
+
+### The Paradox of Pleasure
+
+**Released:** 2025-12-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
 
 ---
 
@@ -105,16 +115,6 @@ Last updated: 2025-12-13 12:23:22
 **Released:** 2025-12-09 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
-
----
-
-## Hidden Brain
-
-### The Paradox of Pleasure
-
-**Released:** 2025-12-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
 
 ---
 
@@ -188,16 +188,6 @@ Last updated: 2025-12-13 12:23:22
 
 ---
 
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
@@ -208,29 +198,13 @@ Last updated: 2025-12-13 12:23:22
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Armchair Anonymous: Stealing II
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
 
-**Released:** 2025-12-12 08:35:00
+**Released:** 2025-12-09 22:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Coltan Scrivner (on morbid curiosities)
-
-**Released:** 2025-12-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jake Johnson Returns Again
-
-**Released:** 2025-12-08 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,6 +241,32 @@ Last updated: 2025-12-13 12:23:22
 **Released:** 2025-12-08 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Stealing II
+
+**Released:** 2025-12-12 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Coltan Scrivner (on morbid curiosities)
+
+**Released:** 2025-12-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jake Johnson Returns Again
+
+**Released:** 2025-12-08 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
