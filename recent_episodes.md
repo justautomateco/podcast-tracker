@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-15 01:05:37
+Last updated: 2025-12-15 12:29:38
+
+## Freakonomics Radio
+
+### 656. How Handel Got His Mojo Back
+
+**Released:** 2025-12-12 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -41,16 +51,6 @@ Last updated: 2025-12-15 01:05:37
 **Released:** 2025-12-10 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6939963934867e026d360623/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 656. How Handel Got His Mojo Back
-
-**Released:** 2025-12-12 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
 
 ---
 
@@ -170,31 +170,21 @@ Last updated: 2025-12-15 01:05:37
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+### 93 Rejections, One Revolution: How Indiegogo Changed Crowdfunding Forever
 
-**Released:** 2025-12-09 22:00:00
+**Released:** 2025-12-15 08:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/856aac68-39d6-4b57-935f-b2735bc031fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring
 
 **Released:** 2025-12-11 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38d32c1e-dfc5-4c9d-b31a-446a0ea201d6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Khan Academy: Sal Khan. From Tutoring His Cousins to Teaching the World For Free (September 2020)
-
-**Released:** 2025-12-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/353116ab-3825-455c-98fa-96ae0aede281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,25 +216,15 @@ Last updated: 2025-12-15 01:05:37
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: Adam Sandler"
-
-**Released:** 2025-12-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
-
----
-
-### "Laura Dern"
-
-**Released:** 2025-12-08 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
+
+### Kumail Nanjiani Returns Again
+
+**Released:** 2025-12-15 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/449ef369-5a66-48e1-8152-0a9b32b67d49/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=449ef369-5a66-48e1-8152-0a9b32b67d49&feed=dHoohVNH)
+
+---
 
 ### Cocoland
 
@@ -254,15 +234,25 @@ Last updated: 2025-12-15 01:05:37
 
 ---
 
-### Will Arnett Returns
+## The Tim Ferriss Show
 
-**Released:** 2025-12-08 05:05:00
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fb376f97-6605-478e-9f2d-e2ab6f567e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fb376f97-6605-478e-9f2d-e2ab6f567e9f&feed=dHoohVNH)
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Zooey Deschanel Returns
+
+**Released:** 2025-12-15 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Stealing II
 
@@ -280,11 +270,21 @@ Last updated: 2025-12-15 01:05:37
 
 ---
 
-### Jake Johnson Returns Again
+## SmartLess 
 
-**Released:** 2025-12-08 08:35:00
+### "Walton Goggins"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-15 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Adam Sandler"
+
+**Released:** 2025-12-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
 
 ---
 
