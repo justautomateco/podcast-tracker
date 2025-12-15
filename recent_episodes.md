@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-14 12:23:40
+Last updated: 2025-12-15 01:05:37
 
 ## TED Talks Daily
 
@@ -56,11 +56,11 @@ Last updated: 2025-12-14 12:23:40
 
 ## This American Life
 
-### 876: Bigger Than Me
+### 255: Our Holiday Gift-Giving Guide
 
-**Released:** 2025-12-07 18:00:00
+**Released:** 2025-12-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
 
 ---
 
@@ -79,6 +79,32 @@ Last updated: 2025-12-14 12:23:40
 **Released:** 2025-12-10 08:00:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
+
+---
+
+## The Joe Rogan Experience
+
+### #2425 - Ethan Hawke
+
+**Released:** 2025-12-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
+
+---
+
+### #2424 - Jelly Roll
+
+**Released:** 2025-12-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
+
+---
+
+### JRE MMA Show #171 with Brendan Allen
+
+**Released:** 2025-12-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
 
 ---
 
@@ -134,32 +160,6 @@ Last updated: 2025-12-14 12:23:40
 
 ---
 
-## The Joe Rogan Experience
-
-### #2425 - Ethan Hawke
-
-**Released:** 2025-12-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
-
----
-
-### #2424 - Jelly Roll
-
-**Released:** 2025-12-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
-
----
-
-### JRE MMA Show #171 with Brendan Allen
-
-**Released:** 2025-12-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
-
----
-
 ## 99% Invisible
 
 ### The Checkerboard
@@ -167,6 +167,16 @@ Last updated: 2025-12-14 12:23:40
 **Released:** 2025-12-09 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,16 +198,6 @@ Last updated: 2025-12-14 12:23:40
 
 ---
 
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
@@ -205,6 +205,42 @@ Last updated: 2025-12-14 12:23:40
 **Released:** 2025-12-11 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Crowd Control: The Moth Podcast
+
+**Released:** 2025-12-12 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
+
+---
+
+### Eye Opening Encounters: The Moth Radio Hour
+
+**Released:** 2025-12-09 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Adam Sandler"
+
+**Released:** 2025-12-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
+
+---
+
+### "Laura Dern"
+
+**Released:** 2025-12-08 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
 
 ---
 
@@ -249,42 +285,6 @@ Last updated: 2025-12-14 12:23:40
 **Released:** 2025-12-08 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d25a53d-2461-4a6e-8dae-e0b42cd39987.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Crowd Control: The Moth Podcast
-
-**Released:** 2025-12-12 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
-
----
-
-### Eye Opening Encounters: The Moth Radio Hour
-
-**Released:** 2025-12-09 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Adam Sandler"
-
-**Released:** 2025-12-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
-
----
-
-### "Laura Dern"
-
-**Released:** 2025-12-08 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc174ac3-7a77-4287-9ac2-dfa1d18532f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc174ac3-7a77-4287-9ac2-dfa1d18532f1&feed=hNaFxXpO)
 
 ---
 
