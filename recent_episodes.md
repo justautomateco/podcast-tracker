@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-16 01:03:52
-
-## Freakonomics Radio
-
-### 656. How Handel Got His Mojo Back
-
-**Released:** 2025-12-12 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-16 12:28:23
 
 ## TED Talks Daily
 
@@ -51,6 +41,34 @@ Last updated: 2025-12-16 01:03:52
 **Released:** 2025-12-11 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69384c6f34867e026de133e1/media.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 656. How Handel Got His Mojo Back
+
+**Released:** 2025-12-12 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### When Chicago pawned its parking meters
+
+**Released:** 2025-12-12 23:59:37
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
+
+---
+
+### Strange threadfellows: How the U.S. military shaped what we all wear
+
+**Released:** 2025-12-10 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
 
 ---
 
@@ -100,25 +118,25 @@ Last updated: 2025-12-16 01:03:52
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### When Chicago pawned its parking meters
+### The Checkerboard
 
-**Released:** 2025-12-12 23:59:37
+**Released:** 2025-12-09 18:15:00
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
-
----
-
-### Strange threadfellows: How the U.S. military shaped what we all wear
-
-**Released:** 2025-12-10 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Battle Royale: Optimists vs Pessimists
+
+**Released:** 2025-12-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/605f88a7-1582-4181-9f0a-b3a100ffab44/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Star Wars Holiday Spectacular
 
@@ -152,24 +170,6 @@ Last updated: 2025-12-16 01:03:52
 
 ---
 
-### SYSK's 12 Days of Christmas… Toys: A Partial History of Action Figures
-
-**Released:** 2025-12-12 10:05:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9911361-1c96-4fa4-8828-b3b0012d7f82/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Checkerboard
-
-**Released:** 2025-12-09 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### 93 Rejections, One Revolution: How Indiegogo Changed Crowdfunding Forever
@@ -198,33 +198,15 @@ Last updated: 2025-12-16 01:03:52
 
 ---
 
-## Armchair Expert
-
-### Zooey Deschanel Returns
-
-**Released:** 2025-12-15 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Stealing II
-
-**Released:** 2025-12-12 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Coltan Scrivner (on morbid curiosities)
-
-**Released:** 2025-12-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### Underpinning: The Moth Radio Hour
+
+**Released:** 2025-12-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
+
+---
 
 ### Crowd Control: The Moth Podcast
 
@@ -234,11 +216,13 @@ Last updated: 2025-12-16 01:03:52
 
 ---
 
-### Eye Opening Encounters: The Moth Radio Hour
+## The Tim Ferriss Show
 
-**Released:** 2025-12-09 05:25:00
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1734379114.mp3?updated=1765055454)
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -278,13 +262,29 @@ Last updated: 2025-12-16 01:03:52
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+### Zooey Deschanel Returns
 
-**Released:** 2025-12-09 22:00:00
+**Released:** 2025-12-15 08:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Stealing II
+
+**Released:** 2025-12-12 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Coltan Scrivner (on morbid curiosities)
+
+**Released:** 2025-12-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
