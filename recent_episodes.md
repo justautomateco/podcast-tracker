@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-15 12:29:38
+Last updated: 2025-12-16 01:03:52
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-12-15 12:29:38
 ---
 
 ## TED Talks Daily
+
+### The trap of win-lose thinking (and how to escape it) | John Mackey
+
+**Released:** 2025-12-15 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69403040cc3f4b4c733e5e2c/media.mp3)
+
+---
 
 ### Sunday Pick: How to beat impostor syndrome | from Fixable
 
@@ -46,14 +54,6 @@ Last updated: 2025-12-15 12:29:38
 
 ---
 
-### Why I attempt the world's most dangerous stunts | Michelle Khare
-
-**Released:** 2025-12-10 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6939963934867e026d360623/media.mp3)
-
----
-
 ## This American Life
 
 ### 255: Our Holiday Gift-Giving Guide
@@ -61,24 +61,6 @@ Last updated: 2025-12-15 12:29:38
 **Released:** 2025-12-14 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
-
----
-
-## Planet Money
-
-### When Chicago pawned its parking meters
-
-**Released:** 2025-12-12 23:59:37
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
-
----
-
-### Strange threadfellows: How the U.S. military shaped what we all wear
-
-**Released:** 2025-12-10 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
 
 ---
 
@@ -110,11 +92,29 @@ Last updated: 2025-12-15 12:29:38
 
 ## Hidden Brain
 
-### The Paradox of Pleasure
+### The Path to Enough
 
-**Released:** 2025-12-08 20:00:00
+**Released:** 2025-12-15 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/56c6e7a1-4c95-4a31-a32e-6f53b91b74ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=56c6e7a1-4c95-4a31-a32e-6f53b91b74ac&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### When Chicago pawned its parking meters
+
+**Released:** 2025-12-12 23:59:37
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
+
+---
+
+### Strange threadfellows: How the U.S. military shaped what we all wear
+
+**Released:** 2025-12-10 08:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
 
 ---
 
@@ -198,6 +198,32 @@ Last updated: 2025-12-15 12:29:38
 
 ---
 
+## Armchair Expert
+
+### Zooey Deschanel Returns
+
+**Released:** 2025-12-15 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Stealing II
+
+**Released:** 2025-12-12 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Coltan Scrivner (on morbid curiosities)
+
+**Released:** 2025-12-10 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Crowd Control: The Moth Podcast
@@ -234,42 +260,6 @@ Last updated: 2025-12-15 12:29:38
 
 ---
 
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Zooey Deschanel Returns
-
-**Released:** 2025-12-15 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Stealing II
-
-**Released:** 2025-12-12 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Coltan Scrivner (on morbid curiosities)
-
-**Released:** 2025-12-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Walton Goggins"
@@ -285,6 +275,16 @@ Last updated: 2025-12-15 12:29:38
 **Released:** 2025-12-11 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
+
+**Released:** 2025-12-09 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
