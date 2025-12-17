@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-16 12:28:23
+Last updated: 2025-12-17 00:59:23
+
+## Freakonomics Radio
+
+### 656. How Handel Got His Mojo Back
+
+**Released:** 2025-12-12 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 255: Our Holiday Gift-Giving Guide
+
+**Released:** 2025-12-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
+
+---
 
 ## TED Talks Daily
+
+### The pattern we're missing in the AI job panic | Vlad Tenev
+
+**Released:** 2025-12-16 16:06:28
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694181cc443ad9891397b8f5/media.mp3)
+
+---
 
 ### The trap of win-lose thinking (and how to escape it) | John Mackey
 
@@ -36,24 +64,6 @@ Last updated: 2025-12-16 12:28:23
 
 ---
 
-### The question that saved my company from bankruptcy | Sharon Price John
-
-**Released:** 2025-12-11 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69384c6f34867e026de133e1/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 656. How Handel Got His Mojo Back
-
-**Released:** 2025-12-12 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### When Chicago pawned its parking meters
@@ -72,17 +82,35 @@ Last updated: 2025-12-16 12:28:23
 
 ---
 
-## This American Life
+## 99% Invisible
 
-### 255: Our Holiday Gift-Giving Guide
+### Sax Appeal
 
-**Released:** 2025-12-14 18:00:00
+**Released:** 2025-12-16 18:15:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### The Path to Enough
+
+**Released:** 2025-12-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2426 - Cameron Hanes & Adam Greentree
+
+**Released:** 2025-12-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
+
+---
 
 ### #2425 - Ethan Hawke
 
@@ -97,34 +125,6 @@ Last updated: 2025-12-16 12:28:23
 **Released:** 2025-12-10 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
-
----
-
-### JRE MMA Show #171 with Brendan Allen
-
-**Released:** 2025-12-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5285392335.mp3?updated=1765303701)
-
----
-
-## Hidden Brain
-
-### The Path to Enough
-
-**Released:** 2025-12-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Checkerboard
-
-**Released:** 2025-12-09 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1012f5c6-e603-47e5-89f0-e2cfbd85d17f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1012f5c6-e603-47e5-89f0-e2cfbd85d17f&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +170,16 @@ Last updated: 2025-12-16 12:28:23
 
 ---
 
+## Revisionist History
+
+### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
+
+**Released:** 2025-12-11 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### 93 Rejections, One Revolution: How Indiegogo Changed Crowdfunding Forever
@@ -185,16 +195,6 @@ Last updated: 2025-12-16 12:28:23
 **Released:** 2025-12-11 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38d32c1e-dfc5-4c9d-b31a-446a0ea201d6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing 
-
-**Released:** 2025-12-11 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -216,16 +216,6 @@ Last updated: 2025-12-16 12:28:23
 
 ---
 
-## The Tim Ferriss Show
-
-### #839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star
-
-**Released:** 2025-12-09 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1988c19d-6f49-4611-9f65-827c9d219624.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Kumail Nanjiani Returns Again
@@ -241,24 +231,6 @@ Last updated: 2025-12-16 12:28:23
 **Released:** 2025-12-11 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Walton Goggins"
-
-**Released:** 2025-12-15 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Adam Sandler"
-
-**Released:** 2025-12-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +257,24 @@ Last updated: 2025-12-16 12:28:23
 **Released:** 2025-12-10 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Walton Goggins"
+
+**Released:** 2025-12-15 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Adam Sandler"
+
+**Released:** 2025-12-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO)
 
 ---
 
