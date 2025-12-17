@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-17 00:59:23
+Last updated: 2025-12-17 12:27:47
 
 ## Freakonomics Radio
+
+### Who Pays for “Messiah”?
+
+**Released:** 2025-12-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
+
+---
 
 ### 656. How Handel Got His Mojo Back
 
@@ -74,24 +82,6 @@ Last updated: 2025-12-17 00:59:23
 
 ---
 
-### Strange threadfellows: How the U.S. military shaped what we all wear
-
-**Released:** 2025-12-10 08:00:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
-
----
-
-## 99% Invisible
-
-### Sax Appeal
-
-**Released:** 2025-12-16 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
-
----
-
 ## Hidden Brain
 
 ### The Path to Enough
@@ -102,33 +92,15 @@ Last updated: 2025-12-17 00:59:23
 
 ---
 
-## The Joe Rogan Experience
-
-### #2426 - Cameron Hanes & Adam Greentree
-
-**Released:** 2025-12-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
-
----
-
-### #2425 - Ethan Hawke
-
-**Released:** 2025-12-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
-
----
-
-### #2424 - Jelly Roll
-
-**Released:** 2025-12-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: Battle of Itter Castle
+
+**Released:** 2025-12-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/db2b53ca-8cca-47c3-b8b5-b3a7016b0b3b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Battle Royale: Optimists vs Pessimists
 
@@ -162,11 +134,39 @@ Last updated: 2025-12-17 00:59:23
 
 ---
 
-### SYSK's 12 Days of Christmas… Toys: How Yo-Yos Work
+## 99% Invisible
 
-**Released:** 2025-12-12 10:05:00
+### Sax Appeal
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6cffe812-1cc4-417d-a448-b3b001467376/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-16 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2426 - Cameron Hanes & Adam Greentree
+
+**Released:** 2025-12-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
+
+---
+
+### #2425 - Ethan Hawke
+
+**Released:** 2025-12-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
+
+---
+
+### #2424 - Jelly Roll
+
+**Released:** 2025-12-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2675988371.mp3?updated=1765387734)
 
 ---
 
@@ -198,24 +198,6 @@ Last updated: 2025-12-17 00:59:23
 
 ---
 
-## The Moth
-
-### Underpinning: The Moth Radio Hour
-
-**Released:** 2025-12-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
-
----
-
-### Crowd Control: The Moth Podcast
-
-**Released:** 2025-12-12 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Kumail Nanjiani Returns Again
@@ -234,7 +216,33 @@ Last updated: 2025-12-17 00:59:23
 
 ---
 
+## The Moth
+
+### Underpinning: The Moth Radio Hour
+
+**Released:** 2025-12-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
+
+---
+
+### Crowd Control: The Moth Podcast
+
+**Released:** 2025-12-12 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
+
+---
+
 ## Armchair Expert
+
+### Holiday Dinner 2025
+
+**Released:** 2025-12-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Zooey Deschanel Returns
 
@@ -249,14 +257,6 @@ Last updated: 2025-12-17 00:59:23
 **Released:** 2025-12-12 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Coltan Scrivner (on morbid curiosities)
-
-**Released:** 2025-12-10 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/863e4b7a-eb04-4982-8c06-bc24c56109cc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
