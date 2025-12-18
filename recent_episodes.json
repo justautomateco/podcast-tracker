@@ -105,6 +105,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "54e8d021-8073-4abe-8846-b3a9013fd522",
+    "episode_title": "Doggerland: Lost at Sea",
+    "release_date": "2025-12-18 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/54e8d021-8073-4abe-8846-b3a9013fd522/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "db2b53ca-8cca-47c3-b8b5-b3a7016b0b3b",
     "episode_title": "Short Stuff: Battle of Itter Castle",
     "release_date": "2025-12-17 10:00:00",
@@ -133,11 +140,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "2cec91da-51c2-4b60-a6d4-b3b001467b9d",
-    "episode_title": "SYSK's 12 Days of Christmas\u2026 Toys: How Play-Doh Works",
-    "release_date": "2025-12-12 10:05:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2cec91da-51c2-4b60-a6d4-b3b001467b9d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/wIIZ0koTzZr8VyLlBYD8vJDyCyi0sI8RCHRgCzBPBGA",
+    "episode_title": "Advice Line with Bobby Trussell of Tempur-Pedic",
+    "release_date": "2025-12-18 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/5532fc09-c8af-4372-be74-73106a70154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Hq70yxyBfld4DmbuYCuUC8SgU9Trq5OXD8tExUYkkWU",
@@ -147,24 +154,10 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/6xKHFR3GI7rspEo5025f1DikFRfIhmuGhoVwg-W5Dks",
-    "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring",
-    "release_date": "2025-12-11 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/38d32c1e-dfc5-4c9d-b31a-446a0ea201d6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/XWHIntmpTF73tW1YfJKu4ybG-QFfxFiZbgKmz8_Boo4",
-    "episode_title": "#840: Bill Gurley \u2014 Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More",
-    "release_date": "2025-12-17 16:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "644d8547-87a9-4dcf-8319-b3af0154a8b7",
-    "episode_title": "Understanding the Death Penalty: Malcolm Gladwell on The Intercept Briefing ",
-    "release_date": "2025-12-11 05:01:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/644d8547-87a9-4dcf-8319-b3af0154a8b7/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "guid": "392767a1-fe47-4c98-86ae-b3b70001390b",
+    "episode_title": "Twas the Night Before Christmas",
+    "release_date": "2025-12-18 05:01:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
   },
   {
@@ -182,18 +175,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "04e0024f-9253-4d71-93d2-f6201d13a4af",
-    "episode_title": "\"Walton Goggins\"",
-    "release_date": "2025-12-15 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "8420b498-4a92-49f0-ba5e-1b506b25e45d",
-    "episode_title": "\"RE-RELEASE: Adam Sandler\"",
-    "release_date": "2025-12-11 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/8872bae3-c873-43a7-a13d-046b6d9153f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=8872bae3-c873-43a7-a13d-046b6d9153f4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "c5e22f17-3bc0-4d4b-a58f-9e00f163e932",
+    "episode_title": "It\u2019s A Small World In Here",
+    "release_date": "2025-12-18 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "89f5a063-22de-4a1c-adcb-ad392efcff25",
@@ -203,11 +189,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "974f3707-c854-4acb-8336-cadc30917ad3",
-    "episode_title": "Cocoland",
-    "release_date": "2025-12-11 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4afcf184-f63c-4bbe-90e7-79634ffc613b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4afcf184-f63c-4bbe-90e7-79634ffc613b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "04e0024f-9253-4d71-93d2-f6201d13a4af",
+    "episode_title": "\"Walton Goggins\"",
+    "release_date": "2025-12-15 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/kjjgHJhwgwPHBaVD1owN4zQ1A2NROEbfEkL9TKTSFI8",
@@ -229,5 +215,12 @@
     "release_date": "2025-12-12 08:35:00",
     "mp3_url": "https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XWHIntmpTF73tW1YfJKu4ybG-QFfxFiZbgKmz8_Boo4",
+    "episode_title": "#840: Bill Gurley \u2014 Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More",
+    "release_date": "2025-12-17 16:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
