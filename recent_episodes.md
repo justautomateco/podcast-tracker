@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-18 12:27:20
+Last updated: 2025-12-19 01:03:25
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-12-18 12:27:20
 ---
 
 ## TED Talks Daily
+
+### Why are people starting to sound like ChatGPT? | Adam Aleksic
+
+**Released:** 2025-12-18 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69405dcb80257c9e35fd0f56/media.mp3)
+
+---
 
 ### This movie changes every time you watch it | Gary Hustwit
 
@@ -54,11 +62,13 @@ Last updated: 2025-12-18 12:27:20
 
 ---
 
-### This revolutionary moment in space exploration | Chris Hadfield
+## This American Life
 
-**Released:** 2025-12-13 16:00:00
+### 255: Our Holiday Gift-Giving Guide
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69384b976957d1e181d6a5cc/media.mp3)
+**Released:** 2025-12-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
 
 ---
 
@@ -80,17 +90,15 @@ Last updated: 2025-12-18 12:27:20
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 255: Our Holiday Gift-Giving Guide
+### #2428 - Michael P. Masters
 
-**Released:** 2025-12-14 18:00:00
+**Released:** 2025-12-18 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9212497597.mp3?updated=1766079961)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2427 - Bret Weinstein
 
@@ -108,14 +116,6 @@ Last updated: 2025-12-18 12:27:20
 
 ---
 
-### #2425 - Ethan Hawke
-
-**Released:** 2025-12-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9834025007.mp3?updated=1765471176)
-
----
-
 ## Hidden Brain
 
 ### The Path to Enough
@@ -123,16 +123,6 @@ Last updated: 2025-12-18 12:27:20
 **Released:** 2025-12-15 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Sax Appeal
-
-**Released:** 2025-12-16 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +168,16 @@ Last updated: 2025-12-18 12:27:20
 
 ---
 
+## 99% Invisible
+
+### Sax Appeal
+
+**Released:** 2025-12-16 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Bobby Trussell of Tempur-Pedic
@@ -206,24 +206,6 @@ Last updated: 2025-12-18 12:27:20
 
 ---
 
-## The Moth
-
-### Underpinning: The Moth Radio Hour
-
-**Released:** 2025-12-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
-
----
-
-### Crowd Control: The Moth Podcast
-
-**Released:** 2025-12-12 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### It’s A Small World In Here
@@ -239,6 +221,24 @@ Last updated: 2025-12-18 12:27:20
 **Released:** 2025-12-15 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/449ef369-5a66-48e1-8152-0a9b32b67d49/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=449ef369-5a66-48e1-8152-0a9b32b67d49&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Underpinning: The Moth Radio Hour
+
+**Released:** 2025-12-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
+
+---
+
+### Crowd Control: The Moth Podcast
+
+**Released:** 2025-12-12 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
 
 ---
 
