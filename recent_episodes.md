@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-19 01:03:25
-
-## Freakonomics Radio
-
-### Who Pays for “Messiah”?
-
-**Released:** 2025-12-17 12:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
-
----
-
-### 656. How Handel Got His Mojo Back
-
-**Released:** 2025-12-12 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e5c8eec0-245f-4cac-bb12-485601d6ee7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e5c8eec0-245f-4cac-bb12-485601d6ee7a&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-19 12:26:12
 
 ## TED Talks Daily
 
@@ -72,6 +54,24 @@ Last updated: 2025-12-19 01:03:25
 
 ---
 
+## Freakonomics Radio
+
+### 657. Whose “Messiah” Is It Anyway?
+
+**Released:** 2025-12-19 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
+
+---
+
+### Who Pays for “Messiah”?
+
+**Released:** 2025-12-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### PM does a pop culture draft: 1999 edition
@@ -87,32 +87,6 @@ Last updated: 2025-12-19 01:03:25
 **Released:** 2025-12-12 23:59:37
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
-
----
-
-## The Joe Rogan Experience
-
-### #2428 - Michael P. Masters
-
-**Released:** 2025-12-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9212497597.mp3?updated=1766079961)
-
----
-
-### #2427 - Bret Weinstein
-
-**Released:** 2025-12-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4874393996.mp3?updated=1765991153)
-
----
-
-### #2426 - Cameron Hanes & Adam Greentree
-
-**Released:** 2025-12-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
 
 ---
 
@@ -160,14 +134,6 @@ Last updated: 2025-12-19 01:03:25
 
 ---
 
-### SYSK's 12 Days of Christmas… Toys: What Makes a Must-Have Christmas Toy?
-
-**Released:** 2025-12-12 10:10:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/88b2ed27-a79e-49bb-a470-b3b001264aee/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Sax Appeal
@@ -175,6 +141,16 @@ Last updated: 2025-12-19 01:03:25
 **Released:** 2025-12-16 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Twas the Night Before Christmas
+
+**Released:** 2025-12-18 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,13 +172,31 @@ Last updated: 2025-12-19 01:03:25
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### Twas the Night Before Christmas
+### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
 
-**Released:** 2025-12-18 05:01:00
+**Released:** 2025-12-17 16:30:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Snowed In: The Moth Podcast
+
+**Released:** 2025-12-19 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
+
+---
+
+### Underpinning: The Moth Radio Hour
+
+**Released:** 2025-12-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
 
 ---
 
@@ -224,35 +218,15 @@ Last updated: 2025-12-19 01:03:25
 
 ---
 
-## The Moth
-
-### Underpinning: The Moth Radio Hour
-
-**Released:** 2025-12-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
-
----
-
-### Crowd Control: The Moth Podcast
-
-**Released:** 2025-12-12 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5092898481.mp3?updated=1765384342)
-
----
-
-## SmartLess 
-
-### "Walton Goggins"
-
-**Released:** 2025-12-15 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Holiday Nightmare III
+
+**Released:** 2025-12-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Holiday Dinner 2025
 
@@ -270,21 +244,13 @@ Last updated: 2025-12-19 01:03:25
 
 ---
 
-### Armchair Anonymous: Stealing II
+## SmartLess 
 
-**Released:** 2025-12-12 08:35:00
+### "Walton Goggins"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0bdc0ff-4eb0-49bb-8bbc-ceb1901ef57e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-15 08:01:00
 
----
-
-## The Tim Ferriss Show
-
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
-
-**Released:** 2025-12-17 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
 
 ---
 
