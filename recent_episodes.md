@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-19 12:26:12
+Last updated: 2025-12-20 00:59:32
+
+## Freakonomics Radio
+
+### 657. Whose “Messiah” Is It Anyway?
+
+**Released:** 2025-12-19 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
+
+---
+
+### Who Pays for “Messiah”?
+
+**Released:** 2025-12-17 12:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to make AI a force for good in climate | Amen Ra Mashariki and Manoush Zomorodi
+
+**Released:** 2025-12-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6941820b80257c9e354f7466/media.mp3)
+
+---
 
 ### Why are people starting to sound like ChatGPT? | Adam Aleksic
 
@@ -36,14 +62,6 @@ Last updated: 2025-12-19 12:26:12
 
 ---
 
-### Sunday Pick: How to beat impostor syndrome | from Fixable
-
-**Released:** 2025-12-14 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693b249cd527840ddbd6337e/media.mp3)
-
----
-
 ## This American Life
 
 ### 255: Our Holiday Gift-Giving Guide
@@ -54,49 +72,47 @@ Last updated: 2025-12-19 12:26:12
 
 ---
 
-## Freakonomics Radio
+## The Joe Rogan Experience
 
-### 657. Whose “Messiah” Is It Anyway?
+### #2428 - Michael P. Masters
 
-**Released:** 2025-12-19 11:00:00
+**Released:** 2025-12-18 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9212497597.mp3?updated=1766079961)
 
 ---
 
-### Who Pays for “Messiah”?
+### #2427 - Bret Weinstein
 
-**Released:** 2025-12-17 12:00:00
+**Released:** 2025-12-17 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4874393996.mp3?updated=1765991153)
+
+---
+
+### #2426 - Cameron Hanes & Adam Greentree
+
+**Released:** 2025-12-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
 
 ---
 
 ## Planet Money
+
+### What AI data centers are doing to your electric bill
+
+**Released:** 2025-12-20 00:15:21
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
+
+---
 
 ### PM does a pop culture draft: 1999 edition
 
 **Released:** 2025-12-17 17:59:12
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
-
----
-
-### When Chicago pawned its parking meters
-
-**Released:** 2025-12-12 23:59:37
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
-
----
-
-## Hidden Brain
-
-### The Path to Enough
-
-**Released:** 2025-12-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
 
 ---
 
@@ -144,13 +160,13 @@ Last updated: 2025-12-19 12:26:12
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### Twas the Night Before Christmas
+### The Path to Enough
 
-**Released:** 2025-12-18 05:01:00
+**Released:** 2025-12-15 20:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
 
 ---
 
@@ -169,6 +185,16 @@ Last updated: 2025-12-19 12:26:12
 **Released:** 2025-12-15 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/856aac68-39d6-4b57-935f-b2735bc031fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Twas the Night Before Christmas
+
+**Released:** 2025-12-18 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
