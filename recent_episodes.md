@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-20 00:59:32
+Last updated: 2025-12-20 12:23:10
 
 ## Freakonomics Radio
 
@@ -72,6 +72,34 @@ Last updated: 2025-12-20 00:59:32
 
 ---
 
+## Hidden Brain
+
+### The Path to Enough
+
+**Released:** 2025-12-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### What AI data centers are doing to your electric bill
+
+**Released:** 2025-12-20 00:15:21
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
+
+---
+
+### PM does a pop culture draft: 1999 edition
+
+**Released:** 2025-12-17 17:59:12
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2428 - Michael P. Masters
@@ -98,25 +126,15 @@ Last updated: 2025-12-20 00:59:32
 
 ---
 
-## Planet Money
-
-### What AI data centers are doing to your electric bill
-
-**Released:** 2025-12-20 00:15:21
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
-
----
-
-### PM does a pop culture draft: 1999 edition
-
-**Released:** 2025-12-17 17:59:12
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
-
----
-
 ## Stuff You Should Know
+
+### Selects: PT Barnum: More Complicated Than You've Heard
+
+**Released:** 2025-12-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d5c9c19-c521-43da-a7e6-b3a9011b184c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Doggerland: Lost at Sea
 
@@ -142,14 +160,6 @@ Last updated: 2025-12-20 00:59:32
 
 ---
 
-### Selects: Star Wars Holiday Spectacular
-
-**Released:** 2025-12-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5b25e8e2-8256-4823-ae24-b3a80167e7cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Sax Appeal
@@ -160,13 +170,13 @@ Last updated: 2025-12-20 00:59:32
 
 ---
 
-## Hidden Brain
+## Revisionist History
 
-### The Path to Enough
+### Twas the Night Before Christmas
 
-**Released:** 2025-12-15 20:00:00
+**Released:** 2025-12-18 05:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -185,44 +195,6 @@ Last updated: 2025-12-20 00:59:32
 **Released:** 2025-12-15 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/856aac68-39d6-4b57-935f-b2735bc031fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Twas the Night Before Christmas
-
-**Released:** 2025-12-18 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
-
-**Released:** 2025-12-17 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Snowed In: The Moth Podcast
-
-**Released:** 2025-12-19 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
-
----
-
-### Underpinning: The Moth Radio Hour
-
-**Released:** 2025-12-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
 
 ---
 
@@ -267,6 +239,34 @@ Last updated: 2025-12-20 00:59:32
 **Released:** 2025-12-15 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Snowed In: The Moth Podcast
+
+**Released:** 2025-12-19 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
+
+---
+
+### Underpinning: The Moth Radio Hour
+
+**Released:** 2025-12-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3578481929.mp3?updated=1765582549)
+
+---
+
+## The Tim Ferriss Show
+
+### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
+
+**Released:** 2025-12-17 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
