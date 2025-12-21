@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-20 12:23:10
+Last updated: 2025-12-21 01:07:44
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-12-20 12:23:10
 ---
 
 ## TED Talks Daily
+
+### The case for spending more time with your friends | Rhaina Cohen
+
+**Released:** 2025-12-20 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69418690443ad98913992ae2/media.mp3)
+
+---
 
 ### How to make AI a force for good in climate | Amen Ra Mashariki and Manoush Zomorodi
 
@@ -54,14 +62,6 @@ Last updated: 2025-12-20 12:23:10
 
 ---
 
-### The trap of win-lose thinking (and how to escape it) | John Mackey
-
-**Released:** 2025-12-15 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69403040cc3f4b4c733e5e2c/media.mp3)
-
----
-
 ## This American Life
 
 ### 255: Our Holiday Gift-Giving Guide
@@ -69,34 +69,6 @@ Last updated: 2025-12-20 12:23:10
 **Released:** 2025-12-14 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
-
----
-
-## Hidden Brain
-
-### The Path to Enough
-
-**Released:** 2025-12-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### What AI data centers are doing to your electric bill
-
-**Released:** 2025-12-20 00:15:21
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
-
----
-
-### PM does a pop culture draft: 1999 edition
-
-**Released:** 2025-12-17 17:59:12
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
 
 ---
 
@@ -123,6 +95,34 @@ Last updated: 2025-12-20 12:23:10
 **Released:** 2025-12-16 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
+
+---
+
+## Planet Money
+
+### What AI data centers are doing to your electric bill
+
+**Released:** 2025-12-20 00:15:21
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
+
+---
+
+### PM does a pop culture draft: 1999 edition
+
+**Released:** 2025-12-17 17:59:12
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
+
+---
+
+## Hidden Brain
+
+### The Path to Enough
+
+**Released:** 2025-12-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
 
 ---
 
@@ -170,16 +170,6 @@ Last updated: 2025-12-20 12:23:10
 
 ---
 
-## Revisionist History
-
-### Twas the Night Before Christmas
-
-**Released:** 2025-12-18 05:01:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Bobby Trussell of Tempur-Pedic
@@ -198,21 +188,13 @@ Last updated: 2025-12-20 12:23:10
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### It’s A Small World In Here
+### Twas the Night Before Christmas
 
-**Released:** 2025-12-18 05:05:00
+**Released:** 2025-12-18 05:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
-
----
-
-### Kumail Nanjiani Returns Again
-
-**Released:** 2025-12-15 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/449ef369-5a66-48e1-8152-0a9b32b67d49/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=449ef369-5a66-48e1-8152-0a9b32b67d49&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,13 +242,21 @@ Last updated: 2025-12-20 12:23:10
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
+### It’s A Small World In Here
 
-**Released:** 2025-12-17 16:30:00
+**Released:** 2025-12-18 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
+
+---
+
+### Kumail Nanjiani Returns Again
+
+**Released:** 2025-12-15 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/449ef369-5a66-48e1-8152-0a9b32b67d49/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=449ef369-5a66-48e1-8152-0a9b32b67d49&feed=dHoohVNH)
 
 ---
 
@@ -277,6 +267,16 @@ Last updated: 2025-12-20 12:23:10
 **Released:** 2025-12-15 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
+
+**Released:** 2025-12-17 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
