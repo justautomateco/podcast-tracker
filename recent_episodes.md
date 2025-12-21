@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-21 01:07:44
+Last updated: 2025-12-21 12:23:58
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2025-12-21 01:07:44
 ---
 
 ## TED Talks Daily
+
+### What 2025 Taught Us—And Where 2026 Is Taking Us
+
+**Released:** 2025-12-21 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694433e0ffa288bdbba29462/media.mp3)
+
+---
 
 ### The case for spending more time with your friends | Rhaina Cohen
 
@@ -54,11 +62,21 @@ Last updated: 2025-12-21 01:07:44
 
 ---
 
-### AI is coming for your job. Now what? | Vlad Tenev
+## Planet Money
 
-**Released:** 2025-12-16 16:06:28
+### What AI data centers are doing to your electric bill
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694181cc443ad9891397b8f5/media.mp3)
+**Released:** 2025-12-20 00:15:21
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
+
+---
+
+### PM does a pop culture draft: 1999 edition
+
+**Released:** 2025-12-17 17:59:12
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
 
 ---
 
@@ -98,24 +116,6 @@ Last updated: 2025-12-21 01:07:44
 
 ---
 
-## Planet Money
-
-### What AI data centers are doing to your electric bill
-
-**Released:** 2025-12-20 00:15:21
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
-
----
-
-### PM does a pop culture draft: 1999 edition
-
-**Released:** 2025-12-17 17:59:12
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
-
----
-
 ## Hidden Brain
 
 ### The Path to Enough
@@ -123,6 +123,16 @@ Last updated: 2025-12-21 01:07:44
 **Released:** 2025-12-15 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Sax Appeal
+
+**Released:** 2025-12-16 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
 
 ---
 
@@ -160,13 +170,13 @@ Last updated: 2025-12-21 01:07:44
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Sax Appeal
+### Twas the Night Before Christmas
 
-**Released:** 2025-12-16 18:15:00
+**Released:** 2025-12-18 05:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -188,39 +198,13 @@ Last updated: 2025-12-21 01:07:44
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### Twas the Night Before Christmas
+### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
 
-**Released:** 2025-12-18 05:01:00
+**Released:** 2025-12-17 16:30:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Holiday Nightmare III
-
-**Released:** 2025-12-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Holiday Dinner 2025
-
-**Released:** 2025-12-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Zooey Deschanel Returns
-
-**Released:** 2025-12-15 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -260,6 +244,32 @@ Last updated: 2025-12-21 01:07:44
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Holiday Nightmare III
+
+**Released:** 2025-12-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Holiday Dinner 2025
+
+**Released:** 2025-12-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Zooey Deschanel Returns
+
+**Released:** 2025-12-15 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Walton Goggins"
@@ -267,16 +277,6 @@ Last updated: 2025-12-21 01:07:44
 **Released:** 2025-12-15 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
-
-**Released:** 2025-12-17 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
