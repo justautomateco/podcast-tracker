@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-22 01:06:34
+Last updated: 2025-12-22 12:27:43
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2025-12-22 01:06:34
 **Released:** 2025-12-17 12:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 877: The Making Of 
+
+**Released:** 2025-12-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2025-12-22 01:06:34
 
 ---
 
-## This American Life
-
-### 877: The Making Of 
-
-**Released:** 2025-12-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
-
----
-
 ## Planet Money
 
 ### What AI data centers are doing to your electric bill
@@ -87,16 +87,6 @@ Last updated: 2025-12-22 01:06:34
 **Released:** 2025-12-17 17:59:12
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
-
----
-
-## Hidden Brain
-
-### The Path to Enough
-
-**Released:** 2025-12-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
 
 ---
 
@@ -123,6 +113,26 @@ Last updated: 2025-12-22 01:06:34
 **Released:** 2025-12-16 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
+
+---
+
+## Hidden Brain
+
+### The Path to Enough
+
+**Released:** 2025-12-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Sax Appeal
+
+**Released:** 2025-12-16 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
 
 ---
 
@@ -160,13 +170,21 @@ Last updated: 2025-12-22 01:06:34
 
 ---
 
-## 99% Invisible
+## How I Built This
 
-### Sax Appeal
+### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
 
-**Released:** 2025-12-16 18:15:00
+**Released:** 2025-12-22 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Bobby Trussell of Tempur-Pedic
+
+**Released:** 2025-12-18 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5532fc09-c8af-4372-be74-73106a70154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -177,68 +195,6 @@ Last updated: 2025-12-22 01:06:34
 **Released:** 2025-12-18 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Bobby Trussell of Tempur-Pedic
-
-**Released:** 2025-12-18 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5532fc09-c8af-4372-be74-73106a70154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### 93 Rejections, One Revolution: How Indiegogo Changed Crowdfunding Forever
-
-**Released:** 2025-12-15 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/856aac68-39d6-4b57-935f-b2735bc031fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Holiday Nightmare III
-
-**Released:** 2025-12-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Holiday Dinner 2025
-
-**Released:** 2025-12-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Zooey Deschanel Returns
-
-**Released:** 2025-12-15 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11504e2d-5647-46a4-8853-9fe958c53a75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### It’s A Small World In Here
-
-**Released:** 2025-12-18 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
-
----
-
-### Kumail Nanjiani Returns Again
-
-**Released:** 2025-12-15 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/449ef369-5a66-48e1-8152-0a9b32b67d49/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=449ef369-5a66-48e1-8152-0a9b32b67d49&feed=dHoohVNH)
 
 ---
 
@@ -260,13 +216,57 @@ Last updated: 2025-12-22 01:06:34
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### James L. Brooks
+
+**Released:** 2025-12-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
+
+---
+
+### It’s A Small World In Here
+
+**Released:** 2025-12-18 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
-### "Walton Goggins"
+### "Jeremy Allen White"
 
-**Released:** 2025-12-15 08:01:00
+**Released:** 2025-12-22 08:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ff67941b-07cb-4f90-b7df-1cb2242da3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ff67941b-07cb-4f90-b7df-1cb2242da3bd&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Best of Monday 2025
+
+**Released:** 2025-12-22 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Holiday Nightmare III
+
+**Released:** 2025-12-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Holiday Dinner 2025
+
+**Released:** 2025-12-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
