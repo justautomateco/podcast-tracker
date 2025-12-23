@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-22 12:27:43
+Last updated: 2025-12-23 01:03:13
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-12-22 12:27:43
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 877: The Making Of 
+### This is how kids should be learning with AI | Priya Lakhani
 
-**Released:** 2025-12-21 18:00:00
+**Released:** 2025-12-22 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694436479a00ace34fdbb345/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### What 2025 Taught Us—And Where 2026 Is Taking Us
 
@@ -64,29 +62,13 @@ Last updated: 2025-12-22 12:27:43
 
 ---
 
-### This movie changes every time you watch it | Gary Hustwit
+## This American Life
 
-**Released:** 2025-12-17 16:00:00
+### 877: The Making Of 
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6940368280257c9e35ef79d9/media.mp3)
+**Released:** 2025-12-21 18:00:00
 
----
-
-## Planet Money
-
-### What AI data centers are doing to your electric bill
-
-**Released:** 2025-12-20 00:15:21
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
-
----
-
-### PM does a pop culture draft: 1999 edition
-
-**Released:** 2025-12-17 17:59:12
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
 
 ---
 
@@ -116,23 +98,31 @@ Last updated: 2025-12-22 12:27:43
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### The Path to Enough
+### What AI data centers are doing to your electric bill
 
-**Released:** 2025-12-15 20:00:00
+**Released:** 2025-12-20 00:15:21
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fc05e072-2b69-4f18-9c0e-23d41683520c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fc05e072-2b69-4f18-9c0e-23d41683520c&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1935&size=30965848)
 
 ---
 
-## 99% Invisible
+### PM does a pop culture draft: 1999 edition
 
-### Sax Appeal
+**Released:** 2025-12-17 17:59:12
 
-**Released:** 2025-12-16 18:15:00
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+---
+
+## Hidden Brain
+
+### The Reset Button
+
+**Released:** 2025-12-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
 
 ---
 
@@ -170,6 +160,16 @@ Last updated: 2025-12-22 12:27:43
 
 ---
 
+## 99% Invisible
+
+### Sax Appeal
+
+**Released:** 2025-12-16 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
@@ -195,6 +195,42 @@ Last updated: 2025-12-22 12:27:43
 **Released:** 2025-12-18 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Best of Monday 2025
+
+**Released:** 2025-12-22 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Holiday Nightmare III
+
+**Released:** 2025-12-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Holiday Dinner 2025
+
+**Released:** 2025-12-17 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Hardcore History
+
+### Show 73 - Mania for Subjugation III
+
+**Released:** 2025-12-22 11:01:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
 
 ---
 
@@ -241,32 +277,6 @@ Last updated: 2025-12-22 12:27:43
 **Released:** 2025-12-22 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Best of Monday 2025
-
-**Released:** 2025-12-22 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Holiday Nightmare III
-
-**Released:** 2025-12-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Holiday Dinner 2025
-
-**Released:** 2025-12-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
