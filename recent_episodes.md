@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-23 12:27:19
+Last updated: 2025-12-24 01:02:51
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 877: The Making Of 
+### AI's next frontier isn't where you might expect | Hardy Pemhiwa
 
-**Released:** 2025-12-21 18:00:00
+**Released:** 2025-12-23 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6941844fcc3f4b4c739fd565/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### This is how kids should be learning with AI | Priya Lakhani
 
@@ -64,14 +62,6 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
-### Why are people starting to sound like ChatGPT? | Adam Aleksic
-
-**Released:** 2025-12-18 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69405dcb80257c9e35fd0f56/media.mp3)
-
----
-
 ## Planet Money
 
 ### What AI data centers are doing to your electric bill
@@ -90,7 +80,25 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
+## This American Life
+
+### 877: The Making Of 
+
+**Released:** 2025-12-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2429 - Tom Segura
+
+**Released:** 2025-12-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378)
+
+---
 
 ### #2428 - Michael P. Masters
 
@@ -108,14 +116,6 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
-### #2426 - Cameron Hanes & Adam Greentree
-
-**Released:** 2025-12-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3888275843.mp3?updated=1765905704)
-
----
-
 ## Hidden Brain
 
 ### The Reset Button
@@ -123,26 +123,6 @@ Last updated: 2025-12-23 12:27:19
 **Released:** 2025-12-22 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Sax Appeal
-
-**Released:** 2025-12-16 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6c38861a-4d1b-4479-b2ef-4e22a4b4662e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6c38861a-4d1b-4479-b2ef-4e22a4b4662e&feed=BqbsxVfO)
-
----
-
-## Hardcore History
-
-### Show 73 - Mania for Subjugation III
-
-**Released:** 2025-12-22 11:01:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
 
 ---
 
@@ -180,6 +160,36 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
+## 99% Invisible
+
+### Mini-Stories: Volume 21
+
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
+
+---
+
+## Hardcore History
+
+### Show 73 - Mania for Subjugation III
+
+**Released:** 2025-12-22 11:01:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
+
+---
+
+## Revisionist History
+
+### Twas the Night Before Christmas
+
+**Released:** 2025-12-18 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
@@ -198,13 +208,21 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### Twas the Night Before Christmas
+### James L. Brooks
 
-**Released:** 2025-12-18 05:01:00
+**Released:** 2025-12-22 05:05:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
+
+---
+
+### It’s A Small World In Here
+
+**Released:** 2025-12-18 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
 
 ---
 
@@ -223,24 +241,6 @@ Last updated: 2025-12-23 12:27:19
 **Released:** 2025-12-19 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### James L. Brooks
-
-**Released:** 2025-12-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
-
----
-
-### It’s A Small World In Here
-
-**Released:** 2025-12-18 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
 
 ---
 
@@ -270,6 +270,24 @@ Last updated: 2025-12-23 12:27:19
 
 ---
 
+## The Tim Ferriss Show
+
+### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
+
+**Released:** 2025-12-23 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
+
+**Released:** 2025-12-17 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Jeremy Allen White"
@@ -277,16 +295,6 @@ Last updated: 2025-12-23 12:27:19
 **Released:** 2025-12-22 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
-
-**Released:** 2025-12-17 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
