@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-24 01:02:51
+Last updated: 2025-12-24 12:26:49
 
 ## Freakonomics Radio
 
@@ -9,14 +9,6 @@ Last updated: 2025-12-24 01:02:51
 **Released:** 2025-12-19 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
-
----
-
-### Who Pays for “Messiah”?
-
-**Released:** 2025-12-17 12:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e2fe5ca2-5561-49d0-b7c1-160a7b86a3c7&feed=Y8lFbOT4)
 
 ---
 
@@ -62,7 +54,25 @@ Last updated: 2025-12-24 01:02:51
 
 ---
 
+## This American Life
+
+### 877: The Making Of 
+
+**Released:** 2025-12-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+
+---
+
 ## Planet Money
+
+### The summer I turned binge-y
+
+**Released:** 2025-12-24 08:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
+
+---
 
 ### What AI data centers are doing to your electric bill
 
@@ -77,16 +87,6 @@ Last updated: 2025-12-24 01:02:51
 **Released:** 2025-12-17 17:59:12
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
-
----
-
-## This American Life
-
-### 877: The Making Of 
-
-**Released:** 2025-12-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
 
 ---
 
@@ -116,6 +116,16 @@ Last updated: 2025-12-24 01:02:51
 
 ---
 
+## 99% Invisible
+
+### Mini-Stories: Volume 21
+
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
+
+---
+
 ## Hidden Brain
 
 ### The Reset Button
@@ -127,6 +137,14 @@ Last updated: 2025-12-24 01:02:51
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Why is holly a holiday thing?
+
+**Released:** 2025-12-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/97e26341-59e5-489e-837b-b39a01466602/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### SYSK's 2025 Holiday Extravaganza Christmas Special
 
@@ -149,34 +167,6 @@ Last updated: 2025-12-24 01:02:51
 **Released:** 2025-12-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/54e8d021-8073-4abe-8846-b3a9013fd522/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Battle of Itter Castle
-
-**Released:** 2025-12-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/db2b53ca-8cca-47c3-b8b5-b3a7016b0b3b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
-
----
-
-## Hardcore History
-
-### Show 73 - Mania for Subjugation III
-
-**Released:** 2025-12-22 11:01:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
 
 ---
 
@@ -208,6 +198,16 @@ Last updated: 2025-12-24 01:02:51
 
 ---
 
+## Hardcore History
+
+### Show 73 - Mania for Subjugation III
+
+**Released:** 2025-12-22 11:01:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### James L. Brooks
@@ -223,6 +223,42 @@ Last updated: 2025-12-24 01:02:51
 **Released:** 2025-12-18 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Best of Wednesday 2025
+
+**Released:** 2025-12-24 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fba7e12f-001c-463c-b848-84f23a06d5d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Best of Monday 2025
+
+**Released:** 2025-12-22 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Holiday Nightmare III
+
+**Released:** 2025-12-19 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Jeremy Allen White"
+
+**Released:** 2025-12-22 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
 
 ---
 
@@ -244,32 +280,6 @@ Last updated: 2025-12-24 01:02:51
 
 ---
 
-## Armchair Expert
-
-### Best of Monday 2025
-
-**Released:** 2025-12-22 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Holiday Nightmare III
-
-**Released:** 2025-12-19 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Holiday Dinner 2025
-
-**Released:** 2025-12-17 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bd9cb341-cb17-4f43-a572-0f0043482b39.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
@@ -285,16 +295,6 @@ Last updated: 2025-12-24 01:02:51
 **Released:** 2025-12-17 16:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jeremy Allen White"
-
-**Released:** 2025-12-22 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
 
 ---
 
