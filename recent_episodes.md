@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-24 12:26:49
+Last updated: 2025-12-25 01:03:07
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-12-24 12:26:49
 ---
 
 ## TED Talks Daily
+
+### What successful negotiators do differently | Kathryn Valentine
+
+**Released:** 2025-12-24 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694183f7cc3f4b4c739fbffc/media.mp3)
+
+---
 
 ### AI's next frontier isn't where you might expect | Hardy Pemhiwa
 
@@ -46,24 +54,6 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
-### How to make AI a force for good in climate | Amen Ra Mashariki and Manoush Zomorodi
-
-**Released:** 2025-12-19 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6941820b80257c9e354f7466/media.mp3)
-
----
-
-## This American Life
-
-### 877: The Making Of 
-
-**Released:** 2025-12-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
-
----
-
 ## Planet Money
 
 ### The summer I turned binge-y
@@ -82,15 +72,33 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
-### PM does a pop culture draft: 1999 edition
+## This American Life
 
-**Released:** 2025-12-17 17:59:12
+### Christmas and Commerce
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
+**Released:** 2025-12-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
+
+---
+
+### 877: The Making Of 
+
+**Released:** 2025-12-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2430 - Jay Anderson
+
+**Released:** 2025-12-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458)
+
+---
 
 ### #2429 - Tom Segura
 
@@ -105,24 +113,6 @@ Last updated: 2025-12-24 12:26:49
 **Released:** 2025-12-18 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9212497597.mp3?updated=1766079961)
-
----
-
-### #2427 - Bret Weinstein
-
-**Released:** 2025-12-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4874393996.mp3?updated=1765991153)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +160,26 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
+## 99% Invisible
+
+### Mini-Stories: Volume 21
+
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
+
+---
+
+## Hardcore History
+
+### Show 73 - Mania for Subjugation III
+
+**Released:** 2025-12-22 11:01:31
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
+
+---
+
 ## Revisionist History
 
 ### Twas the Night Before Christmas
@@ -198,31 +208,21 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
-## Hardcore History
+## The Moth
 
-### Show 73 - Mania for Subjugation III
+### Holiday Special 2014: Monkeys, Megachurches, and First Elves: The Moth Radio Hour
 
-**Released:** 2025-12-22 11:01:31
+**Released:** 2025-12-23 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### James L. Brooks
-
-**Released:** 2025-12-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1445920079.mp3?updated=1765917023)
 
 ---
 
-### It’s A Small World In Here
+### Snowed In: The Moth Podcast
 
-**Released:** 2025-12-18 05:05:00
+**Released:** 2025-12-19 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
 
 ---
 
@@ -252,34 +252,6 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
-## SmartLess 
-
-### "Jeremy Allen White"
-
-**Released:** 2025-12-22 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Holiday Special 2014: Monkeys, Megachurches, and First Elves: The Moth Radio Hour
-
-**Released:** 2025-12-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1445920079.mp3?updated=1765917023)
-
----
-
-### Snowed In: The Moth Podcast
-
-**Released:** 2025-12-19 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
-
----
-
 ## The Tim Ferriss Show
 
 ### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
@@ -290,11 +262,31 @@ Last updated: 2025-12-24 12:26:49
 
 ---
 
-### #840: Bill Gurley — Investing in The AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More
+## Conan O'Brien Needs A Friend
 
-**Released:** 2025-12-17 16:30:00
+### James L. Brooks
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f85906c4-a37c-42a8-a9fc-8a691f2eefd5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
+
+---
+
+### It’s A Small World In Here
+
+**Released:** 2025-12-18 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Jeremy Allen White"
+
+**Released:** 2025-12-22 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
 
 ---
 
