@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-25 01:03:07
-
-## Freakonomics Radio
-
-### 657. Whose “Messiah” Is It Anyway?
-
-**Released:** 2025-12-19 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-25 12:26:20
 
 ## TED Talks Daily
 
@@ -54,6 +44,34 @@ Last updated: 2025-12-25 01:03:07
 
 ---
 
+## This American Life
+
+### Christmas and Commerce
+
+**Released:** 2025-12-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
+
+---
+
+### 877: The Making Of 
+
+**Released:** 2025-12-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 657. Whose “Messiah” Is It Anyway?
+
+**Released:** 2025-12-19 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### The summer I turned binge-y
@@ -72,21 +90,13 @@ Last updated: 2025-12-25 01:03:07
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### Christmas and Commerce
+### The Reset Button
 
-**Released:** 2025-12-24 00:00:00
+**Released:** 2025-12-22 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
-
----
-
-### 877: The Making Of 
-
-**Released:** 2025-12-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
 
 ---
 
@@ -116,17 +126,25 @@ Last updated: 2025-12-25 01:03:07
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### The Reset Button
+### Mini-Stories: Volume 21
 
-**Released:** 2025-12-22 20:00:00
+**Released:** 2025-12-23 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Dolls and Dolls, Guys! 
+
+**Released:** 2025-12-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cf075383-0418-4046-9d15-b3aa01016323/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Why is holly a holiday thing?
 
@@ -152,21 +170,21 @@ Last updated: 2025-12-25 01:03:07
 
 ---
 
-### Doggerland: Lost at Sea
+## How I Built This
 
-**Released:** 2025-12-18 10:00:00
+### Advice Line with Todd Graves of Raising Cane's
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/54e8d021-8073-4abe-8846-b3a9013fd522/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2025-12-25 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11fe9441-5ce9-49f0-8819-adf6adfcd0fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## 99% Invisible
+### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
 
-### Mini-Stories: Volume 21
+**Released:** 2025-12-22 08:10:00
 
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -182,29 +200,11 @@ Last updated: 2025-12-25 01:03:07
 
 ## Revisionist History
 
-### Twas the Night Before Christmas
+### Christmas in Connecticut
 
-**Released:** 2025-12-18 05:01:00
+**Released:** 2025-12-25 05:01:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/392767a1-fe47-4c98-86ae-b3b70001390b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
-
-**Released:** 2025-12-22 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Bobby Trussell of Tempur-Pedic
-
-**Released:** 2025-12-18 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5532fc09-c8af-4372-be74-73106a70154b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -223,6 +223,24 @@ Last updated: 2025-12-25 01:03:07
 **Released:** 2025-12-19 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Limp Paddle With Special Guest D’Arcy Carden
+
+**Released:** 2025-12-25 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc06aac2-410c-4460-8087-ca1a5a96ba6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc06aac2-410c-4460-8087-ca1a5a96ba6e&feed=dHoohVNH)
+
+---
+
+### James L. Brooks
+
+**Released:** 2025-12-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
 
 ---
 
@@ -252,34 +270,6 @@ Last updated: 2025-12-25 01:03:07
 
 ---
 
-## The Tim Ferriss Show
-
-### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
-
-**Released:** 2025-12-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### James L. Brooks
-
-**Released:** 2025-12-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
-
----
-
-### It’s A Small World In Here
-
-**Released:** 2025-12-18 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83070294-c063-4fca-bea0-bbc9dcabeae4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83070294-c063-4fca-bea0-bbc9dcabeae4&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Jeremy Allen White"
@@ -287,6 +277,16 @@ Last updated: 2025-12-25 01:03:07
 **Released:** 2025-12-22 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
+
+**Released:** 2025-12-23 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
