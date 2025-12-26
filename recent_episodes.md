@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-25 12:26:20
+Last updated: 2025-12-26 01:03:33
 
 ## TED Talks Daily
+
+### The spiritual wisdom we need for a planet in crisis | Tariq Al-Olaimy
+
+**Released:** 2025-12-25 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694439d4ffa288bdbba47b10/media.mp3)
+
+---
 
 ### What successful negotiators do differently | Kathryn Valentine
 
@@ -36,11 +44,13 @@ Last updated: 2025-12-25 12:26:20
 
 ---
 
-### The case for spending more time with your friends | Rhaina Cohen
+## Freakonomics Radio
 
-**Released:** 2025-12-20 16:00:00
+### 657. Whose “Messiah” Is It Anyway?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69418690443ad98913992ae2/media.mp3)
+**Released:** 2025-12-19 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2025-12-25 12:26:20
 
 ---
 
-## Freakonomics Radio
-
-### 657. Whose “Messiah” Is It Anyway?
-
-**Released:** 2025-12-19 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### The summer I turned binge-y
@@ -90,17 +90,15 @@ Last updated: 2025-12-25 12:26:20
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### The Reset Button
+### #2431 - Shane Gillis
 
-**Released:** 2025-12-22 20:00:00
+**Released:** 2025-12-25 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2430 - Jay Anderson
 
@@ -115,24 +113,6 @@ Last updated: 2025-12-25 12:26:20
 **Released:** 2025-12-23 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378)
-
----
-
-### #2428 - Michael P. Masters
-
-**Released:** 2025-12-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9212497597.mp3?updated=1766079961)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
@@ -170,21 +150,23 @@ Last updated: 2025-12-25 12:26:20
 
 ---
 
-## How I Built This
+## Hidden Brain
 
-### Advice Line with Todd Graves of Raising Cane's
+### The Reset Button
 
-**Released:** 2025-12-25 08:10:00
+**Released:** 2025-12-22 20:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11fe9441-5ce9-49f0-8819-adf6adfcd0fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
 
 ---
 
-### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
+## 99% Invisible
 
-**Released:** 2025-12-22 08:10:00
+### Mini-Stories: Volume 21
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
@@ -223,6 +205,24 @@ Last updated: 2025-12-25 12:26:20
 **Released:** 2025-12-19 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
+
+---
+
+## How I Built This
+
+### Advice Line with Todd Graves of Raising Cane's
+
+**Released:** 2025-12-25 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11fe9441-5ce9-49f0-8819-adf6adfcd0fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
+
+**Released:** 2025-12-22 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
