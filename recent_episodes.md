@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-26 01:03:33
+Last updated: 2025-12-26 12:26:28
+
+## Freakonomics Radio
+
+### Are the Rich Really Less Generous Than the Poor? (Update)
+
+**Released:** 2025-12-26 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,16 +54,6 @@ Last updated: 2025-12-26 01:03:33
 
 ---
 
-## Freakonomics Radio
-
-### 657. Whose “Messiah” Is It Anyway?
-
-**Released:** 2025-12-19 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/36e53919-0f1c-48f0-9454-51e6f1436579/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=36e53919-0f1c-48f0-9454-51e6f1436579&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### Christmas and Commerce
@@ -74,6 +74,14 @@ Last updated: 2025-12-26 01:03:33
 
 ## Planet Money
 
+### The Rest of the Story, 2025
+
+**Released:** 2025-12-26 08:15:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413)
+
+---
+
 ### The summer I turned binge-y
 
 **Released:** 2025-12-24 08:30:00
@@ -87,6 +95,16 @@ Last updated: 2025-12-26 01:03:33
 **Released:** 2025-12-20 00:15:21
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1935&size=30965848)
+
+---
+
+## Hidden Brain
+
+### The Reset Button
+
+**Released:** 2025-12-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
 
 ---
 
@@ -113,6 +131,16 @@ Last updated: 2025-12-26 01:03:33
 **Released:** 2025-12-23 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378)
+
+---
+
+## 99% Invisible
+
+### Mini-Stories: Volume 21
+
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
@@ -150,26 +178,6 @@ Last updated: 2025-12-26 01:03:33
 
 ---
 
-## Hidden Brain
-
-### The Reset Button
-
-**Released:** 2025-12-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
-
----
-
 ## Hardcore History
 
 ### Show 73 - Mania for Subjugation III
@@ -187,24 +195,6 @@ Last updated: 2025-12-26 01:03:33
 **Released:** 2025-12-25 05:01:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Holiday Special 2014: Monkeys, Megachurches, and First Elves: The Moth Radio Hour
-
-**Released:** 2025-12-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1445920079.mp3?updated=1765917023)
-
----
-
-### Snowed In: The Moth Podcast
-
-**Released:** 2025-12-19 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5411955721.mp3?updated=1765823011)
 
 ---
 
@@ -246,6 +236,14 @@ Last updated: 2025-12-26 01:03:33
 
 ## Armchair Expert
 
+### Best of Friday 2025
+
+**Released:** 2025-12-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Best of Wednesday 2025
 
 **Released:** 2025-12-24 08:35:00
@@ -262,11 +260,21 @@ Last updated: 2025-12-26 01:03:33
 
 ---
 
-### Armchair Anonymous: Holiday Nightmare III
+## The Moth
 
-**Released:** 2025-12-19 08:35:00
+### Warm Sweater: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b77be271-3b96-46f3-baa1-59ea4fcd0336.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-26 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6756875912.mp3?updated=1765990040)
+
+---
+
+### Holiday Special 2014: Monkeys, Megachurches, and First Elves: The Moth Radio Hour
+
+**Released:** 2025-12-23 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1445920079.mp3?updated=1765917023)
 
 ---
 
