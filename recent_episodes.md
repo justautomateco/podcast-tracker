@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-26 12:26:28
+Last updated: 2025-12-27 01:01:40
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2025-12-26 12:26:28
 ---
 
 ## TED Talks Daily
+
+### Why your life needs novelty, no matter your age | Kenneth Chabert (re-release)
+
+**Released:** 2025-12-26 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6942e384f46fd490ce604eb2/media.mp3)
+
+---
 
 ### The spiritual wisdom we need for a planet in crisis | Tariq Al-Olaimy
 
@@ -43,14 +51,6 @@ Last updated: 2025-12-26 12:26:28
 **Released:** 2025-12-22 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694436479a00ace34fdbb345/media.mp3)
-
----
-
-### What 2025 Taught Us—And Where 2026 Is Taking Us
-
-**Released:** 2025-12-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694433e0ffa288bdbba29462/media.mp3)
 
 ---
 
@@ -87,14 +87,6 @@ Last updated: 2025-12-26 12:26:28
 **Released:** 2025-12-24 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
-
----
-
-### What AI data centers are doing to your electric bill
-
-**Released:** 2025-12-20 00:15:21
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1935&size=30965848)
 
 ---
 
@@ -135,6 +127,14 @@ Last updated: 2025-12-26 12:26:28
 ---
 
 ## 99% Invisible
+
+### Constitution Breakdown #5: Dr. Tom Frieden
+
+**Released:** 2025-12-26 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+
+---
 
 ### Mini-Stories: Volume 21
 
@@ -178,6 +178,24 @@ Last updated: 2025-12-26 12:26:28
 
 ---
 
+## How I Built This
+
+### Advice Line with Todd Graves of Raising Cane's
+
+**Released:** 2025-12-25 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11fe9441-5ce9-49f0-8819-adf6adfcd0fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
+
+**Released:** 2025-12-22 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Hardcore History
 
 ### Show 73 - Mania for Subjugation III
@@ -198,24 +216,6 @@ Last updated: 2025-12-26 12:26:28
 
 ---
 
-## How I Built This
-
-### Advice Line with Todd Graves of Raising Cane's
-
-**Released:** 2025-12-25 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11fe9441-5ce9-49f0-8819-adf6adfcd0fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
-
-**Released:** 2025-12-22 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Limp Paddle With Special Guest D’Arcy Carden
@@ -231,32 +231,6 @@ Last updated: 2025-12-26 12:26:28
 **Released:** 2025-12-22 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Best of Friday 2025
-
-**Released:** 2025-12-26 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Wednesday 2025
-
-**Released:** 2025-12-24 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fba7e12f-001c-463c-b848-84f23a06d5d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Monday 2025
-
-**Released:** 2025-12-22 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +259,32 @@ Last updated: 2025-12-26 12:26:28
 **Released:** 2025-12-22 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Best of Friday 2025
+
+**Released:** 2025-12-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Best of Wednesday 2025
+
+**Released:** 2025-12-24 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fba7e12f-001c-463c-b848-84f23a06d5d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Best of Monday 2025
+
+**Released:** 2025-12-22 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
