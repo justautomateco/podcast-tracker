@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-29 01:09:00
+Last updated: 2025-12-29 12:28:50
 
 ## Freakonomics Radio
 
@@ -9,24 +9,6 @@ Last updated: 2025-12-29 01:09:00
 **Released:** 2025-12-26 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 801: Must Be Rats on the Brain
-
-**Released:** 2025-12-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
-
----
-
-### Christmas and Commerce
-
-**Released:** 2025-12-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
 
 ---
 
@@ -72,6 +54,24 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
+## This American Life
+
+### 801: Must Be Rats on the Brain
+
+**Released:** 2025-12-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
+
+---
+
+### Christmas and Commerce
+
+**Released:** 2025-12-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
+
+---
+
 ## Planet Money
 
 ### The Rest of the Story, 2025
@@ -87,6 +87,16 @@ Last updated: 2025-12-29 01:09:00
 **Released:** 2025-12-24 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
+
+---
+
+## Hidden Brain
+
+### The Reset Button
+
+**Released:** 2025-12-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
 
 ---
 
@@ -124,16 +134,6 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
-## Hidden Brain
-
-### The Reset Button
-
-**Released:** 2025-12-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/43e12153-5024-4de1-aa6c-6fb9fa196d0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=43e12153-5024-4de1-aa6c-6fb9fa196d0c&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Constitution Breakdown #5: Dr. Tom Frieden
@@ -152,43 +152,15 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
-## The Joe Rogan Experience
-
-### #2431 - Shane Gillis
-
-**Released:** 2025-12-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583)
-
----
-
-### #2430 - Jay Anderson
-
-**Released:** 2025-12-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458)
-
----
-
-### #2429 - Tom Segura
-
-**Released:** 2025-12-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378)
-
----
-
-## Hardcore History
-
-### Show 73 - Mania for Subjugation III
-
-**Released:** 2025-12-22 11:01:31
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha73_Mania_for_Subjugation_III.mp3)
-
----
-
 ## How I Built This
+
+### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
+
+**Released:** 2025-12-29 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f59925ea-da22-4a66-9f86-ba98b52221ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Todd Graves of Raising Cane's
 
@@ -198,11 +170,13 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
-### Exploding Kittens: Elan Lee. How cat-themed Russian Roulette changed game night forever
+## Revisionist History
 
-**Released:** 2025-12-22 08:10:00
+### Christmas in Connecticut
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2c3ad908-dad2-424f-b58b-f84d7d10d0f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-25 05:01:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -224,6 +198,34 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Paul Rudd Returns Again
+
+**Released:** 2025-12-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+
+---
+
+### Limp Paddle With Special Guest D’Arcy Carden
+
+**Released:** 2025-12-25 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc06aac2-410c-4460-8087-ca1a5a96ba6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc06aac2-410c-4460-8087-ca1a5a96ba6e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Macaulay Culkin"
+
+**Released:** 2025-12-29 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
@@ -234,17 +236,15 @@ Last updated: 2025-12-29 01:09:00
 
 ---
 
-## Revisionist History
+## Armchair Expert
 
-### Christmas in Connecticut
+### Rerelease: Adam Scott Returns
 
-**Released:** 2025-12-25 05:01:00
+**Released:** 2025-12-29 08:35:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Best of Friday 2025
 
@@ -259,42 +259,6 @@ Last updated: 2025-12-29 01:09:00
 **Released:** 2025-12-24 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fba7e12f-001c-463c-b848-84f23a06d5d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Monday 2025
-
-**Released:** 2025-12-22 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec934754-04e5-4a0e-ab5a-94cd8c7b3419.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jeremy Allen White"
-
-**Released:** 2025-12-22 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7611f0c-0075-468a-8b34-aabb11e57cde/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7611f0c-0075-468a-8b34-aabb11e57cde&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Limp Paddle With Special Guest D’Arcy Carden
-
-**Released:** 2025-12-25 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc06aac2-410c-4460-8087-ca1a5a96ba6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc06aac2-410c-4460-8087-ca1a5a96ba6e&feed=dHoohVNH)
-
----
-
-### James L. Brooks
-
-**Released:** 2025-12-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/8274e19d-62b6-489a-b1ae-9e341bf478a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=8274e19d-62b6-489a-b1ae-9e341bf478a9&feed=dHoohVNH)
 
 ---
 
