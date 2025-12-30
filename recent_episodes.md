@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-30 01:03:40
-
-## Freakonomics Radio
-
-### Are You Ready for a Fresh Start? (Update)
-
-**Released:** 2025-12-30 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
-
----
-
-### Are the Rich Really Less Generous Than the Poor? (Update)
-
-**Released:** 2025-12-26 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
-
----
+Last updated: 2025-12-30 12:27:24
 
 ## TED Talks Daily
 
@@ -62,6 +44,42 @@ Last updated: 2025-12-30 01:03:40
 
 ---
 
+## Freakonomics Radio
+
+### Are You Ready for a Fresh Start? (Update)
+
+**Released:** 2025-12-30 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
+
+---
+
+### Are the Rich Really Less Generous Than the Poor? (Update)
+
+**Released:** 2025-12-26 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 801: Must Be Rats on the Brain
+
+**Released:** 2025-12-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
+
+---
+
+### Christmas and Commerce
+
+**Released:** 2025-12-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
+
+---
+
 ## Planet Money
 
 ### Why economists got free trade with China so wrong
@@ -85,24 +103,6 @@ Last updated: 2025-12-30 01:03:40
 **Released:** 2025-12-24 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
-
----
-
-## This American Life
-
-### 801: Must Be Rats on the Brain
-
-**Released:** 2025-12-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
-
----
-
-### Christmas and Commerce
-
-**Released:** 2025-12-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
 
 ---
 
@@ -132,6 +132,24 @@ Last updated: 2025-12-30 01:03:40
 
 ---
 
+## 99% Invisible
+
+### Constitution Breakdown #5: Dr. Tom Frieden
+
+**Released:** 2025-12-26 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+
+---
+
+### Mini-Stories: Volume 21
+
+**Released:** 2025-12-23 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
+
+---
+
 ## Hidden Brain
 
 ### You 2.0: Stop Spiraling!
@@ -143,6 +161,14 @@ Last updated: 2025-12-30 01:03:40
 ---
 
 ## Stuff You Should Know
+
+### What We Lost When We Lost Home Ec
+
+**Released:** 2025-12-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7b312512-84b2-4f47-ad8a-b3aa00f24cda/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Miniature Golf Works
 
@@ -168,60 +194,6 @@ Last updated: 2025-12-30 01:03:40
 
 ---
 
-### SYSK's 2025 Holiday Extravaganza Christmas Special
-
-**Released:** 2025-12-23 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f51ce7a7-39b0-4407-ae88-b3bb00e49b9d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #5: Dr. Tom Frieden
-
-**Released:** 2025-12-26 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
-
----
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Christmas in Connecticut
-
-**Released:** 2025-12-25 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Warm Sweater: The Moth Podcast
-
-**Released:** 2025-12-26 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6756875912.mp3?updated=1765990040)
-
----
-
-### Holiday Special 2014: Monkeys, Megachurches, and First Elves: The Moth Radio Hour
-
-**Released:** 2025-12-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1445920079.mp3?updated=1765917023)
-
----
-
 ## How I Built This
 
 ### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
@@ -240,21 +212,49 @@ Last updated: 2025-12-30 01:03:40
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Paul Rudd Returns Again
+### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
 
-**Released:** 2025-12-29 05:05:00
+**Released:** 2025-12-23 21:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Limp Paddle With Special Guest D’Arcy Carden
+## Revisionist History
 
-**Released:** 2025-12-25 05:05:00
+### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc06aac2-410c-4460-8087-ca1a5a96ba6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc06aac2-410c-4460-8087-ca1a5a96ba6e&feed=dHoohVNH)
+**Released:** 2025-12-30 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### Christmas in Connecticut
+
+**Released:** 2025-12-25 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Behind the Scenes: The Moth Radio Hour
+
+**Released:** 2025-12-30 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
+
+---
+
+### Warm Sweater: The Moth Podcast
+
+**Released:** 2025-12-26 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6756875912.mp3?updated=1765990040)
 
 ---
 
@@ -284,6 +284,24 @@ Last updated: 2025-12-30 01:03:40
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Paul Rudd Returns Again
+
+**Released:** 2025-12-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+
+---
+
+### Limp Paddle With Special Guest D’Arcy Carden
+
+**Released:** 2025-12-25 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc06aac2-410c-4460-8087-ca1a5a96ba6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc06aac2-410c-4460-8087-ca1a5a96ba6e&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Macaulay Culkin"
@@ -291,16 +309,6 @@ Last updated: 2025-12-30 01:03:40
 **Released:** 2025-12-29 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
-
-**Released:** 2025-12-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
