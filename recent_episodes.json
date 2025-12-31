@@ -1,5 +1,26 @@
 [
   {
+    "guid": "c1098c99-d604-4787-9899-daa6aaca0029",
+    "episode_title": "Are You Ready for a Fresh Start? (Update)",
+    "release_date": "2025-12-30 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "5b4e28ac-855d-4724-b281-b5ab195c61c7",
+    "episode_title": "Are the Rich Really Less Generous Than the Poor? (Update)",
+    "release_date": "2025-12-26 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "69496e294c1c9c7f2b66dcc0",
+    "episode_title": "How to prepare yourself for 2026 (with 3 lessons from TED-Ed)",
+    "release_date": "2025-12-30 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496e294c1c9c7f2b66dcc0/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6942e74756694f2c883cc7d2",
     "episode_title": "How art transforms brokenness into beauty | Lily Yeh (re-release)",
     "release_date": "2025-12-29 16:00:00",
@@ -28,27 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "694439d4ffa288bdbba47b10",
-    "episode_title": "The spiritual wisdom we need for a planet in crisis | Tariq Al-Olaimy",
-    "release_date": "2025-12-25 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694439d4ffa288bdbba47b10/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "c1098c99-d604-4787-9899-daa6aaca0029",
-    "episode_title": "Are You Ready for a Fresh Start? (Update)",
-    "release_date": "2025-12-30 01:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "5b4e28ac-855d-4724-b281-b5ab195c61c7",
-    "episode_title": "Are the Rich Really Less Generous Than the Poor? (Update)",
-    "release_date": "2025-12-26 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "45354 at https://www.thisamericanlife.org",
     "episode_title": "801: Must Be Rats on the Brain",
     "release_date": "2025-12-28 18:00:00",
@@ -56,11 +56,25 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "46077 at https://www.thisamericanlife.org",
-    "episode_title": "Christmas and Commerce",
-    "release_date": "2025-12-24 00:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3",
-    "podcast_name": "This American Life"
+    "guid": "62645616-e50e-11f0-87d6-67c34811b9f3",
+    "episode_title": "#2432 - Josh Dubin",
+    "release_date": "2025-12-30 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4950565009.mp3?updated=1767115627",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "0f7b005c-e131-11f0-9337-ff4f9cafcb4e",
+    "episode_title": "#2431 - Shane Gillis",
+    "release_date": "2025-12-25 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "7bc5215c-e08c-11f0-984e-ab05c74dd250",
+    "episode_title": "#2430 - Jay Anderson",
+    "release_date": "2025-12-24 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "1cf9f59f-9761-47cf-80c0-daa6421d571e",
@@ -82,41 +96,6 @@
     "release_date": "2025-12-24 08:30:00",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "0f7b005c-e131-11f0-9337-ff4f9cafcb4e",
-    "episode_title": "#2431 - Shane Gillis",
-    "release_date": "2025-12-25 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "7bc5215c-e08c-11f0-984e-ab05c74dd250",
-    "episode_title": "#2430 - Jay Anderson",
-    "release_date": "2025-12-24 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "bd67d296-dfae-11f0-8712-8fb36585b7b7",
-    "episode_title": "#2429 - Tom Segura",
-    "release_date": "2025-12-23 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "39929e88-beb0-498a-94bb-8f02def6fb60",
-    "episode_title": "Constitution Breakdown #5: Dr. Tom Frieden",
-    "release_date": "2025-12-26 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "270455f3-7479-4071-a3a6-bace639be2fb",
-    "episode_title": "Mini-Stories: Volume 21",
-    "release_date": "2025-12-23 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "f08b41a0-5a1f-4388-9179-60f982c5c009",
@@ -154,6 +133,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "7462b39b-5362-44fa-91a5-56be51af9e4a",
+    "episode_title": "Beyond the 99% Invisible City",
+    "release_date": "2025-12-30 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "39929e88-beb0-498a-94bb-8f02def6fb60",
+    "episode_title": "Constitution Breakdown #5: Dr. Tom Frieden",
+    "release_date": "2025-12-26 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/RS9FOszZJIxNde9cR8dMFyzIkfT3ruXteZUiZKnS95Q",
     "episode_title": "SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  ",
     "release_date": "2025-12-29 08:10:00",
@@ -168,13 +161,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/GhdlLEYMFPIlKYEbNCox6iIDdGQ89sWlD6h4BOSzN5M",
-    "episode_title": "#841: Arthur Brooks \u2014 Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred",
-    "release_date": "2025-12-23 21:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b",
     "episode_title": "Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know",
     "release_date": "2025-12-30 05:01:00",
@@ -187,6 +173,13 @@
     "release_date": "2025-12-25 05:01:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gvUzsu_610BrScWA1Zhvwi_soAJ0yFxohAe6_m1lJDA",
+    "episode_title": "#842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong",
+    "release_date": "2025-12-30 22:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "ba9c1afe-76d2-11ef-92d1-27682b81c233",

@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-30 12:27:24
+Last updated: 2025-12-31 01:05:02
+
+## Freakonomics Radio
+
+### Are You Ready for a Fresh Start? (Update)
+
+**Released:** 2025-12-30 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
+
+---
+
+### Are the Rich Really Less Generous Than the Poor? (Update)
+
+**Released:** 2025-12-26 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to prepare yourself for 2026 (with 3 lessons from TED-Ed)
+
+**Released:** 2025-12-30 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496e294c1c9c7f2b66dcc0/media.mp3)
+
+---
 
 ### How art transforms brokenness into beauty | Lily Yeh (re-release)
 
@@ -36,32 +62,6 @@ Last updated: 2025-12-30 12:27:24
 
 ---
 
-### The spiritual wisdom we need for a planet in crisis | Tariq Al-Olaimy
-
-**Released:** 2025-12-25 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/694439d4ffa288bdbba47b10/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Are You Ready for a Fresh Start? (Update)
-
-**Released:** 2025-12-30 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
-
----
-
-### Are the Rich Really Less Generous Than the Poor? (Update)
-
-**Released:** 2025-12-26 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 801: Must Be Rats on the Brain
@@ -72,11 +72,29 @@ Last updated: 2025-12-30 12:27:24
 
 ---
 
-### Christmas and Commerce
+## The Joe Rogan Experience
 
-**Released:** 2025-12-24 00:00:00
+### #2432 - Josh Dubin
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3)
+**Released:** 2025-12-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4950565009.mp3?updated=1767115627)
+
+---
+
+### #2431 - Shane Gillis
+
+**Released:** 2025-12-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583)
+
+---
+
+### #2430 - Jay Anderson
+
+**Released:** 2025-12-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458)
 
 ---
 
@@ -103,50 +121,6 @@ Last updated: 2025-12-30 12:27:24
 **Released:** 2025-12-24 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
-
----
-
-## The Joe Rogan Experience
-
-### #2431 - Shane Gillis
-
-**Released:** 2025-12-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583)
-
----
-
-### #2430 - Jay Anderson
-
-**Released:** 2025-12-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3748743052.mp3?updated=1766596458)
-
----
-
-### #2429 - Tom Segura
-
-**Released:** 2025-12-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1434675087.mp3?updated=1766510378)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #5: Dr. Tom Frieden
-
-**Released:** 2025-12-26 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
-
----
-
-### Mini-Stories: Volume 21
-
-**Released:** 2025-12-23 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6719a058-b7b9-47d9-9148-ddb6dafa39cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6719a058-b7b9-47d9-9148-ddb6dafa39cf&feed=BqbsxVfO)
 
 ---
 
@@ -194,6 +168,24 @@ Last updated: 2025-12-30 12:27:24
 
 ---
 
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #5: Dr. Tom Frieden
+
+**Released:** 2025-12-26 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
@@ -212,16 +204,6 @@ Last updated: 2025-12-30 12:27:24
 
 ---
 
-## The Tim Ferriss Show
-
-### #841: Arthur Brooks — Finding The Meaning of Your Life, The Poet's Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred
-
-**Released:** 2025-12-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f346c827-70fc-4ead-aab1-d408c6f2ed78.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
@@ -237,6 +219,16 @@ Last updated: 2025-12-30 12:27:24
 **Released:** 2025-12-25 05:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2373c1fc-55d7-4c0c-96ba-b3ba012bddfd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+
+**Released:** 2025-12-30 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
