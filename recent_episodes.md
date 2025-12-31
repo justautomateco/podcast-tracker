@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2025-12-31 01:05:02
+Last updated: 2025-12-31 12:26:30
 
 ## Freakonomics Radio
 
@@ -116,14 +116,6 @@ Last updated: 2025-12-31 01:05:02
 
 ---
 
-### The summer I turned binge-y
-
-**Released:** 2025-12-24 08:30:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: Stop Spiraling!
@@ -135,6 +127,14 @@ Last updated: 2025-12-31 01:05:02
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: All About Porcelain
+
+**Released:** 2025-12-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8fcaa48-77c2-4e1a-b21f-b3a7016d468d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### What We Lost When We Lost Home Ec
 
@@ -157,14 +157,6 @@ Last updated: 2025-12-31 01:05:02
 **Released:** 2025-12-25 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cf075383-0418-4046-9d15-b3aa01016323/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Why is holly a holiday thing?
-
-**Released:** 2025-12-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/97e26341-59e5-489e-837b-b39a01466602/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -204,6 +196,16 @@ Last updated: 2025-12-31 01:05:02
 
 ---
 
+## The Tim Ferriss Show
+
+### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+
+**Released:** 2025-12-30 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
@@ -222,13 +224,29 @@ Last updated: 2025-12-31 01:05:02
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+### Rerelease: Nikki Glaser
 
-**Released:** 2025-12-30 22:30:00
+**Released:** 2025-12-31 08:35:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d670de1-44b1-41db-8a32-b529dad9fc75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rerelease: Adam Scott Returns
+
+**Released:** 2025-12-29 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Best of Friday 2025
+
+**Released:** 2025-12-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -247,32 +265,6 @@ Last updated: 2025-12-31 01:05:02
 **Released:** 2025-12-26 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6756875912.mp3?updated=1765990040)
-
----
-
-## Armchair Expert
-
-### Rerelease: Adam Scott Returns
-
-**Released:** 2025-12-29 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Friday 2025
-
-**Released:** 2025-12-26 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Wednesday 2025
-
-**Released:** 2025-12-24 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fba7e12f-001c-463c-b848-84f23a06d5d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
