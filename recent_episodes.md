@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-01 12:27:06
+Last updated: 2026-01-02 01:05:08
 
 ## TED Talks Daily
+
+### A 3-step guide to believing in yourself | Sheryl Lee Ralph (re-release)
+
+**Released:** 2026-01-01 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496ea84c1c9c7f2b66ff7e/media.mp3)
+
+---
 
 ### An ode to living on Earth | Oliver Jeffers (re-release)
 
@@ -33,32 +41,6 @@ Last updated: 2026-01-01 12:27:06
 **Released:** 2025-12-28 07:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496d2c4c1c9c7f2b667fcb/media.mp3)
-
----
-
-### 4 kinds of regret -- and what they teach you about yourself | Daniel H. Pink (re-release)
-
-**Released:** 2025-12-27 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6942e45856694f2c883ba711/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Are You Ready for a Fresh Start? (Update)
-
-**Released:** 2025-12-30 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
-
----
-
-### Are the Rich Really Less Generous Than the Poor? (Update)
-
-**Released:** 2025-12-26 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
 
 ---
 
@@ -98,6 +80,50 @@ Last updated: 2026-01-01 12:27:06
 
 ---
 
+## Freakonomics Radio
+
+### Are You Ready for a Fresh Start? (Update)
+
+**Released:** 2025-12-30 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
+
+---
+
+### Are the Rich Really Less Generous Than the Poor? (Update)
+
+**Released:** 2025-12-26 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
+
+---
+
+## The Joe Rogan Experience
+
+### JRE MMA Show #172 with Gable Steveson
+
+**Released:** 2026-01-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8309820648.mp3?updated=1767287242)
+
+---
+
+### #2433 - James McCann
+
+**Released:** 2025-12-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8237767320.mp3?updated=1767203835)
+
+---
+
+### #2432 - Josh Dubin
+
+**Released:** 2025-12-30 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4950565009.mp3?updated=1767115627)
+
+---
+
 ## Hidden Brain
 
 ### You 2.0: Stop Spiraling!
@@ -108,7 +134,33 @@ Last updated: 2026-01-01 12:27:06
 
 ---
 
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #5: Dr. Tom Frieden
+
+**Released:** 2025-12-26 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### TV Moments That Changed The World
+
+**Released:** 2026-01-01 23:35:46
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab65394d-2b55-4adc-9258-b3c501808e0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: All About Porcelain
 
@@ -134,50 +186,6 @@ Last updated: 2026-01-01 12:27:06
 
 ---
 
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #5: Dr. Tom Frieden
-
-**Released:** 2025-12-26 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2433 - James McCann
-
-**Released:** 2025-12-31 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8237767320.mp3?updated=1767203835)
-
----
-
-### #2432 - Josh Dubin
-
-**Released:** 2025-12-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4950565009.mp3?updated=1767115627)
-
----
-
-### #2431 - Shane Gillis
-
-**Released:** 2025-12-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3383509810.mp3?updated=1766682583)
-
----
-
 ## How I Built This
 
 ### Advice Line: Tapping AI as a Resource for Your Business
@@ -193,6 +201,16 @@ Last updated: 2026-01-01 12:27:06
 **Released:** 2025-12-29 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f59925ea-da22-4a66-9f86-ba98b52221ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
+
+**Released:** 2025-12-30 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -214,16 +232,6 @@ Last updated: 2026-01-01 12:27:06
 
 ---
 
-## Revisionist History
-
-### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
-
-**Released:** 2025-12-30 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
@@ -239,32 +247,6 @@ Last updated: 2026-01-01 12:27:06
 **Released:** 2025-12-30 22:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Rerelease: Nikki Glaser
-
-**Released:** 2025-12-31 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d670de1-44b1-41db-8a32-b529dad9fc75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rerelease: Adam Scott Returns
-
-**Released:** 2025-12-29 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Best of Friday 2025
-
-**Released:** 2025-12-26 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -293,6 +275,32 @@ Last updated: 2026-01-01 12:27:06
 **Released:** 2025-12-29 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Rerelease: Nikki Glaser
+
+**Released:** 2025-12-31 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d670de1-44b1-41db-8a32-b529dad9fc75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rerelease: Adam Scott Returns
+
+**Released:** 2025-12-29 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Best of Friday 2025
+
+**Released:** 2025-12-26 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
