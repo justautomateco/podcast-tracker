@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-02 01:05:08
+Last updated: 2026-01-02 12:26:05
 
 ## TED Talks Daily
 
@@ -54,47 +54,21 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
-## Planet Money
-
-### Indicators of the Year, Past and Future
-
-**Released:** 2025-12-31 17:21:02
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119)
-
----
-
-### Why economists got free trade with China so wrong
-
-**Released:** 2025-12-30 00:05:16
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274)
-
----
-
-### The Rest of the Story, 2025
-
-**Released:** 2025-12-26 08:15:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413)
-
----
-
 ## Freakonomics Radio
+
+### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+
+**Released:** 2026-01-02 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+
+---
 
 ### Are You Ready for a Fresh Start? (Update)
 
 **Released:** 2025-12-30 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
-
----
-
-### Are the Rich Really Less Generous Than the Poor? (Update)
-
-**Released:** 2025-12-26 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/92b46ff9-80a1-4b75-95b6-64d1663ed6e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=92b46ff9-80a1-4b75-95b6-64d1663ed6e8&feed=Y8lFbOT4)
 
 ---
 
@@ -124,6 +98,24 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
+## Planet Money
+
+### Indicators of the Year, Past and Future
+
+**Released:** 2025-12-31 17:21:02
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119)
+
+---
+
+### Why economists got free trade with China so wrong
+
+**Released:** 2025-12-30 00:05:16
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274)
+
+---
+
 ## Hidden Brain
 
 ### You 2.0: Stop Spiraling!
@@ -131,24 +123,6 @@ Last updated: 2026-01-02 01:05:08
 **Released:** 2025-12-29 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b134def4-74d3-46a3-b3db-93abbf55c05c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b134def4-74d3-46a3-b3db-93abbf55c05c&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #5: Dr. Tom Frieden
-
-**Released:** 2025-12-26 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +160,24 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #5: Dr. Tom Frieden
+
+**Released:** 2025-12-26 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line: Tapping AI as a Resource for Your Business
@@ -214,24 +206,6 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
-## The Moth
-
-### Behind the Scenes: The Moth Radio Hour
-
-**Released:** 2025-12-30 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
-
----
-
-### Warm Sweater: The Moth Podcast
-
-**Released:** 2025-12-26 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6756875912.mp3?updated=1765990040)
-
----
-
 ## The Tim Ferriss Show
 
 ### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
@@ -247,16 +221,6 @@ Last updated: 2026-01-02 01:05:08
 **Released:** 2025-12-30 22:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Macaulay Culkin"
-
-**Released:** 2025-12-29 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
 
 ---
 
@@ -278,7 +242,33 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
+## The Moth
+
+### New Year, New Leaf: The Moth Podcast
+
+**Released:** 2026-01-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
+
+---
+
+### Behind the Scenes: The Moth Radio Hour
+
+**Released:** 2025-12-30 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
+
+---
+
 ## Armchair Expert
+
+### Rerelease: Walton Goggins
+
+**Released:** 2026-01-02 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Rerelease: Nikki Glaser
 
@@ -296,11 +286,13 @@ Last updated: 2026-01-02 01:05:08
 
 ---
 
-### Best of Friday 2025
+## SmartLess 
 
-**Released:** 2025-12-26 08:35:00
+### "Macaulay Culkin"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/91787b5c-d7c5-4ac6-9a72-0f068e6abd63.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2025-12-29 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
 
 ---
 
