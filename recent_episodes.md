@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-03 01:01:08
+Last updated: 2026-01-03 12:24:28
 
 ## Freakonomics Radio
 
@@ -62,6 +62,16 @@ Last updated: 2026-01-03 01:01:08
 
 ---
 
+## This American Life
+
+### 801: Must Be Rats on the Brain
+
+**Released:** 2025-12-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
+
+---
+
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #172 with Gable Steveson
@@ -88,16 +98,6 @@ Last updated: 2026-01-03 01:01:08
 
 ---
 
-## This American Life
-
-### 801: Must Be Rats on the Brain
-
-**Released:** 2025-12-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
-
----
-
 ## Planet Money
 
 ### Indicators of the Year, Past and Future
@@ -116,7 +116,35 @@ Last updated: 2026-01-03 01:01:08
 
 ---
 
+## Hidden Brain
+
+### You 2.0: Stop Spiraling!
+
+**Released:** 2025-12-29 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b134def4-74d3-46a3-b3db-93abbf55c05c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b134def4-74d3-46a3-b3db-93abbf55c05c&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Selects: MC Escher and His Trippy Art
+
+**Released:** 2026-01-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0dcf990-3c2c-4511-9888-b3c300f07e3a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### TV Moments That Changed The World
 
@@ -139,90 +167,6 @@ Last updated: 2026-01-03 01:01:08
 **Released:** 2025-12-30 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7b312512-84b2-4f47-ad8a-b3aa00f24cda/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Miniature Golf Works
-
-**Released:** 2025-12-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b8530701-4fce-42db-835a-b3aa01313817/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### You 2.0: Stop Spiraling!
-
-**Released:** 2025-12-29 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b134def4-74d3-46a3-b3db-93abbf55c05c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b134def4-74d3-46a3-b3db-93abbf55c05c&feed=kwWc0lhf)
-
----
-
-## Revisionist History
-
-### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
-
-**Released:** 2025-12-30 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### New Year, New Leaf: The Moth Podcast
-
-**Released:** 2026-01-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
-
----
-
-### Behind the Scenes: The Moth Radio Hour
-
-**Released:** 2025-12-30 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Scents and Sensibility
-
-**Released:** 2026-01-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
-
----
-
-### Paul Rudd Returns Again
-
-**Released:** 2025-12-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Macaulay Culkin"
-
-**Released:** 2025-12-29 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
 
 ---
 
@@ -267,6 +211,62 @@ Last updated: 2026-01-03 01:01:08
 **Released:** 2025-12-29 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### New Year, New Leaf: The Moth Podcast
+
+**Released:** 2026-01-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
+
+---
+
+### Behind the Scenes: The Moth Radio Hour
+
+**Released:** 2025-12-30 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Scents and Sensibility
+
+**Released:** 2026-01-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
+
+---
+
+### Paul Rudd Returns Again
+
+**Released:** 2025-12-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+
+---
+
+## Revisionist History
+
+### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
+
+**Released:** 2025-12-30 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## SmartLess 
+
+### "Macaulay Culkin"
+
+**Released:** 2025-12-29 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
 
 ---
 
