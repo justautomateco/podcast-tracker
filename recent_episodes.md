@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-02 12:26:05
+Last updated: 2026-01-03 01:01:08
+
+## Freakonomics Radio
+
+### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+
+**Released:** 2026-01-02 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+
+---
+
+### Are You Ready for a Fresh Start? (Update)
+
+**Released:** 2025-12-30 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to live a meaningful life | Brian S. Lowery (re-release)
+
+**Released:** 2026-01-02 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f2e3aa794d3c6fd4ee5/media.mp3)
+
+---
 
 ### A 3-step guide to believing in yourself | Sheryl Lee Ralph (re-release)
 
@@ -36,42 +62,6 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
-### Sunday Pick: 2025 Staff Picks - Best of How to Be a Better Human 
-
-**Released:** 2025-12-28 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496d2c4c1c9c7f2b667fcb/media.mp3)
-
----
-
-## This American Life
-
-### 801: Must Be Rats on the Brain
-
-**Released:** 2025-12-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
-
----
-
-## Freakonomics Radio
-
-### Are Personal Finance Gurus Giving You Bad Advice? (Update)
-
-**Released:** 2026-01-02 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
-
----
-
-### Are You Ready for a Fresh Start? (Update)
-
-**Released:** 2025-12-30 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #172 with Gable Steveson
@@ -98,6 +88,16 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
+## This American Life
+
+### 801: Must Be Rats on the Brain
+
+**Released:** 2025-12-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
+
+---
+
 ## Planet Money
 
 ### Indicators of the Year, Past and Future
@@ -113,16 +113,6 @@ Last updated: 2026-01-02 12:26:05
 **Released:** 2025-12-30 00:05:16
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274)
-
----
-
-## Hidden Brain
-
-### You 2.0: Stop Spiraling!
-
-**Released:** 2025-12-29 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b134def4-74d3-46a3-b3db-93abbf55c05c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b134def4-74d3-46a3-b3db-93abbf55c05c&feed=kwWc0lhf)
 
 ---
 
@@ -170,29 +160,13 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
-### Constitution Breakdown #5: Dr. Tom Frieden
+## Hidden Brain
 
-**Released:** 2025-12-26 18:15:00
+### You 2.0: Stop Spiraling!
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/912b9f82-d244-4df0-ac7e-2ed0e90221e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=912b9f82-d244-4df0-ac7e-2ed0e90221e7&feed=BqbsxVfO)
+**Released:** 2025-12-29 20:00:00
 
----
-
-## How I Built This
-
-### Advice Line: Tapping AI as a Resource for Your Business
-
-**Released:** 2026-01-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
-
-**Released:** 2025-12-29 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f59925ea-da22-4a66-9f86-ba98b52221ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b134def4-74d3-46a3-b3db-93abbf55c05c/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b134def4-74d3-46a3-b3db-93abbf55c05c&feed=kwWc0lhf)
 
 ---
 
@@ -206,21 +180,21 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
+### New Year, New Leaf: The Moth Podcast
 
-**Released:** 2026-01-01 12:00:00
+**Released:** 2026-01-02 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
 
 ---
 
-### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+### Behind the Scenes: The Moth Radio Hour
 
-**Released:** 2025-12-30 22:30:00
+**Released:** 2025-12-30 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
 
 ---
 
@@ -242,21 +216,31 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
-## The Moth
+## SmartLess 
 
-### New Year, New Leaf: The Moth Podcast
+### "Macaulay Culkin"
 
-**Released:** 2026-01-02 05:25:00
+**Released:** 2025-12-29 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
 
 ---
 
-### Behind the Scenes: The Moth Radio Hour
+## How I Built This
 
-**Released:** 2025-12-30 05:25:00
+### Advice Line: Tapping AI as a Resource for Your Business
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
+**Released:** 2026-01-01 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
+
+**Released:** 2025-12-29 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f59925ea-da22-4a66-9f86-ba98b52221ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -286,13 +270,21 @@ Last updated: 2026-01-02 12:26:05
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Macaulay Culkin"
+### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
 
-**Released:** 2025-12-29 08:01:00
+**Released:** 2026-01-01 12:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+
+**Released:** 2025-12-30 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
