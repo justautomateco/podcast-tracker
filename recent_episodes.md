@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-05 01:10:45
+Last updated: 2026-01-05 12:29:44
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2026-01-05 01:10:45
 **Released:** 2025-12-30 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8f184178-52d4-4448-84a8-d73468a4134b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8f184178-52d4-4448-84a8-d73468a4134b&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -59,16 +69,6 @@ Last updated: 2026-01-05 01:10:45
 **Released:** 2025-12-31 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6942e7e4b4589744b103890c/media.mp3)
-
----
-
-## This American Life
-
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**Released:** 2026-01-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -134,6 +134,16 @@ Last updated: 2026-01-05 01:10:45
 
 ---
 
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: MC Escher and His Trippy Art
@@ -168,16 +178,6 @@ Last updated: 2026-01-05 01:10:45
 
 ---
 
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
-
----
-
 ## Revisionist History
 
 ### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
@@ -188,21 +188,39 @@ Last updated: 2026-01-05 01:10:45
 
 ---
 
+## The Tim Ferriss Show
+
+### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
+
+**Released:** 2026-01-01 12:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
+
+**Released:** 2025-12-30 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
+
+### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
+
+**Released:** 2026-01-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line: Tapping AI as a Resource for Your Business
 
 **Released:** 2026-01-01 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### SkinnyDipped: Breezy and Val Griffith. The Flourishing Snack Company That Almost Failed  
-
-**Released:** 2025-12-29 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f59925ea-da22-4a66-9f86-ba98b52221ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,6 +244,14 @@ Last updated: 2026-01-05 01:10:45
 
 ## Conan O'Brien Needs A Friend
 
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
 ### Scents and Sensibility
 
 **Released:** 2026-01-01 05:05:00
@@ -234,15 +260,25 @@ Last updated: 2026-01-05 01:10:45
 
 ---
 
-### Paul Rudd Returns Again
+## SmartLess 
 
-**Released:** 2025-12-29 05:05:00
+### "Ricky Gervais"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e96a9db4-d1f9-4adf-b031-f4eef7c9263b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e96a9db4-d1f9-4adf-b031-f4eef7c9263b&feed=dHoohVNH)
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Cher
+
+**Released:** 2026-01-05 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Rerelease: Walton Goggins
 
@@ -257,42 +293,6 @@ Last updated: 2026-01-05 01:10:45
 **Released:** 2025-12-31 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d670de1-44b1-41db-8a32-b529dad9fc75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rerelease: Adam Scott Returns
-
-**Released:** 2025-12-29 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/228876dc-ea73-462c-a9b9-257a3a429c61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Macaulay Culkin"
-
-**Released:** 2025-12-29 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6f1769c2-00bb-4682-97f3-6c39659515a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6f1769c2-00bb-4682-97f3-6c39659515a1&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
-
-**Released:** 2026-01-01 12:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
-
-**Released:** 2025-12-30 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
