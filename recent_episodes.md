@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-06 01:05:02
-
-## Freakonomics Radio
-
-### Are Personal Finance Gurus Giving You Bad Advice? (Update)
-
-**Released:** 2026-01-02 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
-
----
+Last updated: 2026-01-06 12:28:22
 
 ## TED Talks Daily
 
@@ -54,6 +44,16 @@ Last updated: 2026-01-06 01:05:02
 
 ---
 
+## Freakonomics Radio
+
+### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+
+**Released:** 2026-01-02 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+
+---
+
 ## This American Life
 
 ### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
@@ -79,16 +79,6 @@ Last updated: 2026-01-06 01:05:02
 **Released:** 2025-12-31 17:21:02
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119)
-
----
-
-## Hidden Brain
-
-### You 2.0: Cultivating Courage
-
-**Released:** 2026-01-05 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
 
 ---
 
@@ -118,7 +108,35 @@ Last updated: 2026-01-06 01:05:02
 
 ---
 
+## Hidden Brain
+
+### You 2.0: Cultivating Courage
+
+**Released:** 2026-01-05 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Beyond the 99% Invisible City
+
+**Released:** 2025-12-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### The Warrens: Paranormal Power Couple
+
+**Released:** 2026-01-06 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a01f7690-400d-42f5-bca5-b3ca0038b1d5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: MC Escher and His Trippy Art
 
@@ -144,52 +162,6 @@ Last updated: 2026-01-06 01:05:02
 
 ---
 
-### What We Lost When We Lost Home Ec
-
-**Released:** 2025-12-30 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7b312512-84b2-4f47-ad8a-b3aa00f24cda/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Malcolm Gladwell Doesn't Mind Being Wrong | From Hasan Minhaj Doesn't Know
-
-**Released:** 2025-12-30 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e5b541d7-fd5b-4dd5-92b3-b3ba01355f4b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### New Year, New Leaf: The Moth Podcast
-
-**Released:** 2026-01-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
-
----
-
-### Behind the Scenes: The Moth Radio Hour
-
-**Released:** 2025-12-30 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8559963747.mp3?updated=1766885072)
-
----
-
 ## How I Built This
 
 ### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
@@ -208,31 +180,21 @@ Last updated: 2026-01-06 01:05:02
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Moth
 
-### D'Arcy Carden Returns
+### Growing Pains: The Moth Radio Hour
 
-**Released:** 2026-01-05 05:05:00
+**Released:** 2026-01-06 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
-### Scents and Sensibility
-
-**Released:** 2026-01-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
 
 ---
 
-## SmartLess 
+### New Year, New Leaf: The Moth Podcast
 
-### "Ricky Gervais"
+**Released:** 2026-01-02 05:25:00
 
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
 
 ---
 
@@ -259,6 +221,34 @@ Last updated: 2026-01-06 01:05:02
 **Released:** 2025-12-30 22:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Ricky Gervais"
+
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
+### Scents and Sensibility
+
+**Released:** 2026-01-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
 
 ---
 
