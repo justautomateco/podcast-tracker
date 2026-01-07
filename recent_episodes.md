@@ -1,48 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-06 12:28:22
-
-## TED Talks Daily
-
-### Why living online is leaving us exhausted — and what actually helps | Manoush Zomorodi
-
-**Released:** 2026-01-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6943060a56694f2c88462ab9/media.mp3)
-
----
-
-### Sunday Pick: Building atomic habits with James Clear | from ReThinking with Adam Grant
-
-**Released:** 2026-01-04 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496fe6f756711739d0ff92/media.mp3)
-
----
-
-### Interview: What happens in your brain when you pay attention? with Dr. Sasha Hamdani | from TED Health
-
-**Released:** 2026-01-03 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f9e9ff9a18986dd2b85/media.mp3)
-
----
-
-### How to live a meaningful life | Brian S. Lowery (re-release)
-
-**Released:** 2026-01-02 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f2e3aa794d3c6fd4ee5/media.mp3)
-
----
-
-### A 3-step guide to believing in yourself | Sheryl Lee Ralph (re-release)
-
-**Released:** 2026-01-01 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496ea84c1c9c7f2b66ff7e/media.mp3)
-
----
+Last updated: 2026-01-07 01:05:23
 
 ## Freakonomics Radio
 
@@ -51,16 +9,6 @@ Last updated: 2026-01-06 12:28:22
 **Released:** 2026-01-02 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**Released:** 2026-01-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -82,7 +30,25 @@ Last updated: 2026-01-06 12:28:22
 
 ---
 
+## This American Life
+
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2434 - Kurt Metzger
+
+**Released:** 2026-01-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
+
+---
 
 ### JRE MMA Show #172 with Gable Steveson
 
@@ -100,14 +66,6 @@ Last updated: 2026-01-06 12:28:22
 
 ---
 
-### #2432 - Josh Dubin
-
-**Released:** 2025-12-30 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4950565009.mp3?updated=1767115627)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: Cultivating Courage
@@ -115,16 +73,6 @@ Last updated: 2026-01-06 12:28:22
 **Released:** 2026-01-05 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Beyond the 99% Invisible City
-
-**Released:** 2025-12-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1f9b40de-1cca-4945-af4c-0d1ece69b6ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1f9b40de-1cca-4945-af4c-0d1ece69b6ce&feed=BqbsxVfO)
 
 ---
 
@@ -162,6 +110,16 @@ Last updated: 2026-01-06 12:28:22
 
 ---
 
+## 99% Invisible
+
+### Mini-Stories: Volume 22
+
+**Released:** 2026-01-06 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
@@ -180,25 +138,15 @@ Last updated: 2026-01-06 12:28:22
 
 ---
 
-## The Moth
-
-### Growing Pains: The Moth Radio Hour
-
-**Released:** 2026-01-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
-
----
-
-### New Year, New Leaf: The Moth Podcast
-
-**Released:** 2026-01-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
-
----
-
 ## The Tim Ferriss Show
+
+### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
+
+**Released:** 2026-01-07 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/488629b4-0090-4eed-a5bb-6f57ae38326f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #844: Be Still — Guided Meditation with Zen Master Henry Shukman
 
@@ -213,42 +161,6 @@ Last updated: 2026-01-06 12:28:22
 **Released:** 2026-01-01 12:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #842: The Story Behind EpiPen, The Rise of Food Allergies, and What Doctors Got Wrong
-
-**Released:** 2025-12-30 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f6362693-4752-472e-87bf-10da707a5494.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Ricky Gervais"
-
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
-### Scents and Sensibility
-
-**Released:** 2026-01-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
 
 ---
 
@@ -275,6 +187,94 @@ Last updated: 2026-01-06 12:28:22
 **Released:** 2025-12-31 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d670de1-44b1-41db-8a32-b529dad9fc75.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Growing Pains: The Moth Radio Hour
+
+**Released:** 2026-01-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
+
+---
+
+### New Year, New Leaf: The Moth Podcast
+
+**Released:** 2026-01-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
+### Scents and Sensibility
+
+**Released:** 2026-01-01 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
+
+---
+
+## TED Talks Daily
+
+### The biggest global risks for 2026 | Ian Bremmer
+
+**Released:** 2026-01-06 21:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695d76e18e6dd12efb11ed6f/media.mp3)
+
+---
+
+### Why living online is leaving us exhausted — and what actually helps | Manoush Zomorodi
+
+**Released:** 2026-01-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6943060a56694f2c88462ab9/media.mp3)
+
+---
+
+### Sunday Pick: Building atomic habits with James Clear | from ReThinking with Adam Grant
+
+**Released:** 2026-01-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496fe6f756711739d0ff92/media.mp3)
+
+---
+
+### Interview: What happens in your brain when you pay attention? with Dr. Sasha Hamdani | from TED Health
+
+**Released:** 2026-01-03 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f9e9ff9a18986dd2b85/media.mp3)
+
+---
+
+### How to live a meaningful life | Brian S. Lowery (re-release)
+
+**Released:** 2026-01-02 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f2e3aa794d3c6fd4ee5/media.mp3)
+
+---
+
+## SmartLess 
+
+### "Ricky Gervais"
+
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
