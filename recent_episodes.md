@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-07 12:29:00
+Last updated: 2026-01-08 01:05:23
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+### How to introduce yourself — and get hired | Rebecca Okamoto
 
-**Released:** 2026-01-04 18:00:00
+**Released:** 2026-01-07 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695e80fd24334d02343f72a5/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The biggest global risks for 2026 | Ian Bremmer
 
@@ -32,7 +30,7 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-### Why living online is leaving us exhausted — and what actually helps | Manoush Zomorodi
+### Sitting all day is killing you — here's what to do about it | Manoush Zomorodi
 
 **Released:** 2026-01-05 16:00:00
 
@@ -56,15 +54,15 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-### How to live a meaningful life | Brian S. Lowery (re-release)
+## Planet Money
 
-**Released:** 2026-01-02 16:00:00
+### How Black hair care grew Black power
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f2e3aa794d3c6fd4ee5/media.mp3)
+**Released:** 2026-01-07 19:38:35
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
 
 ---
-
-## Planet Money
 
 ### Venezuela’s recent economic history (Update)
 
@@ -74,11 +72,13 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-### Indicators of the Year, Past and Future
+## This American Life
 
-**Released:** 2025-12-31 17:21:02
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119)
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -100,14 +100,6 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-### #2433 - James McCann
-
-**Released:** 2025-12-31 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8237767320.mp3?updated=1767203835)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: Cultivating Courage
@@ -125,6 +117,24 @@ Last updated: 2026-01-07 12:29:00
 **Released:** 2026-01-06 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
+
+**Released:** 2026-01-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line: Tapping AI as a Resource for Your Business
+
+**Released:** 2026-01-01 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -162,50 +172,6 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
-## How I Built This
-
-### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
-
-**Released:** 2026-01-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Tapping AI as a Resource for Your Business
-
-**Released:** 2026-01-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Walter Isaacson Returns (biographer & historian)
-
-**Released:** 2026-01-07 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Cher
-
-**Released:** 2026-01-05 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rerelease: Walton Goggins
-
-**Released:** 2026-01-02 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Growing Pains: The Moth Radio Hour
@@ -224,6 +190,16 @@ Last updated: 2026-01-07 12:29:00
 
 ---
 
+## SmartLess 
+
+### "Ricky Gervais"
+
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### D'Arcy Carden Returns
@@ -239,16 +215,6 @@ Last updated: 2026-01-07 12:29:00
 **Released:** 2026-01-01 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Ricky Gervais"
-
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +241,32 @@ Last updated: 2026-01-07 12:29:00
 **Released:** 2026-01-01 12:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Walter Isaacson Returns (biographer & historian)
+
+**Released:** 2026-01-07 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Cher
+
+**Released:** 2026-01-05 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rerelease: Walton Goggins
+
+**Released:** 2026-01-02 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
