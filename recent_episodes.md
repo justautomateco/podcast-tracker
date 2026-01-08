@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-08 01:05:23
-
-## Freakonomics Radio
-
-### Are Personal Finance Gurus Giving You Bad Advice? (Update)
-
-**Released:** 2026-01-02 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
-
----
+Last updated: 2026-01-08 12:29:10
 
 ## TED Talks Daily
 
@@ -54,6 +44,68 @@ Last updated: 2026-01-08 01:05:23
 
 ---
 
+## Freakonomics Radio
+
+### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+
+**Released:** 2026-01-02 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+
+---
+
+## Stuff You Should Know
+
+### The SAD Episode
+
+**Released:** 2026-01-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c2cf4e7b-3925-46bc-93cf-b3cc001f1326/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Neighborhood Watch
+
+**Released:** 2026-01-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/335d8377-8731-4140-967f-b3a100eade4d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Warrens: Paranormal Power Couple
+
+**Released:** 2026-01-06 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a01f7690-400d-42f5-bca5-b3ca0038b1d5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: MC Escher and His Trippy Art
+
+**Released:** 2026-01-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0dcf990-3c2c-4511-9888-b3c300f07e3a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### TV Moments That Changed The World
+
+**Released:** 2026-01-01 23:35:46
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab65394d-2b55-4adc-9258-b3c501808e0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## Planet Money
 
 ### How Black hair care grew Black power
@@ -69,16 +121,6 @@ Last updated: 2026-01-08 01:05:23
 **Released:** 2026-01-04 18:07:54
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896)
-
----
-
-## This American Life
-
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**Released:** 2026-01-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -122,99 +164,19 @@ Last updated: 2026-01-08 01:05:23
 
 ## How I Built This
 
+### Advice Line with Jack Conte of Patreon (December 2024)
+
+**Released:** 2026-01-08 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d3b52293-6827-403d-a4a4-6c6ec5710ef0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
 
 **Released:** 2026-01-05 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line: Tapping AI as a Resource for Your Business
-
-**Released:** 2026-01-01 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23733219-ddfb-4889-8da9-ef50eb8194ad.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Neighborhood Watch
-
-**Released:** 2026-01-07 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/335d8377-8731-4140-967f-b3a100eade4d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Warrens: Paranormal Power Couple
-
-**Released:** 2026-01-06 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a01f7690-400d-42f5-bca5-b3ca0038b1d5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: MC Escher and His Trippy Art
-
-**Released:** 2026-01-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0dcf990-3c2c-4511-9888-b3c300f07e3a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### TV Moments That Changed The World
-
-**Released:** 2026-01-01 23:35:46
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab65394d-2b55-4adc-9258-b3c501808e0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Moth
-
-### Growing Pains: The Moth Radio Hour
-
-**Released:** 2026-01-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
-
----
-
-### New Year, New Leaf: The Moth Podcast
-
-**Released:** 2026-01-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
-
----
-
-## SmartLess 
-
-### "Ricky Gervais"
-
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
-### Scents and Sensibility
-
-**Released:** 2026-01-01 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e622f14c-d529-42ee-ae2e-ce6e0871453c/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e622f14c-d529-42ee-ae2e-ce6e0871453c&feed=dHoohVNH)
 
 ---
 
@@ -233,14 +195,6 @@ Last updated: 2026-01-08 01:05:23
 **Released:** 2026-01-05 16:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost) 
-
-**Released:** 2026-01-01 12:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d32412a1-6287-4283-8b3d-38a24ed25c20.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,6 +221,60 @@ Last updated: 2026-01-08 01:05:23
 **Released:** 2026-01-02 08:35:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Growing Pains: The Moth Radio Hour
+
+**Released:** 2026-01-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
+
+---
+
+### New Year, New Leaf: The Moth Podcast
+
+**Released:** 2026-01-02 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Chelsea Handler"
+
+**Released:** 2026-01-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
+
+---
+
+### "Ricky Gervais"
+
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
