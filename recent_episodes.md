@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-09 01:05:47
+Last updated: 2026-01-09 12:28:18
 
 ## Freakonomics Radio
 
-### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+### 658. This Is Your Brain on Supplements
 
-**Released:** 2026-01-02 11:00:00
+**Released:** 2026-01-09 11:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2fb10f39-a66e-45c0-a249-8fa3f10276a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2fb10f39-a66e-45c0-a249-8fa3f10276a9&feed=Y8lFbOT4)
 
 ---
 
@@ -82,16 +82,6 @@ Last updated: 2026-01-09 01:05:47
 
 ---
 
-## The Joe Rogan Experience
-
-### #2434 - Kurt Metzger
-
-**Released:** 2026-01-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
-
----
-
 ## Stuff You Should Know
 
 ### The SAD Episode
@@ -126,6 +116,16 @@ Last updated: 2026-01-09 01:05:47
 
 ---
 
+## Hidden Brain
+
+### You 2.0: Cultivating Courage
+
+**Released:** 2026-01-05 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### Mini-Stories: Volume 22
@@ -136,13 +136,13 @@ Last updated: 2026-01-09 01:05:47
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### You 2.0: Cultivating Courage
+### #2434 - Kurt Metzger
 
-**Released:** 2026-01-05 20:00:00
+**Released:** 2026-01-06 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
 
 ---
 
@@ -164,6 +164,24 @@ Last updated: 2026-01-09 01:05:47
 
 ---
 
+## The Moth
+
+### TV Dreams: The Moth Podcast
+
+**Released:** 2026-01-09 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
+
+---
+
+### Growing Pains: The Moth Radio Hour
+
+**Released:** 2026-01-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
@@ -182,43 +200,15 @@ Last updated: 2026-01-09 01:05:47
 
 ---
 
-## The Moth
-
-### Growing Pains: The Moth Radio Hour
-
-**Released:** 2026-01-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
-
----
-
-### New Year, New Leaf: The Moth Podcast
-
-**Released:** 2026-01-02 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4237379288.mp3?updated=1765991225)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Jazz Singer
-
-**Released:** 2026-01-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
-
----
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Party Gone Wrong
+
+**Released:** 2026-01-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Walter Isaacson Returns (biographer & historian)
 
@@ -233,14 +223,6 @@ Last updated: 2026-01-09 01:05:47
 **Released:** 2026-01-05 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rerelease: Walton Goggins
-
-**Released:** 2026-01-02 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -259,6 +241,24 @@ Last updated: 2026-01-09 01:05:47
 **Released:** 2026-01-05 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
 
 ---
 
