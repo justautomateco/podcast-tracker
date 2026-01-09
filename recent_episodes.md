@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-08 12:29:10
+Last updated: 2026-01-09 01:05:47
+
+## Freakonomics Radio
+
+### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+
+**Released:** 2026-01-02 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Is inviting everyone to the meeting holding back global cooperation? | Qahir Dhanani
+
+**Released:** 2026-01-08 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695eae96a32e86d775861720/media.mp3)
+
+---
 
 ### How to introduce yourself — and get hired | Rebecca Okamoto
 
@@ -36,21 +54,21 @@ Last updated: 2026-01-08 12:29:10
 
 ---
 
-### Interview: What happens in your brain when you pay attention? with Dr. Sasha Hamdani | from TED Health
+## Planet Money
 
-**Released:** 2026-01-03 16:00:00
+### How Black hair care grew Black power
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496f9e9ff9a18986dd2b85/media.mp3)
+**Released:** 2026-01-07 19:38:35
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
 
 ---
 
-## Freakonomics Radio
+### Venezuela’s recent economic history (Update)
 
-### Are Personal Finance Gurus Giving You Bad Advice? (Update)
+**Released:** 2026-01-04 18:07:54
 
-**Released:** 2026-01-02 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3e3c1f81-4546-4574-be45-cef93d0d9952/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3e3c1f81-4546-4574-be45-cef93d0d9952&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896)
 
 ---
 
@@ -61,6 +79,16 @@ Last updated: 2026-01-08 12:29:10
 **Released:** 2026-01-04 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2434 - Kurt Metzger
+
+**Released:** 2026-01-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
 
 ---
 
@@ -98,47 +126,13 @@ Last updated: 2026-01-08 12:29:10
 
 ---
 
-### TV Moments That Changed The World
+## 99% Invisible
 
-**Released:** 2026-01-01 23:35:46
+### Mini-Stories: Volume 22
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab65394d-2b55-4adc-9258-b3c501808e0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-01-06 18:15:00
 
----
-
-## Planet Money
-
-### How Black hair care grew Black power
-
-**Released:** 2026-01-07 19:38:35
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
-
----
-
-### Venezuela’s recent economic history (Update)
-
-**Released:** 2026-01-04 18:07:54
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896)
-
----
-
-## The Joe Rogan Experience
-
-### #2434 - Kurt Metzger
-
-**Released:** 2026-01-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
-
----
-
-### JRE MMA Show #172 with Gable Steveson
-
-**Released:** 2026-01-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8309820648.mp3?updated=1767287242)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
 
 ---
 
@@ -149,16 +143,6 @@ Last updated: 2026-01-08 12:29:10
 **Released:** 2026-01-05 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 22
-
-**Released:** 2026-01-06 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
 
 ---
 
@@ -198,32 +182,6 @@ Last updated: 2026-01-08 12:29:10
 
 ---
 
-## Armchair Expert
-
-### Walter Isaacson Returns (biographer & historian)
-
-**Released:** 2026-01-07 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Cher
-
-**Released:** 2026-01-05 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rerelease: Walton Goggins
-
-**Released:** 2026-01-02 08:35:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Growing Pains: The Moth Radio Hour
@@ -257,6 +215,32 @@ Last updated: 2026-01-08 12:29:10
 **Released:** 2026-01-05 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Walter Isaacson Returns (biographer & historian)
+
+**Released:** 2026-01-07 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Cher
+
+**Released:** 2026-01-05 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Rerelease: Walton Goggins
+
+**Released:** 2026-01-02 08:35:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9ce33ad4-88cd-442c-b24f-3dfe96e8cda0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
