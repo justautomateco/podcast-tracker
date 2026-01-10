@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-09 12:28:18
+Last updated: 2026-01-10 01:03:21
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-01-09 12:28:18
 ---
 
 ## TED Talks Daily
+
+### Why I spend hours sketching in conflict zones | George Butler
+
+**Released:** 2026-01-09 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693c3eda41eacf5e812bcd4f/media.mp3)
+
+---
 
 ### Is inviting everyone to the meeting holding back global cooperation? | Qahir Dhanani
 
@@ -46,11 +54,13 @@ Last updated: 2026-01-09 12:28:18
 
 ---
 
-### Sunday Pick: Building atomic habits with James Clear | from ReThinking with Adam Grant
+## This American Life
 
-**Released:** 2026-01-04 07:00:00
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69496fe6f756711739d0ff92/media.mp3)
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -72,13 +82,41 @@ Last updated: 2026-01-09 12:28:18
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+### #2435 - Bradley Cooper
 
-**Released:** 2026-01-04 18:00:00
+**Released:** 2026-01-09 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6828862017.mp3?updated=1767978659)
+
+---
+
+### #2434 - Kurt Metzger
+
+**Released:** 2026-01-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
+
+---
+
+## Hidden Brain
+
+### You 2.0: Cultivating Courage
+
+**Released:** 2026-01-05 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Mini-Stories: Volume 22
+
+**Released:** 2026-01-06 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
 
 ---
 
@@ -116,36 +154,6 @@ Last updated: 2026-01-09 12:28:18
 
 ---
 
-## Hidden Brain
-
-### You 2.0: Cultivating Courage
-
-**Released:** 2026-01-05 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Mini-Stories: Volume 22
-
-**Released:** 2026-01-06 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2434 - Kurt Metzger
-
-**Released:** 2026-01-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5260975829.mp3?updated=1767718752)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jack Conte of Patreon (December 2024)
@@ -161,6 +169,24 @@ Last updated: 2026-01-09 12:28:18
 **Released:** 2026-01-05 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
+
+**Released:** 2026-01-07 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/488629b4-0090-4eed-a5bb-6f57ae38326f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #844: Be Still — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -182,21 +208,21 @@ Last updated: 2026-01-09 12:28:18
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
+### "RE-RELEASE: Chelsea Handler"
 
-**Released:** 2026-01-07 00:00:00
+**Released:** 2026-01-08 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/488629b4-0090-4eed-a5bb-6f57ae38326f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
 
 ---
 
-### #844: Be Still — Guided Meditation with Zen Master Henry Shukman
+### "Ricky Gervais"
 
-**Released:** 2026-01-05 16:00:00
+**Released:** 2026-01-05 08:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
@@ -223,24 +249,6 @@ Last updated: 2026-01-09 12:28:18
 **Released:** 2026-01-05 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Chelsea Handler"
-
-**Released:** 2026-01-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
-
----
-
-### "Ricky Gervais"
-
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
