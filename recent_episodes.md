@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-10 01:03:21
+Last updated: 2026-01-10 12:24:12
 
 ## Freakonomics Radio
 
@@ -54,17 +54,15 @@ Last updated: 2026-01-10 01:03:21
 
 ---
 
-## This American Life
+## Planet Money
 
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+### So are we in an AI bubble? Here are clues to look for.
 
-**Released:** 2026-01-04 18:00:00
+**Released:** 2026-01-10 02:03:46
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
 
 ---
-
-## Planet Money
 
 ### How Black hair care grew Black power
 
@@ -79,6 +77,16 @@ Last updated: 2026-01-10 01:03:21
 **Released:** 2026-01-04 18:07:54
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896)
+
+---
+
+## This American Life
+
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+
+**Released:** 2026-01-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -110,17 +118,15 @@ Last updated: 2026-01-10 01:03:21
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Mini-Stories: Volume 22
+### Selects: How Forgiveness Works
 
-**Released:** 2026-01-06 18:15:00
+**Released:** 2026-01-10 10:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/41242e7e-ddfd-41aa-a131-b3ca012d0bf4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### The SAD Episode
 
@@ -146,11 +152,13 @@ Last updated: 2026-01-10 01:03:21
 
 ---
 
-### Selects: MC Escher and His Trippy Art
+## 99% Invisible
 
-**Released:** 2026-01-03 10:00:00
+### Mini-Stories: Volume 22
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0dcf990-3c2c-4511-9888-b3c300f07e3a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-01-06 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
 
 ---
 
@@ -208,6 +216,24 @@ Last updated: 2026-01-10 01:03:21
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Chelsea Handler"
@@ -249,24 +275,6 @@ Last updated: 2026-01-10 01:03:21
 **Released:** 2026-01-05 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Jazz Singer
-
-**Released:** 2026-01-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
-
----
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
 
 ---
 
