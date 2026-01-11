@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-10 12:24:12
+Last updated: 2026-01-11 01:11:46
 
 ## Freakonomics Radio
 
@@ -13,6 +13,22 @@ Last updated: 2026-01-10 12:24:12
 ---
 
 ## TED Talks Daily
+
+### Silence, the universal medicine | Pico Iyer
+
+**Released:** 2026-01-10 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695d30e7cff5303b49fec598/media.mp3)
+
+---
+
+### Beyond the Talk: Pico Iyer on silence and stillness
+
+**Released:** 2026-01-10 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695fed993b4587aaa3444dda/media.mp3)
+
+---
 
 ### Why I spend hours sketching in conflict zones | George Butler
 
@@ -38,19 +54,13 @@ Last updated: 2026-01-10 12:24:12
 
 ---
 
-### The biggest global risks for 2026 | Ian Bremmer
+## This American Life
 
-**Released:** 2026-01-06 21:00:00
+### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695d76e18e6dd12efb11ed6f/media.mp3)
+**Released:** 2026-01-04 18:00:00
 
----
-
-### Sitting all day is killing you — here's what to do about it | Manoush Zomorodi
-
-**Released:** 2026-01-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6943060a56694f2c88462ab9/media.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
 
 ---
 
@@ -80,17 +90,15 @@ Last updated: 2026-01-10 12:24:12
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
+### #2436 - Whitney Cummings
 
-**Released:** 2026-01-04 18:00:00
+**Released:** 2026-01-10 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9600358790.mp3?updated=1768070220)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2435 - Bradley Cooper
 
@@ -115,6 +123,16 @@ Last updated: 2026-01-10 12:24:12
 **Released:** 2026-01-05 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d098ccc8-8c34-43a7-9e68-138a11a02b83/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d098ccc8-8c34-43a7-9e68-138a11a02b83&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Mini-Stories: Volume 22
+
+**Released:** 2026-01-06 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
 
 ---
 
@@ -152,16 +170,6 @@ Last updated: 2026-01-10 12:24:12
 
 ---
 
-## 99% Invisible
-
-### Mini-Stories: Volume 22
-
-**Released:** 2026-01-06 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jack Conte of Patreon (December 2024)
@@ -180,21 +188,29 @@ Last updated: 2026-01-10 12:24:12
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
+### Armchair Anonymous: Party Gone Wrong
 
-**Released:** 2026-01-07 00:00:00
+**Released:** 2026-01-09 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/488629b4-0090-4eed-a5bb-6f57ae38326f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### #844: Be Still — Guided Meditation with Zen Master Henry Shukman
+### Walter Isaacson Returns (biographer & historian)
 
-**Released:** 2026-01-05 16:00:00
+**Released:** 2026-01-07 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Cher
+
+**Released:** 2026-01-05 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,29 +268,21 @@ Last updated: 2026-01-10 12:24:12
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Armchair Anonymous: Party Gone Wrong
+### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
 
-**Released:** 2026-01-09 08:30:00
+**Released:** 2026-01-07 00:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Walter Isaacson Returns (biographer & historian)
-
-**Released:** 2026-01-07 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/488629b4-0090-4eed-a5bb-6f57ae38326f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Cher
+### #844: Be Still — Guided Meditation with Zen Master Henry Shukman
 
-**Released:** 2026-01-05 08:30:00
+**Released:** 2026-01-05 16:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
