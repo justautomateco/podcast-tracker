@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-12 01:08:37
+Last updated: 2026-01-12 12:30:12
 
 ## Freakonomics Radio
 
@@ -69,6 +69,16 @@ Last updated: 2026-01-12 01:08:37
 **Released:** 2026-01-07 19:38:35
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
+
+---
+
+## This American Life
+
+### 878: New Lore Drop
+
+**Released:** 2026-01-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
 
 ---
 
@@ -152,93 +162,21 @@ Last updated: 2026-01-12 01:08:37
 
 ---
 
-## This American Life
+## How I Built This
 
-### 878: New Lore Drop
+### La Colombe Coffee Roasters: Todd Carmichael and J.P. Iberti. A Brotherhood Built on Coffee (2020) 
 
-**Released:** 2026-01-11 18:00:00
+**Released:** 2026-01-12 08:10:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93128a2-8415-4234-93e0-0211edcbee28.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Advice Line with Jack Conte of Patreon (December 2024)
 
 **Released:** 2026-01-08 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d3b52293-6827-403d-a4a4-6c6ec5710ef0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)
-
-**Released:** 2026-01-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Jazz Singer
-
-**Released:** 2026-01-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
-
----
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Chelsea Handler"
-
-**Released:** 2026-01-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
-
----
-
-### "Ricky Gervais"
-
-**Released:** 2026-01-05 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Party Gone Wrong
-
-**Released:** 2026-01-09 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Walter Isaacson Returns (biographer & historian)
-
-**Released:** 2026-01-07 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Cher
-
-**Released:** 2026-01-05 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -275,6 +213,68 @@ Last updated: 2026-01-12 01:08:37
 **Released:** 2026-01-06 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
+
+---
+
+## Armchair Expert
+
+### Kumail Nanjiani Returns
+
+**Released:** 2026-01-12 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Party Gone Wrong
+
+**Released:** 2026-01-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Walter Isaacson Returns (biographer & historian)
+
+**Released:** 2026-01-07 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Jennifer Lawrence"
+
+**Released:** 2026-01-12 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Chelsea Handler"
+
+**Released:** 2026-01-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matt Damon
+
+**Released:** 2026-01-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
+
+---
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
 
 ---
 

@@ -56,6 +56,13 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "46084 at https://www.thisamericanlife.org",
+    "episode_title": "878: New Lore Drop",
+    "release_date": "2026-01-11 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "988ef27e-edcd-11f0-a9b3-c3c37c73c5fe",
     "episode_title": "#2436 - Whitney Cummings",
     "release_date": "2026-01-10 18:00:00",
@@ -119,11 +126,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "46084 at https://www.thisamericanlife.org",
-    "episode_title": "878: New Lore Drop",
-    "release_date": "2026-01-11 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3",
-    "podcast_name": "This American Life"
+    "guid": "gid://art19-episode-locator/V0/xpnbwlWJ0QpfC-ezTY9mpfl-BghGe9OJ0d7FTaL3CQE",
+    "episode_title": "La Colombe Coffee Roasters: Todd Carmichael and J.P. Iberti. A Brotherhood Built on Coffee (2020) ",
+    "release_date": "2026-01-12 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/a93128a2-8415-4234-93e0-0211edcbee28.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/EiFFogsXWkCGSlT51nIjnfrmw4alBARc4xUwSkvOpy4",
@@ -131,62 +138,6 @@
     "release_date": "2026-01-08 08:10:00",
     "mp3_url": "https://rss.art19.com/episodes/d3b52293-6827-403d-a4a4-6c6ec5710ef0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/2rIoB7OzThyKl4w3WvXt18RunNAGc0gka035pJT1mIk",
-    "episode_title": "Dollar Shave Club: Michael Dubin, From Zero to a Billion Dollar Exit in Five Years (December 2018)",
-    "release_date": "2026-01-05 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "9ddf7272-f9ec-48f2-9e13-063f6c5a1c34",
-    "episode_title": "The Jazz Singer",
-    "release_date": "2026-01-08 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "da575b4c-af92-451f-8c1b-f4ff92b0d004",
-    "episode_title": "D'Arcy Carden Returns",
-    "release_date": "2026-01-05 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "9fc6fac0-c5d0-4205-b483-fe85d76f2c0a",
-    "episode_title": "\"RE-RELEASE: Chelsea Handler\"",
-    "release_date": "2026-01-08 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "5783aa6c-5b1a-4c6f-b43b-d90656a61923",
-    "episode_title": "\"Ricky Gervais\"",
-    "release_date": "2026-01-05 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/YIGudX9FarMezu9jZueZp_WZhpZAAX3yStl0GiZGeMY",
-    "episode_title": "Armchair Anonymous: Party Gone Wrong",
-    "release_date": "2026-01-09 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Uv9eDC2VCPC-7VKvIiKhh9mTgP121PIZuq56t-QPdY0",
-    "episode_title": "Walter Isaacson Returns (biographer & historian)",
-    "release_date": "2026-01-07 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Wo-S4X1wjAZu61xxEPMpksbJ5-Yggieukpx9FfyxLYg",
-    "episode_title": "Cher",
-    "release_date": "2026-01-05 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/daa63808-9d28-4c42-ae42-08b6ef336382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/ZDVMdqF4qDvaAInQCVVXiNuQzXi0XiwxmjXXY5tcNZU",
@@ -215,5 +166,54 @@
     "release_date": "2026-01-06 05:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gaqWzfr6DhZ5ZfDAUxbPamz2ufLdxKIzKzjursGaa3A",
+    "episode_title": "Kumail Nanjiani Returns",
+    "release_date": "2026-01-12 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/YIGudX9FarMezu9jZueZp_WZhpZAAX3yStl0GiZGeMY",
+    "episode_title": "Armchair Anonymous: Party Gone Wrong",
+    "release_date": "2026-01-09 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Uv9eDC2VCPC-7VKvIiKhh9mTgP121PIZuq56t-QPdY0",
+    "episode_title": "Walter Isaacson Returns (biographer & historian)",
+    "release_date": "2026-01-07 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "7c241baf-db74-4835-aa4a-1958e2b557ea",
+    "episode_title": "\"Jennifer Lawrence\"",
+    "release_date": "2026-01-12 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "9fc6fac0-c5d0-4205-b483-fe85d76f2c0a",
+    "episode_title": "\"RE-RELEASE: Chelsea Handler\"",
+    "release_date": "2026-01-08 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "fc816cfc-d334-4946-a7aa-4585f31fb140",
+    "episode_title": "Matt Damon",
+    "release_date": "2026-01-12 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "9ddf7272-f9ec-48f2-9e13-063f6c5a1c34",
+    "episode_title": "The Jazz Singer",
+    "release_date": "2026-01-08 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
