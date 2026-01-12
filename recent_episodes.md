@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-11 12:25:45
+Last updated: 2026-01-12 01:08:37
 
 ## Freakonomics Radio
 
@@ -54,16 +54,6 @@ Last updated: 2026-01-11 12:25:45
 
 ---
 
-## This American Life
-
-### 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**Released:** 2026-01-04 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
-
----
-
 ## Planet Money
 
 ### So are we in an AI bubble? Here are clues to look for.
@@ -79,14 +69,6 @@ Last updated: 2026-01-11 12:25:45
 **Released:** 2026-01-07 19:38:35
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
-
----
-
-### Venezuela’s recent economic history (Update)
-
-**Released:** 2026-01-04 18:07:54
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896)
 
 ---
 
@@ -126,16 +108,6 @@ Last updated: 2026-01-11 12:25:45
 
 ---
 
-## 99% Invisible
-
-### Mini-Stories: Volume 22
-
-**Released:** 2026-01-06 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Forgiveness Works
@@ -170,6 +142,26 @@ Last updated: 2026-01-11 12:25:45
 
 ---
 
+## 99% Invisible
+
+### Mini-Stories: Volume 22
+
+**Released:** 2026-01-06 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/15d3a546-ee66-44c4-a017-dbf71572a459/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=15d3a546-ee66-44c4-a017-dbf71572a459&feed=BqbsxVfO)
+
+---
+
+## This American Life
+
+### 878: New Lore Drop
+
+**Released:** 2026-01-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Jack Conte of Patreon (December 2024)
@@ -185,6 +177,42 @@ Last updated: 2026-01-11 12:25:45
 **Released:** 2026-01-05 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/27357d35-ec2a-4358-a102-51517c90e059.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+
+---
+
+### D'Arcy Carden Returns
+
+**Released:** 2026-01-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Chelsea Handler"
+
+**Released:** 2026-01-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
+
+---
+
+### "Ricky Gervais"
+
+**Released:** 2026-01-05 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
 
 ---
 
@@ -214,42 +242,6 @@ Last updated: 2026-01-11 12:25:45
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### The Jazz Singer
-
-**Released:** 2026-01-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
-
----
-
-### D'Arcy Carden Returns
-
-**Released:** 2026-01-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0381c54-dd74-4251-855b-9d43c1d0654b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0381c54-dd74-4251-855b-9d43c1d0654b&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### TV Dreams: The Moth Podcast
-
-**Released:** 2026-01-09 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
-
----
-
-### Growing Pains: The Moth Radio Hour
-
-**Released:** 2026-01-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
-
----
-
 ## The Tim Ferriss Show
 
 ### #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
@@ -268,21 +260,21 @@ Last updated: 2026-01-11 12:25:45
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "RE-RELEASE: Chelsea Handler"
+### TV Dreams: The Moth Podcast
 
-**Released:** 2026-01-08 08:00:00
+**Released:** 2026-01-09 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
 
 ---
 
-### "Ricky Gervais"
+### Growing Pains: The Moth Radio Hour
 
-**Released:** 2026-01-05 08:01:00
+**Released:** 2026-01-06 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7ae2fc71-aa1c-45fc-b571-b243c707faa6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7ae2fc71-aa1c-45fc-b571-b243c707faa6&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9589588619.mp3?updated=1767399544)
 
 ---
 
