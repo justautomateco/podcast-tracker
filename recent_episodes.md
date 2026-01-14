@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-14 01:07:37
+Last updated: 2026-01-14 12:28:59
 
 ## Freakonomics Radio
 
@@ -9,6 +9,24 @@ Last updated: 2026-01-14 01:07:37
 **Released:** 2026-01-09 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2fb10f39-a66e-45c0-a249-8fa3f10276a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2fb10f39-a66e-45c0-a249-8fa3f10276a9&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### The Americans Outside My Window
+
+**Released:** 2026-01-12 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
+
+---
+
+### 878: New Lore Drop
+
+**Released:** 2026-01-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
 
 ---
 
@@ -54,42 +72,6 @@ Last updated: 2026-01-14 01:07:37
 
 ---
 
-## Planet Money
-
-### So are we in an AI bubble? Here are clues to look for.
-
-**Released:** 2026-01-10 02:03:46
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
-
----
-
-### How Black hair care grew Black power
-
-**Released:** 2026-01-07 19:38:35
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
-
----
-
-## This American Life
-
-### The Americans Outside My Window
-
-**Released:** 2026-01-12 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
-
----
-
-### 878: New Lore Drop
-
-**Released:** 2026-01-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: How to Get Out of a Rut
@@ -97,6 +79,16 @@ Last updated: 2026-01-14 01:07:37
 **Released:** 2026-01-12 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/40c0a74d-25ec-4931-b279-b5e824f0d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=40c0a74d-25ec-4931-b279-b5e824f0d206&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Exit Interview With Michael Bierut
+
+**Released:** 2026-01-13 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
 
 ---
 
@@ -126,17 +118,41 @@ Last updated: 2026-01-14 01:07:37
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### Exit Interview With Michael Bierut
+### How much money President Trump and his family have made
 
-**Released:** 2026-01-13 18:15:00
+**Released:** 2026-01-14 08:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+
+---
+
+### So are we in an AI bubble? Here are clues to look for.
+
+**Released:** 2026-01-10 02:03:46
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
+
+---
+
+### How Black hair care grew Black power
+
+**Released:** 2026-01-07 19:38:35
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Did a vampire legend help win the Cold War?
+
+**Released:** 2026-01-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Doin’ Science in the National Radio Quiet Zone
 
@@ -159,14 +175,6 @@ Last updated: 2026-01-14 01:07:37
 **Released:** 2026-01-08 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c2cf4e7b-3925-46bc-93cf-b3cc001f1326/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Neighborhood Watch
-
-**Released:** 2026-01-07 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/335d8377-8731-4140-967f-b3a100eade4d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -244,6 +252,14 @@ Last updated: 2026-01-14 01:07:37
 
 ## The Tim Ferriss Show
 
+### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
+
+**Released:** 2026-01-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
 
 **Released:** 2026-01-12 15:00:00
@@ -253,6 +269,14 @@ Last updated: 2026-01-14 01:07:37
 ---
 
 ## Armchair Expert
+
+### David McWilliams (on the history of money)
+
+**Released:** 2026-01-14 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Kumail Nanjiani Returns
 
@@ -267,14 +291,6 @@ Last updated: 2026-01-14 01:07:37
 **Released:** 2026-01-09 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Walter Isaacson Returns (biographer & historian)
-
-**Released:** 2026-01-07 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f7d4dd1-d46d-4b9b-8e85-1e14349b66d7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
