@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-14 12:28:59
+Last updated: 2026-01-15 01:03:48
 
 ## Freakonomics Radio
 
@@ -12,25 +12,15 @@ Last updated: 2026-01-14 12:28:59
 
 ---
 
-## This American Life
-
-### The Americans Outside My Window
-
-**Released:** 2026-01-12 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
-
----
-
-### 878: New Lore Drop
-
-**Released:** 2026-01-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
-
----
-
 ## TED Talks Daily
+
+### Let's build AI data centers in space | Philip Johnston
+
+**Released:** 2026-01-14 16:01:32
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69667183d6e0ec6b28265c17/media.mp3)
+
+---
 
 ### Can you picture things in your mind? I can't | Alex Rosenthal
 
@@ -64,83 +54,21 @@ Last updated: 2026-01-14 12:28:59
 
 ---
 
-### Beyond the Talk: Pico Iyer on silence and stillness
+## This American Life
 
-**Released:** 2026-01-10 16:00:00
+### The Americans Outside My Window
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/695fed993b4587aaa3444dda/media.mp3)
+**Released:** 2026-01-12 00:00:00
 
----
-
-## Hidden Brain
-
-### You 2.0: How to Get Out of a Rut
-
-**Released:** 2026-01-12 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/40c0a74d-25ec-4931-b279-b5e824f0d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=40c0a74d-25ec-4931-b279-b5e824f0d206&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
 
 ---
 
-## 99% Invisible
+### 878: New Lore Drop
 
-### Exit Interview With Michael Bierut
+**Released:** 2026-01-11 18:00:00
 
-**Released:** 2026-01-13 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2437 - Rand Paul
-
-**Released:** 2026-01-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949)
-
----
-
-### #2436 - Whitney Cummings
-
-**Released:** 2026-01-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9600358790.mp3?updated=1768070220)
-
----
-
-### #2435 - Bradley Cooper
-
-**Released:** 2026-01-09 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6828862017.mp3?updated=1767978659)
-
----
-
-## Planet Money
-
-### How much money President Trump and his family have made
-
-**Released:** 2026-01-14 08:30:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
-
----
-
-### So are we in an AI bubble? Here are clues to look for.
-
-**Released:** 2026-01-10 02:03:46
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
-
----
-
-### How Black hair care grew Black power
-
-**Released:** 2026-01-07 19:38:35
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8403402364.mp3?t=podcast&e=nx-s1-5669460&p=510289&d=1756&size=28112022)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
 
 ---
 
@@ -178,6 +106,78 @@ Last updated: 2026-01-14 12:28:59
 
 ---
 
+## Hidden Brain
+
+### You 2.0: How to Get Out of a Rut
+
+**Released:** 2026-01-12 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/40c0a74d-25ec-4931-b279-b5e824f0d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=40c0a74d-25ec-4931-b279-b5e824f0d206&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### How much money President Trump and his family have made
+
+**Released:** 2026-01-14 08:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+
+---
+
+### So are we in an AI bubble? Here are clues to look for.
+
+**Released:** 2026-01-10 02:03:46
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
+
+---
+
+## The Joe Rogan Experience
+
+### #2438 - John Mellencamp
+
+**Released:** 2026-01-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338)
+
+---
+
+### #2437 - Rand Paul
+
+**Released:** 2026-01-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949)
+
+---
+
+### #2436 - Whitney Cummings
+
+**Released:** 2026-01-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9600358790.mp3?updated=1768070220)
+
+---
+
+### #2435 - Bradley Cooper
+
+**Released:** 2026-01-09 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6828862017.mp3?updated=1767978659)
+
+---
+
+## 99% Invisible
+
+### Exit Interview With Michael Bierut
+
+**Released:** 2026-01-13 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### La Colombe Coffee Roasters: Todd Carmichael and J.P. Iberti. A Brotherhood Built on Coffee (2020) 
@@ -193,6 +193,50 @@ Last updated: 2026-01-14 12:28:59
 **Released:** 2026-01-08 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d3b52293-6827-403d-a4a4-6c6ec5710ef0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matt Damon
+
+**Released:** 2026-01-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
+
+---
+
+### The Jazz Singer
+
+**Released:** 2026-01-08 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### David McWilliams (on the history of money)
+
+**Released:** 2026-01-14 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kumail Nanjiani Returns
+
+**Released:** 2026-01-12 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Party Gone Wrong
+
+**Released:** 2026-01-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -232,24 +276,6 @@ Last updated: 2026-01-14 12:28:59
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Matt Damon
-
-**Released:** 2026-01-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
-
----
-
-### The Jazz Singer
-
-**Released:** 2026-01-08 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
-
----
-
 ## The Tim Ferriss Show
 
 ### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
@@ -265,32 +291,6 @@ Last updated: 2026-01-14 12:28:59
 **Released:** 2026-01-12 15:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### David McWilliams (on the history of money)
-
-**Released:** 2026-01-14 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kumail Nanjiani Returns
-
-**Released:** 2026-01-12 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Party Gone Wrong
-
-**Released:** 2026-01-09 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
