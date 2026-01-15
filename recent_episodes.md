@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-15 01:03:48
-
-## Freakonomics Radio
-
-### 658. This Is Your Brain on Supplements
-
-**Released:** 2026-01-09 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2fb10f39-a66e-45c0-a249-8fa3f10276a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2fb10f39-a66e-45c0-a249-8fa3f10276a9&feed=Y8lFbOT4)
-
----
+Last updated: 2026-01-15 12:28:25
 
 ## TED Talks Daily
 
@@ -72,37 +62,13 @@ Last updated: 2026-01-15 01:03:48
 
 ---
 
-## Stuff You Should Know
+## Freakonomics Radio
 
-### Short Stuff: Did a vampire legend help win the Cold War?
+### 658. This Is Your Brain on Supplements
 
-**Released:** 2026-01-14 10:00:00
+**Released:** 2026-01-09 11:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Doin’ Science in the National Radio Quiet Zone
-
-**Released:** 2026-01-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Forgiveness Works
-
-**Released:** 2026-01-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/41242e7e-ddfd-41aa-a131-b3ca012d0bf4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The SAD Episode
-
-**Released:** 2026-01-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c2cf4e7b-3925-46bc-93cf-b3cc001f1326/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2fb10f39-a66e-45c0-a249-8fa3f10276a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2fb10f39-a66e-45c0-a249-8fa3f10276a9&feed=Y8lFbOT4)
 
 ---
 
@@ -178,7 +144,49 @@ Last updated: 2026-01-15 01:03:48
 
 ---
 
+## Stuff You Should Know
+
+### Data Centers: Can't Live With Em, Can't Live Without Em
+
+**Released:** 2026-01-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Did a vampire legend help win the Cold War?
+
+**Released:** 2026-01-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Doin’ Science in the National Radio Quiet Zone
+
+**Released:** 2026-01-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Forgiveness Works
+
+**Released:** 2026-01-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/41242e7e-ddfd-41aa-a131-b3ca012d0bf4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## How I Built This
+
+### Advice Line with Neil Blumenthal of Warby Parker
+
+**Released:** 2026-01-15 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### La Colombe Coffee Roasters: Todd Carmichael and J.P. Iberti. A Brotherhood Built on Coffee (2020) 
 
@@ -188,29 +196,39 @@ Last updated: 2026-01-15 01:03:48
 
 ---
 
-### Advice Line with Jack Conte of Patreon (December 2024)
+## The Moth
 
-**Released:** 2026-01-08 08:10:00
+### Starting Over: The Moth Radio Hour
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d3b52293-6827-403d-a4a4-6c6ec5710ef0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-01-13 05:25:00
 
----
-
-## Conan O'Brien Needs A Friend
-
-### Matt Damon
-
-**Released:** 2026-01-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
 
 ---
 
-### The Jazz Singer
+### TV Dreams: The Moth Podcast
 
-**Released:** 2026-01-08 05:05:00
+**Released:** 2026-01-09 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/650f4588-1e3d-49df-a137-00b4afcb38c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=650f4588-1e3d-49df-a137-00b4afcb38c5&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
+
+---
+
+## The Tim Ferriss Show
+
+### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
+
+**Released:** 2026-01-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,24 +258,6 @@ Last updated: 2026-01-15 01:03:48
 
 ---
 
-## The Moth
-
-### Starting Over: The Moth Radio Hour
-
-**Released:** 2026-01-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
-
----
-
-### TV Dreams: The Moth Podcast
-
-**Released:** 2026-01-09 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
-
----
-
 ## SmartLess 
 
 ### "Jennifer Lawrence"
@@ -268,29 +268,21 @@ Last updated: 2026-01-15 01:03:48
 
 ---
 
-### "RE-RELEASE: Chelsea Handler"
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-01-08 08:00:00
+### Bley’s Fastballs Part I
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/75c7e11e-dc35-42ad-8906-449237a6e46e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=75c7e11e-dc35-42ad-8906-449237a6e46e&feed=hNaFxXpO)
+**Released:** 2026-01-15 05:05:00
 
----
-
-## The Tim Ferriss Show
-
-### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
-
-**Released:** 2026-01-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH)
 
 ---
 
-### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
+### Matt Damon
 
-**Released:** 2026-01-12 15:00:00
+**Released:** 2026-01-12 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
 
 ---
 
