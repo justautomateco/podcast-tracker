@@ -1,32 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-16 01:06:07
+Last updated: 2026-01-16 12:27:55
 
 ## Freakonomics Radio
 
-### 658. This Is Your Brain on Supplements
+### 659. Can Marty Makary Fix the F.D.A.?
 
-**Released:** 2026-01-09 11:00:00
+**Released:** 2026-01-16 11:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2fb10f39-a66e-45c0-a249-8fa3f10276a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2fb10f39-a66e-45c0-a249-8fa3f10276a9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### The Americans Outside My Window
-
-**Released:** 2026-01-12 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
-
----
-
-### 878: New Lore Drop
-
-**Released:** 2026-01-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
 
 ---
 
@@ -69,6 +51,24 @@ Last updated: 2026-01-16 01:06:07
 **Released:** 2026-01-11 07:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6961267823ce58f146155fb6/media.mp3)
+
+---
+
+## This American Life
+
+### The Americans Outside My Window
+
+**Released:** 2026-01-12 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
+
+---
+
+### 878: New Lore Drop
+
+**Released:** 2026-01-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
 
 ---
 
@@ -204,7 +204,33 @@ Last updated: 2026-01-16 01:06:07
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Bley’s Fastballs Part I
+
+**Released:** 2026-01-15 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH)
+
+---
+
+### Matt Damon
+
+**Released:** 2026-01-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
+
+---
+
 ## The Moth
+
+### The Moth Podcast: Apples and Bananas
+
+**Released:** 2026-01-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
+
+---
 
 ### Starting Over: The Moth Radio Hour
 
@@ -214,11 +240,21 @@ Last updated: 2026-01-16 01:06:07
 
 ---
 
-### TV Dreams: The Moth Podcast
+## SmartLess 
 
-**Released:** 2026-01-09 05:25:00
+### Introducing: CrimeLess
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2437852043.mp3?updated=1765827500)
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+
+---
+
+### "Jennifer Lawrence"
+
+**Released:** 2026-01-12 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
 
 ---
 
@@ -240,35 +276,15 @@ Last updated: 2026-01-16 01:06:07
 
 ---
 
-## SmartLess 
-
-### "Jennifer Lawrence"
-
-**Released:** 2026-01-12 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bley’s Fastballs Part I
-
-**Released:** 2026-01-15 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH)
-
----
-
-### Matt Damon
-
-**Released:** 2026-01-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Wild Card XI
+
+**Released:** 2026-01-16 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### David McWilliams (on the history of money)
 
@@ -283,14 +299,6 @@ Last updated: 2026-01-16 01:06:07
 **Released:** 2026-01-12 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Party Gone Wrong
-
-**Released:** 2026-01-09 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e638f14-f971-4871-ab98-f96b29cc8fb7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
