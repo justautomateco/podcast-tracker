@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-17 01:02:56
+Last updated: 2026-01-17 12:24:08
 
 ## Freakonomics Radio
 
@@ -74,53 +74,19 @@ Last updated: 2026-01-17 01:02:56
 
 ## Planet Money
 
+### Chevron, Venezuela and the Paradox of Plenty
+
+**Released:** 2026-01-17 03:58:28
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502)
+
+---
+
 ### How much money President Trump and his family have made
 
 **Released:** 2026-01-14 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
-
----
-
-### So are we in an AI bubble? Here are clues to look for.
-
-**Released:** 2026-01-10 02:03:46
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958)
-
----
-
-## Stuff You Should Know
-
-### Data Centers: Can't Live With Em, Can't Live Without Em
-
-**Released:** 2026-01-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Did a vampire legend help win the Cold War?
-
-**Released:** 2026-01-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Doin’ Science in the National Radio Quiet Zone
-
-**Released:** 2026-01-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Forgiveness Works
-
-**Released:** 2026-01-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/41242e7e-ddfd-41aa-a131-b3ca012d0bf4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -186,6 +152,40 @@ Last updated: 2026-01-17 01:02:56
 
 ---
 
+## Stuff You Should Know
+
+### Selects: BPD: The Worst Disorder or Not a Disorder at All?
+
+**Released:** 2026-01-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee435b21-6163-4c40-8ef9-b3cc013e70a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Data Centers: Can't Live With Em, Can't Live Without Em
+
+**Released:** 2026-01-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Did a vampire legend help win the Cold War?
+
+**Released:** 2026-01-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Doin’ Science in the National Radio Quiet Zone
+
+**Released:** 2026-01-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Neil Blumenthal of Warby Parker
@@ -204,21 +204,21 @@ Last updated: 2026-01-17 01:02:56
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### The Moth Podcast: Apples and Bananas
+### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
 
-**Released:** 2026-01-16 05:25:00
+**Released:** 2026-01-14 11:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Starting Over: The Moth Radio Hour
+### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
 
-**Released:** 2026-01-13 05:25:00
+**Released:** 2026-01-12 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -237,24 +237,6 @@ Last updated: 2026-01-17 01:02:56
 **Released:** 2026-01-12 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
-
----
-
-### "Jennifer Lawrence"
-
-**Released:** 2026-01-12 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
 
 ---
 
@@ -284,21 +266,39 @@ Last updated: 2026-01-17 01:02:56
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
+### Introducing: CrimeLess
 
-**Released:** 2026-01-14 11:00:00
+**Released:** 2026-01-16 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
 
 ---
 
-### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
+### "Jennifer Lawrence"
 
-**Released:** 2026-01-12 15:00:00
+**Released:** 2026-01-12 08:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### The Moth Podcast: Apples and Bananas
+
+**Released:** 2026-01-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
+
+---
+
+### Starting Over: The Moth Radio Hour
+
+**Released:** 2026-01-13 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
 
 ---
 
