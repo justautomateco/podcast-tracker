@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-18 01:10:51
+Last updated: 2026-01-18 12:25:02
 
 ## Freakonomics Radio
 
@@ -12,25 +12,15 @@ Last updated: 2026-01-18 01:10:51
 
 ---
 
-## This American Life
-
-### The Americans Outside My Window
-
-**Released:** 2026-01-12 00:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
-
----
-
-### 878: New Lore Drop
-
-**Released:** 2026-01-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
-
----
-
 ## TED Talks Daily
+
+### Sunday Pick: Interview: What happens to your brain without any social contact? with Dr. Vivek Murthy
+
+**Released:** 2026-01-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6969776917bb88de8d188926/media.mp3)
+
+---
 
 ### The art (and science) of stop-motion animation | Brian McLean
 
@@ -64,11 +54,21 @@ Last updated: 2026-01-18 01:10:51
 
 ---
 
-### Can you picture things in your mind? I can't | Alex Rosenthal
+## This American Life
 
-**Released:** 2026-01-13 16:07:46
+### The Americans Outside My Window
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69666b05eb641da7e24887b3/media.mp3)
+**Released:** 2026-01-12 00:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
+
+---
+
+### 878: New Lore Drop
+
+**Released:** 2026-01-11 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
 
 ---
 
@@ -87,6 +87,16 @@ Last updated: 2026-01-18 01:10:51
 **Released:** 2026-01-14 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+
+---
+
+## 99% Invisible
+
+### Exit Interview With Michael Bierut
+
+**Released:** 2026-01-13 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
 
 ---
 
@@ -168,16 +178,6 @@ Last updated: 2026-01-18 01:10:51
 
 ---
 
-## 99% Invisible
-
-### Exit Interview With Michael Bierut
-
-**Released:** 2026-01-13 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Neil Blumenthal of Warby Parker
@@ -196,6 +196,24 @@ Last updated: 2026-01-18 01:10:51
 
 ---
 
+## The Moth
+
+### The Moth Podcast: Apples and Bananas
+
+**Released:** 2026-01-16 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
+
+---
+
+### Starting Over: The Moth Radio Hour
+
+**Released:** 2026-01-13 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Bley’s Fastballs Part I
@@ -211,6 +229,24 @@ Last updated: 2026-01-18 01:10:51
 **Released:** 2026-01-12 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc66edff-2a8d-4cd5-9773-8c3cadc76c12/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc66edff-2a8d-4cd5-9773-8c3cadc76c12&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### Introducing: CrimeLess
+
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+
+---
+
+### "Jennifer Lawrence"
+
+**Released:** 2026-01-12 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
 
 ---
 
@@ -240,24 +276,6 @@ Last updated: 2026-01-18 01:10:51
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Apples and Bananas
-
-**Released:** 2026-01-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
-
----
-
-### Starting Over: The Moth Radio Hour
-
-**Released:** 2026-01-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
-
----
-
 ## The Tim Ferriss Show
 
 ### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
@@ -273,24 +291,6 @@ Last updated: 2026-01-18 01:10:51
 **Released:** 2026-01-12 15:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
-
----
-
-### "Jennifer Lawrence"
-
-**Released:** 2026-01-12 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
 
 ---
 
