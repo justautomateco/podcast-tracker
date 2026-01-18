@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-17 12:24:08
+Last updated: 2026-01-18 01:10:51
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2026-01-17 12:24:08
 ---
 
 ## TED Talks Daily
+
+### The art (and science) of stop-motion animation | Brian McLean
+
+**Released:** 2026-01-17 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6967c3f890f7d9d87fb04da8/media.mp3)
+
+---
 
 ### The brilliance of bacteria (and how they combat waste) | Patricia Aymà Maldonado
 
@@ -64,14 +72,6 @@ Last updated: 2026-01-17 12:24:08
 
 ---
 
-### What gets lost when we treat conversations like transactions | Khaya Dlanga
-
-**Released:** 2026-01-12 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/696519301f21449d6dcb24ff/media.mp3)
-
----
-
 ## Planet Money
 
 ### Chevron, Venezuela and the Paradox of Plenty
@@ -97,16 +97,6 @@ Last updated: 2026-01-17 12:24:08
 **Released:** 2026-01-12 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/40c0a74d-25ec-4931-b279-b5e824f0d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=40c0a74d-25ec-4931-b279-b5e824f0d206&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Exit Interview With Michael Bierut
-
-**Released:** 2026-01-13 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
 
 ---
 
@@ -144,14 +134,6 @@ Last updated: 2026-01-17 12:24:08
 
 ---
 
-### #2436 - Whitney Cummings
-
-**Released:** 2026-01-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9600358790.mp3?updated=1768070220)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: BPD: The Worst Disorder or Not a Disorder at All?
@@ -186,6 +168,16 @@ Last updated: 2026-01-17 12:24:08
 
 ---
 
+## 99% Invisible
+
+### Exit Interview With Michael Bierut
+
+**Released:** 2026-01-13 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Neil Blumenthal of Warby Parker
@@ -201,24 +193,6 @@ Last updated: 2026-01-17 12:24:08
 **Released:** 2026-01-12 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93128a2-8415-4234-93e0-0211edcbee28.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
-
-**Released:** 2026-01-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
-
-**Released:** 2026-01-12 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -266,24 +240,6 @@ Last updated: 2026-01-17 12:24:08
 
 ---
 
-## SmartLess 
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
-
----
-
-### "Jennifer Lawrence"
-
-**Released:** 2026-01-12 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
-
----
-
 ## The Moth
 
 ### The Moth Podcast: Apples and Bananas
@@ -299,6 +255,42 @@ Last updated: 2026-01-17 12:24:08
 **Released:** 2026-01-13 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4883575471.mp3?updated=1767991302)
+
+---
+
+## The Tim Ferriss Show
+
+### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
+
+**Released:** 2026-01-14 11:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### Introducing: CrimeLess
+
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+
+---
+
+### "Jennifer Lawrence"
+
+**Released:** 2026-01-12 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
 
 ---
 
