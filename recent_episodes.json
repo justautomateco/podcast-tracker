@@ -42,17 +42,10 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "46095 at https://www.thisamericanlife.org",
-    "episode_title": "The Americans Outside My Window",
-    "release_date": "2026-01-12 00:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "46084 at https://www.thisamericanlife.org",
-    "episode_title": "878: New Lore Drop",
-    "release_date": "2026-01-11 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3",
+    "guid": "46087 at https://www.thisamericanlife.org",
+    "episode_title": "879: A Christian and a Muslim Walk Into a Bar",
+    "release_date": "2026-01-18 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3",
     "podcast_name": "This American Life"
   },
   {
@@ -70,13 +63,6 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "4cb0a7c8-8442-400e-b29f-04d9bbaa7055",
-    "episode_title": "Exit Interview With Michael Bierut",
-    "release_date": "2026-01-13 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "9e988644-7c55-431c-b342-8bc6fdcdd324",
     "episode_title": "You 2.0: How to Get Out of a Rut",
     "release_date": "2026-01-12 20:00:00",
@@ -84,32 +70,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "dfab84de-f28b-11f0-b265-9b7c1d7f3068",
-    "episode_title": "#2440 - Matt Damon & Ben Affleck",
-    "release_date": "2026-01-16 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2029c382-f182-11f0-99c0-b7ae28c46253",
-    "episode_title": "#2439 - Johnny Knoxville",
-    "release_date": "2026-01-15 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "89126b28-f101-11f0-8790-0b4a3bcff782",
-    "episode_title": "#2438 - John Mellencamp",
-    "release_date": "2026-01-14 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "86e7cd62-f029-11f0-b9e8-53c3241c4f8a",
-    "episode_title": "#2437 - Rand Paul",
-    "release_date": "2026-01-13 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "4cb0a7c8-8442-400e-b29f-04d9bbaa7055",
+    "episode_title": "Exit Interview With Michael Bierut",
+    "release_date": "2026-01-13 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "ee435b21-6163-4c40-8ef9-b3cc013e70a4",
@@ -140,6 +105,34 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "dfab84de-f28b-11f0-b265-9b7c1d7f3068",
+    "episode_title": "#2440 - Matt Damon & Ben Affleck",
+    "release_date": "2026-01-16 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "2029c382-f182-11f0-99c0-b7ae28c46253",
+    "episode_title": "#2439 - Johnny Knoxville",
+    "release_date": "2026-01-15 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "89126b28-f101-11f0-8790-0b4a3bcff782",
+    "episode_title": "#2438 - John Mellencamp",
+    "release_date": "2026-01-14 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "86e7cd62-f029-11f0-b9e8-53c3241c4f8a",
+    "episode_title": "#2437 - Rand Paul",
+    "release_date": "2026-01-13 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/-VWIExypRfKBlT-ly1V2vhtg9t7gqJVOSUcvMUQFyxU",
     "episode_title": "Advice Line with Neil Blumenthal of Warby Parker",
     "release_date": "2026-01-15 08:10:00",
@@ -152,6 +145,27 @@
     "release_date": "2026-01-12 08:10:00",
     "mp3_url": "https://rss.art19.com/episodes/a93128a2-8415-4234-93e0-0211edcbee28.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/X_GB7QhGXh93hV1KB4AfNjqf1kYTQT_IRS_Tl6ROsRU",
+    "episode_title": "Armchair Anonymous: Wild Card XI",
+    "release_date": "2026-01-16 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/PRiu76Uuut1tJ-MZLns15zGxsZW_Bjf4LiYy7_rpkG4",
+    "episode_title": "David McWilliams (on the history of money)",
+    "release_date": "2026-01-14 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gaqWzfr6DhZ5ZfDAUxbPamz2ufLdxKIzKzjursGaa3A",
+    "episode_title": "Kumail Nanjiani Returns",
+    "release_date": "2026-01-12 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "6b01666e-89d4-11f0-b13f-a353e440e178",
@@ -194,27 +208,6 @@
     "release_date": "2026-01-12 08:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/X_GB7QhGXh93hV1KB4AfNjqf1kYTQT_IRS_Tl6ROsRU",
-    "episode_title": "Armchair Anonymous: Wild Card XI",
-    "release_date": "2026-01-16 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/PRiu76Uuut1tJ-MZLns15zGxsZW_Bjf4LiYy7_rpkG4",
-    "episode_title": "David McWilliams (on the history of money)",
-    "release_date": "2026-01-14 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/gaqWzfr6DhZ5ZfDAUxbPamz2ufLdxKIzKzjursGaa3A",
-    "episode_title": "Kumail Nanjiani Returns",
-    "release_date": "2026-01-12 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/D8ivRxldoN3MRTW24XoSKO-RQeMyop4uurmQVdG32LU",

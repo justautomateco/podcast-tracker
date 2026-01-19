@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-18 12:25:02
+Last updated: 2026-01-19 01:09:52
 
 ## Freakonomics Radio
 
@@ -56,19 +56,11 @@ Last updated: 2026-01-18 12:25:02
 
 ## This American Life
 
-### The Americans Outside My Window
+### 879: A Christian and a Muslim Walk Into a Bar
 
-**Released:** 2026-01-12 00:00:00
+**Released:** 2026-01-18 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
-
----
-
-### 878: New Lore Drop
-
-**Released:** 2026-01-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
 
 ---
 
@@ -90,16 +82,6 @@ Last updated: 2026-01-18 12:25:02
 
 ---
 
-## 99% Invisible
-
-### Exit Interview With Michael Bierut
-
-**Released:** 2026-01-13 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: How to Get Out of a Rut
@@ -110,37 +92,13 @@ Last updated: 2026-01-18 12:25:02
 
 ---
 
-## The Joe Rogan Experience
+## 99% Invisible
 
-### #2440 - Matt Damon & Ben Affleck
+### Exit Interview With Michael Bierut
 
-**Released:** 2026-01-16 18:00:00
+**Released:** 2026-01-13 18:15:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
-
----
-
-### #2439 - Johnny Knoxville
-
-**Released:** 2026-01-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198)
-
----
-
-### #2438 - John Mellencamp
-
-**Released:** 2026-01-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338)
-
----
-
-### #2437 - Rand Paul
-
-**Released:** 2026-01-13 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +136,40 @@ Last updated: 2026-01-18 12:25:02
 
 ---
 
+## The Joe Rogan Experience
+
+### #2440 - Matt Damon & Ben Affleck
+
+**Released:** 2026-01-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
+
+---
+
+### #2439 - Johnny Knoxville
+
+**Released:** 2026-01-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198)
+
+---
+
+### #2438 - John Mellencamp
+
+**Released:** 2026-01-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338)
+
+---
+
+### #2437 - Rand Paul
+
+**Released:** 2026-01-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Neil Blumenthal of Warby Parker
@@ -193,6 +185,32 @@ Last updated: 2026-01-18 12:25:02
 **Released:** 2026-01-12 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93128a2-8415-4234-93e0-0211edcbee28.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Wild Card XI
+
+**Released:** 2026-01-16 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David McWilliams (on the history of money)
+
+**Released:** 2026-01-14 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kumail Nanjiani Returns
+
+**Released:** 2026-01-12 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -247,32 +265,6 @@ Last updated: 2026-01-18 12:25:02
 **Released:** 2026-01-12 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e37288e0-6800-414e-a8b5-5eae7cfa461e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e37288e0-6800-414e-a8b5-5eae7cfa461e&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Wild Card XI
-
-**Released:** 2026-01-16 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David McWilliams (on the history of money)
-
-**Released:** 2026-01-14 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kumail Nanjiani Returns
-
-**Released:** 2026-01-12 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/578557cf-e2af-45a5-ae31-1b29cff10da5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
