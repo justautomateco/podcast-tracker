@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-19 12:31:13
+Last updated: 2026-01-20 01:04:47
+
+## Freakonomics Radio
+
+### 659. Can Marty Makary Fix the F.D.A.?
+
+**Released:** 2026-01-16 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The missing piece in climate action (it's not what you think) | Yi Li
+
+**Released:** 2026-01-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/696ab13d4796fcbb571edf92/media.mp3)
+
+---
 
 ### Sunday Pick: Interview: What happens to your brain without any social contact? with Dr. Vivek Murthy
 
@@ -36,24 +54,6 @@ Last updated: 2026-01-19 12:31:13
 
 ---
 
-### Let's build AI data centers in space | Philip Johnston
-
-**Released:** 2026-01-14 16:01:32
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69667183d6e0ec6b28265c17/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 659. Can Marty Makary Fix the F.D.A.?
-
-**Released:** 2026-01-16 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 879: A Christian and a Muslim Walk Into a Bar
@@ -79,6 +79,60 @@ Last updated: 2026-01-19 12:31:13
 **Released:** 2026-01-14 08:30:00
 
 **Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+
+---
+
+## The Joe Rogan Experience
+
+### #2440 - Matt Damon & Ben Affleck
+
+**Released:** 2026-01-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
+
+---
+
+### #2439 - Johnny Knoxville
+
+**Released:** 2026-01-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198)
+
+---
+
+### #2438 - John Mellencamp
+
+**Released:** 2026-01-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338)
+
+---
+
+### #2437 - Rand Paul
+
+**Released:** 2026-01-13 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1302457834.mp3?updated=1768325949)
+
+---
+
+## Hidden Brain
+
+### You 2.0: The Practice of Patience
+
+**Released:** 2026-01-19 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Exit Interview With Michael Bierut
+
+**Released:** 2026-01-13 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
 
 ---
 
@@ -113,62 +167,6 @@ Last updated: 2026-01-19 12:31:13
 **Released:** 2026-01-13 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### You 2.0: How to Get Out of a Rut
-
-**Released:** 2026-01-12 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/40c0a74d-25ec-4931-b279-b5e824f0d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=40c0a74d-25ec-4931-b279-b5e824f0d206&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Exit Interview With Michael Bierut
-
-**Released:** 2026-01-13 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ad322823-4990-4fa8-a081-2d6457ff683a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ad322823-4990-4fa8-a081-2d6457ff683a&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
-
-**Released:** 2026-01-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Neil Blumenthal of Warby Parker
-
-**Released:** 2026-01-15 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
-
-**Released:** 2026-01-14 11:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman
-
-**Released:** 2026-01-12 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,6 +206,42 @@ Last updated: 2026-01-19 12:31:13
 
 ---
 
+## How I Built This
+
+### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
+
+**Released:** 2026-01-19 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Neil Blumenthal of Warby Parker
+
+**Released:** 2026-01-15 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Pixies"
+
+**Released:** 2026-01-19 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+
+---
+
+### Introducing: CrimeLess
+
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### Chris Stapleton
@@ -234,21 +268,21 @@ Last updated: 2026-01-19 12:31:13
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Pixies"
+### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
 
-**Released:** 2026-01-19 08:01:00
+**Released:** 2026-01-19 16:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Introducing: CrimeLess
+### #847: Steve Young, from Super Bowl MVP to Managing Billions – Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans
 
-**Released:** 2026-01-16 08:00:00
+**Released:** 2026-01-14 11:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
