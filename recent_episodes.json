@@ -56,53 +56,11 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "79ff5cda-c57a-4f45-93de-b3d80002ed37",
-    "episode_title": "Keeping Time",
-    "release_date": "2026-01-20 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79ff5cda-c57a-4f45-93de-b3d80002ed37/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "ee435b21-6163-4c40-8ef9-b3cc013e70a4",
-    "episode_title": "Selects: BPD: The Worst Disorder or Not a Disorder at All?",
-    "release_date": "2026-01-17 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee435b21-6163-4c40-8ef9-b3cc013e70a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "79c80b54-cafd-4a23-ae5b-b3d001629ac4",
-    "episode_title": "Data Centers: Can't Live With Em, Can't Live Without Em",
-    "release_date": "2026-01-15 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "a13b82f2-6fdc-4879-a0c2-b3d101578dfc",
-    "episode_title": "Short Stuff: Did a vampire legend help win the Cold War?",
-    "release_date": "2026-01-14 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a13b82f2-6fdc-4879-a0c2-b3d101578dfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "20e14ed3-7dd8-43ac-a467-7f9ab01a1858",
     "episode_title": "Chevron, Venezuela and the Paradox of Plenty",
     "release_date": "2026-01-17 03:58:28",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "82c87af0-621b-4680-87eb-f7e8e5b5c949",
-    "episode_title": "How much money President Trump and his family have made",
-    "release_date": "2026-01-14 08:30:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "76c95882-ec1e-4fb8-8635-b63b08ba799b",
-    "episode_title": "You 2.0: The Practice of Patience",
-    "release_date": "2026-01-19 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "2007ba72-f622-11f0-84c7-3b90e8288c58",
@@ -133,6 +91,13 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "76c95882-ec1e-4fb8-8635-b63b08ba799b",
+    "episode_title": "You 2.0: The Practice of Patience",
+    "release_date": "2026-01-19 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "f8640760-de50-4ff2-a350-867c8a850fc1",
     "episode_title": "Audio Flux",
     "release_date": "2026-01-20 18:15:00",
@@ -140,53 +105,32 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/gAlMdrBM4SlW-OyEeuYt5zCRjdeCN0l6ef8XWzbG1pM",
-    "episode_title": "#848: From Stress to Stillness \u2014 Guided Meditation with Zen Master Henry Shukman",
-    "release_date": "2026-01-19 16:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "9d6771d3-cd81-4c7d-86c8-b3d70133c787",
+    "episode_title": "Short Stuff: The S7VEN Deadly Sins",
+    "release_date": "2026-01-21 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9d6771d3-cd81-4c7d-86c8-b3d70133c787/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/D8ivRxldoN3MRTW24XoSKO-RQeMyop4uurmQVdG32LU",
-    "episode_title": "#847: Steve Young, from Super Bowl MVP to Managing Billions \u2013 Hall of Fame 49ers Quarterback on High Performance, Reinvention, Faith, and How to Blend Dreams and Plans",
-    "release_date": "2026-01-14 11:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/e37f258a-8fb2-4abc-b42f-f67439f86162.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "79ff5cda-c57a-4f45-93de-b3d80002ed37",
+    "episode_title": "Keeping Time",
+    "release_date": "2026-01-20 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79ff5cda-c57a-4f45-93de-b3d80002ed37/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/f8xk03A3kIEHZAAaEsibZjJfy0Abs50SW6Z-_qrpZvc",
-    "episode_title": "Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder ",
-    "release_date": "2026-01-19 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "ee435b21-6163-4c40-8ef9-b3cc013e70a4",
+    "episode_title": "Selects: BPD: The Worst Disorder or Not a Disorder at All?",
+    "release_date": "2026-01-17 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee435b21-6163-4c40-8ef9-b3cc013e70a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/-VWIExypRfKBlT-ly1V2vhtg9t7gqJVOSUcvMUQFyxU",
-    "episode_title": "Advice Line with Neil Blumenthal of Warby Parker",
-    "release_date": "2026-01-15 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/eR5t-IQw5vICuUM-i_T-NK-aZkjyATO23hAlt6dY9Ds",
-    "episode_title": "Chris Stapleton",
-    "release_date": "2026-01-19 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/X_GB7QhGXh93hV1KB4AfNjqf1kYTQT_IRS_Tl6ROsRU",
-    "episode_title": "Armchair Anonymous: Wild Card XI",
-    "release_date": "2026-01-16 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/PRiu76Uuut1tJ-MZLns15zGxsZW_Bjf4LiYy7_rpkG4",
-    "episode_title": "David McWilliams (on the history of money)",
-    "release_date": "2026-01-14 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c4bc787d-4a14-441a-802b-65bc7e84f67e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "79c80b54-cafd-4a23-ae5b-b3d001629ac4",
+    "episode_title": "Data Centers: Can't Live With Em, Can't Live Without Em",
+    "release_date": "2026-01-15 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "6a663928-89d4-11f0-b13f-37c7d09fad22",
@@ -203,18 +147,18 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "a19885ed-4ef9-4fc3-ba3a-09fc3ed436bb",
-    "episode_title": "\"Pixies\"",
-    "release_date": "2026-01-19 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/f8xk03A3kIEHZAAaEsibZjJfy0Abs50SW6Z-_qrpZvc",
+    "episode_title": "Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder ",
+    "release_date": "2026-01-19 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "4eb388ac-f119-4c4a-9b9e-e61ea675353a",
-    "episode_title": "Introducing: CrimeLess",
-    "release_date": "2026-01-16 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/-VWIExypRfKBlT-ly1V2vhtg9t7gqJVOSUcvMUQFyxU",
+    "episode_title": "Advice Line with Neil Blumenthal of Warby Parker",
+    "release_date": "2026-01-15 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "d46d1342-253a-49c6-952b-4347eb9363b7",
@@ -229,5 +173,47 @@
     "release_date": "2026-01-15 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XpPYmTJ5LHqvx0GRPkSUjSiDCbrdi49R7T-HNVUbYl8",
+    "episode_title": "Elizabeth Smart",
+    "release_date": "2026-01-21 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/eR5t-IQw5vICuUM-i_T-NK-aZkjyATO23hAlt6dY9Ds",
+    "episode_title": "Chris Stapleton",
+    "release_date": "2026-01-19 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/X_GB7QhGXh93hV1KB4AfNjqf1kYTQT_IRS_Tl6ROsRU",
+    "episode_title": "Armchair Anonymous: Wild Card XI",
+    "release_date": "2026-01-16 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "a19885ed-4ef9-4fc3-ba3a-09fc3ed436bb",
+    "episode_title": "\"Pixies\"",
+    "release_date": "2026-01-19 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "4eb388ac-f119-4c4a-9b9e-e61ea675353a",
+    "episode_title": "Introducing: CrimeLess",
+    "release_date": "2026-01-16 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gAlMdrBM4SlW-OyEeuYt5zCRjdeCN0l6ef8XWzbG1pM",
+    "episode_title": "#848: From Stress to Stillness \u2014 Guided Meditation with Zen Master Henry Shukman",
+    "release_date": "2026-01-19 16:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
