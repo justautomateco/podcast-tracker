@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-21 12:31:05
+Last updated: 2026-01-22 01:07:02
+
+## Freakonomics Radio
+
+### Steve Levitt Quits His Podcast, Joins Ours
+
+**Released:** 2026-01-21 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
+
+---
+
+### 659. Can Marty Makary Fix the F.D.A.?
+
+**Released:** 2026-01-16 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to raise kids who can handle hard things | Kathryn Hecht
+
+**Released:** 2026-01-21 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6970f7b4ad93e7a4312592e0/media.mp3)
+
+---
 
 ### 3 possible futures for AI — which will we choose? | Alvin W. Graylin, Manoush Zomorodi
 
@@ -36,32 +62,6 @@ Last updated: 2026-01-21 12:31:05
 
 ---
 
-### The brilliance of bacteria (and how they combat waste) | Patricia Aymà Maldonado
-
-**Released:** 2026-01-16 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693c3b5af3a6f9e20a23622c/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Steve Levitt Quits His Podcast, Joins Ours
-
-**Released:** 2026-01-21 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
-
-### 659. Can Marty Makary Fix the F.D.A.?
-
-**Released:** 2026-01-16 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 879: A Christian and a Muslim Walk Into a Bar
@@ -84,6 +84,14 @@ Last updated: 2026-01-21 12:31:05
 
 ## The Joe Rogan Experience
 
+### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
+
+**Released:** 2026-01-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
+
+---
+
 ### #2441 - Paul Rosolie
 
 **Released:** 2026-01-20 18:00:00
@@ -105,14 +113,6 @@ Last updated: 2026-01-21 12:31:05
 **Released:** 2026-01-15 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198)
-
----
-
-### #2438 - John Mellencamp
-
-**Released:** 2026-01-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3034300752.mp3?updated=1768417338)
 
 ---
 
@@ -188,24 +188,6 @@ Last updated: 2026-01-21 12:31:05
 
 ---
 
-## How I Built This
-
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
-
-**Released:** 2026-01-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Neil Blumenthal of Warby Parker
-
-**Released:** 2026-01-15 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Jodie Foster
@@ -221,6 +203,42 @@ Last updated: 2026-01-21 12:31:05
 **Released:** 2026-01-15 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Pixies"
+
+**Released:** 2026-01-19 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+
+---
+
+### Introducing: CrimeLess
+
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
+
+---
+
+## How I Built This
+
+### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
+
+**Released:** 2026-01-19 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Neil Blumenthal of Warby Parker
+
+**Released:** 2026-01-15 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -250,25 +268,15 @@ Last updated: 2026-01-21 12:31:05
 
 ---
 
-## SmartLess 
-
-### "Pixies"
-
-**Released:** 2026-01-19 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
-
----
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
+
+### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+
+**Released:** 2026-01-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
 
