@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-22 01:07:02
+Last updated: 2026-01-22 12:30:50
 
 ## Freakonomics Radio
 
@@ -62,17 +62,15 @@ Last updated: 2026-01-22 01:07:02
 
 ---
 
-## This American Life
+## Planet Money
 
-### 879: A Christian and a Muslim Walk Into a Bar
+### BOARD GAMES 3: What’s in a name?
 
-**Released:** 2026-01-18 18:00:00
+**Released:** 2026-01-22 03:48:46
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721)
 
 ---
-
-## Planet Money
 
 ### Chevron, Venezuela and the Paradox of Plenty
 
@@ -126,16 +124,6 @@ Last updated: 2026-01-22 01:07:02
 
 ---
 
-## 99% Invisible
-
-### Audio Flux
-
-**Released:** 2026-01-20 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Short Stuff: The S7VEN Deadly Sins
@@ -162,11 +150,49 @@ Last updated: 2026-01-22 01:07:02
 
 ---
 
-### Data Centers: Can't Live With Em, Can't Live Without Em
+## 99% Invisible
 
-**Released:** 2026-01-15 10:00:00
+### Audio Flux
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-01-20 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with Monica Nassif of Mrs. Meyers
+
+**Released:** 2026-01-22 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
+
+**Released:** 2026-01-19 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+
+**Released:** 2026-01-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -190,55 +216,19 @@ Last updated: 2026-01-22 01:07:02
 
 ## Conan O'Brien Needs A Friend
 
+### Bley’s Fastballs Part II
+
+**Released:** 2026-01-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
+
+---
+
 ### Jodie Foster
 
 **Released:** 2026-01-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
-
----
-
-### Bley’s Fastballs Part I
-
-**Released:** 2026-01-15 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d888556-0d21-42e2-b12f-8c5d80b9fd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d888556-0d21-42e2-b12f-8c5d80b9fd58&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Pixies"
-
-**Released:** 2026-01-19 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
-
----
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
-
-**Released:** 2026-01-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Neil Blumenthal of Warby Parker
-
-**Released:** 2026-01-15 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c9bc3ff-46a5-42b1-9eb1-f5906ff43ec2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -268,21 +258,31 @@ Last updated: 2026-01-22 01:07:02
 
 ---
 
-## The Tim Ferriss Show
+## This American Life
 
-### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+### 879: A Christian and a Muslim Walk Into a Bar
 
-**Released:** 2026-01-21 15:00:00
+**Released:** 2026-01-18 18:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
 
 ---
 
-### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+## SmartLess 
 
-**Released:** 2026-01-19 16:00:00
+### "Pixies"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-01-19 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+
+---
+
+### Introducing: CrimeLess
+
+**Released:** 2026-01-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
 
 ---
 
