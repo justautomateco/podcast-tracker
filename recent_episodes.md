@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-23 01:06:54
+Last updated: 2026-01-23 12:30:02
 
 ## TED Talks Daily
 
@@ -44,21 +44,31 @@ Last updated: 2026-01-23 01:06:54
 
 ---
 
+## This American Life
+
+### 879: A Christian and a Muslim Walk Into a Bar
+
+**Released:** 2026-01-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
+
+---
+
 ## Freakonomics Radio
+
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
+
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
 
 ### Steve Levitt Quits His Podcast, Joins Ours
 
 **Released:** 2026-01-21 01:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
-
-### 659. Can Marty Makary Fix the F.D.A.?
-
-**Released:** 2026-01-16 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4)
 
 ---
 
@@ -80,50 +90,6 @@ Last updated: 2026-01-23 01:06:54
 
 ---
 
-## This American Life
-
-### 879: A Christian and a Muslim Walk Into a Bar
-
-**Released:** 2026-01-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2442 - Ehsan Ahmad
-
-**Released:** 2026-01-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
-
----
-
-### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
-
-**Released:** 2026-01-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
-
----
-
-### #2441 - Paul Rosolie
-
-**Released:** 2026-01-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
-
----
-
-### #2440 - Matt Damon & Ben Affleck
-
-**Released:** 2026-01-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: The Practice of Patience
@@ -131,16 +97,6 @@ Last updated: 2026-01-23 01:06:54
 **Released:** 2026-01-19 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Audio Flux
-
-**Released:** 2026-01-20 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
 
 ---
 
@@ -178,101 +134,65 @@ Last updated: 2026-01-23 01:06:54
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Monica Nassif of Mrs. Meyers
+### Audio Flux
 
-**Released:** 2026-01-22 08:10:00
+**Released:** 2026-01-20 18:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
-
-**Released:** 2026-01-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
 
 ---
 
-## The Tim Ferriss Show
+## The Joe Rogan Experience
 
-### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+### #2442 - Ehsan Ahmad
 
-**Released:** 2026-01-21 15:00:00
+**Released:** 2026-01-22 18:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
 
 ---
 
-### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
 
-**Released:** 2026-01-19 16:00:00
+**Released:** 2026-01-21 18:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
+
+---
+
+### #2441 - Paul Rosolie
+
+**Released:** 2026-01-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
+
+---
+
+### #2440 - Matt Damon & Ben Affleck
+
+**Released:** 2026-01-16 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
 
 ---
 
 ## The Moth
+
+### Restaurant Week: The Moth Podcast
+
+**Released:** 2026-01-23 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+
+---
 
 ### The Wisdom of Elders: The Moth Radio Hour
 
 **Released:** 2026-01-20 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7718406111.mp3?updated=1768602605)
-
----
-
-### The Moth Podcast: Apples and Bananas
-
-**Released:** 2026-01-16 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9460875116.mp3?updated=1765992249)
-
----
-
-## Armchair Expert
-
-### Elizabeth Smart
-
-**Released:** 2026-01-21 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Stapleton
-
-**Released:** 2026-01-19 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card XI
-
-**Released:** 2026-01-16 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4706ce8-95d5-408f-bec6-dbaec5886b03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Pixies"
-
-**Released:** 2026-01-19 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
-
----
-
-### Introducing: CrimeLess
-
-**Released:** 2026-01-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO)
 
 ---
 
@@ -291,6 +211,78 @@ Last updated: 2026-01-23 01:06:54
 **Released:** 2026-01-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Monica Nassif of Mrs. Meyers
+
+**Released:** 2026-01-22 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
+
+**Released:** 2026-01-19 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Pets
+
+**Released:** 2026-01-23 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Elizabeth Smart
+
+**Released:** 2026-01-21 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chris Stapleton
+
+**Released:** 2026-01-19 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Pixies"
+
+**Released:** 2026-01-19 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+
+**Released:** 2026-01-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
