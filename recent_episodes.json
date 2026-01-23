@@ -1,17 +1,10 @@
 [
   {
-    "guid": "d9b3ea90-9863-446a-9a93-5ae902025070",
-    "episode_title": "Steve Levitt Quits His Podcast, Joins Ours",
-    "release_date": "2026-01-21 01:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "61672e5a-e833-4b9e-a559-8e0902421eaa",
-    "episode_title": "659. Can Marty Makary Fix the F.D.A.?",
-    "release_date": "2026-01-16 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "697129428c404bc5233fa129",
+    "episode_title": "How I found resilience as my life fell apart | Jane Marie Chen",
+    "release_date": "2026-01-22 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697129428c404bc5233fa129/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6970f7b4ad93e7a4312592e0",
@@ -42,11 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6967c3f890f7d9d87fb04da8",
-    "episode_title": "The art (and science) of stop-motion animation | Brian McLean",
-    "release_date": "2026-01-17 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6967c3f890f7d9d87fb04da8/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "d9b3ea90-9863-446a-9a93-5ae902025070",
+    "episode_title": "Steve Levitt Quits His Podcast, Joins Ours",
+    "release_date": "2026-01-21 01:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "61672e5a-e833-4b9e-a559-8e0902421eaa",
+    "episode_title": "659. Can Marty Makary Fix the F.D.A.?",
+    "release_date": "2026-01-16 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8e2cc9bf-e3c7-4d9f-8622-298d31c32f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8e2cc9bf-e3c7-4d9f-8622-298d31c32f42&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "2ffbf42c-503f-4b51-9462-af3c5626c900",
@@ -61,6 +61,20 @@
     "release_date": "2026-01-17 03:58:28",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46087 at https://www.thisamericanlife.org",
+    "episode_title": "879: A Christian and a Muslim Walk Into a Bar",
+    "release_date": "2026-01-18 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "32ac864c-f755-11f0-b938-43fd56caabba",
+    "episode_title": "#2442 - Ehsan Ahmad",
+    "release_date": "2026-01-22 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "6f4ceb72-f670-11f0-8265-77574675e61e",
@@ -84,18 +98,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "2029c382-f182-11f0-99c0-b7ae28c46253",
-    "episode_title": "#2439 - Johnny Knoxville",
-    "release_date": "2026-01-15 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8236417625.mp3?updated=1768497198",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "76c95882-ec1e-4fb8-8635-b63b08ba799b",
     "episode_title": "You 2.0: The Practice of Patience",
     "release_date": "2026-01-19 20:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "f8640760-de50-4ff2-a350-867c8a850fc1",
+    "episode_title": "Audio Flux",
+    "release_date": "2026-01-20 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "f1cfebf6-8a33-4fb4-9dc4-b3da00e55074",
+    "episode_title": "The Ballad of Biggie and Tupac",
+    "release_date": "2026-01-22 14:17:58",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1cfebf6-8a33-4fb4-9dc4-b3da00e55074/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "9d6771d3-cd81-4c7d-86c8-b3d70133c787",
@@ -117,13 +138,6 @@
     "release_date": "2026-01-17 10:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee435b21-6163-4c40-8ef9-b3cc013e70a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "f8640760-de50-4ff2-a350-867c8a850fc1",
-    "episode_title": "Audio Flux",
-    "release_date": "2026-01-20 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/8ewxGKCGFHZK3uVosLSU_AvfdcNpD43jyz_FlF9SgBs",
@@ -168,20 +182,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "9643c602-3a9c-487b-9c77-f6988160414a",
-    "episode_title": "Bley\u2019s Fastballs Part II",
-    "release_date": "2026-01-22 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "d46d1342-253a-49c6-952b-4347eb9363b7",
-    "episode_title": "Jodie Foster",
-    "release_date": "2026-01-19 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/XpPYmTJ5LHqvx0GRPkSUjSiDCbrdi49R7T-HNVUbYl8",
     "episode_title": "Elizabeth Smart",
     "release_date": "2026-01-21 08:30:00",
@@ -203,13 +203,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "46087 at https://www.thisamericanlife.org",
-    "episode_title": "879: A Christian and a Muslim Walk Into a Bar",
-    "release_date": "2026-01-18 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "a19885ed-4ef9-4fc3-ba3a-09fc3ed436bb",
     "episode_title": "\"Pixies\"",
     "release_date": "2026-01-19 08:01:00",
@@ -222,5 +215,19 @@
     "release_date": "2026-01-16 08:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/dc8f91a6-d1a7-4089-9b44-85a969645df1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=dc8f91a6-d1a7-4089-9b44-85a969645df1&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "9643c602-3a9c-487b-9c77-f6988160414a",
+    "episode_title": "Bley\u2019s Fastballs Part II",
+    "release_date": "2026-01-22 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "d46d1342-253a-49c6-952b-4347eb9363b7",
+    "episode_title": "Jodie Foster",
+    "release_date": "2026-01-19 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
