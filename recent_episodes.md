@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-23 12:30:02
+Last updated: 2026-01-24 01:03:37
+
+## Freakonomics Radio
+
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
+
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
+
+### Steve Levitt Quits His Podcast, Joins Ours
+
+**Released:** 2026-01-21 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### What I learned from cooking my way across a continent | Dieuveil Malonga
+
+**Released:** 2026-01-23 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693c3e7a41eacf5e812b8a96/media.mp3)
+
+---
 
 ### How I found resilience as my life fell apart | Jane Marie Chen
 
@@ -36,14 +62,6 @@ Last updated: 2026-01-23 12:30:02
 
 ---
 
-### Sunday Pick: Interview: What happens to your brain without any social contact? with Dr. Vivek Murthy
-
-**Released:** 2026-01-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6969776917bb88de8d188926/media.mp3)
-
----
-
 ## This American Life
 
 ### 879: A Christian and a Muslim Walk Into a Bar
@@ -54,25 +72,15 @@ Last updated: 2026-01-23 12:30:02
 
 ---
 
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-### Steve Levitt Quits His Podcast, Joins Ours
-
-**Released:** 2026-01-21 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
+
+### A trip to the magic mushroom megachurch
+
+**Released:** 2026-01-24 00:10:35
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473)
+
+---
 
 ### BOARD GAMES 3: What’s in a name?
 
@@ -97,6 +105,50 @@ Last updated: 2026-01-23 12:30:02
 **Released:** 2026-01-19 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2443 - Filippo Biondi
+
+**Released:** 2026-01-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693)
+
+---
+
+### #2442 - Ehsan Ahmad
+
+**Released:** 2026-01-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
+
+---
+
+### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
+
+**Released:** 2026-01-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
+
+---
+
+### #2441 - Paul Rosolie
+
+**Released:** 2026-01-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
+
+---
+
+## 99% Invisible
+
+### Audio Flux
+
+**Released:** 2026-01-20 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
 
 ---
 
@@ -134,65 +186,21 @@ Last updated: 2026-01-23 12:30:02
 
 ---
 
-## 99% Invisible
+## How I Built This
 
-### Audio Flux
+### Advice Line with Monica Nassif of Mrs. Meyers
 
-**Released:** 2026-01-20 18:15:00
+**Released:** 2026-01-22 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2442 - Ehsan Ahmad
-
-**Released:** 2026-01-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
+### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
 
-**Released:** 2026-01-21 18:00:00
+**Released:** 2026-01-19 08:10:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
-
----
-
-### #2441 - Paul Rosolie
-
-**Released:** 2026-01-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
-
----
-
-### #2440 - Matt Damon & Ben Affleck
-
-**Released:** 2026-01-16 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3767326773.mp3?updated=1768580266)
-
----
-
-## The Moth
-
-### Restaurant Week: The Moth Podcast
-
-**Released:** 2026-01-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
-
----
-
-### The Wisdom of Elders: The Moth Radio Hour
-
-**Released:** 2026-01-20 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7718406111.mp3?updated=1768602605)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -211,24 +219,6 @@ Last updated: 2026-01-23 12:30:02
 **Released:** 2026-01-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
-
----
-
-## How I Built This
-
-### Advice Line with Monica Nassif of Mrs. Meyers
-
-**Released:** 2026-01-22 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
-
-**Released:** 2026-01-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -283,6 +273,24 @@ Last updated: 2026-01-23 12:30:02
 **Released:** 2026-01-19 16:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Restaurant Week: The Moth Podcast
+
+**Released:** 2026-01-23 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+
+---
+
+### The Wisdom of Elders: The Moth Radio Hour
+
+**Released:** 2026-01-20 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7718406111.mp3?updated=1768602605)
 
 ---
 
