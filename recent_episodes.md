@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-24 12:25:11
+Last updated: 2026-01-25 01:12:39
+
+## Freakonomics Radio
+
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
+
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
+
+### Steve Levitt Quits His Podcast, Joins Ours
+
+**Released:** 2026-01-21 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to power the world 24/7 — without oil | Cindy Taff
+
+**Released:** 2026-01-24 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6972776c6982fb7698e873ee/media.mp3)
+
+---
 
 ### What I learned from cooking my way across a continent | Dieuveil Malonga
 
@@ -36,42 +62,6 @@ Last updated: 2026-01-24 12:25:11
 
 ---
 
-### The missing piece in climate action (it's not what you think) | Yi Li
-
-**Released:** 2026-01-19 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/696ab13d4796fcbb571edf92/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-### Steve Levitt Quits His Podcast, Joins Ours
-
-**Released:** 2026-01-21 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 879: A Christian and a Muslim Walk Into a Bar
-
-**Released:** 2026-01-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
-
----
-
 ## Planet Money
 
 ### A trip to the magic mushroom megachurch
@@ -90,6 +80,16 @@ Last updated: 2026-01-24 12:25:11
 
 ---
 
+## This American Life
+
+### 879: A Christian and a Muslim Walk Into a Bar
+
+**Released:** 2026-01-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
+
+---
+
 ## Hidden Brain
 
 ### You 2.0: The Practice of Patience
@@ -97,6 +97,16 @@ Last updated: 2026-01-24 12:25:11
 **Released:** 2026-01-19 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Audio Flux
+
+**Released:** 2026-01-20 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
 
 ---
 
@@ -134,31 +144,37 @@ Last updated: 2026-01-24 12:25:11
 
 ---
 
-## 99% Invisible
+## The Joe Rogan Experience
 
-### Audio Flux
+### #2443 - Filippo Biondi
 
-**Released:** 2026-01-20 18:15:00
+**Released:** 2026-01-23 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
-
-**Released:** 2026-01-21 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693)
 
 ---
 
-### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+### #2442 - Ehsan Ahmad
 
-**Released:** 2026-01-19 16:00:00
+**Released:** 2026-01-22 18:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
+
+---
+
+### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
+
+**Released:** 2026-01-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
+
+---
+
+### #2441 - Paul Rosolie
+
+**Released:** 2026-01-20 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
 
 ---
 
@@ -177,52 +193,6 @@ Last updated: 2026-01-24 12:25:11
 **Released:** 2026-01-19 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Pixies"
-
-**Released:** 2026-01-19 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bley’s Fastballs Part II
-
-**Released:** 2026-01-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
-
----
-
-### Jodie Foster
-
-**Released:** 2026-01-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Restaurant Week: The Moth Podcast
-
-**Released:** 2026-01-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
-
----
-
-### The Wisdom of Elders: The Moth Radio Hour
-
-**Released:** 2026-01-20 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7718406111.mp3?updated=1768602605)
 
 ---
 
@@ -249,6 +219,70 @@ Last updated: 2026-01-24 12:25:11
 **Released:** 2026-01-19 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Restaurant Week: The Moth Podcast
+
+**Released:** 2026-01-23 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+
+---
+
+### The Wisdom of Elders: The Moth Radio Hour
+
+**Released:** 2026-01-20 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7718406111.mp3?updated=1768602605)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bley’s Fastballs Part II
+
+**Released:** 2026-01-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
+
+---
+
+### Jodie Foster
+
+**Released:** 2026-01-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Pixies"
+
+**Released:** 2026-01-19 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+
+**Released:** 2026-01-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
