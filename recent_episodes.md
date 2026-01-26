@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-26 01:11:25
-
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-### Steve Levitt Quits His Podcast, Joins Ours
-
-**Released:** 2026-01-21 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
+Last updated: 2026-01-26 12:30:30
 
 ## TED Talks Daily
 
@@ -62,13 +44,21 @@ Last updated: 2026-01-26 01:11:25
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 851: Try a Little Tenderness
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
 
-**Released:** 2026-01-25 18:00:00
+**Released:** 2026-01-23 11:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
+
+### Steve Levitt Quits His Podcast, Joins Ours
+
+**Released:** 2026-01-21 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
 
 ---
 
@@ -124,6 +114,26 @@ Last updated: 2026-01-26 01:11:25
 
 ---
 
+## Hidden Brain
+
+### You 2.0: The Practice of Patience
+
+**Released:** 2026-01-19 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
+
+---
+
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: The Truth Behind Cage-Free and Free-Range
@@ -168,17 +178,33 @@ Last updated: 2026-01-26 01:11:25
 
 ---
 
-## Hidden Brain
+## The Tim Ferriss Show
 
-### You 2.0: The Practice of Patience
+### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
 
-**Released:** 2026-01-19 20:00:00
+**Released:** 2026-01-21 15:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9e6719fc-f689-40b7-9a49-a1998d5e5f73/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9e6719fc-f689-40b7-9a49-a1998d5e5f73&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
+
+**Released:** 2026-01-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## How I Built This
+
+### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
+
+**Released:** 2026-01-26 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Monica Nassif of Mrs. Meyers
 
@@ -188,11 +214,21 @@ Last updated: 2026-01-26 01:11:25
 
 ---
 
-### Gymboree: Joan Barnes. How Building a Beloved Brand Nearly Destroyed Its Founder 
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-01-19 08:10:00
+### Charli XCX
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7c820ceb-ee96-4782-b4b3-05b94ef58eeb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-01-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
+
+---
+
+### Bley’s Fastballs Part II
+
+**Released:** 2026-01-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
 
 ---
 
@@ -214,25 +250,25 @@ Last updated: 2026-01-26 01:11:25
 
 ---
 
-## Conan O'Brien Needs A Friend
+## SmartLess 
 
-### Bley’s Fastballs Part II
+### "Leanne Morgan"
 
-**Released:** 2026-01-22 05:05:00
+**Released:** 2026-01-26 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
-
----
-
-### Jodie Foster
-
-**Released:** 2026-01-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b55c1cc4-36b7-4e80-ae06-4ed564beb7c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b55c1cc4-36b7-4e80-ae06-4ed564beb7c5&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Marcello Hernández
+
+**Released:** 2026-01-26 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Pets
 
@@ -247,42 +283,6 @@ Last updated: 2026-01-26 01:11:25
 **Released:** 2026-01-21 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Stapleton
-
-**Released:** 2026-01-19 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e42a5a51-fe5e-4e97-ba23-fe71ca3367e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Pixies"
-
-**Released:** 2026-01-19 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/86a6e18d-39aa-40fb-8377-43969a438f3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=86a6e18d-39aa-40fb-8377-43969a438f3c&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
-
-**Released:** 2026-01-21 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman
-
-**Released:** 2026-01-19 16:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
