@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-28 01:06:23
+Last updated: 2026-01-28 12:31:25
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2026-01-28 01:06:23
 **Released:** 2026-01-23 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
 
 ---
 
@@ -72,16 +82,6 @@ Last updated: 2026-01-28 01:06:23
 
 ---
 
-## This American Life
-
-### 851: Try a Little Tenderness
-
-**Released:** 2026-01-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2443 - Filippo Biondi
@@ -118,7 +118,25 @@ Last updated: 2026-01-28 01:06:23
 
 ---
 
+## 99% Invisible
+
+### What’s in a Name
+
+**Released:** 2026-01-27 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: Magic 8 Ball
+
+**Released:** 2026-01-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Charge of the Light Brigade 
 
@@ -141,24 +159,6 @@ Last updated: 2026-01-28 01:06:23
 **Released:** 2026-01-22 14:17:58
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1cfebf6-8a33-4fb4-9dc4-b3da00e55074/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The S7VEN Deadly Sins
-
-**Released:** 2026-01-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9d6771d3-cd81-4c7d-86c8-b3d70133c787/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### What’s in a Name
-
-**Released:** 2026-01-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
 
 ---
 
@@ -198,29 +198,21 @@ Last updated: 2026-01-28 01:06:23
 
 ---
 
-## Armchair Expert
+## Conan O'Brien Needs A Friend
 
-### Marcello Hernández
+### Charli XCX
 
-**Released:** 2026-01-26 08:30:00
+**Released:** 2026-01-26 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Pets
-
-**Released:** 2026-01-23 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
 
 ---
 
-### Elizabeth Smart
+### Bley’s Fastballs Part II
 
-**Released:** 2026-01-21 08:30:00
+**Released:** 2026-01-22 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
 
 ---
 
@@ -242,21 +234,29 @@ Last updated: 2026-01-28 01:06:23
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Armchair Expert
 
-### Charli XCX
+### Ellen Huet (on wellness cults)
 
-**Released:** 2026-01-26 05:05:00
+**Released:** 2026-01-28 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Bley’s Fastballs Part II
+### Marcello Hernández
 
-**Released:** 2026-01-22 05:05:00
+**Released:** 2026-01-26 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Pets
+
+**Released:** 2026-01-23 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
