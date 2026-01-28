@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-27 12:30:39
+Last updated: 2026-01-28 01:06:23
+
+## Freakonomics Radio
+
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
+
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The purity test that's killing clean energy | Riddhima Yadav
+
+**Released:** 2026-01-27 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697250104b6b88f0018097b0/media.mp3)
+
+---
 
 ### Are you spending your money wisely? | Wolfgang Schnellbaecher
 
@@ -36,39 +54,13 @@ Last updated: 2026-01-27 12:30:39
 
 ---
 
-### How I found resilience as my life fell apart | Jane Marie Chen
-
-**Released:** 2026-01-22 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697129428c404bc5233fa129/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-### Steve Levitt Quits His Podcast, Joins Ours
-
-**Released:** 2026-01-21 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dc09e4b9-ea21-43ee-b77a-3f61a540ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dc09e4b9-ea21-43ee-b77a-3f61a540ea51&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### A trip to the magic mushroom megachurch
 
 **Released:** 2026-01-24 00:10:35
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473)
 
 ---
 
@@ -116,15 +108,25 @@ Last updated: 2026-01-27 12:30:39
 
 ---
 
-### #2441 - Paul Rosolie
+## Hidden Brain
 
-**Released:** 2026-01-20 18:00:00
+### You 2.0: Trusting Your Doubt
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6204865654.mp3?updated=1768941524)
+**Released:** 2026-01-26 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e671b260-9f5a-4533-adc2-975cb3e543c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e671b260-9f5a-4533-adc2-975cb3e543c7&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### The Charge of the Light Brigade 
+
+**Released:** 2026-01-27 15:46:52
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: The Truth Behind Cage-Free and Free-Range
 
@@ -150,23 +152,13 @@ Last updated: 2026-01-27 12:30:39
 
 ---
 
-## Hidden Brain
-
-### You 2.0: Trusting Your Doubt
-
-**Released:** 2026-01-26 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e671b260-9f5a-4533-adc2-975cb3e543c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e671b260-9f5a-4533-adc2-975cb3e543c7&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
-### Audio Flux
+### What’s in a Name
 
-**Released:** 2026-01-20 18:15:00
+**Released:** 2026-01-27 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8d5bb6f6-b04d-438b-afe6-b3db3ba93acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8d5bb6f6-b04d-438b-afe6-b3db3ba93acd&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
 
 ---
 
@@ -206,24 +198,6 @@ Last updated: 2026-01-27 12:30:39
 
 ---
 
-## The Moth
-
-### Truth and Consequences: The Moth Radio Hour
-
-**Released:** 2026-01-27 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636)
-
----
-
-### Restaurant Week: The Moth Podcast
-
-**Released:** 2026-01-23 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
-
----
-
 ## Armchair Expert
 
 ### Marcello Hernández
@@ -247,6 +221,24 @@ Last updated: 2026-01-27 12:30:39
 **Released:** 2026-01-21 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5baaacbd-ca1b-4e36-8611-2fb311df1632.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Truth and Consequences: The Moth Radio Hour
+
+**Released:** 2026-01-27 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636)
+
+---
+
+### Restaurant Week: The Moth Podcast
+
+**Released:** 2026-01-23 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
 
 ---
 
