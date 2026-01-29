@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-28 12:31:25
-
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 851: Try a Little Tenderness
-
-**Released:** 2026-01-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
-
----
+Last updated: 2026-01-29 01:15:56
 
 ## TED Talks Daily
+
+### What happened when I started scoring my life every day | Chris Musser
+
+**Released:** 2026-01-28 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
+
+---
 
 ### The purity test that's killing clean energy | Riddhima Yadav
 
@@ -56,15 +44,25 @@ Last updated: 2026-01-28 12:31:25
 
 ---
 
-### What I learned from cooking my way across a continent | Dieuveil Malonga
+## Freakonomics Radio
 
-**Released:** 2026-01-23 16:00:00
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/693c3e7a41eacf5e812b8a96/media.mp3)
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
 
 ---
 
 ## Planet Money
+
+### Can transforming neighborhoods help kids escape poverty?
+
+**Released:** 2026-01-28 22:45:17
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
+
+---
 
 ### A trip to the magic mushroom megachurch
 
@@ -82,7 +80,25 @@ Last updated: 2026-01-28 12:31:25
 
 ---
 
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2444 - Andrew Wilson
+
+**Released:** 2026-01-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
+
+---
 
 ### #2443 - Filippo Biondi
 
@@ -100,14 +116,6 @@ Last updated: 2026-01-28 12:31:25
 
 ---
 
-### JRE MMA Show #173 with Benny "The Jet" Urquidez & William "Blinky" Rodriguez
-
-**Released:** 2026-01-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5199820416.mp3?updated=1769019261)
-
----
-
 ## Hidden Brain
 
 ### You 2.0: Trusting Your Doubt
@@ -115,16 +123,6 @@ Last updated: 2026-01-28 12:31:25
 **Released:** 2026-01-26 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e671b260-9f5a-4533-adc2-975cb3e543c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e671b260-9f5a-4533-adc2-975cb3e543c7&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### What’s in a Name
-
-**Released:** 2026-01-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
 
 ---
 
@@ -162,6 +160,16 @@ Last updated: 2026-01-28 12:31:25
 
 ---
 
+## 99% Invisible
+
+### What’s in a Name
+
+**Released:** 2026-01-27 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
@@ -182,37 +190,19 @@ Last updated: 2026-01-28 12:31:25
 
 ## The Tim Ferriss Show
 
+### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
+
+**Released:** 2026-01-28 14:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### #850: The Peace That's Always Within You — Guided Meditation by Zen Master Henry Shukman
 
 **Released:** 2026-01-26 15:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/da855215-af3e-4203-950f-253d0c149da0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
-
-**Released:** 2026-01-21 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31828d17-5e5c-436d-9d16-8cd82ed4f60f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Charli XCX
-
-**Released:** 2026-01-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
-
----
-
-### Bley’s Fastballs Part II
-
-**Released:** 2026-01-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
 
 ---
 
@@ -231,6 +221,24 @@ Last updated: 2026-01-28 12:31:25
 **Released:** 2026-01-23 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Charli XCX
+
+**Released:** 2026-01-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
+
+---
+
+### Bley’s Fastballs Part II
+
+**Released:** 2026-01-22 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
 
 ---
 
