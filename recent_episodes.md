@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-29 01:15:56
+Last updated: 2026-01-29 12:36:57
+
+## Freakonomics Radio
+
+### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
+
+**Released:** 2026-01-23 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,16 +64,6 @@ Last updated: 2026-01-29 01:15:56
 
 ---
 
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Can transforming neighborhoods help kids escape poverty?
@@ -69,24 +79,6 @@ Last updated: 2026-01-29 01:15:56
 **Released:** 2026-01-24 00:10:35
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473)
-
----
-
-### BOARD GAMES 3: What’s in a name?
-
-**Released:** 2026-01-22 03:48:46
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721)
-
----
-
-## This American Life
-
-### 851: Try a Little Tenderness
-
-**Released:** 2026-01-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
 
 ---
 
@@ -127,6 +119,14 @@ Last updated: 2026-01-29 01:15:56
 ---
 
 ## Stuff You Should Know
+
+### The Magnificent Golden Gate Bridge
+
+**Released:** 2026-01-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Magic 8 Ball
 
@@ -172,19 +172,19 @@ Last updated: 2026-01-29 01:15:56
 
 ## How I Built This
 
+### Advice Line with Serial Entrepreneur Mark Cuban
+
+**Released:** 2026-01-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
 
 **Released:** 2026-01-26 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Monica Nassif of Mrs. Meyers
-
-**Released:** 2026-01-22 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dc519cf2-5770-4406-968e-be0555943146.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,19 +226,19 @@ Last updated: 2026-01-29 01:15:56
 
 ## Conan O'Brien Needs A Friend
 
+### A Clown Is Not An Alibi
+
+**Released:** 2026-01-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+
+---
+
 ### Charli XCX
 
 **Released:** 2026-01-26 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
-
----
-
-### Bley’s Fastballs Part II
-
-**Released:** 2026-01-22 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ce2de3dc-0972-4a8e-8c2d-21dfd9f1a243&feed=dHoohVNH)
 
 ---
 
