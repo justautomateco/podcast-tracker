@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-30 01:15:25
-
-## Freakonomics Radio
-
-### 660. The Wellness Industry Is Gigantic — and Mostly Wrong
-
-**Released:** 2026-01-23 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb316bbe-ae64-4da6-afbb-d66a8e5171d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb316bbe-ae64-4da6-afbb-d66a8e5171d0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 851: Try a Little Tenderness
-
-**Released:** 2026-01-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
-
----
+Last updated: 2026-01-30 12:35:31
 
 ## TED Talks Daily
 
@@ -64,6 +44,16 @@ Last updated: 2026-01-30 01:15:25
 
 ---
 
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+
+---
+
 ## Planet Money
 
 ### Can transforming neighborhoods help kids escape poverty?
@@ -82,29 +72,13 @@ Last updated: 2026-01-30 01:15:25
 
 ---
 
-## The Joe Rogan Experience
+## Freakonomics Radio
 
-### #2445 - Bert Kreischer
+### 661. Can A.I. Save Your Life?
 
-**Released:** 2026-01-29 18:00:00
+**Released:** 2026-01-30 11:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
-
----
-
-### #2444 - Andrew Wilson
-
-**Released:** 2026-01-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
-
----
-
-### #2443 - Filippo Biondi
-
-**Released:** 2026-01-23 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
 
 ---
 
@@ -162,6 +136,32 @@ Last updated: 2026-01-30 01:15:25
 
 ---
 
+## The Joe Rogan Experience
+
+### #2445 - Bert Kreischer
+
+**Released:** 2026-01-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
+
+---
+
+### #2444 - Andrew Wilson
+
+**Released:** 2026-01-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
+
+---
+
+### #2443 - Filippo Biondi
+
+**Released:** 2026-01-23 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Serial Entrepreneur Mark Cuban
@@ -208,21 +208,29 @@ Last updated: 2026-01-30 01:15:25
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### Truth and Consequences: The Moth Radio Hour
+### Armchair Anonymous: Foreign Object in Butt II
 
-**Released:** 2026-01-27 05:25:00
+**Released:** 2026-01-30 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Restaurant Week: The Moth Podcast
+### Ellen Huet (on wellness cults)
 
-**Released:** 2026-01-23 05:25:00
+**Released:** 2026-01-28 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Marcello Hernández
+
+**Released:** 2026-01-26 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -233,6 +241,24 @@ Last updated: 2026-01-30 01:15:25
 **Released:** 2026-01-26 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Puppies and Football: The Moth Podcast
+
+**Released:** 2026-01-30 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004)
+
+---
+
+### Truth and Consequences: The Moth Radio Hour
+
+**Released:** 2026-01-27 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636)
 
 ---
 
@@ -251,32 +277,6 @@ Last updated: 2026-01-30 01:15:25
 **Released:** 2026-01-26 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Ellen Huet (on wellness cults)
-
-**Released:** 2026-01-28 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Marcello Hernández
-
-**Released:** 2026-01-26 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Pets
-
-**Released:** 2026-01-23 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
