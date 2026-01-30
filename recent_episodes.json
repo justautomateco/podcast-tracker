@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "697b829c5edeb3034f6b3b56",
+    "episode_title": "How to become a K-pop superstar \u2014 in 7 minutes | Charlene Kaye",
+    "release_date": "2026-01-29 16:03:43",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69793f8f15dde02bc68a7f5c",
     "episode_title": "What happened when I started scoring my life every day | Chris Musser",
     "release_date": "2026-01-28 16:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6972776c6982fb7698e873ee",
-    "episode_title": "How to power the world 24/7 \u2014 without oil | Cindy Taff",
-    "release_date": "2026-01-24 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6972776c6982fb7698e873ee/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "ccc902c3-3887-455a-ac40-cb253f1cc533",
     "episode_title": "Can transforming neighborhoods help kids escape poverty?",
     "release_date": "2026-01-28 22:45:17",
@@ -63,6 +63,13 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
+    "episode_title": "#2445 - Bert Kreischer",
+    "release_date": "2026-01-29 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
     "episode_title": "#2444 - Andrew Wilson",
     "release_date": "2026-01-28 18:00:00",
@@ -74,13 +81,6 @@
     "episode_title": "#2443 - Filippo Biondi",
     "release_date": "2026-01-23 18:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "32ac864c-f755-11f0-b938-43fd56caabba",
-    "episode_title": "#2442 - Ehsan Ahmad",
-    "release_date": "2026-01-22 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -119,13 +119,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "f1cfebf6-8a33-4fb4-9dc4-b3da00e55074",
-    "episode_title": "The Ballad of Biggie and Tupac",
-    "release_date": "2026-01-22 14:17:58",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1cfebf6-8a33-4fb4-9dc4-b3da00e55074/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "897e90b1-defe-4337-8c0f-e560684db1b9",
     "episode_title": "What\u2019s in a Name",
     "release_date": "2026-01-27 18:15:00",
@@ -161,6 +154,13 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
+    "guid": "0c1edce3-4221-4cd0-9026-b3e100f10098",
+    "episode_title": "Invisible Infrastructure with T-Mobile for Business",
+    "release_date": "2026-01-29 19:50:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "6a8d5418-89d4-11f0-b13f-7385b19914c6",
     "episode_title": "Truth and Consequences: The Moth Radio Hour",
     "release_date": "2026-01-27 05:25:00",
@@ -173,6 +173,13 @@
     "release_date": "2026-01-23 05:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "e7bdaaa6-1cb6-42e8-964d-b85b3d730d76",
+    "episode_title": "\"Leanne Morgan\"",
+    "release_date": "2026-01-26 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
@@ -208,12 +215,5 @@
     "release_date": "2026-01-23 08:30:00",
     "mp3_url": "https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "e7bdaaa6-1cb6-42e8-964d-b85b3d730d76",
-    "episode_title": "\"Leanne Morgan\"",
-    "release_date": "2026-01-26 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]

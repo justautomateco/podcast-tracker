@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-29 12:36:57
+Last updated: 2026-01-30 01:15:25
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-01-29 12:36:57
 ---
 
 ## TED Talks Daily
+
+### How to become a K-pop superstar — in 7 minutes | Charlene Kaye
+
+**Released:** 2026-01-29 16:03:43
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3)
+
+---
 
 ### What happened when I started scoring my life every day | Chris Musser
 
@@ -56,14 +64,6 @@ Last updated: 2026-01-29 12:36:57
 
 ---
 
-### How to power the world 24/7 — without oil | Cindy Taff
-
-**Released:** 2026-01-24 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6972776c6982fb7698e873ee/media.mp3)
-
----
-
 ## Planet Money
 
 ### Can transforming neighborhoods help kids escape poverty?
@@ -84,6 +84,14 @@ Last updated: 2026-01-29 12:36:57
 
 ## The Joe Rogan Experience
 
+### #2445 - Bert Kreischer
+
+**Released:** 2026-01-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
+
+---
+
 ### #2444 - Andrew Wilson
 
 **Released:** 2026-01-28 18:00:00
@@ -97,14 +105,6 @@ Last updated: 2026-01-29 12:36:57
 **Released:** 2026-01-23 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3026399712.mp3?updated=1769189693)
-
----
-
-### #2442 - Ehsan Ahmad
-
-**Released:** 2026-01-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7479661239.mp3?updated=1769102298)
 
 ---
 
@@ -149,14 +149,6 @@ Last updated: 2026-01-29 12:36:57
 **Released:** 2026-01-24 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f75cc896-a3e7-4398-ac0e-b3d7013904cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Ballad of Biggie and Tupac
-
-**Released:** 2026-01-22 14:17:58
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1cfebf6-8a33-4fb4-9dc4-b3da00e55074/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -206,6 +198,16 @@ Last updated: 2026-01-29 12:36:57
 
 ---
 
+## Revisionist History
+
+### Invisible Infrastructure with T-Mobile for Business
+
+**Released:** 2026-01-29 19:50:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### Truth and Consequences: The Moth Radio Hour
@@ -221,6 +223,16 @@ Last updated: 2026-01-29 12:36:57
 **Released:** 2026-01-23 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8935321889.mp3?updated=1769096788)
+
+---
+
+## SmartLess 
+
+### "Leanne Morgan"
+
+**Released:** 2026-01-26 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
 
 ---
 
@@ -265,16 +277,6 @@ Last updated: 2026-01-29 12:36:57
 **Released:** 2026-01-23 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34c62a8a-9e0a-4ea0-9eb3-eb191ff8197d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Leanne Morgan"
-
-**Released:** 2026-01-26 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
 
 ---
 
