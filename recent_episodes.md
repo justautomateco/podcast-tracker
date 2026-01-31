@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-01-31 01:12:40
+Last updated: 2026-01-31 12:29:03
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-01-31 01:12:40
 **Released:** 2026-01-30 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 851: Try a Little Tenderness
-
-**Released:** 2026-01-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
 
 ---
 
@@ -64,7 +54,25 @@ Last updated: 2026-01-31 01:12:40
 
 ---
 
+## This American Life
+
+### 851: Try a Little Tenderness
+
+**Released:** 2026-01-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+
+---
+
 ## Planet Money
+
+### Can Trump make buying a home more affordable?
+
+**Released:** 2026-01-31 01:28:14
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
+
+---
 
 ### Can transforming neighborhoods help kids escape poverty?
 
@@ -74,37 +82,21 @@ Last updated: 2026-01-31 01:12:40
 
 ---
 
-## Stuff You Should Know
+## The Joe Rogan Experience
 
-### The Magnificent Golden Gate Bridge
+### #2445 - Bert Kreischer
 
-**Released:** 2026-01-29 10:00:00
+**Released:** 2026-01-29 18:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Magic 8 Ball
-
-**Released:** 2026-01-28 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
 
 ---
 
-### The Charge of the Light Brigade 
+### #2444 - Andrew Wilson
 
-**Released:** 2026-01-27 15:46:52
+**Released:** 2026-01-28 18:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The Truth Behind Cage-Free and Free-Range
-
-**Released:** 2026-01-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f75cc896-a3e7-4398-ac0e-b3d7013904cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
 
 ---
 
@@ -136,21 +128,37 @@ Last updated: 2026-01-31 01:12:40
 
 ---
 
-## The Joe Rogan Experience
+## Stuff You Should Know
 
-### #2445 - Bert Kreischer
+### Selects: Operation Mincemeat: How A Corpse Fooled the Nazis
 
-**Released:** 2026-01-29 18:00:00
+**Released:** 2026-01-31 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### #2444 - Andrew Wilson
+### The Magnificent Golden Gate Bridge
 
-**Released:** 2026-01-28 18:00:00
+**Released:** 2026-01-29 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Magic 8 Ball
+
+**Released:** 2026-01-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Charge of the Light Brigade 
+
+**Released:** 2026-01-27 15:46:52
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -172,6 +180,16 @@ Last updated: 2026-01-31 01:12:40
 
 ---
 
+## Revisionist History
+
+### Invisible Infrastructure with T-Mobile for Business
+
+**Released:** 2026-01-29 19:50:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Serial Entrepreneur Mark Cuban
@@ -190,13 +208,31 @@ Last updated: 2026-01-31 01:12:40
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### Invisible Infrastructure with T-Mobile for Business
+### A Clown Is Not An Alibi
 
-**Released:** 2026-01-29 19:50:00
+**Released:** 2026-01-29 05:05:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+
+---
+
+### Charli XCX
+
+**Released:** 2026-01-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Leanne Morgan"
+
+**Released:** 2026-01-26 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
 
 ---
 
@@ -215,34 +251,6 @@ Last updated: 2026-01-31 01:12:40
 **Released:** 2026-01-27 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636)
-
----
-
-## SmartLess 
-
-### "Leanne Morgan"
-
-**Released:** 2026-01-26 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### A Clown Is Not An Alibi
-
-**Released:** 2026-01-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
-
----
-
-### Charli XCX
-
-**Released:** 2026-01-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
 
 ---
 

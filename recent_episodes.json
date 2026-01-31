@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "45828 at https://www.thisamericanlife.org",
-    "episode_title": "851: Try a Little Tenderness",
-    "release_date": "2026-01-25 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "697b83286594220953feeba5",
     "episode_title": "Why can't we better prepare for extreme weather? | Catherine Nakalembe",
     "release_date": "2026-01-30 16:00:00",
@@ -49,6 +42,20 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "45828 at https://www.thisamericanlife.org",
+    "episode_title": "851: Try a Little Tenderness",
+    "release_date": "2026-01-25 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "f9d86fe5-6140-4f8b-96d9-50fc6280972b",
+    "episode_title": "Can Trump make buying a home more affordable?",
+    "release_date": "2026-01-31 01:28:14",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "ccc902c3-3887-455a-ac40-cb253f1cc533",
     "episode_title": "Can transforming neighborhoods help kids escape poverty?",
     "release_date": "2026-01-28 22:45:17",
@@ -56,32 +63,18 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "57b21caf-5106-4f77-a88f-b3e1000ac98e",
-    "episode_title": "The Magnificent Golden Gate Bridge",
-    "release_date": "2026-01-29 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
+    "episode_title": "#2445 - Bert Kreischer",
+    "release_date": "2026-01-29 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "72507613-548d-4f8c-a2f2-b3de016846bb",
-    "episode_title": "Short Stuff: Magic 8 Ball",
-    "release_date": "2026-01-28 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "e6722dc2-12b7-4ce8-b6d9-b3df00f58283",
-    "episode_title": "The Charge of the Light Brigade ",
-    "release_date": "2026-01-27 15:46:52",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "f75cc896-a3e7-4398-ac0e-b3d7013904cc",
-    "episode_title": "Selects: The Truth Behind Cage-Free and Free-Range",
-    "release_date": "2026-01-24 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f75cc896-a3e7-4398-ac0e-b3d7013904cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
+    "episode_title": "#2444 - Andrew Wilson",
+    "release_date": "2026-01-28 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "ce662e41-bc47-4a5c-88f5-9e7fa947e441",
@@ -105,18 +98,32 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
-    "episode_title": "#2445 - Bert Kreischer",
-    "release_date": "2026-01-29 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "903f63f2-e8ce-4192-8b4e-b3d901641564",
+    "episode_title": "Selects: Operation Mincemeat: How A Corpse Fooled the Nazis",
+    "release_date": "2026-01-31 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
-    "episode_title": "#2444 - Andrew Wilson",
-    "release_date": "2026-01-28 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "57b21caf-5106-4f77-a88f-b3e1000ac98e",
+    "episode_title": "The Magnificent Golden Gate Bridge",
+    "release_date": "2026-01-29 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "72507613-548d-4f8c-a2f2-b3de016846bb",
+    "episode_title": "Short Stuff: Magic 8 Ball",
+    "release_date": "2026-01-28 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "e6722dc2-12b7-4ce8-b6d9-b3df00f58283",
+    "episode_title": "The Charge of the Light Brigade ",
+    "release_date": "2026-01-27 15:46:52",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "gid://art19-episode-locator/V0/d2OAcL37-eO5AlgOhVTpukVm158h8vXkck6weK9mwBY",
@@ -133,6 +140,13 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
+    "guid": "0c1edce3-4221-4cd0-9026-b3e100f10098",
+    "episode_title": "Invisible Infrastructure with T-Mobile for Business",
+    "release_date": "2026-01-29 19:50:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/yCTRu7dOvm6xmCQ-isz_WRqOLDchBVT3gKTHgcs89hs",
     "episode_title": "Advice Line with Serial Entrepreneur Mark Cuban",
     "release_date": "2026-01-29 07:10:00",
@@ -147,11 +161,25 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "0c1edce3-4221-4cd0-9026-b3e100f10098",
-    "episode_title": "Invisible Infrastructure with T-Mobile for Business",
-    "release_date": "2026-01-29 19:50:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
+    "episode_title": "A Clown Is Not An Alibi",
+    "release_date": "2026-01-29 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "eb77b304-4619-4e20-b3b7-6430acb20a74",
+    "episode_title": "Charli XCX",
+    "release_date": "2026-01-26 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e7bdaaa6-1cb6-42e8-964d-b85b3d730d76",
+    "episode_title": "\"Leanne Morgan\"",
+    "release_date": "2026-01-26 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "6b4ecd14-89d4-11f0-b13f-03b1039daed9",
@@ -166,27 +194,6 @@
     "release_date": "2026-01-27 05:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "e7bdaaa6-1cb6-42e8-964d-b85b3d730d76",
-    "episode_title": "\"Leanne Morgan\"",
-    "release_date": "2026-01-26 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
-    "episode_title": "A Clown Is Not An Alibi",
-    "release_date": "2026-01-29 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "eb77b304-4619-4e20-b3b7-6430acb20a74",
-    "episode_title": "Charli XCX",
-    "release_date": "2026-01-26 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/1JqFz4bkml-lWzaXjksL6gVGQW2JjVpG8vAGgIjr9AE",
