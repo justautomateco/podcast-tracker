@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-01 01:27:52
+Last updated: 2026-02-01 12:30:30
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-02-01 01:27:52
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to think critically about history — and why it matters (w/ David Ikard)
+
+**Released:** 2026-02-01 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3)
+
+---
 
 ### The language you're fluent in — but forgot how to hear | Louis VI
 
@@ -43,14 +51,6 @@ Last updated: 2026-02-01 01:27:52
 **Released:** 2026-01-28 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
-
----
-
-### The purity test that's killing clean energy | Riddhima Yadav
-
-**Released:** 2026-01-27 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697250104b6b88f0018097b0/media.mp3)
 
 ---
 
@@ -118,6 +118,24 @@ Last updated: 2026-02-01 01:27:52
 
 ---
 
+## 99% Invisible
+
+### Constitution Breakdown #6: Adam Liptak
+
+**Released:** 2026-01-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
+
+---
+
+### What’s in a Name
+
+**Released:** 2026-01-27 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: Operation Mincemeat: How A Corpse Fooled the Nazis
@@ -149,24 +167,6 @@ Last updated: 2026-02-01 01:27:52
 **Released:** 2026-01-27 15:46:52
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #6: Adam Liptak
-
-**Released:** 2026-01-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
-
----
-
-### What’s in a Name
-
-**Released:** 2026-01-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&feed=BqbsxVfO)
 
 ---
 
@@ -234,6 +234,34 @@ Last updated: 2026-02-01 01:27:52
 
 ---
 
+## SmartLess 
+
+### "Leanne Morgan"
+
+**Released:** 2026-01-26 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### A Clown Is Not An Alibi
+
+**Released:** 2026-01-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+
+---
+
+### Charli XCX
+
+**Released:** 2026-01-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Foreign Object in Butt II
@@ -257,34 +285,6 @@ Last updated: 2026-02-01 01:27:52
 **Released:** 2026-01-26 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### A Clown Is Not An Alibi
-
-**Released:** 2026-01-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
-
----
-
-### Charli XCX
-
-**Released:** 2026-01-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Leanne Morgan"
-
-**Released:** 2026-01-26 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
 
 ---
 
