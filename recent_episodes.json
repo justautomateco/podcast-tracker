@@ -7,45 +7,10 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "697b8675b29f9abc9c9c7d18",
-    "episode_title": "Sunday Pick: How to think critically about history \u2014 and why it matters (w/ David Ikard)",
-    "release_date": "2026-02-01 07:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "697b837b5edeb3034f6b9ebf",
-    "episode_title": "The language you're fluent in \u2014 but forgot how to hear | Louis VI",
-    "release_date": "2026-01-31 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b837b5edeb3034f6b9ebf/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "697b83286594220953feeba5",
-    "episode_title": "Why can't we better prepare for extreme weather? | Catherine Nakalembe",
-    "release_date": "2026-01-30 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "697b829c5edeb3034f6b3b56",
-    "episode_title": "How to become a K-pop superstar \u2014 in 7 minutes | Charlene Kaye",
-    "release_date": "2026-01-29 16:03:43",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "69793f8f15dde02bc68a7f5c",
-    "episode_title": "What happened when I started scoring my life every day | Chris Musser",
-    "release_date": "2026-01-28 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "45828 at https://www.thisamericanlife.org",
-    "episode_title": "851: Try a Little Tenderness",
-    "release_date": "2026-01-25 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3",
+    "guid": "46104 at https://www.thisamericanlife.org",
+    "episode_title": "880: What Is Your Emergency?",
+    "release_date": "2026-02-01 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
     "podcast_name": "This American Life"
   },
   {
@@ -82,6 +47,41 @@
     "release_date": "2026-01-28 18:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "697b8675b29f9abc9c9c7d18",
+    "episode_title": "Sunday Pick: How to think critically about history \u2014 and why it matters (w/ David Ikard)",
+    "release_date": "2026-02-01 07:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "697b837b5edeb3034f6b9ebf",
+    "episode_title": "The language you're fluent in \u2014 but forgot how to hear | Louis VI",
+    "release_date": "2026-01-31 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b837b5edeb3034f6b9ebf/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "697b83286594220953feeba5",
+    "episode_title": "Why can't we better prepare for extreme weather? | Catherine Nakalembe",
+    "release_date": "2026-01-30 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "697b829c5edeb3034f6b3b56",
+    "episode_title": "How to become a K-pop superstar \u2014 in 7 minutes | Charlene Kaye",
+    "release_date": "2026-01-29 16:03:43",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "69793f8f15dde02bc68a7f5c",
+    "episode_title": "What happened when I started scoring my life every day | Chris Musser",
+    "release_date": "2026-01-28 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "ce662e41-bc47-4a5c-88f5-9e7fa947e441",
@@ -133,20 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/yCTRu7dOvm6xmCQ-isz_WRqOLDchBVT3gKTHgcs89hs",
-    "episode_title": "Advice Line with Serial Entrepreneur Mark Cuban",
-    "release_date": "2026-01-29 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/nX6ACm6gD6ZvS-IJQenNDtkSewSEGyiEgdRkkwNpTyg",
-    "episode_title": "Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon",
-    "release_date": "2026-01-26 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/d2OAcL37-eO5AlgOhVTpukVm158h8vXkck6weK9mwBY",
     "episode_title": "#851: Dr. Tommy Wood \u2014 How to Future-Proof Your Brain from Dementia",
     "release_date": "2026-01-28 14:30:00",
@@ -166,6 +152,20 @@
     "release_date": "2026-01-29 19:50:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/yCTRu7dOvm6xmCQ-isz_WRqOLDchBVT3gKTHgcs89hs",
+    "episode_title": "Advice Line with Serial Entrepreneur Mark Cuban",
+    "release_date": "2026-01-29 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/nX6ACm6gD6ZvS-IJQenNDtkSewSEGyiEgdRkkwNpTyg",
+    "episode_title": "Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon",
+    "release_date": "2026-01-26 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "6b4ecd14-89d4-11f0-b13f-03b1039daed9",

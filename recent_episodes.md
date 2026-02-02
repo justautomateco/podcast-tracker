@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-01 12:30:30
+Last updated: 2026-02-02 01:19:58
 
 ## Freakonomics Radio
 
@@ -12,55 +12,13 @@ Last updated: 2026-02-01 12:30:30
 
 ---
 
-## TED Talks Daily
-
-### Sunday Pick: How to think critically about history — and why it matters (w/ David Ikard)
-
-**Released:** 2026-02-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3)
-
----
-
-### The language you're fluent in — but forgot how to hear | Louis VI
-
-**Released:** 2026-01-31 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b837b5edeb3034f6b9ebf/media.mp3)
-
----
-
-### Why can't we better prepare for extreme weather? | Catherine Nakalembe
-
-**Released:** 2026-01-30 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3)
-
----
-
-### How to become a K-pop superstar — in 7 minutes | Charlene Kaye
-
-**Released:** 2026-01-29 16:03:43
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3)
-
----
-
-### What happened when I started scoring my life every day | Chris Musser
-
-**Released:** 2026-01-28 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
-
----
-
 ## This American Life
 
-### 851: Try a Little Tenderness
+### 880: What Is Your Emergency?
 
-**Released:** 2026-01-25 18:00:00
+**Released:** 2026-02-01 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -105,6 +63,48 @@ Last updated: 2026-02-01 12:30:30
 **Released:** 2026-01-28 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
+
+---
+
+## TED Talks Daily
+
+### Sunday Pick: How to think critically about history — and why it matters (w/ David Ikard)
+
+**Released:** 2026-02-01 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3)
+
+---
+
+### The language you're fluent in — but forgot how to hear | Louis VI
+
+**Released:** 2026-01-31 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b837b5edeb3034f6b9ebf/media.mp3)
+
+---
+
+### Why can't we better prepare for extreme weather? | Catherine Nakalembe
+
+**Released:** 2026-01-30 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3)
+
+---
+
+### How to become a K-pop superstar — in 7 minutes | Charlene Kaye
+
+**Released:** 2026-01-29 16:03:43
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b829c5edeb3034f6b3b56/media.mp3)
+
+---
+
+### What happened when I started scoring my life every day | Chris Musser
+
+**Released:** 2026-01-28 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
 
 ---
 
@@ -170,24 +170,6 @@ Last updated: 2026-02-01 12:30:30
 
 ---
 
-## How I Built This
-
-### Advice Line with Serial Entrepreneur Mark Cuban
-
-**Released:** 2026-01-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
-
-**Released:** 2026-01-26 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
@@ -213,6 +195,24 @@ Last updated: 2026-02-01 12:30:30
 **Released:** 2026-01-29 19:50:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Advice Line with Serial Entrepreneur Mark Cuban
+
+**Released:** 2026-01-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
+
+**Released:** 2026-01-26 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
