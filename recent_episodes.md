@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-02 01:19:58
+Last updated: 2026-02-02 12:38:04
 
 ## Freakonomics Radio
 
@@ -9,60 +9,6 @@ Last updated: 2026-02-02 01:19:58
 **Released:** 2026-01-30 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 880: What Is Your Emergency?
-
-**Released:** 2026-02-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
-
----
-
-## Planet Money
-
-### Can Trump make buying a home more affordable?
-
-**Released:** 2026-01-31 01:28:14
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
-
----
-
-### Can transforming neighborhoods help kids escape poverty?
-
-**Released:** 2026-01-28 22:45:17
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
-
----
-
-## The Joe Rogan Experience
-
-### #2446 - Greg Fitzsimmons
-
-**Released:** 2026-01-31 19:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435)
-
----
-
-### #2445 - Bert Kreischer
-
-**Released:** 2026-01-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
-
----
-
-### #2444 - Andrew Wilson
-
-**Released:** 2026-01-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
 
 ---
 
@@ -105,6 +51,60 @@ Last updated: 2026-02-02 01:19:58
 **Released:** 2026-01-28 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
+
+---
+
+## Planet Money
+
+### Can Trump make buying a home more affordable?
+
+**Released:** 2026-01-31 01:28:14
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
+
+---
+
+### Can transforming neighborhoods help kids escape poverty?
+
+**Released:** 2026-01-28 22:45:17
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
+
+---
+
+## This American Life
+
+### 880: What Is Your Emergency?
+
+**Released:** 2026-02-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+
+---
+
+## The Joe Rogan Experience
+
+### #2446 - Greg Fitzsimmons
+
+**Released:** 2026-01-31 19:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435)
+
+---
+
+### #2445 - Bert Kreischer
+
+**Released:** 2026-01-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
+
+---
+
+### #2444 - Andrew Wilson
+
+**Released:** 2026-01-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
 
 ---
 
@@ -188,6 +188,24 @@ Last updated: 2026-02-02 01:19:58
 
 ---
 
+## How I Built This
+
+### HOKA: Jean-Luc Diard and Nicolas Mermoud. The “Clown Shoe” That Became a $2B Bonanza
+
+**Released:** 2026-02-02 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38585fa1-d241-44f8-94fa-6949b1fe1903.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Serial Entrepreneur Mark Cuban
+
+**Released:** 2026-01-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Invisible Infrastructure with T-Mobile for Business
@@ -198,21 +216,47 @@ Last updated: 2026-02-02 01:19:58
 
 ---
 
-## How I Built This
+## Conan O'Brien Needs A Friend
 
-### Advice Line with Serial Entrepreneur Mark Cuban
+### Josh Safdie
 
-**Released:** 2026-01-29 07:10:00
+**Released:** 2026-02-02 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
 
 ---
 
-### Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon
+### A Clown Is Not An Alibi
 
-**Released:** 2026-01-26 08:10:00
+**Released:** 2026-01-29 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Anderson .Paak
+
+**Released:** 2026-02-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Foreign Object in Butt II
+
+**Released:** 2026-01-30 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ellen Huet (on wellness cults)
+
+**Released:** 2026-01-28 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -236,55 +280,11 @@ Last updated: 2026-02-02 01:19:58
 
 ## SmartLess 
 
-### "Leanne Morgan"
+### "Charli xcx"
 
-**Released:** 2026-01-26 08:01:00
+**Released:** 2026-02-02 08:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### A Clown Is Not An Alibi
-
-**Released:** 2026-01-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
-
----
-
-### Charli XCX
-
-**Released:** 2026-01-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Foreign Object in Butt II
-
-**Released:** 2026-01-30 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ellen Huet (on wellness cults)
-
-**Released:** 2026-01-28 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Marcello Hernández
-
-**Released:** 2026-01-26 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
 
 ---
 

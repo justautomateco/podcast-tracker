@@ -7,48 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46104 at https://www.thisamericanlife.org",
-    "episode_title": "880: What Is Your Emergency?",
-    "release_date": "2026-02-01 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "f9d86fe5-6140-4f8b-96d9-50fc6280972b",
-    "episode_title": "Can Trump make buying a home more affordable?",
-    "release_date": "2026-01-31 01:28:14",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "ccc902c3-3887-455a-ac40-cb253f1cc533",
-    "episode_title": "Can transforming neighborhoods help kids escape poverty?",
-    "release_date": "2026-01-28 22:45:17",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "7f34ce0a-fecd-11f0-995d-eb5a78a78a75",
-    "episode_title": "#2446 - Greg Fitzsimmons",
-    "release_date": "2026-01-31 19:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
-    "episode_title": "#2445 - Bert Kreischer",
-    "release_date": "2026-01-29 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
-    "episode_title": "#2444 - Andrew Wilson",
-    "release_date": "2026-01-28 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "697b8675b29f9abc9c9c7d18",
     "episode_title": "Sunday Pick: How to think critically about history \u2014 and why it matters (w/ David Ikard)",
     "release_date": "2026-02-01 07:00:00",
@@ -82,6 +40,48 @@
     "release_date": "2026-01-28 16:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "f9d86fe5-6140-4f8b-96d9-50fc6280972b",
+    "episode_title": "Can Trump make buying a home more affordable?",
+    "release_date": "2026-01-31 01:28:14",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "ccc902c3-3887-455a-ac40-cb253f1cc533",
+    "episode_title": "Can transforming neighborhoods help kids escape poverty?",
+    "release_date": "2026-01-28 22:45:17",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46104 at https://www.thisamericanlife.org",
+    "episode_title": "880: What Is Your Emergency?",
+    "release_date": "2026-02-01 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "7f34ce0a-fecd-11f0-995d-eb5a78a78a75",
+    "episode_title": "#2446 - Greg Fitzsimmons",
+    "release_date": "2026-01-31 19:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
+    "episode_title": "#2445 - Bert Kreischer",
+    "release_date": "2026-01-29 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
+    "episode_title": "#2444 - Andrew Wilson",
+    "release_date": "2026-01-28 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "ce662e41-bc47-4a5c-88f5-9e7fa947e441",
@@ -147,11 +147,11 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "0c1edce3-4221-4cd0-9026-b3e100f10098",
-    "episode_title": "Invisible Infrastructure with T-Mobile for Business",
-    "release_date": "2026-01-29 19:50:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/iU26MOt1hf13xAS0c0H7lUIMAlMLRmK0iIMr_pG4M90",
+    "episode_title": "HOKA: Jean-Luc Diard and Nicolas Mermoud. The \u201cClown Shoe\u201d That Became a $2B Bonanza",
+    "release_date": "2026-02-02 08:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/38585fa1-d241-44f8-94fa-6949b1fe1903.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/yCTRu7dOvm6xmCQ-isz_WRqOLDchBVT3gKTHgcs89hs",
@@ -161,32 +161,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/nX6ACm6gD6ZvS-IJQenNDtkSewSEGyiEgdRkkwNpTyg",
-    "episode_title": "Taylor Guitars: Kurt Listug and Bob Taylor. From $3,700 Shop to Global Icon",
-    "release_date": "2026-01-26 08:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/19dfa293-a385-4441-a784-d59b78360134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "0c1edce3-4221-4cd0-9026-b3e100f10098",
+    "episode_title": "Invisible Infrastructure with T-Mobile for Business",
+    "release_date": "2026-01-29 19:50:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
-    "guid": "6b4ecd14-89d4-11f0-b13f-03b1039daed9",
-    "episode_title": "Puppies and Football: The Moth Podcast",
-    "release_date": "2026-01-30 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6a8d5418-89d4-11f0-b13f-7385b19914c6",
-    "episode_title": "Truth and Consequences: The Moth Radio Hour",
-    "release_date": "2026-01-27 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "e7bdaaa6-1cb6-42e8-964d-b85b3d730d76",
-    "episode_title": "\"Leanne Morgan\"",
-    "release_date": "2026-01-26 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/549e24b5-6299-490e-b715-3d9bc66e6199/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=549e24b5-6299-490e-b715-3d9bc66e6199&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "40814ba2-ec8b-4e2d-8597-ccc23f87f4a6",
+    "episode_title": "Josh Safdie",
+    "release_date": "2026-02-02 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
@@ -196,11 +182,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "eb77b304-4619-4e20-b3b7-6430acb20a74",
-    "episode_title": "Charli XCX",
-    "release_date": "2026-01-26 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/eb7ae72a-f481-4637-9b38-3eba6d73e609/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=eb7ae72a-f481-4637-9b38-3eba6d73e609&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/MObYhrb5yU9jdVkPle5veky0-uMcHqjdptIwahvuiDI",
+    "episode_title": "Anderson .Paak",
+    "release_date": "2026-02-02 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/1JqFz4bkml-lWzaXjksL6gVGQW2JjVpG8vAGgIjr9AE",
@@ -217,10 +203,24 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/7vJ5OWeqMS6P_JZLQtqLdh7xRkSbFl3PojsFieu_ciA",
-    "episode_title": "Marcello Herna\u0301ndez",
-    "release_date": "2026-01-26 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/11b45f84-5cea-4f84-8766-2bb75a322588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "6b4ecd14-89d4-11f0-b13f-03b1039daed9",
+    "episode_title": "Puppies and Football: The Moth Podcast",
+    "release_date": "2026-01-30 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6a8d5418-89d4-11f0-b13f-7385b19914c6",
+    "episode_title": "Truth and Consequences: The Moth Radio Hour",
+    "release_date": "2026-01-27 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2945671164.mp3?updated=1769199636",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b99b66f6-92b1-40fd-83f1-c6b4febf912a",
+    "episode_title": "\"Charli xcx\"",
+    "release_date": "2026-02-02 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
