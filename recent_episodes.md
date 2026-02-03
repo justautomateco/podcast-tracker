@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-02 12:38:04
+Last updated: 2026-02-03 01:20:08
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-02-02 12:38:04
 ---
 
 ## TED Talks Daily
+
+### In defense of hip-hop | Roland Fryer
+
+**Released:** 2026-02-02 16:03:28
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6980ca7313c1477af2c36835/media.mp3)
+
+---
 
 ### Sunday Pick: How to think critically about history — and why it matters (w/ David Ikard)
 
@@ -46,11 +54,13 @@ Last updated: 2026-02-02 12:38:04
 
 ---
 
-### What happened when I started scoring my life every day | Chris Musser
+## This American Life
 
-**Released:** 2026-01-28 16:00:00
+### 880: What Is Your Emergency?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69793f8f15dde02bc68a7f5c/media.mp3)
+**Released:** 2026-02-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -69,16 +79,6 @@ Last updated: 2026-02-02 12:38:04
 **Released:** 2026-01-28 22:45:17
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
-
----
-
-## This American Life
-
-### 880: What Is Your Emergency?
-
-**Released:** 2026-02-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -110,11 +110,11 @@ Last updated: 2026-02-02 12:38:04
 
 ## Hidden Brain
 
-### You 2.0: Trusting Your Doubt
+### Keeping Secrets
 
-**Released:** 2026-01-26 20:00:00
+**Released:** 2026-02-02 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e671b260-9f5a-4533-adc2-975cb3e543c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e671b260-9f5a-4533-adc2-975cb3e543c7&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
 
 ---
 
@@ -167,24 +167,6 @@ Last updated: 2026-02-02 12:38:04
 **Released:** 2026-01-27 15:46:52
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e6722dc2-12b7-4ce8-b6d9-b3df00f58283/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
-
-**Released:** 2026-01-28 14:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #850: The Peace That's Always Within You — Guided Meditation by Zen Master Henry Shukman
-
-**Released:** 2026-01-26 15:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/da855215-af3e-4203-950f-253d0c149da0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -257,6 +239,16 @@ Last updated: 2026-02-02 12:38:04
 **Released:** 2026-01-28 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
+
+**Released:** 2026-01-28 14:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
