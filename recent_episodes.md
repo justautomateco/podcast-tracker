@@ -1,14 +1,32 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-04 01:15:34
+Last updated: 2026-02-04 12:39:03
 
 ## Freakonomics Radio
+
+### Why Don’t Running Backs Get Paid Anymore? (Update)
+
+**Released:** 2026-02-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
+
+---
 
 ### 661. Can A.I. Save Your Life?
 
 **Released:** 2026-01-30 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 880: What Is Your Emergency?
+
+**Released:** 2026-02-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -56,6 +74,14 @@ Last updated: 2026-02-04 01:15:34
 
 ## Planet Money
 
+### Riding with the repo man (update)
+
+**Released:** 2026-02-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+
+---
+
 ### Can Trump make buying a home more affordable?
 
 **Released:** 2026-01-31 01:28:14
@@ -69,16 +95,6 @@ Last updated: 2026-02-04 01:15:34
 **Released:** 2026-01-28 22:45:17
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
-
----
-
-## This American Life
-
-### 880: What Is Your Emergency?
-
-**Released:** 2026-02-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -116,35 +132,15 @@ Last updated: 2026-02-04 01:15:34
 
 ---
 
-## Hidden Brain
-
-### Keeping Secrets
-
-**Released:** 2026-02-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Em Dash
-
-**Released:** 2026-02-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #6: Adam Liptak
-
-**Released:** 2026-01-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: Color Psychology
+
+**Released:** 2026-02-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Helen Keller and Anne Sullivan: Miracle is Right
 
@@ -170,11 +166,31 @@ Last updated: 2026-02-04 01:15:34
 
 ---
 
-### Short Stuff: Magic 8 Ball
+## Hidden Brain
 
-**Released:** 2026-01-28 10:00:00
+### Keeping Secrets
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72507613-548d-4f8c-a2f2-b3de016846bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-02-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Em Dash
+
+**Released:** 2026-02-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #6: Adam Liptak
+
+**Released:** 2026-01-30 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
 
 ---
 
@@ -224,13 +240,29 @@ Last updated: 2026-02-04 01:15:34
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
+### Claudia Rowe (on the foster care system)
 
-**Released:** 2026-01-28 14:30:00
+**Released:** 2026-02-04 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/14534ed2-36ed-4896-9602-d6d7b1937330.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anderson .Paak
+
+**Released:** 2026-02-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Foreign Object in Butt II
+
+**Released:** 2026-01-30 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,29 +294,13 @@ Last updated: 2026-02-04 01:15:34
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Anderson .Paak
+### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
 
-**Released:** 2026-02-02 08:30:00
+**Released:** 2026-01-28 14:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Foreign Object in Butt II
-
-**Released:** 2026-01-30 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ellen Huet (on wellness cults)
-
-**Released:** 2026-01-28 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/009d17c4-92b2-427d-8902-0c966400b982.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
