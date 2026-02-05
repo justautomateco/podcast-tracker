@@ -1,24 +1,10 @@
 [
   {
-    "guid": "b0a36725-bc08-410a-a74a-203debb3c3c3",
-    "episode_title": "Why Don\u2019t Running Backs Get Paid Anymore? (Update)",
-    "release_date": "2026-02-04 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "09d5bc8f-5679-45e6-81b1-1d3c7d9ae123",
-    "episode_title": "661. Can A.I. Save Your Life?",
-    "release_date": "2026-01-30 11:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46104 at https://www.thisamericanlife.org",
-    "episode_title": "880: What Is Your Emergency?",
-    "release_date": "2026-02-01 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
-    "podcast_name": "This American Life"
+    "guid": "69836b6492cc2b35f6a9fba4",
+    "episode_title": "How a dung beetle inspired a better AI model | Nanjira Sambuli",
+    "release_date": "2026-02-04 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69821a7ec8310ac486f4ae41",
@@ -49,11 +35,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "697b83286594220953feeba5",
-    "episode_title": "Why can't we better prepare for extreme weather? | Catherine Nakalembe",
-    "release_date": "2026-01-30 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46104 at https://www.thisamericanlife.org",
+    "episode_title": "880: What Is Your Emergency?",
+    "release_date": "2026-02-01 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "b0a36725-bc08-410a-a74a-203debb3c3c3",
+    "episode_title": "Why Don\u2019t Running Backs Get Paid Anymore? (Update)",
+    "release_date": "2026-02-04 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "09d5bc8f-5679-45e6-81b1-1d3c7d9ae123",
+    "episode_title": "661. Can A.I. Save Your Life?",
+    "release_date": "2026-01-30 11:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "8e7ceb2c-8338-4587-a521-591c18a3b278",
@@ -70,39 +70,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "ccc902c3-3887-455a-ac40-cb253f1cc533",
-    "episode_title": "Can transforming neighborhoods help kids escape poverty?",
-    "release_date": "2026-01-28 22:45:17",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "1e93ac5a-00a9-11f1-95dc-3b8591a9f2e8",
-    "episode_title": "#2447 - Mike Benz",
-    "release_date": "2026-02-03 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4851286736.mp3?updated=1770139831",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "7f34ce0a-fecd-11f0-995d-eb5a78a78a75",
-    "episode_title": "#2446 - Greg Fitzsimmons",
-    "release_date": "2026-01-31 19:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
-    "episode_title": "#2445 - Bert Kreischer",
-    "release_date": "2026-01-29 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0f92f00e-fc02-11f0-9af4-bb6a66e33e22",
-    "episode_title": "#2444 - Andrew Wilson",
-    "release_date": "2026-01-28 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "1cc3948c-6e10-43bb-bc54-6583ce951c1e",
+    "episode_title": "Keeping Secrets",
+    "release_date": "2026-02-02 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "e4002354-1292-4b45-b06f-b3df012f4061",
@@ -133,11 +105,32 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "1cc3948c-6e10-43bb-bc54-6583ce951c1e",
-    "episode_title": "Keeping Secrets",
-    "release_date": "2026-02-02 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "6dc0bccc-0177-11f1-9c54-ff832000dc7c",
+    "episode_title": "#2448 - Andrew Doyle",
+    "release_date": "2026-02-04 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4585485091.mp3?updated=1770225975",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "1e93ac5a-00a9-11f1-95dc-3b8591a9f2e8",
+    "episode_title": "#2447 - Mike Benz",
+    "release_date": "2026-02-03 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4851286736.mp3?updated=1770139831",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "7f34ce0a-fecd-11f0-995d-eb5a78a78a75",
+    "episode_title": "#2446 - Greg Fitzsimmons",
+    "release_date": "2026-01-31 19:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6276cca0-fccf-11f0-9dec-13bf28092399",
+    "episode_title": "#2445 - Bert Kreischer",
+    "release_date": "2026-01-29 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "cef0b883-9c04-4ff8-8c3a-e197d6dca301",
@@ -175,6 +168,20 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "40814ba2-ec8b-4e2d-8597-ccc23f87f4a6",
+    "episode_title": "Josh Safdie",
+    "release_date": "2026-02-02 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
+    "episode_title": "A Clown Is Not An Alibi",
+    "release_date": "2026-01-29 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "6b736e94-89d4-11f0-b13f-5707abef26c9",
     "episode_title": "Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour",
     "release_date": "2026-02-03 05:25:00",
@@ -210,20 +217,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "40814ba2-ec8b-4e2d-8597-ccc23f87f4a6",
-    "episode_title": "Josh Safdie",
-    "release_date": "2026-02-02 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3a1f579a-1e53-4cfd-8639-5d44131318a8",
-    "episode_title": "A Clown Is Not An Alibi",
-    "release_date": "2026-01-29 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "b99b66f6-92b1-40fd-83f1-c6b4febf912a",
     "episode_title": "\"Charli xcx\"",
     "release_date": "2026-02-02 08:01:00",
@@ -231,10 +224,10 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/d2OAcL37-eO5AlgOhVTpukVm158h8vXkck6weK9mwBY",
-    "episode_title": "#851: Dr. Tommy Wood \u2014 How to Future-Proof Your Brain from Dementia",
-    "release_date": "2026-01-28 14:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "guid": "gid://art19-episode-locator/V0/oOdn6PD753H5wApQ5yl37CGTTzBC7gHG3ZdtdSmbq3k",
+    "episode_title": "#852: Tim McGraw \u2014 Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity",
+    "release_date": "2026-02-04 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
   }
 ]

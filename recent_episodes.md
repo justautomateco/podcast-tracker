@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-04 12:39:03
-
-## Freakonomics Radio
-
-### Why Don’t Running Backs Get Paid Anymore? (Update)
-
-**Released:** 2026-02-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
-
----
-
-### 661. Can A.I. Save Your Life?
-
-**Released:** 2026-01-30 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 880: What Is Your Emergency?
-
-**Released:** 2026-02-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
-
----
+Last updated: 2026-02-05 01:16:23
 
 ## TED Talks Daily
+
+### How a dung beetle inspired a better AI model | Nanjira Sambuli
+
+**Released:** 2026-02-04 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3)
+
+---
 
 ### 1 thing you can do today to be happier | Sonja Lyubomirsky
 
@@ -64,11 +44,31 @@ Last updated: 2026-02-04 12:39:03
 
 ---
 
-### Why can't we better prepare for extreme weather? | Catherine Nakalembe
+## This American Life
 
-**Released:** 2026-01-30 16:00:00
+### 880: What Is Your Emergency?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b83286594220953feeba5/media.mp3)
+**Released:** 2026-02-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+
+---
+
+## Freakonomics Radio
+
+### Why Don’t Running Backs Get Paid Anymore? (Update)
+
+**Released:** 2026-02-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
+
+---
+
+### 661. Can A.I. Save Your Life?
+
+**Released:** 2026-01-30 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
 
 ---
 
@@ -90,45 +90,13 @@ Last updated: 2026-02-04 12:39:03
 
 ---
 
-### Can transforming neighborhoods help kids escape poverty?
+## Hidden Brain
 
-**Released:** 2026-01-28 22:45:17
+### Keeping Secrets
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
+**Released:** 2026-02-02 20:00:00
 
----
-
-## The Joe Rogan Experience
-
-### #2447 - Mike Benz
-
-**Released:** 2026-02-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4851286736.mp3?updated=1770139831)
-
----
-
-### #2446 - Greg Fitzsimmons
-
-**Released:** 2026-01-31 19:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435)
-
----
-
-### #2445 - Bert Kreischer
-
-**Released:** 2026-01-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
-
----
-
-### #2444 - Andrew Wilson
-
-**Released:** 2026-01-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5054065608.mp3?updated=1769621588)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
 
 ---
 
@@ -166,13 +134,37 @@ Last updated: 2026-02-04 12:39:03
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Keeping Secrets
+### #2448 - Andrew Doyle
 
-**Released:** 2026-02-02 20:00:00
+**Released:** 2026-02-04 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4585485091.mp3?updated=1770225975)
+
+---
+
+### #2447 - Mike Benz
+
+**Released:** 2026-02-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4851286736.mp3?updated=1770139831)
+
+---
+
+### #2446 - Greg Fitzsimmons
+
+**Released:** 2026-01-31 19:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9708972540.mp3?updated=1769886435)
+
+---
+
+### #2445 - Bert Kreischer
+
+**Released:** 2026-01-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
 
 ---
 
@@ -222,6 +214,24 @@ Last updated: 2026-02-04 12:39:03
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Josh Safdie
+
+**Released:** 2026-02-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
+
+---
+
+### A Clown Is Not An Alibi
+
+**Released:** 2026-01-29 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour
@@ -266,24 +276,6 @@ Last updated: 2026-02-04 12:39:03
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Josh Safdie
-
-**Released:** 2026-02-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
-
----
-
-### A Clown Is Not An Alibi
-
-**Released:** 2026-01-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Charli xcx"
@@ -296,11 +288,11 @@ Last updated: 2026-02-04 12:39:03
 
 ## The Tim Ferriss Show
 
-### #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Released:** 2026-01-28 14:30:00
+**Released:** 2026-02-04 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ecf87bf-3484-4fbe-b7a0-5035815a214f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
