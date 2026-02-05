@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-05 01:16:23
+Last updated: 2026-02-05 12:40:36
 
 ## TED Talks Daily
 
@@ -44,13 +44,21 @@ Last updated: 2026-02-05 01:16:23
 
 ---
 
-## This American Life
+## Planet Money
 
-### 880: What Is Your Emergency?
+### Riding with the repo man (update)
 
-**Released:** 2026-02-01 18:00:00
+**Released:** 2026-02-04 08:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+
+---
+
+### Can Trump make buying a home more affordable?
+
+**Released:** 2026-01-31 01:28:14
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
 
 ---
 
@@ -72,65 +80,13 @@ Last updated: 2026-02-05 01:16:23
 
 ---
 
-## Planet Money
+## This American Life
 
-### Riding with the repo man (update)
+### 880: What Is Your Emergency?
 
-**Released:** 2026-02-04 08:00:00
+**Released:** 2026-02-01 18:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
-
----
-
-### Can Trump make buying a home more affordable?
-
-**Released:** 2026-01-31 01:28:14
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
-
----
-
-## Hidden Brain
-
-### Keeping Secrets
-
-**Released:** 2026-02-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Color Psychology
-
-**Released:** 2026-02-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Helen Keller and Anne Sullivan: Miracle is Right
-
-**Released:** 2026-02-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Operation Mincemeat: How A Corpse Fooled the Nazis
-
-**Released:** 2026-01-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Magnificent Golden Gate Bridge
-
-**Released:** 2026-01-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57b21caf-5106-4f77-a88f-b3e1000ac98e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -168,6 +124,50 @@ Last updated: 2026-02-05 01:16:23
 
 ---
 
+## Hidden Brain
+
+### Keeping Secrets
+
+**Released:** 2026-02-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### The Cajun Navy: Heroes or Liability?
+
+**Released:** 2026-02-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d159e897-0d7c-4422-851a-b3e700ef487a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Color Psychology
+
+**Released:** 2026-02-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Helen Keller and Anne Sullivan: Miracle is Right
+
+**Released:** 2026-02-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Operation Mincemeat: How A Corpse Fooled the Nazis
+
+**Released:** 2026-01-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## 99% Invisible
 
 ### The Em Dash
@@ -186,24 +186,6 @@ Last updated: 2026-02-05 01:16:23
 
 ---
 
-## How I Built This
-
-### HOKA: Jean-Luc Diard and Nicolas Mermoud. The “Clown Shoe” That Became a $2B Bonanza
-
-**Released:** 2026-02-02 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38585fa1-d241-44f8-94fa-6949b1fe1903.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Serial Entrepreneur Mark Cuban
-
-**Released:** 2026-01-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/34651423-8567-4072-bc77-7d6cdf9579b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Invisible Infrastructure with T-Mobile for Business
@@ -214,21 +196,13 @@ Last updated: 2026-02-05 01:16:23
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Josh Safdie
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Released:** 2026-02-02 05:05:00
+**Released:** 2026-02-04 17:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
-
----
-
-### A Clown Is Not An Alibi
-
-**Released:** 2026-01-29 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec7dd8de-cb55-4cb2-a6fb-7fe9af7965a8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -247,6 +221,52 @@ Last updated: 2026-02-05 01:16:23
 **Released:** 2026-01-30 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004)
+
+---
+
+## SmartLess 
+
+### "Charli xcx"
+
+**Released:** 2026-02-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### We Have A Condom For That
+
+**Released:** 2026-02-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH)
+
+---
+
+### Josh Safdie
+
+**Released:** 2026-02-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Advice Line with Jon Stein of Betterment
+
+**Released:** 2026-02-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fde1ba0-40df-4463-9fe1-f23666e6c487.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### HOKA: Jean-Luc Diard and Nicolas Mermoud. The “Clown Shoe” That Became a $2B Bonanza
+
+**Released:** 2026-02-02 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38585fa1-d241-44f8-94fa-6949b1fe1903.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -273,26 +293,6 @@ Last updated: 2026-02-05 01:16:23
 **Released:** 2026-01-30 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Charli xcx"
-
-**Released:** 2026-02-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
-
-**Released:** 2026-02-04 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
