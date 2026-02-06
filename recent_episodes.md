@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-05 12:40:36
+Last updated: 2026-02-06 01:16:01
+
+## Freakonomics Radio
+
+### Why Don’t Running Backs Get Paid Anymore? (Update)
+
+**Released:** 2026-02-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
+
+---
+
+### 661. Can A.I. Save Your Life?
+
+**Released:** 2026-01-30 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene
+
+**Released:** 2026-02-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3)
+
+---
 
 ### How a dung beetle inspired a better AI model | Nanjira Sambuli
 
@@ -36,11 +62,13 @@ Last updated: 2026-02-05 12:40:36
 
 ---
 
-### The language you're fluent in — but forgot how to hear | Louis VI
+## This American Life
 
-**Released:** 2026-01-31 16:00:00
+### 880: What Is Your Emergency?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b837b5edeb3034f6b9ebf/media.mp3)
+**Released:** 2026-02-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
 
 ---
 
@@ -62,35 +90,43 @@ Last updated: 2026-02-05 12:40:36
 
 ---
 
-## Freakonomics Radio
+## 99% Invisible
 
-### Why Don’t Running Backs Get Paid Anymore? (Update)
+### The Em Dash
 
-**Released:** 2026-02-04 11:00:00
+**Released:** 2026-02-03 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
-
----
-
-### 661. Can A.I. Save Your Life?
-
-**Released:** 2026-01-30 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9cd9e014-3dc2-4fce-b000-bb827e39cbee/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9cd9e014-3dc2-4fce-b000-bb827e39cbee&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
 
 ---
 
-## This American Life
+### Constitution Breakdown #6: Adam Liptak
 
-### 880: What Is Your Emergency?
+**Released:** 2026-01-30 18:15:00
 
-**Released:** 2026-02-01 18:00:00
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+---
+
+## Hidden Brain
+
+### Keeping Secrets
+
+**Released:** 2026-02-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2449 - Raul Bilecky
+
+**Released:** 2026-02-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8924602297.mp3?updated=1770311634)
+
+---
 
 ### #2448 - Andrew Doyle
 
@@ -116,21 +152,13 @@ Last updated: 2026-02-05 12:40:36
 
 ---
 
-### #2445 - Bert Kreischer
+## The Tim Ferriss Show
 
-**Released:** 2026-01-29 18:00:00
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087215754.mp3?updated=1769709688)
+**Released:** 2026-02-04 17:30:00
 
----
-
-## Hidden Brain
-
-### Keeping Secrets
-
-**Released:** 2026-02-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -165,90 +193,6 @@ Last updated: 2026-02-05 12:40:36
 **Released:** 2026-01-31 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Em Dash
-
-**Released:** 2026-02-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #6: Adam Liptak
-
-**Released:** 2026-01-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Invisible Infrastructure with T-Mobile for Business
-
-**Released:** 2026-01-29 19:50:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0c1edce3-4221-4cd0-9026-b3e100f10098/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
-
-**Released:** 2026-02-04 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour
-
-**Released:** 2026-02-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653)
-
----
-
-### Puppies and Football: The Moth Podcast
-
-**Released:** 2026-01-30 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004)
-
----
-
-## SmartLess 
-
-### "Charli xcx"
-
-**Released:** 2026-02-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### We Have A Condom For That
-
-**Released:** 2026-02-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH)
-
----
-
-### Josh Safdie
-
-**Released:** 2026-02-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
 
 ---
 
@@ -293,6 +237,52 @@ Last updated: 2026-02-05 12:40:36
 **Released:** 2026-01-30 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ddb2f671-9971-4f9c-9da4-d7f1d78e6361.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour
+
+**Released:** 2026-02-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653)
+
+---
+
+### Puppies and Football: The Moth Podcast
+
+**Released:** 2026-01-30 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8557296657.mp3?updated=1769542004)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### We Have A Condom For That
+
+**Released:** 2026-02-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH)
+
+---
+
+### Josh Safdie
+
+**Released:** 2026-02-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Charli xcx"
+
+**Released:** 2026-02-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
 
 ---
 
