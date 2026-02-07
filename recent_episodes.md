@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-07 01:14:26
-
-## Freakonomics Radio
-
-### 662. If You’re Not Cheating, You’re Not Trying
-
-**Released:** 2026-02-06 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d6cea6dd-e260-4957-942f-8ec8f3f07f9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d6cea6dd-e260-4957-942f-8ec8f3f07f9d&feed=Y8lFbOT4)
-
----
-
-### Why Don’t Running Backs Get Paid Anymore? (Update)
-
-**Released:** 2026-02-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
-
----
+Last updated: 2026-02-07 12:29:58
 
 ## TED Talks Daily
 
@@ -62,21 +44,21 @@ Last updated: 2026-02-07 01:14:26
 
 ---
 
-## Planet Money
+## Freakonomics Radio
 
-### Riding with the repo man (update)
+### 662. If You’re Not Cheating, You’re Not Trying
 
-**Released:** 2026-02-04 08:00:00
+**Released:** 2026-02-06 11:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d6cea6dd-e260-4957-942f-8ec8f3f07f9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d6cea6dd-e260-4957-942f-8ec8f3f07f9d&feed=Y8lFbOT4)
 
 ---
 
-### Can Trump make buying a home more affordable?
+### Why Don’t Running Backs Get Paid Anymore? (Update)
 
-**Released:** 2026-01-31 01:28:14
+**Released:** 2026-02-04 11:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
 
 ---
 
@@ -87,6 +69,34 @@ Last updated: 2026-02-07 01:14:26
 **Released:** 2026-02-01 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+
+---
+
+## Planet Money
+
+### Iran, protests, and sanctions
+
+**Released:** 2026-02-07 03:16:10
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
+
+---
+
+### Riding with the repo man (update)
+
+**Released:** 2026-02-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+
+---
+
+## Hidden Brain
+
+### Keeping Secrets
+
+**Released:** 2026-02-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
 
 ---
 
@@ -132,16 +142,6 @@ Last updated: 2026-02-07 01:14:26
 
 ---
 
-## Hidden Brain
-
-### Keeping Secrets
-
-**Released:** 2026-02-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### The Em Dash
@@ -153,6 +153,14 @@ Last updated: 2026-02-07 01:14:26
 ---
 
 ## Stuff You Should Know
+
+### Selects: Why Do Great Flood Myths Seem To Be Universal?
+
+**Released:** 2026-02-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/043464bd-69b5-4b85-ae42-b3df014036b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Cajun Navy: Heroes or Liability?
 
@@ -178,14 +186,6 @@ Last updated: 2026-02-07 01:14:26
 
 ---
 
-### Selects: Operation Mincemeat: How A Corpse Fooled the Nazis
-
-**Released:** 2026-01-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jon Stein of Betterment
@@ -204,6 +204,16 @@ Last updated: 2026-02-07 01:14:26
 
 ---
 
+## The Tim Ferriss Show
+
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+
+**Released:** 2026-02-04 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Love Hurts: The Moth Podcast
@@ -219,32 +229,6 @@ Last updated: 2026-02-07 01:14:26
 **Released:** 2026-02-03 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Cooking Disaster II
-
-**Released:** 2026-02-06 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d1acaada-95cc-449d-b3c2-1627be37ee55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Claudia Rowe (on the foster care system)
-
-**Released:** 2026-02-04 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/14534ed2-36ed-4896-9602-d6d7b1937330.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Anderson .Paak
-
-**Released:** 2026-02-02 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -276,13 +260,29 @@ Last updated: 2026-02-07 01:14:26
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+### Armchair Anonymous: Cooking Disaster II
 
-**Released:** 2026-02-04 17:30:00
+**Released:** 2026-02-06 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d1acaada-95cc-449d-b3c2-1627be37ee55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Claudia Rowe (on the foster care system)
+
+**Released:** 2026-02-04 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/14534ed2-36ed-4896-9602-d6d7b1937330.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Anderson .Paak
+
+**Released:** 2026-02-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
