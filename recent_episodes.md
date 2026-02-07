@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-06 12:38:50
+Last updated: 2026-02-07 01:14:26
 
 ## Freakonomics Radio
 
@@ -17,6 +17,48 @@ Last updated: 2026-02-06 12:38:50
 **Released:** 2026-02-04 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
+
+---
+
+## TED Talks Daily
+
+### A different way to measure success in health care | Andrew Bastawrous
+
+**Released:** 2026-02-06 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bdf45dd05b225174f0cd/media.mp3)
+
+---
+
+### Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene
+
+**Released:** 2026-02-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3)
+
+---
+
+### What ancestral intelligence can teach us about AI | Nanjira Sambuli
+
+**Released:** 2026-02-04 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3)
+
+---
+
+### 1 thing you can do today to be happier | Sonja Lyubomirsky
+
+**Released:** 2026-02-03 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821a7ec8310ac486f4ae41/media.mp3)
+
+---
+
+### In defense of hip-hop | Roland Fryer
+
+**Released:** 2026-02-02 16:03:28
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6980ca7313c1477af2c36835/media.mp3)
 
 ---
 
@@ -48,49 +90,15 @@ Last updated: 2026-02-06 12:38:50
 
 ---
 
-## TED Talks Daily
-
-### Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene
-
-**Released:** 2026-02-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3)
-
----
-
-### How a dung beetle inspired a better AI model | Nanjira Sambuli
-
-**Released:** 2026-02-04 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3)
-
----
-
-### 1 thing you can do today to be happier | Sonja Lyubomirsky
-
-**Released:** 2026-02-03 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821a7ec8310ac486f4ae41/media.mp3)
-
----
-
-### In defense of hip-hop | Roland Fryer
-
-**Released:** 2026-02-02 16:03:28
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6980ca7313c1477af2c36835/media.mp3)
-
----
-
-### Sunday Pick: How to think critically about history — and why it matters (w/ David Ikard)
-
-**Released:** 2026-02-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3)
-
----
-
 ## The Joe Rogan Experience
+
+### #2450 - Tommy Wood
+
+**Released:** 2026-02-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7023346046.mp3?updated=1770395897)
+
+---
 
 ### #2449 - Raul Bilecky
 
@@ -134,6 +142,16 @@ Last updated: 2026-02-06 12:38:50
 
 ---
 
+## 99% Invisible
+
+### The Em Dash
+
+**Released:** 2026-02-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### The Cajun Navy: Heroes or Liability?
@@ -165,24 +183,6 @@ Last updated: 2026-02-06 12:38:50
 **Released:** 2026-01-31 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Em Dash
-
-**Released:** 2026-02-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #6: Adam Liptak
-
-**Released:** 2026-01-30 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO)
 
 ---
 

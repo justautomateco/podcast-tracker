@@ -14,6 +14,41 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6984bdf45dd05b225174f0cd",
+    "episode_title": "A different way to measure success in health care | Andrew Bastawrous",
+    "release_date": "2026-02-06 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bdf45dd05b225174f0cd/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6984bc56a6617e0fbdc9edef",
+    "episode_title": "Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene",
+    "release_date": "2026-02-05 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "69836b6492cc2b35f6a9fba4",
+    "episode_title": "What ancestral intelligence can teach us about AI | Nanjira Sambuli",
+    "release_date": "2026-02-04 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "69821a7ec8310ac486f4ae41",
+    "episode_title": "1 thing you can do today to be happier | Sonja Lyubomirsky",
+    "release_date": "2026-02-03 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821a7ec8310ac486f4ae41/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6980ca7313c1477af2c36835",
+    "episode_title": "In defense of hip-hop | Roland Fryer",
+    "release_date": "2026-02-02 16:03:28",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6980ca7313c1477af2c36835/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "8e7ceb2c-8338-4587-a521-591c18a3b278",
     "episode_title": "Riding with the repo man (update)",
     "release_date": "2026-02-04 08:00:00",
@@ -35,39 +70,11 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "6984bc56a6617e0fbdc9edef",
-    "episode_title": "Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene",
-    "release_date": "2026-02-05 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "69836b6492cc2b35f6a9fba4",
-    "episode_title": "How a dung beetle inspired a better AI model | Nanjira Sambuli",
-    "release_date": "2026-02-04 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69836b6492cc2b35f6a9fba4/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "69821a7ec8310ac486f4ae41",
-    "episode_title": "1 thing you can do today to be happier | Sonja Lyubomirsky",
-    "release_date": "2026-02-03 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821a7ec8310ac486f4ae41/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6980ca7313c1477af2c36835",
-    "episode_title": "In defense of hip-hop | Roland Fryer",
-    "release_date": "2026-02-02 16:03:28",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6980ca7313c1477af2c36835/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "697b8675b29f9abc9c9c7d18",
-    "episode_title": "Sunday Pick: How to think critically about history \u2014 and why it matters (w/ David Ikard)",
-    "release_date": "2026-02-01 07:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/697b8675b29f9abc9c9c7d18/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "a46bb368-032e-11f1-b6fa-678b37cb6141",
+    "episode_title": "#2450 - Tommy Wood",
+    "release_date": "2026-02-06 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7023346046.mp3?updated=1770395897",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "d9afde8a-0245-11f1-b677-c75fa897aec8",
@@ -105,6 +112,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "cef0b883-9c04-4ff8-8c3a-e197d6dca301",
+    "episode_title": "The Em Dash",
+    "release_date": "2026-02-03 18:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "d159e897-0d7c-4422-851a-b3e700ef487a",
     "episode_title": "The Cajun Navy: Heroes or Liability?",
     "release_date": "2026-02-05 10:00:00",
@@ -131,20 +145,6 @@
     "release_date": "2026-01-31 10:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/903f63f2-e8ce-4192-8b4e-b3d901641564/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "cef0b883-9c04-4ff8-8c3a-e197d6dca301",
-    "episode_title": "The Em Dash",
-    "release_date": "2026-02-03 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "97ee1bf2-a1a5-4ab2-b76f-dd74375c206e",
-    "episode_title": "Constitution Breakdown #6: Adam Liptak",
-    "release_date": "2026-01-30 18:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/o7Gln-lDY1WiGUr1sojim0M2C5q-hKFjGJhM7zn3dfc",
