@@ -14,25 +14,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "4a8e203d-7e07-4a9c-b7ac-b1b8d8a24c05",
-    "episode_title": "Iran, protests, and sanctions",
-    "release_date": "2026-02-07 03:16:10",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "8e7ceb2c-8338-4587-a521-591c18a3b278",
-    "episode_title": "Riding with the repo man (update)",
-    "release_date": "2026-02-04 08:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46104 at https://www.thisamericanlife.org",
-    "episode_title": "880: What Is Your Emergency?",
-    "release_date": "2026-02-01 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
-    "podcast_name": "This American Life"
+    "guid": "6984bed208b5442943924ff0",
+    "episode_title": "Sunday Pick: The Truth About \"The Zone\" (with Steph Curry) | Good Sport",
+    "release_date": "2026-02-08 07:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bed208b5442943924ff0/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6984bd7e65974c013f5c8b72",
@@ -63,11 +49,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69821a7ec8310ac486f4ae41",
-    "episode_title": "1 thing you can do today to be happier | Sonja Lyubomirsky",
-    "release_date": "2026-02-03 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821a7ec8310ac486f4ae41/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46104 at https://www.thisamericanlife.org",
+    "episode_title": "880: What Is Your Emergency?",
+    "release_date": "2026-02-01 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "4a8e203d-7e07-4a9c-b7ac-b1b8d8a24c05",
+    "episode_title": "Iran, protests, and sanctions",
+    "release_date": "2026-02-07 03:16:10",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "8e7ceb2c-8338-4587-a521-591c18a3b278",
+    "episode_title": "Riding with the repo man (update)",
+    "release_date": "2026-02-04 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "a46bb368-032e-11f1-b6fa-678b37cb6141",
@@ -98,6 +98,13 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "1cc3948c-6e10-43bb-bc54-6583ce951c1e",
+    "episode_title": "Keeping Secrets",
+    "release_date": "2026-02-02 20:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "043464bd-69b5-4b85-ae42-b3df014036b1",
     "episode_title": "Selects: Why Do Great Flood Myths Seem To Be Universal?",
     "release_date": "2026-02-07 10:00:00",
@@ -124,13 +131,6 @@
     "release_date": "2026-02-03 10:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "1cc3948c-6e10-43bb-bc54-6583ce951c1e",
-    "episode_title": "Keeping Secrets",
-    "release_date": "2026-02-02 20:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "cef0b883-9c04-4ff8-8c3a-e197d6dca301",
@@ -161,41 +161,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "0ec0335d-679a-4cb8-8aa9-9ec32e0fc1c2",
-    "episode_title": "We Have A Condom For That",
-    "release_date": "2026-02-05 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "40814ba2-ec8b-4e2d-8597-ccc23f87f4a6",
-    "episode_title": "Josh Safdie",
-    "release_date": "2026-02-02 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "6c089d16-89d4-11f0-b13f-4fa50995ecda",
-    "episode_title": "Love Hurts: The Moth Podcast",
-    "release_date": "2026-02-06 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6b736e94-89d4-11f0-b13f-5707abef26c9",
-    "episode_title": "Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour",
-    "release_date": "2026-02-03 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "b99b66f6-92b1-40fd-83f1-c6b4febf912a",
-    "episode_title": "\"Charli xcx\"",
-    "release_date": "2026-02-02 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/P98b8pyx-XW5lvmm2AteSieqkR6Gt5K2OSTS4HTYfF4",
     "episode_title": "Armchair Anonymous: Cooking Disaster II",
     "release_date": "2026-02-06 08:30:00",
@@ -215,5 +180,40 @@
     "release_date": "2026-02-02 08:30:00",
     "mp3_url": "https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "6c089d16-89d4-11f0-b13f-4fa50995ecda",
+    "episode_title": "Love Hurts: The Moth Podcast",
+    "release_date": "2026-02-06 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6b736e94-89d4-11f0-b13f-5707abef26c9",
+    "episode_title": "Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour",
+    "release_date": "2026-02-03 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "0ec0335d-679a-4cb8-8aa9-9ec32e0fc1c2",
+    "episode_title": "We Have A Condom For That",
+    "release_date": "2026-02-05 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "40814ba2-ec8b-4e2d-8597-ccc23f87f4a6",
+    "episode_title": "Josh Safdie",
+    "release_date": "2026-02-02 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "b99b66f6-92b1-40fd-83f1-c6b4febf912a",
+    "episode_title": "\"Charli xcx\"",
+    "release_date": "2026-02-02 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
