@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-09 01:21:50
+Last updated: 2026-02-09 12:47:01
 
 ## Freakonomics Radio
 
@@ -62,6 +62,16 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
 ## Planet Money
 
 ### Iran, protests, and sanctions
@@ -80,16 +90,6 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
-
 ## Hidden Brain
 
 ### Keeping Secrets
@@ -97,6 +97,40 @@ Last updated: 2026-02-09 01:21:50
 **Released:** 2026-02-02 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/cd135a41-5fd3-4f2b-bebb-646ea22a7b1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=cd135a41-5fd3-4f2b-bebb-646ea22a7b1d&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### Selects: Why Do Great Flood Myths Seem To Be Universal?
+
+**Released:** 2026-02-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/043464bd-69b5-4b85-ae42-b3df014036b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Cajun Navy: Heroes or Liability?
+
+**Released:** 2026-02-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d159e897-0d7c-4422-851a-b3e700ef487a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Color Psychology
+
+**Released:** 2026-02-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Helen Keller and Anne Sullivan: Miracle is Right
+
+**Released:** 2026-02-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -144,65 +178,21 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
-## Stuff You Should Know
-
-### Selects: Why Do Great Flood Myths Seem To Be Universal?
-
-**Released:** 2026-02-07 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/043464bd-69b5-4b85-ae42-b3df014036b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Cajun Navy: Heroes or Liability?
-
-**Released:** 2026-02-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d159e897-0d7c-4422-851a-b3e700ef487a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Color Psychology
-
-**Released:** 2026-02-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Helen Keller and Anne Sullivan: Miracle is Right
-
-**Released:** 2026-02-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
+
+### Netflix: Reed Hastings. “We’re Not a Family.” The Provocative Idea That Helped Build a Streaming Giant
+
+**Released:** 2026-02-09 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a2c7661-da2b-42b4-97f8-ad4b33a76db6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Jon Stein of Betterment
 
 **Released:** 2026-02-05 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fde1ba0-40df-4463-9fe1-f23666e6c487.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### HOKA: Jean-Luc Diard and Nicolas Mermoud. The “Clown Shoe” That Became a $2B Bonanza
-
-**Released:** 2026-02-02 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/38585fa1-d241-44f8-94fa-6949b1fe1903.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
-
-**Released:** 2026-02-04 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,17 +214,15 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Charli xcx"
+### Kevin Nealon Returns Once More
 
-**Released:** 2026-02-02 08:01:00
+**Released:** 2026-02-09 05:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e82281d9-01f7-4179-aa31-0f9cbc9f949b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e82281d9-01f7-4179-aa31-0f9cbc9f949b&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### We Have A Condom For That
 
@@ -244,15 +232,15 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
-### Josh Safdie
+## Armchair Expert
 
-**Released:** 2026-02-02 05:05:00
+### Kaley Cuoco Returns
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/420eb3f0-5460-444f-85a0-54010b705326/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=420eb3f0-5460-444f-85a0-54010b705326&feed=dHoohVNH)
+**Released:** 2026-02-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: Cooking Disaster II
 
@@ -270,11 +258,23 @@ Last updated: 2026-02-09 01:21:50
 
 ---
 
-### Anderson .Paak
+## SmartLess 
 
-**Released:** 2026-02-02 08:30:00
+### "Andrew Huberman"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9bea4c38-c76c-4668-9503-6b8a8d8714b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-02-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+
+**Released:** 2026-02-04 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
