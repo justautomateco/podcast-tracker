@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-10 01:44:53
+Last updated: 2026-02-10 12:53:07
 
 ## Freakonomics Radio
 
@@ -62,6 +62,34 @@ Last updated: 2026-02-10 01:44:53
 
 ---
 
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
+## Planet Money
+
+### Iran, protests, and sanctions
+
+**Released:** 2026-02-07 03:16:10
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
+
+---
+
+### Riding with the repo man (update)
+
+**Released:** 2026-02-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2450 - Tommy Wood
@@ -96,34 +124,6 @@ Last updated: 2026-02-10 01:44:53
 
 ---
 
-## Planet Money
-
-### Iran, protests, and sanctions
-
-**Released:** 2026-02-07 03:16:10
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
-
----
-
-### Riding with the repo man (update)
-
-**Released:** 2026-02-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
-
 ## Hidden Brain
 
 ### Coming Clean
@@ -145,6 +145,14 @@ Last updated: 2026-02-10 01:44:53
 ---
 
 ## Stuff You Should Know
+
+### How Cognitive Biases Work
+
+**Released:** 2026-02-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Why Do Great Flood Myths Seem To Be Universal?
 
@@ -170,11 +178,13 @@ Last updated: 2026-02-10 01:44:53
 
 ---
 
-### Helen Keller and Anne Sullivan: Miracle is Right
+## The Tim Ferriss Show
 
-**Released:** 2026-02-03 10:00:00
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ead70580-d012-43cf-b657-b3e60001721d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-02-04 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -196,13 +206,39 @@ Last updated: 2026-02-10 01:44:53
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+### Kevin Nealon Returns Once More
 
-**Released:** 2026-02-04 17:30:00
+**Released:** 2026-02-09 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
+
+---
+
+### We Have A Condom For That
+
+**Released:** 2026-02-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+
+**Released:** 2026-02-10 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
+
+---
+
+### Love Hurts: The Moth Podcast
+
+**Released:** 2026-02-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
 
 ---
 
@@ -239,42 +275,6 @@ Last updated: 2026-02-10 01:44:53
 **Released:** 2026-02-09 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Love Hurts: The Moth Podcast
-
-**Released:** 2026-02-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
-
----
-
-### Punks, Blessings, Burlesque and Lotus Flowers: The Moth Radio Hour
-
-**Released:** 2026-02-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1333580421.mp3?updated=1769565653)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Kevin Nealon Returns Once More
-
-**Released:** 2026-02-09 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
-
----
-
-### We Have A Condom For That
-
-**Released:** 2026-02-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f29fd400-27b2-487e-996b-94ba7f06f00f/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f29fd400-27b2-487e-996b-94ba7f06f00f&feed=dHoohVNH)
 
 ---
 
