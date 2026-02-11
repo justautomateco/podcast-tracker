@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-11 01:27:54
-
-## Freakonomics Radio
-
-### 662. If You’re Not Cheating, You’re Not Trying
-
-**Released:** 2026-02-06 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d6cea6dd-e260-4957-942f-8ec8f3f07f9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d6cea6dd-e260-4957-942f-8ec8f3f07f9d&feed=Y8lFbOT4)
-
----
-
-### Why Don’t Running Backs Get Paid Anymore? (Update)
-
-**Released:** 2026-02-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a47e4025-213e-43a1-92f8-6e5cefabfd95/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a47e4025-213e-43a1-92f8-6e5cefabfd95&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
+Last updated: 2026-02-11 12:48:05
 
 ## TED Talks Daily
 
@@ -72,7 +44,35 @@ Last updated: 2026-02-11 01:27:54
 
 ---
 
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
+## Freakonomics Radio
+
+### 662. If You’re Not Cheating, You’re Not Trying
+
+**Released:** 2026-02-06 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d6cea6dd-e260-4957-942f-8ec8f3f07f9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d6cea6dd-e260-4957-942f-8ec8f3f07f9d&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
+
+### The Invention Invention
+
+**Released:** 2026-02-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
+
+---
 
 ### Iran, protests, and sanctions
 
@@ -82,11 +82,39 @@ Last updated: 2026-02-11 01:27:54
 
 ---
 
-### Riding with the repo man (update)
+## Stuff You Should Know
 
-**Released:** 2026-02-04 08:00:00
+### How Cognitive Biases Work
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+**Released:** 2026-02-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Why Do Great Flood Myths Seem To Be Universal?
+
+**Released:** 2026-02-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/043464bd-69b5-4b85-ae42-b3df014036b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Cajun Navy: Heroes or Liability?
+
+**Released:** 2026-02-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d159e897-0d7c-4422-851a-b3e700ef487a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Coming Clean
+
+**Released:** 2026-02-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
 
 ---
 
@@ -134,47 +162,13 @@ Last updated: 2026-02-11 01:27:54
 
 ---
 
-## Stuff You Should Know
+## The Tim Ferriss Show
 
-### How Cognitive Biases Work
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Released:** 2026-02-10 10:00:00
+**Released:** 2026-02-04 17:30:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Why Do Great Flood Myths Seem To Be Universal?
-
-**Released:** 2026-02-07 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/043464bd-69b5-4b85-ae42-b3df014036b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Cajun Navy: Heroes or Liability?
-
-**Released:** 2026-02-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d159e897-0d7c-4422-851a-b3e700ef487a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Color Psychology
-
-**Released:** 2026-02-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e4002354-1292-4b45-b06f-b3df012f4061/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,6 +208,16 @@ Last updated: 2026-02-11 01:27:54
 
 ---
 
+## SmartLess 
+
+### "Andrew Huberman"
+
+**Released:** 2026-02-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Kevin Nealon Returns Once More
@@ -232,17 +236,15 @@ Last updated: 2026-02-11 01:27:54
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+### Justin Garcia (on the science of sex)
 
-**Released:** 2026-02-04 17:30:00
+**Released:** 2026-02-11 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Kaley Cuoco Returns
 
@@ -257,24 +259,6 @@ Last updated: 2026-02-11 01:27:54
 **Released:** 2026-02-06 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d1acaada-95cc-449d-b3c2-1627be37ee55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Claudia Rowe (on the foster care system)
-
-**Released:** 2026-02-04 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/14534ed2-36ed-4896-9602-d6d7b1937330.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Andrew Huberman"
-
-**Released:** 2026-02-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
 
 ---
 
