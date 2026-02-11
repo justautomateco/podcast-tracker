@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-10 12:53:07
+Last updated: 2026-02-11 01:27:54
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
 ## TED Talks Daily
+
+### The 6 essential ingredients of loving relationships | Sara Nasserzadeh
+
+**Released:** 2026-02-10 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698a048668c8ed48f04398c9/media.mp3)
+
+---
 
 ### The brilliance of bridges and roads that repair themselves | Mark Miodownik
 
@@ -54,24 +72,6 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
-### Will AI take your job in the next 10 years? Wrong question | Vinciane Beauchene
-
-**Released:** 2026-02-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bc56a6617e0fbdc9edef/media.mp3)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
-
 ## Planet Money
 
 ### Iran, protests, and sanctions
@@ -91,6 +91,14 @@ Last updated: 2026-02-10 12:53:07
 ---
 
 ## The Joe Rogan Experience
+
+### #2451 - Cheryl Hines
+
+**Released:** 2026-02-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6251051540.mp3?updated=1770747895)
+
+---
 
 ### #2450 - Tommy Wood
 
@@ -116,31 +124,13 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
-### #2447 - Mike Benz
-
-**Released:** 2026-02-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4851286736.mp3?updated=1770139831)
-
----
-
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
-### The Em Dash
+### Artistic License Redux
 
-**Released:** 2026-02-03 18:15:00
+**Released:** 2026-02-10 18:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
 
 ---
 
@@ -178,13 +168,13 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
-## The Tim Ferriss Show
+## Hidden Brain
 
-### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
+### Coming Clean
 
-**Released:** 2026-02-04 17:30:00
+**Released:** 2026-02-09 20:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
 
 ---
 
@@ -206,6 +196,24 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
+## The Moth
+
+### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+
+**Released:** 2026-02-10 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
+
+---
+
+### Love Hurts: The Moth Podcast
+
+**Released:** 2026-02-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Kevin Nealon Returns Once More
@@ -224,21 +232,13 @@ Last updated: 2026-02-10 12:53:07
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+### #852: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity
 
-**Released:** 2026-02-10 05:25:00
+**Released:** 2026-02-04 17:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
-
----
-
-### Love Hurts: The Moth Podcast
-
-**Released:** 2026-02-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f37d96e-09af-4638-950a-c3f4918cffd8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
