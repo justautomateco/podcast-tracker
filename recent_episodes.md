@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-12 12:43:55
+Last updated: 2026-02-13 01:24:23
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-02-12 12:43:55
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 75: Kindness of Strangers
+### The pressure that makes Olympians perform worse | Dominique Condo
 
-**Released:** 2026-02-08 18:00:00
+**Released:** 2026-02-12 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698df6a634f221647e8f5304/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How competition is stifling AI breakthroughs | Llion Jones
 
@@ -56,33 +54,15 @@ Last updated: 2026-02-12 12:43:55
 
 ---
 
-### A songwriting battle with my AI clone | Jason "Poo Bear" Boyd, Elise Hu
-
-**Released:** 2026-02-07 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bd7e65974c013f5c8b72/media.mp3)
-
----
-
-## Planet Money
-
-### The Invention Invention
-
-**Released:** 2026-02-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
-
----
-
-### Iran, protests, and sanctions
-
-**Released:** 2026-02-07 03:16:10
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
-
----
-
 ## The Joe Rogan Experience
+
+### #2453 - Evan Hafer
+
+**Released:** 2026-02-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8914209138.mp3?updated=1770917642)
+
+---
 
 ### #2452 - Roger Avary
 
@@ -108,35 +88,15 @@ Last updated: 2026-02-12 12:43:55
 
 ---
 
-### #2449 - Raul Bilecky
-
-**Released:** 2026-02-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8924602297.mp3?updated=1770311634)
-
----
-
-## 99% Invisible
-
-### Artistic License Redux
-
-**Released:** 2026-02-10 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
+
+### How Lasers Work
+
+**Released:** 2026-02-12 13:03:05
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Aztec Death Whistle
 
@@ -162,13 +122,23 @@ Last updated: 2026-02-12 12:43:55
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### The Big Birthday Party
+### Coming Clean
 
-**Released:** 2026-02-12 05:01:00
+**Released:** 2026-02-09 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c407070d-5720-427e-8e18-b3ee01118448/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Artistic License Redux
+
+**Released:** 2026-02-10 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
 
 ---
 
@@ -187,6 +157,108 @@ Last updated: 2026-02-12 12:43:55
 **Released:** 2026-02-09 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a2c7661-da2b-42b4-97f8-ad4b33a76db6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+
+**Released:** 2026-02-11 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Planet Money
+
+### The Invention Invention
+
+**Released:** 2026-02-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
+
+---
+
+### Iran, protests, and sanctions
+
+**Released:** 2026-02-07 03:16:10
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
+
+---
+
+## Revisionist History
+
+### The Big Birthday Party
+
+**Released:** 2026-02-12 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c407070d-5720-427e-8e18-b3ee01118448/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+
+**Released:** 2026-02-10 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
+
+---
+
+### Love Hurts: The Moth Podcast
+
+**Released:** 2026-02-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
+
+---
+
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Jon Hamm"
+
+**Released:** 2026-02-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+
+---
+
+### "Andrew Huberman"
+
+**Released:** 2026-02-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Prophet and The Reacharound with Special Guest Kevin Nealon
+
+**Released:** 2026-02-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+
+---
+
+### Kevin Nealon Returns Once More
+
+**Released:** 2026-02-09 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
 
 ---
 
@@ -213,70 +285,6 @@ Last updated: 2026-02-12 12:43:55
 **Released:** 2026-02-06 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d1acaada-95cc-449d-b3c2-1627be37ee55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
-
-**Released:** 2026-02-10 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
-
----
-
-### Love Hurts: The Moth Podcast
-
-**Released:** 2026-02-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5404735984.mp3?updated=1770245949)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Prophet And The Reacharound
-
-**Released:** 2026-02-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
-
----
-
-### Kevin Nealon Returns Once More
-
-**Released:** 2026-02-09 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
-
-**Released:** 2026-02-11 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Jon Hamm"
-
-**Released:** 2026-02-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
-
----
-
-### "Andrew Huberman"
-
-**Released:** 2026-02-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5dfff0ee-2e31-4152-b8ba-bee91802367c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5dfff0ee-2e31-4152-b8ba-bee91802367c&feed=hNaFxXpO)
 
 ---
 
