@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-13 12:38:21
+Last updated: 2026-02-14 01:16:40
 
 ## Freakonomics Radio
 
@@ -12,35 +12,15 @@ Last updated: 2026-02-13 12:38:21
 
 ---
 
-## Planet Money
-
-### The Invention Invention
-
-**Released:** 2026-02-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
-
----
-
-### Iran, protests, and sanctions
-
-**Released:** 2026-02-07 03:16:10
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
-
 ## TED Talks Daily
+
+### The doctor on a mission to build a healthier South Sudan | Yohanis Riek
+
+**Released:** 2026-02-13 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698f493b7301331f1f7fb27d/media.mp3)
+
+---
 
 ### The pressure that makes Olympians perform worse | Dominique Condo
 
@@ -74,45 +54,49 @@ Last updated: 2026-02-13 12:38:21
 
 ---
 
-### Sunday Pick: The Truth About "The Zone" (with Steph Curry) | Good Sport
+## Planet Money
 
-**Released:** 2026-02-08 07:00:00
+### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bed208b5442943924ff0/media.mp3)
+**Released:** 2026-02-13 23:23:30
 
----
-
-## The Joe Rogan Experience
-
-### #2453 - Evan Hafer
-
-**Released:** 2026-02-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8914209138.mp3?updated=1770917642)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
 
 ---
 
-### #2452 - Roger Avary
+### The Invention Invention
 
-**Released:** 2026-02-11 18:00:00
+**Released:** 2026-02-11 08:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6466858295.mp3?updated=1770832389)
-
----
-
-### #2451 - Cheryl Hines
-
-**Released:** 2026-02-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6251051540.mp3?updated=1770747895)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
 
 ---
 
-### #2450 - Tommy Wood
+### Iran, protests, and sanctions
 
-**Released:** 2026-02-06 18:00:00
+**Released:** 2026-02-07 03:16:10
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7023346046.mp3?updated=1770395897)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
+
+---
+
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
+## Hidden Brain
+
+### Coming Clean
+
+**Released:** 2026-02-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
 
 ---
 
@@ -160,16 +144,6 @@ Last updated: 2026-02-13 12:38:21
 
 ---
 
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
 ## How I Built This
 
 ### Advice Line with Julia Hartz of Eventbrite
@@ -198,13 +172,21 @@ Last updated: 2026-02-13 12:38:21
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+### What's YOUR Story: The Moth Podcast
 
-**Released:** 2026-02-11 20:30:00
+**Released:** 2026-02-13 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+
+---
+
+### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+
+**Released:** 2026-02-10 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
 
 ---
 
@@ -223,24 +205,6 @@ Last updated: 2026-02-13 12:38:21
 **Released:** 2026-02-09 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### What's YOUR Story: The Moth Podcast
-
-**Released:** 2026-02-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
-
----
-
-### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
-
-**Released:** 2026-02-10 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
 
 ---
 
@@ -285,6 +249,16 @@ Last updated: 2026-02-13 12:38:21
 **Released:** 2026-02-09 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+
+**Released:** 2026-02-11 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
