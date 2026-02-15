@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-14 12:29:20
+Last updated: 2026-02-15 01:24:08
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-02-14 12:29:20
 
 ---
 
+## This American Life
+
+### 75: Kindness of Strangers
+
+**Released:** 2026-02-08 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
+
+---
+
 ## TED Talks Daily
+
+### The AI-generated intimacy crisis | Bryony Cole
+
+**Released:** 2026-02-14 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698df6ed5a0d566e5b977e83/media.mp3)
+
+---
 
 ### The doctor on a mission to build a healthier South Sudan | Yohanis Riek
 
@@ -46,24 +64,6 @@ Last updated: 2026-02-14 12:29:20
 
 ---
 
-### The brilliance of bridges and roads that repair themselves | Mark Miodownik
-
-**Released:** 2026-02-09 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698a02d841bb4de491f48d2a/media.mp3)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
-
 ## Planet Money
 
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
@@ -79,60 +79,6 @@ Last updated: 2026-02-14 12:29:20
 **Released:** 2026-02-11 08:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
-
----
-
-## 99% Invisible
-
-### Artistic License Redux
-
-**Released:** 2026-02-10 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Charles Darwin Worked
-
-**Released:** 2026-02-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/22d90011-51e7-44ae-b08e-b3e60153a0e8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Lasers Work
-
-**Released:** 2026-02-12 13:03:05
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Aztec Death Whistle
-
-**Released:** 2026-02-11 13:20:23
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ff052aa6-8ffa-4418-90b1-b3ee00db53e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Cognitive Biases Work
-
-**Released:** 2026-02-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -170,13 +116,57 @@ Last updated: 2026-02-14 12:29:20
 
 ---
 
-## Revisionist History
+## Hidden Brain
 
-### The Big Birthday Party
+### Coming Clean
 
-**Released:** 2026-02-12 05:01:00
+**Released:** 2026-02-09 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c407070d-5720-427e-8e18-b3ee01118448/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Artistic License Redux
+
+**Released:** 2026-02-10 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+### Selects: How Charles Darwin Worked
+
+**Released:** 2026-02-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/22d90011-51e7-44ae-b08e-b3e60153a0e8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### How Lasers Work
+
+**Released:** 2026-02-12 13:03:05
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Aztec Death Whistle
+
+**Released:** 2026-02-11 13:20:23
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ff052aa6-8ffa-4418-90b1-b3ee00db53e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### How Cognitive Biases Work
+
+**Released:** 2026-02-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -195,6 +185,26 @@ Last updated: 2026-02-14 12:29:20
 **Released:** 2026-02-09 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a2c7661-da2b-42b4-97f8-ad4b33a76db6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+
+**Released:** 2026-02-11 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Big Birthday Party
+
+**Released:** 2026-02-12 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c407070d-5720-427e-8e18-b3ee01118448/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -234,6 +244,24 @@ Last updated: 2026-02-14 12:29:20
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### The Prophet and The Reacharound with Special Guest Kevin Nealon
+
+**Released:** 2026-02-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+
+---
+
+### Kevin Nealon Returns Once More
+
+**Released:** 2026-02-09 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Meet Cute III
@@ -257,34 +285,6 @@ Last updated: 2026-02-14 12:29:20
 **Released:** 2026-02-09 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Prophet and The Reacharound with Special Guest Kevin Nealon
-
-**Released:** 2026-02-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
-
----
-
-### Kevin Nealon Returns Once More
-
-**Released:** 2026-02-09 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
-
-**Released:** 2026-02-11 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
