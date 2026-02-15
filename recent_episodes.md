@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-15 01:24:08
+Last updated: 2026-02-15 12:31:23
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-02-15 01:24:08
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to find true love (w/ Francesca Hogi) | from How to Be a Better Human
+
+**Released:** 2026-02-15 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698dfe493f15cb4dab328433/media.mp3)
+
+---
 
 ### The AI-generated intimacy crisis | Bryony Cole
 
@@ -56,14 +64,6 @@ Last updated: 2026-02-15 01:24:08
 
 ---
 
-### The 6 essential ingredients of loving relationships | Sara Nasserzadeh
-
-**Released:** 2026-02-10 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698a048668c8ed48f04398c9/media.mp3)
-
----
-
 ## Planet Money
 
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
@@ -79,6 +79,26 @@ Last updated: 2026-02-15 01:24:08
 **Released:** 2026-02-11 08:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
+
+---
+
+## Hidden Brain
+
+### Coming Clean
+
+**Released:** 2026-02-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Artistic License Redux
+
+**Released:** 2026-02-10 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
 
 ---
 
@@ -113,26 +133,6 @@ Last updated: 2026-02-15 01:24:08
 **Released:** 2026-02-10 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6251051540.mp3?updated=1770747895)
-
----
-
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Artistic License Redux
-
-**Released:** 2026-02-10 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
 
 ---
 
@@ -198,6 +198,32 @@ Last updated: 2026-02-15 01:24:08
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Meet Cute III
+
+**Released:** 2026-02-13 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ca0e084-810f-43e2-b4e4-3b897a49544f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Justin Garcia (on the science of sex)
+
+**Released:** 2026-02-11 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kaley Cuoco Returns
+
+**Released:** 2026-02-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Big Birthday Party
@@ -259,32 +285,6 @@ Last updated: 2026-02-15 01:24:08
 **Released:** 2026-02-09 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Meet Cute III
-
-**Released:** 2026-02-13 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ca0e084-810f-43e2-b4e4-3b897a49544f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Justin Garcia (on the science of sex)
-
-**Released:** 2026-02-11 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kaley Cuoco Returns
-
-**Released:** 2026-02-09 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
