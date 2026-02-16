@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-15 12:31:23
-
-## Freakonomics Radio
-
-### 663. Is Weed a Performance-Enhancing Drug?
-
-**Released:** 2026-02-13 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 75: Kindness of Strangers
-
-**Released:** 2026-02-08 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-
----
+Last updated: 2026-02-16 01:20:26
 
 ## TED Talks Daily
 
@@ -64,6 +44,16 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
+## This American Life
+
+### 605: Kid Logic
+
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+
+---
+
 ## Planet Money
 
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
@@ -82,23 +72,13 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
-## Hidden Brain
+## Freakonomics Radio
 
-### Coming Clean
+### 663. Is Weed a Performance-Enhancing Drug?
 
-**Released:** 2026-02-09 20:00:00
+**Released:** 2026-02-13 11:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Artistic License Redux
-
-**Released:** 2026-02-10 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
 
 ---
 
@@ -136,6 +116,26 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
+## Hidden Brain
+
+### Coming Clean
+
+**Released:** 2026-02-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Artistic License Redux
+
+**Released:** 2026-02-10 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: How Charles Darwin Worked
@@ -170,6 +170,16 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
+## The Tim Ferriss Show
+
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+
+**Released:** 2026-02-11 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Julia Hartz of Eventbrite
@@ -185,42 +195,6 @@ Last updated: 2026-02-15 12:31:23
 **Released:** 2026-02-09 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5a2c7661-da2b-42b4-97f8-ad4b33a76db6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
-
-**Released:** 2026-02-11 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Meet Cute III
-
-**Released:** 2026-02-13 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ca0e084-810f-43e2-b4e4-3b897a49544f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Justin Garcia (on the science of sex)
-
-**Released:** 2026-02-11 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kaley Cuoco Returns
-
-**Released:** 2026-02-09 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,6 +226,24 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### The Prophet and The Reacharound with Special Guest Kevin Nealon
+
+**Released:** 2026-02-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+
+---
+
+### Kevin Nealon Returns Once More
+
+**Released:** 2026-02-09 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Jon Hamm"
@@ -270,21 +262,29 @@ Last updated: 2026-02-15 12:31:23
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Armchair Expert
 
-### The Prophet and The Reacharound with Special Guest Kevin Nealon
+### Armchair Anonymous: Meet Cute III
 
-**Released:** 2026-02-12 05:05:00
+**Released:** 2026-02-13 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ca0e084-810f-43e2-b4e4-3b897a49544f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Kevin Nealon Returns Once More
+### Justin Garcia (on the science of sex)
 
-**Released:** 2026-02-09 05:05:00
+**Released:** 2026-02-11 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7f472957-4cec-443b-929c-5510c7185597/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7f472957-4cec-443b-929c-5510c7185597&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kaley Cuoco Returns
+
+**Released:** 2026-02-09 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5b1fc835-784c-4fd7-bf01-b513849d31d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
