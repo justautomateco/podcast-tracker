@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-16 12:41:57
+Last updated: 2026-02-17 01:20:00
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-02-16 12:41:57
 ---
 
 ## TED Talks Daily
+
+### The new science of eyewitness memory | John Wixted
+
+**Released:** 2026-02-16 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69821b7413c1477af22859d1/media.mp3)
+
+---
 
 ### Sunday Pick: How to find true love (w/ Francesca Hogi) | from How to Be a Better Human
 
@@ -46,11 +54,13 @@ Last updated: 2026-02-16 12:41:57
 
 ---
 
-### How competition is stifling AI breakthroughs | Llion Jones
+## This American Life
 
-**Released:** 2026-02-11 16:00:00
+### 605: Kid Logic
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698a04549dbbc054deb7776a/media.mp3)
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -72,13 +82,13 @@ Last updated: 2026-02-16 12:41:57
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 605: Kid Logic
+### Why You're Smarter Than You Think
 
-**Released:** 2026-02-15 18:00:00
+**Released:** 2026-02-16 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
 
 ---
 
@@ -160,16 +170,6 @@ Last updated: 2026-02-16 12:41:57
 
 ---
 
-## Hidden Brain
-
-### Coming Clean
-
-**Released:** 2026-02-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/d63d6cde-ae25-46c0-8624-c3f0266c4d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=d63d6cde-ae25-46c0-8624-c3f0266c4d57&feed=kwWc0lhf)
-
----
-
 ## How I Built This
 
 ### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
@@ -208,24 +208,6 @@ Last updated: 2026-02-16 12:41:57
 
 ---
 
-## The Moth
-
-### What's YOUR Story: The Moth Podcast
-
-**Released:** 2026-02-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
-
----
-
-### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
-
-**Released:** 2026-02-10 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Halle Berry
@@ -241,6 +223,24 @@ Last updated: 2026-02-16 12:41:57
 **Released:** 2026-02-12 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### What's YOUR Story: The Moth Podcast
+
+**Released:** 2026-02-13 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+
+---
+
+### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
+
+**Released:** 2026-02-10 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
 
 ---
 
