@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-17 01:20:00
-
-## Freakonomics Radio
-
-### 663. Is Weed a Performance-Enhancing Drug?
-
-**Released:** 2026-02-13 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
-
----
+Last updated: 2026-02-17 12:41:26
 
 ## TED Talks Daily
 
@@ -54,13 +44,13 @@ Last updated: 2026-02-17 01:20:00
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 605: Kid Logic
+### 663. Is Weed a Performance-Enhancing Drug?
 
-**Released:** 2026-02-15 18:00:00
+**Released:** 2026-02-13 11:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
 
 ---
 
@@ -82,13 +72,13 @@ Last updated: 2026-02-17 01:20:00
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### Why You're Smarter Than You Think
+### 605: Kid Logic
 
-**Released:** 2026-02-16 20:00:00
+**Released:** 2026-02-15 18:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -128,6 +118,14 @@ Last updated: 2026-02-17 01:20:00
 
 ## Stuff You Should Know
 
+### How Crowds Work
+
+**Released:** 2026-02-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/163eab5b-3f29-4689-b87b-b3f400082e75/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Selects: How Charles Darwin Worked
 
 **Released:** 2026-02-14 10:00:00
@@ -152,11 +150,13 @@ Last updated: 2026-02-17 01:20:00
 
 ---
 
-### How Cognitive Biases Work
+## Hidden Brain
 
-**Released:** 2026-02-10 10:00:00
+### Why You're Smarter Than You Think
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-02-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
 
 ---
 
@@ -208,6 +208,24 @@ Last updated: 2026-02-17 01:20:00
 
 ---
 
+## SmartLess 
+
+### "Margot Robbie"
+
+**Released:** 2026-02-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Jon Hamm"
+
+**Released:** 2026-02-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Halle Berry
@@ -228,37 +246,19 @@ Last updated: 2026-02-17 01:20:00
 
 ## The Moth
 
+### Can't Help Falling in Love: The Moth Radio Hour
+
+**Released:** 2026-02-17 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
+
+---
+
 ### What's YOUR Story: The Moth Podcast
 
 **Released:** 2026-02-13 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
-
----
-
-### Live from New York: The Audacity! Global Stories of Daring: The Moth Radio Hour
-
-**Released:** 2026-02-10 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5254973134.mp3?updated=1770410435)
-
----
-
-## SmartLess 
-
-### "Margot Robbie"
-
-**Released:** 2026-02-16 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Jon Hamm"
-
-**Released:** 2026-02-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
 
 ---
 
