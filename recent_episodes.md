@@ -1,24 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-18 01:22:00
+Last updated: 2026-02-18 12:41:13
 
 ## Freakonomics Radio
+
+### All You Need Is Nudge (Update)
+
+**Released:** 2026-02-18 02:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
+
+---
 
 ### 663. Is Weed a Performance-Enhancing Drug?
 
 **Released:** 2026-02-13 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 605: Kid Logic
-
-**Released:** 2026-02-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -64,6 +62,16 @@ Last updated: 2026-02-18 01:22:00
 
 ---
 
+## This American Life
+
+### 605: Kid Logic
+
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+
+---
+
 ## Planet Money
 
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
@@ -71,14 +79,6 @@ Last updated: 2026-02-18 01:22:00
 **Released:** 2026-02-13 23:23:30
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
-
----
-
-### The Invention Invention
-
-**Released:** 2026-02-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
 
 ---
 
@@ -137,6 +137,14 @@ Last updated: 2026-02-18 01:22:00
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Safety Coffins
+
+**Released:** 2026-02-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa03ba33-8bb0-4c4e-b3b3-b3f500186bc5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### How Crowds Work
 
@@ -234,25 +242,25 @@ Last updated: 2026-02-18 01:22:00
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Margot Robbie"
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
 
-**Released:** 2026-02-16 08:01:00
+**Released:** 2026-02-11 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Jon Hamm"
-
-**Released:** 2026-02-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Colleen Cutcliffe (on the microbiome)
+
+**Released:** 2026-02-18 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bdde60ab-4f6c-433d-a449-ae50dc0675e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Charlie Puth
 
@@ -270,21 +278,21 @@ Last updated: 2026-02-18 01:22:00
 
 ---
 
-### Justin Garcia (on the science of sex)
+## SmartLess 
 
-**Released:** 2026-02-11 08:30:00
+### "Margot Robbie"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-02-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
 
 ---
 
-## The Tim Ferriss Show
+### "RE-RELEASE: Jon Hamm"
 
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+**Released:** 2026-02-12 08:00:00
 
-**Released:** 2026-02-11 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
 
 ---
 
