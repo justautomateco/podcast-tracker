@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-17 12:41:26
+Last updated: 2026-02-18 01:22:00
+
+## Freakonomics Radio
+
+### 663. Is Weed a Performance-Enhancing Drug?
+
+**Released:** 2026-02-13 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 605: Kid Logic
+
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+
+---
 
 ## TED Talks Daily
+
+### Why I want to bring lions back to my village | Seif Hamisi
+
+**Released:** 2026-02-17 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bdd19e3d84d98b5d58b1/media.mp3)
+
+---
 
 ### The new science of eyewitness memory | John Wixted
 
@@ -36,24 +64,6 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-### The pressure that makes Olympians perform worse | Dominique Condo
-
-**Released:** 2026-02-12 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698df6a634f221647e8f5304/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 663. Is Weed a Performance-Enhancing Drug?
-
-**Released:** 2026-02-13 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
@@ -72,17 +82,15 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 605: Kid Logic
+### #2455 - Donnell Rawlings
 
-**Released:** 2026-02-15 18:00:00
+**Released:** 2026-02-17 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4487663159.mp3?updated=1771348168)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2454 - Robert Malone, MD
 
@@ -108,11 +116,23 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-### #2451 - Cheryl Hines
+## Hidden Brain
 
-**Released:** 2026-02-10 18:00:00
+### Why You're Smarter Than You Think
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6251051540.mp3?updated=1770747895)
+**Released:** 2026-02-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Molar City
+
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
@@ -150,26 +170,6 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-## Hidden Brain
-
-### Why You're Smarter Than You Think
-
-**Released:** 2026-02-16 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Artistic License Redux
-
-**Released:** 2026-02-10 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/86470b1a-5b82-4cbb-a94f-91a95bdf0dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=86470b1a-5b82-4cbb-a94f-91a95bdf0dd0&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
@@ -198,31 +198,21 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+### Can't Help Falling in Love: The Moth Radio Hour
 
-**Released:** 2026-02-11 20:30:00
+**Released:** 2026-02-17 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Margot Robbie"
-
-**Released:** 2026-02-16 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
 
 ---
 
-### "RE-RELEASE: Jon Hamm"
+### What's YOUR Story: The Moth Podcast
 
-**Released:** 2026-02-12 08:00:00
+**Released:** 2026-02-13 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
 
 ---
 
@@ -244,21 +234,21 @@ Last updated: 2026-02-17 12:41:26
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Can't Help Falling in Love: The Moth Radio Hour
+### "Margot Robbie"
 
-**Released:** 2026-02-17 05:25:00
+**Released:** 2026-02-16 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
 
 ---
 
-### What's YOUR Story: The Moth Podcast
+### "RE-RELEASE: Jon Hamm"
 
-**Released:** 2026-02-13 05:25:00
+**Released:** 2026-02-12 08:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +275,16 @@ Last updated: 2026-02-17 12:41:26
 **Released:** 2026-02-11 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aee64a4f-27d3-487d-bbd9-c1c698208f51.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+
+**Released:** 2026-02-11 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
