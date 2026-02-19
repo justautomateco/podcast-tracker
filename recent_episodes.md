@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-18 12:41:13
+Last updated: 2026-02-19 01:21:20
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-02-18 12:41:13
 ---
 
 ## TED Talks Daily
+
+### What you know that AI doesn’t | Priyanka Vergadia
+
+**Released:** 2026-02-18 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699505166415006ed2462f3c/media.mp3)
+
+---
 
 ### Why I want to bring lions back to my village | Seif Hamisi
 
@@ -54,14 +62,6 @@ Last updated: 2026-02-18 12:41:13
 
 ---
 
-### The doctor on a mission to build a healthier South Sudan | Yohanis Riek
-
-**Released:** 2026-02-13 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698f493b7301331f1f7fb27d/media.mp3)
-
----
-
 ## This American Life
 
 ### 605: Kid Logic
@@ -74,6 +74,14 @@ Last updated: 2026-02-18 12:41:13
 
 ## Planet Money
 
+### How to get what Greenland has, with permission
+
+**Released:** 2026-02-18 20:43:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+
+---
+
 ### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
 **Released:** 2026-02-13 23:23:30
@@ -82,7 +90,25 @@ Last updated: 2026-02-18 12:41:13
 
 ---
 
+## Hidden Brain
+
+### Why You're Smarter Than You Think
+
+**Released:** 2026-02-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2456 - Michael Jai White
+
+**Released:** 2026-02-18 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8210409209.mp3?updated=1771435754)
+
+---
 
 ### #2455 - Donnell Rawlings
 
@@ -105,34 +131,6 @@ Last updated: 2026-02-18 12:41:13
 **Released:** 2026-02-12 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8914209138.mp3?updated=1770917642)
-
----
-
-### #2452 - Roger Avary
-
-**Released:** 2026-02-11 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6466858295.mp3?updated=1770832389)
-
----
-
-## Hidden Brain
-
-### Why You're Smarter Than You Think
-
-**Released:** 2026-02-16 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Molar City
-
-**Released:** 2026-02-17 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
@@ -170,11 +168,13 @@ Last updated: 2026-02-18 12:41:13
 
 ---
 
-### Short Stuff: Aztec Death Whistle
+## 99% Invisible
 
-**Released:** 2026-02-11 13:20:23
+### Molar City
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ff052aa6-8ffa-4418-90b1-b3ee00db53e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
@@ -206,24 +206,6 @@ Last updated: 2026-02-18 12:41:13
 
 ---
 
-## The Moth
-
-### Can't Help Falling in Love: The Moth Radio Hour
-
-**Released:** 2026-02-17 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
-
----
-
-### What's YOUR Story: The Moth Podcast
-
-**Released:** 2026-02-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Halle Berry
@@ -242,13 +224,49 @@ Last updated: 2026-02-18 12:41:13
 
 ---
 
+## The Moth
+
+### Can't Help Falling in Love: The Moth Radio Hour
+
+**Released:** 2026-02-17 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
+
+---
+
+### What's YOUR Story: The Moth Podcast
+
+**Released:** 2026-02-13 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+
+---
+
+## SmartLess 
+
+### "Margot Robbie"
+
+**Released:** 2026-02-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Jon Hamm"
+
+**Released:** 2026-02-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+
+---
+
 ## The Tim Ferriss Show
 
-### #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
 
-**Released:** 2026-02-11 20:30:00
+**Released:** 2026-02-18 20:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f240752-c4c9-4177-b674-63088fb7f295.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -275,24 +293,6 @@ Last updated: 2026-02-18 12:41:13
 **Released:** 2026-02-13 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8ca0e084-810f-43e2-b4e4-3b897a49544f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Margot Robbie"
-
-**Released:** 2026-02-16 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Jon Hamm"
-
-**Released:** 2026-02-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
 
 ---
 
