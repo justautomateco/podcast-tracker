@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-19 01:21:20
+Last updated: 2026-02-19 12:42:32
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2026-02-19 01:21:20
 **Released:** 2026-02-13 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eb00367e-793c-4de7-b3af-89a367e00755/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eb00367e-793c-4de7-b3af-89a367e00755&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 605: Kid Logic
+
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2026-02-19 01:21:20
 
 ---
 
-## This American Life
-
-### 605: Kid Logic
-
-**Released:** 2026-02-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
-
----
-
 ## Planet Money
 
 ### How to get what Greenland has, with permission
@@ -87,16 +87,6 @@ Last updated: 2026-02-19 01:21:20
 **Released:** 2026-02-13 23:23:30
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
-
----
-
-## Hidden Brain
-
-### Why You're Smarter Than You Think
-
-**Released:** 2026-02-16 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
 
 ---
 
@@ -134,7 +124,35 @@ Last updated: 2026-02-19 01:21:20
 
 ---
 
+## Hidden Brain
+
+### Why You're Smarter Than You Think
+
+**Released:** 2026-02-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Molar City
+
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### How the Flexner Report Changed Medicine
+
+**Released:** 2026-02-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5832a1dc-1d66-49a3-b80c-b3f40012d50a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Safety Coffins
 
@@ -168,59 +186,13 @@ Last updated: 2026-02-19 01:21:20
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### Molar City
+### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
 
-**Released:** 2026-02-17 18:15:00
+**Released:** 2026-02-18 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
-
-**Released:** 2026-02-16 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af1881-7ff0-44ee-9ca9-39d1851c136a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Julia Hartz of Eventbrite
-
-**Released:** 2026-02-12 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/85b55637-0455-4d8e-b363-778a78052153.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Big Birthday Party
-
-**Released:** 2026-02-12 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c407070d-5720-427e-8e18-b3ee01118448/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Halle Berry
-
-**Released:** 2026-02-16 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
-
----
-
-### The Prophet and The Reacharound with Special Guest Kevin Nealon
-
-**Released:** 2026-02-12 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3a05fddf-7016-45ad-bbb8-f5b3cd3a1dc8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,21 +224,21 @@ Last updated: 2026-02-19 01:21:20
 
 ---
 
-### "RE-RELEASE: Jon Hamm"
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-02-12 08:00:00
+### 12 Clomp Program
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1b32d86f-f376-49e0-b895-55a1e1cec0a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1b32d86f-f376-49e0-b895-55a1e1cec0a3&feed=hNaFxXpO)
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
 
 ---
 
-## The Tim Ferriss Show
+### Halle Berry
 
-### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
+**Released:** 2026-02-16 05:05:00
 
-**Released:** 2026-02-18 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
 
 ---
 
