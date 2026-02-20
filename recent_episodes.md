@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-19 12:42:32
+Last updated: 2026-02-20 01:17:11
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2026-02-19 12:42:32
 ---
 
 ## TED Talks Daily
+
+### How to be a great listener | Maegan Stephens, Nicole Lowenbraun
+
+**Released:** 2026-02-19 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699619bee1d8773119c6abb4/media.mp3)
+
+---
 
 ### What you know that AI doesn’t | Priyanka Vergadia
 
@@ -64,33 +72,15 @@ Last updated: 2026-02-19 12:42:32
 
 ---
 
-### The AI-generated intimacy crisis | Bryony Cole
-
-**Released:** 2026-02-14 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698df6ed5a0d566e5b977e83/media.mp3)
-
----
-
-## Planet Money
-
-### How to get what Greenland has, with permission
-
-**Released:** 2026-02-18 20:43:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
-
----
-
-### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
-
-**Released:** 2026-02-13 23:23:30
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
-
----
-
 ## The Joe Rogan Experience
+
+### #2457 - Michael Malice
+
+**Released:** 2026-02-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3522571789.mp3?updated=1771521615)
+
+---
 
 ### #2456 - Michael Jai White
 
@@ -116,11 +106,21 @@ Last updated: 2026-02-19 12:42:32
 
 ---
 
-### #2453 - Evan Hafer
+## Planet Money
 
-**Released:** 2026-02-12 18:00:00
+### How to get what Greenland has, with permission
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8914209138.mp3?updated=1770917642)
+**Released:** 2026-02-18 20:43:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+
+---
+
+### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+
+**Released:** 2026-02-13 23:23:30
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
 
 ---
 
@@ -131,16 +131,6 @@ Last updated: 2026-02-19 12:42:32
 **Released:** 2026-02-16 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Molar City
-
-**Released:** 2026-02-17 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
@@ -178,14 +168,6 @@ Last updated: 2026-02-19 12:42:32
 
 ---
 
-### How Lasers Work
-
-**Released:** 2026-02-12 13:03:05
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## The Tim Ferriss Show
 
 ### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
@@ -196,31 +178,31 @@ Last updated: 2026-02-19 12:42:32
 
 ---
 
-## The Moth
+## 99% Invisible
 
-### Can't Help Falling in Love: The Moth Radio Hour
+### Molar City
 
-**Released:** 2026-02-17 05:25:00
+**Released:** 2026-02-17 18:15:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1770860001)
-
----
-
-### What's YOUR Story: The Moth Podcast
-
-**Released:** 2026-02-13 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Margot Robbie"
+### Advice Line with Pete Maldonado and Rashid Ali of Chomps
 
-**Released:** 2026-02-16 08:01:00
+**Released:** 2026-02-19 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
+
+**Released:** 2026-02-16 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af1881-7ff0-44ee-9ca9-39d1851c136a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -239,6 +221,34 @@ Last updated: 2026-02-19 12:42:32
 **Released:** 2026-02-16 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Can't Help Falling in Love: The Moth Radio Hour
+
+**Released:** 2026-02-17 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
+
+---
+
+### What's YOUR Story: The Moth Podcast
+
+**Released:** 2026-02-13 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4459108474.mp3?updated=1770846828)
+
+---
+
+## SmartLess 
+
+### "Margot Robbie"
+
+**Released:** 2026-02-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
 
 ---
 
