@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-20 12:38:11
-
-## Freakonomics Radio
-
-### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
-
-**Released:** 2026-02-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
-
----
-
-### All You Need Is Nudge (Update)
-
-**Released:** 2026-02-18 02:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 605: Kid Logic
-
-**Released:** 2026-02-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
-
----
+Last updated: 2026-02-21 01:14:49
 
 ## TED Talks Daily
+
+### How to turn off work thoughts during your free time | Guy Winch (re-release)
+
+**Released:** 2026-02-20 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699735597012ce5376a3de80/media.mp3)
+
+---
 
 ### How to be a great listener | Maegan Stephens, Nicole Lowenbraun
 
@@ -64,29 +44,31 @@ Last updated: 2026-02-20 12:38:11
 
 ---
 
-### Sunday Pick: How to find true love (w/ Francesca Hogi) | from How to Be a Better Human
+## Freakonomics Radio
 
-**Released:** 2026-02-15 07:00:00
+### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/698dfe493f15cb4dab328433/media.mp3)
+**Released:** 2026-02-20 11:00:00
 
----
-
-## Planet Money
-
-### How to get what Greenland has, with permission
-
-**Released:** 2026-02-18 20:43:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
 
 ---
 
-### Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+### All You Need Is Nudge (Update)
 
-**Released:** 2026-02-13 23:23:30
+**Released:** 2026-02-18 02:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 605: Kid Logic
+
+**Released:** 2026-02-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -100,6 +82,16 @@ Last updated: 2026-02-20 12:38:11
 
 ---
 
+## Planet Money
+
+### How to get what Greenland has, with permission
+
+**Released:** 2026-02-18 20:43:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+
+---
+
 ## 99% Invisible
 
 ### Molar City
@@ -107,6 +99,24 @@ Last updated: 2026-02-20 12:38:11
 **Released:** 2026-02-17 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+
+---
+
+## The Moth
+
+### American Dreams: Icons - The Moth Podcast
+
+**Released:** 2026-02-20 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
+
+---
+
+### Can't Help Falling in Love: The Moth Radio Hour
+
+**Released:** 2026-02-17 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
 
 ---
 
@@ -144,21 +154,21 @@ Last updated: 2026-02-20 12:38:11
 
 ---
 
-## The Moth
+## Conan O'Brien Needs A Friend
 
-### American Dreams: Icons - The Moth Podcast
+### 12 Clomp Program
 
-**Released:** 2026-02-20 05:25:00
+**Released:** 2026-02-19 05:05:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
 
 ---
 
-### Can't Help Falling in Love: The Moth Radio Hour
+### Halle Berry
 
-**Released:** 2026-02-17 05:25:00
+**Released:** 2026-02-16 05:05:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
 
 ---
 
@@ -195,24 +205,6 @@ Last updated: 2026-02-20 12:38:11
 **Released:** 2026-02-16 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### 12 Clomp Program
-
-**Released:** 2026-02-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
-
----
-
-### Halle Berry
-
-**Released:** 2026-02-16 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
 
 ---
 
