@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-22 01:20:44
+Last updated: 2026-02-22 12:30:16
+
+## Freakonomics Radio
+
+### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
+
+**Released:** 2026-02-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
+
+---
+
+### All You Need Is Nudge (Update)
+
+**Released:** 2026-02-18 02:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Sunday Pick: The science of raising kids (Part 2): How to raise healthy kids with Dr. Shari Barkin | from TED Health
+
+**Released:** 2026-02-22 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699736287012ce5376a428d3/media.mp3)
+
+---
 
 ### Why pursuing happiness makes you ... less happy | Emily Esfahani Smith
 
@@ -36,42 +62,6 @@ Last updated: 2026-02-22 01:20:44
 
 ---
 
-### Why I want to bring lions back to my village | Seif Hamisi
-
-**Released:** 2026-02-17 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6984bdd19e3d84d98b5d58b1/media.mp3)
-
----
-
-## This American Life
-
-### 605: Kid Logic
-
-**Released:** 2026-02-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
-
----
-
-## Freakonomics Radio
-
-### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
-
-**Released:** 2026-02-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
-
----
-
-### All You Need Is Nudge (Update)
-
-**Released:** 2026-02-18 02:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
@@ -90,37 +80,13 @@ Last updated: 2026-02-22 01:20:44
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2458 - Matt McCusker
+### 605: Kid Logic
 
-**Released:** 2026-02-20 18:00:00
+**Released:** 2026-02-15 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4339942079.mp3?updated=1771610771)
-
----
-
-### #2457 - Michael Malice
-
-**Released:** 2026-02-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3522571789.mp3?updated=1771553043)
-
----
-
-### #2456 - Michael Jai White
-
-**Released:** 2026-02-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8210409209.mp3?updated=1771435754)
-
----
-
-### #2455 - Donnell Rawlings
-
-**Released:** 2026-02-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4487663159.mp3?updated=1771348168)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
 
 ---
 
@@ -131,16 +97,6 @@ Last updated: 2026-02-22 01:20:44
 **Released:** 2026-02-16 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Molar City
-
-**Released:** 2026-02-17 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +134,16 @@ Last updated: 2026-02-22 01:20:44
 
 ---
 
+## 99% Invisible
+
+### Molar City
+
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
@@ -188,21 +154,21 @@ Last updated: 2026-02-22 01:20:44
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### 12 Clomp Program
+### Advice Line with Pete Maldonado and Rashid Ali of Chomps
 
-**Released:** 2026-02-19 05:05:00
+**Released:** 2026-02-19 08:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Halle Berry
+### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
 
-**Released:** 2026-02-16 05:05:00
+**Released:** 2026-02-16 08:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af1881-7ff0-44ee-9ca9-39d1851c136a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,6 +190,24 @@ Last updated: 2026-02-22 01:20:44
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### 12 Clomp Program
+
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
+
+---
+
+### Halle Berry
+
+**Released:** 2026-02-16 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Margot Robbie"
@@ -231,24 +215,6 @@ Last updated: 2026-02-22 01:20:44
 **Released:** 2026-02-16 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
-
----
-
-## How I Built This
-
-### Advice Line with Pete Maldonado and Rashid Ali of Chomps
-
-**Released:** 2026-02-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
-
-**Released:** 2026-02-16 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af1881-7ff0-44ee-9ca9-39d1851c136a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
