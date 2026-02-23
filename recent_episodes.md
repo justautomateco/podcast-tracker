@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-23 01:19:49
+Last updated: 2026-02-23 12:42:31
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2026-02-23 01:19:49
 **Released:** 2026-02-18 02:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 881: I Want What I Want
+
+**Released:** 2026-02-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
 
 ---
 
@@ -59,16 +69,6 @@ Last updated: 2026-02-23 01:19:49
 **Released:** 2026-02-18 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699505166415006ed2462f3c/media.mp3)
-
----
-
-## This American Life
-
-### 881: I Want What I Want
-
-**Released:** 2026-02-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
 
 ---
 
@@ -134,6 +134,16 @@ Last updated: 2026-02-23 01:19:49
 
 ---
 
+## 99% Invisible
+
+### Molar City
+
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: How Free Range Parenting Works
@@ -168,49 +178,21 @@ Last updated: 2026-02-23 01:19:49
 
 ---
 
-## 99% Invisible
+## How I Built This
 
-### Molar City
+### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
 
-**Released:** 2026-02-17 18:15:00
+**Released:** 2026-02-23 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Advice Line with Pete Maldonado and Rashid Ali of Chomps
 
 **Released:** 2026-02-19 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
-
-**Released:** 2026-02-16 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50af1881-7ff0-44ee-9ca9-39d1851c136a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### 12 Clomp Program
-
-**Released:** 2026-02-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
-
----
-
-### Halle Berry
-
-**Released:** 2026-02-16 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0fd63ace-5a4c-4d65-9f27-85114d2523fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0fd63ace-5a4c-4d65-9f27-85114d2523fb&feed=dHoohVNH)
 
 ---
 
@@ -232,17 +214,25 @@ Last updated: 2026-02-23 01:19:49
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Margot Robbie"
+### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
 
-**Released:** 2026-02-16 08:01:00
+**Released:** 2026-02-18 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b4be216f-89a6-404f-897d-4b55f85cdeb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b4be216f-89a6-404f-897d-4b55f85cdeb1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Sterling K. Brown
+
+**Released:** 2026-02-23 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/046a1cf0-0a19-4d67-8431-924df3a06472.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Unique Kink
 
@@ -260,21 +250,31 @@ Last updated: 2026-02-23 01:19:49
 
 ---
 
-### Charlie Puth
+## SmartLess 
 
-**Released:** 2026-02-16 08:30:00
+### "Chris Hemsworth"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fad3c579-0ff6-4820-9ce4-b7e05f243082.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-02-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
+### Denis Leary
 
-**Released:** 2026-02-18 20:30:00
+**Released:** 2026-02-23 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+
+---
+
+### 12 Clomp Program
+
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
 
 ---
 
