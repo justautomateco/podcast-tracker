@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-24 01:18:27
-
-## Freakonomics Radio
-
-### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
-
-**Released:** 2026-02-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
-
----
-
-### All You Need Is Nudge (Update)
-
-**Released:** 2026-02-18 02:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
-
----
+Last updated: 2026-02-24 12:43:10
 
 ## TED Talks Daily
 
@@ -62,6 +44,42 @@ Last updated: 2026-02-24 01:18:27
 
 ---
 
+## Freakonomics Radio
+
+### 664. Are Thousands of Medical Cures Hiding in Plain Sight?
+
+**Released:** 2026-02-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/014c5090-805b-4036-9aad-386d5664bef9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=014c5090-805b-4036-9aad-386d5664bef9&feed=Y8lFbOT4)
+
+---
+
+### All You Need Is Nudge (Update)
+
+**Released:** 2026-02-18 02:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/eac47624-9ce7-4014-8b21-0e54672dec53/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=eac47624-9ce7-4014-8b21-0e54672dec53&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+
+**Released:** 2026-02-21 06:09:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
+
+---
+
+### How to get what Greenland has, with permission
+
+**Released:** 2026-02-18 20:43:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+
+---
+
 ## This American Life
 
 ### 881: I Want What I Want
@@ -69,6 +87,50 @@ Last updated: 2026-02-24 01:18:27
 **Released:** 2026-02-22 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+
+---
+
+## Stuff You Should Know
+
+### The Murder of Jane Stanford
+
+**Released:** 2026-02-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c1c52d29-1a18-4e75-997a-b3fa01706ebe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Free Range Parenting Works
+
+**Released:** 2026-02-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/eb1ab299-3300-45e0-897b-b3f400f22913/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### How the Flexner Report Changed Medicine
+
+**Released:** 2026-02-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5832a1dc-1d66-49a3-b80c-b3f40012d50a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Safety Coffins
+
+**Released:** 2026-02-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa03ba33-8bb0-4c4e-b3b3-b3f500186bc5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Do You Feel Invisible?
+
+**Released:** 2026-02-23 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
@@ -103,68 +165,6 @@ Last updated: 2026-02-24 01:18:27
 **Released:** 2026-02-17 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4487663159.mp3?updated=1771348168)
-
----
-
-## Hidden Brain
-
-### Do You Feel Invisible?
-
-**Released:** 2026-02-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
-
-**Released:** 2026-02-21 06:09:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
-
----
-
-### How to get what Greenland has, with permission
-
-**Released:** 2026-02-18 20:43:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Free Range Parenting Works
-
-**Released:** 2026-02-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/eb1ab299-3300-45e0-897b-b3f400f22913/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How the Flexner Report Changed Medicine
-
-**Released:** 2026-02-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5832a1dc-1d66-49a3-b80c-b3f40012d50a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Safety Coffins
-
-**Released:** 2026-02-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa03ba33-8bb0-4c4e-b3b3-b3f500186bc5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Crowds Work
-
-**Released:** 2026-02-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/163eab5b-3f29-4689-b87b-b3f400082e75/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -206,34 +206,6 @@ Last updated: 2026-02-24 01:18:27
 
 ---
 
-## SmartLess 
-
-### "Chris Hemsworth"
-
-**Released:** 2026-02-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Denis Leary
-
-**Released:** 2026-02-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
-
----
-
-### 12 Clomp Program
-
-**Released:** 2026-02-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Sterling K. Brown
@@ -260,21 +232,49 @@ Last updated: 2026-02-24 01:18:27
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Denis Leary
+
+**Released:** 2026-02-23 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+
+---
+
+### 12 Clomp Program
+
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Chris Hemsworth"
+
+**Released:** 2026-02-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
+
+---
+
 ## The Moth
+
+### The Deep End: The Moth Radio Hour
+
+**Released:** 2026-02-24 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
+
+---
 
 ### American Dreams: Icons - The Moth Podcast
 
 **Released:** 2026-02-20 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
-
----
-
-### Can't Help Falling in Love: The Moth Radio Hour
-
-**Released:** 2026-02-17 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
 
 ---
 
