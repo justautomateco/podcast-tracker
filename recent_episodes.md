@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-23 12:42:31
+Last updated: 2026-02-24 01:18:27
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-02-23 12:42:31
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 881: I Want What I Want
+### A surprisingly effective way to fight misinformation | Dave Jorgenson
 
-**Released:** 2026-02-22 18:00:00
+**Released:** 2026-02-23 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699c78a9e3f0d89ce2bd1273/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Sunday Pick: The science of raising kids (Part 2): How to raise healthy kids with Dr. Shari Barkin | from TED Health
 
@@ -64,29 +62,13 @@ Last updated: 2026-02-23 12:42:31
 
 ---
 
-### What you know that AI doesn’t | Priyanka Vergadia
+## This American Life
 
-**Released:** 2026-02-18 16:00:00
+### 881: I Want What I Want
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699505166415006ed2462f3c/media.mp3)
+**Released:** 2026-02-22 18:00:00
 
----
-
-## Planet Money
-
-### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
-
-**Released:** 2026-02-21 06:09:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
-
----
-
-### How to get what Greenland has, with permission
-
-**Released:** 2026-02-18 20:43:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
 
 ---
 
@@ -126,21 +108,29 @@ Last updated: 2026-02-23 12:42:31
 
 ## Hidden Brain
 
-### Why You're Smarter Than You Think
+### Do You Feel Invisible?
 
-**Released:** 2026-02-16 20:00:00
+**Released:** 2026-02-23 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a5d0860b-e07c-4477-9db9-99be036a2724/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a5d0860b-e07c-4477-9db9-99be036a2724&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### Molar City
+### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
-**Released:** 2026-02-17 18:15:00
+**Released:** 2026-02-21 06:09:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
+
+---
+
+### How to get what Greenland has, with permission
+
+**Released:** 2026-02-18 20:43:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
 
 ---
 
@@ -178,6 +168,26 @@ Last updated: 2026-02-23 12:42:31
 
 ---
 
+## 99% Invisible
+
+### Molar City
+
+**Released:** 2026-02-17 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
+
+**Released:** 2026-02-18 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
@@ -196,31 +206,31 @@ Last updated: 2026-02-23 12:42:31
 
 ---
 
-## The Moth
+## SmartLess 
 
-### American Dreams: Icons - The Moth Podcast
+### "Chris Hemsworth"
 
-**Released:** 2026-02-20 05:25:00
+**Released:** 2026-02-23 08:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
-
----
-
-### Can't Help Falling in Love: The Moth Radio Hour
-
-**Released:** 2026-02-17 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
+### Denis Leary
 
-**Released:** 2026-02-18 20:30:00
+**Released:** 2026-02-23 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+
+---
+
+### 12 Clomp Program
+
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
 
 ---
 
@@ -250,31 +260,21 @@ Last updated: 2026-02-23 12:42:31
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Chris Hemsworth"
+### American Dreams: Icons - The Moth Podcast
 
-**Released:** 2026-02-23 08:01:00
+**Released:** 2026-02-20 05:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Denis Leary
-
-**Released:** 2026-02-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
 
 ---
 
-### 12 Clomp Program
+### Can't Help Falling in Love: The Moth Radio Hour
 
-**Released:** 2026-02-19 05:05:00
+**Released:** 2026-02-17 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2213559240.mp3?updated=1771542125)
 
 ---
 
