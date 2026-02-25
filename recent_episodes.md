@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-24 12:43:10
+Last updated: 2026-02-25 01:22:52
 
 ## TED Talks Daily
+
+### The controversial climate tool funding real change | Sandeep Roy Choudhury
+
+**Released:** 2026-02-24 16:11:17
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699dcb80e84fcb90f2c843e1/media.mp3)
+
+---
 
 ### A surprisingly effective way to fight misinformation | Dave Jorgenson
 
@@ -33,14 +41,6 @@ Last updated: 2026-02-24 12:43:10
 **Released:** 2026-02-20 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699735597012ce5376a3de80/media.mp3)
-
----
-
-### How to be a great listener | Maegan Stephens, Nicole Lowenbraun
-
-**Released:** 2026-02-19 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699619bee1d8773119c6abb4/media.mp3)
 
 ---
 
@@ -134,7 +134,25 @@ Last updated: 2026-02-24 12:43:10
 
 ---
 
+## 99% Invisible
+
+### The Longest Fence in the World
+
+**Released:** 2026-02-24 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2459 - Jim Breuer
+
+**Released:** 2026-02-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1771954373)
+
+---
 
 ### #2458 - Matt McCusker
 
@@ -160,34 +178,6 @@ Last updated: 2026-02-24 12:43:10
 
 ---
 
-### #2455 - Donnell Rawlings
-
-**Released:** 2026-02-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4487663159.mp3?updated=1771348168)
-
----
-
-## 99% Invisible
-
-### Molar City
-
-**Released:** 2026-02-17 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
-
-**Released:** 2026-02-18 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
@@ -203,6 +193,24 @@ Last updated: 2026-02-24 12:43:10
 **Released:** 2026-02-19 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Denis Leary
+
+**Released:** 2026-02-23 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+
+---
+
+### 12 Clomp Program
+
+**Released:** 2026-02-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
 
 ---
 
@@ -232,34 +240,6 @@ Last updated: 2026-02-24 12:43:10
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Denis Leary
-
-**Released:** 2026-02-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
-
----
-
-### 12 Clomp Program
-
-**Released:** 2026-02-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Chris Hemsworth"
-
-**Released:** 2026-02-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
-
----
-
 ## The Moth
 
 ### The Deep End: The Moth Radio Hour
@@ -274,7 +254,35 @@ Last updated: 2026-02-24 12:43:10
 
 **Released:** 2026-02-20 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1770992603)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6863994361.mp3?updated=1771938187)
+
+---
+
+## SmartLess 
+
+### "Chris Hemsworth"
+
+**Released:** 2026-02-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+
+**Released:** 2026-02-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
+
+**Released:** 2026-02-18 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
