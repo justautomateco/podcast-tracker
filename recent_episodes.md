@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-25 12:43:03
+Last updated: 2026-02-26 01:17:32
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-02-25 12:43:03
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 881: I Want What I Want
+### The story you're not hearing about AI data centers | Ayșe Coskun
 
-**Released:** 2026-02-22 18:00:00
+**Released:** 2026-02-25 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699735e2e1d8773119156c23/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The controversial climate tool funding real change | Sandeep Roy Choudhury
 
@@ -56,15 +54,43 @@ Last updated: 2026-02-25 12:43:03
 
 ---
 
-### How to turn off work thoughts during your free time | Guy Winch (re-release)
+## This American Life
 
-**Released:** 2026-02-20 16:00:00
+### 881: I Want What I Want
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699735597012ce5376a3de80/media.mp3)
+**Released:** 2026-02-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+
+---
+
+## Planet Money
+
+### The ICE hiring boom
+
+**Released:** 2026-02-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
+
+---
+
+### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+
+**Released:** 2026-02-21 06:09:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
 
 ---
 
 ## The Joe Rogan Experience
+
+### JRE MMA Show #174 with Terence Crawford
+
+**Released:** 2026-02-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772042650)
+
+---
 
 ### #2459 - Jim Breuer
 
@@ -87,50 +113,6 @@ Last updated: 2026-02-25 12:43:03
 **Released:** 2026-02-19 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3522571789.mp3?updated=1771553043)
-
----
-
-### #2456 - Michael Jai White
-
-**Released:** 2026-02-18 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8210409209.mp3?updated=1771435754)
-
----
-
-## Planet Money
-
-### The ICE hiring boom
-
-**Released:** 2026-02-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
-
----
-
-### The Supreme Court struck down a bunch of Trump's tariffs. Now what?
-
-**Released:** 2026-02-21 06:09:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
-
----
-
-### How to get what Greenland has, with permission
-
-**Released:** 2026-02-18 20:43:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481)
-
----
-
-## Hidden Brain
-
-### Do You Feel Invisible?
-
-**Released:** 2026-02-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
@@ -178,6 +160,16 @@ Last updated: 2026-02-25 12:43:03
 
 ---
 
+## Hidden Brain
+
+### Do You Feel Invisible?
+
+**Released:** 2026-02-23 20:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
@@ -185,32 +177,6 @@ Last updated: 2026-02-25 12:43:03
 **Released:** 2026-02-24 19:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #854: Tish Rabe — 200+ Children's Books, Getting Picked for Dr. Seuss, Lessons from Early Sesame Street, How to Write 300+ Songs, and More
-
-**Released:** 2026-02-18 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c418fed-3425-4328-99a6-187d7a4dd50a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
-
-**Released:** 2026-02-23 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Pete Maldonado and Rashid Ali of Chomps
-
-**Released:** 2026-02-19 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -232,6 +198,34 @@ Last updated: 2026-02-25 12:43:03
 
 ---
 
+## How I Built This
+
+### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
+
+**Released:** 2026-02-23 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Pete Maldonado and Rashid Ali of Chomps
+
+**Released:** 2026-02-19 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44567442-1a5d-4d8f-a768-b498af82ee6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Chris Hemsworth"
+
+**Released:** 2026-02-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Denis Leary
@@ -247,16 +241,6 @@ Last updated: 2026-02-25 12:43:03
 **Released:** 2026-02-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/efdb8b2a-97e9-4f17-9b67-ac8823ad6855/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=efdb8b2a-97e9-4f17-9b67-ac8823ad6855&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Chris Hemsworth"
-
-**Released:** 2026-02-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
 
 ---
 
