@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-01 01:26:10
-
-## Freakonomics Radio
-
-### 665. Werner Herzog Isn’t Afraid ...
-
-**Released:** 2026-02-27 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Don't hate the replicator, hate the game
-
-**Released:** 2026-02-27 22:05:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
-
----
-
-### The ICE hiring boom
-
-**Released:** 2026-02-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
-
----
+Last updated: 2026-03-01 12:29:58
 
 ## This American Life
 
@@ -41,6 +13,14 @@ Last updated: 2026-03-01 01:26:10
 ---
 
 ## TED Talks Daily
+
+### Sunday Pick: Matt Damon on solving one of the planet’s biggest problems, in partnership with Gary White | from ReThinking with Adam Grant
+
+**Released:** 2026-03-01 07:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699f2cc5ed94f5e3264e7595/media.mp3)
+
+---
 
 ### What to do when you’re told there’s nothing left to try | David Fajgenbaum and Kiah Williams
 
@@ -74,11 +54,31 @@ Last updated: 2026-03-01 01:26:10
 
 ---
 
-### The controversial climate tool funding real change | Sandeep Roy Choudhury
+## Freakonomics Radio
 
-**Released:** 2026-02-24 16:11:17
+### 665. Werner Herzog Isn’t Afraid ...
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699dcb80e84fcb90f2c843e1/media.mp3)
+**Released:** 2026-02-27 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Don't hate the replicator, hate the game
+
+**Released:** 2026-02-27 22:05:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+
+---
+
+### The ICE hiring boom
+
+**Released:** 2026-02-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
 
 ---
 
@@ -89,58 +89,6 @@ Last updated: 2026-03-01 01:26:10
 **Released:** 2026-02-23 20:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2461 - Robert F. Kennedy, Jr.
-
-**Released:** 2026-02-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2655700925.mp3?updated=1772214646)
-
----
-
-### #2460 - Rachel Wilson
-
-**Released:** 2026-02-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8521906535.mp3?updated=1772127268)
-
----
-
-### JRE MMA Show #174 with Terence Crawford
-
-**Released:** 2026-02-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772042650)
-
----
-
-### #2459 - Jim Breuer
-
-**Released:** 2026-02-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1771954373)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #7: California AG Rob Bonta
-
-**Released:** 2026-02-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
-
----
-
-### The Longest Fence in the World
-
-**Released:** 2026-02-24 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3&feed=BqbsxVfO)
 
 ---
 
@@ -178,13 +126,31 @@ Last updated: 2026-03-01 01:26:10
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+### Constitution Breakdown #7: California AG Rob Bonta
 
-**Released:** 2026-02-24 19:00:00
+**Released:** 2026-02-27 18:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
+
+---
+
+### The Longest Fence in the World
+
+**Released:** 2026-02-24 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### From Valley of Shadows: The Devil's Punchbowl 
+
+**Released:** 2026-02-26 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -203,70 +169,6 @@ Last updated: 2026-03-01 01:26:10
 **Released:** 2026-02-23 08:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### From Valley of Shadows: The Devil's Punchbowl 
-
-**Released:** 2026-02-26 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### I Survived the Unsurvivable | From A Slight Change of Plans
-
-**Released:** 2026-02-27 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
-
----
-
-### The Deep End: The Moth Radio Hour
-
-**Released:** 2026-02-24 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Brian Kiley
-
-**Released:** 2026-02-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
-
----
-
-### Denis Leary
-
-**Released:** 2026-02-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### STAYING ALIVE: Will Arnett, Part 1!
-
-**Released:** 2026-02-26 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
-
----
-
-### "Chris Hemsworth"
-
-**Released:** 2026-02-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +195,70 @@ Last updated: 2026-03-01 01:26:10
 **Released:** 2026-02-23 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/046a1cf0-0a19-4d67-8431-924df3a06472.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### I Survived the Unsurvivable | From A Slight Change of Plans
+
+**Released:** 2026-02-27 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
+
+---
+
+### The Deep End: The Moth Radio Hour
+
+**Released:** 2026-02-24 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
+
+---
+
+## SmartLess 
+
+### STAYING ALIVE: Will Arnett, Part 1!
+
+**Released:** 2026-02-26 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
+
+---
+
+### "Chris Hemsworth"
+
+**Released:** 2026-02-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Staff Review With Brian Kiley
+
+**Released:** 2026-02-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
+
+---
+
+### Denis Leary
+
+**Released:** 2026-02-23 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+
+**Released:** 2026-02-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
