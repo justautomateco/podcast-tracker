@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-02-28 12:28:14
+Last updated: 2026-03-01 01:26:10
 
 ## Freakonomics Radio
 
@@ -9,6 +9,24 @@ Last updated: 2026-02-28 12:28:14
 **Released:** 2026-02-27 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Don't hate the replicator, hate the game
+
+**Released:** 2026-02-27 22:05:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+
+---
+
+### The ICE hiring boom
+
+**Released:** 2026-02-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
 
 ---
 
@@ -23,6 +41,14 @@ Last updated: 2026-02-28 12:28:14
 ---
 
 ## TED Talks Daily
+
+### What to do when you’re told there’s nothing left to try | David Fajgenbaum and Kiah Williams
+
+**Released:** 2026-02-28 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699f2c1bfa55957722470bed/media.mp3)
+
+---
 
 ### The tiny organisms transforming farming | Karsten Temme
 
@@ -56,29 +82,13 @@ Last updated: 2026-02-28 12:28:14
 
 ---
 
-### A surprisingly effective way to fight misinformation | Dave Jorgenson
+## Hidden Brain
 
-**Released:** 2026-02-23 16:00:00
+### Do You Feel Invisible?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699c78a9e3f0d89ce2bd1273/media.mp3)
+**Released:** 2026-02-23 20:00:00
 
----
-
-## Planet Money
-
-### Don't hate the replicator, hate the game
-
-**Released:** 2026-02-27 22:05:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
-
----
-
-### The ICE hiring boom
-
-**Released:** 2026-02-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
@@ -113,16 +123,6 @@ Last updated: 2026-02-28 12:28:14
 **Released:** 2026-02-24 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1771954373)
-
----
-
-## Hidden Brain
-
-### Do You Feel Invisible?
-
-**Released:** 2026-02-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
@@ -178,6 +178,34 @@ Last updated: 2026-02-28 12:28:14
 
 ---
 
+## The Tim Ferriss Show
+
+### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+
+**Released:** 2026-02-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line with Alexa Hirschfeld of Paperless Post 
+
+**Released:** 2026-02-26 08:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d6d1f95-0cdc-458c-9620-a84e3f509aae.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
+
+**Released:** 2026-02-23 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### From Valley of Shadows: The Devil's Punchbowl 
@@ -206,21 +234,21 @@ Last updated: 2026-02-28 12:28:14
 
 ---
 
-## How I Built This
+## Conan O'Brien Needs A Friend
 
-### Advice Line with Alexa Hirschfeld of Paperless Post 
+### Staff Review With Brian Kiley
 
-**Released:** 2026-02-26 08:00:00
+**Released:** 2026-02-26 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d6d1f95-0cdc-458c-9620-a84e3f509aae.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
 
 ---
 
-### Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
+### Denis Leary
 
-**Released:** 2026-02-23 08:10:00
+**Released:** 2026-02-23 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1fb07edf-0cc3-4a66-a1d6-0222945c5102.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
 
 ---
 
@@ -239,24 +267,6 @@ Last updated: 2026-02-28 12:28:14
 **Released:** 2026-02-23 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=1698cb6c-9fa5-4a5d-ae2b-01a11393ebc2&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Brian Kiley
-
-**Released:** 2026-02-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
-
----
-
-### Denis Leary
-
-**Released:** 2026-02-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&feed=dHoohVNH)
 
 ---
 
@@ -283,16 +293,6 @@ Last updated: 2026-02-28 12:28:14
 **Released:** 2026-02-23 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/046a1cf0-0a19-4d67-8431-924df3a06472.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
-
-**Released:** 2026-02-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
