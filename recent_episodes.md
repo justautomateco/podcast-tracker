@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-02 12:37:53
+Last updated: 2026-03-03 01:20:45
+
+## Freakonomics Radio
+
+### 665. Werner Herzog Isn’t Afraid ...
+
+**Released:** 2026-02-27 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 208: Office Politics
+
+**Released:** 2026-03-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
+
+---
 
 ## TED Talks Daily
+
+### The attack on Iran — why now? | Ian Bremmer
+
+**Released:** 2026-03-02 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a5b28f5517cf499dd97be8/media.mp3)
+
+---
 
 ### Sunday Pick: Matt Damon on solving one of the planet’s biggest problems, in partnership with Gary White | from ReThinking with Adam Grant
 
@@ -36,31 +64,47 @@ Last updated: 2026-03-02 12:37:53
 
 ---
 
-### The story you're not hearing about AI data centers | Ayșe Coskun
+## The Joe Rogan Experience
 
-**Released:** 2026-02-25 16:00:00
+### #2461 - Robert F. Kennedy, Jr.
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699735e2e1d8773119156c23/media.mp3)
+**Released:** 2026-02-27 18:00:00
 
----
-
-## Freakonomics Radio
-
-### 665. Werner Herzog Isn’t Afraid ...
-
-**Released:** 2026-02-27 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2655700925.mp3?updated=1772214646)
 
 ---
 
-## This American Life
+### #2460 - Rachel Wilson
 
-### 208: Office Politics
+**Released:** 2026-02-26 18:00:00
 
-**Released:** 2026-03-01 18:00:00
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8521906535.mp3?updated=1772127268)
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
+---
+
+### JRE MMA Show #174 with Terence Crawford
+
+**Released:** 2026-02-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772042650)
+
+---
+
+### #2459 - Jim Breuer
+
+**Released:** 2026-02-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1771954373)
+
+---
+
+## Hidden Brain
+
+### The Secret of Charisma
+
+**Released:** 2026-03-02 21:27:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
 
 ---
 
@@ -79,16 +123,6 @@ Last updated: 2026-03-02 12:37:53
 **Released:** 2026-02-25 08:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
-
----
-
-## Hidden Brain
-
-### Do You Feel Invisible?
-
-**Released:** 2026-02-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e3cc0ec9-ca2c-46de-8d55-fa263f0cab30/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e3cc0ec9-ca2c-46de-8d55-fa263f0cab30&feed=kwWc0lhf)
 
 ---
 
@@ -154,16 +188,6 @@ Last updated: 2026-03-02 12:37:53
 
 ---
 
-## The Tim Ferriss Show
-
-### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
-
-**Released:** 2026-02-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Kettle Chips: Cameron Healy. The Wild Bet That Made a Brand
@@ -182,21 +206,31 @@ Last updated: 2026-03-02 12:37:53
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### I Survived the Unsurvivable | From A Slight Change of Plans
+### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
 
-**Released:** 2026-02-27 05:25:00
+**Released:** 2026-02-24 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Deep End: The Moth Radio Hour
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-02-24 05:25:00
+### Johnny Knoxville
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
+**Released:** 2026-03-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
+
+---
+
+### Staff Review With Brian Kiley
+
+**Released:** 2026-02-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
 
 ---
 
@@ -226,21 +260,21 @@ Last updated: 2026-03-02 12:37:53
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Moth
 
-### Johnny Knoxville
+### I Survived the Unsurvivable | From A Slight Change of Plans
 
-**Released:** 2026-03-02 05:05:00
+**Released:** 2026-02-27 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
 
 ---
 
-### Staff Review With Brian Kiley
+### The Deep End: The Moth Radio Hour
 
-**Released:** 2026-02-26 05:05:00
+**Released:** 2026-02-24 05:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
 
 ---
 
