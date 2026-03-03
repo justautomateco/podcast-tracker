@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-03 01:20:45
+Last updated: 2026-03-03 12:36:31
 
 ## Freakonomics Radio
 
@@ -86,7 +86,7 @@ Last updated: 2026-03-03 01:20:45
 
 **Released:** 2026-02-25 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772042650)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772513195)
 
 ---
 
@@ -94,17 +94,7 @@ Last updated: 2026-03-03 01:20:45
 
 **Released:** 2026-02-24 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1771954373)
-
----
-
-## Hidden Brain
-
-### The Secret of Charisma
-
-**Released:** 2026-03-02 21:27:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1772513097)
 
 ---
 
@@ -126,7 +116,25 @@ Last updated: 2026-03-03 01:20:45
 
 ---
 
+## Hidden Brain
+
+### The Secret of Charisma
+
+**Released:** 2026-03-02 21:27:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### The Gold Standard: When Money Meant Something
+
+**Released:** 2026-03-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f66d15e8-05f0-4fce-9486-b40100fc5815/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Dopamine Works
 
@@ -152,14 +160,6 @@ Last updated: 2026-03-03 01:20:45
 
 ---
 
-### The Murder of Jane Stanford
-
-**Released:** 2026-02-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c1c52d29-1a18-4e75-997a-b3fa01706ebe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### Constitution Breakdown #7: California AG Rob Bonta
@@ -175,16 +175,6 @@ Last updated: 2026-03-03 01:20:45
 **Released:** 2026-02-24 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### From Valley of Shadows: The Devil's Punchbowl 
-
-**Released:** 2026-02-26 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -206,13 +196,49 @@ Last updated: 2026-03-03 01:20:45
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+### From Valley of Shadows: The Devil's Punchbowl 
 
-**Released:** 2026-02-24 19:00:00
+**Released:** 2026-02-26 05:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+
+**Released:** 2026-03-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+
+---
+
+### I Survived the Unsurvivable | From A Slight Change of Plans
+
+**Released:** 2026-02-27 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
+
+---
+
+## SmartLess 
+
+### "Brian Cox"
+
+**Released:** 2026-03-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
+
+---
+
+### STAYING ALIVE: Will Arnett, Part 1!
+
+**Released:** 2026-02-26 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
 
 ---
 
@@ -260,39 +286,13 @@ Last updated: 2026-03-03 01:20:45
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### I Survived the Unsurvivable | From A Slight Change of Plans
+### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
 
-**Released:** 2026-02-27 05:25:00
+**Released:** 2026-02-24 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
-
----
-
-### The Deep End: The Moth Radio Hour
-
-**Released:** 2026-02-24 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3407504486.mp3?updated=1771370728)
-
----
-
-## SmartLess 
-
-### "Brian Cox"
-
-**Released:** 2026-03-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
-
----
-
-### STAYING ALIVE: Will Arnett, Part 1!
-
-**Released:** 2026-02-26 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
