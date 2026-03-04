@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-04 01:16:24
-
-## This American Life
-
-### 208: Office Politics
-
-**Released:** 2026-03-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
-
----
+Last updated: 2026-03-04 12:36:59
 
 ## TED Talks Daily
 
@@ -56,6 +46,14 @@ Last updated: 2026-03-04 01:16:24
 
 ## Freakonomics Radio
 
+### The Most Powerful People You’ve Never Heard Of (Update)
+
+**Released:** 2026-03-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
+
 ### 665. Werner Herzog Isn’t Afraid ...
 
 **Released:** 2026-02-27 11:00:00
@@ -64,47 +62,23 @@ Last updated: 2026-03-04 01:16:24
 
 ---
 
-## Stuff You Should Know
+## This American Life
 
-### The Gold Standard: When Money Meant Something
+### 208: Office Politics
 
-**Released:** 2026-03-03 10:00:00
+**Released:** 2026-03-01 18:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f66d15e8-05f0-4fce-9486-b40100fc5815/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Dopamine Works
-
-**Released:** 2026-02-28 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4afc55d2-428a-42a5-82b0-b3fb016140c5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
 
 ---
 
-### The Battle of the Sexes
+## Planet Money
 
-**Released:** 2026-02-26 10:00:00
+### Don't hate the replicator, hate the game
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/47ec59c5-c202-459e-bc56-b3fd0008662a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-02-27 22:05:00
 
----
-
-### Short Stuff: MacGuffins
-
-**Released:** 2026-02-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7187c792-049d-4019-b644-b3fb0169b7e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### The Secret of Charisma
-
-**Released:** 2026-03-02 21:27:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
 
 ---
 
@@ -142,6 +116,50 @@ Last updated: 2026-03-04 01:16:24
 
 ---
 
+## Hidden Brain
+
+### The Secret of Charisma
+
+**Released:** 2026-03-02 21:27:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+
+---
+
+## Stuff You Should Know
+
+### Short Stuff: Johnny Ringo
+
+**Released:** 2026-03-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/717993a6-6930-44e1-8659-b40101477e0a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Gold Standard: When Money Meant Something
+
+**Released:** 2026-03-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f66d15e8-05f0-4fce-9486-b40100fc5815/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: How Dopamine Works
+
+**Released:** 2026-02-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4afc55d2-428a-42a5-82b0-b3fb016140c5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The Battle of the Sexes
+
+**Released:** 2026-02-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/47ec59c5-c202-459e-bc56-b3fd0008662a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## 99% Invisible
 
 ### Where the F*** Are We?
@@ -160,6 +178,16 @@ Last updated: 2026-03-04 01:16:24
 
 ---
 
+## Revisionist History
+
+### From Valley of Shadows: The Devil's Punchbowl 
+
+**Released:** 2026-02-26 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Kettle Chips: Cameron Healy. The Wild Bet That Made a Brand
@@ -175,60 +203,6 @@ Last updated: 2026-03-04 01:16:24
 **Released:** 2026-02-26 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d6d1f95-0cdc-458c-9620-a84e3f509aae.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### From Valley of Shadows: The Devil's Punchbowl 
-
-**Released:** 2026-02-26 05:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6c2e11e2-af11-4000-b382-b3fd00239893/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
-
-**Released:** 2026-03-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
-
----
-
-### I Survived the Unsurvivable | From A Slight Change of Plans
-
-**Released:** 2026-02-27 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
-
----
-
-## Armchair Expert
-
-### Marcus Mumford
-
-**Released:** 2026-03-02 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Las Vegas
-
-**Released:** 2026-02-27 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c3596235-2760-449a-bf68-ba066327ad19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Adam Mosseri Returns (Head of Instagram)
-
-**Released:** 2026-02-25 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ec3eec95-44b7-4773-b6a8-a1b002f51c32.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -268,21 +242,47 @@ Last updated: 2026-03-04 01:16:24
 
 ---
 
-## Planet Money
+## The Moth
 
-### Don't hate the replicator, hate the game
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
 
-**Released:** 2026-02-27 22:05:00
+**Released:** 2026-03-03 05:25:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
 
 ---
 
-### The ICE hiring boom
+### I Survived the Unsurvivable | From A Slight Change of Plans
 
-**Released:** 2026-02-25 08:00:00
+**Released:** 2026-02-27 05:25:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
+
+---
+
+## Armchair Expert
+
+### Sasha Hamdani (on ADHD)
+
+**Released:** 2026-03-04 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Marcus Mumford
+
+**Released:** 2026-03-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Las Vegas
+
+**Released:** 2026-02-27 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c3596235-2760-449a-bf68-ba066327ad19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
