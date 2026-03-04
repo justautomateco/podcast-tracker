@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-03 12:36:31
-
-## Freakonomics Radio
-
-### 665. Werner Herzog Isn’t Afraid ...
-
-**Released:** 2026-02-27 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
-
----
+Last updated: 2026-03-04 01:16:24
 
 ## This American Life
 
@@ -23,6 +13,14 @@ Last updated: 2026-03-03 12:36:31
 ---
 
 ## TED Talks Daily
+
+### My year living with a robot | Emily Kate Genatowski
+
+**Released:** 2026-03-03 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a1c4f5f0bb26c296124669/media.mp3)
+
+---
 
 ### The attack on Iran — why now? | Ian Bremmer
 
@@ -56,73 +54,13 @@ Last updated: 2026-03-03 12:36:31
 
 ---
 
-### Jermaine Dupri on the art of making a hit | On the Spot
+## Freakonomics Radio
 
-**Released:** 2026-02-26 16:00:00
+### 665. Werner Herzog Isn’t Afraid ...
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699f2b68fa5595772246bfc7/media.mp3)
+**Released:** 2026-02-27 11:00:00
 
----
-
-## The Joe Rogan Experience
-
-### #2461 - Robert F. Kennedy, Jr.
-
-**Released:** 2026-02-27 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2655700925.mp3?updated=1772214646)
-
----
-
-### #2460 - Rachel Wilson
-
-**Released:** 2026-02-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8521906535.mp3?updated=1772127268)
-
----
-
-### JRE MMA Show #174 with Terence Crawford
-
-**Released:** 2026-02-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772513195)
-
----
-
-### #2459 - Jim Breuer
-
-**Released:** 2026-02-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4266228236.mp3?updated=1772513097)
-
----
-
-## Planet Money
-
-### Don't hate the replicator, hate the game
-
-**Released:** 2026-02-27 22:05:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
-
----
-
-### The ICE hiring boom
-
-**Released:** 2026-02-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
-
----
-
-## Hidden Brain
-
-### The Secret of Charisma
-
-**Released:** 2026-03-02 21:27:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
 
 ---
 
@@ -160,21 +98,65 @@ Last updated: 2026-03-03 12:36:31
 
 ---
 
+## Hidden Brain
+
+### The Secret of Charisma
+
+**Released:** 2026-03-02 21:27:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2462 - Aaron Siri
+
+**Released:** 2026-03-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5558298469.mp3?updated=1772559919)
+
+---
+
+### #2461 - Robert F. Kennedy, Jr.
+
+**Released:** 2026-02-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2655700925.mp3?updated=1772214646)
+
+---
+
+### #2460 - Rachel Wilson
+
+**Released:** 2026-02-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8521906535.mp3?updated=1772127268)
+
+---
+
+### JRE MMA Show #174 with Terence Crawford
+
+**Released:** 2026-02-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772513195)
+
+---
+
 ## 99% Invisible
+
+### Where the F*** Are We?
+
+**Released:** 2026-03-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
 
 ### Constitution Breakdown #7: California AG Rob Bonta
 
 **Released:** 2026-02-27 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
-
----
-
-### The Longest Fence in the World
-
-**Released:** 2026-02-24 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=156078ab-ddb1-4a5a-8ee0-6fe50b88f2c3&feed=BqbsxVfO)
 
 ---
 
@@ -224,42 +206,6 @@ Last updated: 2026-03-03 12:36:31
 
 ---
 
-## SmartLess 
-
-### "Brian Cox"
-
-**Released:** 2026-03-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
-
----
-
-### STAYING ALIVE: Will Arnett, Part 1!
-
-**Released:** 2026-02-26 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Johnny Knoxville
-
-**Released:** 2026-03-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
-
----
-
-### Staff Review With Brian Kiley
-
-**Released:** 2026-02-26 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Marcus Mumford
@@ -286,13 +232,57 @@ Last updated: 2026-03-03 12:36:31
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #855: Tim Ferriss — How to Quiet the Ruminative Mind, Avoid Traps of Self-Help, and Focus in a World of Promiscuous Overcommitment
+### Johnny Knoxville
 
-**Released:** 2026-02-24 19:00:00
+**Released:** 2026-03-02 05:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bb38ae86-27fc-4fc9-a297-b9b0583c7990.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
+
+---
+
+### Staff Review With Brian Kiley
+
+**Released:** 2026-02-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Brian Cox"
+
+**Released:** 2026-03-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
+
+---
+
+### STAYING ALIVE: Will Arnett, Part 1!
+
+**Released:** 2026-02-26 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
+
+---
+
+## Planet Money
+
+### Don't hate the replicator, hate the game
+
+**Released:** 2026-02-27 22:05:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+
+---
+
+### The ICE hiring boom
+
+**Released:** 2026-02-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
 
 ---
 
