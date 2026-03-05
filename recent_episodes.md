@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-04 12:36:59
+Last updated: 2026-03-05 01:18:25
+
+## Freakonomics Radio
+
+### The Most Powerful People You’ve Never Heard Of (Update)
+
+**Released:** 2026-03-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
+
+### 665. Werner Herzog Isn’t Afraid ...
+
+**Released:** 2026-02-27 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### 4 relationship traps that lead to burnout | Eric Quintane
+
+**Released:** 2026-03-04 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a85681d7234219a3e9c5d9/media.mp3)
+
+---
 
 ### My year living with a robot | Emily Kate Genatowski
 
@@ -36,32 +62,6 @@ Last updated: 2026-03-04 12:36:59
 
 ---
 
-### The tiny organisms transforming farming | Karsten Temme
-
-**Released:** 2026-02-27 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699dec8b0e248fdc4f45eb9f/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### The Most Powerful People You’ve Never Heard Of (Update)
-
-**Released:** 2026-03-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
-
----
-
-### 665. Werner Herzog Isn’t Afraid ...
-
-**Released:** 2026-02-27 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 208: Office Politics
@@ -74,6 +74,14 @@ Last updated: 2026-03-04 12:36:59
 
 ## Planet Money
 
+### The Business of Heated Rivalry
+
+**Released:** 2026-03-04 18:58:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+
+---
+
 ### Don't hate the replicator, hate the game
 
 **Released:** 2026-02-27 22:05:00
@@ -83,6 +91,14 @@ Last updated: 2026-03-04 12:36:59
 ---
 
 ## The Joe Rogan Experience
+
+### #2463 - Steve-O
+
+**Released:** 2026-03-04 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3708306002.mp3?updated=1772646504)
+
+---
 
 ### #2462 - Aaron Siri
 
@@ -108,14 +124,6 @@ Last updated: 2026-03-04 12:36:59
 
 ---
 
-### JRE MMA Show #174 with Terence Crawford
-
-**Released:** 2026-02-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5908455235.mp3?updated=1772513195)
-
----
-
 ## Hidden Brain
 
 ### The Secret of Charisma
@@ -123,6 +131,24 @@ Last updated: 2026-03-04 12:36:59
 **Released:** 2026-03-02 21:27:46
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Where the F*** Are We?
+
+**Released:** 2026-03-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #7: California AG Rob Bonta
+
+**Released:** 2026-02-27 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
 
 ---
 
@@ -160,21 +186,13 @@ Last updated: 2026-03-04 12:36:59
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### Where the F*** Are We?
+### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
 
-**Released:** 2026-03-03 18:15:00
+**Released:** 2026-03-05 00:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #7: California AG Rob Bonta
-
-**Released:** 2026-02-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -203,6 +221,24 @@ Last updated: 2026-03-04 12:36:59
 **Released:** 2026-02-26 08:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d6d1f95-0cdc-458c-9620-a84e3f509aae.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+
+**Released:** 2026-03-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+
+---
+
+### I Survived the Unsurvivable | From A Slight Change of Plans
+
+**Released:** 2026-02-27 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
 
 ---
 
@@ -239,24 +275,6 @@ Last updated: 2026-03-04 12:36:59
 **Released:** 2026-02-26 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/90167062-02c8-41e7-9642-716d410e3231/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=90167062-02c8-41e7-9642-716d410e3231&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
-
-**Released:** 2026-03-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
-
----
-
-### I Survived the Unsurvivable | From A Slight Change of Plans
-
-**Released:** 2026-02-27 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
 
 ---
 
