@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-06 01:21:36
-
-## Freakonomics Radio
-
-### The Most Powerful People You’ve Never Heard Of (Update)
-
-**Released:** 2026-03-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
-
----
-
-### 665. Werner Herzog Isn’t Afraid ...
-
-**Released:** 2026-02-27 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c5d9117-2f22-46fb-9776-be537997f79f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c5d9117-2f22-46fb-9776-be537997f79f&feed=Y8lFbOT4)
-
----
+Last updated: 2026-03-06 12:35:30
 
 ## This American Life
 
@@ -72,21 +54,21 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
-## Planet Money
+## Freakonomics Radio
 
-### The Business of Heated Rivalry
+### 666. This Is How Progress Happens
 
-**Released:** 2026-03-04 18:58:15
+**Released:** 2026-03-06 11:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
 
 ---
 
-### Don't hate the replicator, hate the game
+### The Most Powerful People You’ve Never Heard Of (Update)
 
-**Released:** 2026-02-27 22:05:00
+**Released:** 2026-03-04 11:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
 
 ---
 
@@ -124,31 +106,21 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### The Secret of Charisma
+### The Business of Heated Rivalry
 
-**Released:** 2026-03-02 21:27:46
+**Released:** 2026-03-04 18:58:15
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Where the F*** Are We?
-
-**Released:** 2026-03-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
 
 ---
 
-### Constitution Breakdown #7: California AG Rob Bonta
+### Don't hate the replicator, hate the game
 
-**Released:** 2026-02-27 18:15:00
+**Released:** 2026-02-27 22:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
 
 ---
 
@@ -186,23 +158,31 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
-## The Tim Ferriss Show
+## Hidden Brain
 
-### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+### The Secret of Charisma
 
-**Released:** 2026-03-05 00:30:00
+**Released:** 2026-03-02 21:27:46
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
 
 ---
 
-## Revisionist History
+## 99% Invisible
 
-### Zootopia Exposed! (Part One)
+### Where the F*** Are We?
 
-**Released:** 2026-03-05 05:01:00
+**Released:** 2026-03-03 18:15:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d953484f-3976-4b69-8cb3-b404001effc6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #7: California AG Rob Bonta
+
+**Released:** 2026-02-27 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
 
 ---
 
@@ -224,29 +204,13 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Sasha Hamdani (on ADHD)
+### Zootopia Exposed! (Part One)
 
-**Released:** 2026-03-04 08:30:00
+**Released:** 2026-03-05 05:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Marcus Mumford
-
-**Released:** 2026-03-02 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Las Vegas
-
-**Released:** 2026-02-27 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c3596235-2760-449a-bf68-ba066327ad19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d953484f-3976-4b69-8cb3-b404001effc6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -268,6 +232,34 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
+## The Tim Ferriss Show
+
+### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+
+**Released:** 2026-03-05 00:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Women Up: The Moth Podcast
+
+**Released:** 2026-03-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
+
+---
+
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+
+**Released:** 2026-03-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+
+---
+
 ## SmartLess 
 
 ### "Brian Cox"
@@ -278,21 +270,29 @@ Last updated: 2026-03-06 01:21:36
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+### Armchair Anonymous: First Responder II
 
-**Released:** 2026-03-03 05:25:00
+**Released:** 2026-03-06 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4832036f-1124-462c-b702-ac275f2bf7d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### I Survived the Unsurvivable | From A Slight Change of Plans
+### Sasha Hamdani (on ADHD)
 
-**Released:** 2026-02-27 05:25:00
+**Released:** 2026-03-04 08:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8395291876.mp3?updated=1771429505)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Marcus Mumford
+
+**Released:** 2026-03-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
