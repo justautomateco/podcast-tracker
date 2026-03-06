@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-05 12:39:55
+Last updated: 2026-03-06 01:21:36
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2026-03-05 12:39:55
 ---
 
 ## TED Talks Daily
+
+### Fight for justice — even if you don't live to see it | Golriz Lucina (re-release)
+
+**Released:** 2026-03-05 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a85545f413fba64f52e966/media.mp3)
+
+---
 
 ### 4 relationship traps that lead to burnout | Eric Quintane
 
@@ -64,15 +72,33 @@ Last updated: 2026-03-05 12:39:55
 
 ---
 
-### What to do when you’re told there’s nothing left to try | David Fajgenbaum and Kiah Williams
+## Planet Money
 
-**Released:** 2026-02-28 16:00:00
+### The Business of Heated Rivalry
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699f2c1bfa55957722470bed/media.mp3)
+**Released:** 2026-03-04 18:58:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+
+---
+
+### Don't hate the replicator, hate the game
+
+**Released:** 2026-02-27 22:05:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2464 - Priyanka Chopra Jonas
+
+**Released:** 2026-03-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2092384352.mp3?updated=1772732458)
+
+---
 
 ### #2463 - Steve-O
 
@@ -98,14 +124,6 @@ Last updated: 2026-03-05 12:39:55
 
 ---
 
-### #2460 - Rachel Wilson
-
-**Released:** 2026-02-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8521906535.mp3?updated=1772127268)
-
----
-
 ## Hidden Brain
 
 ### The Secret of Charisma
@@ -116,25 +134,33 @@ Last updated: 2026-03-05 12:39:55
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### The Business of Heated Rivalry
+### Where the F*** Are We?
 
-**Released:** 2026-03-04 18:58:15
+**Released:** 2026-03-03 18:15:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
 
 ---
 
-### Don't hate the replicator, hate the game
+### Constitution Breakdown #7: California AG Rob Bonta
 
-**Released:** 2026-02-27 22:05:00
+**Released:** 2026-02-27 18:15:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Let's All Go to the World's Fair
+
+**Released:** 2026-03-05 15:07:07
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/456c6102-0e96-4ec8-ac1b-b40400e4b8a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Johnny Ringo
 
@@ -157,24 +183,6 @@ Last updated: 2026-03-05 12:39:55
 **Released:** 2026-02-28 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4afc55d2-428a-42a5-82b0-b3fb016140c5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Where the F*** Are We?
-
-**Released:** 2026-03-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #7: California AG Rob Bonta
-
-**Released:** 2026-02-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
 
 ---
 
@@ -216,24 +224,6 @@ Last updated: 2026-03-05 12:39:55
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Todd Levin
-
-**Released:** 2026-03-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
-
----
-
-### Johnny Knoxville
-
-**Released:** 2026-03-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Sasha Hamdani (on ADHD)
@@ -257,6 +247,24 @@ Last updated: 2026-03-05 12:39:55
 **Released:** 2026-02-27 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c3596235-2760-449a-bf68-ba066327ad19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Staff Review With Todd Levin
+
+**Released:** 2026-03-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
+
+---
+
+### Johnny Knoxville
+
+**Released:** 2026-03-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
 
 ---
 
