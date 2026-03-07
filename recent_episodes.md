@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-07 01:13:46
+Last updated: 2026-03-07 12:28:50
 
 ## Freakonomics Radio
 
@@ -146,6 +146,14 @@ Last updated: 2026-03-07 01:13:46
 
 ## Stuff You Should Know
 
+### Selects: How Spiritualism Works
+
+**Released:** 2026-03-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7019ab19-7c75-4170-ac37-b40500fd6983/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Let's All Go to the World's Fair
 
 **Released:** 2026-03-05 15:07:07
@@ -167,14 +175,6 @@ Last updated: 2026-03-07 01:13:46
 **Released:** 2026-03-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f66d15e8-05f0-4fce-9486-b40100fc5815/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: How Dopamine Works
-
-**Released:** 2026-02-28 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4afc55d2-428a-42a5-82b0-b3fb016140c5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -206,13 +206,31 @@ Last updated: 2026-03-07 01:13:46
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+### Women Up: The Moth Podcast
 
-**Released:** 2026-03-05 00:30:00
+**Released:** 2026-03-06 05:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
+
+---
+
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+
+**Released:** 2026-03-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+
+---
+
+## SmartLess 
+
+### "Brian Cox"
+
+**Released:** 2026-03-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
 
 ---
 
@@ -231,34 +249,6 @@ Last updated: 2026-03-07 01:13:46
 **Released:** 2026-03-02 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Brian Cox"
-
-**Released:** 2026-03-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Women Up: The Moth Podcast
-
-**Released:** 2026-03-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
-
----
-
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
-
-**Released:** 2026-03-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
 
 ---
 
@@ -285,6 +275,16 @@ Last updated: 2026-03-07 01:13:46
 **Released:** 2026-03-02 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+
+**Released:** 2026-03-05 00:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
