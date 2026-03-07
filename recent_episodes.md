@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-06 12:35:30
+Last updated: 2026-03-07 01:13:46
+
+## Freakonomics Radio
+
+### 666. This Is How Progress Happens
+
+**Released:** 2026-03-06 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
+
+---
+
+### The Most Powerful People You’ve Never Heard Of (Update)
+
+**Released:** 2026-03-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +31,14 @@ Last updated: 2026-03-06 12:35:30
 ---
 
 ## TED Talks Daily
+
+### Conservation: a love story | Elsaphan Njora
+
+**Released:** 2026-03-06 16:06:13
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69aa15d6b49eecc0b7790e2a/media.mp3)
+
+---
 
 ### Fight for justice — even if you don't live to see it | Golriz Lucina (re-release)
 
@@ -46,33 +72,33 @@ Last updated: 2026-03-06 12:35:30
 
 ---
 
-### Sunday Pick: Matt Damon on solving one of the planet’s biggest problems, in partnership with Gary White | from ReThinking with Adam Grant
+## Planet Money
 
-**Released:** 2026-03-01 07:00:00
+### Planet Money vs. the NBA’s tanking problem
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/699f2cc5ed94f5e3264e7595/media.mp3)
+**Released:** 2026-03-06 22:15:00
 
----
-
-## Freakonomics Radio
-
-### 666. This Is How Progress Happens
-
-**Released:** 2026-03-06 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499)
 
 ---
 
-### The Most Powerful People You’ve Never Heard Of (Update)
+### The Business of Heated Rivalry
 
-**Released:** 2026-03-04 11:00:00
+**Released:** 2026-03-04 18:58:15
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
 
 ---
 
 ## The Joe Rogan Experience
+
+### JRE MMA Show #175 with Shakur Stevenson
+
+**Released:** 2026-03-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3513799155.mp3?updated=1772820744)
+
+---
 
 ### #2464 - Priyanka Chopra Jonas
 
@@ -98,29 +124,23 @@ Last updated: 2026-03-06 12:35:30
 
 ---
 
-### #2461 - Robert F. Kennedy, Jr.
+## Hidden Brain
 
-**Released:** 2026-02-27 18:00:00
+### The Secret of Charisma
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2655700925.mp3?updated=1772214646)
+**Released:** 2026-03-02 21:27:46
 
----
-
-## Planet Money
-
-### The Business of Heated Rivalry
-
-**Released:** 2026-03-04 18:58:15
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
 
 ---
 
-### Don't hate the replicator, hate the game
+## 99% Invisible
 
-**Released:** 2026-02-27 22:05:00
+### Where the F*** Are We?
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
+**Released:** 2026-03-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
 
 ---
 
@@ -158,34 +178,6 @@ Last updated: 2026-03-06 12:35:30
 
 ---
 
-## Hidden Brain
-
-### The Secret of Charisma
-
-**Released:** 2026-03-02 21:27:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Where the F*** Are We?
-
-**Released:** 2026-03-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #7: California AG Rob Bonta
-
-**Released:** 2026-02-27 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e6f73197-7b09-4f97-a81e-4bffafceeb67/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e6f73197-7b09-4f97-a81e-4bffafceeb67&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Miguel McKelvey of WeWork
@@ -214,6 +206,16 @@ Last updated: 2026-03-06 12:35:30
 
 ---
 
+## The Tim Ferriss Show
+
+### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+
+**Released:** 2026-03-05 00:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Staff Review With Todd Levin
@@ -232,13 +234,13 @@ Last updated: 2026-03-06 12:35:30
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
+### "Brian Cox"
 
-**Released:** 2026-03-05 00:30:00
+**Released:** 2026-03-02 08:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
 
 ---
 
@@ -257,16 +259,6 @@ Last updated: 2026-03-06 12:35:30
 **Released:** 2026-03-03 05:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
-
----
-
-## SmartLess 
-
-### "Brian Cox"
-
-**Released:** 2026-03-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
 
 ---
 
