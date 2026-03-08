@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-07 12:28:50
-
-## Freakonomics Radio
-
-### 666. This Is How Progress Happens
-
-**Released:** 2026-03-06 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
-
----
-
-### The Most Powerful People You’ve Never Heard Of (Update)
-
-**Released:** 2026-03-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 208: Office Politics
-
-**Released:** 2026-03-01 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
-
----
+Last updated: 2026-03-08 01:19:29
 
 ## TED Talks Daily
+
+### Love, intimacy and connection in the age of AI | Bryony Cole
+
+**Released:** 2026-03-07 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab0710e2ffe1fef642e451/media.mp3)
+
+---
 
 ### Conservation: a love story | Elsaphan Njora
 
@@ -64,29 +44,31 @@ Last updated: 2026-03-07 12:28:50
 
 ---
 
-### The attack on Iran — why now? | Ian Bremmer
+## Freakonomics Radio
 
-**Released:** 2026-03-02 16:00:00
+### 666. This Is How Progress Happens
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a5b28f5517cf499dd97be8/media.mp3)
+**Released:** 2026-03-06 11:00:00
 
----
-
-## Planet Money
-
-### Planet Money vs. the NBA’s tanking problem
-
-**Released:** 2026-03-06 22:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
 
 ---
 
-### The Business of Heated Rivalry
+### The Most Powerful People You’ve Never Heard Of (Update)
 
-**Released:** 2026-03-04 18:58:15
+**Released:** 2026-03-04 11:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 208: Office Politics
+
+**Released:** 2026-03-01 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3)
 
 ---
 
@@ -134,13 +116,21 @@ Last updated: 2026-03-07 12:28:50
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### Where the F*** Are We?
+### Planet Money vs. the NBA’s tanking problem
 
-**Released:** 2026-03-03 18:15:00
+**Released:** 2026-03-06 22:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499)
+
+---
+
+### The Business of Heated Rivalry
+
+**Released:** 2026-03-04 18:58:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
 
 ---
 
@@ -178,6 +168,16 @@ Last updated: 2026-03-07 12:28:50
 
 ---
 
+## 99% Invisible
+
+### Where the F*** Are We?
+
+**Released:** 2026-03-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Miguel McKelvey of WeWork
@@ -206,52 +206,6 @@ Last updated: 2026-03-07 12:28:50
 
 ---
 
-## The Moth
-
-### Women Up: The Moth Podcast
-
-**Released:** 2026-03-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
-
----
-
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
-
-**Released:** 2026-03-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
-
----
-
-## SmartLess 
-
-### "Brian Cox"
-
-**Released:** 2026-03-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Todd Levin
-
-**Released:** 2026-03-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
-
----
-
-### Johnny Knoxville
-
-**Released:** 2026-03-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: First Responder II
@@ -275,6 +229,52 @@ Last updated: 2026-03-07 12:28:50
 **Released:** 2026-03-02 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Women Up: The Moth Podcast
+
+**Released:** 2026-03-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
+
+---
+
+### Remembering Our Loved Ones Through Story: The Moth Radio Hour
+
+**Released:** 2026-03-03 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Staff Review With Todd Levin
+
+**Released:** 2026-03-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
+
+---
+
+### Johnny Knoxville
+
+**Released:** 2026-03-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Brian Cox"
+
+**Released:** 2026-03-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
 
 ---
 
