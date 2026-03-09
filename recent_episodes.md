@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-09 01:19:22
+Last updated: 2026-03-09 12:40:22
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2026-03-09 01:19:22
 **Released:** 2026-03-04 11:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 882: Give a Little Whistle
+
+**Released:** 2026-03-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3)
 
 ---
 
@@ -59,26 +69,6 @@ Last updated: 2026-03-09 01:19:22
 **Released:** 2026-03-04 16:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a85681d7234219a3e9c5d9/media.mp3)
-
----
-
-## This American Life
-
-### 882: Give a Little Whistle
-
-**Released:** 2026-03-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3)
-
----
-
-## Hidden Brain
-
-### The Secret of Charisma
-
-**Released:** 2026-03-02 21:27:46
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
 
 ---
 
@@ -134,6 +124,26 @@ Last updated: 2026-03-09 01:19:22
 
 ---
 
+## Hidden Brain
+
+### The Secret of Charisma
+
+**Released:** 2026-03-02 21:27:46
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/da0ae68a-4c01-4f7a-9392-d54455059681/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=da0ae68a-4c01-4f7a-9392-d54455059681&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Where the F*** Are We?
+
+**Released:** 2026-03-03 18:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: How Spiritualism Works
@@ -168,13 +178,31 @@ Last updated: 2026-03-09 01:19:22
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### Where the F*** Are We?
+### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
 
-**Released:** 2026-03-03 18:15:00
+**Released:** 2026-03-05 00:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
+
+**Released:** 2026-03-09 06:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Miguel McKelvey of WeWork
+
+**Released:** 2026-03-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/55948622-6c65-432f-915b-a35d524f9588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,35 +234,25 @@ Last updated: 2026-03-09 01:19:22
 
 ---
 
-## How I Built This
-
-### Advice Line with Miguel McKelvey of WeWork
-
-**Released:** 2026-03-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/55948622-6c65-432f-915b-a35d524f9588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kettle Chips: Cameron Healy. The Wild Bet That Made a Brand
-
-**Released:** 2026-03-02 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f0b24729-a396-4512-a472-f0d05b75b9a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
-### "Brian Cox"
+### "Kris Jenner"
 
-**Released:** 2026-03-02 08:01:00
+**Released:** 2026-03-09 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0828e42c-29ed-47d0-8d02-45a87eb1798a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0828e42c-29ed-47d0-8d02-45a87eb1798a&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Wanda Sykes Returns
+
+**Released:** 2026-03-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/825c81be-e29f-4f8c-9c6d-a0d29547760e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=825c81be-e29f-4f8c-9c6d-a0d29547760e&feed=dHoohVNH)
+
+---
 
 ### Staff Review With Todd Levin
 
@@ -244,15 +262,15 @@ Last updated: 2026-03-09 01:19:22
 
 ---
 
-### Johnny Knoxville
+## Armchair Expert
 
-**Released:** 2026-03-02 05:05:00
+### Amanda Peet Returns
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1e9bfc04-5107-452d-9ec8-fe52afe136f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1e9bfc04-5107-452d-9ec8-fe52afe136f0&feed=dHoohVNH)
+**Released:** 2026-03-09 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: First Responder II
 
@@ -267,24 +285,6 @@ Last updated: 2026-03-09 01:19:22
 **Released:** 2026-03-04 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Marcus Mumford
-
-**Released:** 2026-03-02 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb541360-b6c1-4497-841f-45b97b6488b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
-
-**Released:** 2026-03-05 00:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
