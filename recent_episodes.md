@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-10 01:13:46
+Last updated: 2026-03-10 12:39:59
+
+## Freakonomics Radio
+
+### 666. This Is How Progress Happens
+
+**Released:** 2026-03-06 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
+
+---
+
+### The Most Powerful People You’ve Never Heard Of (Update)
+
+**Released:** 2026-03-04 11:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 882: Give a Little Whistle
+
+**Released:** 2026-03-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3)
+
+---
 
 ## TED Talks Daily
 
@@ -44,34 +72,6 @@ Last updated: 2026-03-10 01:13:46
 
 ---
 
-## This American Life
-
-### 882: Give a Little Whistle
-
-**Released:** 2026-03-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3)
-
----
-
-## Freakonomics Radio
-
-### 666. This Is How Progress Happens
-
-**Released:** 2026-03-06 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7c9c52e0-73a0-477f-8f75-3a5c2b8f0b6d&feed=Y8lFbOT4)
-
----
-
-### The Most Powerful People You’ve Never Heard Of (Update)
-
-**Released:** 2026-03-04 11:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/06d24869-e8b9-452e-99de-2fa8277d6cbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=06d24869-e8b9-452e-99de-2fa8277d6cbf&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Planet Money vs. the NBA’s tanking problem
@@ -90,16 +90,6 @@ Last updated: 2026-03-10 01:13:46
 
 ---
 
-## Hidden Brain
-
-### Yuck! The Science of Disgust
-
-**Released:** 2026-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Where the F*** Are We?
@@ -107,6 +97,16 @@ Last updated: 2026-03-10 01:13:46
 **Released:** 2026-03-03 18:15:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### Yuck! The Science of Disgust
+
+**Released:** 2026-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
 
 ---
 
@@ -146,6 +146,14 @@ Last updated: 2026-03-10 01:13:46
 
 ## Stuff You Should Know
 
+### The Fyre Festival Fiasco 
+
+**Released:** 2026-03-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/281aeb92-4646-4dfb-9558-b409000c8b5f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Selects: How Spiritualism Works
 
 **Released:** 2026-03-07 10:00:00
@@ -170,14 +178,6 @@ Last updated: 2026-03-10 01:13:46
 
 ---
 
-### The Gold Standard: When Money Meant Something
-
-**Released:** 2026-03-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f66d15e8-05f0-4fce-9486-b40100fc5815/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
@@ -196,6 +196,16 @@ Last updated: 2026-03-10 01:13:46
 
 ---
 
+## Revisionist History
+
+### Zootopia Exposed! (Part One)
+
+**Released:** 2026-03-05 05:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d953484f-3976-4b69-8cb3-b404001effc6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
@@ -206,13 +216,21 @@ Last updated: 2026-03-10 01:13:46
 
 ---
 
-## Revisionist History
+## The Moth
 
-### Zootopia Exposed! (Part One)
+### Legends: The Moth Radio Hour
 
-**Released:** 2026-03-05 05:01:00
+**Released:** 2026-03-10 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d953484f-3976-4b69-8cb3-b404001effc6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
+
+---
+
+### Women Up: The Moth Podcast
+
+**Released:** 2026-03-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
 
 ---
 
@@ -267,24 +285,6 @@ Last updated: 2026-03-10 01:13:46
 **Released:** 2026-03-04 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Women Up: The Moth Podcast
-
-**Released:** 2026-03-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
-
----
-
-### Remembering Our Loved Ones Through Story: The Moth Radio Hour
-
-**Released:** 2026-03-03 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1927675117.mp3?updated=1772057369)
 
 ---
 
