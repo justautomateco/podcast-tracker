@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-10 12:39:59
+Last updated: 2026-03-11 01:14:06
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2026-03-10 12:39:59
 ---
 
 ## TED Talks Daily
+
+### What would your "deathbed self" tell you today? | Lauren Deeley
+
+**Released:** 2026-03-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69af3e9fa2ae95013b17e239/media.mp3)
+
+---
 
 ### Do you talk to yourself? Here’s how to harness your inner voice | Ethan Kross (re-release)
 
@@ -64,14 +72,6 @@ Last updated: 2026-03-10 12:39:59
 
 ---
 
-### Fight for justice — even if you don't live to see it | Golriz Lucina (re-release)
-
-**Released:** 2026-03-05 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a85545f413fba64f52e966/media.mp3)
-
----
-
 ## Planet Money
 
 ### Planet Money vs. the NBA’s tanking problem
@@ -90,27 +90,15 @@ Last updated: 2026-03-10 12:39:59
 
 ---
 
-## 99% Invisible
-
-### Where the F*** Are We?
-
-**Released:** 2026-03-03 18:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7768f073-c8e9-4f6f-9823-1a030d623bc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7768f073-c8e9-4f6f-9823-1a030d623bc5&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Yuck! The Science of Disgust
-
-**Released:** 2026-03-09 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2465 - Michael Shellenberger
+
+**Released:** 2026-03-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5167173774.mp3?updated=1773184653)
+
+---
 
 ### JRE MMA Show #175 with Shakur Stevenson
 
@@ -136,11 +124,13 @@ Last updated: 2026-03-10 12:39:59
 
 ---
 
-### #2462 - Aaron Siri
+## Hidden Brain
 
-**Released:** 2026-03-03 18:00:00
+### Yuck! The Science of Disgust
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5558298469.mp3?updated=1772559919)
+**Released:** 2026-03-09 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
 
 ---
 
@@ -178,21 +168,13 @@ Last updated: 2026-03-10 12:39:59
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
+### A Man, a Plan, a Canal—Mars!
 
-**Released:** 2026-03-09 06:10:00
+**Released:** 2026-03-10 17:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Miguel McKelvey of WeWork
-
-**Released:** 2026-03-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/55948622-6c65-432f-915b-a35d524f9588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
 
 ---
 
@@ -208,11 +190,37 @@ Last updated: 2026-03-10 12:39:59
 
 ## The Tim Ferriss Show
 
+### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
+
+**Released:** 2026-03-10 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### #856: Jim Collins — What to Make of a Life and How to Maximize Your Return on Luck
 
 **Released:** 2026-03-05 00:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7243df25-f25c-4abb-8122-2bbb0386df55.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
+
+**Released:** 2026-03-09 06:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Miguel McKelvey of WeWork
+
+**Released:** 2026-03-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/55948622-6c65-432f-915b-a35d524f9588.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -244,24 +252,6 @@ Last updated: 2026-03-10 12:39:59
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Wanda Sykes Returns
-
-**Released:** 2026-03-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/825c81be-e29f-4f8c-9c6d-a0d29547760e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=825c81be-e29f-4f8c-9c6d-a0d29547760e&feed=dHoohVNH)
-
----
-
-### Staff Review With Todd Levin
-
-**Released:** 2026-03-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Amanda Peet Returns
@@ -285,6 +275,24 @@ Last updated: 2026-03-10 12:39:59
 **Released:** 2026-03-04 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6794ac7-5a1f-4bea-b763-a4efcb416c4d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Wanda Sykes Returns
+
+**Released:** 2026-03-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/825c81be-e29f-4f8c-9c6d-a0d29547760e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=825c81be-e29f-4f8c-9c6d-a0d29547760e&feed=dHoohVNH)
+
+---
+
+### Staff Review With Todd Levin
+
+**Released:** 2026-03-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9593b8c1-a129-48de-8d95-93af8e68fdb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9593b8c1-a129-48de-8d95-93af8e68fdb8&feed=dHoohVNH)
 
 ---
 
