@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "69a857395fb5962408988a7e",
+    "episode_title": "3 habits to practice curiosity \u2014 and escape your phone | Nayeema Raza",
+    "release_date": "2026-03-12 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a857395fb5962408988a7e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6978ea8ca40f59499eab6fb2",
     "episode_title": "The award for best comedy wildlife photo goes to... | Tom Sullam",
     "release_date": "2026-03-11 15:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69ab0710e2ffe1fef642e451",
-    "episode_title": "Love, intimacy and connection in the age of AI | Bryony Cole",
-    "release_date": "2026-03-07 16:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab0710e2ffe1fef642e451/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "ce256bc4-53d4-445d-8ed9-e0e3040b60dc",
     "episode_title": "The laws of the office revisited",
     "release_date": "2026-03-11 07:00:00",
@@ -63,10 +63,17 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "40229214-1dc3-11f1-9a66-9bdf22d08247",
+    "episode_title": "#2467 - Michael Pollan",
+    "release_date": "2026-03-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9240266292.mp3?updated=1773332833",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "a208aa0c-1d02-11f1-aa23-570a0b9773c2",
     "episode_title": "#2466 - Francis Foster & Konstantin Kisin",
     "release_date": "2026-03-11 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773249543",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773331947",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -84,13 +91,6 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "1487e05a-183c-11f1-af2d-4b5ae497d50c",
-    "episode_title": "#2464 - Priyanka Chopra Jonas",
-    "release_date": "2026-03-05 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2092384352.mp3?updated=1772732458",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "7ffd087d-0b73-4614-9756-11fc20e8592b",
     "episode_title": "Yuck! The Science of Disgust",
     "release_date": "2026-03-09 19:00:00",
@@ -105,11 +105,39 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/mjhBUhLsjjPMY1IlAS3mkNczQD_eRQq5qyouFYEZTmA",
+    "episode_title": "Advice Line with Hernan Lopez of Wondery",
+    "release_date": "2026-03-12 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XeiIz2fkNas1HQeA6CaIQjjcRK7ZAHOiMI9AGVRulxY",
+    "episode_title": "Bobo\u2019s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business",
+    "release_date": "2026-03-09 06:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/tLJDmSjsQUVOoyugrR2L82yPe1PlVuOeR6As4lM8CMs",
     "episode_title": "#857: How to Simplify Your Life in 2026 \u2014 New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman",
     "release_date": "2026-03-10 18:30:00",
     "mp3_url": "https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "6cc07382-89d4-11f0-b13f-2f6fc03436f8",
+    "episode_title": "Legends: The Moth Radio Hour",
+    "release_date": "2026-03-10 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6d58cdbc-89d4-11f0-b13f-4f7a0d1a7103",
+    "episode_title": "Women Up: The Moth Podcast",
+    "release_date": "2026-03-06 05:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "bef4287f-4b80-4792-bf8b-b40a0137fc48",
@@ -140,67 +168,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "456c6102-0e96-4ec8-ac1b-b40400e4b8a2",
-    "episode_title": "Let's All Go to the World's Fair",
-    "release_date": "2026-03-05 15:07:07",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/456c6102-0e96-4ec8-ac1b-b40400e4b8a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "70e7ec32-98e4-47b3-984c-b40b001cfb5e",
     "episode_title": "Zootopia Exposed! (Part Two)",
     "release_date": "2026-03-12 04:01:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/mjhBUhLsjjPMY1IlAS3mkNczQD_eRQq5qyouFYEZTmA",
-    "episode_title": "Advice Line with Hernan Lopez of Wondery",
-    "release_date": "2026-03-12 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/XeiIz2fkNas1HQeA6CaIQjjcRK7ZAHOiMI9AGVRulxY",
-    "episode_title": "Bobo\u2019s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business",
-    "release_date": "2026-03-09 06:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "6cc07382-89d4-11f0-b13f-2f6fc03436f8",
-    "episode_title": "Legends: The Moth Radio Hour",
-    "release_date": "2026-03-10 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6d58cdbc-89d4-11f0-b13f-4f7a0d1a7103",
-    "episode_title": "Women Up: The Moth Podcast",
-    "release_date": "2026-03-06 05:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/FSltg-1HM4IqQcWuoLN8CGkoNCFl-ZOjnOtFUsx0LI8",
-    "episode_title": "Amir Levine (on attachment theory)",
-    "release_date": "2026-03-11 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/7N79sl4dBrdaEFXPU7lB1mEN7U92fSNcNPNdNOh36nw",
-    "episode_title": "Amanda Peet Returns",
-    "release_date": "2026-03-09 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/VeNXVqsVJAelIvXtzDZ2MlQgfAIIolizuuD1b6IPrWc",
-    "episode_title": "Armchair Anonymous: First Responder II",
-    "release_date": "2026-03-06 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4832036f-1124-462c-b702-ac275f2bf7d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "311e3daa-60b3-4428-b780-c9a7b8512be8",
@@ -229,5 +201,26 @@
     "release_date": "2026-03-09 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/FSltg-1HM4IqQcWuoLN8CGkoNCFl-ZOjnOtFUsx0LI8",
+    "episode_title": "Amir Levine (on attachment theory)",
+    "release_date": "2026-03-11 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/7N79sl4dBrdaEFXPU7lB1mEN7U92fSNcNPNdNOh36nw",
+    "episode_title": "Amanda Peet Returns",
+    "release_date": "2026-03-09 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/VeNXVqsVJAelIvXtzDZ2MlQgfAIIolizuuD1b6IPrWc",
+    "episode_title": "Armchair Anonymous: First Responder II",
+    "release_date": "2026-03-06 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/4832036f-1124-462c-b702-ac275f2bf7d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]

@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-12 12:38:57
+Last updated: 2026-03-13 01:17:46
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-03-12 12:38:57
 ---
 
 ## TED Talks Daily
+
+### 3 habits to practice curiosity — and escape your phone | Nayeema Raza
+
+**Released:** 2026-03-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a857395fb5962408988a7e/media.mp3)
+
+---
 
 ### The award for best comedy wildlife photo goes to... | Tom Sullam
 
@@ -56,14 +64,6 @@ Last updated: 2026-03-12 12:38:57
 
 ---
 
-### Love, intimacy and connection in the age of AI | Bryony Cole
-
-**Released:** 2026-03-07 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab0710e2ffe1fef642e451/media.mp3)
-
----
-
 ## Planet Money
 
 ### The laws of the office revisited
@@ -84,11 +84,19 @@ Last updated: 2026-03-12 12:38:57
 
 ## The Joe Rogan Experience
 
+### #2467 - Michael Pollan
+
+**Released:** 2026-03-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9240266292.mp3?updated=1773332833)
+
+---
+
 ### #2466 - Francis Foster & Konstantin Kisin
 
 **Released:** 2026-03-11 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773249543)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773331947)
 
 ---
 
@@ -105,14 +113,6 @@ Last updated: 2026-03-12 12:38:57
 **Released:** 2026-03-06 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3513799155.mp3?updated=1772820744)
-
----
-
-### #2464 - Priyanka Chopra Jonas
-
-**Released:** 2026-03-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2092384352.mp3?updated=1772732458)
 
 ---
 
@@ -136,6 +136,24 @@ Last updated: 2026-03-12 12:38:57
 
 ---
 
+## How I Built This
+
+### Advice Line with Hernan Lopez of Wondery
+
+**Released:** 2026-03-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
+
+**Released:** 2026-03-09 06:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
@@ -143,6 +161,24 @@ Last updated: 2026-03-12 12:38:57
 **Released:** 2026-03-10 18:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Legends: The Moth Radio Hour
+
+**Released:** 2026-03-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
+
+---
+
+### Women Up: The Moth Podcast
+
+**Released:** 2026-03-06 05:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
 
 ---
 
@@ -180,14 +216,6 @@ Last updated: 2026-03-12 12:38:57
 
 ---
 
-### Let's All Go to the World's Fair
-
-**Released:** 2026-03-05 15:07:07
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/456c6102-0e96-4ec8-ac1b-b40400e4b8a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Revisionist History
 
 ### Zootopia Exposed! (Part Two)
@@ -195,68 +223,6 @@ Last updated: 2026-03-12 12:38:57
 **Released:** 2026-03-12 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Hernan Lopez of Wondery
-
-**Released:** 2026-03-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
-
-**Released:** 2026-03-09 06:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Legends: The Moth Radio Hour
-
-**Released:** 2026-03-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
-
----
-
-### Women Up: The Moth Podcast
-
-**Released:** 2026-03-06 05:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3748052616.mp3?updated=1772744300)
-
----
-
-## Armchair Expert
-
-### Amir Levine (on attachment theory)
-
-**Released:** 2026-03-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amanda Peet Returns
-
-**Released:** 2026-03-09 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: First Responder II
-
-**Released:** 2026-03-06 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4832036f-1124-462c-b702-ac275f2bf7d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -293,6 +259,32 @@ Last updated: 2026-03-12 12:38:57
 **Released:** 2026-03-09 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Amir Levine (on attachment theory)
+
+**Released:** 2026-03-11 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Amanda Peet Returns
+
+**Released:** 2026-03-09 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: First Responder II
+
+**Released:** 2026-03-06 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4832036f-1124-462c-b702-ac275f2bf7d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
