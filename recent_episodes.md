@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-13 12:37:56
-
-## This American Life
-
-### 882: Give a Little Whistle
-
-**Released:** 2026-03-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache)
-
----
+Last updated: 2026-03-14 01:16:06
 
 ## TED Talks Daily
+
+### The sneaky language tricks cults use to influence you | Amanda Montell
+
+**Released:** 2026-03-13 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a5b53511f5657ded048d8e/media.mp3)
+
+---
 
 ### 3 habits to practice curiosity — and escape your phone | Nayeema Raza
 
@@ -46,14 +44,6 @@ Last updated: 2026-03-13 12:37:56
 
 ---
 
-### Sunday Pick: Interview: Aging, menopause, and rethinking fashion for comfort in midlife with Stacy London | from TED Health
-
-**Released:** 2026-03-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab075e6ffdcd8188979b9e/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 667. Here’s Why You Are Constantly Fighting Off Scammers
@@ -66,6 +56,14 @@ Last updated: 2026-03-13 12:37:56
 
 ## Planet Money
 
+### Chef vs. Robot
+
+**Released:** 2026-03-13 14:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4487739507.mp3?t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
+
+---
+
 ### The laws of the office revisited
 
 **Released:** 2026-03-11 07:00:00
@@ -74,21 +72,47 @@ Last updated: 2026-03-13 12:37:56
 
 ---
 
-### Planet Money vs. the NBA’s tanking problem
+## This American Life
 
-**Released:** 2026-03-06 22:15:00
+### 882: Give a Little Whistle
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499)
+**Released:** 2026-03-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache)
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Yuck! The Science of Disgust
+### #2468 - Luke Grimes
 
-**Released:** 2026-03-09 19:00:00
+**Released:** 2026-03-13 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6232108793.mp3?updated=1773423047)
+
+---
+
+### #2467 - Michael Pollan
+
+**Released:** 2026-03-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9240266292.mp3?updated=1773332833)
+
+---
+
+### #2466 - Francis Foster & Konstantin Kisin
+
+**Released:** 2026-03-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773331947)
+
+---
+
+### #2465 - Michael Shellenberger
+
+**Released:** 2026-03-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5167173774.mp3?updated=1773184653)
 
 ---
 
@@ -136,37 +160,13 @@ Last updated: 2026-03-13 12:37:56
 
 ---
 
-## The Joe Rogan Experience
+## Hidden Brain
 
-### #2467 - Michael Pollan
+### Yuck! The Science of Disgust
 
-**Released:** 2026-03-12 17:00:00
+**Released:** 2026-03-09 19:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9240266292.mp3?updated=1773332833)
-
----
-
-### #2466 - Francis Foster & Konstantin Kisin
-
-**Released:** 2026-03-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6188587702.mp3?updated=1773331947)
-
----
-
-### #2465 - Michael Shellenberger
-
-**Released:** 2026-03-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5167173774.mp3?updated=1773184653)
-
----
-
-### JRE MMA Show #175 with Shakur Stevenson
-
-**Released:** 2026-03-06 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3513799155.mp3?updated=1772820744)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bce58f04-043c-4ed9-b9fd-ee2cfd88f39d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bce58f04-043c-4ed9-b9fd-ee2cfd88f39d&feed=kwWc0lhf)
 
 ---
 
@@ -208,24 +208,6 @@ Last updated: 2026-03-13 12:37:56
 
 ---
 
-## The Moth
-
-### This Should Be A Movie: The Moth Podcast
-
-**Released:** 2026-03-13 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093)
-
----
-
-### Legends: The Moth Radio Hour
-
-**Released:** 2026-03-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Staff Review With Skyler Higley
@@ -241,24 +223,6 @@ Last updated: 2026-03-13 12:37:56
 **Released:** 2026-03-09 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/825c81be-e29f-4f8c-9c6d-a0d29547760e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=825c81be-e29f-4f8c-9c6d-a0d29547760e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Emma Stone"
-
-**Released:** 2026-03-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
-
----
-
-### "Kris Jenner"
-
-**Released:** 2026-03-09 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +249,42 @@ Last updated: 2026-03-13 12:37:56
 **Released:** 2026-03-09 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### This Should Be A Movie: The Moth Podcast
+
+**Released:** 2026-03-13 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093)
+
+---
+
+### Legends: The Moth Radio Hour
+
+**Released:** 2026-03-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Emma Stone"
+
+**Released:** 2026-03-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
+
+---
+
+### "Kris Jenner"
+
+**Released:** 2026-03-09 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
 
 ---
 
