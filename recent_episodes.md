@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-14 12:31:50
+Last updated: 2026-03-15 01:28:25
 
 ## TED Talks Daily
+
+### Why you should keep a list of what makes you laugh | Chris Duffy
+
+**Released:** 2026-03-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab08307036d739020a67a2/media.mp3)
+
+---
 
 ### The sneaky language tricks cults use to influence you | Amanda Montell
 
@@ -36,14 +44,6 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
-### Do you talk to yourself? Here’s how to harness your inner voice | Ethan Kross (re-release)
-
-**Released:** 2026-03-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab55146ffdcd8188ad2461/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 667. Here’s Why You Are Constantly Fighting Off Scammers
@@ -51,6 +51,16 @@ Last updated: 2026-03-14 12:31:50
 **Released:** 2026-03-13 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cfb589ca-785a-45ac-bc53-0af89ad0dd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cfb589ca-785a-45ac-bc53-0af89ad0dd58&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 882: Give a Little Whistle
+
+**Released:** 2026-03-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache)
 
 ---
 
@@ -69,16 +79,6 @@ Last updated: 2026-03-14 12:31:50
 **Released:** 2026-03-11 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207)
-
----
-
-## This American Life
-
-### 882: Give a Little Whistle
-
-**Released:** 2026-03-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache)
 
 ---
 
@@ -126,16 +126,6 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
-## 99% Invisible
-
-### A Man, a Plan, a Canal—Mars!
-
-**Released:** 2026-03-10 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Mangroves: Nature's Best Tree?
@@ -170,6 +160,16 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
+## 99% Invisible
+
+### A Man, a Plan, a Canal—Mars!
+
+**Released:** 2026-03-10 17:15:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Hernan Lopez of Wondery
@@ -188,16 +188,6 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
-## Revisionist History
-
-### Zootopia Exposed! (Part Two)
-
-**Released:** 2026-03-12 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
@@ -208,21 +198,31 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
-## The Moth
+## Revisionist History
 
-### This Should Be A Movie: The Moth Podcast
+### Zootopia Exposed! (Part Two)
 
-**Released:** 2026-03-13 04:25:00
+**Released:** 2026-03-12 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Legends: The Moth Radio Hour
+## SmartLess 
 
-**Released:** 2026-03-10 04:25:00
+### "RE-RELEASE: Emma Stone"
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
+**Released:** 2026-03-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
+
+---
+
+### "Kris Jenner"
+
+**Released:** 2026-03-09 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
 
 ---
 
@@ -244,21 +244,21 @@ Last updated: 2026-03-14 12:31:50
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "RE-RELEASE: Emma Stone"
+### This Should Be A Movie: The Moth Podcast
 
-**Released:** 2026-03-12 07:00:00
+**Released:** 2026-03-13 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093)
 
 ---
 
-### "Kris Jenner"
+### Legends: The Moth Radio Hour
 
-**Released:** 2026-03-09 07:01:00
+**Released:** 2026-03-10 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
 
 ---
 

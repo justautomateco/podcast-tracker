@@ -1,5 +1,12 @@
 [
   {
+    "guid": "69ab08307036d739020a67a2",
+    "episode_title": "Why you should keep a list of what makes you laugh | Chris Duffy",
+    "release_date": "2026-03-14 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab08307036d739020a67a2/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69a5b53511f5657ded048d8e",
     "episode_title": "The sneaky language tricks cults use to influence you | Amanda Montell",
     "release_date": "2026-03-13 15:00:00",
@@ -28,18 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69ab55146ffdcd8188ad2461",
-    "episode_title": "Do you talk to yourself? Here\u2019s how to harness your inner voice | Ethan Kross (re-release)",
-    "release_date": "2026-03-09 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab55146ffdcd8188ad2461/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "763128ba-472d-4678-bff6-39d14eef47d9",
     "episode_title": "667. Here\u2019s Why You Are Constantly Fighting Off Scammers",
     "release_date": "2026-03-13 10:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cfb589ca-785a-45ac-bc53-0af89ad0dd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cfb589ca-785a-45ac-bc53-0af89ad0dd58&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46119 at https://www.thisamericanlife.org",
+    "episode_title": "882: Give a Little Whistle",
+    "release_date": "2026-03-08 19:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "e60b15c2-c171-4b4c-8b11-9586ca73086c",
@@ -54,13 +61,6 @@
     "release_date": "2026-03-11 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46119 at https://www.thisamericanlife.org",
-    "episode_title": "882: Give a Little Whistle",
-    "release_date": "2026-03-08 19:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ffd50122-2952-4a87-9e36-6ec8e5bf0596/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ffd50122-2952-4a87-9e36-6ec8e5bf0596&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "1700727e-1efa-11f1-a99e-1ff94ba1d0e9",
@@ -98,13 +98,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "bc1c0060-b218-49ac-a5a8-5194ce186a52",
-    "episode_title": "A Man, a Plan, a Canal\u2014Mars!",
-    "release_date": "2026-03-10 17:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "840123e3-9f3f-4c9d-bf7e-b403011843ca",
     "episode_title": "Selects: Mangroves: Nature's Best Tree?",
     "release_date": "2026-03-14 09:00:00",
@@ -133,6 +126,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "bc1c0060-b218-49ac-a5a8-5194ce186a52",
+    "episode_title": "A Man, a Plan, a Canal\u2014Mars!",
+    "release_date": "2026-03-10 17:15:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/mjhBUhLsjjPMY1IlAS3mkNczQD_eRQq5qyouFYEZTmA",
     "episode_title": "Advice Line with Hernan Lopez of Wondery",
     "release_date": "2026-03-12 07:10:00",
@@ -147,13 +147,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "70e7ec32-98e4-47b3-984c-b40b001cfb5e",
-    "episode_title": "Zootopia Exposed! (Part Two)",
-    "release_date": "2026-03-12 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/tLJDmSjsQUVOoyugrR2L82yPe1PlVuOeR6As4lM8CMs",
     "episode_title": "#857: How to Simplify Your Life in 2026 \u2014 New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman",
     "release_date": "2026-03-10 18:30:00",
@@ -161,18 +154,25 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "6d7ef50a-89d4-11f0-b13f-1306de64eadb",
-    "episode_title": "This Should Be A Movie: The Moth Podcast",
-    "release_date": "2026-03-13 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093",
-    "podcast_name": "The Moth"
+    "guid": "70e7ec32-98e4-47b3-984c-b40b001cfb5e",
+    "episode_title": "Zootopia Exposed! (Part Two)",
+    "release_date": "2026-03-12 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
-    "guid": "6cc07382-89d4-11f0-b13f-2f6fc03436f8",
-    "episode_title": "Legends: The Moth Radio Hour",
-    "release_date": "2026-03-10 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651",
-    "podcast_name": "The Moth"
+    "guid": "d8a41bef-2992-4eea-8096-6a9abbf262b1",
+    "episode_title": "\"RE-RELEASE: Emma Stone\"",
+    "release_date": "2026-03-12 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "e5c80760-2bac-4a77-aaeb-849f38689606",
+    "episode_title": "\"Kris Jenner\"",
+    "release_date": "2026-03-09 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "311e3daa-60b3-4428-b780-c9a7b8512be8",
@@ -189,18 +189,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "d8a41bef-2992-4eea-8096-6a9abbf262b1",
-    "episode_title": "\"RE-RELEASE: Emma Stone\"",
-    "release_date": "2026-03-12 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "6d7ef50a-89d4-11f0-b13f-1306de64eadb",
+    "episode_title": "This Should Be A Movie: The Moth Podcast",
+    "release_date": "2026-03-13 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4126641469.mp3?updated=1773328093",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "e5c80760-2bac-4a77-aaeb-849f38689606",
-    "episode_title": "\"Kris Jenner\"",
-    "release_date": "2026-03-09 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "6cc07382-89d4-11f0-b13f-2f6fc03436f8",
+    "episode_title": "Legends: The Moth Radio Hour",
+    "release_date": "2026-03-10 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/EByQV9huWS-P6fGo4Ebqe0-sOuKBukPyP2kS0I9mapw",
