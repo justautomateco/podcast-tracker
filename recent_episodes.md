@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-16 01:28:03
+Last updated: 2026-03-16 12:51:43
 
 ## Freakonomics Radio
 
@@ -9,6 +9,34 @@ Last updated: 2026-03-16 01:28:03
 **Released:** 2026-03-13 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cfb589ca-785a-45ac-bc53-0af89ad0dd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cfb589ca-785a-45ac-bc53-0af89ad0dd58&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Chef vs. Robot
+
+**Released:** 2026-03-13 14:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4487739507.mp3?t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
+
+---
+
+### The laws of the office revisited
+
+**Released:** 2026-03-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207)
+
+---
+
+## This American Life
+
+### 628: In the Shadow of the City
+
+**Released:** 2026-03-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
 
 ---
 
@@ -51,34 +79,6 @@ Last updated: 2026-03-16 01:28:03
 **Released:** 2026-03-11 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6978ea8ca40f59499eab6fb2/media.mp3)
-
----
-
-## Planet Money
-
-### Chef vs. Robot
-
-**Released:** 2026-03-13 14:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4487739507.mp3?t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
-
----
-
-### The laws of the office revisited
-
-**Released:** 2026-03-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207)
-
----
-
-## This American Life
-
-### 628: In the Shadow of the City
-
-**Released:** 2026-03-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
 
 ---
 
@@ -126,16 +126,6 @@ Last updated: 2026-03-16 01:28:03
 
 ---
 
-## 99% Invisible
-
-### A Man, a Plan, a Canal—Mars!
-
-**Released:** 2026-03-10 17:15:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Mangroves: Nature's Best Tree?
@@ -170,13 +160,31 @@ Last updated: 2026-03-16 01:28:03
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
+### A Man, a Plan, a Canal—Mars!
 
-**Released:** 2026-03-10 18:30:00
+**Released:** 2026-03-10 17:15:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Scrub Daddy: Aaron Krause. How a Failed Experiment Became a Billion-Dollar Sponge
+
+**Released:** 2026-03-16 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9609b7d2-5270-4914-ad99-28b040617c88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Hernan Lopez of Wondery
+
+**Released:** 2026-03-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -187,86 +195,6 @@ Last updated: 2026-03-16 01:28:03
 **Released:** 2026-03-12 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Hernan Lopez of Wondery
-
-**Released:** 2026-03-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
-
-**Released:** 2026-03-09 06:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/48343128-e57d-4e61-999d-2cf9d30ed2fd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Remodeling Disaster
-
-**Released:** 2026-03-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad339145-a8d9-4b4e-bc21-6bc4b005a2bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amir Levine (on attachment theory)
-
-**Released:** 2026-03-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amanda Peet Returns
-
-**Released:** 2026-03-09 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b31c159-d125-47c8-be03-70519f5fd56b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Skyler Higley
-
-**Released:** 2026-03-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/905037ec-8575-49e9-aee2-fbbbf0557aab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=905037ec-8575-49e9-aee2-fbbbf0557aab&feed=dHoohVNH)
-
----
-
-### Wanda Sykes Returns
-
-**Released:** 2026-03-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/825c81be-e29f-4f8c-9c6d-a0d29547760e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=825c81be-e29f-4f8c-9c6d-a0d29547760e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Emma Stone"
-
-**Released:** 2026-03-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
-
----
-
-### "Kris Jenner"
-
-**Released:** 2026-03-09 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/504f5358-b769-4b6b-9486-5d5e308ec4ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=504f5358-b769-4b6b-9486-5d5e308ec4ba&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +213,78 @@ Last updated: 2026-03-16 01:28:03
 **Released:** 2026-03-10 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7809789023.mp3?updated=1772654651)
+
+---
+
+## Armchair Expert
+
+### Zach Braff Returns
+
+**Released:** 2026-03-16 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2c31fa7-669a-4b67-a5d0-4bc3eed1170e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Remodeling Disaster
+
+**Released:** 2026-03-13 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad339145-a8d9-4b4e-bc21-6bc4b005a2bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Amir Levine (on attachment theory)
+
+**Released:** 2026-03-11 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Lisa Kudrow Returns Again
+
+**Released:** 2026-03-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13cd94be-afdb-4a6d-b483-6bfb91f95f1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13cd94be-afdb-4a6d-b483-6bfb91f95f1e&feed=dHoohVNH)
+
+---
+
+### Staff Review With Skyler Higley
+
+**Released:** 2026-03-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/905037ec-8575-49e9-aee2-fbbbf0557aab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=905037ec-8575-49e9-aee2-fbbbf0557aab&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Cillian Murphy"
+
+**Released:** 2026-03-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Emma Stone"
+
+**Released:** 2026-03-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
+
+**Released:** 2026-03-10 18:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
