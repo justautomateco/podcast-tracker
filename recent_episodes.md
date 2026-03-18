@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-17 12:50:48
+Last updated: 2026-03-18 01:23:34
+
+## Freakonomics Radio
+
+### 667. Here’s Why You Are Constantly Fighting Off Scammers
+
+**Released:** 2026-03-13 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cfb589ca-785a-45ac-bc53-0af89ad0dd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cfb589ca-785a-45ac-bc53-0af89ad0dd58&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Is luck random — or can you cultivate it? | Christian Busch
+
+**Released:** 2026-03-17 15:00:14
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69b96b762544cc2ce59a643f/media.mp3)
+
+---
 
 ### How to make transportation quieter, cleaner and cheaper | Doreen Orishaba
 
@@ -36,14 +54,6 @@ Last updated: 2026-03-17 12:50:48
 
 ---
 
-### 3 habits to practice curiosity — and escape your phone | Nayeema Raza
-
-**Released:** 2026-03-12 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a857395fb5962408988a7e/media.mp3)
-
----
-
 ## This American Life
 
 ### 628: In the Shadow of the City
@@ -51,16 +61,6 @@ Last updated: 2026-03-17 12:50:48
 **Released:** 2026-03-15 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
-
----
-
-## Freakonomics Radio
-
-### 667. Here’s Why You Are Constantly Fighting Off Scammers
-
-**Released:** 2026-03-13 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cfb589ca-785a-45ac-bc53-0af89ad0dd58/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cfb589ca-785a-45ac-bc53-0af89ad0dd58&feed=Y8lFbOT4)
 
 ---
 
@@ -82,17 +82,15 @@ Last updated: 2026-03-17 12:50:48
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Rethinking Depression
+### JRE MMA Show #176 with Dustin Poirier
 
-**Released:** 2026-03-16 19:00:00
+**Released:** 2026-03-17 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5960797118.mp3?updated=1773765371)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2468 - Luke Grimes
 
@@ -118,21 +116,13 @@ Last updated: 2026-03-17 12:50:48
 
 ---
 
-### #2465 - Michael Shellenberger
-
-**Released:** 2026-03-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5167173774.mp3?updated=1773184653)
-
----
-
 ## 99% Invisible
 
-### A Man, a Plan, a Canal—Mars!
+### Service Request #1: What Happens When I Call 311?
 
-**Released:** 2026-03-10 17:15:00
+**Released:** 2026-03-17 14:49:51
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a907a47-f7e3-4746-ad6b-94b0598f3cee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a907a47-f7e3-4746-ad6b-94b0598f3cee&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
 
 ---
 
@@ -170,13 +160,31 @@ Last updated: 2026-03-17 12:50:48
 
 ---
 
-## The Tim Ferriss Show
+## Hidden Brain
 
-### #857: How to Simplify Your Life in 2026 — New Tips from Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman
+### Rethinking Depression
 
-**Released:** 2026-03-10 18:30:00
+**Released:** 2026-03-16 19:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3e80d493-c8ed-4b4e-891f-53d730fda1ca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
+
+---
+
+## How I Built This
+
+### Scrub Daddy: Aaron Krause. How a Failed Experiment Became a Billion-Dollar Sponge
+
+**Released:** 2026-03-16 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9609b7d2-5270-4914-ad99-28b040617c88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Hernan Lopez of Wondery
+
+**Released:** 2026-03-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,21 +234,21 @@ Last updated: 2026-03-17 12:50:48
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Scrub Daddy: Aaron Krause. How a Failed Experiment Became a Billion-Dollar Sponge
+### "Cillian Murphy"
 
-**Released:** 2026-03-16 07:10:00
+**Released:** 2026-03-16 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9609b7d2-5270-4914-ad99-28b040617c88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
 
 ---
 
-### Advice Line with Hernan Lopez of Wondery
+### "RE-RELEASE: Emma Stone"
 
-**Released:** 2026-03-12 07:10:00
+**Released:** 2026-03-12 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
 
 ---
 
@@ -267,24 +275,6 @@ Last updated: 2026-03-17 12:50:48
 **Released:** 2026-03-11 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Cillian Murphy"
-
-**Released:** 2026-03-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Emma Stone"
-
-**Released:** 2026-03-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d182326b-8b05-4250-ae8f-95da42ee66b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d182326b-8b05-4250-ae8f-95da42ee66b0&feed=hNaFxXpO)
 
 ---
 
