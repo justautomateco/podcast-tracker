@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-18 01:23:34
+Last updated: 2026-03-18 12:50:47
 
 ## Freakonomics Radio
 
@@ -54,17 +54,15 @@ Last updated: 2026-03-18 01:23:34
 
 ---
 
-## This American Life
+## Planet Money
 
-### 628: In the Shadow of the City
+### The little pet fish that saved a town in the Amazon
 
-**Released:** 2026-03-15 18:00:00
+**Released:** 2026-03-18 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
 
 ---
-
-## Planet Money
 
 ### Chef vs. Robot
 
@@ -74,11 +72,13 @@ Last updated: 2026-03-18 01:23:34
 
 ---
 
-### The laws of the office revisited
+## This American Life
 
-**Released:** 2026-03-11 07:00:00
+### 628: In the Shadow of the City
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bcdc515d-980a-406a-80af-472268f426df/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bcdc515d-980a-406a-80af-472268f426df&feed=hvWWWzRv&t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207)
+**Released:** 2026-03-15 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
 
 ---
 
@@ -116,17 +116,25 @@ Last updated: 2026-03-18 01:23:34
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### Service Request #1: What Happens When I Call 311?
+### Rethinking Depression
 
-**Released:** 2026-03-17 14:49:51
+**Released:** 2026-03-16 19:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Jeddah Tower
+
+**Released:** 2026-03-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/77739572-c3d6-463c-b2b2-b40f013184c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Ruth Lyons: TV Pioneer
 
@@ -152,21 +160,23 @@ Last updated: 2026-03-18 01:23:34
 
 ---
 
-### Short Stuff: In-Flight Entertainment 
+## 99% Invisible
 
-**Released:** 2026-03-11 09:00:00
+### Service Request #1: What Happens When I Call 311?
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c575958b-8e39-412a-97b6-b4090104e795/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-03-17 14:49:51
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
 
 ---
 
-## Hidden Brain
+## Revisionist History
 
-### Rethinking Depression
+### Zootopia Exposed! (Part Two)
 
-**Released:** 2026-03-16 19:00:00
+**Released:** 2026-03-12 04:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -185,34 +195,6 @@ Last updated: 2026-03-18 01:23:34
 **Released:** 2026-03-12 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5e7618a4-69e2-4198-987c-b92d18fb4381.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Zootopia Exposed! (Part Two)
-
-**Released:** 2026-03-12 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/70e7ec32-98e4-47b3-984c-b40b001cfb5e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Lisa Kudrow Returns Again
-
-**Released:** 2026-03-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13cd94be-afdb-4a6d-b483-6bfb91f95f1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13cd94be-afdb-4a6d-b483-6bfb91f95f1e&feed=dHoohVNH)
-
----
-
-### Staff Review With Skyler Higley
-
-**Released:** 2026-03-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/905037ec-8575-49e9-aee2-fbbbf0557aab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=905037ec-8575-49e9-aee2-fbbbf0557aab&feed=dHoohVNH)
 
 ---
 
@@ -252,7 +234,33 @@ Last updated: 2026-03-18 01:23:34
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Lisa Kudrow Returns Again
+
+**Released:** 2026-03-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13cd94be-afdb-4a6d-b483-6bfb91f95f1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13cd94be-afdb-4a6d-b483-6bfb91f95f1e&feed=dHoohVNH)
+
+---
+
+### Staff Review With Skyler Higley
+
+**Released:** 2026-03-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/905037ec-8575-49e9-aee2-fbbbf0557aab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=905037ec-8575-49e9-aee2-fbbbf0557aab&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
+
+### Kathryn Paige Harden (behavioral geneticist)
+
+**Released:** 2026-03-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b194bfc-afc9-4dfe-ac19-6bb34b519359.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Zach Braff Returns
 
@@ -267,14 +275,6 @@ Last updated: 2026-03-18 01:23:34
 **Released:** 2026-03-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad339145-a8d9-4b4e-bc21-6bc4b005a2bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Amir Levine (on attachment theory)
-
-**Released:** 2026-03-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a93bb8ff-e59f-4715-a261-aeb43049777c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
