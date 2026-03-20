@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-19 12:41:59
+Last updated: 2026-03-20 01:18:48
+
+## Serial
+
+### The Idiot - Trailer
+
+**Released:** 2026-03-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -12,13 +22,21 @@ Last updated: 2026-03-19 12:41:59
 
 ---
 
-## Serial
+## Planet Money
 
-### The Idiot - Trailer
+### The little pet fish that saved a town in the Amazon
 
-**Released:** 2026-03-19 10:00:00
+**Released:** 2026-03-18 07:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
+
+---
+
+### Chef vs. Robot
+
+**Released:** 2026-03-13 14:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f64a8769-6041-414c-918c-a5f0002c5c73/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f64a8769-6041-414c-918c-a5f0002c5c73&feed=hvWWWzRv&t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
 
 ---
 
@@ -33,6 +51,14 @@ Last updated: 2026-03-19 12:41:59
 ---
 
 ## TED Talks Daily
+
+### The 6 eras of NBA fashion — from restrained to radical | Mitchell S. Jackson
+
+**Released:** 2026-03-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69baf3c16cb58679e8f88ff6/media.mp3)
+
+---
 
 ### I taught rats to drive. They taught me to enjoy the ride | Kelly Lambert
 
@@ -66,43 +92,15 @@ Last updated: 2026-03-19 12:41:59
 
 ---
 
-### Why you should keep a list of what makes you laugh | Chris Duffy
-
-**Released:** 2026-03-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ab08307036d739020a67a2/media.mp3)
-
----
-
-## Planet Money
-
-### The little pet fish that saved a town in the Amazon
-
-**Released:** 2026-03-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
-
----
-
-### Chef vs. Robot
-
-**Released:** 2026-03-13 14:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f64a8769-6041-414c-918c-a5f0002c5c73/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f64a8769-6041-414c-918c-a5f0002c5c73&feed=hvWWWzRv&t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
-
----
-
-## Hidden Brain
-
-### Rethinking Depression
-
-**Released:** 2026-03-16 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2470 - Pierre Poilievre
+
+**Released:** 2026-03-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7364954068.mp3?updated=1773938133)
+
+---
 
 ### #2469 - Brigham Buhler
 
@@ -128,11 +126,13 @@ Last updated: 2026-03-19 12:41:59
 
 ---
 
-### #2467 - Michael Pollan
+## Hidden Brain
 
-**Released:** 2026-03-12 17:00:00
+### Rethinking Depression
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9240266292.mp3?updated=1773332833)
+**Released:** 2026-03-16 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
 
 ---
 
@@ -177,6 +177,16 @@ Last updated: 2026-03-19 12:41:59
 **Released:** 2026-03-14 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/840123e3-9f3f-4c9d-bf7e-b403011843ca/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## The Tim Ferriss Show
+
+### #858: The Random Show, Couch Edition! — Supplements, Hummingbirds, Cock Rings, Optimizing Mitochondria, Breathing and Balance Training, Cool Grip Strength Tools, and More 
+
+**Released:** 2026-03-18 19:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0a6c457-d328-46e4-81a7-7ea6ddb4ba98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -234,6 +244,16 @@ Last updated: 2026-03-19 12:41:59
 
 ---
 
+## SmartLess 
+
+### "Cillian Murphy"
+
+**Released:** 2026-03-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### Kathryn Paige Harden (behavioral geneticist)
@@ -257,26 +277,6 @@ Last updated: 2026-03-19 12:41:59
 **Released:** 2026-03-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ad339145-a8d9-4b4e-bc21-6bc4b005a2bc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Cillian Murphy"
-
-**Released:** 2026-03-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #858: The Random Show, Couch Edition! — Supplements, Hummingbirds, Cock Rings, Optimizing Mitochondria, Breathing and Balance Training, Cool Grip Strength Tools, and More 
-
-**Released:** 2026-03-18 19:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0a6c457-d328-46e4-81a7-7ea6ddb4ba98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
