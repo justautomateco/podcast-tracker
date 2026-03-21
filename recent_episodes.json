@@ -56,6 +56,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "a3fcc983-fcc3-43a6-80cc-bc5873816305",
+    "episode_title": "Inside a BOOK auction",
+    "release_date": "2026-03-21 01:42:03",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "02259892-b745-4c3d-80ef-89308ad7b47a",
     "episode_title": "The little pet fish that saved a town in the Amazon",
     "release_date": "2026-03-18 07:00:00",
@@ -105,6 +112,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "64619b20-d483-40bf-a7ac-b4120133b606",
+    "episode_title": "Selects: Everything You Ever Wanted to Know About Gin",
+    "release_date": "2026-03-21 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/64619b20-d483-40bf-a7ac-b4120133b606/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "ae79b430-2875-484e-a360-b41300d5e47b",
     "episode_title": "Caterpillars: Nature's Magicians",
     "release_date": "2026-03-20 15:07:23",
@@ -130,13 +144,6 @@
     "episode_title": "The Fascinating History of Dandelions",
     "release_date": "2026-03-20 15:06:09",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13dbe2ee-0c95-438a-bd3c-b41300d5e47a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "9d707504-bffa-4b10-b681-b41300d5e478",
-    "episode_title": "What's Permaculture All About?",
-    "release_date": "2026-03-20 15:05:51",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9d707504-bffa-4b10-b681-b41300d5e478/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
   },
   {
@@ -175,27 +182,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "c5a8325c-b15a-400c-9de2-50ea17549940",
-    "episode_title": "Staff Review With Laurie Kilmartin",
-    "release_date": "2026-03-19 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "e83d4025-265d-4459-8136-bca999c432ee",
-    "episode_title": "Lisa Kudrow Returns Again",
-    "release_date": "2026-03-16 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13cd94be-afdb-4a6d-b483-6bfb91f95f1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13cd94be-afdb-4a6d-b483-6bfb91f95f1e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f61e8808-ae52-480f-99f5-213c5366d607",
-    "episode_title": "\"Cillian Murphy\"",
-    "release_date": "2026-03-16 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/fJPuE8931E_uU_-ZAbaE7pk_HyHPMSujLGWskLrxW-A",
     "episode_title": "Armchair Anonymous: Funny Pregnancy",
     "release_date": "2026-03-20 07:30:00",
@@ -215,5 +201,26 @@
     "release_date": "2026-03-16 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/e2c31fa7-669a-4b67-a5d0-4bc3eed1170e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "c5a8325c-b15a-400c-9de2-50ea17549940",
+    "episode_title": "Staff Review With Laurie Kilmartin",
+    "release_date": "2026-03-19 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e83d4025-265d-4459-8136-bca999c432ee",
+    "episode_title": "Lisa Kudrow Returns Again",
+    "release_date": "2026-03-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/13cd94be-afdb-4a6d-b483-6bfb91f95f1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=13cd94be-afdb-4a6d-b483-6bfb91f95f1e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "f61e8808-ae52-480f-99f5-213c5366d607",
+    "episode_title": "\"Cillian Murphy\"",
+    "release_date": "2026-03-16 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

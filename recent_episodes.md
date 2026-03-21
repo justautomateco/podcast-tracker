@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-21 01:14:11
+Last updated: 2026-03-21 12:30:24
 
 ## Serial
 
@@ -76,6 +76,14 @@ Last updated: 2026-03-21 01:14:11
 
 ## Planet Money
 
+### Inside a BOOK auction
+
+**Released:** 2026-03-21 01:42:03
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
+
+---
+
 ### The little pet fish that saved a town in the Amazon
 
 **Released:** 2026-03-18 07:00:00
@@ -140,6 +148,14 @@ Last updated: 2026-03-21 01:14:11
 
 ## Stuff You Should Know
 
+### Selects: Everything You Ever Wanted to Know About Gin
+
+**Released:** 2026-03-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/64619b20-d483-40bf-a7ac-b4120133b606/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Caterpillars: Nature's Magicians
 
 **Released:** 2026-03-20 15:07:23
@@ -169,14 +185,6 @@ Last updated: 2026-03-21 01:14:11
 **Released:** 2026-03-20 15:06:09
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13dbe2ee-0c95-438a-bd3c-b41300d5e47a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### What's Permaculture All About?
-
-**Released:** 2026-03-20 15:05:51
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9d707504-bffa-4b10-b681-b41300d5e478/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -226,6 +234,32 @@ Last updated: 2026-03-21 01:14:11
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Funny Pregnancy
+
+**Released:** 2026-03-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Kathryn Paige Harden (behavioral geneticist)
+
+**Released:** 2026-03-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b194bfc-afc9-4dfe-ac19-6bb34b519359.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Zach Braff Returns
+
+**Released:** 2026-03-16 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2c31fa7-669a-4b67-a5d0-4bc3eed1170e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Staff Review With Laurie Kilmartin
@@ -251,32 +285,6 @@ Last updated: 2026-03-21 01:14:11
 **Released:** 2026-03-16 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Funny Pregnancy
-
-**Released:** 2026-03-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kathryn Paige Harden (behavioral geneticist)
-
-**Released:** 2026-03-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b194bfc-afc9-4dfe-ac19-6bb34b519359.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Zach Braff Returns
-
-**Released:** 2026-03-16 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2c31fa7-669a-4b67-a5d0-4bc3eed1170e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
