@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-22 12:32:13
+Last updated: 2026-03-23 01:23:22
 
 ## Serial
 
@@ -9,26 +9,6 @@ Last updated: 2026-03-22 12:32:13
 **Released:** 2026-03-19 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### Are Human Drivers Finally Obsolete?
-
-**Released:** 2026-03-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 628: In the Shadow of the City
-
-**Released:** 2026-03-15 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
 
 ---
 
@@ -92,65 +72,23 @@ Last updated: 2026-03-22 12:32:13
 
 ---
 
-## The Joe Rogan Experience
+## Freakonomics Radio
 
-### Fight Companion - March 21, 2026
+### Are Human Drivers Finally Obsolete?
 
-**Released:** 2026-03-22 00:34:00
+**Released:** 2026-03-20 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6008208664.mp3)
-
----
-
-### #2471 - Mark Normand
-
-**Released:** 2026-03-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8510219084.mp3?updated=1774024727)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
 
 ---
 
-### #2470 - Pierre Poilievre
+## This American Life
 
-**Released:** 2026-03-19 17:00:00
+### 883: Call Your Parents
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7364954068.mp3?updated=1774034469)
+**Released:** 2026-03-22 18:00:00
 
----
-
-### #2469 - Brigham Buhler
-
-**Released:** 2026-03-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6380258189.mp3?updated=1773855347)
-
----
-
-### JRE MMA Show #176 with Dustin Poirier
-
-**Released:** 2026-03-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5960797118.mp3?updated=1773765371)
-
----
-
-## Hidden Brain
-
-### Rethinking Depression
-
-**Released:** 2026-03-16 19:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Service Request #1: What Happens When I Call 311?
-
-**Released:** 2026-03-17 14:49:51
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache)
 
 ---
 
@@ -196,6 +134,26 @@ Last updated: 2026-03-22 12:32:13
 
 ---
 
+## Hidden Brain
+
+### Rethinking Depression
+
+**Released:** 2026-03-16 19:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a02f5f78-0da0-4235-baa1-9abb33685ffb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a02f5f78-0da0-4235-baa1-9abb33685ffb&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Service Request #1: What Happens When I Call 311?
+
+**Released:** 2026-03-17 14:49:51
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line: What’s Your Value?
@@ -221,6 +179,34 @@ Last updated: 2026-03-22 12:32:13
 **Released:** 2026-03-18 19:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0a6c457-d328-46e4-81a7-7ea6ddb4ba98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### You Gone Learn: The Moth Radio Hour
+
+**Released:** 2026-03-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
+
+---
+
+### They Did WHAT: The Moth Podcast
+
+**Released:** 2026-03-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2058363700.mp3?updated=1773690544)
+
+---
+
+## SmartLess 
+
+### "Cillian Murphy"
+
+**Released:** 2026-03-16 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
 
 ---
 
@@ -265,34 +251,6 @@ Last updated: 2026-03-22 12:32:13
 **Released:** 2026-03-16 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e2c31fa7-669a-4b67-a5d0-4bc3eed1170e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### You Gone Learn: The Moth Radio Hour
-
-**Released:** 2026-03-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
-
----
-
-### They Did WHAT: The Moth Podcast
-
-**Released:** 2026-03-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2058363700.mp3?updated=1773690544)
-
----
-
-## SmartLess 
-
-### "Cillian Murphy"
-
-**Released:** 2026-03-16 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6c765ba9-37f5-4b18-b1cf-62c0f9aa3ea4&feed=hNaFxXpO)
 
 ---
 
