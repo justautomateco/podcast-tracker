@@ -1,24 +1,10 @@
 [
   {
-    "guid": "906ab02f-36d6-4556-9034-dae5b97c83cc",
-    "episode_title": "Are Human Drivers Finally Obsolete?",
-    "release_date": "2026-03-20 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "8dcba0f9-b133-4150-9f4d-63c4950daa05",
     "episode_title": "The Idiot - Trailer",
     "release_date": "2026-03-19 10:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg",
     "podcast_name": "Serial"
-  },
-  {
-    "guid": "46124 at https://www.thisamericanlife.org",
-    "episode_title": "883: Call Your Parents",
-    "release_date": "2026-03-22 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "69bda0141861d127d5d0c2f3",
@@ -56,6 +42,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "906ab02f-36d6-4556-9034-dae5b97c83cc",
+    "episode_title": "Are Human Drivers Finally Obsolete?",
+    "release_date": "2026-03-20 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "a3fcc983-fcc3-43a6-80cc-bc5873816305",
     "episode_title": "Inside a BOOK auction",
     "release_date": "2026-03-21 01:42:03",
@@ -68,6 +61,13 @@
     "release_date": "2026-03-18 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46124 at https://www.thisamericanlife.org",
+    "episode_title": "883: Call Your Parents",
+    "release_date": "2026-03-22 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "ddf4a476-2586-11f1-ab32-17229eb400f5",
@@ -112,6 +112,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "d38f674d-2174-4b5a-bea2-b41600e5220f",
+    "episode_title": "The History of Fire",
+    "release_date": "2026-03-24 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d38f674d-2174-4b5a-bea2-b41600e5220f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "64619b20-d483-40bf-a7ac-b4120133b606",
     "episode_title": "Selects: Everything You Ever Wanted to Know About Gin",
     "release_date": "2026-03-21 09:00:00",
@@ -140,11 +147,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "13dbe2ee-0c95-438a-bd3c-b41300d5e47a",
-    "episode_title": "The Fascinating History of Dandelions",
-    "release_date": "2026-03-20 15:06:09",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13dbe2ee-0c95-438a-bd3c-b41300d5e47a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "849e07da-6d58-4890-a73c-e8de0d6d0968",
+    "episode_title": "Service Request #2: Why Is This Red Light So Damn Long?",
+    "release_date": "2026-03-24 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "b04af3fe-ece7-4ec9-9091-25a7ac52e6f6",
@@ -175,17 +182,17 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "6d0c52d4-89d4-11f0-b13f-9ffd9486a696",
+    "episode_title": "Look Away\u2014Or Don\u2019t: The Moth Radio Hour",
+    "release_date": "2026-03-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "6ce5215a-89d4-11f0-b13f-2f58e63e2580",
     "episode_title": "You Gone Learn: The Moth Radio Hour",
     "release_date": "2026-03-20 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6da3e45a-89d4-11f0-b13f-8bab7f1580b4",
-    "episode_title": "They Did WHAT: The Moth Podcast",
-    "release_date": "2026-03-17 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2058363700.mp3?updated=1773690544",
     "podcast_name": "The Moth"
   },
   {
@@ -201,6 +208,13 @@
     "release_date": "2026-03-19 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "c9c67ee3-9b11-4396-9664-3fe1c2d0532a",
+    "episode_title": "\"Maggie Gyllenhaal\"",
+    "release_date": "2026-03-23 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/rD44NHvxRuiT9Wgj8I_y9lMLIKVznR2Ofea0P6ra_Fc",
@@ -222,12 +236,5 @@
     "release_date": "2026-03-18 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/7b194bfc-afc9-4dfe-ac19-6bb34b519359.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "c9c67ee3-9b11-4396-9664-3fe1c2d0532a",
-    "episode_title": "\"Maggie Gyllenhaal\"",
-    "release_date": "2026-03-23 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
