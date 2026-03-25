@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-25 01:22:04
+Last updated: 2026-03-25 12:47:06
 
 ## Freakonomics Radio
 
@@ -92,14 +92,6 @@ Last updated: 2026-03-25 01:22:04
 
 ---
 
-### The little pet fish that saved a town in the Amazon
-
-**Released:** 2026-03-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2472 - Jeff Ross
@@ -154,6 +146,14 @@ Last updated: 2026-03-25 01:22:04
 
 ## Stuff You Should Know
 
+### Short Stuff: Kentucky Meat Shower
+
+**Released:** 2026-03-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9bdc11e-8ffa-4981-8db4-b4170144dbc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The History of Fire
 
 **Released:** 2026-03-24 09:00:00
@@ -183,14 +183,6 @@ Last updated: 2026-03-25 01:22:04
 **Released:** 2026-03-20 15:07:04
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c51ce7d-02ef-4f41-a54f-b41300d5e477/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### How Snails Work
-
-**Released:** 2026-03-20 15:06:48
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cb8a4bdc-679c-4911-99f7-b41300d5e47a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -232,6 +224,42 @@ Last updated: 2026-03-25 01:22:04
 
 ---
 
+## SmartLess 
+
+### "Maggie Gyllenhaal"
+
+**Released:** 2026-03-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### David Sussillo (on foster care and neuroscience)
+
+**Released:** 2026-03-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nate Bargatze
+
+**Released:** 2026-03-23 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Funny Pregnancy
+
+**Released:** 2026-03-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Ken Burns
@@ -250,16 +278,6 @@ Last updated: 2026-03-25 01:22:04
 
 ---
 
-## SmartLess 
-
-### "Maggie Gyllenhaal"
-
-**Released:** 2026-03-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
-
----
-
 ## The Moth
 
 ### Look Away—Or Don’t: The Moth Radio Hour
@@ -275,32 +293,6 @@ Last updated: 2026-03-25 01:22:04
 **Released:** 2026-03-20 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
-
----
-
-## Armchair Expert
-
-### Nate Bargatze
-
-**Released:** 2026-03-23 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Funny Pregnancy
-
-**Released:** 2026-03-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Kathryn Paige Harden (behavioral geneticist)
-
-**Released:** 2026-03-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7b194bfc-afc9-4dfe-ac19-6bb34b519359.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
