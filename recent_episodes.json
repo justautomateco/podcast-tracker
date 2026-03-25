@@ -1,10 +1,38 @@
 [
   {
+    "guid": "7019241d-6cd6-4a96-9a97-9f7bdd107431",
+    "episode_title": "In a Driverless World, Who Loses and Who Wins?",
+    "release_date": "2026-03-25 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "906ab02f-36d6-4556-9034-dae5b97c83cc",
+    "episode_title": "Are Human Drivers Finally Obsolete?",
+    "release_date": "2026-03-20 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "8dcba0f9-b133-4150-9f4d-63c4950daa05",
     "episode_title": "The Idiot - Trailer",
     "release_date": "2026-03-19 10:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg",
     "podcast_name": "Serial"
+  },
+  {
+    "guid": "46124 at https://www.thisamericanlife.org",
+    "episode_title": "883: Call Your Parents",
+    "release_date": "2026-03-22 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69bdbfaf7878605e11a94a9c",
+    "episode_title": "3 ways to create a truly original design | Lope Gutierrez-Ruiz",
+    "release_date": "2026-03-24 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdbfaf7878605e11a94a9c/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69bda0141861d127d5d0c2f3",
@@ -35,20 +63,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69baf3c16cb58679e8f88ff6",
-    "episode_title": "The 6 eras of NBA fashion \u2014 from restrained to radical | Mitchell S. Jackson",
-    "release_date": "2026-03-19 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69baf3c16cb58679e8f88ff6/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "906ab02f-36d6-4556-9034-dae5b97c83cc",
-    "episode_title": "Are Human Drivers Finally Obsolete?",
-    "release_date": "2026-03-20 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "a3fcc983-fcc3-43a6-80cc-bc5873816305",
     "episode_title": "Inside a BOOK auction",
     "release_date": "2026-03-21 01:42:03",
@@ -63,11 +77,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46124 at https://www.thisamericanlife.org",
-    "episode_title": "883: Call Your Parents",
-    "release_date": "2026-03-22 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache",
-    "podcast_name": "This American Life"
+    "guid": "de128426-2745-11f1-80cf-376f3c69f5ba",
+    "episode_title": "#2472 - Jeff Ross",
+    "release_date": "2026-03-24 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8163402388.mp3?updated=1774371076",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "ddf4a476-2586-11f1-ab32-17229eb400f5",
@@ -95,13 +109,6 @@
     "episode_title": "#2469 - Brigham Buhler",
     "release_date": "2026-03-18 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6380258189.mp3?updated=1773855347",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "918a36a4-219a-11f1-bcc8-cf2633b7c80b",
-    "episode_title": "JRE MMA Show #176 with Dustin Poirier",
-    "release_date": "2026-03-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5960797118.mp3?updated=1773765371",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -154,13 +161,6 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "b04af3fe-ece7-4ec9-9091-25a7ac52e6f6",
-    "episode_title": "Service Request #1: What Happens When I Call 311?",
-    "release_date": "2026-03-17 14:49:51",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/W86FqRM-14okHOSCI2JmteUwzVqMlcH8WI2m19Oenfg",
     "episode_title": "#858: The Random Show, Couch Edition! \u2014 Supplements, Hummingbirds, Cock Rings, Optimizing Mitochondria, Breathing and Balance Training, Cool Grip Strength Tools, and More ",
     "release_date": "2026-03-18 19:30:00",
@@ -182,20 +182,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "6d0c52d4-89d4-11f0-b13f-9ffd9486a696",
-    "episode_title": "Look Away\u2014Or Don\u2019t: The Moth Radio Hour",
-    "release_date": "2026-03-24 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6ce5215a-89d4-11f0-b13f-2f58e63e2580",
-    "episode_title": "You Gone Learn: The Moth Radio Hour",
-    "release_date": "2026-03-20 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "e1fdb9b0-ac8b-4af6-8483-ed3345944401",
     "episode_title": "Ken Burns",
     "release_date": "2026-03-23 04:05:00",
@@ -215,6 +201,20 @@
     "release_date": "2026-03-23 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "6d0c52d4-89d4-11f0-b13f-9ffd9486a696",
+    "episode_title": "Look Away\u2014Or Don\u2019t: The Moth Radio Hour",
+    "release_date": "2026-03-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6ce5215a-89d4-11f0-b13f-2f58e63e2580",
+    "episode_title": "You Gone Learn: The Moth Radio Hour",
+    "release_date": "2026-03-20 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/rD44NHvxRuiT9Wgj8I_y9lMLIKVznR2Ofea0P6ra_Fc",

@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-24 12:51:23
+Last updated: 2026-03-25 01:22:04
+
+## Freakonomics Radio
+
+### In a Driverless World, Who Loses and Who Wins?
+
+**Released:** 2026-03-25 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
+
+---
+
+### Are Human Drivers Finally Obsolete?
+
+**Released:** 2026-03-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -12,7 +30,25 @@ Last updated: 2026-03-24 12:51:23
 
 ---
 
+## This American Life
+
+### 883: Call Your Parents
+
+**Released:** 2026-03-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache)
+
+---
+
 ## TED Talks Daily
+
+### 3 ways to create a truly original design | Lope Gutierrez-Ruiz
+
+**Released:** 2026-03-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdbfaf7878605e11a94a9c/media.mp3)
+
+---
 
 ### Life on the frontlines of war reporting | Jane Ferguson (re-release)
 
@@ -46,24 +82,6 @@ Last updated: 2026-03-24 12:51:23
 
 ---
 
-### The 6 eras of NBA fashion — from restrained to radical | Mitchell S. Jackson
-
-**Released:** 2026-03-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69baf3c16cb58679e8f88ff6/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Are Human Drivers Finally Obsolete?
-
-**Released:** 2026-03-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Inside a BOOK auction
@@ -82,17 +100,15 @@ Last updated: 2026-03-24 12:51:23
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 883: Call Your Parents
+### #2472 - Jeff Ross
 
-**Released:** 2026-03-22 18:00:00
+**Released:** 2026-03-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8163402388.mp3?updated=1774371076)
 
 ---
-
-## The Joe Rogan Experience
 
 ### Fight Companion - March 21, 2026
 
@@ -123,14 +139,6 @@ Last updated: 2026-03-24 12:51:23
 **Released:** 2026-03-18 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6380258189.mp3?updated=1773855347)
-
----
-
-### JRE MMA Show #176 with Dustin Poirier
-
-**Released:** 2026-03-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5960797118.mp3?updated=1773765371)
 
 ---
 
@@ -196,14 +204,6 @@ Last updated: 2026-03-24 12:51:23
 
 ---
 
-### Service Request #1: What Happens When I Call 311?
-
-**Released:** 2026-03-17 14:49:51
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f935ee3b-31b7-4c16-8839-b5ea8aa6f895/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f935ee3b-31b7-4c16-8839-b5ea8aa6f895&feed=BqbsxVfO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #858: The Random Show, Couch Edition! — Supplements, Hummingbirds, Cock Rings, Optimizing Mitochondria, Breathing and Balance Training, Cool Grip Strength Tools, and More 
@@ -232,24 +232,6 @@ Last updated: 2026-03-24 12:51:23
 
 ---
 
-## The Moth
-
-### Look Away—Or Don’t: The Moth Radio Hour
-
-**Released:** 2026-03-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
-
----
-
-### You Gone Learn: The Moth Radio Hour
-
-**Released:** 2026-03-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Ken Burns
@@ -275,6 +257,24 @@ Last updated: 2026-03-24 12:51:23
 **Released:** 2026-03-23 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Look Away—Or Don’t: The Moth Radio Hour
+
+**Released:** 2026-03-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
+
+---
+
+### You Gone Learn: The Moth Radio Hour
+
+**Released:** 2026-03-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
 
 ---
 
