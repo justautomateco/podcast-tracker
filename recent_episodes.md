@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-25 12:47:06
+Last updated: 2026-03-26 01:27:24
+
+## Serial
+
+### The Idiot - Trailer
+
+**Released:** 2026-03-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -20,16 +30,6 @@ Last updated: 2026-03-25 12:47:06
 
 ---
 
-## Serial
-
-### The Idiot - Trailer
-
-**Released:** 2026-03-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
-
----
-
 ## This American Life
 
 ### 883: Call Your Parents
@@ -41,6 +41,14 @@ Last updated: 2026-03-25 12:47:06
 ---
 
 ## TED Talks Daily
+
+### My bank called in the middle of my TED Talk | Mike Albo
+
+**Released:** 2026-03-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc1583bbfcfe8db8a64ef/media.mp3)
+
+---
 
 ### 3 ways to create a truly original design | Lope Gutierrez-Ruiz
 
@@ -74,15 +82,15 @@ Last updated: 2026-03-25 12:47:06
 
 ---
 
-### Joy will find you — if you let it | David Larbi
+## Planet Money
 
-**Released:** 2026-03-20 15:00:00
+### Our BOOK vs. the global supply chain
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bc483d62f6c66afe5c40a0/media.mp3)
+**Released:** 2026-03-26 00:26:04
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
 
 ---
-
-## Planet Money
 
 ### Inside a BOOK auction
 
@@ -93,6 +101,14 @@ Last updated: 2026-03-25 12:47:06
 ---
 
 ## The Joe Rogan Experience
+
+### #2473 - Bill Thompson
+
+**Released:** 2026-03-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1444847354.mp3?updated=1774457242)
+
+---
 
 ### #2472 - Jeff Ross
 
@@ -126,14 +142,6 @@ Last updated: 2026-03-25 12:47:06
 
 ---
 
-### #2469 - Brigham Buhler
-
-**Released:** 2026-03-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6380258189.mp3?updated=1773855347)
-
----
-
 ## Hidden Brain
 
 ### Group Think
@@ -141,6 +149,16 @@ Last updated: 2026-03-25 12:47:06
 **Released:** 2026-03-23 19:05:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Service Request #2: Why Is This Red Light So Damn Long?
+
+**Released:** 2026-03-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
 
 ---
 
@@ -186,26 +204,6 @@ Last updated: 2026-03-25 12:47:06
 
 ---
 
-## 99% Invisible
-
-### Service Request #2: Why Is This Red Light So Damn Long?
-
-**Released:** 2026-03-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #858: The Random Show, Couch Edition! — Supplements, Hummingbirds, Cock Rings, Optimizing Mitochondria, Breathing and Balance Training, Cool Grip Strength Tools, and More 
-
-**Released:** 2026-03-18 19:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b0a6c457-d328-46e4-81a7-7ea6ddb4ba98.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Vital Farms: Matt O’Hayer. How a serial entrepreneur re-branded the egg
@@ -221,6 +219,42 @@ Last updated: 2026-03-25 12:47:06
 **Released:** 2026-03-19 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/41afea37-5bbc-4d40-9073-e28297ff2669.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Look Away—Or Don’t: The Moth Radio Hour
+
+**Released:** 2026-03-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
+
+---
+
+### You Gone Learn: The Moth Radio Hour
+
+**Released:** 2026-03-20 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Ken Burns
+
+**Released:** 2026-03-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
+
+---
+
+### Staff Review With Laurie Kilmartin
+
+**Released:** 2026-03-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH)
 
 ---
 
@@ -257,42 +291,6 @@ Last updated: 2026-03-25 12:47:06
 **Released:** 2026-03-20 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Ken Burns
-
-**Released:** 2026-03-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
-
----
-
-### Staff Review With Laurie Kilmartin
-
-**Released:** 2026-03-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Look Away—Or Don’t: The Moth Radio Hour
-
-**Released:** 2026-03-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
-
----
-
-### You Gone Learn: The Moth Radio Hour
-
-**Released:** 2026-03-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
 
 ---
 
