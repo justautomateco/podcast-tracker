@@ -1,32 +1,46 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-26 01:27:24
+Last updated: 2026-03-26 12:54:52
 
 ## Serial
 
-### The Idiot - Trailer
+### The Idiot - Chapter 5
 
-**Released:** 2026-03-19 10:00:00
+**Released:** 2026-03-26 02:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/bdcff10b-5a7c-4620-8c59-414503126372/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=bdcff10b-5a7c-4620-8c59-414503126372&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### In a Driverless World, Who Loses and Who Wins?
-
-**Released:** 2026-03-25 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/072b37f5-903d-4b6f-9a8f-d5fb73c10d66/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=072b37f5-903d-4b6f-9a8f-d5fb73c10d66&feed=PpzWFGhg)
 
 ---
 
-### Are Human Drivers Finally Obsolete?
+### The Idiot - Chapter 4
 
-**Released:** 2026-03-20 10:00:00
+**Released:** 2026-03-26 02:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/34068800-3de6-4215-b130-71488aa396b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=34068800-3de6-4215-b130-71488aa396b2&feed=PpzWFGhg)
+
+---
+
+### The Idiot - Chapter 3
+
+**Released:** 2026-03-26 01:55:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/f9e5957a-d479-49ec-9b45-041145325987/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=f9e5957a-d479-49ec-9b45-041145325987&feed=PpzWFGhg)
+
+---
+
+### The Idiot - Chapter 2
+
+**Released:** 2026-03-26 01:50:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/acf8f76e-2908-4abc-81a6-d41bbca45a23/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=acf8f76e-2908-4abc-81a6-d41bbca45a23&feed=PpzWFGhg)
+
+---
+
+### The Idiot - Chapter 1
+
+**Released:** 2026-03-26 01:45:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/8ae43bfe-4ffd-40ef-a827-c2c15ae49db5/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=8ae43bfe-4ffd-40ef-a827-c2c15ae49db5&feed=PpzWFGhg)
 
 ---
 
@@ -82,6 +96,24 @@ Last updated: 2026-03-26 01:27:24
 
 ---
 
+## Freakonomics Radio
+
+### In a Driverless World, Who Loses and Who Wins?
+
+**Released:** 2026-03-25 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
+
+---
+
+### Are Human Drivers Finally Obsolete?
+
+**Released:** 2026-03-20 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### Our BOOK vs. the global supply chain
@@ -97,6 +129,68 @@ Last updated: 2026-03-26 01:27:24
 **Released:** 2026-03-21 01:42:03
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
+
+---
+
+## Stuff You Should Know
+
+### Malcom X
+
+**Released:** 2026-03-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a3148e6-2dad-457f-a7bd-b4180184e342/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Kentucky Meat Shower
+
+**Released:** 2026-03-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9bdc11e-8ffa-4981-8db4-b4170144dbc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### The History of Fire
+
+**Released:** 2026-03-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d38f674d-2174-4b5a-bea2-b41600e5220f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Everything You Ever Wanted to Know About Gin
+
+**Released:** 2026-03-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/64619b20-d483-40bf-a7ac-b4120133b606/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Caterpillars: Nature's Magicians
+
+**Released:** 2026-03-20 15:07:23
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ae79b430-2875-484e-a360-b41300d5e47b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Group Think
+
+**Released:** 2026-03-23 19:05:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Service Request #2: Why Is This Red Light So Damn Long?
+
+**Released:** 2026-03-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
 
 ---
 
@@ -142,69 +236,15 @@ Last updated: 2026-03-26 01:27:24
 
 ---
 
-## Hidden Brain
-
-### Group Think
-
-**Released:** 2026-03-23 19:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Service Request #2: Why Is This Red Light So Damn Long?
-
-**Released:** 2026-03-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Kentucky Meat Shower
-
-**Released:** 2026-03-25 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9bdc11e-8ffa-4981-8db4-b4170144dbc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The History of Fire
-
-**Released:** 2026-03-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d38f674d-2174-4b5a-bea2-b41600e5220f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Everything You Ever Wanted to Know About Gin
-
-**Released:** 2026-03-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/64619b20-d483-40bf-a7ac-b4120133b606/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Caterpillars: Nature's Magicians
-
-**Released:** 2026-03-20 15:07:23
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ae79b430-2875-484e-a360-b41300d5e47b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Butterflies: Caterpillars with Wings!
-
-**Released:** 2026-03-20 15:07:04
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c51ce7d-02ef-4f41-a54f-b41300d5e477/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
+
+### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
+
+**Released:** 2026-03-26 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc2fd26c-9fb7-49f2-b64b-65853699e45a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Vital Farms: Matt O’Hayer. How a serial entrepreneur re-branded the egg
 
@@ -214,11 +254,13 @@ Last updated: 2026-03-26 01:27:24
 
 ---
 
-### Advice Line: What’s Your Value?
+## Revisionist History
 
-**Released:** 2026-03-19 07:10:00
+### Behind the Scenes with Andrew Jarecki
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/41afea37-5bbc-4d40-9073-e28297ff2669.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-03-26 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -237,34 +279,6 @@ Last updated: 2026-03-26 01:27:24
 **Released:** 2026-03-20 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Ken Burns
-
-**Released:** 2026-03-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
-
----
-
-### Staff Review With Laurie Kilmartin
-
-**Released:** 2026-03-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bc2faa91-fbd8-41b9-b9a7-e133320b8a63/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bc2faa91-fbd8-41b9-b9a7-e133320b8a63&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Maggie Gyllenhaal"
-
-**Released:** 2026-03-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
 
 ---
 
@@ -291,6 +305,34 @@ Last updated: 2026-03-26 01:27:24
 **Released:** 2026-03-20 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Maggie Gyllenhaal"
+
+**Released:** 2026-03-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Interrupto!
+
+**Released:** 2026-03-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
+
+---
+
+### Ken Burns
+
+**Released:** 2026-03-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
 
 ---
 
