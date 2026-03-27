@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-27 01:27:08
+Last updated: 2026-03-27 12:43:16
 
 ## Serial
 
@@ -46,19 +46,19 @@ Last updated: 2026-03-27 01:27:08
 
 ## Freakonomics Radio
 
+### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
+
+**Released:** 2026-03-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
+
+---
+
 ### In a Driverless World, Who Loses and Who Wins?
 
 **Released:** 2026-03-25 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
-
----
-
-### Are Human Drivers Finally Obsolete?
-
-**Released:** 2026-03-20 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b7384b74-61a1-44e9-a297-6c06af420ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b7384b74-61a1-44e9-a297-6c06af420ce9&feed=Y8lFbOT4)
 
 ---
 
@@ -132,16 +132,6 @@ Last updated: 2026-03-27 01:27:08
 
 ---
 
-## Hidden Brain
-
-### Group Think
-
-**Released:** 2026-03-23 19:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2474 - Dave Smith
@@ -184,13 +174,13 @@ Last updated: 2026-03-27 01:27:08
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### Service Request #2: Why Is This Red Light So Damn Long?
+### Group Think
 
-**Released:** 2026-03-24 09:00:00
+**Released:** 2026-03-23 19:05:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
 
 ---
 
@@ -236,6 +226,36 @@ Last updated: 2026-03-27 01:27:08
 
 ---
 
+## 99% Invisible
+
+### Service Request #2: Why Is This Red Light So Damn Long?
+
+**Released:** 2026-03-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cc67d7d3-55a6-49a0-a3a6-fe48bbc1511c&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Behind the Scenes with Andrew Jarecki
+
+**Released:** 2026-03-26 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
@@ -254,31 +274,13 @@ Last updated: 2026-03-27 01:27:08
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Behind the Scenes with Andrew Jarecki
+### "Maggie Gyllenhaal"
 
-**Released:** 2026-03-26 04:01:00
+**Released:** 2026-03-23 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Look Away—Or Don’t: The Moth Radio Hour
-
-**Released:** 2026-03-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
-
----
-
-### You Gone Learn: The Moth Radio Hour
-
-**Released:** 2026-03-20 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4190983187.mp3?updated=1773944323)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
 
 ---
 
@@ -300,7 +302,33 @@ Last updated: 2026-03-27 01:27:08
 
 ---
 
+## The Moth
+
+### Shortcuts: The Moth Podcast
+
+**Released:** 2026-03-27 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7059994513.mp3?updated=1773409307)
+
+---
+
+### Look Away—Or Don’t: The Moth Radio Hour
+
+**Released:** 2026-03-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Wild Card XII
+
+**Released:** 2026-03-27 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### David Sussillo (on foster care and neuroscience)
 
@@ -315,34 +343,6 @@ Last updated: 2026-03-27 01:27:08
 **Released:** 2026-03-23 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Funny Pregnancy
-
-**Released:** 2026-03-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/02b4099f-bd51-41bc-8afb-b8efe5e392da.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Maggie Gyllenhaal"
-
-**Released:** 2026-03-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
-
-**Released:** 2026-03-26 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
