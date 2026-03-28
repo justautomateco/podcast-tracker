@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-27 12:43:16
+Last updated: 2026-03-28 01:20:45
 
 ## Serial
 
@@ -44,35 +44,15 @@ Last updated: 2026-03-27 12:43:16
 
 ---
 
-## Freakonomics Radio
-
-### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
-
-**Released:** 2026-03-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
-
----
-
-### In a Driverless World, Who Loses and Who Wins?
-
-**Released:** 2026-03-25 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 883: Call Your Parents
-
-**Released:** 2026-03-22 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache)
-
----
-
 ## TED Talks Daily
+
+### Why the world is still not built for women | Virginia Santy
+
+**Released:** 2026-03-27 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc80b007cdcf83fed894c/media.mp3)
+
+---
 
 ### The magical, mesmerizing migration of monarch butterflies | Jaime Rojo (re-release)
 
@@ -106,33 +86,43 @@ Last updated: 2026-03-27 12:43:16
 
 ---
 
-### Sunday Pick: 20th Anniversary celebration with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn | from Design Matters
+## Freakonomics Radio
 
-**Released:** 2026-03-22 06:00:00
+### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bc0de8007cdcf83f662f94/media.mp3)
+**Released:** 2026-03-27 10:00:00
 
----
-
-## Planet Money
-
-### Our BOOK vs. the global supply chain
-
-**Released:** 2026-03-26 00:26:04
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
 
 ---
 
-### Inside a BOOK auction
+### In a Driverless World, Who Loses and Who Wins?
 
-**Released:** 2026-03-21 01:42:03
+**Released:** 2026-03-25 00:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 883: Call Your Parents
+
+**Released:** 2026-03-22 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2475 - Andrew Jarecki
+
+**Released:** 2026-03-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147)
+
+---
 
 ### #2474 - Dave Smith
 
@@ -166,21 +156,21 @@ Last updated: 2026-03-27 12:43:16
 
 ---
 
-### #2471 - Mark Normand
+## Planet Money
 
-**Released:** 2026-03-20 17:00:00
+### Our BOOK vs. the global supply chain
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8510219084.mp3?updated=1774024727)
+**Released:** 2026-03-26 00:26:04
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
 
 ---
 
-## Hidden Brain
+### Inside a BOOK auction
 
-### Group Think
+**Released:** 2026-03-21 01:42:03
 
-**Released:** 2026-03-23 19:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
 
 ---
 
@@ -218,15 +208,25 @@ Last updated: 2026-03-27 12:43:16
 
 ---
 
-### Caterpillars: Nature's Magicians
+## Hidden Brain
 
-**Released:** 2026-03-20 15:07:23
+### Group Think
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ae79b430-2875-484e-a360-b41300d5e47b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-03-23 19:05:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
 
 ---
 
 ## 99% Invisible
+
+### Constitution Breakdown #8: Jill Lepore
+
+**Released:** 2026-03-27 21:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
+
+---
 
 ### Service Request #2: Why Is This Red Light So Damn Long?
 
@@ -274,13 +274,21 @@ Last updated: 2026-03-27 12:43:16
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Maggie Gyllenhaal"
+### Shortcuts: The Moth Podcast
 
-**Released:** 2026-03-23 07:01:00
+**Released:** 2026-03-27 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7059994513.mp3?updated=1773409307)
+
+---
+
+### Look Away—Or Don’t: The Moth Radio Hour
+
+**Released:** 2026-03-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
 
 ---
 
@@ -299,24 +307,6 @@ Last updated: 2026-03-27 12:43:16
 **Released:** 2026-03-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Shortcuts: The Moth Podcast
-
-**Released:** 2026-03-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7059994513.mp3?updated=1773409307)
-
----
-
-### Look Away—Or Don’t: The Moth Radio Hour
-
-**Released:** 2026-03-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
 
 ---
 
@@ -343,6 +333,16 @@ Last updated: 2026-03-27 12:43:16
 **Released:** 2026-03-23 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Maggie Gyllenhaal"
+
+**Released:** 2026-03-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
 
 ---
 
