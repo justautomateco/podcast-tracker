@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-28 01:20:45
+Last updated: 2026-03-28 12:35:04
 
 ## Serial
 
@@ -44,6 +44,24 @@ Last updated: 2026-03-28 01:20:45
 
 ---
 
+## Freakonomics Radio
+
+### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
+
+**Released:** 2026-03-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
+
+---
+
+### In a Driverless World, Who Loses and Who Wins?
+
+**Released:** 2026-03-25 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
 
 ### Why the world is still not built for women | Virginia Santy
@@ -83,24 +101,6 @@ Last updated: 2026-03-28 01:20:45
 **Released:** 2026-03-23 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bda0141861d127d5d0c2f3/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
-
-**Released:** 2026-03-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
-
----
-
-### In a Driverless World, Who Loses and Who Wins?
-
-**Released:** 2026-03-25 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
 
 ---
 
@@ -158,6 +158,14 @@ Last updated: 2026-03-28 01:20:45
 
 ## Planet Money
 
+### The skyscrapers that NIMBYs and zoning couldn't stop
+
+**Released:** 2026-03-28 01:59:58
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
+
+---
+
 ### Our BOOK vs. the global supply chain
 
 **Released:** 2026-03-26 00:26:04
@@ -166,15 +174,15 @@ Last updated: 2026-03-28 01:20:45
 
 ---
 
-### Inside a BOOK auction
+## Stuff You Should Know
 
-**Released:** 2026-03-21 01:42:03
+### Selects: The Disappearance of Lars Mittank
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
+**Released:** 2026-03-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3df8b94-e6d8-4b1b-91b9-b416013b06e2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Malcom X
 
@@ -197,14 +205,6 @@ Last updated: 2026-03-28 01:20:45
 **Released:** 2026-03-24 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d38f674d-2174-4b5a-bea2-b41600e5220f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Everything You Ever Wanted to Know About Gin
-
-**Released:** 2026-03-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/64619b20-d483-40bf-a7ac-b4120133b606/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -236,26 +236,6 @@ Last updated: 2026-03-28 01:20:45
 
 ---
 
-## The Tim Ferriss Show
-
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
-
-**Released:** 2026-03-26 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Behind the Scenes with Andrew Jarecki
-
-**Released:** 2026-03-26 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
@@ -274,6 +254,26 @@ Last updated: 2026-03-28 01:20:45
 
 ---
 
+## Revisionist History
+
+### Behind the Scenes with Andrew Jarecki
+
+**Released:** 2026-03-26 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Shortcuts: The Moth Podcast
@@ -289,6 +289,16 @@ Last updated: 2026-03-28 01:20:45
 **Released:** 2026-03-24 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
+
+---
+
+## SmartLess 
+
+### "Maggie Gyllenhaal"
+
+**Released:** 2026-03-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
 
 ---
 
@@ -333,16 +343,6 @@ Last updated: 2026-03-28 01:20:45
 **Released:** 2026-03-23 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Maggie Gyllenhaal"
-
-**Released:** 2026-03-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
 
 ---
 
