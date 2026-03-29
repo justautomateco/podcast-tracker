@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-28 12:35:04
+Last updated: 2026-03-29 01:44:51
 
 ## Serial
 
@@ -62,7 +62,33 @@ Last updated: 2026-03-28 12:35:04
 
 ---
 
+## Planet Money
+
+### The skyscrapers that NIMBYs and zoning couldn't stop
+
+**Released:** 2026-03-28 01:59:58
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
+
+---
+
+### Our BOOK vs. the global supply chain
+
+**Released:** 2026-03-26 00:26:04
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+
+---
+
 ## TED Talks Daily
+
+### 3 things I wish I knew when I was broke | Vivian Tu
+
+**Released:** 2026-03-28 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69c15cd5d832f1da93ba7e28/media.mp3)
+
+---
 
 ### Why the world is still not built for women | Virginia Santy
 
@@ -93,14 +119,6 @@ Last updated: 2026-03-28 12:35:04
 **Released:** 2026-03-24 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdbfaf7878605e11a94a9c/media.mp3)
-
----
-
-### Life on the frontlines of war reporting | Jane Ferguson (re-release)
-
-**Released:** 2026-03-23 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bda0141861d127d5d0c2f3/media.mp3)
 
 ---
 
@@ -148,29 +166,13 @@ Last updated: 2026-03-28 12:35:04
 
 ---
 
-### Fight Companion - March 21, 2026
+## Hidden Brain
 
-**Released:** 2026-03-22 00:34:00
+### Group Think
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6008208664.mp3)
+**Released:** 2026-03-23 19:05:00
 
----
-
-## Planet Money
-
-### The skyscrapers that NIMBYs and zoning couldn't stop
-
-**Released:** 2026-03-28 01:59:58
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
-
----
-
-### Our BOOK vs. the global supply chain
-
-**Released:** 2026-03-26 00:26:04
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
 
 ---
 
@@ -205,16 +207,6 @@ Last updated: 2026-03-28 12:35:04
 **Released:** 2026-03-24 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d38f674d-2174-4b5a-bea2-b41600e5220f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Group Think
-
-**Released:** 2026-03-23 19:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4601a46f-ce1b-4ebb-8e48-4e0858603682/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4601a46f-ce1b-4ebb-8e48-4e0858603682&feed=kwWc0lhf)
 
 ---
 
@@ -264,13 +256,21 @@ Last updated: 2026-03-28 12:35:04
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+### Interrupto!
 
-**Released:** 2026-03-26 13:00:00
+**Released:** 2026-03-26 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
+
+---
+
+### Ken Burns
+
+**Released:** 2026-03-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
 
 ---
 
@@ -289,34 +289,6 @@ Last updated: 2026-03-28 12:35:04
 **Released:** 2026-03-24 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4917222476.mp3?updated=1774034306)
-
----
-
-## SmartLess 
-
-### "Maggie Gyllenhaal"
-
-**Released:** 2026-03-23 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Interrupto!
-
-**Released:** 2026-03-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
-
----
-
-### Ken Burns
-
-**Released:** 2026-03-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
 
 ---
 
@@ -343,6 +315,26 @@ Last updated: 2026-03-28 12:35:04
 **Released:** 2026-03-23 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Maggie Gyllenhaal"
+
+**Released:** 2026-03-23 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
