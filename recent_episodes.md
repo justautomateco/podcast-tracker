@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-30 01:45:43
+Last updated: 2026-03-30 12:58:09
 
 ## Serial
 
@@ -210,6 +210,16 @@ Last updated: 2026-03-30 01:45:43
 
 ---
 
+## Reply All
+
+### Big Lives: Emmanuel's New Show
+
+**Released:** 2026-03-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774548033)
+
+---
+
 ## 99% Invisible
 
 ### Constitution Breakdown #8: Jill Lepore
@@ -228,34 +238,6 @@ Last updated: 2026-03-30 01:45:43
 
 ---
 
-## How I Built This
-
-### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
-
-**Released:** 2026-03-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc2fd26c-9fb7-49f2-b64b-65853699e45a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Vital Farms: Matt O’Hayer. How a serial entrepreneur re-branded the egg
-
-**Released:** 2026-03-23 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ab8f37a-6adc-49bc-8bf7-8c479364a912.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
-
-**Released:** 2026-03-26 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Behind the Scenes with Andrew Jarecki
@@ -266,47 +248,21 @@ Last updated: 2026-03-30 01:45:43
 
 ---
 
-## Armchair Expert
+## How I Built This
 
-### Armchair Anonymous: Wild Card XII
+### diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
 
-**Released:** 2026-03-27 07:30:00
+**Released:** 2026-03-30 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Sussillo (on foster care and neuroscience)
-
-**Released:** 2026-03-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Nate Bargatze
+### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
 
-**Released:** 2026-03-23 07:30:00
+**Released:** 2026-03-26 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9228d1c-0128-40f0-abef-aa4bc19c9239.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Interrupto!
-
-**Released:** 2026-03-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
-
----
-
-### Ken Burns
-
-**Released:** 2026-03-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/73701be7-4046-401f-9c92-9964f6f3020e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=73701be7-4046-401f-9c92-9964f6f3020e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc2fd26c-9fb7-49f2-b64b-65853699e45a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -328,13 +284,67 @@ Last updated: 2026-03-30 01:45:43
 
 ---
 
+## Armchair Expert
+
+### Ike Barinholtz #4
+
+**Released:** 2026-03-30 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card XII
+
+**Released:** 2026-03-27 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### David Sussillo (on foster care and neuroscience)
+
+**Released:** 2026-03-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
-### "Maggie Gyllenhaal"
+### "Elle Fanning"
 
-**Released:** 2026-03-23 07:01:00
+**Released:** 2026-03-30 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cbcac25e-70ee-420d-8c03-03e7751308ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cbcac25e-70ee-420d-8c03-03e7751308ea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Arsenio Hall
+
+**Released:** 2026-03-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH)
+
+---
+
+### Interrupto!
+
+**Released:** 2026-03-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
