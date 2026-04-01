@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-03-31 12:56:44
+Last updated: 2026-04-01 01:49:51
+
+## Freakonomics Radio
+
+### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
+
+**Released:** 2026-03-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -44,25 +54,15 @@ Last updated: 2026-03-31 12:56:44
 
 ---
 
-## Freakonomics Radio
-
-### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
-
-**Released:** 2026-03-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
-
----
-
-### In a Driverless World, Who Loses and Who Wins?
-
-**Released:** 2026-03-25 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d34e48f5-92c9-4d87-8a11-915a8650553b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d34e48f5-92c9-4d87-8a11-915a8650553b&feed=Y8lFbOT4)
-
----
-
 ## TED Talks Daily
+
+### Why I must come out | Geena Rocero (re-release)
+
+**Released:** 2026-03-31 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbde2dbfb99db0bc5f0dee/media.mp3)
+
+---
 
 ### Stress resets, the ultimate mental health hack | Jenny Taitz
 
@@ -96,14 +96,6 @@ Last updated: 2026-03-31 12:56:44
 
 ---
 
-### The magical, mesmerizing migration of monarch butterflies | Jaime Rojo (re-release)
-
-**Released:** 2026-03-26 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc2163bbfcfe8db8a8ace/media.mp3)
-
----
-
 ## This American Life
 
 ### 884: The Idiot
@@ -114,7 +106,33 @@ Last updated: 2026-03-31 12:56:44
 
 ---
 
+## Planet Money
+
+### The skyscrapers that NIMBYs and zoning couldn't stop
+
+**Released:** 2026-03-28 01:59:58
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
+
+---
+
+### Our BOOK vs. the global supply chain
+
+**Released:** 2026-03-26 00:26:04
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2476 - Shanna H. Swan
+
+**Released:** 2026-03-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365)
+
+---
 
 ### #2475 - Andrew Jarecki
 
@@ -140,29 +158,41 @@ Last updated: 2026-03-31 12:56:44
 
 ---
 
-### #2472 - Jeff Ross
+## Hidden Brain
 
-**Released:** 2026-03-24 17:00:00
+### When It's Okay to Lie
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8163402388.mp3?updated=1774371076)
+**Released:** 2026-03-30 19:00:00
 
----
-
-## Planet Money
-
-### The skyscrapers that NIMBYs and zoning couldn't stop
-
-**Released:** 2026-03-28 01:59:58
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/80c2265f-896e-4300-ae55-1c71c78ca255/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=80c2265f-896e-4300-ae55-1c71c78ca255&feed=kwWc0lhf)
 
 ---
 
-### Our BOOK vs. the global supply chain
+## 99% Invisible
 
-**Released:** 2026-03-26 00:26:04
+### Service Request #3: Why Is There So Much Litter in San Francisco?
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+**Released:** 2026-03-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #8: Jill Lepore
+
+**Released:** 2026-03-27 21:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
+
+---
+
+## Reply All
+
+### Big Lives: Emmanuel's New Show
+
+**Released:** 2026-03-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
 
 ---
 
@@ -200,44 +230,6 @@ Last updated: 2026-03-31 12:56:44
 
 ---
 
-## Reply All
-
-### Big Lives: Emmanuel's New Show
-
-**Released:** 2026-03-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
-
----
-
-## Hidden Brain
-
-### When It's Okay to Lie
-
-**Released:** 2026-03-30 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/80c2265f-896e-4300-ae55-1c71c78ca255/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=80c2265f-896e-4300-ae55-1c71c78ca255&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #8: Jill Lepore
-
-**Released:** 2026-03-27 21:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
@@ -263,16 +255,6 @@ Last updated: 2026-03-31 12:56:44
 **Released:** 2026-03-26 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
-
-**Released:** 2026-03-26 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -345,6 +327,16 @@ Last updated: 2026-03-31 12:56:44
 **Released:** 2026-03-25 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
