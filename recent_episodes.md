@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-01 01:49:51
-
-## Freakonomics Radio
-
-### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
-
-**Released:** 2026-03-27 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
-
----
+Last updated: 2026-04-01 12:58:48
 
 ## Serial
 
@@ -54,6 +44,26 @@ Last updated: 2026-04-01 01:49:51
 
 ---
 
+## Freakonomics Radio
+
+### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
+
+**Released:** 2026-03-27 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 884: The Idiot
+
+**Released:** 2026-03-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
+
+---
+
 ## TED Talks Daily
 
 ### Why I must come out | Geena Rocero (re-release)
@@ -93,16 +103,6 @@ Last updated: 2026-04-01 01:49:51
 **Released:** 2026-03-27 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc80b007cdcf83fed894c/media.mp3)
-
----
-
-## This American Life
-
-### 884: The Idiot
-
-**Released:** 2026-03-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
 
 ---
 
@@ -168,35 +168,15 @@ Last updated: 2026-04-01 01:49:51
 
 ---
 
-## 99% Invisible
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #8: Jill Lepore
-
-**Released:** 2026-03-27 21:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
-
----
-
-## Reply All
-
-### Big Lives: Emmanuel's New Show
-
-**Released:** 2026-03-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: Simple Spelling Movement
+
+**Released:** 2026-04-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0733ae2f-0940-400b-be78-b41a00c0a793/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Middle Class: Canary in the Gold Mine
 
@@ -222,11 +202,31 @@ Last updated: 2026-04-01 01:49:51
 
 ---
 
-### Short Stuff: Kentucky Meat Shower
+## Reply All
 
-**Released:** 2026-03-25 09:00:00
+### Big Lives: Emmanuel's New Show
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9bdc11e-8ffa-4981-8db4-b4170144dbc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-03-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
+
+---
+
+## 99% Invisible
+
+### Service Request #3: Why Is There So Much Litter in San Francisco?
+
+**Released:** 2026-03-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #8: Jill Lepore
+
+**Released:** 2026-03-27 21:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
 
 ---
 
@@ -306,6 +306,14 @@ Last updated: 2026-04-01 01:49:51
 
 ## Armchair Expert
 
+### Michael Pollan Returns (on consciousness)
+
+**Released:** 2026-04-01 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Ike Barinholtz #4
 
 **Released:** 2026-03-30 07:30:00
@@ -319,14 +327,6 @@ Last updated: 2026-04-01 01:49:51
 **Released:** 2026-03-27 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### David Sussillo (on foster care and neuroscience)
-
-**Released:** 2026-03-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

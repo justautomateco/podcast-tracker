@@ -1,12 +1,5 @@
 [
   {
-    "guid": "6019a4bb-8fb9-400d-b966-143fec0517b8",
-    "episode_title": "668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?",
-    "release_date": "2026-03-27 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "e760c004-36a9-476a-a18e-cd3c2f2fee41",
     "episode_title": "The Idiot - Chapter 5",
     "release_date": "2026-03-26 02:05:00",
@@ -42,6 +35,20 @@
     "podcast_name": "Serial"
   },
   {
+    "guid": "6019a4bb-8fb9-400d-b966-143fec0517b8",
+    "episode_title": "668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?",
+    "release_date": "2026-03-27 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46125 at https://www.thisamericanlife.org",
+    "episode_title": "884: The Idiot",
+    "release_date": "2026-03-29 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "69cbde2dbfb99db0bc5f0dee",
     "episode_title": "Why I must come out | Geena Rocero (re-release)",
     "release_date": "2026-03-31 15:00:00",
@@ -75,13 +82,6 @@
     "release_date": "2026-03-27 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc80b007cdcf83fed894c/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46125 at https://www.thisamericanlife.org",
-    "episode_title": "884: The Idiot",
-    "release_date": "2026-03-29 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "1689a44a-a66a-4008-aabd-7e745227f152",
@@ -133,25 +133,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
-    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
-    "release_date": "2026-03-31 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "eb14c23b-a278-4a62-b2c8-f0690821ed0f",
-    "episode_title": "Constitution Breakdown #8: Jill Lepore",
-    "release_date": "2026-03-27 21:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "acfe34f0-2887-11f1-b030-632bf23c4dd3",
-    "episode_title": "Big Lives: Emmanuel's New Show",
-    "release_date": "2026-03-30 07:00:00",
-    "mp3_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694",
-    "podcast_name": "Reply All"
+    "guid": "0733ae2f-0940-400b-be78-b41a00c0a793",
+    "episode_title": "Short Stuff: Simple Spelling Movement",
+    "release_date": "2026-04-01 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0733ae2f-0940-400b-be78-b41a00c0a793/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "2f800db3-c6cc-4d4b-82de-b419012b8f5a",
@@ -175,11 +161,25 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "d9bdc11e-8ffa-4981-8db4-b4170144dbc8",
-    "episode_title": "Short Stuff: Kentucky Meat Shower",
-    "release_date": "2026-03-25 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9bdc11e-8ffa-4981-8db4-b4170144dbc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "acfe34f0-2887-11f1-b030-632bf23c4dd3",
+    "episode_title": "Big Lives: Emmanuel's New Show",
+    "release_date": "2026-03-30 07:00:00",
+    "mp3_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694",
+    "podcast_name": "Reply All"
+  },
+  {
+    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
+    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
+    "release_date": "2026-03-31 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "eb14c23b-a278-4a62-b2c8-f0690821ed0f",
+    "episode_title": "Constitution Breakdown #8: Jill Lepore",
+    "release_date": "2026-03-27 21:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/5_IUpvgg4zLcO59F6c3SktNzsK4nGBPucuW0SB6dHR4",
@@ -238,6 +238,13 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "gid://art19-episode-locator/V0/o_XTr6PmpvMWjcALz-ezhr9aFghoHBxrsRicziS0C-Y",
+    "episode_title": "Michael Pollan Returns (on consciousness)",
+    "release_date": "2026-04-01 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/vU5Kug4Kvo82tWenQaCPEeUnKh8FDJ4LdCzkzZWNhN0",
     "episode_title": "Ike Barinholtz #4",
     "release_date": "2026-03-30 07:30:00",
@@ -249,13 +256,6 @@
     "episode_title": "Armchair Anonymous: Wild Card XII",
     "release_date": "2026-03-27 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Sp73Yu7QFVmq6XkJ8xxfY9ardzK-PC8HUC7eq-x8exA",
-    "episode_title": "David Sussillo (on foster care and neuroscience)",
-    "release_date": "2026-03-25 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/ecf7d7ec-18c0-493b-b31f-c7097e1592ef.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   },
   {
