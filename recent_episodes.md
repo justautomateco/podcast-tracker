@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-01 12:58:48
+Last updated: 2026-04-02 01:25:51
 
 ## Serial
 
@@ -66,6 +66,14 @@ Last updated: 2026-04-01 12:58:48
 
 ## TED Talks Daily
 
+### 5 practical ways to take control of your life | Jim VandeHei
+
+**Released:** 2026-04-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe072e8519e977f5d5185/media.mp3)
+
+---
+
 ### Why I must come out | Geena Rocero (re-release)
 
 **Released:** 2026-03-31 15:00:00
@@ -98,14 +106,6 @@ Last updated: 2026-04-01 12:58:48
 
 ---
 
-### Why the world is still not built for women | Virginia Santy
-
-**Released:** 2026-03-27 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc80b007cdcf83fed894c/media.mp3)
-
----
-
 ## Planet Money
 
 ### The skyscrapers that NIMBYs and zoning couldn't stop
@@ -116,15 +116,15 @@ Last updated: 2026-04-01 12:58:48
 
 ---
 
-### Our BOOK vs. the global supply chain
+## The Joe Rogan Experience
 
-**Released:** 2026-03-26 00:26:04
+### #2477 - Rick Perry & W. Bryan Hubbard
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+**Released:** 2026-04-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2476 - Shanna H. Swan
 
@@ -147,14 +147,6 @@ Last updated: 2026-04-01 12:58:48
 **Released:** 2026-03-26 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1007510483.mp3?updated=1774544978)
-
----
-
-### #2473 - Bill Thompson
-
-**Released:** 2026-03-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1444847354.mp3?updated=1774457242)
 
 ---
 
@@ -248,6 +240,16 @@ Last updated: 2026-04-01 12:58:48
 
 ---
 
+## The Tim Ferriss Show
+
+### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
+
+**Released:** 2026-03-26 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Behind the Scenes with Andrew Jarecki
@@ -276,6 +278,16 @@ Last updated: 2026-04-01 12:58:48
 
 ---
 
+## SmartLess 
+
+### "Elle Fanning"
+
+**Released:** 2026-03-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Arsenio Hall
@@ -291,16 +303,6 @@ Last updated: 2026-04-01 12:58:48
 **Released:** 2026-03-26 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Elle Fanning"
-
-**Released:** 2026-03-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
 
 ---
 
@@ -327,16 +329,6 @@ Last updated: 2026-04-01 12:58:48
 **Released:** 2026-03-27 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #859: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More
-
-**Released:** 2026-03-26 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

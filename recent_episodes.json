@@ -49,6 +49,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "69cbe072e8519e977f5d5185",
+    "episode_title": "5 practical ways to take control of your life | Jim VandeHei",
+    "release_date": "2026-04-01 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe072e8519e977f5d5185/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69cbde2dbfb99db0bc5f0dee",
     "episode_title": "Why I must come out | Geena Rocero (re-release)",
     "release_date": "2026-03-31 15:00:00",
@@ -77,13 +84,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69bdc80b007cdcf83fed894c",
-    "episode_title": "Why the world is still not built for women | Virginia Santy",
-    "release_date": "2026-03-27 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc80b007cdcf83fed894c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "1689a44a-a66a-4008-aabd-7e745227f152",
     "episode_title": "The skyscrapers that NIMBYs and zoning couldn't stop",
     "release_date": "2026-03-28 01:59:58",
@@ -91,11 +91,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "f6be2d45-7151-4edc-a6dc-2e0c08785835",
-    "episode_title": "Our BOOK vs. the global supply chain",
-    "release_date": "2026-03-26 00:26:04",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905",
-    "podcast_name": "Planet Money"
+    "guid": "94e8eeac-2d67-11f1-b04f-73a1aba27057",
+    "episode_title": "#2477 - Rick Perry & W. Bryan Hubbard",
+    "release_date": "2026-04-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "05def176-2cb2-11f1-b9ba-ef6387fb594d",
@@ -116,13 +116,6 @@
     "episode_title": "#2474 - Dave Smith",
     "release_date": "2026-03-26 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT1007510483.mp3?updated=1774544978",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "22742724-27ef-11f1-a5f7-afcbbd59e1a3",
-    "episode_title": "#2473 - Bill Thompson",
-    "release_date": "2026-03-25 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1444847354.mp3?updated=1774457242",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -196,6 +189,13 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/NIRZ9cZaFJTyUZO00RIf8ggYR5fil6wHu0MZ-3jseRo",
+    "episode_title": "#859: Q&A with Tim \u2014 The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More",
+    "release_date": "2026-03-26 13:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "28f6aead-6bf9-4d79-9fed-b4180143bbd2",
     "episode_title": "Behind the Scenes with Andrew Jarecki",
     "release_date": "2026-03-26 04:01:00",
@@ -217,6 +217,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "6b996a92-caf9-43d6-a0ca-981e0f7a3b9a",
+    "episode_title": "\"Elle Fanning\"",
+    "release_date": "2026-03-30 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "0bf6a05f-9b5c-46b9-ac91-04260808a16d",
     "episode_title": "Arsenio Hall",
     "release_date": "2026-03-30 04:05:00",
@@ -229,13 +236,6 @@
     "release_date": "2026-03-26 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "6b996a92-caf9-43d6-a0ca-981e0f7a3b9a",
-    "episode_title": "\"Elle Fanning\"",
-    "release_date": "2026-03-30 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/o_XTr6PmpvMWjcALz-ezhr9aFghoHBxrsRicziS0C-Y",
@@ -257,12 +257,5 @@
     "release_date": "2026-03-27 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/NIRZ9cZaFJTyUZO00RIf8ggYR5fil6wHu0MZ-3jseRo",
-    "episode_title": "#859: Q&A with Tim \u2014 The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More",
-    "release_date": "2026-03-26 13:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/0faa3224-9c73-4a68-b6ac-0e4aed23ced8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
