@@ -1,48 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-02 01:25:51
-
-## Serial
-
-### The Idiot - Chapter 5
-
-**Released:** 2026-03-26 02:05:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/072b37f5-903d-4b6f-9a8f-d5fb73c10d66/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=072b37f5-903d-4b6f-9a8f-d5fb73c10d66&feed=PpzWFGhg)
-
----
-
-### The Idiot - Chapter 4
-
-**Released:** 2026-03-26 02:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/34068800-3de6-4215-b130-71488aa396b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=34068800-3de6-4215-b130-71488aa396b2&feed=PpzWFGhg)
-
----
-
-### The Idiot - Chapter 3
-
-**Released:** 2026-03-26 01:55:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/f9e5957a-d479-49ec-9b45-041145325987/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=f9e5957a-d479-49ec-9b45-041145325987&feed=PpzWFGhg)
-
----
-
-### The Idiot - Chapter 2
-
-**Released:** 2026-03-26 01:50:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/acf8f76e-2908-4abc-81a6-d41bbca45a23/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=acf8f76e-2908-4abc-81a6-d41bbca45a23&feed=PpzWFGhg)
-
----
-
-### The Idiot - Chapter 1
-
-**Released:** 2026-03-26 01:45:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/8ae43bfe-4ffd-40ef-a827-c2c15ae49db5/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=8ae43bfe-4ffd-40ef-a827-c2c15ae49db5&feed=PpzWFGhg)
-
----
+Last updated: 2026-04-02 12:52:54
 
 ## Freakonomics Radio
 
@@ -108,6 +66,14 @@ Last updated: 2026-04-02 01:25:51
 
 ## Planet Money
 
+### Dark times for Cuba’s economic experiment
+
+**Released:** 2026-04-02 02:51:50
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
+
+---
+
 ### The skyscrapers that NIMBYs and zoning couldn't stop
 
 **Released:** 2026-03-28 01:59:58
@@ -160,7 +126,33 @@ Last updated: 2026-04-02 01:25:51
 
 ---
 
+## 99% Invisible
+
+### Service Request #3: Why Is There So Much Litter in San Francisco?
+
+**Released:** 2026-03-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #8: Jill Lepore
+
+**Released:** 2026-03-27 21:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### The Colorado River Compact
+
+**Released:** 2026-04-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4925df4b-12a7-4e30-972d-b41d0115cbad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Simple Spelling Movement
 
@@ -186,14 +178,6 @@ Last updated: 2026-04-02 01:25:51
 
 ---
 
-### Malcom X
-
-**Released:** 2026-03-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a3148e6-2dad-457f-a7bd-b4180184e342/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Reply All
 
 ### Big Lives: Emmanuel's New Show
@@ -201,42 +185,6 @@ Last updated: 2026-04-02 01:25:51
 **Released:** 2026-03-30 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
-
----
-
-## 99% Invisible
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #8: Jill Lepore
-
-**Released:** 2026-03-27 21:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
-
-**Released:** 2026-03-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Marcia Kilgore of Beauty Pie (June 2025)
-
-**Released:** 2026-03-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc2fd26c-9fb7-49f2-b64b-65853699e45a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -250,13 +198,21 @@ Last updated: 2026-04-02 01:25:51
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### Behind the Scenes with Andrew Jarecki
+### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
 
-**Released:** 2026-03-26 04:01:00
+**Released:** 2026-04-02 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
+
+**Released:** 2026-03-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -290,19 +246,19 @@ Last updated: 2026-04-02 01:25:51
 
 ## Conan O'Brien Needs A Friend
 
+### Fanhausen Revisited
+
+**Released:** 2026-04-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
+
+---
+
 ### Arsenio Hall
 
 **Released:** 2026-03-30 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH)
-
----
-
-### Interrupto!
-
-**Released:** 2026-03-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH)
 
 ---
 

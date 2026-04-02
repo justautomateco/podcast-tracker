@@ -1,40 +1,5 @@
 [
   {
-    "guid": "e760c004-36a9-476a-a18e-cd3c2f2fee41",
-    "episode_title": "The Idiot - Chapter 5",
-    "release_date": "2026-03-26 02:05:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/072b37f5-903d-4b6f-9a8f-d5fb73c10d66/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=072b37f5-903d-4b6f-9a8f-d5fb73c10d66&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "759109fe-2ce7-4b90-82ee-562d712f1ea8",
-    "episode_title": "The Idiot - Chapter 4",
-    "release_date": "2026-03-26 02:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/34068800-3de6-4215-b130-71488aa396b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=34068800-3de6-4215-b130-71488aa396b2&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "c5dc52c7-59f8-40f1-b804-3975fc188c83",
-    "episode_title": "The Idiot - Chapter 3",
-    "release_date": "2026-03-26 01:55:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/f9e5957a-d479-49ec-9b45-041145325987/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=f9e5957a-d479-49ec-9b45-041145325987&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "e7bc59d8-0e61-4cd3-ab6d-bdab5393dc00",
-    "episode_title": "The Idiot - Chapter 2",
-    "release_date": "2026-03-26 01:50:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/acf8f76e-2908-4abc-81a6-d41bbca45a23/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=acf8f76e-2908-4abc-81a6-d41bbca45a23&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "bc72e444-723f-463e-aa3b-87e2ede00dd9",
-    "episode_title": "The Idiot - Chapter 1",
-    "release_date": "2026-03-26 01:45:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/8ae43bfe-4ffd-40ef-a827-c2c15ae49db5/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=8ae43bfe-4ffd-40ef-a827-c2c15ae49db5&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "6019a4bb-8fb9-400d-b966-143fec0517b8",
     "episode_title": "668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?",
     "release_date": "2026-03-27 10:00:00",
@@ -84,6 +49,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "da96fc88-0920-4aca-938c-7287124381fa",
+    "episode_title": "Dark times for Cuba\u2019s economic experiment",
+    "release_date": "2026-04-02 02:51:50",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "1689a44a-a66a-4008-aabd-7e745227f152",
     "episode_title": "The skyscrapers that NIMBYs and zoning couldn't stop",
     "release_date": "2026-03-28 01:59:58",
@@ -126,6 +98,27 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
+    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
+    "release_date": "2026-03-31 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "eb14c23b-a278-4a62-b2c8-f0690821ed0f",
+    "episode_title": "Constitution Breakdown #8: Jill Lepore",
+    "release_date": "2026-03-27 21:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "4925df4b-12a7-4e30-972d-b41d0115cbad",
+    "episode_title": "The Colorado River Compact",
+    "release_date": "2026-04-02 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4925df4b-12a7-4e30-972d-b41d0115cbad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "0733ae2f-0940-400b-be78-b41a00c0a793",
     "episode_title": "Short Stuff: Simple Spelling Movement",
     "release_date": "2026-04-01 09:00:00",
@@ -147,46 +140,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "4a3148e6-2dad-457f-a7bd-b4180184e342",
-    "episode_title": "Malcom X",
-    "release_date": "2026-03-26 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a3148e6-2dad-457f-a7bd-b4180184e342/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "acfe34f0-2887-11f1-b030-632bf23c4dd3",
     "episode_title": "Big Lives: Emmanuel's New Show",
     "release_date": "2026-03-30 07:00:00",
     "mp3_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694",
     "podcast_name": "Reply All"
-  },
-  {
-    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
-    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
-    "release_date": "2026-03-31 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "eb14c23b-a278-4a62-b2c8-f0690821ed0f",
-    "episode_title": "Constitution Breakdown #8: Jill Lepore",
-    "release_date": "2026-03-27 21:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5_IUpvgg4zLcO59F6c3SktNzsK4nGBPucuW0SB6dHR4",
-    "episode_title": "diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)",
-    "release_date": "2026-03-30 07:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/RJsccjRwv8yFWc5qz6q5NJlfFETM6dOT2AkxK-ohh0Q",
-    "episode_title": "Advice Line with Marcia Kilgore of Beauty Pie (June 2025)",
-    "release_date": "2026-03-26 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/fc2fd26c-9fb7-49f2-b64b-65853699e45a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/NIRZ9cZaFJTyUZO00RIf8ggYR5fil6wHu0MZ-3jseRo",
@@ -196,11 +154,18 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "28f6aead-6bf9-4d79-9fed-b4180143bbd2",
-    "episode_title": "Behind the Scenes with Andrew Jarecki",
-    "release_date": "2026-03-26 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/28f6aead-6bf9-4d79-9fed-b4180143bbd2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/Aj2Y0Fa02eUzpKBQ7A4-k2ESV4PaJK5IjOJGURT5b7s",
+    "episode_title": "Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP",
+    "release_date": "2026-04-02 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5_IUpvgg4zLcO59F6c3SktNzsK4nGBPucuW0SB6dHR4",
+    "episode_title": "diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)",
+    "release_date": "2026-03-30 07:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "6d330e88-89d4-11f0-b13f-c3730d385294",
@@ -224,17 +189,17 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "cbb4cd61-cfc9-44da-b2c1-c42f515f74c1",
+    "episode_title": "Fanhausen Revisited",
+    "release_date": "2026-04-02 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "0bf6a05f-9b5c-46b9-ac91-04260808a16d",
     "episode_title": "Arsenio Hall",
     "release_date": "2026-03-30 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "84b833a0-be8f-45f8-9e7d-5933f0265805",
-    "episode_title": "Interrupto!",
-    "release_date": "2026-03-26 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52d4744c-4ca0-4848-ab38-154fd33fe32b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52d4744c-4ca0-4848-ab38-154fd33fe32b&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
