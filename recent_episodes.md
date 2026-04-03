@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-03 01:27:15
+Last updated: 2026-04-03 12:42:52
 
 ## TED Talks Daily
 
@@ -46,29 +46,11 @@ Last updated: 2026-04-03 01:27:15
 
 ## Freakonomics Radio
 
-### 668. Do Taylor Swift and Bad Bunny Have Blood on Their Hands?
+### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
 
-**Released:** 2026-03-27 10:00:00
+**Released:** 2026-04-03 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/265969ab-5787-4d9a-a93a-222c4729a114/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=265969ab-5787-4d9a-a93a-222c4729a114&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Dark times for Cuba’s economic experiment
-
-**Released:** 2026-04-02 02:51:50
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
-
----
-
-### The skyscrapers that NIMBYs and zoning couldn't stop
-
-**Released:** 2026-03-28 01:59:58
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
 
 ---
 
@@ -113,6 +95,24 @@ Last updated: 2026-04-03 01:27:15
 **Released:** 2026-03-27 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147)
+
+---
+
+## Planet Money
+
+### Dark times for Cuba’s economic experiment
+
+**Released:** 2026-04-02 02:51:50
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
+
+---
+
+### The skyscrapers that NIMBYs and zoning couldn't stop
+
+**Released:** 2026-03-28 01:59:58
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341)
 
 ---
 
@@ -172,6 +172,14 @@ Last updated: 2026-04-03 01:27:15
 
 ## 99% Invisible
 
+### Service Request #4: How Does the Grid in Phoenix Work?
+
+**Released:** 2026-04-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
+
+---
+
 ### Service Request #3: Why Is There So Much Litter in San Francisco?
 
 **Released:** 2026-03-31 09:00:00
@@ -206,6 +214,34 @@ Last updated: 2026-04-03 01:27:15
 
 ---
 
+## The Moth
+
+### American Dreams: Home - The Moth Podcast
+
+**Released:** 2026-04-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
+
+---
+
+### When the World Shifts: The Moth Radio Hour
+
+**Released:** 2026-03-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2723509864.mp3?updated=1774548529)
+
+---
+
+## SmartLess 
+
+### "Elle Fanning"
+
+**Released:** 2026-03-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Fanhausen Revisited
@@ -224,35 +260,15 @@ Last updated: 2026-04-03 01:27:15
 
 ---
 
-## The Moth
-
-### When the World Shifts: The Moth Radio Hour
-
-**Released:** 2026-03-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2723509864.mp3?updated=1774548529)
-
----
-
-### Shortcuts: The Moth Podcast
-
-**Released:** 2026-03-27 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7059994513.mp3?updated=1773409307)
-
----
-
-## SmartLess 
-
-### "Elle Fanning"
-
-**Released:** 2026-03-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Spring Break
+
+**Released:** 2026-04-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Michael Pollan Returns (on consciousness)
 
@@ -267,14 +283,6 @@ Last updated: 2026-04-03 01:27:15
 **Released:** 2026-03-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Wild Card XII
-
-**Released:** 2026-03-27 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1a8846b3-1bfc-4031-a8df-7db37ef35be0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
