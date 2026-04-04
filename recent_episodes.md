@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-03 12:42:52
+Last updated: 2026-04-04 01:21:46
+
+## Freakonomics Radio
+
+### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
+
+**Released:** 2026-04-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How I imitate nature's voices | Snow Raven (re-release)
+
+**Released:** 2026-04-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe0fa92d007a76577a379/media.mp3)
+
+---
 
 ### I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios
 
@@ -36,68 +54,6 @@ Last updated: 2026-04-03 12:42:52
 
 ---
 
-### Sunday Pick: Unsolicited Advice: How to handle layoffs with care | from Fixable
-
-**Released:** 2026-03-29 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69c19d671861d127d5cbb512/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
-
-**Released:** 2026-04-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 884: The Idiot
-
-**Released:** 2026-03-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
-
----
-
-## The Joe Rogan Experience
-
-### #2478 - Theo Von
-
-**Released:** 2026-04-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775153870)
-
----
-
-### #2477 - Rick Perry & W. Bryan Hubbard
-
-**Released:** 2026-04-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956)
-
----
-
-### #2476 - Shanna H. Swan
-
-**Released:** 2026-03-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365)
-
----
-
-### #2475 - Andrew Jarecki
-
-**Released:** 2026-03-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9824471460.mp3?updated=1774631147)
-
----
-
 ## Planet Money
 
 ### Dark times for Cuba’s economic experiment
@@ -116,6 +72,16 @@ Last updated: 2026-04-03 12:42:52
 
 ---
 
+## This American Life
+
+### 884: The Idiot
+
+**Released:** 2026-03-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
+
+---
+
 ## Hidden Brain
 
 ### When It's Okay to Lie
@@ -123,6 +89,58 @@ Last updated: 2026-04-03 12:42:52
 **Released:** 2026-03-30 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/80c2265f-896e-4300-ae55-1c71c78ca255/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=80c2265f-896e-4300-ae55-1c71c78ca255&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Service Request #4: How Does the Grid in Phoenix Work?
+
+**Released:** 2026-04-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
+
+---
+
+### Service Request #3: Why Is There So Much Litter in San Francisco?
+
+**Released:** 2026-03-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2479 - Bob Lazar & Luigi Vendittelli
+
+**Released:** 2026-04-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793)
+
+---
+
+### #2478 - Theo Von
+
+**Released:** 2026-04-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775235417)
+
+---
+
+### #2477 - Rick Perry & W. Bryan Hubbard
+
+**Released:** 2026-04-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956)
+
+---
+
+### #2476 - Shanna H. Swan
+
+**Released:** 2026-03-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365)
 
 ---
 
@@ -170,32 +188,6 @@ Last updated: 2026-04-03 12:42:52
 
 ---
 
-## 99% Invisible
-
-### Service Request #4: How Does the Grid in Phoenix Work?
-
-**Released:** 2026-04-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
-
----
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #8: Jill Lepore
-
-**Released:** 2026-03-27 21:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/db3d0b74-dcf0-43d6-acce-a640fc956039/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=db3d0b74-dcf0-43d6-acce-a640fc956039&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
@@ -214,34 +206,6 @@ Last updated: 2026-04-03 12:42:52
 
 ---
 
-## The Moth
-
-### American Dreams: Home - The Moth Podcast
-
-**Released:** 2026-04-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
-
----
-
-### When the World Shifts: The Moth Radio Hour
-
-**Released:** 2026-03-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2723509864.mp3?updated=1774548529)
-
----
-
-## SmartLess 
-
-### "Elle Fanning"
-
-**Released:** 2026-03-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Fanhausen Revisited
@@ -257,6 +221,24 @@ Last updated: 2026-04-03 12:42:52
 **Released:** 2026-03-30 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### American Dreams: Home - The Moth Podcast
+
+**Released:** 2026-04-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
+
+---
+
+### When the World Shifts: The Moth Radio Hour
+
+**Released:** 2026-03-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2723509864.mp3?updated=1774548529)
 
 ---
 
@@ -283,6 +265,16 @@ Last updated: 2026-04-03 12:42:52
 **Released:** 2026-03-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Elle Fanning"
+
+**Released:** 2026-03-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
 
 ---
 
