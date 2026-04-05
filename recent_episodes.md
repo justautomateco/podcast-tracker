@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-05 01:44:46
+Last updated: 2026-04-05 12:37:55
+
+## Freakonomics Radio
+
+### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
+
+**Released:** 2026-04-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 884: The Idiot
+
+**Released:** 2026-03-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
+
+---
 
 ## TED Talks Daily
+
+### Sunday Pick: What to do when your beliefs are challenged (w/ Tenelle Porter) | from How to Be a Better Human
+
+**Released:** 2026-04-05 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cfd5e11d7024f1a73d7c63/media.mp3)
+
+---
 
 ### Where joy hides and how to find it | Ingrid Fetell Lee (re-release)
 
@@ -33,52 +61,6 @@ Last updated: 2026-04-05 01:44:46
 **Released:** 2026-04-01 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe072e8519e977f5d5185/media.mp3)
-
----
-
-### Why I must come out | Geena Rocero (re-release)
-
-**Released:** 2026-03-31 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbde2dbfb99db0bc5f0dee/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
-
-**Released:** 2026-04-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 884: The Idiot
-
-**Released:** 2026-03-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
-
----
-
-## Planet Money
-
-### Reese’s heir vs. chocolate skimpflation
-
-**Released:** 2026-04-04 02:24:15
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
-
----
-
-### Dark times for Cuba’s economic experiment
-
-**Released:** 2026-04-02 02:51:50
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
 
 ---
 
@@ -123,6 +105,24 @@ Last updated: 2026-04-05 01:44:46
 **Released:** 2026-03-30 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/80c2265f-896e-4300-ae55-1c71c78ca255/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=80c2265f-896e-4300-ae55-1c71c78ca255&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### Reese’s heir vs. chocolate skimpflation
+
+**Released:** 2026-04-04 02:24:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
+
+---
+
+### Dark times for Cuba’s economic experiment
+
+**Released:** 2026-04-02 02:51:50
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
 
 ---
 
@@ -206,6 +206,32 @@ Last updated: 2026-04-05 01:44:46
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Spring Break
+
+**Released:** 2026-04-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Michael Pollan Returns (on consciousness)
+
+**Released:** 2026-04-01 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ike Barinholtz #4
+
+**Released:** 2026-03-30 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### American Dreams: Home - The Moth Podcast
@@ -239,32 +265,6 @@ Last updated: 2026-04-05 01:44:46
 **Released:** 2026-03-30 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Spring Break
-
-**Released:** 2026-04-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Michael Pollan Returns (on consciousness)
-
-**Released:** 2026-04-01 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ike Barinholtz #4
-
-**Released:** 2026-03-30 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
