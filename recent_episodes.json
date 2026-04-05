@@ -1,5 +1,12 @@
 [
   {
+    "guid": "69cbe1d5e8519e977f5e3d4a",
+    "episode_title": "Where joy hides and how to find it | Ingrid Fetell Lee (re-release)",
+    "release_date": "2026-04-04 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe1d5e8519e977f5e3d4a/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69cbe0fa92d007a76577a379",
     "episode_title": "How I imitate nature's voices | Snow Raven (re-release)",
     "release_date": "2026-04-03 15:00:00",
@@ -25,13 +32,6 @@
     "episode_title": "Why I must come out | Geena Rocero (re-release)",
     "release_date": "2026-03-31 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbde2dbfb99db0bc5f0dee/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "69ca8d77e44b28321e44cb48",
-    "episode_title": "Stress resets, the ultimate mental health hack | Jenny Taitz",
-    "release_date": "2026-03-30 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ca8d77e44b28321e44cb48/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -98,20 +98,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "a416e5e8-1aff-44d0-9490-34479936218c",
-    "episode_title": "Service Request #4: How Does the Grid in Phoenix Work?",
-    "release_date": "2026-04-03 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
-    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
-    "release_date": "2026-03-31 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "62e06b83-685e-47fb-ab42-b42001040745",
     "episode_title": "Selects: The Skinny on Lyme Disease",
     "release_date": "2026-04-04 09:00:00",
@@ -145,6 +131,20 @@
     "release_date": "2026-03-30 07:00:00",
     "mp3_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694",
     "podcast_name": "Reply All"
+  },
+  {
+    "guid": "a416e5e8-1aff-44d0-9490-34479936218c",
+    "episode_title": "Service Request #4: How Does the Grid in Phoenix Work?",
+    "release_date": "2026-04-03 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "e416d508-51ac-4fe9-a2f2-f4e398302f71",
+    "episode_title": "Service Request #3: Why Is There So Much Litter in San Francisco?",
+    "release_date": "2026-03-31 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Aj2Y0Fa02eUzpKBQ7A4-k2ESV4PaJK5IjOJGURT5b7s",
@@ -189,13 +189,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "6b996a92-caf9-43d6-a0ca-981e0f7a3b9a",
-    "episode_title": "\"Elle Fanning\"",
-    "release_date": "2026-03-30 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/H_Wy-Cn_84WkpK7pH1xnP562wARaIUrHB1TmL9WVIXQ",
     "episode_title": "Armchair Anonymous: Spring Break",
     "release_date": "2026-04-03 07:30:00",
@@ -215,5 +208,12 @@
     "release_date": "2026-03-30 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "6b996a92-caf9-43d6-a0ca-981e0f7a3b9a",
+    "episode_title": "\"Elle Fanning\"",
+    "release_date": "2026-03-30 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

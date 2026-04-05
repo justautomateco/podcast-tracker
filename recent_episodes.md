@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-04 12:35:39
+Last updated: 2026-04-05 01:44:46
 
 ## TED Talks Daily
+
+### Where joy hides and how to find it | Ingrid Fetell Lee (re-release)
+
+**Released:** 2026-04-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe1d5e8519e977f5e3d4a/media.mp3)
+
+---
 
 ### How I imitate nature's voices | Snow Raven (re-release)
 
@@ -33,14 +41,6 @@ Last updated: 2026-04-04 12:35:39
 **Released:** 2026-03-31 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbde2dbfb99db0bc5f0dee/media.mp3)
-
----
-
-### Stress resets, the ultimate mental health hack | Jenny Taitz
-
-**Released:** 2026-03-30 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ca8d77e44b28321e44cb48/media.mp3)
 
 ---
 
@@ -126,24 +126,6 @@ Last updated: 2026-04-04 12:35:39
 
 ---
 
-## 99% Invisible
-
-### Service Request #4: How Does the Grid in Phoenix Work?
-
-**Released:** 2026-04-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
-
----
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: The Skinny on Lyme Disease
@@ -185,6 +167,24 @@ Last updated: 2026-04-04 12:35:39
 **Released:** 2026-03-30 07:00:00
 
 **Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
+
+---
+
+## 99% Invisible
+
+### Service Request #4: How Does the Grid in Phoenix Work?
+
+**Released:** 2026-04-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
+
+---
+
+### Service Request #3: Why Is There So Much Litter in San Francisco?
+
+**Released:** 2026-03-31 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
 
 ---
 
@@ -242,16 +242,6 @@ Last updated: 2026-04-04 12:35:39
 
 ---
 
-## SmartLess 
-
-### "Elle Fanning"
-
-**Released:** 2026-03-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Spring Break
@@ -275,6 +265,16 @@ Last updated: 2026-04-04 12:35:39
 **Released:** 2026-03-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Elle Fanning"
+
+**Released:** 2026-03-30 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
 
 ---
 
