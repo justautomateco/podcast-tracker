@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-06 01:45:52
+Last updated: 2026-04-06 12:51:27
 
 ## Freakonomics Radio
 
@@ -9,6 +9,34 @@ Last updated: 2026-04-06 01:45:52
 **Released:** 2026-04-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Reese’s heir vs. chocolate skimpflation
+
+**Released:** 2026-04-04 02:24:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
+
+---
+
+### Dark times for Cuba’s economic experiment
+
+**Released:** 2026-04-02 02:51:50
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
+
+---
+
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -51,16 +79,6 @@ Last updated: 2026-04-06 01:45:52
 **Released:** 2026-04-01 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe072e8519e977f5d5185/media.mp3)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -108,21 +126,21 @@ Last updated: 2026-04-06 01:45:52
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### Reese’s heir vs. chocolate skimpflation
+### Service Request #4: How Does the Grid in Phoenix Work?
 
-**Released:** 2026-04-04 02:24:15
+**Released:** 2026-04-03 09:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
 
 ---
 
-### Dark times for Cuba’s economic experiment
+### Service Request #3: Why Is There So Much Litter in San Francisco?
 
-**Released:** 2026-04-02 02:51:50
+**Released:** 2026-03-31 09:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
 
 ---
 
@@ -160,77 +178,21 @@ Last updated: 2026-04-06 01:45:52
 
 ---
 
-## Reply All
-
-### Big Lives: Emmanuel's New Show
-
-**Released:** 2026-03-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4653461142.mp3?updated=1774887694)
-
----
-
-## 99% Invisible
-
-### Service Request #4: How Does the Grid in Phoenix Work?
-
-**Released:** 2026-04-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
-
----
-
-### Service Request #3: Why Is There So Much Litter in San Francisco?
-
-**Released:** 2026-03-31 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d460512a-0412-4790-8b6d-36d88a824fd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d460512a-0412-4790-8b6d-36d88a824fd3&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### Wingstop: Antonio Swad. A Brilliant Idea — And a Nail-Biting Exit
+
+**Released:** 2026-04-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/133db8a1-2006-4a69-8b75-78ea186411e2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
 
 **Released:** 2026-04-02 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
-
-**Released:** 2026-03-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9fc0ae31-7724-40ac-a489-21ee3e158647.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Fanhausen Revisited
-
-**Released:** 2026-04-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
-
----
-
-### Arsenio Hall
-
-**Released:** 2026-03-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e16bace7-017b-4d09-a60b-dc4eb0cf26cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e16bace7-017b-4d09-a60b-dc4eb0cf26cf&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Elle Fanning"
-
-**Released:** 2026-03-30 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5323734a-a993-4610-b65e-8ac6afe86c5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5323734a-a993-4610-b65e-8ac6afe86c5c&feed=hNaFxXpO)
 
 ---
 
@@ -252,7 +214,43 @@ Last updated: 2026-04-06 01:45:52
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Elizabeth Banks Returns
+
+**Released:** 2026-04-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
+
+---
+
+### Fanhausen Revisited
+
+**Released:** 2026-04-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Stephen Colbert"
+
+**Released:** 2026-04-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
+
+### Nikki Glaser Returns
+
+**Released:** 2026-04-06 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Spring Break
 
@@ -267,14 +265,6 @@ Last updated: 2026-04-06 01:45:52
 **Released:** 2026-04-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ike Barinholtz #4
-
-**Released:** 2026-03-30 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e60485ae-979b-4dae-914f-2c8ec79fc201.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
