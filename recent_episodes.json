@@ -1,10 +1,31 @@
 [
   {
+    "guid": "cb574d62-1dd7-4871-9078-743de15a4381",
+    "episode_title": "Ten Myths About the U.S. Tax System (Update)",
+    "release_date": "2026-04-08 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "e5dc5efc-5340-4f53-9c0c-b50f784407aa",
     "episode_title": "669. Why Is 95 Percent of the World\u2019s Bourbon Made in Kentucky?",
     "release_date": "2026-04-03 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "37461 at https://www.thisamericanlife.org",
+    "episode_title": "212: The Other Man",
+    "release_date": "2026-04-05 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69d3cab907bc2cbfc7b2174e",
+    "episode_title": "The art and science of wine tasting | Qian Janice Wang",
+    "release_date": "2026-04-07 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d3cab907bc2cbfc7b2174e/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69d030dcf57702d2d99c9ca6",
@@ -33,20 +54,6 @@
     "release_date": "2026-04-03 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe0fa92d007a76577a379/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "69ce87c1ac25e4bf66166691",
-    "episode_title": "I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios",
-    "release_date": "2026-04-02 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ce87c1ac25e4bf66166691/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "37461 at https://www.thisamericanlife.org",
-    "episode_title": "212: The Other Man",
-    "release_date": "2026-04-05 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "e74f6070-692b-4be4-af83-4e2b3ddf34a0",
@@ -81,13 +88,6 @@
     "episode_title": "#2477 - Rick Perry & W. Bryan Hubbard",
     "release_date": "2026-04-01 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "05def176-2cb2-11f1-b9ba-ef6387fb594d",
-    "episode_title": "#2476 - Shanna H. Swan",
-    "release_date": "2026-03-31 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -152,6 +152,13 @@
     "release_date": "2026-04-02 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QJEiMoPw3FhKnfR7ujrx_13N3UBzgjkVse5ic7-3xMk",
+    "episode_title": "#860: Daredevil Michelle Khare \u2014 How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life",
+    "release_date": "2026-04-07 21:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "6dee0f12-89d4-11f0-b13f-f7091f80d9d9",

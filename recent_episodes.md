@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-07 13:00:53
+Last updated: 2026-04-08 01:29:35
 
 ## Freakonomics Radio
+
+### Ten Myths About the U.S. Tax System (Update)
+
+**Released:** 2026-04-08 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
+
+---
 
 ### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
 
@@ -12,7 +20,25 @@ Last updated: 2026-04-07 13:00:53
 
 ---
 
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
+
+---
+
 ## TED Talks Daily
+
+### The art and science of wine tasting | Qian Janice Wang
+
+**Released:** 2026-04-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d3cab907bc2cbfc7b2174e/media.mp3)
+
+---
 
 ### The nurse who can smell Parkinson’s | Joy Milne
 
@@ -43,24 +69,6 @@ Last updated: 2026-04-07 13:00:53
 **Released:** 2026-04-03 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe0fa92d007a76577a379/media.mp3)
-
----
-
-### I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios
-
-**Released:** 2026-04-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ce87c1ac25e4bf66166691/media.mp3)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -105,14 +113,6 @@ Last updated: 2026-04-07 13:00:53
 **Released:** 2026-04-01 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956)
-
----
-
-### #2476 - Shanna H. Swan
-
-**Released:** 2026-03-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4372299557.mp3?updated=1774975365)
 
 ---
 
@@ -193,6 +193,16 @@ Last updated: 2026-04-07 13:00:53
 **Released:** 2026-04-02 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
+
+**Released:** 2026-04-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
