@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-08 01:29:35
+Last updated: 2026-04-08 13:02:08
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-04-08 01:29:35
 **Released:** 2026-04-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -72,7 +62,25 @@ Last updated: 2026-04-08 01:29:35
 
 ---
 
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
+
+---
+
 ## Planet Money
+
+### A pro-worker experiment in private equity
+
+**Released:** 2026-04-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
+
+---
 
 ### Reese’s heir vs. chocolate skimpflation
 
@@ -144,7 +152,115 @@ Last updated: 2026-04-08 01:29:35
 
 ---
 
+## How I Built This
+
+### Wingstop: Antonio Swad. A Brilliant Idea — And a Nail-Biting Exit
+
+**Released:** 2026-04-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/133db8a1-2006-4a69-8b75-78ea186411e2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
+
+**Released:** 2026-04-02 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Cents and Sensibility: The Moth Radio Hour
+
+**Released:** 2026-04-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775423098)
+
+---
+
+### American Dreams: Home - The Moth Podcast
+
+**Released:** 2026-04-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
+
+---
+
+## The Tim Ferriss Show
+
+### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
+
+**Released:** 2026-04-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Stephen Colbert"
+
+**Released:** 2026-04-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Elizabeth Banks Returns
+
+**Released:** 2026-04-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
+
+---
+
+### Fanhausen Revisited
+
+**Released:** 2026-04-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Emily & Matt Hyland (Emily Burger)
+
+**Released:** 2026-04-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/42da0c73-640d-4cc5-8223-76655ce23ce2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Nikki Glaser Returns
+
+**Released:** 2026-04-06 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Spring Break
+
+**Released:** 2026-04-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: History of Spring Break
+
+**Released:** 2026-04-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619138a7-463e-4f23-adcb-b41a00c1138a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Roar: The Most Dangerous Movie Ever Made?
 
@@ -167,114 +283,6 @@ Last updated: 2026-04-08 01:29:35
 **Released:** 2026-04-02 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4925df4b-12a7-4e30-972d-b41d0115cbad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Simple Spelling Movement
-
-**Released:** 2026-04-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0733ae2f-0940-400b-be78-b41a00c0a793/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Wingstop: Antonio Swad. A Brilliant Idea — And a Nail-Biting Exit
-
-**Released:** 2026-04-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/133db8a1-2006-4a69-8b75-78ea186411e2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
-
-**Released:** 2026-04-02 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
-
-**Released:** 2026-04-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Cents and Sensibility: The Moth Radio Hour
-
-**Released:** 2026-04-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775423098)
-
----
-
-### American Dreams: Home - The Moth Podcast
-
-**Released:** 2026-04-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Elizabeth Banks Returns
-
-**Released:** 2026-04-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
-
----
-
-### Fanhausen Revisited
-
-**Released:** 2026-04-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Stephen Colbert"
-
-**Released:** 2026-04-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Nikki Glaser Returns
-
-**Released:** 2026-04-06 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Spring Break
-
-**Released:** 2026-04-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Michael Pollan Returns (on consciousness)
-
-**Released:** 2026-04-01 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99f979d4-99f3-4efa-a56d-38104945fa30.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
