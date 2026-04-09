@@ -14,6 +14,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37461 at https://www.thisamericanlife.org",
+    "episode_title": "212: The Other Man",
+    "release_date": "2026-04-05 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69d3cb1b07bc2cbfc7b2546b",
+    "episode_title": "The single most important parenting strategy | Becky Kennedy (re-release)",
+    "release_date": "2026-04-08 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d3cb1b07bc2cbfc7b2546b/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69d3cab907bc2cbfc7b2174e",
     "episode_title": "The art and science of wine tasting | Qian Janice Wang",
     "release_date": "2026-04-07 15:00:00",
@@ -42,20 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69cbe0fa92d007a76577a379",
-    "episode_title": "How I imitate nature's voices | Snow Raven (re-release)",
-    "release_date": "2026-04-03 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe0fa92d007a76577a379/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "37461 at https://www.thisamericanlife.org",
-    "episode_title": "212: The Other Man",
-    "release_date": "2026-04-05 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "f8f64ab2-a47e-47be-a04d-84fa79404e47",
     "episode_title": "A pro-worker experiment in private equity",
     "release_date": "2026-04-08 07:00:00",
@@ -77,6 +77,13 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "40c67136-32f4-11f1-8fff-17c75e7b3806",
+    "episode_title": "#2480 - Arsenio Hall",
+    "release_date": "2026-04-08 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "1ac15128-2f0b-11f1-8ec6-af2d607f733b",
     "episode_title": "#2479 - Bob Lazar & Luigi Vendittelli",
     "release_date": "2026-04-03 17:00:00",
@@ -89,20 +96,6 @@
     "release_date": "2026-04-02 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775235417",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "94e8eeac-2d67-11f1-b04f-73a1aba27057",
-    "episode_title": "#2477 - Rick Perry & W. Bryan Hubbard",
-    "release_date": "2026-04-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6198902078.mp3?updated=1775063956",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2d68b6d6-0aa3-4e93-a47d-397e530f6e73",
-    "episode_title": "The Debt Trap",
-    "release_date": "2026-04-06 19:53:52",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/96531e78-648a-4593-b7b2-a08b402364e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=96531e78-648a-4593-b7b2-a08b402364e3&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "1c7867fc-3b88-4e9f-a978-c6de6376f988",
@@ -119,81 +112,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/KQ9n-PAtn7DObc-MGBgL36MZCFDQJGsaX_f6Dy-Izzg",
-    "episode_title": "Wingstop: Antonio Swad. A Brilliant Idea \u2014 And a Nail-Biting Exit",
-    "release_date": "2026-04-06 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/133db8a1-2006-4a69-8b75-78ea186411e2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Aj2Y0Fa02eUzpKBQ7A4-k2ESV4PaJK5IjOJGURT5b7s",
-    "episode_title": "Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP",
-    "release_date": "2026-04-02 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "6dee0f12-89d4-11f0-b13f-f7091f80d9d9",
-    "episode_title": "Cents and Sensibility: The Moth Radio Hour",
-    "release_date": "2026-04-07 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775423098",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6efa6400-89d4-11f0-b13f-1f64629379ff",
-    "episode_title": "American Dreams: Home - The Moth Podcast",
-    "release_date": "2026-04-03 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QJEiMoPw3FhKnfR7ujrx_13N3UBzgjkVse5ic7-3xMk",
-    "episode_title": "#860: Daredevil Michelle Khare \u2014 How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life",
-    "release_date": "2026-04-07 21:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "dedcc040-f66b-4f90-85dd-68be8b5c775a",
-    "episode_title": "\"Stephen Colbert\"",
-    "release_date": "2026-04-06 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "e3480086-aae9-46c0-ac34-67ec010bc50a",
-    "episode_title": "Elizabeth Banks Returns",
-    "release_date": "2026-04-06 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "cbb4cd61-cfc9-44da-b2c1-c42f515f74c1",
-    "episode_title": "Fanhausen Revisited",
-    "release_date": "2026-04-02 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/sUpzDPKP6x0BDp2cwOzq3RTzNG_wa5X3qNgFggEiCyA",
-    "episode_title": "Emily & Matt Hyland (Emily Burger)",
-    "release_date": "2026-04-08 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/42da0c73-640d-4cc5-8223-76655ce23ce2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/b-4CNvozIuv5gkQFQxOSubTJ4-9VWeNVS3kalIEklzE",
-    "episode_title": "Nikki Glaser Returns",
-    "release_date": "2026-04-06 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/H_Wy-Cn_84WkpK7pH1xnP562wARaIUrHB1TmL9WVIXQ",
-    "episode_title": "Armchair Anonymous: Spring Break",
-    "release_date": "2026-04-03 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "2d68b6d6-0aa3-4e93-a47d-397e530f6e73",
+    "episode_title": "The Debt Trap",
+    "release_date": "2026-04-06 19:53:52",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/96531e78-648a-4593-b7b2-a08b402364e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=96531e78-648a-4593-b7b2-a08b402364e3&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "619138a7-463e-4f23-adcb-b41a00c1138a",
@@ -222,5 +145,82 @@
     "release_date": "2026-04-02 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4925df4b-12a7-4e30-972d-b41d0115cbad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/KQ9n-PAtn7DObc-MGBgL36MZCFDQJGsaX_f6Dy-Izzg",
+    "episode_title": "Wingstop: Antonio Swad. A Brilliant Idea \u2014 And a Nail-Biting Exit",
+    "release_date": "2026-04-06 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/133db8a1-2006-4a69-8b75-78ea186411e2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Aj2Y0Fa02eUzpKBQ7A4-k2ESV4PaJK5IjOJGURT5b7s",
+    "episode_title": "Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP",
+    "release_date": "2026-04-02 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/sUpzDPKP6x0BDp2cwOzq3RTzNG_wa5X3qNgFggEiCyA",
+    "episode_title": "Emily & Matt Hyland (Emily Burger)",
+    "release_date": "2026-04-08 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/42da0c73-640d-4cc5-8223-76655ce23ce2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/b-4CNvozIuv5gkQFQxOSubTJ4-9VWeNVS3kalIEklzE",
+    "episode_title": "Nikki Glaser Returns",
+    "release_date": "2026-04-06 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/H_Wy-Cn_84WkpK7pH1xnP562wARaIUrHB1TmL9WVIXQ",
+    "episode_title": "Armchair Anonymous: Spring Break",
+    "release_date": "2026-04-03 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "6dee0f12-89d4-11f0-b13f-f7091f80d9d9",
+    "episode_title": "Cents and Sensibility: The Moth Radio Hour",
+    "release_date": "2026-04-07 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6efa6400-89d4-11f0-b13f-1f64629379ff",
+    "episode_title": "American Dreams: Home - The Moth Podcast",
+    "release_date": "2026-04-03 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "dedcc040-f66b-4f90-85dd-68be8b5c775a",
+    "episode_title": "\"Stephen Colbert\"",
+    "release_date": "2026-04-06 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "e3480086-aae9-46c0-ac34-67ec010bc50a",
+    "episode_title": "Elizabeth Banks Returns",
+    "release_date": "2026-04-06 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "cbb4cd61-cfc9-44da-b2c1-c42f515f74c1",
+    "episode_title": "Fanhausen Revisited",
+    "release_date": "2026-04-02 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QJEiMoPw3FhKnfR7ujrx_13N3UBzgjkVse5ic7-3xMk",
+    "episode_title": "#860: Daredevil Michelle Khare \u2014 How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life",
+    "release_date": "2026-04-07 21:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
