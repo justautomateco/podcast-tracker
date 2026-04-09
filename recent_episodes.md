@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-09 01:22:50
-
-## Freakonomics Radio
-
-### Ten Myths About the U.S. Tax System (Update)
-
-**Released:** 2026-04-08 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
-
----
-
-### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
-
-**Released:** 2026-04-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
-
----
+Last updated: 2026-04-09 13:02:43
 
 ## TED Talks Daily
 
@@ -90,11 +62,31 @@ Last updated: 2026-04-09 01:22:50
 
 ---
 
-### Dark times for Cuba’s economic experiment
+## Freakonomics Radio
 
-**Released:** 2026-04-02 02:51:50
+### Ten Myths About the U.S. Tax System (Update)
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
+**Released:** 2026-04-08 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
+
+---
+
+### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
+
+**Released:** 2026-04-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -121,6 +113,40 @@ Last updated: 2026-04-09 01:22:50
 **Released:** 2026-04-02 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775235417)
+
+---
+
+## Stuff You Should Know
+
+### How Worker Co-ops Works
+
+**Released:** 2026-04-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2030ca97-1bc4-4fdf-8c85-b424013c7391/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: History of Spring Break
+
+**Released:** 2026-04-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619138a7-463e-4f23-adcb-b41a00c1138a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Roar: The Most Dangerous Movie Ever Made?
+
+**Released:** 2026-04-07 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68d94271-6d9e-4b19-bdb5-b42401350e1a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: The Skinny on Lyme Disease
+
+**Released:** 2026-04-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62e06b83-685e-47fb-ab42-b42001040745/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -152,41 +178,15 @@ Last updated: 2026-04-09 01:22:50
 
 ---
 
-## Stuff You Should Know
-
-### Short Stuff: History of Spring Break
-
-**Released:** 2026-04-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619138a7-463e-4f23-adcb-b41a00c1138a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Roar: The Most Dangerous Movie Ever Made?
-
-**Released:** 2026-04-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68d94271-6d9e-4b19-bdb5-b42401350e1a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The Skinny on Lyme Disease
-
-**Released:** 2026-04-04 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62e06b83-685e-47fb-ab42-b42001040745/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Colorado River Compact
-
-**Released:** 2026-04-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4925df4b-12a7-4e30-972d-b41d0115cbad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
+
+### Advice Line with Steve Ells of Chipotle
+
+**Released:** 2026-04-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Wingstop: Antonio Swad. A Brilliant Idea — And a Nail-Biting Exit
 
@@ -196,11 +196,77 @@ Last updated: 2026-04-09 01:22:50
 
 ---
 
-### Advice Line with Angie & Dan Bastian of Angie's BOOMCHICKAPOP
+## Revisionist History
 
-**Released:** 2026-04-02 07:10:00
+### Richard Pryor: The Story We Got Wrong | From Big Lives 
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fb62faf8-9e66-4644-a940-21c85d69260a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-04-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
+
+**Released:** 2026-04-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Cents and Sensibility: The Moth Radio Hour
+
+**Released:** 2026-04-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
+
+---
+
+### American Dreams: Home - The Moth Podcast
+
+**Released:** 2026-04-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Freedom Reader
+
+**Released:** 2026-04-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH)
+
+---
+
+### Elizabeth Banks Returns
+
+**Released:** 2026-04-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Charlie Day"
+
+**Released:** 2026-04-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
+
+---
+
+### "Stephen Colbert"
+
+**Released:** 2026-04-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
 
 ---
 
@@ -227,62 +293,6 @@ Last updated: 2026-04-09 01:22:50
 **Released:** 2026-04-03 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Cents and Sensibility: The Moth Radio Hour
-
-**Released:** 2026-04-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
-
----
-
-### American Dreams: Home - The Moth Podcast
-
-**Released:** 2026-04-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
-
----
-
-## SmartLess 
-
-### "Stephen Colbert"
-
-**Released:** 2026-04-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Elizabeth Banks Returns
-
-**Released:** 2026-04-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
-
----
-
-### Fanhausen Revisited
-
-**Released:** 2026-04-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22b946f2-4160-4864-a5c6-acf86ee2d1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22b946f2-4160-4864-a5c6-acf86ee2d1b2&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
-
-**Released:** 2026-04-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
