@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-09 13:02:43
+Last updated: 2026-04-10 01:46:37
+
+## Freakonomics Radio
+
+### Ten Myths About the U.S. Tax System (Update)
+
+**Released:** 2026-04-08 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
+
+---
+
+### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
+
+**Released:** 2026-04-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
+
+---
 
 ## TED Talks Daily
+
+### The anti-CEO playbook | Hamdi Ulukaya (re-release)
+
+**Released:** 2026-04-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d3cbf907bc2cbfc7b2dab8/media.mp3)
+
+---
 
 ### The single most important parenting strategy | Becky Kennedy (re-release)
 
@@ -36,14 +72,6 @@ Last updated: 2026-04-09 13:02:43
 
 ---
 
-### Where joy hides and how to find it | Ingrid Fetell Lee (re-release)
-
-**Released:** 2026-04-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cbe1d5e8519e977f5e3d4a/media.mp3)
-
----
-
 ## Planet Money
 
 ### A pro-worker experiment in private equity
@@ -62,35 +90,15 @@ Last updated: 2026-04-09 13:02:43
 
 ---
 
-## Freakonomics Radio
-
-### Ten Myths About the U.S. Tax System (Update)
-
-**Released:** 2026-04-08 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
-
----
-
-### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
-
-**Released:** 2026-04-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
-
----
-
 ## The Joe Rogan Experience
+
+### #2481 - Duncan Trussell
+
+**Released:** 2026-04-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732)
+
+---
 
 ### #2480 - Arsenio Hall
 
@@ -108,11 +116,13 @@ Last updated: 2026-04-09 13:02:43
 
 ---
 
-### #2478 - Theo Von
+## Hidden Brain
 
-**Released:** 2026-04-02 17:00:00
+### The Debt Trap
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6518968908.mp3?updated=1775235417)
+**Released:** 2026-04-06 19:53:52
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/96531e78-648a-4593-b7b2-a08b402364e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=96531e78-648a-4593-b7b2-a08b402364e3&feed=kwWc0lhf)
 
 ---
 
@@ -165,16 +175,6 @@ Last updated: 2026-04-09 13:02:43
 **Released:** 2026-04-03 09:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### The Debt Trap
-
-**Released:** 2026-04-06 19:53:52
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/96531e78-648a-4593-b7b2-a08b402364e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=96531e78-648a-4593-b7b2-a08b402364e3&feed=kwWc0lhf)
 
 ---
 
