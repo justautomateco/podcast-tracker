@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-10 01:46:37
-
-## Freakonomics Radio
-
-### Ten Myths About the U.S. Tax System (Update)
-
-**Released:** 2026-04-08 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
-
----
-
-### 669. Why Is 95 Percent of the World’s Bourbon Made in Kentucky?
-
-**Released:** 2026-04-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4da07d-bade-4cfb-b8a7-962db87b7de7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4da07d-bade-4cfb-b8a7-962db87b7de7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 212: The Other Man
-
-**Released:** 2026-04-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
-
----
+Last updated: 2026-04-10 12:51:05
 
 ## TED Talks Daily
 
@@ -72,21 +44,31 @@ Last updated: 2026-04-10 01:46:37
 
 ---
 
-## Planet Money
+## This American Life
 
-### A pro-worker experiment in private equity
+### 212: The Other Man
 
-**Released:** 2026-04-08 07:00:00
+**Released:** 2026-04-05 18:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
-### Reese’s heir vs. chocolate skimpflation
+## Freakonomics Radio
 
-**Released:** 2026-04-04 02:24:15
+### 670. Beeconomics 101
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
+**Released:** 2026-04-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
+
+---
+
+### Ten Myths About the U.S. Tax System (Update)
+
+**Released:** 2026-04-08 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
 
 ---
 
@@ -113,6 +95,24 @@ Last updated: 2026-04-10 01:46:37
 **Released:** 2026-04-03 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6476784414.mp3?updated=1775235793)
+
+---
+
+## Planet Money
+
+### A pro-worker experiment in private equity
+
+**Released:** 2026-04-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
+
+---
+
+### Reese’s heir vs. chocolate skimpflation
+
+**Released:** 2026-04-04 02:24:15
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
 
 ---
 
@@ -170,11 +170,13 @@ Last updated: 2026-04-10 01:46:37
 
 ---
 
-### Service Request #4: How Does the Grid in Phoenix Work?
+## The Tim Ferriss Show
 
-**Released:** 2026-04-03 09:00:00
+### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23bf19f9-f17c-4e74-959e-6b76db849530/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23bf19f9-f17c-4e74-959e-6b76db849530&feed=BqbsxVfO)
+**Released:** 2026-04-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -196,44 +198,6 @@ Last updated: 2026-04-10 01:46:37
 
 ---
 
-## Revisionist History
-
-### Richard Pryor: The Story We Got Wrong | From Big Lives 
-
-**Released:** 2026-04-09 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
-
-**Released:** 2026-04-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Cents and Sensibility: The Moth Radio Hour
-
-**Released:** 2026-04-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
-
----
-
-### American Dreams: Home - The Moth Podcast
-
-**Released:** 2026-04-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7398869071.mp3?updated=1774900074)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### The Freedom Reader
@@ -249,6 +213,34 @@ Last updated: 2026-04-10 01:46:37
 **Released:** 2026-04-06 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### What’s in a Name: The Moth Podcast
+
+**Released:** 2026-04-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648)
+
+---
+
+### Cents and Sensibility: The Moth Radio Hour
+
+**Released:** 2026-04-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
+
+---
+
+## Revisionist History
+
+### Richard Pryor: The Story We Got Wrong | From Big Lives 
+
+**Released:** 2026-04-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -272,6 +264,14 @@ Last updated: 2026-04-10 01:46:37
 
 ## Armchair Expert
 
+### Armchair Anonymous: Bad Dates II
+
+**Released:** 2026-04-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Emily & Matt Hyland (Emily Burger)
 
 **Released:** 2026-04-08 07:30:00
@@ -285,14 +285,6 @@ Last updated: 2026-04-10 01:46:37
 **Released:** 2026-04-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Spring Break
-
-**Released:** 2026-04-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7d8353a0-deb7-402b-bfdb-7f74547b7bca.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
