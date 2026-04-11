@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-11 01:25:13
+Last updated: 2026-04-11 12:37:26
 
 ## Freakonomics Radio
 
@@ -90,14 +90,6 @@ Last updated: 2026-04-11 01:25:13
 
 ---
 
-### Reese’s heir vs. chocolate skimpflation
-
-**Released:** 2026-04-04 02:24:15
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #177 - Protect Ya Neck
@@ -120,7 +112,7 @@ Last updated: 2026-04-11 01:25:13
 
 **Released:** 2026-04-08 17:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775667417)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1775875550)
 
 ---
 
@@ -146,6 +138,14 @@ Last updated: 2026-04-11 01:25:13
 
 ## Stuff You Should Know
 
+### Selects: What is a Numbers Station?
+
+**Released:** 2026-04-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f1b0f403-a792-44d1-a33f-b425011e35bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### How Worker Co-ops Works
 
 **Released:** 2026-04-09 09:00:00
@@ -170,11 +170,13 @@ Last updated: 2026-04-11 01:25:13
 
 ---
 
-### Selects: The Skinny on Lyme Disease
+## Revisionist History
 
-**Released:** 2026-04-04 09:00:00
+### Richard Pryor: The Story We Got Wrong | From Big Lives 
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62e06b83-685e-47fb-ab42-b42001040745/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-04-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,13 +198,13 @@ Last updated: 2026-04-11 01:25:13
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### Richard Pryor: The Story We Got Wrong | From Big Lives 
+### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
 
-**Released:** 2026-04-09 04:01:00
+**Released:** 2026-04-07 21:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -283,16 +285,6 @@ Last updated: 2026-04-11 01:25:13
 **Released:** 2026-04-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
-
-**Released:** 2026-04-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
