@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-11 12:37:26
+Last updated: 2026-04-12 01:49:27
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-04-11 12:37:26
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 212: The Other Man
+### A whale’s-eye-view of the ocean | Eric Stackpole
 
-**Released:** 2026-04-05 18:00:00
+**Released:** 2026-04-11 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d67d0f02639f375c6318ac/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Talks to Motivate You Playlist (1/10): My year of saying yes to everything | Shonda Rhimes
 
@@ -64,14 +62,6 @@ Last updated: 2026-04-11 12:37:26
 
 ---
 
-### Talks to Motivate You Playlist (5/10): Let your ambition light you up, not burn you out | Tarveen Forrester
-
-**Released:** 2026-04-10 15:05:58
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d430b6f57702d2d90577bb/media.mp3)
-
----
-
 ## Planet Money
 
 ### BOOKstore Economics
@@ -87,6 +77,16 @@ Last updated: 2026-04-11 12:37:26
 **Released:** 2026-04-08 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
+
+---
+
+## This American Life
+
+### 212: The Other Man
+
+**Released:** 2026-04-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 
 ---
 
@@ -126,16 +126,6 @@ Last updated: 2026-04-11 12:37:26
 
 ---
 
-## 99% Invisible
-
-### Service Request #5: Dude, Where's My Car?
-
-**Released:** 2026-04-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d88766b8-39af-4b9d-a4d4-c36a30d8d915/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d88766b8-39af-4b9d-a4d4-c36a30d8d915&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: What is a Numbers Station?
@@ -167,6 +157,16 @@ Last updated: 2026-04-11 12:37:26
 **Released:** 2026-04-07 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68d94271-6d9e-4b19-bdb5-b42401350e1a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Service Request #5: Dude, Where's My Car?
+
+**Released:** 2026-04-07 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d88766b8-39af-4b9d-a4d4-c36a30d8d915/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d88766b8-39af-4b9d-a4d4-c36a30d8d915&feed=BqbsxVfO)
 
 ---
 
@@ -208,60 +208,6 @@ Last updated: 2026-04-11 12:37:26
 
 ---
 
-## The Moth
-
-### What’s in a Name: The Moth Podcast
-
-**Released:** 2026-04-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648)
-
----
-
-### Cents and Sensibility: The Moth Radio Hour
-
-**Released:** 2026-04-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Charlie Day"
-
-**Released:** 2026-04-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
-
----
-
-### "Stephen Colbert"
-
-**Released:** 2026-04-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Freedom Reader
-
-**Released:** 2026-04-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH)
-
----
-
-### Elizabeth Banks Returns
-
-**Released:** 2026-04-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Bad Dates II
@@ -285,6 +231,60 @@ Last updated: 2026-04-11 12:37:26
 **Released:** 2026-04-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/06bdd812-891e-4c30-9828-b492d4bf5493.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### What’s in a Name: The Moth Podcast
+
+**Released:** 2026-04-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648)
+
+---
+
+### Cents and Sensibility: The Moth Radio Hour
+
+**Released:** 2026-04-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8187129715.mp3?updated=1775670029)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Freedom Reader
+
+**Released:** 2026-04-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH)
+
+---
+
+### Elizabeth Banks Returns
+
+**Released:** 2026-04-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fdaf1819-6e4d-4074-ae22-f124790e63b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fdaf1819-6e4d-4074-ae22-f124790e63b5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Charlie Day"
+
+**Released:** 2026-04-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
+
+---
+
+### "Stephen Colbert"
+
+**Released:** 2026-04-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ad05aa10-dd40-4ce3-988d-c6051b314287/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ad05aa10-dd40-4ce3-988d-c6051b314287&feed=hNaFxXpO)
 
 ---
 
