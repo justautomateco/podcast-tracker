@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-15 01:45:10
-
-## This American Life
-
-### 885: Bless This Mess
-
-**Released:** 2026-04-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
-
----
-
-## Freakonomics Radio
-
-### 670. Beeconomics 101
-
-**Released:** 2026-04-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
-
----
+Last updated: 2026-04-15 13:03:59
 
 ## TED Talks Daily
 
@@ -64,13 +44,23 @@ Last updated: 2026-04-15 01:45:10
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### How to Change the World
+### 885: Bless This Mess
 
-**Released:** 2026-04-13 21:22:25
+**Released:** 2026-04-12 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
+
+---
+
+## Freakonomics Radio
+
+### 670. Beeconomics 101
+
+**Released:** 2026-04-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
 
 ---
 
@@ -92,11 +82,23 @@ Last updated: 2026-04-15 01:45:10
 
 ---
 
-### A pro-worker experiment in private equity
+## Hidden Brain
 
-**Released:** 2026-04-08 07:00:00
+### How to Change the World
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
+**Released:** 2026-04-13 21:22:25
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### RoboUmp Hits the Big Leagues
+
+**Released:** 2026-04-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
 
 ---
 
@@ -136,6 +138,14 @@ Last updated: 2026-04-15 01:45:10
 
 ## Stuff You Should Know
 
+### Short Stuff: Cherry Blossoms
+
+**Released:** 2026-04-15 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3ff4a8d8-160a-43a2-aff2-b41a00c1c0ba/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Are Generations Even a Thing?
 
 **Released:** 2026-04-14 09:00:00
@@ -157,42 +167,6 @@ Last updated: 2026-04-15 01:45:10
 **Released:** 2026-04-09 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2030ca97-1bc4-4fdf-8c85-b424013c7391/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: History of Spring Break
-
-**Released:** 2026-04-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/619138a7-463e-4f23-adcb-b41a00c1138a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### RoboUmp Hits the Big Leagues
-
-**Released:** 2026-04-14 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### iRobot: Colin Angle. How The Roomba Became a Household Icon
-
-**Released:** 2026-04-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/412c1dc3-6528-4197-b34a-8c57fa24d806.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Steve Ells of Chipotle
-
-**Released:** 2026-04-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,29 +198,39 @@ Last updated: 2026-04-15 01:45:10
 
 ---
 
-## Armchair Expert
+## How I Built This
 
-### Jennie Garth
+### iRobot: Colin Angle. How The Roomba Became a Household Icon
 
-**Released:** 2026-04-13 07:30:00
+**Released:** 2026-04-13 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e023a7c1-2aba-4f1b-90dc-8c6cab0d4750.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Dates II
-
-**Released:** 2026-04-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/412c1dc3-6528-4197-b34a-8c57fa24d806.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Emily & Matt Hyland (Emily Burger)
+### Advice Line with Steve Ells of Chipotle
 
-**Released:** 2026-04-08 07:30:00
+**Released:** 2026-04-09 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/42da0c73-640d-4cc5-8223-76655ce23ce2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Amanda Peet"
+
+**Released:** 2026-04-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Charlie Day"
+
+**Released:** 2026-04-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
 
 ---
 
@@ -268,21 +252,29 @@ Last updated: 2026-04-15 01:45:10
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Amanda Peet"
+### Rachel Zoffness (on pain)
 
-**Released:** 2026-04-13 07:01:00
+**Released:** 2026-04-15 07:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56f68de5-d0d1-4bcd-8704-d179d303c8e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "RE-RELEASE: Charlie Day"
+### Jennie Garth
 
-**Released:** 2026-04-09 07:00:00
+**Released:** 2026-04-13 07:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e023a7c1-2aba-4f1b-90dc-8c6cab0d4750.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Dates II
+
+**Released:** 2026-04-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
