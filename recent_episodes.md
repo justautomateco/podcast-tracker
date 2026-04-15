@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-14 13:05:46
-
-## Freakonomics Radio
-
-### 670. Beeconomics 101
-
-**Released:** 2026-04-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
-
----
-
-### Ten Myths About the U.S. Tax System (Update)
-
-**Released:** 2026-04-08 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2c0f58ee-d1d6-4c1b-8252-7a9985c57266/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2c0f58ee-d1d6-4c1b-8252-7a9985c57266&feed=Y8lFbOT4)
-
----
+Last updated: 2026-04-15 01:45:10
 
 ## This American Life
 
@@ -30,7 +12,25 @@ Last updated: 2026-04-14 13:05:46
 
 ---
 
+## Freakonomics Radio
+
+### 670. Beeconomics 101
+
+**Released:** 2026-04-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
+
+### What I got wrong about changing the world | Malala Yousafzai 
+
+**Released:** 2026-04-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc661af736e119c3a0659d/media.mp3)
+
+---
 
 ### The accidental brilliance of makeshift signs | Kate Canales
 
@@ -64,15 +64,25 @@ Last updated: 2026-04-14 13:05:46
 
 ---
 
-### Talks to Motivate You Playlist (2/10): The three secrets of resilient people | Lucy Hone
+## Hidden Brain
 
-**Released:** 2026-04-10 15:08:11
+### How to Change the World
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d43162f57702d2d905ae5d/media.mp3)
+**Released:** 2026-04-13 21:22:25
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
 
 ---
 
 ## Planet Money
+
+### How to get through the Strait of Hormuz
+
+**Released:** 2026-04-14 23:06:36
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754)
+
+---
 
 ### BOOKstore Economics
 
@@ -90,17 +100,15 @@ Last updated: 2026-04-14 13:05:46
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### How to Change the World
+### #2482 - Andy Stumpf
 
-**Released:** 2026-04-13 21:22:25
+**Released:** 2026-04-14 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3680007995.mp3?updated=1776185129)
 
 ---
-
-## The Joe Rogan Experience
 
 ### JRE MMA Show #177 - Protect Ya Neck
 
@@ -170,26 +178,6 @@ Last updated: 2026-04-14 13:05:46
 
 ---
 
-## Revisionist History
-
-### Richard Pryor: The Story We Got Wrong | From Big Lives 
-
-**Released:** 2026-04-09 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #860: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life
-
-**Released:** 2026-04-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/874f5c9b-f86a-4357-aeb2-ebac770c5b15.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### iRobot: Colin Angle. How The Roomba Became a Household Icon
@@ -205,6 +193,34 @@ Last updated: 2026-04-14 13:05:46
 **Released:** 2026-04-09 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Richard Pryor: The Story We Got Wrong | From Big Lives 
+
+**Released:** 2026-04-09 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### In Control, Or Not: The Moth Radio Hour
+
+**Released:** 2026-04-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3891186235.mp3?updated=1775951911)
+
+---
+
+### What’s in a Name: The Moth Podcast
+
+**Released:** 2026-04-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648)
 
 ---
 
@@ -267,24 +283,6 @@ Last updated: 2026-04-14 13:05:46
 **Released:** 2026-04-09 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### In Control, Or Not: The Moth Radio Hour
-
-**Released:** 2026-04-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3891186235.mp3?updated=1775951911)
-
----
-
-### What’s in a Name: The Moth Podcast
-
-**Released:** 2026-04-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648)
 
 ---
 
