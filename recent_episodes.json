@@ -49,6 +49,27 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "52fe0cf1-8566-457b-aab0-b32791f4940f",
+    "episode_title": "How to get through the Strait of Hormuz",
+    "release_date": "2026-04-14 23:06:36",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "f8ad589c-6503-4d8d-81b2-4a64dce7f60f",
+    "episode_title": "BOOKstore Economics",
+    "release_date": "2026-04-10 23:30:43",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "7d94f6bd-d6ff-4f69-9d07-0cb0b9e699dd",
+    "episode_title": "How to Change the World",
+    "release_date": "2026-04-13 21:22:25",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "38a3909a-3869-11f1-94ee-8396fbb7a87c",
     "episode_title": "#2483 - Spencer Pratt",
     "release_date": "2026-04-15 17:00:00",
@@ -77,11 +98,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "7d94f6bd-d6ff-4f69-9d07-0cb0b9e699dd",
-    "episode_title": "How to Change the World",
-    "release_date": "2026-04-13 21:22:25",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "3dab99cf-d30b-4b62-a69f-19315069c554",
+    "episode_title": "RoboUmp Hits the Big Leagues",
+    "release_date": "2026-04-14 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "24aa11ca-892c-4020-8654-b42e00131b14",
+    "episode_title": "The Sewol Ferry Disaster",
+    "release_date": "2026-04-16 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24aa11ca-892c-4020-8654-b42e00131b14/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "3ff4a8d8-160a-43a2-aff2-b41a00c1c0ba",
@@ -105,18 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "2030ca97-1bc4-4fdf-8c85-b424013c7391",
-    "episode_title": "How Worker Co-ops Work",
-    "release_date": "2026-04-09 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2030ca97-1bc4-4fdf-8c85-b424013c7391/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "3dab99cf-d30b-4b62-a69f-19315069c554",
-    "episode_title": "RoboUmp Hits the Big Leagues",
-    "release_date": "2026-04-14 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "gid://art19-episode-locator/V0/6aYoG2_S9iZVjO4ize2HDg_9jPFCHiK8KcUo3KULifQ",
+    "episode_title": "Advice Line with Chieh Huang of Boxed ",
+    "release_date": "2026-04-16 07:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/eQF35Bg3FvdVc4zWEH9ixKk_p45JKRSTvAoq9m5BBgc",
@@ -126,17 +147,10 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Ny12q3xbIdnucmgF40u8UpDOaryYf_TKsCGhJ3uVoJw",
-    "episode_title": "Advice Line with Steve Ells of Chipotle",
-    "release_date": "2026-04-09 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "bc5a0d16-feb1-4ebc-a309-b41d0143d9c5",
-    "episode_title": "Richard Pryor: The Story We Got Wrong | From Big Lives ",
-    "release_date": "2026-04-09 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/bc5a0d16-feb1-4ebc-a309-b41d0143d9c5/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "guid": "347d2c8c-0212-4cda-aa5d-b42d015a099b",
+    "episode_title": "The Sony Hack: Mistakes Part 1",
+    "release_date": "2026-04-16 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/347d2c8c-0212-4cda-aa5d-b42d015a099b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
   },
   {
@@ -152,6 +166,20 @@
     "release_date": "2026-04-10 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6613547415.mp3?updated=1774900648",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "b3cfa749-4273-4e08-873f-a265b9621f65",
+    "episode_title": "Conan Vs. Edibles Part I",
+    "release_date": "2026-04-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "2da5367f-7392-4ef3-b446-c9015ac4a770",
+    "episode_title": "David Oyelowo Returns",
+    "release_date": "2026-04-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/vV-Xri4dTdaVArg6CTofEKZ49YEl9bxBQcqEvTZe6KQ",
@@ -175,20 +203,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "2da5367f-7392-4ef3-b446-c9015ac4a770",
-    "episode_title": "David Oyelowo Returns",
-    "release_date": "2026-04-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "aaa95fd1-a44d-41d8-a948-e28ccccbd87d",
-    "episode_title": "The Freedom Reader",
-    "release_date": "2026-04-09 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "b0d1a73c-13c9-4c8d-9ed7-ab11c0b51a2e",
     "episode_title": "\"Amanda Peet\"",
     "release_date": "2026-04-13 07:01:00",
@@ -196,24 +210,10 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "8e2f54b5-d91c-4648-8d99-dff2d9f39de0",
-    "episode_title": "\"RE-RELEASE: Charlie Day\"",
-    "release_date": "2026-04-09 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "52fe0cf1-8566-457b-aab0-b32791f4940f",
-    "episode_title": "How to get through the Strait of Hormuz",
-    "release_date": "2026-04-14 23:06:36",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "f8ad589c-6503-4d8d-81b2-4a64dce7f60f",
-    "episode_title": "BOOKstore Economics",
-    "release_date": "2026-04-10 23:30:43",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752",
-    "podcast_name": "Planet Money"
+    "guid": "gid://art19-episode-locator/V0/ddx9Hsmwb0DmDFkJcym08WmvZl5fw9bfQdcdWks2JyQ",
+    "episode_title": "#861: 4-Hour Workweek Success Story, Brian Dean \u2014 From Dad\u2019s Basement to Selling Two Companies",
+    "release_date": "2026-04-16 11:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
