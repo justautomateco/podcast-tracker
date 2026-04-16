@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-15 13:03:59
+Last updated: 2026-04-16 01:53:23
+
+## Freakonomics Radio
+
+### 670. Beeconomics 101
+
+**Released:** 2026-04-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 885: Bless This Mess
+
+**Released:** 2026-04-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
+
+---
 
 ## TED Talks Daily
+
+### Why do you love your favorite songs? | Scarlet Keys (re-release)
+
+**Released:** 2026-04-15 19:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc62c9361823b7813b4f55/media.mp3)
+
+---
 
 ### What I got wrong about changing the world | Malala Yousafzai 
 
@@ -36,73 +64,15 @@ Last updated: 2026-04-15 13:03:59
 
 ---
 
-### Talks to Motivate You Playlist (1/10): My year of saying yes to everything | Shonda Rhimes
-
-**Released:** 2026-04-10 15:09:20
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d43196f57702d2d905bb68/media.mp3)
-
----
-
-## This American Life
-
-### 885: Bless This Mess
-
-**Released:** 2026-04-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
-
----
-
-## Freakonomics Radio
-
-### 670. Beeconomics 101
-
-**Released:** 2026-04-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### How to get through the Strait of Hormuz
-
-**Released:** 2026-04-14 23:06:36
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754)
-
----
-
-### BOOKstore Economics
-
-**Released:** 2026-04-10 23:30:43
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752)
-
----
-
-## Hidden Brain
-
-### How to Change the World
-
-**Released:** 2026-04-13 21:22:25
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### RoboUmp Hits the Big Leagues
-
-**Released:** 2026-04-14 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
+
+### #2483 - Spencer Pratt
+
+**Released:** 2026-04-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139)
+
+---
 
 ### #2482 - Andy Stumpf
 
@@ -128,11 +98,13 @@ Last updated: 2026-04-15 13:03:59
 
 ---
 
-### #2480 - Arsenio Hall
+## Hidden Brain
 
-**Released:** 2026-04-08 17:00:00
+### How to Change the World
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3162202677.mp3?updated=1776099580)
+**Released:** 2026-04-13 21:22:25
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
 
 ---
 
@@ -170,6 +142,34 @@ Last updated: 2026-04-15 13:03:59
 
 ---
 
+## 99% Invisible
+
+### RoboUmp Hits the Big Leagues
+
+**Released:** 2026-04-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### iRobot: Colin Angle. How The Roomba Became a Household Icon
+
+**Released:** 2026-04-13 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/412c1dc3-6528-4197-b34a-8c57fa24d806.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Steve Ells of Chipotle
+
+**Released:** 2026-04-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Richard Pryor: The Story We Got Wrong | From Big Lives 
@@ -198,60 +198,6 @@ Last updated: 2026-04-15 13:03:59
 
 ---
 
-## How I Built This
-
-### iRobot: Colin Angle. How The Roomba Became a Household Icon
-
-**Released:** 2026-04-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/412c1dc3-6528-4197-b34a-8c57fa24d806.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Steve Ells of Chipotle
-
-**Released:** 2026-04-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1b5b1548-292a-40f0-810b-f63b79519b1b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Amanda Peet"
-
-**Released:** 2026-04-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Charlie Day"
-
-**Released:** 2026-04-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### David Oyelowo Returns
-
-**Released:** 2026-04-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH)
-
----
-
-### The Freedom Reader
-
-**Released:** 2026-04-09 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Rachel Zoffness (on pain)
@@ -275,6 +221,60 @@ Last updated: 2026-04-15 13:03:59
 **Released:** 2026-04-10 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### David Oyelowo Returns
+
+**Released:** 2026-04-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH)
+
+---
+
+### The Freedom Reader
+
+**Released:** 2026-04-09 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/76190989-9ee9-4a8e-a373-30f65583e2f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=76190989-9ee9-4a8e-a373-30f65583e2f2&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Amanda Peet"
+
+**Released:** 2026-04-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Charlie Day"
+
+**Released:** 2026-04-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/01660883-906c-4cb9-991d-290bd9c19f99/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=01660883-906c-4cb9-991d-290bd9c19f99&feed=hNaFxXpO)
+
+---
+
+## Planet Money
+
+### How to get through the Strait of Hormuz
+
+**Released:** 2026-04-14 23:06:36
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754)
+
+---
+
+### BOOKstore Economics
+
+**Released:** 2026-04-10 23:30:43
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752)
 
 ---
 
