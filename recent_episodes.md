@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-16 13:11:14
-
-## Freakonomics Radio
-
-### 670. Beeconomics 101
-
-**Released:** 2026-04-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 885: Bless This Mess
-
-**Released:** 2026-04-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
-
----
+Last updated: 2026-04-17 01:49:30
 
 ## TED Talks Daily
+
+### A plan to stop AI from automating our decline | Gina Raimondo
+
+**Released:** 2026-04-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e02a0a6f0d582d7adba74b/media.mp3)
+
+---
 
 ### Why do you love your favorite songs? | Scarlet Keys (re-release)
 
@@ -56,14 +44,6 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
-### A whale’s-eye-view of the ocean | Eric Stackpole
-
-**Released:** 2026-04-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d67d0f02639f375c6318ac/media.mp3)
-
----
-
 ## Planet Money
 
 ### How to get through the Strait of Hormuz
@@ -82,17 +62,45 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### How to Change the World
+### 885: Bless This Mess
 
-**Released:** 2026-04-13 21:22:25
+**Released:** 2026-04-12 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
+
+---
+
+## Freakonomics Radio
+
+### 670. Beeconomics 101
+
+**Released:** 2026-04-10 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bb8b3f40-9a7a-4251-ac7d-608218fbf8c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bb8b3f40-9a7a-4251-ac7d-608218fbf8c7&feed=Y8lFbOT4)
+
+---
+
+## 99% Invisible
+
+### RoboUmp Hits the Big Leagues
+
+**Released:** 2026-04-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2484 - David Cross
+
+**Released:** 2026-04-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776385658)
+
+---
 
 ### #2483 - Spencer Pratt
 
@@ -118,21 +126,13 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
-### #2481 - Duncan Trussell
+## Hidden Brain
 
-**Released:** 2026-04-09 17:00:00
+### How to Change the World
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3393412202.mp3?updated=1775753732)
+**Released:** 2026-04-13 21:22:25
 
----
-
-## 99% Invisible
-
-### RoboUmp Hits the Big Leagues
-
-**Released:** 2026-04-14 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e8612a4e-6524-47d6-a833-7c5c242eb235/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e8612a4e-6524-47d6-a833-7c5c242eb235&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c007156d-8c81-4e69-9df5-59d3b0e4bdba/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c007156d-8c81-4e69-9df5-59d3b0e4bdba&feed=kwWc0lhf)
 
 ---
 
@@ -188,6 +188,32 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
+## Armchair Expert
+
+### Rachel Zoffness (on pain)
+
+**Released:** 2026-04-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56f68de5-d0d1-4bcd-8704-d179d303c8e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jennie Garth
+
+**Released:** 2026-04-13 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e023a7c1-2aba-4f1b-90dc-8c6cab0d4750.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Dates II
+
+**Released:** 2026-04-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Sony Hack: Mistakes Part 1
@@ -216,6 +242,16 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
+## SmartLess 
+
+### "Amanda Peet"
+
+**Released:** 2026-04-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Conan Vs. Edibles Part I
@@ -234,45 +270,9 @@ Last updated: 2026-04-16 13:11:14
 
 ---
 
-## Armchair Expert
-
-### Rachel Zoffness (on pain)
-
-**Released:** 2026-04-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56f68de5-d0d1-4bcd-8704-d179d303c8e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jennie Garth
-
-**Released:** 2026-04-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e023a7c1-2aba-4f1b-90dc-8c6cab0d4750.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Dates II
-
-**Released:** 2026-04-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f11aff2d-7323-4d3b-9a85-d568eb4a608c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Amanda Peet"
-
-**Released:** 2026-04-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
 
-### #861: 4-Hour Workweek Success Story, Brian Dean — From Dad’s Basement to Selling Two Companies
+### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
 
 **Released:** 2026-04-16 11:30:00
 
