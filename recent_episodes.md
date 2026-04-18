@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-17 12:59:14
-
-## Freakonomics Radio
-
-### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
-
-**Released:** 2026-04-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 885: Bless This Mess
-
-**Released:** 2026-04-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
-
----
+Last updated: 2026-04-18 01:27:47
 
 ## TED Talks Daily
+
+### How I created OpenClaw, the viral AI agent | Peter Steinberger
+
+**Released:** 2026-04-17 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e064cf501ebe6715dd4fa7/media.mp3)
+
+---
 
 ### A plan to stop AI from automating our decline | Gina Raimondo
 
@@ -56,11 +44,23 @@ Last updated: 2026-04-17 12:59:14
 
 ---
 
-### Sunday Pick: Sci-fi writer Andy Weir doesn't love writing | from ReThinking with Adam Grant
+## Freakonomics Radio
 
-**Released:** 2026-04-12 06:00:00
+### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d4166c07bc2cbfc7cfc89c/media.mp3)
+**Released:** 2026-04-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 885: Bless This Mess
+
+**Released:** 2026-04-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
 
 ---
 
@@ -71,48 +71,6 @@ Last updated: 2026-04-17 12:59:14
 **Released:** 2026-04-14 23:06:36
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754)
-
----
-
-### BOOKstore Economics
-
-**Released:** 2026-04-10 23:30:43
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752)
-
----
-
-## The Joe Rogan Experience
-
-### #2484 - David Cross
-
-**Released:** 2026-04-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776385658)
-
----
-
-### #2483 - Spencer Pratt
-
-**Released:** 2026-04-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139)
-
----
-
-### #2482 - Andy Stumpf
-
-**Released:** 2026-04-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3680007995.mp3?updated=1776185129)
-
----
-
-### JRE MMA Show #177 - Protect Ya Neck
-
-**Released:** 2026-04-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7244998855.mp3?updated=1775829921)
 
 ---
 
@@ -170,6 +128,40 @@ Last updated: 2026-04-17 12:59:14
 
 ---
 
+## The Joe Rogan Experience
+
+### #2485 - John Fogerty
+
+**Released:** 2026-04-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206)
+
+---
+
+### #2484 - David Cross
+
+**Released:** 2026-04-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776472896)
+
+---
+
+### #2483 - Spencer Pratt
+
+**Released:** 2026-04-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139)
+
+---
+
+### #2482 - Andy Stumpf
+
+**Released:** 2026-04-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3680007995.mp3?updated=1776185129)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Chieh Huang of Boxed 
@@ -188,13 +180,21 @@ Last updated: 2026-04-17 12:59:14
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
+### The Moth Podcast: Technology Fails
 
-**Released:** 2026-04-16 11:30:00
+**Released:** 2026-04-17 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5498296649.mp3?updated=1774901677)
+
+---
+
+### In Control, Or Not: The Moth Radio Hour
+
+**Released:** 2026-04-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3891186235.mp3?updated=1775951911)
 
 ---
 
@@ -236,24 +236,6 @@ Last updated: 2026-04-17 12:59:14
 
 ---
 
-## The Moth
-
-### The Moth Podcast: Technology Fails
-
-**Released:** 2026-04-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5498296649.mp3?updated=1774901677)
-
----
-
-### In Control, Or Not: The Moth Radio Hour
-
-**Released:** 2026-04-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3891186235.mp3?updated=1775951911)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Scams II
@@ -277,6 +259,16 @@ Last updated: 2026-04-17 12:59:14
 **Released:** 2026-04-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e023a7c1-2aba-4f1b-90dc-8c6cab0d4750.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
+
+**Released:** 2026-04-16 11:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
