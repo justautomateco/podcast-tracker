@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37280 at https://www.thisamericanlife.org",
+    "episode_title": "393: Infidelity",
+    "release_date": "2026-04-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "69dc678daf4db69e0dd60d36",
     "episode_title": "Sunday Pick: How a special seaweed is lowering methane emissions\u2014one cow burp at a time | from Speed & Scale",
     "release_date": "2026-04-19 06:00:00",
@@ -40,13 +47,6 @@
     "release_date": "2026-04-15 19:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc62c9361823b7813b4f55/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46137 at https://www.thisamericanlife.org",
-    "episode_title": "885: Bless This Mess",
-    "release_date": "2026-04-12 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "67659bec-3226-4db8-9435-cd13553693a7",
@@ -161,6 +161,20 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "b3cfa749-4273-4e08-873f-a265b9621f65",
+    "episode_title": "Conan Vs. Edibles Part I",
+    "release_date": "2026-04-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "2da5367f-7392-4ef3-b446-c9015ac4a770",
+    "episode_title": "David Oyelowo Returns",
+    "release_date": "2026-04-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "6eae6e06-89d4-11f0-b13f-0f8b28a4554c",
     "episode_title": "The Moth Podcast: Technology Fails",
     "release_date": "2026-04-17 04:25:00",
@@ -180,20 +194,6 @@
     "release_date": "2026-04-13 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "b3cfa749-4273-4e08-873f-a265b9621f65",
-    "episode_title": "Conan Vs. Edibles Part I",
-    "release_date": "2026-04-16 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "2da5367f-7392-4ef3-b446-c9015ac4a770",
-    "episode_title": "David Oyelowo Returns",
-    "release_date": "2026-04-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/bBf5F7WdKgl8yhO7MUnuclAfU-n9faLKla3Lm0uZMAI",

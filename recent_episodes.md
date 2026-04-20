@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-19 12:40:15
+Last updated: 2026-04-20 01:54:41
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2026-04-19 12:40:15
 **Released:** 2026-04-17 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 393: Infidelity
+
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2026-04-19 12:40:15
 **Released:** 2026-04-15 19:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc62c9361823b7813b4f55/media.mp3)
-
----
-
-## This American Life
-
-### 885: Bless This Mess
-
-**Released:** 2026-04-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache)
 
 ---
 
@@ -208,6 +208,24 @@ Last updated: 2026-04-19 12:40:15
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Conan Vs. Edibles Part I
+
+**Released:** 2026-04-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH)
+
+---
+
+### David Oyelowo Returns
+
+**Released:** 2026-04-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### The Moth Podcast: Technology Fails
@@ -233,24 +251,6 @@ Last updated: 2026-04-19 12:40:15
 **Released:** 2026-04-13 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc169c1c-babd-40da-bc2b-b96ba6ec5cf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc169c1c-babd-40da-bc2b-b96ba6ec5cf5&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan Vs. Edibles Part I
-
-**Released:** 2026-04-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH)
-
----
-
-### David Oyelowo Returns
-
-**Released:** 2026-04-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/c3313bcb-08fc-47dd-9807-ba0864c36c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=c3313bcb-08fc-47dd-9807-ba0864c36c82&feed=dHoohVNH)
 
 ---
 
