@@ -1,10 +1,31 @@
 [
   {
+    "guid": "d1e45e1c-a9c6-4a29-923d-26a6108bfb87",
+    "episode_title": "Why Does Everyone Hate Rats? (Update)",
+    "release_date": "2026-04-22 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "5eabfa09-eaec-4875-a19d-50a6d032687d",
     "episode_title": "671. Why Has There Been So Little Progress on Alzheimer\u2019s Disease?",
     "release_date": "2026-04-17 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "37280 at https://www.thisamericanlife.org",
+    "episode_title": "393: Infidelity",
+    "release_date": "2026-04-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69dc69c2f736e119c3a194e5",
+    "episode_title": "To love is to be brave | Kelly Corrigan (re-release)",
+    "release_date": "2026-04-21 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc69c2f736e119c3a194e5/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69e064b9de282b9272c81daa",
@@ -35,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69e02a0a6f0d582d7adba74b",
-    "episode_title": "A plan to stop AI from automating our decline | Gina Raimondo",
-    "release_date": "2026-04-16 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e02a0a6f0d582d7adba74b/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "67659bec-3226-4db8-9435-cd13553693a7",
     "episode_title": "Do prediction market bettors make anything better?",
     "release_date": "2026-04-18 02:00:00",
@@ -49,18 +63,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "52fe0cf1-8566-457b-aab0-b32791f4940f",
-    "episode_title": "How to get through the Strait of Hormuz",
-    "release_date": "2026-04-14 23:06:36",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37280 at https://www.thisamericanlife.org",
-    "episode_title": "393: Infidelity",
-    "release_date": "2026-04-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
-    "podcast_name": "This American Life"
+    "guid": "eb72adac-3d3f-11f1-8058-fb9d026dcf8f",
+    "episode_title": "#2486 - Luis J Gomez",
+    "release_date": "2026-04-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "90196f1e-3a19-11f1-bbe7-032d1a4ac003",
@@ -81,13 +88,6 @@
     "episode_title": "#2483 - Spencer Pratt",
     "release_date": "2026-04-15 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "41cef8ec-37a3-11f1-83cc-6fb93667ce7f",
-    "episode_title": "#2482 - Andy Stumpf",
-    "release_date": "2026-04-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3680007995.mp3?updated=1776185129",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -133,18 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/B8CWbCFL-qx7tvLnT5wh4L9YoAkv7YEaMCVu8_0e8wo",
-    "episode_title": "KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar",
-    "release_date": "2026-04-20 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/44445edf-0780-4c38-bafa-bbd2cdfd1d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/6aYoG2_S9iZVjO4ize2HDg_9jPFCHiK8KcUo3KULifQ",
-    "episode_title": "Advice Line with Chieh Huang of Boxed ",
-    "release_date": "2026-04-16 07:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/ddx9Hsmwb0DmDFkJcym08WmvZl5fw9bfQdcdWks2JyQ",
+    "episode_title": "#861: 4-Hour Workweek Success Story Brian Dean \u2014 From Dad\u2019s Basement to Selling Two Companies",
+    "release_date": "2026-04-16 11:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "fd6b390b-8748-4ccc-a53a-b4330013c7ba",
@@ -161,11 +154,18 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/ddx9Hsmwb0DmDFkJcym08WmvZl5fw9bfQdcdWks2JyQ",
-    "episode_title": "#861: 4-Hour Workweek Success Story Brian Dean \u2014 From Dad\u2019s Basement to Selling Two Companies",
-    "release_date": "2026-04-16 11:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/B8CWbCFL-qx7tvLnT5wh4L9YoAkv7YEaMCVu8_0e8wo",
+    "episode_title": "KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar",
+    "release_date": "2026-04-20 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/44445edf-0780-4c38-bafa-bbd2cdfd1d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/6aYoG2_S9iZVjO4ize2HDg_9jPFCHiK8KcUo3KULifQ",
+    "episode_title": "Advice Line with Chieh Huang of Boxed ",
+    "release_date": "2026-04-16 07:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",

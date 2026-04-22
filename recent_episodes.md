@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-21 13:03:47
+Last updated: 2026-04-22 01:49:17
 
 ## Freakonomics Radio
+
+### Why Does Everyone Hate Rats? (Update)
+
+**Released:** 2026-04-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
+
+---
 
 ### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
 
@@ -12,7 +20,25 @@ Last updated: 2026-04-21 13:03:47
 
 ---
 
+## This American Life
+
+### 393: Infidelity
+
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
+
 ## TED Talks Daily
+
+### To love is to be brave | Kelly Corrigan (re-release)
+
+**Released:** 2026-04-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc69c2f736e119c3a194e5/media.mp3)
+
+---
 
 ### The problem with billionaires — and the debut of True Net Worth | Randall Lane
 
@@ -46,14 +72,6 @@ Last updated: 2026-04-21 13:03:47
 
 ---
 
-### A plan to stop AI from automating our decline | Gina Raimondo
-
-**Released:** 2026-04-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e02a0a6f0d582d7adba74b/media.mp3)
-
----
-
 ## Planet Money
 
 ### Do prediction market bettors make anything better?
@@ -64,25 +82,15 @@ Last updated: 2026-04-21 13:03:47
 
 ---
 
-### How to get through the Strait of Hormuz
-
-**Released:** 2026-04-14 23:06:36
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754)
-
----
-
-## This American Life
-
-### 393: Infidelity
-
-**Released:** 2026-04-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
-
----
-
 ## The Joe Rogan Experience
+
+### #2486 - Luis J Gomez
+
+**Released:** 2026-04-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151)
+
+---
 
 ### #2485 - John Fogerty
 
@@ -105,14 +113,6 @@ Last updated: 2026-04-21 13:03:47
 **Released:** 2026-04-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139)
-
----
-
-### #2482 - Andy Stumpf
-
-**Released:** 2026-04-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3680007995.mp3?updated=1776185129)
 
 ---
 
@@ -170,21 +170,13 @@ Last updated: 2026-04-21 13:03:47
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar
+### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
 
-**Released:** 2026-04-20 07:10:00
+**Released:** 2026-04-16 11:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44445edf-0780-4c38-bafa-bbd2cdfd1d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Chieh Huang of Boxed 
-
-**Released:** 2026-04-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,13 +198,21 @@ Last updated: 2026-04-21 13:03:47
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
+### KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar
 
-**Released:** 2026-04-16 11:30:00
+**Released:** 2026-04-20 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44445edf-0780-4c38-bafa-bbd2cdfd1d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Chieh Huang of Boxed 
+
+**Released:** 2026-04-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
