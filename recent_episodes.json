@@ -1,26 +1,5 @@
 [
   {
-    "guid": "d1e45e1c-a9c6-4a29-923d-26a6108bfb87",
-    "episode_title": "Why Does Everyone Hate Rats? (Update)",
-    "release_date": "2026-04-22 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "5eabfa09-eaec-4875-a19d-50a6d032687d",
-    "episode_title": "671. Why Has There Been So Little Progress on Alzheimer\u2019s Disease?",
-    "release_date": "2026-04-17 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "37280 at https://www.thisamericanlife.org",
-    "episode_title": "393: Infidelity",
-    "release_date": "2026-04-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "69dc69c2f736e119c3a194e5",
     "episode_title": "To love is to be brave | Kelly Corrigan (re-release)",
     "release_date": "2026-04-21 15:00:00",
@@ -54,6 +33,34 @@
     "release_date": "2026-04-17 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e064cf501ebe6715dd4fa7/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "d1e45e1c-a9c6-4a29-923d-26a6108bfb87",
+    "episode_title": "Why Does Everyone Hate Rats? (Update)",
+    "release_date": "2026-04-22 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "5eabfa09-eaec-4875-a19d-50a6d032687d",
+    "episode_title": "671. Why Has There Been So Little Progress on Alzheimer\u2019s Disease?",
+    "release_date": "2026-04-17 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "37280 at https://www.thisamericanlife.org",
+    "episode_title": "393: Infidelity",
+    "release_date": "2026-04-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "fe103503-bf80-41e1-a389-253d028853ed",
+    "episode_title": "Live: Anthropic co-founder on AI and jobs",
+    "release_date": "2026-04-22 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "67659bec-3226-4db8-9435-cd13553693a7",
@@ -98,11 +105,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
-    "episode_title": "Co-op City",
-    "release_date": "2026-04-21 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "f60785b6-9f85-43e2-968c-b432015ca1eb",
+    "episode_title": "Short Stuff: Brown-Headed Cowbird",
+    "release_date": "2026-04-22 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f60785b6-9f85-43e2-968c-b432015ca1eb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "f67504fb-4645-4b9b-9186-b432011bdde9",
@@ -126,18 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "3ff4a8d8-160a-43a2-aff2-b41a00c1c0ba",
-    "episode_title": "Short Stuff: Cherry Blossoms",
-    "release_date": "2026-04-15 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3ff4a8d8-160a-43a2-aff2-b41a00c1c0ba/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ddx9Hsmwb0DmDFkJcym08WmvZl5fw9bfQdcdWks2JyQ",
-    "episode_title": "#861: 4-Hour Workweek Success Story Brian Dean \u2014 From Dad\u2019s Basement to Selling Two Companies",
-    "release_date": "2026-04-16 11:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
+    "episode_title": "Co-op City",
+    "release_date": "2026-04-21 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "fd6b390b-8748-4ccc-a53a-b4330013c7ba",
@@ -166,6 +166,13 @@
     "release_date": "2026-04-16 07:00:00",
     "mp3_url": "https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/ddx9Hsmwb0DmDFkJcym08WmvZl5fw9bfQdcdWks2JyQ",
+    "episode_title": "#861: 4-Hour Workweek Success Story Brian Dean \u2014 From Dad\u2019s Basement to Selling Two Companies",
+    "release_date": "2026-04-16 11:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",
@@ -203,6 +210,13 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "gid://art19-episode-locator/V0/XIbwHggweiZquxWdTPvpVb75BlPx4aQZroU7f2-220g",
+    "episode_title": "Alvin E. Roth (on moral economics)",
+    "release_date": "2026-04-22 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/caDtGfDbNunD4duuKnWpTPhEnYCWBgJJI2K-7iGYIHE",
     "episode_title": "Tom Pelphrey",
     "release_date": "2026-04-20 07:30:00",
@@ -214,13 +228,6 @@
     "episode_title": "Armchair Anonymous: Scams II",
     "release_date": "2026-04-17 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/vV-Xri4dTdaVArg6CTofEKZ49YEl9bxBQcqEvTZe6KQ",
-    "episode_title": "Rachel Zoffness (on pain)",
-    "release_date": "2026-04-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/56f68de5-d0d1-4bcd-8704-d179d303c8e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]
