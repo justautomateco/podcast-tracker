@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-23 01:52:45
+Last updated: 2026-04-23 13:05:22
 
 ## Freakonomics Radio
 
@@ -110,6 +110,40 @@ Last updated: 2026-04-23 01:52:45
 
 ---
 
+## Stuff You Should Know
+
+### UNESCO World Heritage: Preserving the Best of Humanity
+
+**Released:** 2026-04-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57801e3e-ac85-4125-a198-b43201210d36/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Brown-Headed Cowbird
+
+**Released:** 2026-04-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f60785b6-9f85-43e2-968c-b432015ca1eb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Some Silly Inventions That Became Wildly Popular
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f67504fb-4645-4b9b-9186-b432011bdde9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Sammy Davis Jr: National Treasure
+
+**Released:** 2026-04-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/123e278c-b43b-4cac-95f6-b4210121d41f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2487 - Action Bronson
@@ -144,51 +178,15 @@ Last updated: 2026-04-23 01:52:45
 
 ---
 
-## Stuff You Should Know
-
-### Short Stuff: Brown-Headed Cowbird
-
-**Released:** 2026-04-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f60785b6-9f85-43e2-968c-b432015ca1eb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Some Silly Inventions That Became Wildly Popular
-
-**Released:** 2026-04-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f67504fb-4645-4b9b-9186-b432011bdde9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Sammy Davis Jr: National Treasure
-
-**Released:** 2026-04-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/123e278c-b43b-4cac-95f6-b4210121d41f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Sewol Ferry Disaster
-
-**Released:** 2026-04-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24aa11ca-892c-4020-8654-b42e00131b14/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
-
-**Released:** 2026-04-16 11:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
+
+### Advice Line with Eric Ryan of Method returns 
+
+**Released:** 2026-04-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e21691a9-29c3-4af2-b232-d380f776847b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar
 
@@ -198,29 +196,21 @@ Last updated: 2026-04-23 01:52:45
 
 ---
 
-### Advice Line with Chieh Huang of Boxed 
+## Revisionist History
 
-**Released:** 2026-04-16 07:00:00
+### A Tragedy in Texas: Mistakes Part 2
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ed16e81b-6ca6-45fe-a6d7-426fdc92979a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-04-23 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
-
-## Revisionist History
 
 ### The Shawshank Redemption | From What Went Wrong
 
 **Released:** 2026-04-21 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Sony Hack: Mistakes Part 1
-
-**Released:** 2026-04-16 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/347d2c8c-0212-4cda-aa5d-b42d015a099b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -254,19 +244,19 @@ Last updated: 2026-04-23 01:52:45
 
 ## Conan O'Brien Needs A Friend
 
+### The State Of The Entertainment Business With Jeff Ross
+
+**Released:** 2026-04-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH)
+
+---
+
 ### Dan Levy
 
 **Released:** 2026-04-20 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9&feed=dHoohVNH)
-
----
-
-### Conan Vs. Edibles Part I
-
-**Released:** 2026-04-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH)
 
 ---
 
