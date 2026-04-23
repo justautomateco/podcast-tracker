@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-22 13:05:50
+Last updated: 2026-04-23 01:52:45
+
+## Freakonomics Radio
+
+### Why Does Everyone Hate Rats? (Update)
+
+**Released:** 2026-04-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
+
+---
+
+### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
+
+**Released:** 2026-04-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 393: Infidelity
+
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
 
 ## TED Talks Daily
+
+### A cheat sheet for accelerating clean energy | Kimiko Hirata
+
+**Released:** 2026-04-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e6404566c3374f7ea1599e/media.mp3)
+
+---
 
 ### To love is to be brave | Kelly Corrigan (re-release)
 
@@ -36,42 +72,6 @@ Last updated: 2026-04-22 13:05:50
 
 ---
 
-### How I created OpenClaw, the breakthrough AI agent | Peter Steinberger
-
-**Released:** 2026-04-17 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e064cf501ebe6715dd4fa7/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Why Does Everyone Hate Rats? (Update)
-
-**Released:** 2026-04-22 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
-
----
-
-### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
-
-**Released:** 2026-04-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 393: Infidelity
-
-**Released:** 2026-04-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
-
----
-
 ## Planet Money
 
 ### Live: Anthropic co-founder on AI and jobs
@@ -90,7 +90,35 @@ Last updated: 2026-04-22 13:05:50
 
 ---
 
+## Hidden Brain
+
+### Do You Feel Loved?
+
+**Released:** 2026-04-20 19:23:23
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Co-op City
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2487 - Action Bronson
+
+**Released:** 2026-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
+
+---
 
 ### #2486 - Luis J Gomez
 
@@ -113,24 +141,6 @@ Last updated: 2026-04-22 13:05:50
 **Released:** 2026-04-16 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776472896)
-
----
-
-### #2483 - Spencer Pratt
-
-**Released:** 2026-04-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3041224181.mp3?updated=1776269139)
-
----
-
-## Hidden Brain
-
-### Do You Feel Loved?
-
-**Released:** 2026-04-20 19:23:23
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
 
 ---
 
@@ -168,31 +178,13 @@ Last updated: 2026-04-22 13:05:50
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### Co-op City
+### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
 
-**Released:** 2026-04-21 09:00:00
+**Released:** 2026-04-16 11:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### The Shawshank Redemption | From What Went Wrong
-
-**Released:** 2026-04-21 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Sony Hack: Mistakes Part 1
-
-**Released:** 2026-04-16 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/347d2c8c-0212-4cda-aa5d-b42d015a099b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,13 +206,21 @@ Last updated: 2026-04-22 13:05:50
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #861: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies
+### The Shawshank Redemption | From What Went Wrong
 
-**Released:** 2026-04-16 11:30:00
+**Released:** 2026-04-21 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/917664ad-04c8-42c6-95b3-5b33d5cd654c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Sony Hack: Mistakes Part 1
+
+**Released:** 2026-04-16 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/347d2c8c-0212-4cda-aa5d-b42d015a099b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -242,6 +242,16 @@ Last updated: 2026-04-22 13:05:50
 
 ---
 
+## SmartLess 
+
+### "Aubrey Plaza"
+
+**Released:** 2026-04-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Dan Levy
@@ -257,16 +267,6 @@ Last updated: 2026-04-22 13:05:50
 **Released:** 2026-04-16 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/52a5e325-86c2-449d-9e80-6f40d79cdaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=52a5e325-86c2-449d-9e80-6f40d79cdaca&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Aubrey Plaza"
-
-**Released:** 2026-04-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
 
 ---
 
