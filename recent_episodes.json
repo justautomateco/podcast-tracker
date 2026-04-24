@@ -14,11 +14,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "37280 at https://www.thisamericanlife.org",
-    "episode_title": "393: Infidelity",
-    "release_date": "2026-04-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
-    "podcast_name": "This American Life"
+    "guid": "69ea319e6e5b90839a73c5a2",
+    "episode_title": "Beware the power of prediction | Carissa V\u00e9liz",
+    "release_date": "2026-04-23 15:04:38",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ea319e6e5b90839a73c5a2/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69e6404566c3374f7ea1599e",
@@ -49,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69dc66ccf736e119c3a0b5d9",
-    "episode_title": "3 questions to build resilience \u2014 and change the world | Sister True Dedication",
-    "release_date": "2026-04-18 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc66ccf736e119c3a0b5d9/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "fe103503-bf80-41e1-a389-253d028853ed",
     "episode_title": "Live: Anthropic co-founder on AI and jobs",
     "release_date": "2026-04-22 07:00:00",
@@ -68,6 +61,41 @@
     "release_date": "2026-04-18 02:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "37280 at https://www.thisamericanlife.org",
+    "episode_title": "393: Infidelity",
+    "release_date": "2026-04-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "b76e32c6-3eb9-11f1-907c-8b28c04c10f1",
+    "episode_title": "#2488 - James McCann",
+    "release_date": "2026-04-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "72c240ca-3df3-11f1-8e44-db5b3a3561aa",
+    "episode_title": "#2487 - Action Bronson",
+    "release_date": "2026-04-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "eb72adac-3d3f-11f1-8058-fb9d026dcf8f",
+    "episode_title": "#2486 - Luis J Gomez",
+    "release_date": "2026-04-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "90196f1e-3a19-11f1-bbe7-032d1a4ac003",
+    "episode_title": "#2485 - John Fogerty",
+    "release_date": "2026-04-17 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "1dd352e6-f20d-407c-869c-af6c37eed477",
@@ -112,34 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "72c240ca-3df3-11f1-8e44-db5b3a3561aa",
-    "episode_title": "#2487 - Action Bronson",
-    "release_date": "2026-04-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "eb72adac-3d3f-11f1-8058-fb9d026dcf8f",
-    "episode_title": "#2486 - Luis J Gomez",
-    "release_date": "2026-04-21 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "90196f1e-3a19-11f1-bbe7-032d1a4ac003",
-    "episode_title": "#2485 - John Fogerty",
-    "release_date": "2026-04-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "5c082256-3951-11f1-9752-f7424aaf0f13",
-    "episode_title": "#2484 - David Cross",
-    "release_date": "2026-04-16 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776472896",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/qZdJhb-m6BOi7tMWxD1t-raLPyUjjIYiWKyYw1BulCg",
     "episode_title": "Advice Line with Eric Ryan of Method returns ",
     "release_date": "2026-04-23 07:00:00",
@@ -166,6 +166,27 @@
     "release_date": "2026-04-21 04:01:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/XIbwHggweiZquxWdTPvpVb75BlPx4aQZroU7f2-220g",
+    "episode_title": "Alvin E. Roth (on moral economics)",
+    "release_date": "2026-04-22 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/caDtGfDbNunD4duuKnWpTPhEnYCWBgJJI2K-7iGYIHE",
+    "episode_title": "Tom Pelphrey",
+    "release_date": "2026-04-20 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/bBf5F7WdKgl8yhO7MUnuclAfU-n9faLKla3Lm0uZMAI",
+    "episode_title": "Armchair Anonymous: Scams II",
+    "release_date": "2026-04-17 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",
@@ -203,24 +224,10 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/XIbwHggweiZquxWdTPvpVb75BlPx4aQZroU7f2-220g",
-    "episode_title": "Alvin E. Roth (on moral economics)",
-    "release_date": "2026-04-22 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/caDtGfDbNunD4duuKnWpTPhEnYCWBgJJI2K-7iGYIHE",
-    "episode_title": "Tom Pelphrey",
-    "release_date": "2026-04-20 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/bBf5F7WdKgl8yhO7MUnuclAfU-n9faLKla3Lm0uZMAI",
-    "episode_title": "Armchair Anonymous: Scams II",
-    "release_date": "2026-04-17 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
+    "episode_title": "#862: Cathy Lanier, NFL Chief Security Officer \u2014 From Food Stamps to the Super Bowl War Room",
+    "release_date": "2026-04-23 16:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

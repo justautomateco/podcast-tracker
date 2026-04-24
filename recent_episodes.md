@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-23 13:05:22
+Last updated: 2026-04-24 01:52:43
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-04-23 13:05:22
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 393: Infidelity
+### Beware the power of prediction | Carissa Véliz
 
-**Released:** 2026-04-19 18:00:00
+**Released:** 2026-04-23 15:04:38
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ea319e6e5b90839a73c5a2/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### A cheat sheet for accelerating clean energy | Kimiko Hirata
 
@@ -64,14 +62,6 @@ Last updated: 2026-04-23 13:05:22
 
 ---
 
-### 3 questions to build resilience — and change the world | Sister True Dedication
-
-**Released:** 2026-04-18 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc66ccf736e119c3a0b5d9/media.mp3)
-
----
-
 ## Planet Money
 
 ### Live: Anthropic co-founder on AI and jobs
@@ -87,6 +77,50 @@ Last updated: 2026-04-23 13:05:22
 **Released:** 2026-04-18 02:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000)
+
+---
+
+## This American Life
+
+### 393: Infidelity
+
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2488 - James McCann
+
+**Released:** 2026-04-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977)
+
+---
+
+### #2487 - Action Bronson
+
+**Released:** 2026-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
+
+---
+
+### #2486 - Luis J Gomez
+
+**Released:** 2026-04-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151)
+
+---
+
+### #2485 - John Fogerty
+
+**Released:** 2026-04-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206)
 
 ---
 
@@ -144,40 +178,6 @@ Last updated: 2026-04-23 13:05:22
 
 ---
 
-## The Joe Rogan Experience
-
-### #2487 - Action Bronson
-
-**Released:** 2026-04-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
-
----
-
-### #2486 - Luis J Gomez
-
-**Released:** 2026-04-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151)
-
----
-
-### #2485 - John Fogerty
-
-**Released:** 2026-04-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206)
-
----
-
-### #2484 - David Cross
-
-**Released:** 2026-04-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8435055211.mp3?updated=1776472896)
-
----
-
 ## How I Built This
 
 ### Advice Line with Eric Ryan of Method returns 
@@ -211,6 +211,32 @@ Last updated: 2026-04-23 13:05:22
 **Released:** 2026-04-21 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Armchair Expert
+
+### Alvin E. Roth (on moral economics)
+
+**Released:** 2026-04-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Tom Pelphrey
+
+**Released:** 2026-04-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Scams II
+
+**Released:** 2026-04-17 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -260,29 +286,13 @@ Last updated: 2026-04-23 13:05:22
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Alvin E. Roth (on moral economics)
+### #862: Cathy Lanier, NFL Chief Security Officer — From Food Stamps to the Super Bowl War Room
 
-**Released:** 2026-04-22 07:30:00
+**Released:** 2026-04-23 16:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tom Pelphrey
-
-**Released:** 2026-04-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Scams II
-
-**Released:** 2026-04-17 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
