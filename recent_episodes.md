@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-24 01:52:43
+Last updated: 2026-04-24 13:02:10
 
 ## Freakonomics Radio
+
+### 672.  What Makes Judy Faulkner Run?
+
+**Released:** 2026-04-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+
+---
 
 ### Why Does Everyone Hate Rats? (Update)
 
 **Released:** 2026-04-22 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
-
----
-
-### 671. Why Has There Been So Little Progress on Alzheimer’s Disease?
-
-**Released:** 2026-04-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=fb7c8ff4-4d4b-4de3-9f6e-fbfed0887cb9&feed=Y8lFbOT4)
 
 ---
 
@@ -80,50 +80,6 @@ Last updated: 2026-04-24 01:52:43
 
 ---
 
-## This American Life
-
-### 393: Infidelity
-
-**Released:** 2026-04-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
-
----
-
-## The Joe Rogan Experience
-
-### #2488 - James McCann
-
-**Released:** 2026-04-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977)
-
----
-
-### #2487 - Action Bronson
-
-**Released:** 2026-04-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
-
----
-
-### #2486 - Luis J Gomez
-
-**Released:** 2026-04-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151)
-
----
-
-### #2485 - John Fogerty
-
-**Released:** 2026-04-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1846702753.mp3?updated=1776435206)
-
----
-
 ## Hidden Brain
 
 ### Do You Feel Loved?
@@ -134,13 +90,13 @@ Last updated: 2026-04-24 01:52:43
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### Co-op City
+### 393: Infidelity
 
-**Released:** 2026-04-21 09:00:00
+**Released:** 2026-04-19 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
 
 ---
 
@@ -175,6 +131,34 @@ Last updated: 2026-04-24 01:52:43
 **Released:** 2026-04-18 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/123e278c-b43b-4cac-95f6-b4210121d41f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Constitution Breakdown #9: Alondra Nelson
+
+**Released:** 2026-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+
+---
+
+### Co-op City
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #862: Cathy Lanier, NFL Chief Security Officer — From Food Stamps to the Super Bowl War Room
+
+**Released:** 2026-04-23 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,47 +198,21 @@ Last updated: 2026-04-24 01:52:43
 
 ---
 
-## Armchair Expert
-
-### Alvin E. Roth (on moral economics)
-
-**Released:** 2026-04-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tom Pelphrey
-
-**Released:** 2026-04-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Scams II
-
-**Released:** 2026-04-17 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/724c516b-b5f0-4d4a-9ee7-3cd31dfb103a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### Seen and Unseen: The Moth Podcast
+
+**Released:** 2026-04-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3666836678.mp3?updated=1776368706)
+
+---
 
 ### Facing the Music: Stories about Coming to Terms: The Moth Radio Hour
 
 **Released:** 2026-04-21 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4857012781.mp3?updated=1776639167)
-
----
-
-### The Moth Podcast: Technology Fails
-
-**Released:** 2026-04-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5498296649.mp3?updated=1774901677)
 
 ---
 
@@ -286,13 +244,29 @@ Last updated: 2026-04-24 01:52:43
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #862: Cathy Lanier, NFL Chief Security Officer — From Food Stamps to the Super Bowl War Room
+### Armchair Anonymous: Twins
 
-**Released:** 2026-04-23 16:00:00
+**Released:** 2026-04-24 07:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/707ef107-d23b-4357-ac65-fb842d247139.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Alvin E. Roth (on moral economics)
+
+**Released:** 2026-04-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Tom Pelphrey
+
+**Released:** 2026-04-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
