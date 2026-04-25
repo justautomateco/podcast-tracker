@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-25 01:44:06
+Last updated: 2026-04-25 12:42:26
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-04-25 01:44:06
 **Released:** 2026-04-22 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 393: Infidelity
-
-**Released:** 2026-04-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
 
 ---
 
@@ -90,11 +80,23 @@ Last updated: 2026-04-25 01:44:06
 
 ---
 
-### Do prediction market bettors make anything better?
+## This American Life
 
-**Released:** 2026-04-18 02:00:00
+### 393: Infidelity
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000)
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
+
+## Hidden Brain
+
+### Do You Feel Loved?
+
+**Released:** 2026-04-20 19:23:23
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
 
 ---
 
@@ -132,35 +134,15 @@ Last updated: 2026-04-25 01:44:06
 
 ---
 
-## Hidden Brain
-
-### Do You Feel Loved?
-
-**Released:** 2026-04-20 19:23:23
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Constitution Breakdown #9: Alondra Nelson
-
-**Released:** 2026-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
-
----
-
-### Co-op City
-
-**Released:** 2026-04-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Selects: How Fever Dreams Work
+
+**Released:** 2026-04-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ca1065c6-3d59-4259-a5a5-b4340146e34e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### UNESCO World Heritage: Preserving the Best of Humanity
 
@@ -186,11 +168,21 @@ Last updated: 2026-04-25 01:44:06
 
 ---
 
-### Selects: Sammy Davis Jr: National Treasure
+## 99% Invisible
 
-**Released:** 2026-04-18 09:00:00
+### Constitution Breakdown #9: Alondra Nelson
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/123e278c-b43b-4cac-95f6-b4210121d41f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+
+---
+
+### Co-op City
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
 
 ---
 
@@ -258,6 +250,16 @@ Last updated: 2026-04-25 01:44:06
 
 ---
 
+## SmartLess 
+
+### "Aubrey Plaza"
+
+**Released:** 2026-04-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### The State Of The Entertainment Business With Jeff Ross
@@ -273,16 +275,6 @@ Last updated: 2026-04-25 01:44:06
 **Released:** 2026-04-20 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Aubrey Plaza"
-
-**Released:** 2026-04-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
 
 ---
 
