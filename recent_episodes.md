@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-24 13:02:10
+Last updated: 2026-04-25 01:44:06
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
+## This American Life
+
+### 393: Infidelity
+
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
+
 ## TED Talks Daily
+
+### What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu
+
+**Released:** 2026-04-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69eb82ed6eeb59e2ba2abbe4/media.mp3)
+
+---
 
 ### Beware the power of prediction | Carissa Véliz
 
@@ -54,15 +72,15 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
-### Sunday Pick: How a special seaweed is lowering methane emissions—one cow burp at a time | from Speed & Scale
+## Planet Money
 
-**Released:** 2026-04-19 06:00:00
+### Battlefield rare earths: How the U.S. lost to China
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc678daf4db69e0dd60d36/media.mp3)
+**Released:** 2026-04-24 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
 
 ---
-
-## Planet Money
 
 ### Live: Anthropic co-founder on AI and jobs
 
@@ -80,6 +98,40 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
+## The Joe Rogan Experience
+
+### #2489 - Ryan Bingham
+
+**Released:** 2026-04-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261)
+
+---
+
+### #2488 - James McCann
+
+**Released:** 2026-04-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977)
+
+---
+
+### #2487 - Action Bronson
+
+**Released:** 2026-04-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
+
+---
+
+### #2486 - Luis J Gomez
+
+**Released:** 2026-04-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151)
+
+---
+
 ## Hidden Brain
 
 ### Do You Feel Loved?
@@ -90,13 +142,21 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
-## This American Life
+## 99% Invisible
 
-### 393: Infidelity
+### Constitution Breakdown #9: Alondra Nelson
 
-**Released:** 2026-04-19 18:00:00
+**Released:** 2026-04-24 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+
+---
+
+### Co-op City
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
 
 ---
 
@@ -134,31 +194,21 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
-## 99% Invisible
+## Revisionist History
 
-### Constitution Breakdown #9: Alondra Nelson
+### A Tragedy in Texas: Mistakes Part 2
 
-**Released:** 2026-04-24 09:00:00
+**Released:** 2026-04-23 04:01:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
-
----
-
-### Co-op City
-
-**Released:** 2026-04-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-## The Tim Ferriss Show
+### The Shawshank Redemption | From What Went Wrong
 
-### #862: Cathy Lanier, NFL Chief Security Officer — From Food Stamps to the Super Bowl War Room
+**Released:** 2026-04-21 04:01:00
 
-**Released:** 2026-04-23 16:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -180,21 +230,13 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### A Tragedy in Texas: Mistakes Part 2
+### #862: Cathy Lanier, NFL Chief Security Officer — From Food Stamps to the Super Bowl War Room
 
-**Released:** 2026-04-23 04:01:00
+**Released:** 2026-04-23 16:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Shawshank Redemption | From What Went Wrong
-
-**Released:** 2026-04-21 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,16 +258,6 @@ Last updated: 2026-04-24 13:02:10
 
 ---
 
-## SmartLess 
-
-### "Aubrey Plaza"
-
-**Released:** 2026-04-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### The State Of The Entertainment Business With Jeff Ross
@@ -241,6 +273,16 @@ Last updated: 2026-04-24 13:02:10
 **Released:** 2026-04-20 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Aubrey Plaza"
+
+**Released:** 2026-04-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
 
 ---
 

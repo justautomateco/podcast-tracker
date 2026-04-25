@@ -14,6 +14,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37280 at https://www.thisamericanlife.org",
+    "episode_title": "393: Infidelity",
+    "release_date": "2026-04-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69eb82ed6eeb59e2ba2abbe4",
+    "episode_title": "What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu",
+    "release_date": "2026-04-24 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69eb82ed6eeb59e2ba2abbe4/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69ea319e6e5b90839a73c5a2",
     "episode_title": "Beware the power of prediction | Carissa V\u00e9liz",
     "release_date": "2026-04-23 15:04:38",
@@ -42,11 +56,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69dc678daf4db69e0dd60d36",
-    "episode_title": "Sunday Pick: How a special seaweed is lowering methane emissions\u2014one cow burp at a time | from Speed & Scale",
-    "release_date": "2026-04-19 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc678daf4db69e0dd60d36/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "f01cfa0b-1245-4c00-887a-3f49c693a6b1",
+    "episode_title": "Battlefield rare earths: How the U.S. lost to China",
+    "release_date": "2026-04-24 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "fe103503-bf80-41e1-a389-253d028853ed",
@@ -63,6 +77,34 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "f4bbbb36-3f85-11f1-98f8-538a9d2d7656",
+    "episode_title": "#2489 - Ryan Bingham",
+    "release_date": "2026-04-24 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b76e32c6-3eb9-11f1-907c-8b28c04c10f1",
+    "episode_title": "#2488 - James McCann",
+    "release_date": "2026-04-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "72c240ca-3df3-11f1-8e44-db5b3a3561aa",
+    "episode_title": "#2487 - Action Bronson",
+    "release_date": "2026-04-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "eb72adac-3d3f-11f1-8058-fb9d026dcf8f",
+    "episode_title": "#2486 - Luis J Gomez",
+    "release_date": "2026-04-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "1dd352e6-f20d-407c-869c-af6c37eed477",
     "episode_title": "Do You Feel Loved?",
     "release_date": "2026-04-20 19:23:23",
@@ -70,11 +112,18 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "37280 at https://www.thisamericanlife.org",
-    "episode_title": "393: Infidelity",
-    "release_date": "2026-04-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
-    "podcast_name": "This American Life"
+    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
+    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
+    "release_date": "2026-04-24 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
+    "episode_title": "Co-op City",
+    "release_date": "2026-04-21 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "57801e3e-ac85-4125-a198-b43201210d36",
@@ -105,25 +154,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
-    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
-    "release_date": "2026-04-24 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "d9f6a9f4-e57e-4468-ae40-b434016f8dcf",
+    "episode_title": "A Tragedy in Texas: Mistakes Part 2",
+    "release_date": "2026-04-23 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
-    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
-    "episode_title": "Co-op City",
-    "release_date": "2026-04-21 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
-    "episode_title": "#862: Cathy Lanier, NFL Chief Security Officer \u2014 From Food Stamps to the Super Bowl War Room",
-    "release_date": "2026-04-23 16:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "fd6b390b-8748-4ccc-a53a-b4330013c7ba",
+    "episode_title": "The Shawshank Redemption | From What Went Wrong",
+    "release_date": "2026-04-21 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/qZdJhb-m6BOi7tMWxD1t-raLPyUjjIYiWKyYw1BulCg",
@@ -140,18 +182,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "d9f6a9f4-e57e-4468-ae40-b434016f8dcf",
-    "episode_title": "A Tragedy in Texas: Mistakes Part 2",
-    "release_date": "2026-04-23 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "fd6b390b-8748-4ccc-a53a-b4330013c7ba",
-    "episode_title": "The Shawshank Redemption | From What Went Wrong",
-    "release_date": "2026-04-21 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
+    "episode_title": "#862: Cathy Lanier, NFL Chief Security Officer \u2014 From Food Stamps to the Super Bowl War Room",
+    "release_date": "2026-04-23 16:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "6e889c08-89d4-11f0-b13f-63fba2d61a55",
@@ -168,13 +203,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "c6e605cc-073a-4b9d-b01b-f34f0de7e1c3",
-    "episode_title": "\"Aubrey Plaza\"",
-    "release_date": "2026-04-20 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "0131928e-7c04-4051-aca8-ec5009c9d589",
     "episode_title": "The State Of The Entertainment Business With Jeff Ross",
     "release_date": "2026-04-23 04:05:00",
@@ -187,6 +215,13 @@
     "release_date": "2026-04-20 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "c6e605cc-073a-4b9d-b01b-f34f0de7e1c3",
+    "episode_title": "\"Aubrey Plaza\"",
+    "release_date": "2026-04-20 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/04hpLCz0Z5ABOzUceVxoujyIforOUB5VkmVGOzUb2Gw",
