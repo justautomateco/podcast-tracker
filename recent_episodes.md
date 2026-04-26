@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-26 01:56:13
+Last updated: 2026-04-26 12:44:32
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 393: Infidelity
+### Sunday Pick: Min Jin Lee | from Design Matters
 
-**Released:** 2026-04-19 18:00:00
+**Released:** 2026-04-26 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d41629f57702d2d9fbedab/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### What you discover when you really listen | Hrishikesh Hirway (re-release and interview) 
 
@@ -64,11 +62,31 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-### To love is to be brave | Kelly Corrigan (re-release)
+## This American Life
 
-**Released:** 2026-04-21 15:00:00
+### 393: Infidelity
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc69c2f736e119c3a194e5/media.mp3)
+**Released:** 2026-04-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache)
+
+---
+
+## Planet Money
+
+### Battlefield rare earths: How the U.S. lost to China
+
+**Released:** 2026-04-24 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
+
+---
+
+### Live: Anthropic co-founder on AI and jobs
+
+**Released:** 2026-04-22 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926)
 
 ---
 
@@ -106,24 +124,6 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-## Planet Money
-
-### Battlefield rare earths: How the U.S. lost to China
-
-**Released:** 2026-04-24 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
-
----
-
-### Live: Anthropic co-founder on AI and jobs
-
-**Released:** 2026-04-22 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926)
-
----
-
 ## Hidden Brain
 
 ### Do You Feel Loved?
@@ -131,6 +131,24 @@ Last updated: 2026-04-26 01:56:13
 **Released:** 2026-04-20 19:23:23
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Constitution Breakdown #9: Alondra Nelson
+
+**Released:** 2026-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+
+---
+
+### Co-op City
+
+**Released:** 2026-04-21 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
 
 ---
 
@@ -168,21 +186,31 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### Constitution Breakdown #9: Alondra Nelson
+### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
 
-**Released:** 2026-04-24 09:00:00
+**Released:** 2026-04-23 16:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Co-op City
+## Revisionist History
 
-**Released:** 2026-04-21 09:00:00
+### A Tragedy in Texas: Mistakes Part 2
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO)
+**Released:** 2026-04-23 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Shawshank Redemption | From What Went Wrong
+
+**Released:** 2026-04-21 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -204,21 +232,13 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### A Tragedy in Texas: Mistakes Part 2
+### "Aubrey Plaza"
 
-**Released:** 2026-04-23 04:01:00
+**Released:** 2026-04-20 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Shawshank Redemption | From What Went Wrong
-
-**Released:** 2026-04-21 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
 
 ---
 
@@ -258,16 +278,6 @@ Last updated: 2026-04-26 01:56:13
 
 ---
 
-## SmartLess 
-
-### "Aubrey Plaza"
-
-**Released:** 2026-04-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Twins
@@ -291,16 +301,6 @@ Last updated: 2026-04-26 01:56:13
 **Released:** 2026-04-20 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
-
-**Released:** 2026-04-23 16:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
