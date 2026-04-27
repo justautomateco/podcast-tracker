@@ -105,20 +105,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
-    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
-    "release_date": "2026-04-24 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
-    "episode_title": "Co-op City",
-    "release_date": "2026-04-21 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "ca1065c6-3d59-4259-a5a5-b4340146e34e",
     "episode_title": "Selects: How Fever Dreams Work",
     "release_date": "2026-04-25 09:00:00",
@@ -147,6 +133,27 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
+    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
+    "release_date": "2026-04-24 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
+    "episode_title": "Co-op City",
+    "release_date": "2026-04-21 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/8ftWRlAM7ypQ-6-bkRgYIzwOPLu3Afpp3r5ZoPt0sIs",
+    "episode_title": "Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.",
+    "release_date": "2026-04-27 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/qZdJhb-m6BOi7tMWxD1t-raLPyUjjIYiWKyYw1BulCg",
     "episode_title": "Advice Line with Eric Ryan of Method returns ",
     "release_date": "2026-04-23 07:00:00",
@@ -154,11 +161,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/B8CWbCFL-qx7tvLnT5wh4L9YoAkv7YEaMCVu8_0e8wo",
-    "episode_title": "KIND bars: Daniel Lubetzky. From peace in the Middle East to a $5 billion snack bar",
-    "release_date": "2026-04-20 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/44445edf-0780-4c38-bafa-bbd2cdfd1d90.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
+    "episode_title": "#862: Cathy Lanier, Chief Security Officer of the NFL \u2014 From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure ",
+    "release_date": "2026-04-23 16:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "d9f6a9f4-e57e-4468-ae40-b434016f8dcf",
@@ -175,25 +182,32 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
-    "episode_title": "#862: Cathy Lanier, Chief Security Officer of the NFL \u2014 From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure ",
-    "release_date": "2026-04-23 16:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "6e889c08-89d4-11f0-b13f-63fba2d61a55",
+    "episode_title": "Seen and Unseen: The Moth Podcast",
+    "release_date": "2026-04-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3666836678.mp3?updated=1776368706",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "0131928e-7c04-4051-aca8-ec5009c9d589",
-    "episode_title": "The State Of The Entertainment Business With Jeff Ross",
-    "release_date": "2026-04-23 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",
+    "episode_title": "Facing the Music: Stories about Coming to Terms: The Moth Radio Hour",
+    "release_date": "2026-04-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4857012781.mp3?updated=1776639167",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "6b0c053c-e975-40dd-b875-f3024d230368",
-    "episode_title": "Dan Levy",
-    "release_date": "2026-04-20 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=0c21bf14-2ea2-4e6a-8429-1af7b70e0ce9&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "a5ae246f-2c2e-4419-af7f-67ff87f2a69f",
+    "episode_title": "\"Nick Kroll\"",
+    "release_date": "2026-04-27 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/ZRxsvQy-U_jiOCF0W7kt2MhfPnmmSBGDFoNi35B4Z84",
+    "episode_title": "Laufey",
+    "release_date": "2026-04-27 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2a0b189c-ea72-45b0-bc97-79f1a4cc943f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/04hpLCz0Z5ABOzUceVxoujyIforOUB5VkmVGOzUb2Gw",
@@ -210,31 +224,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/caDtGfDbNunD4duuKnWpTPhEnYCWBgJJI2K-7iGYIHE",
-    "episode_title": "Tom Pelphrey",
-    "release_date": "2026-04-20 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/97340244-2ee8-481d-b0e3-665059e0e8a7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "6ba1e736-0c07-41fe-8314-75d2867267ac",
+    "episode_title": "Ike Barinholtz",
+    "release_date": "2026-04-27 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "c6e605cc-073a-4b9d-b01b-f34f0de7e1c3",
-    "episode_title": "\"Aubrey Plaza\"",
-    "release_date": "2026-04-20 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/706a6d2e-2e69-459b-b3df-22199da0e619/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=706a6d2e-2e69-459b-b3df-22199da0e619&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "6e889c08-89d4-11f0-b13f-63fba2d61a55",
-    "episode_title": "Seen and Unseen: The Moth Podcast",
-    "release_date": "2026-04-24 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3666836678.mp3?updated=1776368706",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",
-    "episode_title": "Facing the Music: Stories about Coming to Terms: The Moth Radio Hour",
-    "release_date": "2026-04-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4857012781.mp3?updated=1776639167",
-    "podcast_name": "The Moth"
+    "guid": "0131928e-7c04-4051-aca8-ec5009c9d589",
+    "episode_title": "The State Of The Entertainment Business With Jeff Ross",
+    "release_date": "2026-04-23 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
