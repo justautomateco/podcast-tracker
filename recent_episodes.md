@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-27 13:20:01
-
-## Freakonomics Radio
-
-### 672.  What Makes Judy Faulkner Run?
-
-**Released:** 2026-04-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
-
----
-
-### Why Does Everyone Hate Rats? (Update)
-
-**Released:** 2026-04-22 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 466: Blackjack
-
-**Released:** 2026-04-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache)
-
----
+Last updated: 2026-04-28 02:05:49
 
 ## TED Talks Daily
+
+### How to google your symptoms without freaking out | John Whyte
+
+**Released:** 2026-04-27 15:01:33
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7a4dca8040fd317d3a2c/media.mp3)
+
+---
 
 ### Sunday Pick: Min Jin Lee | from Design Matters
 
@@ -64,11 +44,21 @@ Last updated: 2026-04-27 13:20:01
 
 ---
 
-### A cheat sheet for accelerating clean energy | Kimiko Hirata
+## Freakonomics Radio
 
-**Released:** 2026-04-22 15:00:00
+### 672.  What Makes Judy Faulkner Run?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e6404566c3374f7ea1599e/media.mp3)
+**Released:** 2026-04-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+
+---
+
+### Why Does Everyone Hate Rats? (Update)
+
+**Released:** 2026-04-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4)
 
 ---
 
@@ -124,16 +114,6 @@ Last updated: 2026-04-27 13:20:01
 
 ---
 
-## Hidden Brain
-
-### Do You Feel Loved?
-
-**Released:** 2026-04-20 19:23:23
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/f49b8e82-4f3e-4601-8e62-07a3613667f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=f49b8e82-4f3e-4601-8e62-07a3613667f6&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Fever Dreams Work
@@ -165,6 +145,16 @@ Last updated: 2026-04-27 13:20:01
 **Released:** 2026-04-21 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f67504fb-4645-4b9b-9186-b432011bdde9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Designing a Life that Matters
+
+**Released:** 2026-04-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
 
 ---
 
@@ -204,19 +194,9 @@ Last updated: 2026-04-27 13:20:01
 
 ---
 
-## The Tim Ferriss Show
-
-### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
-
-**Released:** 2026-04-23 16:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
-### A Tragedy in Texas: Mistakes Part 2
+### A Tragedy in Texas | The Mistakes Series
 
 **Released:** 2026-04-23 04:01:00
 
@@ -250,6 +230,16 @@ Last updated: 2026-04-27 13:20:01
 
 ---
 
+## The Tim Ferriss Show
+
+### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
+
+**Released:** 2026-04-23 16:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "Nick Kroll"
@@ -257,6 +247,24 @@ Last updated: 2026-04-27 13:20:01
 **Released:** 2026-04-27 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Ike Barinholtz
+
+**Released:** 2026-04-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH)
+
+---
+
+### The State Of The Entertainment Business With Jeff Ross
+
+**Released:** 2026-04-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH)
 
 ---
 
@@ -283,24 +291,6 @@ Last updated: 2026-04-27 13:20:01
 **Released:** 2026-04-22 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Ike Barinholtz
-
-**Released:** 2026-04-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH)
-
----
-
-### The State Of The Entertainment Business With Jeff Ross
-
-**Released:** 2026-04-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH)
 
 ---
 
