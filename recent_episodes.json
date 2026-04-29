@@ -1,5 +1,12 @@
 [
   {
+    "guid": "6a6a8e4b-79d2-4e06-9e92-781dc4365675",
+    "episode_title": "672.  What Makes Judy Faulkner Run?",
+    "release_date": "2026-04-24 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "69ef7b1a1557b3279dde9a14",
     "episode_title": "You got what you wanted. Now what? | Debbie Millman",
     "release_date": "2026-04-28 15:00:00",
@@ -35,27 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a6a8e4b-79d2-4e06-9e92-781dc4365675",
-    "episode_title": "672.  What Makes Judy Faulkner Run?",
-    "release_date": "2026-04-24 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "f01cfa0b-1245-4c00-887a-3f49c693a6b1",
-    "episode_title": "Battlefield rare earths: How the U.S. lost to China",
-    "release_date": "2026-04-24 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "fe103503-bf80-41e1-a389-253d028853ed",
-    "episode_title": "Live: Anthropic co-founder on AI and jobs",
-    "release_date": "2026-04-22 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "f3a22480-428f-11f1-9c77-ffdfa7bd2815",
     "episode_title": "#2490 - RZA",
     "release_date": "2026-04-28 17:00:00",
@@ -84,11 +70,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "92c14277-265a-4060-a681-17369700a4b3",
-    "episode_title": "Designing a Life that Matters",
-    "release_date": "2026-04-27 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "f01cfa0b-1245-4c00-887a-3f49c693a6b1",
+    "episode_title": "Battlefield rare earths: How the U.S. lost to China",
+    "release_date": "2026-04-24 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "3ae29d68-1ff1-4280-a9aa-a902147838eb",
@@ -103,6 +89,20 @@
     "release_date": "2026-04-24 09:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "92c14277-265a-4060-a681-17369700a4b3",
+    "episode_title": "Designing a Life that Matters",
+    "release_date": "2026-04-27 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "12edfea2-e5f7-48c4-b278-b439013e643d",
+    "episode_title": "Short Stuff: Wisdom Teeth",
+    "release_date": "2026-04-29 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12edfea2-e5f7-48c4-b278-b439013e643d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "c3332f47-6d90-483d-8584-b4390142974f",
@@ -126,13 +126,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "f60785b6-9f85-43e2-968c-b432015ca1eb",
-    "episode_title": "Short Stuff: Brown-Headed Cowbird",
-    "release_date": "2026-04-22 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f60785b6-9f85-43e2-968c-b432015ca1eb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/8ftWRlAM7ypQ-6-bkRgYIzwOPLu3Afpp3r5ZoPt0sIs",
     "episode_title": "Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.",
     "release_date": "2026-04-27 07:10:00",
@@ -145,6 +138,13 @@
     "release_date": "2026-04-23 07:00:00",
     "mp3_url": "https://rss.art19.com/episodes/e21691a9-29c3-4af2-b232-d380f776847b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
+    "episode_title": "#862: Cathy Lanier, Chief Security Officer of the NFL \u2014 From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure ",
+    "release_date": "2026-04-23 16:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "d9f6a9f4-e57e-4468-ae40-b434016f8dcf",
@@ -168,13 +168,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/im2aUze7-aWvo8cQhE8hUacyrbWEiId2LVyC2rUEqbY",
-    "episode_title": "#862: Cathy Lanier, Chief Security Officer of the NFL \u2014 From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure ",
-    "release_date": "2026-04-23 16:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "a5ae246f-2c2e-4419-af7f-67ff87f2a69f",
     "episode_title": "\"Nick Kroll\"",
     "release_date": "2026-04-27 07:01:00",
@@ -196,6 +189,13 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/p5ItmXNhPOVoDa_b6AWwfPL-dPcbsYNPAFz4G-mjg2U",
+    "episode_title": "Tara Stoinski Returns (primatologist)",
+    "release_date": "2026-04-29 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/039379ac-7d38-452e-8047-02ae1c191858.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/ZRxsvQy-U_jiOCF0W7kt2MhfPnmmSBGDFoNi35B4Z84",
     "episode_title": "Laufey",
     "release_date": "2026-04-27 07:30:00",
@@ -207,13 +207,6 @@
     "episode_title": "Armchair Anonymous: Twins",
     "release_date": "2026-04-24 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/707ef107-d23b-4357-ac65-fb842d247139.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/XIbwHggweiZquxWdTPvpVb75BlPx4aQZroU7f2-220g",
-    "episode_title": "Alvin E. Roth (on moral economics)",
-    "release_date": "2026-04-22 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6b5e3b34-da94-409d-8a1d-efadf6637a45.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]
