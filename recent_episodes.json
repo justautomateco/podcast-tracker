@@ -1,5 +1,12 @@
 [
   {
+    "guid": "69ef7b1a1557b3279dde9a14",
+    "episode_title": "You got what you wanted. Now what? | Debbie Millman",
+    "release_date": "2026-04-28 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7b1a1557b3279dde9a14/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69ef7a4dca8040fd317d3a2c",
     "episode_title": "How to google your symptoms without freaking out | John Whyte",
     "release_date": "2026-04-27 15:01:33",
@@ -28,24 +35,10 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69ea319e6e5b90839a73c5a2",
-    "episode_title": "Beware the power of prediction | Carissa V\u00e9liz",
-    "release_date": "2026-04-23 15:04:38",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ea319e6e5b90839a73c5a2/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "6a6a8e4b-79d2-4e06-9e92-781dc4365675",
     "episode_title": "672.  What Makes Judy Faulkner Run?",
     "release_date": "2026-04-24 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "d1e45e1c-a9c6-4a29-923d-26a6108bfb87",
-    "episode_title": "Why Does Everyone Hate Rats? (Update)",
-    "release_date": "2026-04-22 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d2218804-9930-4c19-a796-1c14a4451f2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d2218804-9930-4c19-a796-1c14a4451f2f&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -61,6 +54,13 @@
     "release_date": "2026-04-22 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "f3a22480-428f-11f1-9c77-ffdfa7bd2815",
+    "episode_title": "#2490 - RZA",
+    "release_date": "2026-04-28 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "f4bbbb36-3f85-11f1-98f8-538a9d2d7656",
@@ -84,11 +84,32 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "eb72adac-3d3f-11f1-8058-fb9d026dcf8f",
-    "episode_title": "#2486 - Luis J Gomez",
-    "release_date": "2026-04-21 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5826228201.mp3?updated=1776789151",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "92c14277-265a-4060-a681-17369700a4b3",
+    "episode_title": "Designing a Life that Matters",
+    "release_date": "2026-04-27 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "3ae29d68-1ff1-4280-a9aa-a902147838eb",
+    "episode_title": "Citizen of the World",
+    "release_date": "2026-04-28 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
+    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
+    "release_date": "2026-04-24 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "c3332f47-6d90-483d-8584-b4390142974f",
+    "episode_title": "Save the Whales!",
+    "release_date": "2026-04-28 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c3332f47-6d90-483d-8584-b4390142974f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "ca1065c6-3d59-4259-a5a5-b4340146e34e",
@@ -112,34 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "f67504fb-4645-4b9b-9186-b432011bdde9",
-    "episode_title": "Some Silly Inventions That Became Wildly Popular",
-    "release_date": "2026-04-21 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f67504fb-4645-4b9b-9186-b432011bdde9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "92c14277-265a-4060-a681-17369700a4b3",
-    "episode_title": "Designing a Life that Matters",
-    "release_date": "2026-04-27 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "baa3bda1-0c42-4b1d-adc8-6046246d6274",
-    "episode_title": "Constitution Breakdown #9: Alondra Nelson",
-    "release_date": "2026-04-24 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "68d35ad9-d202-4ec5-99b6-629de6927954",
-    "episode_title": "Co-op City",
-    "release_date": "2026-04-21 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3c14ac95-78b6-4816-a598-d34888f776ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3c14ac95-78b6-4816-a598-d34888f776ac&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/8ftWRlAM7ypQ-6-bkRgYIzwOPLu3Afpp3r5ZoPt0sIs",
     "episode_title": "Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.",
     "release_date": "2026-04-27 07:10:00",
@@ -161,24 +154,17 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "fd6b390b-8748-4ccc-a53a-b4330013c7ba",
-    "episode_title": "The Shawshank Redemption | From What Went Wrong",
-    "release_date": "2026-04-21 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fd6b390b-8748-4ccc-a53a-b4330013c7ba/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "6e618e74-89d4-11f0-b13f-678770ebbb22",
+    "episode_title": "Soundtrack to Your Life: The Moth Radio Hour",
+    "release_date": "2026-04-28 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1286002312.mp3?updated=1776962844",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "6e889c08-89d4-11f0-b13f-63fba2d61a55",
     "episode_title": "Seen and Unseen: The Moth Podcast",
     "release_date": "2026-04-24 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3666836678.mp3?updated=1776368706",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6e3a8ea0-89d4-11f0-b13f-77d603c5484d",
-    "episode_title": "Facing the Music: Stories about Coming to Terms: The Moth Radio Hour",
-    "release_date": "2026-04-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4857012781.mp3?updated=1776639167",
     "podcast_name": "The Moth"
   },
   {
