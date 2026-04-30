@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-30 02:07:11
-
-## Freakonomics Radio
-
-### 672.  What Makes Judy Faulkner Run?
-
-**Released:** 2026-04-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
-
----
+Last updated: 2026-04-30 13:22:49
 
 ## TED Talks Daily
 
@@ -54,6 +44,16 @@ Last updated: 2026-04-30 02:07:11
 
 ---
 
+## Freakonomics Radio
+
+### 672.  What Makes Judy Faulkner Run?
+
+**Released:** 2026-04-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### Spirit Airlines and the future of cheap flights
@@ -69,6 +69,16 @@ Last updated: 2026-04-30 02:07:11
 **Released:** 2026-04-24 21:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
+
+---
+
+## Hidden Brain
+
+### Designing a Life that Matters
+
+**Released:** 2026-04-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
 
 ---
 
@@ -106,17 +116,33 @@ Last updated: 2026-04-30 02:07:11
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### Designing a Life that Matters
+### Citizen of the World
 
-**Released:** 2026-04-27 19:00:00
+**Released:** 2026-04-28 09:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #9: Alondra Nelson
+
+**Released:** 2026-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### How to Drink a Tree's Blood
+
+**Released:** 2026-04-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c2da25c-be56-4928-ac86-b439014725ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Wisdom Teeth
 
@@ -142,47 +168,21 @@ Last updated: 2026-04-30 02:07:11
 
 ---
 
-### UNESCO World Heritage: Preserving the Best of Humanity
-
-**Released:** 2026-04-23 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/57801e3e-ac85-4125-a198-b43201210d36/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Citizen of the World
-
-**Released:** 2026-04-28 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #9: Alondra Nelson
-
-**Released:** 2026-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### Advice Line with David Neeleman of JetBlue
+
+**Released:** 2026-04-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.
 
 **Released:** 2026-04-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Eric Ryan of Method returns 
-
-**Released:** 2026-04-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e21691a9-29c3-4af2-b232-d380f776847b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,15 +206,23 @@ Last updated: 2026-04-30 02:07:11
 
 ## Revisionist History
 
-### A Tragedy in Texas | The Mistakes Series
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
 
-**Released:** 2026-04-23 04:01:00
+**Released:** 2026-04-30 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/d9f6a9f4-e57e-4468-ae40-b434016f8dcf/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
 ## The Moth
+
+### Introducing Family Lore
+
+**Released:** 2026-04-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4928501652.mp3?updated=1776888912)
+
+---
 
 ### Soundtrack to Your Life: The Moth Radio Hour
 
@@ -232,24 +240,6 @@ Last updated: 2026-04-30 02:07:11
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Ike Barinholtz
-
-**Released:** 2026-04-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH)
-
----
-
-### The State Of The Entertainment Business With Jeff Ross
-
-**Released:** 2026-04-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Nick Kroll"
@@ -257,6 +247,24 @@ Last updated: 2026-04-30 02:07:11
 **Released:** 2026-04-27 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Cover Your Hole
+
+**Released:** 2026-04-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH)
+
+---
+
+### Ike Barinholtz
+
+**Released:** 2026-04-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH)
 
 ---
 
