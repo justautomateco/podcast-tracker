@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-29 13:25:43
+Last updated: 2026-04-30 02:07:11
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-04-29 13:25:43
 ---
 
 ## TED Talks Daily
+
+### The "hot shot rule" to help you become a better leader | Kat Cole (re-release)
+
+**Released:** 2026-04-29 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7e78ca8040fd317efafa/media.mp3)
+
+---
 
 ### You got what you wanted. Now what? | Debbie Millman
 
@@ -46,15 +54,33 @@ Last updated: 2026-04-29 13:25:43
 
 ---
 
-### What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu
+## Planet Money
 
-**Released:** 2026-04-24 15:00:00
+### Spirit Airlines and the future of cheap flights
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69eb82ed6eeb59e2ba2abbe4/media.mp3)
+**Released:** 2026-04-29 19:13:51
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
+
+---
+
+### Battlefield rare earths: How the U.S. lost to China
+
+**Released:** 2026-04-24 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2491 - Brian Simpson
+
+**Released:** 2026-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
+
+---
 
 ### #2490 - RZA
 
@@ -77,42 +103,6 @@ Last updated: 2026-04-29 13:25:43
 **Released:** 2026-04-23 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977)
-
----
-
-### #2487 - Action Bronson
-
-**Released:** 2026-04-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5505192695.mp3?updated=1776874815)
-
----
-
-## Planet Money
-
-### Battlefield rare earths: How the U.S. lost to China
-
-**Released:** 2026-04-24 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
-
----
-
-## 99% Invisible
-
-### Citizen of the World
-
-**Released:** 2026-04-28 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #9: Alondra Nelson
-
-**Released:** 2026-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
 
 ---
 
@@ -160,6 +150,24 @@ Last updated: 2026-04-29 13:25:43
 
 ---
 
+## 99% Invisible
+
+### Citizen of the World
+
+**Released:** 2026-04-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
+
+---
+
+### Constitution Breakdown #9: Alondra Nelson
+
+**Released:** 2026-04-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.
@@ -179,6 +187,14 @@ Last updated: 2026-04-29 13:25:43
 ---
 
 ## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
 
@@ -216,16 +232,6 @@ Last updated: 2026-04-29 13:25:43
 
 ---
 
-## SmartLess 
-
-### "Nick Kroll"
-
-**Released:** 2026-04-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Ike Barinholtz
@@ -241,6 +247,16 @@ Last updated: 2026-04-29 13:25:43
 **Released:** 2026-04-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/566a9e6a-e12e-415d-97fb-5b62e5042122/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=566a9e6a-e12e-415d-97fb-5b62e5042122&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Nick Kroll"
+
+**Released:** 2026-04-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
 
 ---
 
