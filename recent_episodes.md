@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-04-30 13:22:49
+Last updated: 2026-05-01 02:10:55
+
+## Freakonomics Radio
+
+### 672.  What Makes Judy Faulkner Run?
+
+**Released:** 2026-04-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Reimagining traditional architecture for modern needs | Riyad Joucka
+
+**Released:** 2026-04-30 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7dba4c8fca33687061e3/media.mp3)
+
+---
 
 ### The "hot shot rule" to help you become a better leader | Kat Cole (re-release)
 
@@ -36,21 +54,13 @@ Last updated: 2026-04-30 13:22:49
 
 ---
 
-### What you discover when you really listen | Hrishikesh Hirway (re-release and interview) 
+## This American Life
 
-**Released:** 2026-04-25 15:00:00
+### 466: Blackjack
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ea33231e1e812364347bd7/media.mp3)
+**Released:** 2026-04-26 18:00:00
 
----
-
-## Freakonomics Radio
-
-### 672.  What Makes Judy Faulkner Run?
-
-**Released:** 2026-04-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache)
 
 ---
 
@@ -84,6 +94,14 @@ Last updated: 2026-04-30 13:22:49
 
 ## The Joe Rogan Experience
 
+### #2492 - Ari Shaffir
+
+**Released:** 2026-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
+
+---
+
 ### #2491 - Brian Simpson
 
 **Released:** 2026-04-29 17:00:00
@@ -105,14 +123,6 @@ Last updated: 2026-04-30 13:22:49
 **Released:** 2026-04-24 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261)
-
----
-
-### #2488 - James McCann
-
-**Released:** 2026-04-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3044004164.mp3?updated=1776990977)
 
 ---
 
@@ -186,24 +196,6 @@ Last updated: 2026-04-30 13:22:49
 
 ---
 
-## The Tim Ferriss Show
-
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
-
-**Released:** 2026-04-29 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #862: Cathy Lanier, Chief Security Officer of the NFL — From 9th-Grade Dropout to DC's Longest-Serving Police Chief, Protecting the Super Bowl, and Resilience Under Extreme Pressure 
-
-**Released:** 2026-04-23 16:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4efc05c8-188b-4552-a5cd-2cb633ce490c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
@@ -211,6 +203,16 @@ Last updated: 2026-04-30 13:22:49
 **Released:** 2026-04-30 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,16 +242,6 @@ Last updated: 2026-04-30 13:22:49
 
 ---
 
-## SmartLess 
-
-### "Nick Kroll"
-
-**Released:** 2026-04-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Cover Your Hole
@@ -265,6 +257,16 @@ Last updated: 2026-04-30 13:22:49
 **Released:** 2026-04-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/40bdca82-4e79-4fe3-9930-9f645766aa99/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=40bdca82-4e79-4fe3-9930-9f645766aa99&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Nick Kroll"
+
+**Released:** 2026-04-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
 
 ---
 
