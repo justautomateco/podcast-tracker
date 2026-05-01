@@ -1,14 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-01 02:10:55
+Last updated: 2026-05-01 12:58:41
 
 ## Freakonomics Radio
 
-### 672.  What Makes Judy Faulkner Run?
+### 673. What Is Money?
 
-**Released:** 2026-04-24 10:00:00
+**Released:** 2026-05-01 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/13059f82-cbef-41af-912b-181b4e0d98de/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=13059f82-cbef-41af-912b-181b4e0d98de&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 466: Blackjack
+
+**Released:** 2026-04-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache)
 
 ---
 
@@ -54,16 +64,6 @@ Last updated: 2026-05-01 02:10:55
 
 ---
 
-## This American Life
-
-### 466: Blackjack
-
-**Released:** 2026-04-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache)
-
----
-
 ## Planet Money
 
 ### Spirit Airlines and the future of cheap flights
@@ -79,68 +79,6 @@ Last updated: 2026-05-01 02:10:55
 **Released:** 2026-04-24 21:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
-
----
-
-## Hidden Brain
-
-### Designing a Life that Matters
-
-**Released:** 2026-04-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2492 - Ari Shaffir
-
-**Released:** 2026-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
-
----
-
-### #2491 - Brian Simpson
-
-**Released:** 2026-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
-
----
-
-### #2490 - RZA
-
-**Released:** 2026-04-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383)
-
----
-
-### #2489 - Ryan Bingham
-
-**Released:** 2026-04-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261)
-
----
-
-## 99% Invisible
-
-### Citizen of the World
-
-**Released:** 2026-04-28 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
-
----
-
-### Constitution Breakdown #9: Alondra Nelson
-
-**Released:** 2026-04-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=a26d9e6d-e51b-4b9f-b7b5-ade94ea189c0&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +116,80 @@ Last updated: 2026-05-01 02:10:55
 
 ---
 
+## Hidden Brain
+
+### Designing a Life that Matters
+
+**Released:** 2026-04-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Citizen of the World
+
+**Released:** 2026-04-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2492 - Ari Shaffir
+
+**Released:** 2026-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
+
+---
+
+### #2491 - Brian Simpson
+
+**Released:** 2026-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
+
+---
+
+### #2490 - RZA
+
+**Released:** 2026-04-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383)
+
+---
+
+### #2489 - Ryan Bingham
+
+**Released:** 2026-04-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261)
+
+---
+
+## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with David Neeleman of JetBlue
@@ -196,27 +208,15 @@ Last updated: 2026-05-01 02:10:55
 
 ---
 
-## Revisionist History
-
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
-
-**Released:** 2026-04-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
-
-**Released:** 2026-04-29 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### Cat People: The Moth Podcast
+
+**Released:** 2026-05-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1124505616.mp3?updated=1776369688)
+
+---
 
 ### Introducing Family Lore
 
@@ -234,11 +234,13 @@ Last updated: 2026-05-01 02:10:55
 
 ---
 
-### Seen and Unseen: The Moth Podcast
+## SmartLess 
 
-**Released:** 2026-04-24 04:25:00
+### "Nick Kroll"
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3666836678.mp3?updated=1776368706)
+**Released:** 2026-04-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
 
 ---
 
@@ -260,17 +262,15 @@ Last updated: 2026-05-01 02:10:55
 
 ---
 
-## SmartLess 
+## Armchair Expert
 
-### "Nick Kroll"
+### Armchair Anonymous: Bar Stories
 
-**Released:** 2026-04-27 07:01:00
+**Released:** 2026-05-01 07:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0968d164-d46b-4a27-8921-d96003495988/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0968d164-d46b-4a27-8921-d96003495988&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Tara Stoinski Returns (primatologist)
 
@@ -285,14 +285,6 @@ Last updated: 2026-05-01 02:10:55
 **Released:** 2026-04-27 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2a0b189c-ea72-45b0-bc97-79f1a4cc943f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Twins
-
-**Released:** 2026-04-24 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/707ef107-d23b-4357-ac65-fb842d247139.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
