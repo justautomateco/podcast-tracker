@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-01 12:58:41
+Last updated: 2026-05-02 01:58:32
 
 ## Freakonomics Radio
 
@@ -14,6 +14,14 @@ Last updated: 2026-05-01 12:58:41
 
 ## This American Life
 
+### Ira (Reluctantly) Gives a Graduation Speech
+
+**Released:** 2026-05-01 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
+
+---
+
 ### 466: Blackjack
 
 **Released:** 2026-04-26 18:00:00
@@ -23,6 +31,14 @@ Last updated: 2026-05-01 12:58:41
 ---
 
 ## TED Talks Daily
+
+### Why AI is unlikely to become conscious | Anil Seth
+
+**Released:** 2026-05-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36e419dcd58edd9713bfd/media.mp3)
+
+---
 
 ### Reimagining traditional architecture for modern needs | Riyad Joucka
 
@@ -56,15 +72,15 @@ Last updated: 2026-05-01 12:58:41
 
 ---
 
-### Sunday Pick: Min Jin Lee | from Design Matters
+## Planet Money
 
-**Released:** 2026-04-26 06:00:00
+### How to make a BOOK into a bestseller
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d41629f57702d2d9fbedab/media.mp3)
+**Released:** 2026-05-02 00:24:38
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
 
 ---
-
-## Planet Money
 
 ### Spirit Airlines and the future of cheap flights
 
@@ -74,11 +90,47 @@ Last updated: 2026-05-01 12:58:41
 
 ---
 
-### Battlefield rare earths: How the U.S. lost to China
+## Hidden Brain
 
-**Released:** 2026-04-24 21:00:00
+### Designing a Life that Matters
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
+**Released:** 2026-04-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2493 - Protect Our Parks 16
+
+**Released:** 2026-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527)
+
+---
+
+### #2492 - Ari Shaffir
+
+**Released:** 2026-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
+
+---
+
+### #2491 - Brian Simpson
+
+**Released:** 2026-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
+
+---
+
+### #2490 - RZA
+
+**Released:** 2026-04-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383)
 
 ---
 
@@ -116,16 +168,6 @@ Last updated: 2026-05-01 12:58:41
 
 ---
 
-## Hidden Brain
-
-### Designing a Life that Matters
-
-**Released:** 2026-04-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Citizen of the World
@@ -133,60 +175,6 @@ Last updated: 2026-05-01 12:58:41
 **Released:** 2026-04-28 09:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2492 - Ari Shaffir
-
-**Released:** 2026-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
-
----
-
-### #2491 - Brian Simpson
-
-**Released:** 2026-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
-
----
-
-### #2490 - RZA
-
-**Released:** 2026-04-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383)
-
----
-
-### #2489 - Ryan Bingham
-
-**Released:** 2026-04-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261)
-
----
-
-## The Tim Ferriss Show
-
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
-
-**Released:** 2026-04-29 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
-
-**Released:** 2026-04-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -205,6 +193,26 @@ Last updated: 2026-05-01 12:58:41
 **Released:** 2026-04-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

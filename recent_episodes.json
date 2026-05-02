@@ -7,11 +7,25 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46148 at https://www.thisamericanlife.org",
+    "episode_title": "Ira (Reluctantly) Gives a Graduation Speech",
+    "release_date": "2026-05-01 00:00:00",
+    "mp3_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "37207 at https://www.thisamericanlife.org",
     "episode_title": "466: Blackjack",
     "release_date": "2026-04-26 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69f36e419dcd58edd9713bfd",
+    "episode_title": "Why AI is unlikely to become conscious | Anil Seth",
+    "release_date": "2026-05-01 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36e419dcd58edd9713bfd/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "69ef7dba4c8fca33687061e3",
@@ -42,11 +56,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69d41629f57702d2d9fbedab",
-    "episode_title": "Sunday Pick: Min Jin Lee | from Design Matters",
-    "release_date": "2026-04-26 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d41629f57702d2d9fbedab/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "a427ed39-ae7c-4dda-bc1d-5ffa22df9fed",
+    "episode_title": "How to make a BOOK into a bestseller",
+    "release_date": "2026-05-02 00:24:38",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "5aea8fe9-7752-425d-b3a6-c4d3938727ff",
@@ -56,11 +70,39 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "f01cfa0b-1245-4c00-887a-3f49c693a6b1",
-    "episode_title": "Battlefield rare earths: How the U.S. lost to China",
-    "release_date": "2026-04-24 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311",
-    "podcast_name": "Planet Money"
+    "guid": "92c14277-265a-4060-a681-17369700a4b3",
+    "episode_title": "Designing a Life that Matters",
+    "release_date": "2026-04-27 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "ae65c5d0-450e-11f1-9052-470cd9d9bdf0",
+    "episode_title": "#2493 - Protect Our Parks 16",
+    "release_date": "2026-05-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "4ecd300a-443b-11f1-bc0d-0febb072d159",
+    "episode_title": "#2492 - Ari Shaffir",
+    "release_date": "2026-04-30 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "ada2b96e-436a-11f1-be06-7ff08097d2d1",
+    "episode_title": "#2491 - Brian Simpson",
+    "release_date": "2026-04-29 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "f3a22480-428f-11f1-9c77-ffdfa7bd2815",
+    "episode_title": "#2490 - RZA",
+    "release_date": "2026-04-28 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "9c2da25c-be56-4928-ac86-b439014725ac",
@@ -91,60 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "92c14277-265a-4060-a681-17369700a4b3",
-    "episode_title": "Designing a Life that Matters",
-    "release_date": "2026-04-27 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99891d9d-8a96-4168-9f11-a8d895dd5274/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99891d9d-8a96-4168-9f11-a8d895dd5274&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "3ae29d68-1ff1-4280-a9aa-a902147838eb",
     "episode_title": "Citizen of the World",
     "release_date": "2026-04-28 09:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "4ecd300a-443b-11f1-bc0d-0febb072d159",
-    "episode_title": "#2492 - Ari Shaffir",
-    "release_date": "2026-04-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ada2b96e-436a-11f1-be06-7ff08097d2d1",
-    "episode_title": "#2491 - Brian Simpson",
-    "release_date": "2026-04-29 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "f3a22480-428f-11f1-9c77-ffdfa7bd2815",
-    "episode_title": "#2490 - RZA",
-    "release_date": "2026-04-28 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "f4bbbb36-3f85-11f1-98f8-538a9d2d7656",
-    "episode_title": "#2489 - Ryan Bingham",
-    "release_date": "2026-04-24 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2851956686.mp3?updated=1777048261",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/MIWjUIK9lgaB_SU6uT3-1mpB9fKafyw3y-2HwoGDAGk",
-    "episode_title": "#863: Elad Gil, Consigliere to Empire Builders \u2014 How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More",
-    "release_date": "2026-04-29 22:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
-    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
-    "release_date": "2026-04-30 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/ukZBNk2Zh6n4tUg0IemjKHPo9oUS3WGjG0dkYDuj7xE",
@@ -159,6 +152,20 @@
     "release_date": "2026-04-27 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
+    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+    "release_date": "2026-04-30 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/MIWjUIK9lgaB_SU6uT3-1mpB9fKafyw3y-2HwoGDAGk",
+    "episode_title": "#863: Elad Gil, Consigliere to Empire Builders \u2014 How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More",
+    "release_date": "2026-04-29 22:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "7054d66e-89d4-11f0-b13f-63410c020968",
