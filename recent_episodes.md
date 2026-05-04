@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-03 12:50:40
+Last updated: 2026-05-04 02:02:53
 
 ## Freakonomics Radio
 
@@ -9,6 +9,24 @@ Last updated: 2026-05-03 12:50:40
 **Released:** 2026-05-01 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 886: Blackout
+
+**Released:** 2026-05-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3)
+
+---
+
+### Ira (Reluctantly) Gives a Graduation Speech
+
+**Released:** 2026-05-01 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
 
 ---
 
@@ -51,24 +69,6 @@ Last updated: 2026-05-03 12:50:40
 **Released:** 2026-04-29 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7e78ca8040fd317efafa/media.mp3)
-
----
-
-## This American Life
-
-### Ira (Reluctantly) Gives a Graduation Speech
-
-**Released:** 2026-05-01 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
-
----
-
-### 466: Blackjack
-
-**Released:** 2026-04-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/78504e23-e47d-47e5-b2ad-cb230b97bd92/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=78504e23-e47d-47e5-b2ad-cb230b97bd92&nocache)
 
 ---
 
@@ -144,24 +144,6 @@ Last updated: 2026-05-03 12:50:40
 
 ---
 
-## How I Built This
-
-### Advice Line with David Neeleman of JetBlue
-
-**Released:** 2026-04-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.
-
-**Released:** 2026-04-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Thrill to the Stunning Bicameral Mind Hypothesis
@@ -196,23 +178,21 @@ Last updated: 2026-05-03 12:50:40
 
 ---
 
-## The Tim Ferriss Show
+## How I Built This
 
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+### Advice Line with David Neeleman of JetBlue
 
-**Released:** 2026-04-29 22:00:00
+**Released:** 2026-04-30 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## Revisionist History
+### Shep and Ian Murray: Vineyard Vines. A Stale Product Transforms into a Lifestyle Brand.
 
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+**Released:** 2026-04-27 07:10:00
 
-**Released:** 2026-04-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/30577acd-0a96-4b5c-9301-d43b955cbb1a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -239,6 +219,26 @@ Last updated: 2026-05-03 12:50:40
 **Released:** 2026-04-28 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1286002312.mp3?updated=1776962844)
+
+---
+
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
