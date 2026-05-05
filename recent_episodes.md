@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-05 02:02:45
+Last updated: 2026-05-05 13:17:28
 
 ## Freakonomics Radio
 
@@ -9,24 +9,6 @@ Last updated: 2026-05-05 02:02:45
 **Released:** 2026-05-01 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 886: Blackout
-
-**Released:** 2026-05-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3)
-
----
-
-### Ira (Reluctantly) Gives a Graduation Speech
-
-**Released:** 2026-05-01 00:00:00
-
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
 
 ---
 
@@ -72,6 +54,24 @@ Last updated: 2026-05-05 02:02:45
 
 ---
 
+## This American Life
+
+### 886: Blackout
+
+**Released:** 2026-05-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3)
+
+---
+
+### Ira (Reluctantly) Gives a Graduation Speech
+
+**Released:** 2026-05-01 00:00:00
+
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
+
+---
+
 ## Planet Money
 
 ### How to make a BOOK into a bestseller
@@ -87,16 +87,6 @@ Last updated: 2026-05-05 02:02:45
 **Released:** 2026-04-29 19:13:51
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
-
----
-
-## Hidden Brain
-
-### Radical Acceptance
-
-**Released:** 2026-05-04 19:09:58
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
 
 ---
 
@@ -134,7 +124,35 @@ Last updated: 2026-05-05 02:02:45
 
 ---
 
+## Hidden Brain
+
+### Radical Acceptance
+
+**Released:** 2026-05-04 19:09:58
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Enshittification
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Boeing's Nosedive: The 737-MAX
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b597e93d-752f-4ee8-968b-b440017c24fa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Thrill to the Stunning Bicameral Mind Hypothesis
 
@@ -157,24 +175,6 @@ Last updated: 2026-05-05 02:02:45
 **Released:** 2026-04-29 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12edfea2-e5f7-48c4-b278-b439013e643d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Save the Whales!
-
-**Released:** 2026-04-28 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c3332f47-6d90-483d-8584-b4390142974f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Citizen of the World
-
-**Released:** 2026-04-28 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2273a9-dc45-4eba-a4c6-41f7021042cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2273a9-dc45-4eba-a4c6-41f7021042cc&feed=BqbsxVfO)
 
 ---
 
@@ -216,13 +216,29 @@ Last updated: 2026-05-05 02:02:45
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Colin Jost"
+### Like Cats and Dogs: The Moth Radio Hour
 
-**Released:** 2026-05-04 07:01:00
+**Released:** 2026-05-05 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4443015714.mp3?updated=1777395892)
+
+---
+
+### Cat People: The Moth Podcast
+
+**Released:** 2026-05-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1124505616.mp3?updated=1776369688)
+
+---
+
+### Introducing Family Lore
+
+**Released:** 2026-04-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4928501652.mp3?updated=1776888912)
 
 ---
 
@@ -244,29 +260,13 @@ Last updated: 2026-05-05 02:02:45
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Cat People: The Moth Podcast
+### "Colin Jost"
 
-**Released:** 2026-05-01 04:25:00
+**Released:** 2026-05-04 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1124505616.mp3?updated=1776369688)
-
----
-
-### Introducing Family Lore
-
-**Released:** 2026-04-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4928501652.mp3?updated=1776888912)
-
----
-
-### Soundtrack to Your Life: The Moth Radio Hour
-
-**Released:** 2026-04-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1286002312.mp3?updated=1776962844)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
 
 ---
 
