@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-06 02:01:54
+Last updated: 2026-05-06 13:47:12
 
 ## TED Talks Daily
 
@@ -44,6 +44,32 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
+## Planet Money
+
+### How we got free agents in baseball
+
+**Released:** 2026-05-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+
+---
+
+### How to make a BOOK into a bestseller
+
+**Released:** 2026-05-02 00:24:38
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
+
+---
+
+### Spirit Airlines and the future of cheap flights
+
+**Released:** 2026-04-29 19:13:51
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
+
+---
+
 ## Freakonomics Radio
 
 ### Was Adam Smith Really a Right-Winger? (Update)
@@ -59,24 +85,6 @@ Last updated: 2026-05-06 02:01:54
 **Released:** 2026-05-01 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### How to make a BOOK into a bestseller
-
-**Released:** 2026-05-02 00:24:38
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
-
----
-
-### Spirit Airlines and the future of cheap flights
-
-**Released:** 2026-04-29 19:13:51
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
 
 ---
 
@@ -108,7 +116,25 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
+## 99% Invisible
+
+### Enshittification
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: Why do kangaroos hop?
+
+**Released:** 2026-05-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3b9aff5-e5b6-499d-8139-b44001333e52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Boeing's Nosedive: The 737-MAX
 
@@ -134,58 +160,6 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
-### Short Stuff: Wisdom Teeth
-
-**Released:** 2026-04-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12edfea2-e5f7-48c4-b278-b439013e643d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Enshittification
-
-**Released:** 2026-05-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2494 - Chamath Palihapitiya
-
-**Released:** 2026-05-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
-
----
-
-### #2493 - Protect Our Parks 16
-
-**Released:** 2026-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527)
-
----
-
-### #2492 - Ari Shaffir
-
-**Released:** 2026-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
-
----
-
-### #2491 - Brian Simpson
-
-**Released:** 2026-04-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
-
----
-
 ## How I Built This
 
 ### Beautycounter: Gregg Renfrew. She Built Beautycounter to $1B… Then Got Fired From Her Own Company
@@ -204,6 +178,34 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Zach Galifianakis Returns Again
+
+**Released:** 2026-05-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
+
+---
+
+### Cover Your Hole
+
+**Released:** 2026-04-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
@@ -214,13 +216,13 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
-## Revisionist History
+## SmartLess 
 
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+### "Colin Jost"
 
-**Released:** 2026-04-30 04:01:00
+**Released:** 2026-05-04 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
 
 ---
 
@@ -250,35 +252,15 @@ Last updated: 2026-05-06 02:01:54
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Zach Galifianakis Returns Again
-
-**Released:** 2026-05-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
-
----
-
-### Cover Your Hole
-
-**Released:** 2026-04-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Colin Jost"
-
-**Released:** 2026-05-04 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Patrick Radden Keefe (investigative journalist)
+
+**Released:** 2026-05-06 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/163c8ec1-9cb7-4004-a158-43852252045b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Jack Antonoff
 
@@ -293,14 +275,6 @@ Last updated: 2026-05-06 02:01:54
 **Released:** 2026-05-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tara Stoinski Returns (primatologist)
-
-**Released:** 2026-04-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/039379ac-7d38-452e-8047-02ae1c191858.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

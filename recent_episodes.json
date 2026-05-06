@@ -35,18 +35,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "414caf0f-2d22-484d-bf60-16f63c674520",
-    "episode_title": "Was Adam Smith Really a Right-Winger? (Update)",
-    "release_date": "2026-05-06 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "c74cba7b-3ca9-4483-896d-3cbe9d169633",
-    "episode_title": "673. What Is Money?",
-    "release_date": "2026-05-01 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "0d1db389-9f27-4e97-9b49-af63ac9ab7fb",
+    "episode_title": "How we got free agents in baseball",
+    "release_date": "2026-05-06 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "a427ed39-ae7c-4dda-bc1d-5ffa22df9fed",
@@ -61,6 +54,20 @@
     "release_date": "2026-04-29 19:13:51",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "414caf0f-2d22-484d-bf60-16f63c674520",
+    "episode_title": "Was Adam Smith Really a Right-Winger? (Update)",
+    "release_date": "2026-05-06 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "c74cba7b-3ca9-4483-896d-3cbe9d169633",
+    "episode_title": "673. What Is Money?",
+    "release_date": "2026-05-01 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "46146 at https://www.thisamericanlife.org",
@@ -84,6 +91,20 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "60944deb-44ce-4e6d-ac82-9ab176de13d5",
+    "episode_title": "Enshittification",
+    "release_date": "2026-05-05 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "d3b9aff5-e5b6-499d-8139-b44001333e52",
+    "episode_title": "Short Stuff: Why do kangaroos hop?",
+    "release_date": "2026-05-06 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3b9aff5-e5b6-499d-8139-b44001333e52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "b597e93d-752f-4ee8-968b-b440017c24fa",
     "episode_title": "Boeing's Nosedive: The 737-MAX",
     "release_date": "2026-05-05 09:00:00",
@@ -105,48 +126,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "12edfea2-e5f7-48c4-b278-b439013e643d",
-    "episode_title": "Short Stuff: Wisdom Teeth",
-    "release_date": "2026-04-29 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12edfea2-e5f7-48c4-b278-b439013e643d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "60944deb-44ce-4e6d-ac82-9ab176de13d5",
-    "episode_title": "Enshittification",
-    "release_date": "2026-05-05 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "468336ba-482d-11f1-ba09-2b315b76916a",
-    "episode_title": "#2494 - Chamath Palihapitiya",
-    "release_date": "2026-05-05 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ae65c5d0-450e-11f1-9052-470cd9d9bdf0",
-    "episode_title": "#2493 - Protect Our Parks 16",
-    "release_date": "2026-05-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "4ecd300a-443b-11f1-bc0d-0febb072d159",
-    "episode_title": "#2492 - Ari Shaffir",
-    "release_date": "2026-04-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ada2b96e-436a-11f1-be06-7ff08097d2d1",
-    "episode_title": "#2491 - Brian Simpson",
-    "release_date": "2026-04-29 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/ZOUCDhzSff4QAC4XrSr7Ucc6CgCypqrP7tKKtyxyI7o",
     "episode_title": "Beautycounter: Gregg Renfrew. She Built Beautycounter to $1B\u2026 Then Got Fired From Her Own Company",
     "release_date": "2026-05-04 07:10:00",
@@ -161,6 +140,27 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
+    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+    "release_date": "2026-04-30 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "232c7eac-d057-4cb6-bbcc-afc67254dcfc",
+    "episode_title": "Zach Galifianakis Returns Again",
+    "release_date": "2026-05-04 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "060ff8c2-3496-4bff-951b-761a71aabbf3",
+    "episode_title": "Cover Your Hole",
+    "release_date": "2026-04-30 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/MIWjUIK9lgaB_SU6uT3-1mpB9fKafyw3y-2HwoGDAGk",
     "episode_title": "#863: Elad Gil, Consigliere to Empire Builders \u2014 How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More",
     "release_date": "2026-04-29 22:00:00",
@@ -168,11 +168,11 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
-    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
-    "release_date": "2026-04-30 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "8989eda9-b8af-409a-932b-21ebe94e001a",
+    "episode_title": "\"Colin Jost\"",
+    "release_date": "2026-05-04 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "6f20dc2a-89d4-11f0-b13f-c3ba00bbf79e",
@@ -196,25 +196,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "232c7eac-d057-4cb6-bbcc-afc67254dcfc",
-    "episode_title": "Zach Galifianakis Returns Again",
-    "release_date": "2026-05-04 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "060ff8c2-3496-4bff-951b-761a71aabbf3",
-    "episode_title": "Cover Your Hole",
-    "release_date": "2026-04-30 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "8989eda9-b8af-409a-932b-21ebe94e001a",
-    "episode_title": "\"Colin Jost\"",
-    "release_date": "2026-05-04 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/lN0CCS3fSaT1P1vhSVtIbqxf93fbWL8-zuK9cRgs1vA",
+    "episode_title": "Patrick Radden Keefe (investigative journalist)",
+    "release_date": "2026-05-06 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/163c8ec1-9cb7-4004-a158-43852252045b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/ctnTjP8eo0PsUkPiZC_xCuFILta1mslDsdnBhfvL_zI",
@@ -228,13 +214,6 @@
     "episode_title": "Armchair Anonymous: Bar Stories",
     "release_date": "2026-05-01 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/p5ItmXNhPOVoDa_b6AWwfPL-dPcbsYNPAFz4G-mjg2U",
-    "episode_title": "Tara Stoinski Returns (primatologist)",
-    "release_date": "2026-04-29 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/039379ac-7d38-452e-8047-02ae1c191858.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]
