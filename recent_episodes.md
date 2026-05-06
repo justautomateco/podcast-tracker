@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-05 13:17:28
-
-## Freakonomics Radio
-
-### 673. What Is Money?
-
-**Released:** 2026-05-01 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
-
----
+Last updated: 2026-05-06 02:01:54
 
 ## TED Talks Daily
+
+### Why social health is key to happiness and longevity | Kasley Killam (re-release)
+
+**Released:** 2026-05-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa05321353c87e11cf660c/media.mp3)
+
+---
 
 ### The rising cost of dissent in America | Miles Taylor
 
@@ -46,29 +44,21 @@ Last updated: 2026-05-05 13:17:28
 
 ---
 
-### Reimagining traditional architecture for modern needs | Riyad Joucka
+## Freakonomics Radio
 
-**Released:** 2026-04-30 15:00:00
+### Was Adam Smith Really a Right-Winger? (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7dba4c8fca33687061e3/media.mp3)
+**Released:** 2026-05-06 00:00:00
 
----
-
-## This American Life
-
-### 886: Blackout
-
-**Released:** 2026-05-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4)
 
 ---
 
-### Ira (Reluctantly) Gives a Graduation Speech
+### 673. What Is Money?
 
-**Released:** 2026-05-01 00:00:00
+**Released:** 2026-05-01 10:00:00
 
-**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
 
 ---
 
@@ -90,37 +80,21 @@ Last updated: 2026-05-05 13:17:28
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2493 - Protect Our Parks 16
+### 886: Blackout
 
-**Released:** 2026-05-01 17:00:00
+**Released:** 2026-05-03 18:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527)
-
----
-
-### #2492 - Ari Shaffir
-
-**Released:** 2026-04-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache)
 
 ---
 
-### #2491 - Brian Simpson
+### Ira (Reluctantly) Gives a Graduation Speech
 
-**Released:** 2026-04-29 17:00:00
+**Released:** 2026-05-01 00:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
-
----
-
-### #2490 - RZA
-
-**Released:** 2026-04-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7621675173.mp3?updated=1777394383)
+**Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
 
 ---
 
@@ -131,16 +105,6 @@ Last updated: 2026-05-05 13:17:28
 **Released:** 2026-05-04 19:09:58
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Enshittification
-
-**Released:** 2026-05-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
 
 ---
 
@@ -178,23 +142,47 @@ Last updated: 2026-05-05 13:17:28
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+### Enshittification
 
-**Released:** 2026-04-29 22:00:00
+**Released:** 2026-05-05 09:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
 
 ---
 
-## Revisionist History
+## The Joe Rogan Experience
 
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+### #2494 - Chamath Palihapitiya
 
-**Released:** 2026-04-30 04:01:00
+**Released:** 2026-05-05 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
+
+---
+
+### #2493 - Protect Our Parks 16
+
+**Released:** 2026-05-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527)
+
+---
+
+### #2492 - Ari Shaffir
+
+**Released:** 2026-04-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1035374307.mp3?updated=1777566754)
+
+---
+
+### #2491 - Brian Simpson
+
+**Released:** 2026-04-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8544541239.mp3?updated=1777480862)
 
 ---
 
@@ -213,6 +201,26 @@ Last updated: 2026-05-05 13:17:28
 **Released:** 2026-04-30 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
+
+**Released:** 2026-04-29 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
