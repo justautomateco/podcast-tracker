@@ -1,5 +1,40 @@
 [
   {
+    "guid": "414caf0f-2d22-484d-bf60-16f63c674520",
+    "episode_title": "Was Adam Smith Really a Right-Winger? (Update)",
+    "release_date": "2026-05-06 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "c74cba7b-3ca9-4483-896d-3cbe9d169633",
+    "episode_title": "673. What Is Money?",
+    "release_date": "2026-05-01 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46146 at https://www.thisamericanlife.org",
+    "episode_title": "886: Blackout",
+    "release_date": "2026-05-03 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "46148 at https://www.thisamericanlife.org",
+    "episode_title": "Ira (Reluctantly) Gives a Graduation Speech",
+    "release_date": "2026-05-01 00:00:00",
+    "mp3_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "69fa07a282781c7c4576eeab",
+    "episode_title": "How moms shape the world | Anna Malaika Tubbs (re-release)",
+    "release_date": "2026-05-06 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa07a282781c7c4576eeab/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "69fa05321353c87e11cf660c",
     "episode_title": "Why social health is key to happiness and longevity | Kasley Killam (re-release)",
     "release_date": "2026-05-05 15:00:00",
@@ -28,13 +63,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69f36e419dcd58edd9713bfd",
-    "episode_title": "Why AI is unlikely to become conscious | Anil Seth",
-    "release_date": "2026-05-01 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36e419dcd58edd9713bfd/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "0d1db389-9f27-4e97-9b49-af63ac9ab7fb",
     "episode_title": "How we got free agents in baseball",
     "release_date": "2026-05-06 07:00:00",
@@ -47,41 +75,6 @@
     "release_date": "2026-05-02 00:24:38",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "5aea8fe9-7752-425d-b3a6-c4d3938727ff",
-    "episode_title": "Spirit Airlines and the future of cheap flights",
-    "release_date": "2026-04-29 19:13:51",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "414caf0f-2d22-484d-bf60-16f63c674520",
-    "episode_title": "Was Adam Smith Really a Right-Winger? (Update)",
-    "release_date": "2026-05-06 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "c74cba7b-3ca9-4483-896d-3cbe9d169633",
-    "episode_title": "673. What Is Money?",
-    "release_date": "2026-05-01 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46146 at https://www.thisamericanlife.org",
-    "episode_title": "886: Blackout",
-    "release_date": "2026-05-03 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "46148 at https://www.thisamericanlife.org",
-    "episode_title": "Ira (Reluctantly) Gives a Graduation Speech",
-    "release_date": "2026-05-01 00:00:00",
-    "mp3_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "91284f47-83b8-40e3-9e23-f6575f51c08b",
@@ -126,6 +119,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
+    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
+    "release_date": "2026-04-30 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/ZOUCDhzSff4QAC4XrSr7Ucc6CgCypqrP7tKKtyxyI7o",
     "episode_title": "Beautycounter: Gregg Renfrew. She Built Beautycounter to $1B\u2026 Then Got Fired From Her Own Company",
     "release_date": "2026-05-04 07:10:00",
@@ -138,41 +138,6 @@
     "release_date": "2026-04-30 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "593a8b17-a9ac-49f5-bc65-b43c0017bb08",
-    "episode_title": "Why Would I Do That to Jennifer Lopez? | The Mistakes Series",
-    "release_date": "2026-04-30 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "232c7eac-d057-4cb6-bbcc-afc67254dcfc",
-    "episode_title": "Zach Galifianakis Returns Again",
-    "release_date": "2026-05-04 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "060ff8c2-3496-4bff-951b-761a71aabbf3",
-    "episode_title": "Cover Your Hole",
-    "release_date": "2026-04-30 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/MIWjUIK9lgaB_SU6uT3-1mpB9fKafyw3y-2HwoGDAGk",
-    "episode_title": "#863: Elad Gil, Consigliere to Empire Builders \u2014 How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More",
-    "release_date": "2026-04-29 22:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "8989eda9-b8af-409a-932b-21ebe94e001a",
-    "episode_title": "\"Colin Jost\"",
-    "release_date": "2026-05-04 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "6f20dc2a-89d4-11f0-b13f-c3ba00bbf79e",
@@ -196,6 +161,27 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "8989eda9-b8af-409a-932b-21ebe94e001a",
+    "episode_title": "\"Colin Jost\"",
+    "release_date": "2026-05-04 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "232c7eac-d057-4cb6-bbcc-afc67254dcfc",
+    "episode_title": "Zach Galifianakis Returns Again",
+    "release_date": "2026-05-04 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "060ff8c2-3496-4bff-951b-761a71aabbf3",
+    "episode_title": "Cover Your Hole",
+    "release_date": "2026-04-30 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/lN0CCS3fSaT1P1vhSVtIbqxf93fbWL8-zuK9cRgs1vA",
     "episode_title": "Patrick Radden Keefe (investigative journalist)",
     "release_date": "2026-05-06 07:30:00",
@@ -215,5 +201,12 @@
     "release_date": "2026-05-01 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/u1kxgaeQNvnolqWQ0T_y-92fu2QIQ1j5P72mYveyAVs",
+    "episode_title": "#864: How to Simplify Your Life in 2026 \u2014 New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman",
+    "release_date": "2026-05-06 21:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

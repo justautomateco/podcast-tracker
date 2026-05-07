@@ -1,74 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-06 13:47:12
-
-## TED Talks Daily
-
-### Why social health is key to happiness and longevity | Kasley Killam (re-release)
-
-**Released:** 2026-05-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa05321353c87e11cf660c/media.mp3)
-
----
-
-### The rising cost of dissent in America | Miles Taylor
-
-**Released:** 2026-05-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f504fe8dd960ac61214b8a/media.mp3)
-
----
-
-### Sunday Pick: Are you feeling emotionally stuck? Here’s How to get past it (w/ Yowei Shaw) | from How to Be a Better Human
-
-**Released:** 2026-05-03 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f3767b8beeba5310f90cba/media.mp3)
-
----
-
-### How to invite creativity into your life | Rose B. Simpson, Debbie Millman
-
-**Released:** 2026-05-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36eb69dcd58edd9717d41/media.mp3)
-
----
-
-### Why AI is unlikely to become conscious | Anil Seth
-
-**Released:** 2026-05-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36e419dcd58edd9713bfd/media.mp3)
-
----
-
-## Planet Money
-
-### How we got free agents in baseball
-
-**Released:** 2026-05-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
-
----
-
-### How to make a BOOK into a bestseller
-
-**Released:** 2026-05-02 00:24:38
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
-
----
-
-### Spirit Airlines and the future of cheap flights
-
-**Released:** 2026-04-29 19:13:51
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
-
----
+Last updated: 2026-05-07 02:04:25
 
 ## Freakonomics Radio
 
@@ -103,6 +35,66 @@ Last updated: 2026-05-06 13:47:12
 **Released:** 2026-05-01 00:00:00
 
 **Listen:** [Direct MP3 Link](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
+
+---
+
+## TED Talks Daily
+
+### How moms shape the world | Anna Malaika Tubbs (re-release)
+
+**Released:** 2026-05-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa07a282781c7c4576eeab/media.mp3)
+
+---
+
+### Why social health is key to happiness and longevity | Kasley Killam (re-release)
+
+**Released:** 2026-05-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa05321353c87e11cf660c/media.mp3)
+
+---
+
+### The rising cost of dissent in America | Miles Taylor
+
+**Released:** 2026-05-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f504fe8dd960ac61214b8a/media.mp3)
+
+---
+
+### Sunday Pick: Are you feeling emotionally stuck? Here’s How to get past it (w/ Yowei Shaw) | from How to Be a Better Human
+
+**Released:** 2026-05-03 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f3767b8beeba5310f90cba/media.mp3)
+
+---
+
+### How to invite creativity into your life | Rose B. Simpson, Debbie Millman
+
+**Released:** 2026-05-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36eb69dcd58edd9717d41/media.mp3)
+
+---
+
+## Planet Money
+
+### How we got free agents in baseball
+
+**Released:** 2026-05-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+
+---
+
+### How to make a BOOK into a bestseller
+
+**Released:** 2026-05-02 00:24:38
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
 
 ---
 
@@ -160,6 +152,16 @@ Last updated: 2026-05-06 13:47:12
 
 ---
 
+## Revisionist History
+
+### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
+
+**Released:** 2026-04-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Beautycounter: Gregg Renfrew. She Built Beautycounter to $1B… Then Got Fired From Her Own Company
@@ -175,54 +177,6 @@ Last updated: 2026-05-06 13:47:12
 **Released:** 2026-04-30 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c0af207-2622-4a1a-b7e2-4a6d4a5c244d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Why Would I Do That to Jennifer Lopez? | The Mistakes Series
-
-**Released:** 2026-04-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/593a8b17-a9ac-49f5-bc65-b43c0017bb08/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Zach Galifianakis Returns Again
-
-**Released:** 2026-05-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
-
----
-
-### Cover Your Hole
-
-**Released:** 2026-04-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More
-
-**Released:** 2026-04-29 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f62b6d9e-fa23-40a1-9c3f-f4bb6bec89fe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Colin Jost"
-
-**Released:** 2026-05-04 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
 
 ---
 
@@ -252,6 +206,34 @@ Last updated: 2026-05-06 13:47:12
 
 ---
 
+## SmartLess 
+
+### "Colin Jost"
+
+**Released:** 2026-05-04 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Zach Galifianakis Returns Again
+
+**Released:** 2026-05-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
+
+---
+
+### Cover Your Hole
+
+**Released:** 2026-04-30 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3367bae0-e383-4365-9258-0f787babf644/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3367bae0-e383-4365-9258-0f787babf644&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
 
 ### Patrick Radden Keefe (investigative journalist)
@@ -275,6 +257,16 @@ Last updated: 2026-05-06 13:47:12
 **Released:** 2026-05-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
+
+**Released:** 2026-05-06 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
