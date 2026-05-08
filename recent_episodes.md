@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-08 02:11:18
+Last updated: 2026-05-08 13:11:11
 
 ## Freakonomics Radio
+
+### 674. How Does a Composer Feel After the World Premiere?
+
+**Released:** 2026-05-08 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
+
+---
 
 ### Was Adam Smith Really a Right-Winger? (Update)
 
 **Released:** 2026-05-06 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4)
-
----
-
-### 673. What Is Money?
-
-**Released:** 2026-05-01 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f39c6bff-9745-477a-9446-9f828c27ba01/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f39c6bff-9745-477a-9446-9f828c27ba01&feed=Y8lFbOT4)
 
 ---
 
@@ -136,6 +136,14 @@ Last updated: 2026-05-08 02:11:18
 
 ## 99% Invisible
 
+### A History of the United States in 100 Objects
+
+**Released:** 2026-05-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO)
+
+---
+
 ### Enshittification
 
 **Released:** 2026-05-05 09:00:00
@@ -206,35 +214,15 @@ Last updated: 2026-05-08 02:11:18
 
 ---
 
-## The Tim Ferriss Show
-
-### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
-
-**Released:** 2026-05-06 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Peeping Cooper
-
-**Released:** 2026-05-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
-
----
-
-### Zach Galifianakis Returns Again
-
-**Released:** 2026-05-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
-
----
-
 ## The Moth
+
+### Mothers and Memories with Padma Lakshmi: The Moth Podcast
+
+**Released:** 2026-05-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670)
+
+---
 
 ### Like Cats and Dogs: The Moth Radio Hour
 
@@ -244,11 +232,13 @@ Last updated: 2026-05-08 02:11:18
 
 ---
 
-### Cat People: The Moth Podcast
+## The Tim Ferriss Show
 
-**Released:** 2026-05-01 04:25:00
+### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1124505616.mp3?updated=1776369688)
+**Released:** 2026-05-06 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,7 +260,33 @@ Last updated: 2026-05-08 02:11:18
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Peeping Cooper
+
+**Released:** 2026-05-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
+
+---
+
+### Zach Galifianakis Returns Again
+
+**Released:** 2026-05-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Unauthorized Evacuation III
+
+**Released:** 2026-05-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1223c6f0-b1f9-423b-a7d8-a5c4112f3974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Patrick Radden Keefe (investigative journalist)
 
@@ -285,14 +301,6 @@ Last updated: 2026-05-08 02:11:18
 **Released:** 2026-05-04 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a9686b9f-f853-4e03-a567-7a43a01e4a4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bar Stories
-
-**Released:** 2026-05-01 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66b611f5-d5fd-4cb2-9f5b-2dd891ffc97e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
