@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-08 13:11:11
+Last updated: 2026-05-09 02:05:04
 
 ## Freakonomics Radio
 
@@ -30,7 +30,25 @@ Last updated: 2026-05-08 13:11:11
 
 ---
 
+## Planet Money
+
+### How we got free agents in baseball
+
+**Released:** 2026-05-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+
+---
+
 ## TED Talks Daily
+
+### All it takes is 10 mindful minutes | Andy Puddicombe (re-release)
+
+**Released:** 2026-05-08 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fca8e3051b78474ecc42d1/media.mp3)
+
+---
 
 ### What really won the trillion-dollar Supreme Court case | Neal Kumar Katyal
 
@@ -64,33 +82,25 @@ Last updated: 2026-05-08 13:11:11
 
 ---
 
-### Sunday Pick: Are you feeling emotionally stuck? Here’s How to get past it (w/ Yowei Shaw) | from How to Be a Better Human
+## Hidden Brain
 
-**Released:** 2026-05-03 06:00:00
+### Radical Acceptance
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f3767b8beeba5310f90cba/media.mp3)
+**Released:** 2026-05-04 19:09:58
 
----
-
-## Planet Money
-
-### How we got free agents in baseball
-
-**Released:** 2026-05-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
-
----
-
-### How to make a BOOK into a bestseller
-
-**Released:** 2026-05-02 00:24:38
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2496 - Julia Mossbridge
+
+**Released:** 2026-05-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
+
+---
 
 ### #2495 - Tim Burchett
 
@@ -113,42 +123,6 @@ Last updated: 2026-05-08 13:11:11
 **Released:** 2026-05-05 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
-
----
-
-### #2493 - Protect Our Parks 16
-
-**Released:** 2026-05-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1105574712.mp3?updated=1777655527)
-
----
-
-## Hidden Brain
-
-### Radical Acceptance
-
-**Released:** 2026-05-04 19:09:58
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### A History of the United States in 100 Objects
-
-**Released:** 2026-05-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO)
-
----
-
-### Enshittification
-
-**Released:** 2026-05-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +160,24 @@ Last updated: 2026-05-08 13:11:11
 
 ---
 
+## 99% Invisible
+
+### A History of the United States in 100 Objects
+
+**Released:** 2026-05-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO)
+
+---
+
+### Enshittification
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Jonah Peretti of Buzzfeed
@@ -204,34 +196,6 @@ Last updated: 2026-05-08 13:11:11
 
 ---
 
-## Revisionist History
-
-### The Worst Poet in the World | From Cautionary Tales 
-
-**Released:** 2026-05-07 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Mothers and Memories with Padma Lakshmi: The Moth Podcast
-
-**Released:** 2026-05-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670)
-
----
-
-### Like Cats and Dogs: The Moth Radio Hour
-
-**Released:** 2026-05-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4443015714.mp3?updated=1777395892)
-
----
-
 ## The Tim Ferriss Show
 
 ### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
@@ -239,6 +203,16 @@ Last updated: 2026-05-08 13:11:11
 **Released:** 2026-05-06 21:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Worst Poet in the World | From Cautionary Tales 
+
+**Released:** 2026-05-07 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -257,6 +231,24 @@ Last updated: 2026-05-08 13:11:11
 **Released:** 2026-05-04 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Mothers and Memories with Padma Lakshmi: The Moth Podcast
+
+**Released:** 2026-05-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670)
+
+---
+
+### Like Cats and Dogs: The Moth Radio Hour
+
+**Released:** 2026-05-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4443015714.mp3?updated=1777395892)
 
 ---
 
