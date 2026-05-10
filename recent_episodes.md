@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-09 12:56:47
-
-## Freakonomics Radio
-
-### 674. How Does a Composer Feel After the World Premiere?
-
-**Released:** 2026-05-08 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
-
----
-
-### Was Adam Smith Really a Right-Winger? (Update)
-
-**Released:** 2026-05-06 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 886: Blackout
-
-**Released:** 2026-05-03 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache)
-
----
+Last updated: 2026-05-10 02:05:55
 
 ## TED Talks Daily
+
+### Forget the corporate ladder — winners take risks | Molly Graham (re-release and interview)
+
+**Released:** 2026-05-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fcaadb2ba0ef2cca7dda3d/media.mp3)
+
+---
 
 ### All it takes is 10 mindful minutes | Andy Puddicombe (re-release)
 
@@ -64,57 +44,31 @@ Last updated: 2026-05-09 12:56:47
 
 ---
 
-### The rising cost of dissent in America | Miles Taylor
+## Freakonomics Radio
 
-**Released:** 2026-05-04 15:00:00
+### 674. How Does a Composer Feel After the World Premiere?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f504fe8dd960ac61214b8a/media.mp3)
+**Released:** 2026-05-08 10:00:00
 
----
-
-## Planet Money
-
-### Diary of a WNBA negotiator
-
-**Released:** 2026-05-09 02:26:37
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
 
 ---
 
-### How we got free agents in baseball
+### Was Adam Smith Really a Right-Winger? (Update)
 
-**Released:** 2026-05-06 07:00:00
+**Released:** 2026-05-06 00:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
-
----
-
-## Hidden Brain
-
-### Radical Acceptance
-
-**Released:** 2026-05-04 19:09:58
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4)
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### A History of the United States in 100 Objects
+### 886: Blackout
 
-**Released:** 2026-05-08 09:00:00
+**Released:** 2026-05-03 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO)
-
----
-
-### Enshittification
-
-**Released:** 2026-05-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache)
 
 ---
 
@@ -152,6 +106,34 @@ Last updated: 2026-05-09 12:56:47
 
 ---
 
+## Planet Money
+
+### Diary of a WNBA negotiator
+
+**Released:** 2026-05-09 02:26:37
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
+
+---
+
+### How we got free agents in baseball
+
+**Released:** 2026-05-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+
+---
+
+## Hidden Brain
+
+### Radical Acceptance
+
+**Released:** 2026-05-04 19:09:58
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: Can movies be cursed?
@@ -186,6 +168,24 @@ Last updated: 2026-05-09 12:56:47
 
 ---
 
+## 99% Invisible
+
+### A History of the United States in 100 Objects
+
+**Released:** 2026-05-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO)
+
+---
+
+### Enshittification
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/976db820-bd71-410a-9bab-72f7cc8f1c0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=976db820-bd71-410a-9bab-72f7cc8f1c0c&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Jonah Peretti of Buzzfeed
@@ -211,16 +211,6 @@ Last updated: 2026-05-09 12:56:47
 **Released:** 2026-05-07 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
-
-**Released:** 2026-05-06 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -275,6 +265,16 @@ Last updated: 2026-05-09 12:56:47
 **Released:** 2026-05-04 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
+
+**Released:** 2026-05-06 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
