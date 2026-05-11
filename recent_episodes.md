@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-10 12:58:19
+Last updated: 2026-05-11 02:14:45
 
 ## Freakonomics Radio
 
@@ -22,11 +22,45 @@ Last updated: 2026-05-10 12:58:19
 
 ## This American Life
 
-### 886: Blackout
+### 318: With Great Power
 
-**Released:** 2026-05-03 18:00:00
+**Released:** 2026-05-10 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=40ac9d61-48fa-49cd-8a8b-c80a95885223&nocache)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2496 - Julia Mossbridge
+
+**Released:** 2026-05-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
+
+---
+
+### #2495 - Tim Burchett
+
+**Released:** 2026-05-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703)
+
+---
+
+### JRE MMA Show #178 with Dan Hardy
+
+**Released:** 2026-05-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286)
+
+---
+
+### #2494 - Chamath Palihapitiya
+
+**Released:** 2026-05-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
 
 ---
 
@@ -72,24 +106,6 @@ Last updated: 2026-05-10 12:58:19
 
 ---
 
-## Planet Money
-
-### Diary of a WNBA negotiator
-
-**Released:** 2026-05-09 02:26:37
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
-
----
-
-### How we got free agents in baseball
-
-**Released:** 2026-05-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
-
----
-
 ## Hidden Brain
 
 ### Radical Acceptance
@@ -97,40 +113,6 @@ Last updated: 2026-05-10 12:58:19
 **Released:** 2026-05-04 19:09:58
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
-
----
-
-## The Joe Rogan Experience
-
-### #2496 - Julia Mossbridge
-
-**Released:** 2026-05-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
-
----
-
-### #2495 - Tim Burchett
-
-**Released:** 2026-05-07 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703)
-
----
-
-### JRE MMA Show #178 with Dan Hardy
-
-**Released:** 2026-05-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286)
-
----
-
-### #2494 - Chamath Palihapitiya
-
-**Released:** 2026-05-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
 
 ---
 
@@ -204,6 +186,24 @@ Last updated: 2026-05-10 12:58:19
 
 ---
 
+## Planet Money
+
+### Diary of a WNBA negotiator
+
+**Released:** 2026-05-09 02:26:37
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
+
+---
+
+### How we got free agents in baseball
+
+**Released:** 2026-05-06 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
@@ -242,24 +242,6 @@ Last updated: 2026-05-10 12:58:19
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Peeping Cooper
-
-**Released:** 2026-05-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
-
----
-
-### Zach Galifianakis Returns Again
-
-**Released:** 2026-05-04 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Jonah Hill LIVE"
@@ -275,6 +257,24 @@ Last updated: 2026-05-10 12:58:19
 **Released:** 2026-05-04 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/905d8a9b-0a0a-4836-b832-0b8ac3964dcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=905d8a9b-0a0a-4836-b832-0b8ac3964dcd&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Peeping Cooper
+
+**Released:** 2026-05-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
+
+---
+
+### Zach Galifianakis Returns Again
+
+**Released:** 2026-05-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/deb9e22c-9759-4738-ad58-48fc5fe4333d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=deb9e22c-9759-4738-ad58-48fc5fe4333d&feed=dHoohVNH)
 
 ---
 
