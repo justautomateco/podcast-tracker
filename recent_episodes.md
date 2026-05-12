@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-11 14:29:40
+Last updated: 2026-05-12 02:10:04
 
 ## Freakonomics Radio
 
@@ -48,41 +48,15 @@ Last updated: 2026-05-11 14:29:40
 
 ---
 
-## The Joe Rogan Experience
-
-### #2496 - Julia Mossbridge
-
-**Released:** 2026-05-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
-
----
-
-### #2495 - Tim Burchett
-
-**Released:** 2026-05-07 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703)
-
----
-
-### JRE MMA Show #178 with Dan Hardy
-
-**Released:** 2026-05-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286)
-
----
-
-### #2494 - Chamath Palihapitiya
-
-**Released:** 2026-05-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
-
----
-
 ## TED Talks Daily
+
+### Waymo's case for a driverless future | Tekedra Mawakana, Sal Khan
+
+**Released:** 2026-05-11 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ec336304701dd8353fe8/media.mp3)
+
+---
 
 ### Sunday Pick: How Adam Grant uses data and intuition to make life decisions | from WorkLife with Molly Graham
 
@@ -116,55 +90,47 @@ Last updated: 2026-05-11 14:29:40
 
 ---
 
-### How moms shape the world | Anna Malaika Tubbs (re-release)
-
-**Released:** 2026-05-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fa07a282781c7c4576eeab/media.mp3)
-
----
-
 ## Hidden Brain
 
-### Radical Acceptance
+### The Cowboy Philosopher
 
-**Released:** 2026-05-04 19:09:58
+**Released:** 2026-05-11 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/414ead4f-3817-46b8-9555-426c90818265/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=414ead4f-3817-46b8-9555-426c90818265&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Selects: Can movies be cursed?
-
-**Released:** 2026-05-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78dcced0-a05b-43ce-9fbf-b43b01572a25/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
 
 ---
 
-### Let's Go to Camp... David!
+## The Joe Rogan Experience
 
-**Released:** 2026-05-07 09:00:00
+### #2496 - Julia Mossbridge
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/543df64d-6e34-45e3-92ca-b4420175b1d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-05-08 17:00:00
 
----
-
-### Short Stuff: Why do kangaroos hop?
-
-**Released:** 2026-05-06 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3b9aff5-e5b6-499d-8139-b44001333e52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
 
 ---
 
-### Boeing's Nosedive: The 737-MAX
+### #2495 - Tim Burchett
 
-**Released:** 2026-05-05 09:00:00
+**Released:** 2026-05-07 17:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b597e93d-752f-4ee8-968b-b440017c24fa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703)
+
+---
+
+### JRE MMA Show #178 with Dan Hardy
+
+**Released:** 2026-05-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286)
+
+---
+
+### #2494 - Chamath Palihapitiya
+
+**Released:** 2026-05-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
 
 ---
 
@@ -204,16 +170,6 @@ Last updated: 2026-05-11 14:29:40
 
 ---
 
-## Revisionist History
-
-### The Worst Poet in the World | From Cautionary Tales 
-
-**Released:** 2026-05-07 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
@@ -239,6 +195,16 @@ Last updated: 2026-05-11 14:29:40
 **Released:** 2026-05-05 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD4443015714.mp3?updated=1777395892)
+
+---
+
+## Revisionist History
+
+### The Worst Poet in the World | From Cautionary Tales 
+
+**Released:** 2026-05-07 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -301,6 +267,40 @@ Last updated: 2026-05-11 14:29:40
 **Released:** 2026-05-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/163c8ec1-9cb7-4004-a158-43852252045b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Stuff You Should Know
+
+### Selects: Can movies be cursed?
+
+**Released:** 2026-05-09 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78dcced0-a05b-43ce-9fbf-b43b01572a25/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Let's Go to Camp... David!
+
+**Released:** 2026-05-07 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/543df64d-6e34-45e3-92ca-b4420175b1d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Why do kangaroos hop?
+
+**Released:** 2026-05-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3b9aff5-e5b6-499d-8139-b44001333e52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Boeing's Nosedive: The 737-MAX
+
+**Released:** 2026-05-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b597e93d-752f-4ee8-968b-b440017c24fa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
