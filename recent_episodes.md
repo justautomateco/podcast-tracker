@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-13 02:25:17
+Last updated: 2026-05-13 14:11:57
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-05-13 02:25:17
 **Released:** 2026-05-08 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 318: With Great Power
-
-**Released:** 2026-05-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2026-05-13 02:25:17
 
 ---
 
+## This American Life
+
+### 318: With Great Power
+
+**Released:** 2026-05-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+
+---
+
 ## Planet Money
 
 ### Diary of a WNBA negotiator
@@ -71,14 +71,6 @@ Last updated: 2026-05-13 02:25:17
 **Released:** 2026-05-09 02:26:37
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
-
----
-
-### How we got free agents in baseball
-
-**Released:** 2026-05-06 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
 
 ---
 
@@ -116,16 +108,6 @@ Last updated: 2026-05-13 02:25:17
 
 ---
 
-## Hidden Brain
-
-### The Cowboy Philosopher
-
-**Released:** 2026-05-11 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Ask Your Doctor About
@@ -144,7 +126,25 @@ Last updated: 2026-05-13 02:25:17
 
 ---
 
+## Hidden Brain
+
+### The Cowboy Philosopher
+
+**Released:** 2026-05-11 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: Did Tippy Hedron start the Vietnamese manicure industry?
+
+**Released:** 2026-05-13 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Humanists, the Happy Heathens
 
@@ -167,14 +167,6 @@ Last updated: 2026-05-13 02:25:17
 **Released:** 2026-05-07 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/543df64d-6e34-45e3-92ca-b4420175b1d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Why do kangaroos hop?
-
-**Released:** 2026-05-06 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3b9aff5-e5b6-499d-8139-b44001333e52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -216,24 +208,6 @@ Last updated: 2026-05-13 02:25:17
 
 ---
 
-## SmartLess 
-
-### "Kareem Rahma"
-
-**Released:** 2026-05-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
-
----
-
-### "Jonah Hill LIVE"
-
-**Released:** 2026-05-08 00:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/94d89a8e-8fa8-4abf-986a-398fb29deaa3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=94d89a8e-8fa8-4abf-986a-398fb29deaa3&feed=hNaFxXpO)
-
----
-
 ## The Moth
 
 ### High Wire: The Moth Radio Hour
@@ -272,6 +246,14 @@ Last updated: 2026-05-13 02:25:17
 
 ## Armchair Expert
 
+### Ben McKenzie (on cryptocurrency)
+
+**Released:** 2026-05-13 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Chace Crawford
 
 **Released:** 2026-05-11 07:30:00
@@ -288,11 +270,21 @@ Last updated: 2026-05-13 02:25:17
 
 ---
 
-### Patrick Radden Keefe (investigative journalist)
+## SmartLess 
 
-**Released:** 2026-05-06 07:30:00
+### "Kareem Rahma"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/163c8ec1-9cb7-4004-a158-43852252045b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-05-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
+
+---
+
+### "Jonah Hill LIVE"
+
+**Released:** 2026-05-08 00:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/94d89a8e-8fa8-4abf-986a-398fb29deaa3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=94d89a8e-8fa8-4abf-986a-398fb29deaa3&feed=hNaFxXpO)
 
 ---
 
