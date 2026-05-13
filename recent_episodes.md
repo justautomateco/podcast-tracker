@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-12 13:58:20
+Last updated: 2026-05-13 02:25:17
 
 ## Freakonomics Radio
 
@@ -9,14 +9,6 @@ Last updated: 2026-05-12 13:58:20
 **Released:** 2026-05-08 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
-
----
-
-### Was Adam Smith Really a Right-Winger? (Update)
-
-**Released:** 2026-05-06 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/687028d5-b80b-48ae-93da-df91a8c71648/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=687028d5-b80b-48ae-93da-df91a8c71648&feed=Y8lFbOT4)
 
 ---
 
@@ -31,6 +23,14 @@ Last updated: 2026-05-12 13:58:20
 ---
 
 ## TED Talks Daily
+
+### The wildlife sanctuary you can visit from anywhere | Maya Higa
+
+**Released:** 2026-05-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ed5d5c981a3573ea0071/media.mp3)
+
+---
 
 ### Waymo's case for a driverless future | Tekedra Mawakana, Sal Khan
 
@@ -64,14 +64,6 @@ Last updated: 2026-05-12 13:58:20
 
 ---
 
-### What really won the trillion-dollar Supreme Court case | Neal Kumar Katyal
-
-**Released:** 2026-05-07 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fca6b32ba0ef2cca7b6f6d/media.mp3)
-
----
-
 ## Planet Money
 
 ### Diary of a WNBA negotiator
@@ -91,6 +83,14 @@ Last updated: 2026-05-12 13:58:20
 ---
 
 ## The Joe Rogan Experience
+
+### #2497 - Gad Saad
+
+**Released:** 2026-05-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262)
+
+---
 
 ### #2496 - Julia Mossbridge
 
@@ -113,14 +113,6 @@ Last updated: 2026-05-12 13:58:20
 **Released:** 2026-05-06 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286)
-
----
-
-### #2494 - Chamath Palihapitiya
-
-**Released:** 2026-05-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8247158814.mp3?updated=1777998506)
 
 ---
 
@@ -214,42 +206,6 @@ Last updated: 2026-05-12 13:58:20
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Billie Eilish Returns
-
-**Released:** 2026-05-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH)
-
----
-
-### Peeping Cooper
-
-**Released:** 2026-05-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### High Wire: The Moth Radio Hour
-
-**Released:** 2026-05-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6219208821.mp3?updated=1778021235)
-
----
-
-### Mothers and Memories with Padma Lakshmi: The Moth Podcast
-
-**Released:** 2026-05-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670)
-
----
-
 ## The Tim Ferriss Show
 
 ### #864: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman
@@ -275,6 +231,42 @@ Last updated: 2026-05-12 13:58:20
 **Released:** 2026-05-08 00:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/94d89a8e-8fa8-4abf-986a-398fb29deaa3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=94d89a8e-8fa8-4abf-986a-398fb29deaa3&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### High Wire: The Moth Radio Hour
+
+**Released:** 2026-05-12 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6219208821.mp3?updated=1778021235)
+
+---
+
+### Mothers and Memories with Padma Lakshmi: The Moth Podcast
+
+**Released:** 2026-05-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Billie Eilish Returns
+
+**Released:** 2026-05-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH)
+
+---
+
+### Peeping Cooper
+
+**Released:** 2026-05-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
 
 ---
 
