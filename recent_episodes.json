@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "37355 at https://www.thisamericanlife.org",
-    "episode_title": "318: With Great Power",
-    "release_date": "2026-05-10 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a01ee405c981a3573ea45c0",
     "episode_title": "A simple solution to fix workplace miscommunication | Melissa M. Mikus",
     "release_date": "2026-05-13 15:00:00",
@@ -49,6 +42,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "37355 at https://www.thisamericanlife.org",
+    "episode_title": "318: With Great Power",
+    "release_date": "2026-05-10 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "0c7cf1b8-ee27-40ce-b398-c8e4bdf4b7d6",
     "episode_title": "The secret meeting that launched OPEC",
     "release_date": "2026-05-13 22:03:21",
@@ -63,39 +63,39 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "9d83e436-4e69-11f1-a5d3-4b18893718bc",
+    "episode_title": "#2498 - Brendan Schaub",
+    "release_date": "2026-05-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7316273414.mp3?updated=1778687080",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "e306b85e-4deb-11f1-93b5-733d950b1692",
+    "episode_title": "#2497 - Gad Saad",
+    "release_date": "2026-05-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "4b891a70-4a7c-11f1-bb87-5bc29315a15e",
+    "episode_title": "#2496 - Julia Mossbridge",
+    "release_date": "2026-05-08 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "8e7ce89a-49d5-11f1-87a7-fbdab5dea703",
+    "episode_title": "#2495 - Tim Burchett",
+    "release_date": "2026-05-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "8ab152e5-ea71-4520-8f1f-e70cfee07595",
     "episode_title": "The Cowboy Philosopher",
     "release_date": "2026-05-11 19:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "16bf897f-3233-4247-bddc-b44800e42114",
-    "episode_title": "Short Stuff: Did Tippi Hedron start the Vietnamese manicure industry?",
-    "release_date": "2026-05-13 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "ef65c379-d30d-44ce-bdd0-b4480022c79c",
-    "episode_title": "Humanists, the Happy Heathens",
-    "release_date": "2026-05-12 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef65c379-d30d-44ce-bdd0-b4480022c79c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "78dcced0-a05b-43ce-9fbf-b43b01572a25",
-    "episode_title": "Selects: Can movies be cursed?",
-    "release_date": "2026-05-09 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78dcced0-a05b-43ce-9fbf-b43b01572a25/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "543df64d-6e34-45e3-92ca-b4420175b1d0",
-    "episode_title": "Let's Go to Camp... David!",
-    "release_date": "2026-05-07 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/543df64d-6e34-45e3-92ca-b4420175b1d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "2d8caa63-db2c-4ae0-aa1e-ef71e727de63",
@@ -112,11 +112,18 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "e91722b9-0bb5-4d62-af9c-b44000f26346",
-    "episode_title": "The Worst Poet in the World | From Cautionary Tales ",
-    "release_date": "2026-05-07 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/D3whYvZHeTkD1EKwDK8OccGpyOU669hSCG02Gp68px4",
+    "episode_title": "Advice Line: New Offerings, Bigger Markets",
+    "release_date": "2026-05-14 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/4ccace90-9a45-40d6-9e11-2c769ddf5ddc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/nUfMnrpeqyZ9YN2-rxZl7tSCz389nSKIUIrlNYHWHgs",
+    "episode_title": "Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant",
+    "release_date": "2026-05-11 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "6f466594-89d4-11f0-b13f-4b4dab515a59",
@@ -154,31 +161,24 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/nUfMnrpeqyZ9YN2-rxZl7tSCz389nSKIUIrlNYHWHgs",
-    "episode_title": "Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant",
-    "release_date": "2026-05-11 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
+    "episode_title": "#865: The Most Incredible Transformation I\u2019ve Ever Seen \u2014 Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions",
+    "release_date": "2026-05-14 13:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/cHFJg48L1ClzOrvMtfcDvybR-U5Z1KyH-ZyNrWal7cU",
-    "episode_title": "Advice Line with Jonah Peretti of Buzzfeed",
-    "release_date": "2026-05-07 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/62db8f23-a2ab-4247-a3f4-877b109cebbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "4985b221-dfff-48ad-a877-7c097bc89393",
+    "episode_title": "OBGYN Baaaaby",
+    "release_date": "2026-05-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "14adbd49-1ad3-49f4-95dd-f0f556c475c5",
     "episode_title": "Billie Eilish Returns",
     "release_date": "2026-05-11 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3fae6166-627e-415a-9180-889fa99fb422",
-    "episode_title": "Peeping Cooper",
-    "release_date": "2026-05-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {

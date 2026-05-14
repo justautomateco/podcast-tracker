@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-14 02:27:05
+Last updated: 2026-05-14 13:48:59
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-05-14 02:27:05
 **Released:** 2026-05-08 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/70dae392-d0a4-469a-980b-1e974ca04d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=70dae392-d0a4-469a-980b-1e974ca04d6a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 318: With Great Power
-
-**Released:** 2026-05-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2026-05-14 02:27:05
 
 ---
 
+## This American Life
+
+### 318: With Great Power
+
+**Released:** 2026-05-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+
+---
+
 ## Planet Money
 
 ### The secret meeting that launched OPEC
@@ -82,6 +82,40 @@ Last updated: 2026-05-14 02:27:05
 
 ---
 
+## The Joe Rogan Experience
+
+### #2498 - Brendan Schaub
+
+**Released:** 2026-05-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7316273414.mp3?updated=1778687080)
+
+---
+
+### #2497 - Gad Saad
+
+**Released:** 2026-05-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262)
+
+---
+
+### #2496 - Julia Mossbridge
+
+**Released:** 2026-05-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
+
+---
+
+### #2495 - Tim Burchett
+
+**Released:** 2026-05-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703)
+
+---
+
 ## Hidden Brain
 
 ### The Cowboy Philosopher
@@ -89,40 +123,6 @@ Last updated: 2026-05-14 02:27:05
 **Released:** 2026-05-11 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Did Tippi Hedron start the Vietnamese manicure industry?
-
-**Released:** 2026-05-13 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Humanists, the Happy Heathens
-
-**Released:** 2026-05-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef65c379-d30d-44ce-bdd0-b4480022c79c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Can movies be cursed?
-
-**Released:** 2026-05-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78dcced0-a05b-43ce-9fbf-b43b01572a25/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Let's Go to Camp... David!
-
-**Released:** 2026-05-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/543df64d-6e34-45e3-92ca-b4420175b1d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -144,13 +144,21 @@ Last updated: 2026-05-14 02:27:05
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### The Worst Poet in the World | From Cautionary Tales 
+### Advice Line: New Offerings, Bigger Markets
 
-**Released:** 2026-05-07 04:01:00
+**Released:** 2026-05-14 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ccace90-9a45-40d6-9e11-2c769ddf5ddc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant
+
+**Released:** 2026-05-11 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -198,39 +206,31 @@ Last updated: 2026-05-14 02:27:05
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant
+### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
 
-**Released:** 2026-05-11 07:10:00
+**Released:** 2026-05-14 13:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jonah Peretti of Buzzfeed
-
-**Released:** 2026-05-07 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/62db8f23-a2ab-4247-a3f4-877b109cebbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### OBGYN Baaaaby
+
+**Released:** 2026-05-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH)
+
+---
 
 ### Billie Eilish Returns
 
 **Released:** 2026-05-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH)
-
----
-
-### Peeping Cooper
-
-**Released:** 2026-05-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH)
 
 ---
 
