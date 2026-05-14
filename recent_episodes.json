@@ -7,6 +7,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37355 at https://www.thisamericanlife.org",
+    "episode_title": "318: With Great Power",
+    "release_date": "2026-05-10 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a01ee405c981a3573ea45c0",
+    "episode_title": "A simple solution to fix workplace miscommunication | Melissa M. Mikus",
+    "release_date": "2026-05-13 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ee405c981a3573ea45c0/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a01ed5d5c981a3573ea0071",
     "episode_title": "The wildlife sanctuary you can visit from anywhere | Maya Higa",
     "release_date": "2026-05-12 15:00:00",
@@ -35,18 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69fca8e3051b78474ecc42d1",
-    "episode_title": "All it takes is 10 mindful minutes | Andy Puddicombe (re-release)",
-    "release_date": "2026-05-08 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fca8e3051b78474ecc42d1/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "37355 at https://www.thisamericanlife.org",
-    "episode_title": "318: With Great Power",
-    "release_date": "2026-05-10 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
-    "podcast_name": "This American Life"
+    "guid": "0c7cf1b8-ee27-40ce-b398-c8e4bdf4b7d6",
+    "episode_title": "The secret meeting that launched OPEC",
+    "release_date": "2026-05-13 22:03:21",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "4aae727c-b1d5-4a05-be31-4d2e51a4f45f",
@@ -54,48 +61,6 @@
     "release_date": "2026-05-09 02:26:37",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e306b85e-4deb-11f1-93b5-733d950b1692",
-    "episode_title": "#2497 - Gad Saad",
-    "release_date": "2026-05-12 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "4b891a70-4a7c-11f1-bb87-5bc29315a15e",
-    "episode_title": "#2496 - Julia Mossbridge",
-    "release_date": "2026-05-08 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "8e7ce89a-49d5-11f1-87a7-fbdab5dea703",
-    "episode_title": "#2495 - Tim Burchett",
-    "release_date": "2026-05-07 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "a49891a2-4902-11f1-ba85-fb40caef1595",
-    "episode_title": "JRE MMA Show #178 with Dan Hardy",
-    "release_date": "2026-05-06 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6608842902.mp3?updated=1778084286",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2d8caa63-db2c-4ae0-aa1e-ef71e727de63",
-    "episode_title": "Ask Your Doctor About",
-    "release_date": "2026-05-12 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "13f25b9f-f2bc-4713-961d-51d0c4a873c8",
-    "episode_title": "A History of the United States in 100 Objects",
-    "release_date": "2026-05-08 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "8ab152e5-ea71-4520-8f1f-e70cfee07595",
@@ -106,7 +71,7 @@
   },
   {
     "guid": "16bf897f-3233-4247-bddc-b44800e42114",
-    "episode_title": "Short Stuff: Did Tippy Hedron start the Vietnamese manicure industry?",
+    "episode_title": "Short Stuff: Did Tippi Hedron start the Vietnamese manicure industry?",
     "release_date": "2026-05-13 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
@@ -133,18 +98,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/nUfMnrpeqyZ9YN2-rxZl7tSCz389nSKIUIrlNYHWHgs",
-    "episode_title": "Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant",
-    "release_date": "2026-05-11 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "2d8caa63-db2c-4ae0-aa1e-ef71e727de63",
+    "episode_title": "Ask Your Doctor About",
+    "release_date": "2026-05-12 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/cHFJg48L1ClzOrvMtfcDvybR-U5Z1KyH-ZyNrWal7cU",
-    "episode_title": "Advice Line with Jonah Peretti of Buzzfeed",
-    "release_date": "2026-05-07 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/62db8f23-a2ab-4247-a3f4-877b109cebbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "13f25b9f-f2bc-4713-961d-51d0c4a873c8",
+    "episode_title": "A History of the United States in 100 Objects",
+    "release_date": "2026-05-08 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/46db9da7-7a92-4d86-af24-b60f2198c09e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=46db9da7-7a92-4d86-af24-b60f2198c09e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "e91722b9-0bb5-4d62-af9c-b44000f26346",
@@ -152,13 +117,6 @@
     "release_date": "2026-05-07 04:01:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e91722b9-0bb5-4d62-af9c-b44000f26346/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/u1kxgaeQNvnolqWQ0T_y-92fu2QIQ1j5P72mYveyAVs",
-    "episode_title": "#864: How to Simplify Your Life in 2026 \u2014 New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman",
-    "release_date": "2026-05-06 21:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/05d66c71-84f5-49ba-8d5e-d75d2771649a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "6f466594-89d4-11f0-b13f-4b4dab515a59",
@@ -173,20 +131,6 @@
     "release_date": "2026-05-08 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8327723591.mp3?updated=1778082670",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "14adbd49-1ad3-49f4-95dd-f0f556c475c5",
-    "episode_title": "Billie Eilish Returns",
-    "release_date": "2026-05-11 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3fae6166-627e-415a-9180-889fa99fb422",
-    "episode_title": "Peeping Cooper",
-    "release_date": "2026-05-07 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/dpXnVG4NPaw7s9oL8GkEvgrS2epaIOrO2u0VLvofcJc",
@@ -208,6 +152,34 @@
     "release_date": "2026-05-08 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/1223c6f0-b1f9-423b-a7d8-a5c4112f3974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/nUfMnrpeqyZ9YN2-rxZl7tSCz389nSKIUIrlNYHWHgs",
+    "episode_title": "Room & Board: John Gabbert. A Broken Deal, a Family Rift, and the Birth of a Furniture Giant",
+    "release_date": "2026-05-11 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/cHFJg48L1ClzOrvMtfcDvybR-U5Z1KyH-ZyNrWal7cU",
+    "episode_title": "Advice Line with Jonah Peretti of Buzzfeed",
+    "release_date": "2026-05-07 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/62db8f23-a2ab-4247-a3f4-877b109cebbd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "14adbd49-1ad3-49f4-95dd-f0f556c475c5",
+    "episode_title": "Billie Eilish Returns",
+    "release_date": "2026-05-11 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "3fae6166-627e-415a-9180-889fa99fb422",
+    "episode_title": "Peeping Cooper",
+    "release_date": "2026-05-07 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83339f8e-1f41-4f43-b168-ce28120df1ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83339f8e-1f41-4f43-b168-ce28120df1ae&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "85f37268-cbea-4c23-9157-c65a2f91ab32",
