@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-15 13:45:01
+Last updated: 2026-05-16 02:07:52
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 318: With Great Power
+### How to give feedback that lands | Dr Renee St Jacques
 
-**Released:** 2026-05-10 18:00:00
+**Released:** 2026-05-15 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a05e490382d6c4030b4a313/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Why humans should merge with AI | D Scott Phoenix
 
@@ -56,15 +54,15 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
-### Sunday Pick: How Adam Grant uses data and intuition to make life decisions | from WorkLife with Molly Graham
+## Planet Money
 
-**Released:** 2026-05-10 06:00:00
+### Jerome Powell and the Future of Fed Independence
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fcad53c117aa79bf322414/media.mp3)
+**Released:** 2026-05-15 19:59:43
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
 
 ---
-
-## Planet Money
 
 ### The secret meeting that launched OPEC
 
@@ -82,7 +80,25 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
+## This American Life
+
+### 318: With Great Power
+
+**Released:** 2026-05-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2500 - Scott Horton
+
+**Released:** 2026-05-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9667446181.mp3)
+
+---
 
 ### #2499 - Marcus King
 
@@ -105,14 +121,6 @@ Last updated: 2026-05-15 13:45:01
 **Released:** 2026-05-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262)
-
----
-
-### #2496 - Julia Mossbridge
-
-**Released:** 2026-05-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535)
 
 ---
 
@@ -170,6 +178,16 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
+## Revisionist History
+
+### The BlackBerry Problem | The Mistakes Series 
+
+**Released:** 2026-05-14 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line: New Offerings, Bigger Markets
@@ -188,13 +206,13 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### The BlackBerry Problem | The Mistakes Series 
+### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
 
-**Released:** 2026-05-14 04:01:00
+**Released:** 2026-05-14 13:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,16 +234,6 @@ Last updated: 2026-05-15 13:45:01
 
 ---
 
-## SmartLess 
-
-### "Kareem Rahma"
-
-**Released:** 2026-05-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### OBGYN Baaaaby
@@ -241,6 +249,16 @@ Last updated: 2026-05-15 13:45:01
 **Released:** 2026-05-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Kareem Rahma"
+
+**Released:** 2026-05-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
 
 ---
 
@@ -267,16 +285,6 @@ Last updated: 2026-05-15 13:45:01
 **Released:** 2026-05-11 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
-
-**Released:** 2026-05-14 13:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

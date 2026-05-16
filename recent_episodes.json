@@ -7,11 +7,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "37355 at https://www.thisamericanlife.org",
-    "episode_title": "318: With Great Power",
-    "release_date": "2026-05-10 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6a05e490382d6c4030b4a313",
+    "episode_title": "How to give feedback that lands | Dr Renee St Jacques",
+    "release_date": "2026-05-15 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a05e490382d6c4030b4a313/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a01eff292e9663a6f89041a",
@@ -42,11 +42,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "69fcad53c117aa79bf322414",
-    "episode_title": "Sunday Pick: How Adam Grant uses data and intuition to make life decisions | from WorkLife with Molly Graham",
-    "release_date": "2026-05-10 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69fcad53c117aa79bf322414/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "4c84b0b7-88ea-49de-ac4d-0da672ca9fe3",
+    "episode_title": "Jerome Powell and the Future of Fed Independence",
+    "release_date": "2026-05-15 19:59:43",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "0c7cf1b8-ee27-40ce-b398-c8e4bdf4b7d6",
@@ -61,6 +61,20 @@
     "release_date": "2026-05-09 02:26:37",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "37355 at https://www.thisamericanlife.org",
+    "episode_title": "318: With Great Power",
+    "release_date": "2026-05-10 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "5b779a24-4fea-11f1-831f-5bde17471e54",
+    "episode_title": "#2500 - Scott Horton",
+    "release_date": "2026-05-15 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9667446181.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "600dc11c-4f31-11f1-bccd-c7e184fd1c90",
@@ -81,13 +95,6 @@
     "episode_title": "#2497 - Gad Saad",
     "release_date": "2026-05-12 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "4b891a70-4a7c-11f1-bb87-5bc29315a15e",
-    "episode_title": "#2496 - Julia Mossbridge",
-    "release_date": "2026-05-08 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -133,6 +140,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
+    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
+    "release_date": "2026-05-14 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/D3whYvZHeTkD1EKwDK8OccGpyOU669hSCG02Gp68px4",
     "episode_title": "Advice Line: New Offerings, Bigger Markets",
     "release_date": "2026-05-14 07:10:00",
@@ -147,11 +161,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
-    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
-    "release_date": "2026-05-14 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
+    "episode_title": "#865: The Most Incredible Transformation I\u2019ve Ever Seen \u2014 Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions",
+    "release_date": "2026-05-14 13:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "70095414-89d4-11f0-b13f-03d1e8980cdc",
@@ -168,13 +182,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "85f37268-cbea-4c23-9157-c65a2f91ab32",
-    "episode_title": "\"Kareem Rahma\"",
-    "release_date": "2026-05-11 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "4985b221-dfff-48ad-a877-7c097bc89393",
     "episode_title": "OBGYN Baaaaby",
     "release_date": "2026-05-14 04:05:00",
@@ -187,6 +194,13 @@
     "release_date": "2026-05-11 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "85f37268-cbea-4c23-9157-c65a2f91ab32",
+    "episode_title": "\"Kareem Rahma\"",
+    "release_date": "2026-05-11 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/QRObd59uwFrCOasqZ7JKCzyCbqv6jlI6_cIWp6a37ho",
@@ -208,12 +222,5 @@
     "release_date": "2026-05-11 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
-    "episode_title": "#865: The Most Incredible Transformation I\u2019ve Ever Seen \u2014 Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions",
-    "release_date": "2026-05-14 13:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
