@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-16 02:07:52
+Last updated: 2026-05-16 13:01:32
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2026-05-16 02:07:52
 **Released:** 2026-05-15 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 318: With Great Power
+
+**Released:** 2026-05-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 
 ---
 
@@ -72,24 +82,6 @@ Last updated: 2026-05-16 02:07:52
 
 ---
 
-### Diary of a WNBA negotiator
-
-**Released:** 2026-05-09 02:26:37
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
-
----
-
-## This American Life
-
-### 318: With Great Power
-
-**Released:** 2026-05-10 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2500 - Scott Horton
@@ -134,17 +126,15 @@ Last updated: 2026-05-16 02:07:52
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### Ask Your Doctor About
+### Did Mallory Make it to the Top of Everest First?
 
-**Released:** 2026-05-12 09:00:00
+**Released:** 2026-05-16 09:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a949145b-0a49-4344-818c-b44801030ce5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### The Hindenburg Disaster
 
@@ -170,21 +160,13 @@ Last updated: 2026-05-16 02:07:52
 
 ---
 
-### Selects: Can movies be cursed?
+## 99% Invisible
 
-**Released:** 2026-05-09 09:00:00
+### Ask Your Doctor About
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78dcced0-a05b-43ce-9fbf-b43b01572a25/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-05-12 09:00:00
 
----
-
-## Revisionist History
-
-### The BlackBerry Problem | The Mistakes Series 
-
-**Released:** 2026-05-14 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO)
 
 ---
 
@@ -203,6 +185,16 @@ Last updated: 2026-05-16 02:07:52
 **Released:** 2026-05-11 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0df9d69a-440f-49d4-9a1d-e50665b2c49f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The BlackBerry Problem | The Mistakes Series 
+
+**Released:** 2026-05-14 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
