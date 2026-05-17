@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-17 02:12:39
+Last updated: 2026-05-17 12:59:25
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-05-17 02:12:39
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 318: With Great Power
+### Sunday Pick: What are allergies — and how to get rid of them with Dr. Zachary Rubin | from TED Health
 
-**Released:** 2026-05-10 18:00:00
+**Released:** 2026-05-17 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a05e6613fd6979bfc058bf5/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Why I love my bad days | Alexi Pappas
 
@@ -56,11 +54,13 @@ Last updated: 2026-05-17 02:12:39
 
 ---
 
-### The wildlife sanctuary you can visit from anywhere | Maya Higa
+## This American Life
 
-**Released:** 2026-05-12 15:00:00
+### 318: With Great Power
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ed5d5c981a3573ea0071/media.mp3)
+**Released:** 2026-05-10 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 
 ---
 
@@ -79,6 +79,16 @@ Last updated: 2026-05-17 02:12:39
 **Released:** 2026-05-13 22:03:21
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740)
+
+---
+
+## Hidden Brain
+
+### The Cowboy Philosopher
+
+**Released:** 2026-05-11 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
 
 ---
 
@@ -113,16 +123,6 @@ Last updated: 2026-05-17 02:12:39
 **Released:** 2026-05-12 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262)
-
----
-
-## Hidden Brain
-
-### The Cowboy Philosopher
-
-**Released:** 2026-05-11 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/1ab01c5d-2ef3-48ee-aad2-1b83d50b9636/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=1ab01c5d-2ef3-48ee-aad2-1b83d50b9636&feed=kwWc0lhf)
 
 ---
 
@@ -188,6 +188,16 @@ Last updated: 2026-05-17 02:12:39
 
 ---
 
+## Revisionist History
+
+### The BlackBerry Problem | The Mistakes Series 
+
+**Released:** 2026-05-14 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
@@ -198,13 +208,29 @@ Last updated: 2026-05-17 02:12:39
 
 ---
 
-## Revisionist History
+## Armchair Expert
 
-### The BlackBerry Problem | The Mistakes Series 
+### Armchair Anonymous: Waterparks
 
-**Released:** 2026-05-14 04:01:00
+**Released:** 2026-05-15 07:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ben McKenzie (on cryptocurrency)
+
+**Released:** 2026-05-13 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chace Crawford
+
+**Released:** 2026-05-11 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -241,32 +267,6 @@ Last updated: 2026-05-17 02:12:39
 **Released:** 2026-05-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/bf49f782-a780-4ca7-9a37-700dd20506c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=bf49f782-a780-4ca7-9a37-700dd20506c5&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Waterparks
-
-**Released:** 2026-05-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ben McKenzie (on cryptocurrency)
-
-**Released:** 2026-05-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chace Crawford
-
-**Released:** 2026-05-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
