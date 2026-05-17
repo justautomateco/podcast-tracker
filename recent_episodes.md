@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-16 13:01:32
+Last updated: 2026-05-17 02:12:39
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-05-16 13:01:32
 ---
 
 ## TED Talks Daily
+
+### Why I love my bad days | Alexi Pappas
+
+**Released:** 2026-05-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01f04eb443364556f00f15/media.mp3)
+
+---
 
 ### How to give feedback that lands | Dr Renee St Jacques
 
@@ -53,14 +61,6 @@ Last updated: 2026-05-16 13:01:32
 **Released:** 2026-05-12 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ed5d5c981a3573ea0071/media.mp3)
-
----
-
-### Waymo's case for a driverless future | Tekedra Mawakana, Sal Khan
-
-**Released:** 2026-05-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ec336304701dd8353fe8/media.mp3)
 
 ---
 
@@ -126,6 +126,16 @@ Last updated: 2026-05-16 13:01:32
 
 ---
 
+## 99% Invisible
+
+### Ask Your Doctor About
+
+**Released:** 2026-05-12 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Did Mallory Make it to the Top of Everest First?
@@ -160,16 +170,6 @@ Last updated: 2026-05-16 13:01:32
 
 ---
 
-## 99% Invisible
-
-### Ask Your Doctor About
-
-**Released:** 2026-05-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line: New Offerings, Bigger Markets
@@ -188,16 +188,6 @@ Last updated: 2026-05-16 13:01:32
 
 ---
 
-## Revisionist History
-
-### The BlackBerry Problem | The Mistakes Series 
-
-**Released:** 2026-05-14 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
@@ -205,6 +195,16 @@ Last updated: 2026-05-16 13:01:32
 **Released:** 2026-05-14 13:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The BlackBerry Problem | The Mistakes Series 
+
+**Released:** 2026-05-14 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -244,16 +244,6 @@ Last updated: 2026-05-16 13:01:32
 
 ---
 
-## SmartLess 
-
-### "Kareem Rahma"
-
-**Released:** 2026-05-11 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Waterparks
@@ -277,6 +267,16 @@ Last updated: 2026-05-16 13:01:32
 **Released:** 2026-05-11 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Kareem Rahma"
+
+**Released:** 2026-05-11 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO)
 
 ---
 

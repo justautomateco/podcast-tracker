@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6a01f04eb443364556f00f15",
+    "episode_title": "Why I love my bad days | Alexi Pappas",
+    "release_date": "2026-05-16 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01f04eb443364556f00f15/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a05e490382d6c4030b4a313",
     "episode_title": "How to give feedback that lands | Dr Renee St Jacques",
     "release_date": "2026-05-15 15:00:00",
@@ -39,13 +46,6 @@
     "episode_title": "The wildlife sanctuary you can visit from anywhere | Maya Higa",
     "release_date": "2026-05-12 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ed5d5c981a3573ea0071/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a01ec336304701dd8353fe8",
-    "episode_title": "Waymo's case for a driverless future | Tekedra Mawakana, Sal Khan",
-    "release_date": "2026-05-11 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ec336304701dd8353fe8/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -98,6 +98,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "2d8caa63-db2c-4ae0-aa1e-ef71e727de63",
+    "episode_title": "Ask Your Doctor About",
+    "release_date": "2026-05-12 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "a949145b-0a49-4344-818c-b44801030ce5",
     "episode_title": "Did Mallory Make it to the Top of Everest First?",
     "release_date": "2026-05-16 09:00:00",
@@ -126,13 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "2d8caa63-db2c-4ae0-aa1e-ef71e727de63",
-    "episode_title": "Ask Your Doctor About",
-    "release_date": "2026-05-12 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/D3whYvZHeTkD1EKwDK8OccGpyOU669hSCG02Gp68px4",
     "episode_title": "Advice Line: New Offerings, Bigger Markets",
     "release_date": "2026-05-14 07:10:00",
@@ -147,18 +147,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
-    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
-    "release_date": "2026-05-14 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
     "episode_title": "#865: The Most Incredible Transformation I\u2019ve Ever Seen \u2014 Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions",
     "release_date": "2026-05-14 13:30:00",
     "mp3_url": "https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
+    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
+    "release_date": "2026-05-14 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "70095414-89d4-11f0-b13f-03d1e8980cdc",
@@ -189,13 +189,6 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "85f37268-cbea-4c23-9157-c65a2f91ab32",
-    "episode_title": "\"Kareem Rahma\"",
-    "release_date": "2026-05-11 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/QRObd59uwFrCOasqZ7JKCzyCbqv6jlI6_cIWp6a37ho",
     "episode_title": "Armchair Anonymous: Waterparks",
     "release_date": "2026-05-15 07:30:00",
@@ -215,5 +208,12 @@
     "release_date": "2026-05-11 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/23cc5287-8574-429d-ab5e-59a0bd9418a4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "85f37268-cbea-4c23-9157-c65a2f91ab32",
+    "episode_title": "\"Kareem Rahma\"",
+    "release_date": "2026-05-11 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a74adfa2-4dc9-4156-9f78-66ed63b9fb1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a74adfa2-4dc9-4156-9f78-66ed63b9fb1c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
