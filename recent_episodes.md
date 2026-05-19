@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-19 02:31:35
+Last updated: 2026-05-19 14:39:21
 
 ## Freakonomics Radio
 
@@ -64,6 +64,24 @@ Last updated: 2026-05-19 02:31:35
 
 ---
 
+## Planet Money
+
+### Jerome Powell and the Future of Fed Independence
+
+**Released:** 2026-05-15 19:59:43
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
+
+---
+
+### The secret meeting that launched OPEC
+
+**Released:** 2026-05-13 22:03:21
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2500 - Scott Horton
@@ -108,25 +126,25 @@ Last updated: 2026-05-19 02:31:35
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### Jerome Powell and the Future of Fed Independence
+### 100 Objects #1: The Century Safe
 
-**Released:** 2026-05-15 19:59:43
+**Released:** 2026-05-19 07:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
-
----
-
-### The secret meeting that launched OPEC
-
-**Released:** 2026-05-13 22:03:21
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### Eels Alive!
+
+**Released:** 2026-05-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59283f59-b74c-4a81-909e-b44f0008baae/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Did Mallory Make it to the Top of Everest First?
 
@@ -152,21 +170,21 @@ Last updated: 2026-05-19 02:31:35
 
 ---
 
-### Humanists, the Happy Heathens
+## The Moth
 
-**Released:** 2026-05-12 09:00:00
+### Culture Clash: The Moth Radio Hour
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef65c379-d30d-44ce-bdd0-b4480022c79c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-05-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522)
 
 ---
 
-## 99% Invisible
+### Swiftly Flow The Days: The Moth Podcast
 
-### Ask Your Doctor About
+**Released:** 2026-05-15 04:25:00
 
-**Released:** 2026-05-12 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/dde215ca-79e1-479e-a757-298da1263923/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=dde215ca-79e1-479e-a757-298da1263923&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550)
 
 ---
 
@@ -177,16 +195,6 @@ Last updated: 2026-05-19 02:31:35
 **Released:** 2026-05-14 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
-
-**Released:** 2026-05-14 13:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,47 +216,13 @@ Last updated: 2026-05-19 02:31:35
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Swiftly Flow The Days: The Moth Podcast
+### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
 
-**Released:** 2026-05-15 04:25:00
+**Released:** 2026-05-14 13:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550)
-
----
-
-### High Wire: The Moth Radio Hour
-
-**Released:** 2026-05-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6219208821.mp3?updated=1778021235)
-
----
-
-## Armchair Expert
-
-### Brandi Carlile
-
-**Released:** 2026-05-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Waterparks
-
-**Released:** 2026-05-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ben McKenzie (on cryptocurrency)
-
-**Released:** 2026-05-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5967ce51-dc02-48c5-a0b8-8e94d121365d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -277,6 +251,32 @@ Last updated: 2026-05-19 02:31:35
 **Released:** 2026-05-18 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Brandi Carlile
+
+**Released:** 2026-05-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Waterparks
+
+**Released:** 2026-05-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ben McKenzie (on cryptocurrency)
+
+**Released:** 2026-05-13 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
