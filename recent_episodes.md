@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-20 02:32:03
+Last updated: 2026-05-20 14:38:54
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-05-20 02:32:03
 **Released:** 2026-05-15 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 887: Two Is One, One Is None!
-
-**Released:** 2026-05-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
 
 ---
 
@@ -64,7 +54,25 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
+## This American Life
+
+### 887: Two Is One, One Is None!
+
+**Released:** 2026-05-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
+
+---
+
 ## Planet Money
+
+### Vacation and why Americans take so little
+
+**Released:** 2026-05-20 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+
+---
 
 ### Jerome Powell and the Future of Fed Independence
 
@@ -79,6 +87,16 @@ Last updated: 2026-05-20 02:32:03
 **Released:** 2026-05-13 22:03:21
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #1: The Century Safe
+
+**Released:** 2026-05-19 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO)
 
 ---
 
@@ -126,17 +144,15 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### 100 Objects #1: The Century Safe
+### Short Stuff: All about BPAs
 
-**Released:** 2026-05-19 07:00:00
+**Released:** 2026-05-20 09:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b226ed20-a936-4bb6-a3f1-b44f00da800b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Eels Alive!
 
@@ -162,14 +178,6 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
-### Short Stuff: Did Tippi Hedron start the Vietnamese manicure industry?
-
-**Released:** 2026-05-13 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
@@ -188,16 +196,6 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
-## Revisionist History
-
-### The BlackBerry Problem | The Mistakes Series 
-
-**Released:** 2026-05-14 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #865: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions
@@ -208,21 +206,39 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Charlie Puth
+### The BlackBerry Problem | The Mistakes Series 
 
-**Released:** 2026-05-18 04:05:00
+**Released:** 2026-05-14 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### OBGYN Baaaaby
+## Armchair Expert
 
-**Released:** 2026-05-14 04:05:00
+### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH)
+**Released:** 2026-05-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Brandi Carlile
+
+**Released:** 2026-05-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Waterparks
+
+**Released:** 2026-05-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -254,29 +270,21 @@ Last updated: 2026-05-20 02:32:03
 
 ---
 
-## Armchair Expert
+## Conan O'Brien Needs A Friend
 
-### Brandi Carlile
+### Charlie Puth
 
-**Released:** 2026-05-18 07:30:00
+**Released:** 2026-05-18 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Waterparks
-
-**Released:** 2026-05-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
 
 ---
 
-### Ben McKenzie (on cryptocurrency)
+### OBGYN Baaaaby
 
-**Released:** 2026-05-13 07:30:00
+**Released:** 2026-05-14 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH)
 
 ---
 

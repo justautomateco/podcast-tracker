@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46156 at https://www.thisamericanlife.org",
-    "episode_title": "887: Two Is One, One Is None!",
-    "release_date": "2026-05-17 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a0c78eea173e3b4db24a105",
     "episode_title": "The simple habit for a happier social life | Nicholas Epley",
     "release_date": "2026-05-19 15:00:00",
@@ -49,6 +42,20 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "46156 at https://www.thisamericanlife.org",
+    "episode_title": "887: Two Is One, One Is None!",
+    "release_date": "2026-05-17 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "b965eb50-f69e-42d4-a642-3b6a7860ada7",
+    "episode_title": "Vacation and why Americans take so little",
+    "release_date": "2026-05-20 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "4c84b0b7-88ea-49de-ac4d-0da672ca9fe3",
     "episode_title": "Jerome Powell and the Future of Fed Independence",
     "release_date": "2026-05-15 19:59:43",
@@ -61,6 +68,13 @@
     "release_date": "2026-05-13 22:03:21",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "f6da116f-b89a-4761-89ab-5de13196ff31",
+    "episode_title": "100 Objects #1: The Century Safe",
+    "release_date": "2026-05-19 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "6e105d8e-5318-11f1-9ed5-9321e601ba7a",
@@ -98,11 +112,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "f6da116f-b89a-4761-89ab-5de13196ff31",
-    "episode_title": "100 Objects #1: The Century Safe",
-    "release_date": "2026-05-19 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "b226ed20-a936-4bb6-a3f1-b44f00da800b",
+    "episode_title": "Short Stuff: All about BPAs",
+    "release_date": "2026-05-20 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b226ed20-a936-4bb6-a3f1-b44f00da800b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "59283f59-b74c-4a81-909e-b44f0008baae",
@@ -126,13 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "16bf897f-3233-4247-bddc-b44800e42114",
-    "episode_title": "Short Stuff: Did Tippi Hedron start the Vietnamese manicure industry?",
-    "release_date": "2026-05-13 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16bf897f-3233-4247-bddc-b44800e42114/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/bpIkpn-Q7wrFfq1H-X6g3o2EcadpYq6Otwp6fwSPDBQ",
     "episode_title": "NVIDIA: Jensen Huang. From near collapse to becoming the world\u2019s biggest company",
     "release_date": "2026-05-18 07:10:00",
@@ -147,13 +154,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
-    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
-    "release_date": "2026-05-14 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
     "episode_title": "#865: The Most Incredible Transformation I\u2019ve Ever Seen \u2014 Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions",
     "release_date": "2026-05-14 13:30:00",
@@ -161,18 +161,32 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "5014404b-a4c0-404f-a965-31a83f567e7f",
-    "episode_title": "Charlie Puth",
-    "release_date": "2026-05-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
+    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
+    "release_date": "2026-05-14 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
-    "guid": "4985b221-dfff-48ad-a877-7c097bc89393",
-    "episode_title": "OBGYN Baaaaby",
-    "release_date": "2026-05-14 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/wg8Sx7xCiI--OcMXznvQm_JQ1rNVywh2n3odkPbe4Tk",
+    "episode_title": "Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)",
+    "release_date": "2026-05-20 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/vHA3a9oT8VvfGSiShbq2PieZgsj3ITO5l7_aIlKEX_g",
+    "episode_title": "Brandi Carlile",
+    "release_date": "2026-05-18 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QRObd59uwFrCOasqZ7JKCzyCbqv6jlI6_cIWp6a37ho",
+    "episode_title": "Armchair Anonymous: Waterparks",
+    "release_date": "2026-05-15 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
@@ -196,24 +210,17 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/vHA3a9oT8VvfGSiShbq2PieZgsj3ITO5l7_aIlKEX_g",
-    "episode_title": "Brandi Carlile",
-    "release_date": "2026-05-18 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "5014404b-a4c0-404f-a965-31a83f567e7f",
+    "episode_title": "Charlie Puth",
+    "release_date": "2026-05-18 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/QRObd59uwFrCOasqZ7JKCzyCbqv6jlI6_cIWp6a37ho",
-    "episode_title": "Armchair Anonymous: Waterparks",
-    "release_date": "2026-05-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/dpXnVG4NPaw7s9oL8GkEvgrS2epaIOrO2u0VLvofcJc",
-    "episode_title": "Ben McKenzie (on cryptocurrency)",
-    "release_date": "2026-05-13 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4b092bdc-b9a8-44bf-8b10-7ad41c095988.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "4985b221-dfff-48ad-a877-7c097bc89393",
+    "episode_title": "OBGYN Baaaaby",
+    "release_date": "2026-05-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
