@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-19 14:39:21
+Last updated: 2026-05-20 02:32:03
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-05-19 14:39:21
 ---
 
 ## TED Talks Daily
+
+### The simple habit for a happier social life | Nicholas Epley
+
+**Released:** 2026-05-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c78eea173e3b4db24a105/media.mp3)
+
+---
 
 ### Life lessons from the DJ booth | ELEW
 
@@ -56,14 +64,6 @@ Last updated: 2026-05-19 14:39:21
 
 ---
 
-### Why humans should merge with AI | D Scott Phoenix
-
-**Released:** 2026-05-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01eff292e9663a6f89041a/media.mp3)
-
----
-
 ## Planet Money
 
 ### Jerome Powell and the Future of Fed Independence
@@ -83,6 +83,14 @@ Last updated: 2026-05-19 14:39:21
 ---
 
 ## The Joe Rogan Experience
+
+### #2501 - Marc Andreessen
+
+**Released:** 2026-05-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4222257548.mp3)
+
+---
 
 ### #2500 - Scott Horton
 
@@ -105,14 +113,6 @@ Last updated: 2026-05-19 14:39:21
 **Released:** 2026-05-13 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7316273414.mp3?updated=1778687080)
-
----
-
-### #2497 - Gad Saad
-
-**Released:** 2026-05-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262)
 
 ---
 
@@ -170,34 +170,6 @@ Last updated: 2026-05-19 14:39:21
 
 ---
 
-## The Moth
-
-### Culture Clash: The Moth Radio Hour
-
-**Released:** 2026-05-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522)
-
----
-
-### Swiftly Flow The Days: The Moth Podcast
-
-**Released:** 2026-05-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550)
-
----
-
-## Revisionist History
-
-### The BlackBerry Problem | The Mistakes Series 
-
-**Released:** 2026-05-14 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
@@ -213,6 +185,16 @@ Last updated: 2026-05-19 14:39:21
 **Released:** 2026-05-14 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ccace90-9a45-40d6-9e11-2c769ddf5ddc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The BlackBerry Problem | The Mistakes Series 
+
+**Released:** 2026-05-14 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -241,6 +223,24 @@ Last updated: 2026-05-19 14:39:21
 **Released:** 2026-05-14 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Culture Clash: The Moth Radio Hour
+
+**Released:** 2026-05-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522)
+
+---
+
+### Swiftly Flow The Days: The Moth Podcast
+
+**Released:** 2026-05-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550)
 
 ---
 

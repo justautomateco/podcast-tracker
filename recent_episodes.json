@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6a0c78eea173e3b4db24a105",
+    "episode_title": "The simple habit for a happier social life | Nicholas Epley",
+    "release_date": "2026-05-19 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c78eea173e3b4db24a105/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a0b2902fd0523152a189e65",
     "episode_title": "Life lessons from the DJ booth | ELEW",
     "release_date": "2026-05-18 15:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a01eff292e9663a6f89041a",
-    "episode_title": "Why humans should merge with AI | D Scott Phoenix",
-    "release_date": "2026-05-14 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01eff292e9663a6f89041a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "4c84b0b7-88ea-49de-ac4d-0da672ca9fe3",
     "episode_title": "Jerome Powell and the Future of Fed Independence",
     "release_date": "2026-05-15 19:59:43",
@@ -61,6 +61,13 @@
     "release_date": "2026-05-13 22:03:21",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "6e105d8e-5318-11f1-9ed5-9321e601ba7a",
+    "episode_title": "#2501 - Marc Andreessen",
+    "release_date": "2026-05-19 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4222257548.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "5b779a24-4fea-11f1-831f-5bde17471e54",
@@ -81,13 +88,6 @@
     "episode_title": "#2498 - Brendan Schaub",
     "release_date": "2026-05-13 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT7316273414.mp3?updated=1778687080",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "e306b85e-4deb-11f1-93b5-733d950b1692",
-    "episode_title": "#2497 - Gad Saad",
-    "release_date": "2026-05-12 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -133,27 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
-    "episode_title": "Culture Clash: The Moth Radio Hour",
-    "release_date": "2026-05-19 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "70095414-89d4-11f0-b13f-03d1e8980cdc",
-    "episode_title": "Swiftly Flow The Days: The Moth Podcast",
-    "release_date": "2026-05-15 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
-    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
-    "release_date": "2026-05-14 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/bpIkpn-Q7wrFfq1H-X6g3o2EcadpYq6Otwp6fwSPDBQ",
     "episode_title": "NVIDIA: Jensen Huang. From near collapse to becoming the world\u2019s biggest company",
     "release_date": "2026-05-18 07:10:00",
@@ -166,6 +145,13 @@
     "release_date": "2026-05-14 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/4ccace90-9a45-40d6-9e11-2c769ddf5ddc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "433e98bf-ce0a-446b-8b14-b4490169e761",
+    "episode_title": "The BlackBerry Problem | The Mistakes Series ",
+    "release_date": "2026-05-14 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/433e98bf-ce0a-446b-8b14-b4490169e761/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/9MU6TqdjHtoiQyWWQIp9gm86wtKo3BI3qD47SphL7UI",
@@ -187,6 +173,20 @@
     "release_date": "2026-05-14 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/86cca7ae-5a28-4c7e-a46c-1a20450bc1e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=86cca7ae-5a28-4c7e-a46c-1a20450bc1e0&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
+    "episode_title": "Culture Clash: The Moth Radio Hour",
+    "release_date": "2026-05-19 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "70095414-89d4-11f0-b13f-03d1e8980cdc",
+    "episode_title": "Swiftly Flow The Days: The Moth Podcast",
+    "release_date": "2026-05-15 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "fa4a990b-6b0d-4f8d-8ecf-5cfda89e6742",
