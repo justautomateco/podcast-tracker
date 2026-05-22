@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-21 14:44:47
-
-## Freakonomics Radio
-
-### 675. Has the New York Times Become a Games Company?
-
-**Released:** 2026-05-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 887: Two Is One, One Is None!
-
-**Released:** 2026-05-17 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
-
----
+Last updated: 2026-05-22 02:34:49
 
 ## TED Talks Daily
+
+### How I set myself free | Keke Palmer
+
+**Released:** 2026-05-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f1c0d11eba3cf15582c92/media.mp3)
+
+---
 
 ### The problem with streaming — and the case for physical media | Tom Rizzuto
 
@@ -56,11 +44,23 @@ Last updated: 2026-05-21 14:44:47
 
 ---
 
-### Why I love my bad days | Alexi Pappas
+## Freakonomics Radio
 
-**Released:** 2026-05-16 15:00:00
+### 675. Has the New York Times Become a Games Company?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01f04eb443364556f00f15/media.mp3)
+**Released:** 2026-05-15 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 887: Two Is One, One Is None!
+
+**Released:** 2026-05-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
 
 ---
 
@@ -82,7 +82,25 @@ Last updated: 2026-05-21 14:44:47
 
 ---
 
+## Hidden Brain
+
+### The Empathy Gym
+
+**Released:** 2026-05-18 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2503 - Eric Weinstein
+
+**Released:** 2026-05-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2235835292.mp3)
+
+---
 
 ### #2502 - David Paulides
 
@@ -105,24 +123,6 @@ Last updated: 2026-05-21 14:44:47
 **Released:** 2026-05-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9667446181.mp3)
-
----
-
-### #2499 - Marcus King
-
-**Released:** 2026-05-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6739360165.mp3)
-
----
-
-## Hidden Brain
-
-### The Empathy Gym
-
-**Released:** 2026-05-18 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
 
 ---
 
@@ -170,16 +170,6 @@ Last updated: 2026-05-21 14:44:47
 
 ---
 
-## The Tim Ferriss Show
-
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
-
-**Released:** 2026-05-20 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Advice Line with Sarah LaFleur of M.M. LaFleur
@@ -195,6 +185,26 @@ Last updated: 2026-05-21 14:44:47
 **Released:** 2026-05-18 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
+
+**Released:** 2026-05-20 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Trust Diagnosis 
+
+**Released:** 2026-05-21 16:15:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -216,21 +226,21 @@ Last updated: 2026-05-21 14:44:47
 
 ---
 
-## Conan O'Brien Needs A Friend
+## SmartLess 
 
-### Conan Vs. Edibles Part II
+### "RE-RELEASE: Nate Bargatze"
 
-**Released:** 2026-05-21 04:05:00
+**Released:** 2026-05-21 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO)
 
 ---
 
-### Charlie Puth
+### "Sting"
 
-**Released:** 2026-05-18 04:05:00
+**Released:** 2026-05-18 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO)
 
 ---
 
@@ -260,21 +270,21 @@ Last updated: 2026-05-21 14:44:47
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "RE-RELEASE: Nate Bargatze"
+### Conan Vs. Edibles Part II
 
-**Released:** 2026-05-21 07:00:00
+**Released:** 2026-05-21 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
 
 ---
 
-### "Sting"
+### Charlie Puth
 
-**Released:** 2026-05-18 07:01:00
+**Released:** 2026-05-18 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
 
 ---
 

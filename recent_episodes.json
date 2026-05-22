@@ -1,17 +1,10 @@
 [
   {
-    "guid": "9ed0b304-49e6-4f06-8d9c-49e83fd227c6",
-    "episode_title": "675. Has the New York Times Become a Games Company?",
-    "release_date": "2026-05-15 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46156 at https://www.thisamericanlife.org",
-    "episode_title": "887: Two Is One, One Is None!",
-    "release_date": "2026-05-17 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6a0f1c0d11eba3cf15582c92",
+    "episode_title": "How I set myself free | Keke Palmer",
+    "release_date": "2026-05-21 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f1c0d11eba3cf15582c92/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a0c7b51b23d275dce9edd38",
@@ -42,11 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a01f04eb443364556f00f15",
-    "episode_title": "Why I love my bad days | Alexi Pappas",
-    "release_date": "2026-05-16 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01f04eb443364556f00f15/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "9ed0b304-49e6-4f06-8d9c-49e83fd227c6",
+    "episode_title": "675. Has the New York Times Become a Games Company?",
+    "release_date": "2026-05-15 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46156 at https://www.thisamericanlife.org",
+    "episode_title": "887: Two Is One, One Is None!",
+    "release_date": "2026-05-17 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "b965eb50-f69e-42d4-a642-3b6a7860ada7",
@@ -61,6 +61,20 @@
     "release_date": "2026-05-15 19:59:43",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "9c09928a-c76c-4788-8292-cb1fc544d936",
+    "episode_title": "The Empathy Gym",
+    "release_date": "2026-05-18 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "365312f8-54a1-11f1-bffe-e722e4e55eb4",
+    "episode_title": "#2503 - Eric Weinstein",
+    "release_date": "2026-05-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "2cc305a6-53dc-11f1-aaca-0b2a12a0aa49",
@@ -82,20 +96,6 @@
     "release_date": "2026-05-15 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT9667446181.mp3",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "600dc11c-4f31-11f1-bccd-c7e184fd1c90",
-    "episode_title": "#2499 - Marcus King",
-    "release_date": "2026-05-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6739360165.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "9c09928a-c76c-4788-8292-cb1fc544d936",
-    "episode_title": "The Empathy Gym",
-    "release_date": "2026-05-18 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "f6da116f-b89a-4761-89ab-5de13196ff31",
@@ -133,13 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/rWo8UxwH_yGsRKxRJdWoCKTZzccB5ab5YOX2H5ZULmY",
-    "episode_title": "#866: Sami Inkinen of Virta Health \u2014 Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People",
-    "release_date": "2026-05-20 16:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/zSwlYBn8GfvIu2IH2g9x4uVgVitYooC1DjLES4A926o",
     "episode_title": "Advice Line with Sarah LaFleur of M.M. LaFleur",
     "release_date": "2026-05-21 07:10:00",
@@ -152,6 +145,20 @@
     "release_date": "2026-05-18 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/rWo8UxwH_yGsRKxRJdWoCKTZzccB5ab5YOX2H5ZULmY",
+    "episode_title": "#866: Sami Inkinen of Virta Health \u2014 Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People",
+    "release_date": "2026-05-20 16:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "e90fa949-85ec-4bcc-8d1f-b44f00e8e896",
+    "episode_title": "The Trust Diagnosis ",
+    "release_date": "2026-05-21 16:15:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
@@ -168,18 +175,18 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "8cac2ae6-5f8d-48c3-98ba-ec2f7f47d531",
-    "episode_title": "Conan Vs. Edibles Part II",
-    "release_date": "2026-05-21 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "7e6c2d38-da07-408c-bace-c915386e3200",
+    "episode_title": "\"RE-RELEASE: Nate Bargatze\"",
+    "release_date": "2026-05-21 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
-    "guid": "5014404b-a4c0-404f-a965-31a83f567e7f",
-    "episode_title": "Charlie Puth",
-    "release_date": "2026-05-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "fa4a990b-6b0d-4f8d-8ecf-5cfda89e6742",
+    "episode_title": "\"Sting\"",
+    "release_date": "2026-05-18 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/wg8Sx7xCiI--OcMXznvQm_JQ1rNVywh2n3odkPbe4Tk",
@@ -203,17 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "7e6c2d38-da07-408c-bace-c915386e3200",
-    "episode_title": "\"RE-RELEASE: Nate Bargatze\"",
-    "release_date": "2026-05-21 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "8cac2ae6-5f8d-48c3-98ba-ec2f7f47d531",
+    "episode_title": "Conan Vs. Edibles Part II",
+    "release_date": "2026-05-21 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "fa4a990b-6b0d-4f8d-8ecf-5cfda89e6742",
-    "episode_title": "\"Sting\"",
-    "release_date": "2026-05-18 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "5014404b-a4c0-404f-a965-31a83f567e7f",
+    "episode_title": "Charlie Puth",
+    "release_date": "2026-05-18 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
