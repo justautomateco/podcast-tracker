@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-22 02:34:49
+Last updated: 2026-05-22 14:20:32
 
 ## TED Talks Daily
 
@@ -44,16 +44,6 @@ Last updated: 2026-05-22 02:34:49
 
 ---
 
-## Freakonomics Radio
-
-### 675. Has the New York Times Become a Games Company?
-
-**Released:** 2026-05-15 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/199efa89-7e29-497b-830d-2a83326ab5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=199efa89-7e29-497b-830d-2a83326ab5b3&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 887: Two Is One, One Is None!
@@ -82,13 +72,13 @@ Last updated: 2026-05-22 02:34:49
 
 ---
 
-## Hidden Brain
+## Freakonomics Radio
 
-### The Empathy Gym
+### The Curious Mr. Feynman (Update)
 
-**Released:** 2026-05-18 19:00:00
+**Released:** 2026-05-22 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
 
 ---
 
@@ -123,6 +113,16 @@ Last updated: 2026-05-22 02:34:49
 **Released:** 2026-05-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9667446181.mp3)
+
+---
+
+## Hidden Brain
+
+### The Empathy Gym
+
+**Released:** 2026-05-18 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
 
 ---
 
@@ -188,27 +188,15 @@ Last updated: 2026-05-22 02:34:49
 
 ---
 
-## The Tim Ferriss Show
-
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
-
-**Released:** 2026-05-20 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Trust Diagnosis 
-
-**Released:** 2026-05-21 16:15:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
+
+### Wrestling Nerves: The Moth Podcast
+
+**Released:** 2026-05-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538)
+
+---
 
 ### Culture Clash: The Moth Radio Hour
 
@@ -218,11 +206,21 @@ Last updated: 2026-05-22 02:34:49
 
 ---
 
-### Swiftly Flow The Days: The Moth Podcast
+## Revisionist History
 
-**Released:** 2026-05-15 04:25:00
+### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7124347941.mp3?updated=1778093550)
+**Released:** 2026-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Trust Diagnosis 
+
+**Released:** 2026-05-21 16:15:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -244,32 +242,6 @@ Last updated: 2026-05-22 02:34:49
 
 ---
 
-## Armchair Expert
-
-### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
-
-**Released:** 2026-05-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Brandi Carlile
-
-**Released:** 2026-05-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Waterparks
-
-**Released:** 2026-05-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0c498701-bc36-4207-9704-5487ee9f80b7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan Vs. Edibles Part II
@@ -285,6 +257,42 @@ Last updated: 2026-05-22 02:34:49
 **Released:** 2026-05-18 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
+
+**Released:** 2026-05-20 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Bad Roommate II
+
+**Released:** 2026-05-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
+
+**Released:** 2026-05-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Brandi Carlile
+
+**Released:** 2026-05-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
