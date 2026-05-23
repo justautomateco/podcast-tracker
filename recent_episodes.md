@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-23 02:11:10
+Last updated: 2026-05-23 13:04:10
+
+## Freakonomics Radio
+
+### The Curious Mr. Feynman (Update)
+
+**Released:** 2026-05-22 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 887: Two Is One, One Is None!
+
+**Released:** 2026-05-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
+
+---
 
 ## TED Talks Daily
 
@@ -44,37 +64,67 @@ Last updated: 2026-05-23 02:11:10
 
 ---
 
-## This American Life
+## Planet Money
 
-### 887: Two Is One, One Is None!
+### The giant factory town that might be a giant mistake
 
-**Released:** 2026-05-17 18:00:00
+**Released:** 2026-05-22 22:25:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
-
----
-
-## Freakonomics Radio
-
-### The Curious Mr. Feynman (Update)
-
-**Released:** 2026-05-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
 
 ---
 
-## Hidden Brain
+### Vacation and why Americans take so little
 
-### The Empathy Gym
+**Released:** 2026-05-20 07:00:00
 
-**Released:** 2026-05-18 19:00:00
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
+---
+
+## The Joe Rogan Experience
+
+### #2504 - Skylar Grey
+
+**Released:** 2026-05-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6877232671.mp3)
+
+---
+
+### #2503 - Eric Weinstein
+
+**Released:** 2026-05-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2235835292.mp3)
+
+---
+
+### #2502 - David Paulides
+
+**Released:** 2026-05-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9926666486.mp3)
+
+---
+
+### #2501 - Marc Andreessen
+
+**Released:** 2026-05-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4222257548.mp3)
 
 ---
 
 ## Stuff You Should Know
+
+### Selects: How Flight Attendants Work
+
+**Released:** 2026-05-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8c4570c8-0410-49c8-8a0e-b44a010c3449/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The 1993 Waco Siege
 
@@ -100,29 +150,13 @@ Last updated: 2026-05-23 02:11:10
 
 ---
 
-### Selects: Did Mallory Make it to the Top of Everest First?
+## Hidden Brain
 
-**Released:** 2026-05-16 09:00:00
+### The Empathy Gym
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a949145b-0a49-4344-818c-b44801030ce5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-05-18 19:00:00
 
----
-
-## Planet Money
-
-### The giant factory town that might be a giant mistake
-
-**Released:** 2026-05-22 22:25:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
-
----
-
-### Vacation and why Americans take so little
-
-**Released:** 2026-05-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
 
 ---
 
@@ -154,21 +188,13 @@ Last updated: 2026-05-23 02:11:10
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with Sarah LaFleur of M.M. LaFleur
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
 
-**Released:** 2026-05-21 07:10:00
+**Released:** 2026-05-20 16:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
-
-**Released:** 2026-05-18 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -226,6 +252,24 @@ Last updated: 2026-05-23 02:11:10
 
 ---
 
+## How I Built This
+
+### Advice Line with Sarah LaFleur of M.M. LaFleur
+
+**Released:** 2026-05-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
+
+**Released:** 2026-05-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Bad Roommate II
@@ -249,16 +293,6 @@ Last updated: 2026-05-23 02:11:10
 **Released:** 2026-05-18 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
-
-**Released:** 2026-05-20 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
