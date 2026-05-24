@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-24 02:30:04
+Last updated: 2026-05-24 13:03:30
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-05-24 02:30:04
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 887: Two Is One, One Is None!
+### How to prevent burnout (w/ Master Fixer Guy Winch) | from Fixable
 
-**Released:** 2026-05-17 18:00:00
+**Released:** 2026-05-24 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f25de163f100183e474e5/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to be smarter about the news | Ian Bremmer
 
@@ -56,11 +54,13 @@ Last updated: 2026-05-24 02:30:04
 
 ---
 
-### The simple habit for a happier social life | Nicholas Epley
+## This American Life
 
-**Released:** 2026-05-19 15:00:00
+### 887: Two Is One, One Is None!
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c78eea173e3b4db24a105/media.mp3)
+**Released:** 2026-05-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
 
 ---
 
@@ -136,42 +136,6 @@ Last updated: 2026-05-24 02:30:04
 
 ---
 
-## How I Built This
-
-### Advice Line with Sarah LaFleur of M.M. LaFleur
-
-**Released:** 2026-05-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
-
-**Released:** 2026-05-18 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
-
-**Released:** 2026-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Trust Diagnosis 
-
-**Released:** 2026-05-21 16:15:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: How Flight Attendants Work
@@ -206,6 +170,52 @@ Last updated: 2026-05-24 02:30:04
 
 ---
 
+## Revisionist History
+
+### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
+
+**Released:** 2026-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Trust Diagnosis 
+
+**Released:** 2026-05-21 16:15:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Advice Line with Sarah LaFleur of M.M. LaFleur
+
+**Released:** 2026-05-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
+
+**Released:** 2026-05-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
+
+**Released:** 2026-05-20 16:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Wrestling Nerves: The Moth Podcast
@@ -221,52 +231,6 @@ Last updated: 2026-05-24 02:30:04
 **Released:** 2026-05-19 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522)
-
----
-
-## The Tim Ferriss Show
-
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
-
-**Released:** 2026-05-20 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan Vs. Edibles Part II
-
-**Released:** 2026-05-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
-
----
-
-### Charlie Puth
-
-**Released:** 2026-05-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Nate Bargatze"
-
-**Released:** 2026-05-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO)
-
----
-
-### "Sting"
-
-**Released:** 2026-05-18 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +257,42 @@ Last updated: 2026-05-24 02:30:04
 **Released:** 2026-05-18 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Nate Bargatze"
+
+**Released:** 2026-05-21 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO)
+
+---
+
+### "Sting"
+
+**Released:** 2026-05-18 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan Vs. Edibles Part II
+
+**Released:** 2026-05-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
+
+---
+
+### Charlie Puth
+
+**Released:** 2026-05-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH)
 
 ---
 
