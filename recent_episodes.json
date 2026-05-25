@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "44223 at https://www.thisamericanlife.org",
-    "episode_title": "676: Here\u2019s Looking at You, Kid",
-    "release_date": "2026-05-24 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a0f25de163f100183e474e5",
     "episode_title": "How to prevent burnout (w/ Master Fixer Guy Winch) | from Fixable",
     "release_date": "2026-05-24 06:00:00",
@@ -47,6 +40,48 @@
     "release_date": "2026-05-20 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c7b51b23d275dce9edd38/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "44223 at https://www.thisamericanlife.org",
+    "episode_title": "676: Here\u2019s Looking at You, Kid",
+    "release_date": "2026-05-24 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "66dfc50c-5572-11f1-bfc8-23863e30930c",
+    "episode_title": "#2504 - Skylar Grey",
+    "release_date": "2026-05-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6877232671.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "365312f8-54a1-11f1-bffe-e722e4e55eb4",
+    "episode_title": "#2503 - Eric Weinstein",
+    "release_date": "2026-05-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "2cc305a6-53dc-11f1-aaca-0b2a12a0aa49",
+    "episode_title": "#2502 - David Paulides",
+    "release_date": "2026-05-20 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9926666486.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6e105d8e-5318-11f1-9ed5-9321e601ba7a",
+    "episode_title": "#2501 - Marc Andreessen",
+    "release_date": "2026-05-19 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4222257548.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "9c09928a-c76c-4788-8292-cb1fc544d936",
+    "episode_title": "The Empathy Gym",
+    "release_date": "2026-05-18 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "05ff4671-6419-4b74-bfa7-f00e08bae61e",
@@ -91,41 +126,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "9c09928a-c76c-4788-8292-cb1fc544d936",
-    "episode_title": "The Empathy Gym",
-    "release_date": "2026-05-18 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "66dfc50c-5572-11f1-bfc8-23863e30930c",
-    "episode_title": "#2504 - Skylar Grey",
-    "release_date": "2026-05-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6877232671.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "365312f8-54a1-11f1-bffe-e722e4e55eb4",
-    "episode_title": "#2503 - Eric Weinstein",
-    "release_date": "2026-05-21 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2235835292.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2cc305a6-53dc-11f1-aaca-0b2a12a0aa49",
-    "episode_title": "#2502 - David Paulides",
-    "release_date": "2026-05-20 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT9926666486.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "6e105d8e-5318-11f1-9ed5-9321e601ba7a",
-    "episode_title": "#2501 - Marc Andreessen",
-    "release_date": "2026-05-19 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4222257548.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "f6da116f-b89a-4761-89ab-5de13196ff31",
     "episode_title": "100 Objects #1: The Century Safe",
     "release_date": "2026-05-19 07:00:00",
@@ -133,17 +133,17 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/YqZW16H2Ktk2oLNHz--uUhe82FCWWOT0SixwalKx2kM",
+    "episode_title": "Justin\u2019s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+    "release_date": "2026-05-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/zSwlYBn8GfvIu2IH2g9x4uVgVitYooC1DjLES4A926o",
     "episode_title": "Advice Line with Sarah LaFleur of M.M. LaFleur",
     "release_date": "2026-05-21 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/bpIkpn-Q7wrFfq1H-X6g3o2EcadpYq6Otwp6fwSPDBQ",
-    "episode_title": "NVIDIA: Jensen Huang. From near collapse to becoming the world\u2019s biggest company",
-    "release_date": "2026-05-18 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
   },
   {
@@ -161,46 +161,11 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "8cac2ae6-5f8d-48c3-98ba-ec2f7f47d531",
-    "episode_title": "Conan Vs. Edibles Part II",
-    "release_date": "2026-05-21 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "5014404b-a4c0-404f-a965-31a83f567e7f",
-    "episode_title": "Charlie Puth",
-    "release_date": "2026-05-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b0f11c09-604e-47f7-9437-ad41ff058d8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b0f11c09-604e-47f7-9437-ad41ff058d8e&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "6fe020e4-89d4-11f0-b13f-c3d26484ff19",
-    "episode_title": "Wrestling Nerves: The Moth Podcast",
-    "release_date": "2026-05-22 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
-    "episode_title": "Culture Clash: The Moth Radio Hour",
-    "release_date": "2026-05-19 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "7e6c2d38-da07-408c-bace-c915386e3200",
-    "episode_title": "\"RE-RELEASE: Nate Bargatze\"",
-    "release_date": "2026-05-21 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "fa4a990b-6b0d-4f8d-8ecf-5cfda89e6742",
-    "episode_title": "\"Sting\"",
-    "release_date": "2026-05-18 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/6968d9b2-ec84-4ba5-8b5e-870a902b30fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=6968d9b2-ec84-4ba5-8b5e-870a902b30fe&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/6ujxamGWI2OwqiMIr6Koi2yqjApYmbt9rBHqB7xqSMQ",
+    "episode_title": "Jack McBrayer",
+    "release_date": "2026-05-25 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/RtFGhPe305VUxTxhcHRmAiKqODuDn84psOYcUrE0AiU",
@@ -217,11 +182,46 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/vHA3a9oT8VvfGSiShbq2PieZgsj3ITO5l7_aIlKEX_g",
-    "episode_title": "Brandi Carlile",
-    "release_date": "2026-05-18 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/94d57e17-7bd8-43e2-9aeb-1a34bbaadc13.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "6fe020e4-89d4-11f0-b13f-c3d26484ff19",
+    "episode_title": "Wrestling Nerves: The Moth Podcast",
+    "release_date": "2026-05-22 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6f6be79c-89d4-11f0-b13f-cb8b70b8391e",
+    "episode_title": "Culture Clash: The Moth Radio Hour",
+    "release_date": "2026-05-19 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD5588850146.mp3?updated=1778699522",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "1409c433-14c5-45f7-ab93-088f5c416449",
+    "episode_title": "Olivia Munn",
+    "release_date": "2026-05-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "8cac2ae6-5f8d-48c3-98ba-ec2f7f47d531",
+    "episode_title": "Conan Vs. Edibles Part II",
+    "release_date": "2026-05-21 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "7a1bb07d-09e6-4bba-bea7-acd8fb3d81c7",
+    "episode_title": "\"Nick Jonas\"",
+    "release_date": "2026-05-25 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "7e6c2d38-da07-408c-bace-c915386e3200",
+    "episode_title": "\"RE-RELEASE: Nate Bargatze\"",
+    "release_date": "2026-05-21 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/rWo8UxwH_yGsRKxRJdWoCKTZzccB5ab5YOX2H5ZULmY",
