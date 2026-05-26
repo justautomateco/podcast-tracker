@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-25 14:36:32
+Last updated: 2026-05-26 02:28:19
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-05-25 14:36:32
 
 ---
 
+## This American Life
+
+### 676: Here’s Looking at You, Kid
+
+**Released:** 2026-05-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+
+---
+
 ## TED Talks Daily
+
+### How to set the right goals and stay motivated | Ayelet Fishbach (re-release)
+
+**Released:** 2026-05-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f263ca9d3d2ec14aee83c/media.mp3)
+
+---
 
 ### How to prevent burnout (w/ Master Fixer Guy Winch) | from Fixable
 
@@ -46,25 +64,33 @@ Last updated: 2026-05-25 14:36:32
 
 ---
 
-### The problem with streaming — and the case for physical media | Tom Rizzuto
+## Planet Money
 
-**Released:** 2026-05-20 15:00:00
+### The giant factory town that might be a giant mistake
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c7b51b23d275dce9edd38/media.mp3)
+**Released:** 2026-05-22 22:25:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
 
 ---
 
-## This American Life
+### Vacation and why Americans take so little
 
-### 676: Here’s Looking at You, Kid
+**Released:** 2026-05-20 07:00:00
 
-**Released:** 2026-05-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2505 - Tom Segura
+
+**Released:** 2026-05-25 23:39:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2820142649.mp3)
+
+---
 
 ### #2504 - Skylar Grey
 
@@ -100,29 +126,21 @@ Last updated: 2026-05-25 14:36:32
 
 ## Hidden Brain
 
-### The Empathy Gym
+### The Past is Never Dead
 
-**Released:** 2026-05-18 19:00:00
+**Released:** 2026-05-25 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e7d91ed8-a67b-4f58-8a83-daadf8488dbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e7d91ed8-a67b-4f58-8a83-daadf8488dbb&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### The giant factory town that might be a giant mistake
-
-**Released:** 2026-05-22 22:25:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
 
 ---
 
-### Vacation and why Americans take so little
+## 99% Invisible
 
-**Released:** 2026-05-20 07:00:00
+### 100 Objects #1: The Century Safe
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+**Released:** 2026-05-19 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO)
 
 ---
 
@@ -160,13 +178,13 @@ Last updated: 2026-05-25 14:36:32
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### 100 Objects #1: The Century Safe
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
 
-**Released:** 2026-05-19 07:00:00
+**Released:** 2026-05-20 16:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9b9bdd15-bb7b-447a-80b4-622c82a09959/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=9b9bdd15-bb7b-447a-80b4-622c82a09959&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -203,32 +221,6 @@ Last updated: 2026-05-25 14:36:32
 **Released:** 2026-05-21 16:15:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Armchair Expert
-
-### Jack McBrayer
-
-**Released:** 2026-05-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Roommate II
-
-**Released:** 2026-05-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
-
-**Released:** 2026-05-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -286,13 +278,29 @@ Last updated: 2026-05-25 14:36:32
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
+### Jack McBrayer
 
-**Released:** 2026-05-20 16:30:00
+**Released:** 2026-05-25 07:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Roommate II
+
+**Released:** 2026-05-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
+
+**Released:** 2026-05-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
