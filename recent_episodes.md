@@ -1,18 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-26 14:47:05
+Last updated: 2026-05-27 02:37:41
 
-## Freakonomics Radio
+## Planet Money
 
-### The Curious Mr. Feynman (Update)
+### The giant factory town that might be a giant mistake
 
-**Released:** 2026-05-22 10:00:00
+**Released:** 2026-05-22 22:25:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
+
+---
+
+### Vacation and why Americans take so little
+
+**Released:** 2026-05-20 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+
+---
+
+## This American Life
+
+### 676: Here’s Looking at You, Kid
+
+**Released:** 2026-05-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
 
 ---
 
 ## TED Talks Daily
+
+### The missing ingredient in every peace deal | Hiba Qasas
+
+**Released:** 2026-05-26 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a15b19eb9ac1c860cbf1ddd/media.mp3)
+
+---
 
 ### How to set the right goals and stay motivated | Ayelet Fishbach (re-release)
 
@@ -46,39 +72,21 @@ Last updated: 2026-05-26 14:47:05
 
 ---
 
-### How I set myself free | Keke Palmer
+## Freakonomics Radio
 
-**Released:** 2026-05-21 15:00:00
+### The Brilliant Mr. Feynman (Update)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f1c0d11eba3cf15582c92/media.mp3)
+**Released:** 2026-05-27 00:00:00
 
----
-
-## This American Life
-
-### 676: Here’s Looking at You, Kid
-
-**Released:** 2026-05-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/63afbf37-dc98-4729-a824-678bb535fc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=63afbf37-dc98-4729-a824-678bb535fc5d&feed=Y8lFbOT4)
 
 ---
 
-## Planet Money
+### The Curious Mr. Feynman (Update)
 
-### The giant factory town that might be a giant mistake
+**Released:** 2026-05-22 10:00:00
 
-**Released:** 2026-05-22 22:25:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
-
----
-
-### Vacation and why Americans take so little
-
-**Released:** 2026-05-20 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
 
 ---
 
@@ -116,11 +124,13 @@ Last updated: 2026-05-26 14:47:05
 
 ---
 
-### #2501 - Marc Andreessen
+## 99% Invisible
 
-**Released:** 2026-05-19 17:00:00
+### Drug Story: Ivermectin
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4222257548.mp3)
+**Released:** 2026-05-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO)
 
 ---
 
@@ -131,16 +141,6 @@ Last updated: 2026-05-26 14:47:05
 **Released:** 2026-05-25 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Drug Story: Ivermectin
-
-**Released:** 2026-05-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +178,24 @@ Last updated: 2026-05-26 14:47:05
 
 ---
 
+## Revisionist History
+
+### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
+
+**Released:** 2026-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Trust Diagnosis 
+
+**Released:** 2026-05-21 16:15:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
@@ -193,16 +211,6 @@ Last updated: 2026-05-26 14:47:05
 **Released:** 2026-05-21 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
-
-**Released:** 2026-05-20 16:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,47 +232,13 @@ Last updated: 2026-05-26 14:47:05
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Jack McBrayer
+### #866: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People
 
-**Released:** 2026-05-25 07:30:00
+**Released:** 2026-05-20 16:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Roommate II
-
-**Released:** 2026-05-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
-
-**Released:** 2026-05-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
-
-**Released:** 2026-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Trust Diagnosis 
-
-**Released:** 2026-05-21 16:15:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fe222356-a559-45e9-b80b-40408c9b59a8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -301,6 +275,32 @@ Last updated: 2026-05-26 14:47:05
 **Released:** 2026-05-21 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Jack McBrayer
+
+**Released:** 2026-05-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Roommate II
+
+**Released:** 2026-05-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dr. Elizabeth Letourneau & Luke Malone (on child sexual abuse prevention)
+
+**Released:** 2026-05-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fc25c87d-ca75-4d4a-814d-17c42030c724.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
