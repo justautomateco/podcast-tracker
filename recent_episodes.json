@@ -14,13 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "44223 at https://www.thisamericanlife.org",
-    "episode_title": "676: Here\u2019s Looking at You, Kid",
-    "release_date": "2026-05-24 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a170670942fd18754b56654",
     "episode_title": "My $60 million science experiment | Mark Rober",
     "release_date": "2026-05-27 15:02:22",
@@ -70,6 +63,41 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "44223 at https://www.thisamericanlife.org",
+    "episode_title": "676: Here\u2019s Looking at You, Kid",
+    "release_date": "2026-05-24 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "b9a851aa-5969-11f1-b610-5b89e07e9b01",
+    "episode_title": "JRE MMA Show #179 with Josh Thompson & \"Big\" John McCarthy",
+    "release_date": "2026-05-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9400073467.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "18b33436-588d-11f1-bd69-4b50659ad7ad",
+    "episode_title": "#2505 - Tom Segura",
+    "release_date": "2026-05-25 23:39:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2820142649.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "66dfc50c-5572-11f1-bfc8-23863e30930c",
+    "episode_title": "#2504 - Skylar Grey",
+    "release_date": "2026-05-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6877232671.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "365312f8-54a1-11f1-bffe-e722e4e55eb4",
+    "episode_title": "#2503 - Eric Weinstein",
+    "release_date": "2026-05-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2235835292.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "2863e2cc-126b-4212-9eec-206ae2f285dc",
     "episode_title": "The Past is Never Dead",
     "release_date": "2026-05-25 19:00:00",
@@ -82,6 +110,48 @@
     "release_date": "2026-05-26 09:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/4WCUE-17OGBw5eL-MBNx-kI9IjwoRoUprZ5pDEWq7XI",
+    "episode_title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+    "release_date": "2026-05-28 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/YqZW16H2Ktk2oLNHz--uUhe82FCWWOT0SixwalKx2kM",
+    "episode_title": "Justin\u2019s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+    "release_date": "2026-05-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "1abf3177-f5af-43a8-a8cd-b458002c1c76",
+    "episode_title": "The Great American Elevator Tragedy | The Mistakes Series",
+    "release_date": "2026-05-28 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "1dac6f0e-38d7-44d2-9978-b4510189d8a2",
+    "episode_title": "James Fleming\u2019s Impossible Vietnam War Rescue | From Medal of Honor",
+    "release_date": "2026-05-22 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "e90fa949-85ec-4bcc-8d1f-b44f00e8e896",
+    "episode_title": "The Trust Diagnosis ",
+    "release_date": "2026-05-21 16:15:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "88dc0575-9c74-44e8-b3ea-b458002baf5d",
+    "episode_title": "Howard Hughes in Las Vegas",
+    "release_date": "2026-05-28 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/88dc0575-9c74-44e8-b3ea-b458002baf5d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "62ac48d7-e9a2-4e35-ac99-b4560117155f",
@@ -105,83 +175,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "8c2ef3af-9c48-48c9-9f02-b4510003a1db",
-    "episode_title": "The 1993 Waco Siege",
-    "release_date": "2026-05-21 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8c2ef3af-9c48-48c9-9f02-b4510003a1db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/YqZW16H2Ktk2oLNHz--uUhe82FCWWOT0SixwalKx2kM",
-    "episode_title": "Justin\u2019s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
-    "release_date": "2026-05-25 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/zSwlYBn8GfvIu2IH2g9x4uVgVitYooC1DjLES4A926o",
-    "episode_title": "Advice Line with Sarah LaFleur of M.M. LaFleur",
-    "release_date": "2026-05-21 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "1dac6f0e-38d7-44d2-9978-b4510189d8a2",
-    "episode_title": "James Fleming\u2019s Impossible Vietnam War Rescue | From Medal of Honor",
-    "release_date": "2026-05-22 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "e90fa949-85ec-4bcc-8d1f-b44f00e8e896",
-    "episode_title": "The Trust Diagnosis ",
-    "release_date": "2026-05-21 16:15:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "6f91b0da-89d4-11f0-b13f-7710e7a756b7",
-    "episode_title": "Facing Off and Facing Up: The Moth Radio Hour",
-    "release_date": "2026-05-26 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "6fe020e4-89d4-11f0-b13f-c3d26484ff19",
-    "episode_title": "Wrestling Nerves: The Moth Podcast",
-    "release_date": "2026-05-22 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "1409c433-14c5-45f7-ab93-088f5c416449",
-    "episode_title": "Olivia Munn",
-    "release_date": "2026-05-25 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "8cac2ae6-5f8d-48c3-98ba-ec2f7f47d531",
-    "episode_title": "Conan Vs. Edibles Part II",
-    "release_date": "2026-05-21 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "7a1bb07d-09e6-4bba-bea7-acd8fb3d81c7",
-    "episode_title": "\"Nick Jonas\"",
-    "release_date": "2026-05-25 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "7e6c2d38-da07-408c-bace-c915386e3200",
-    "episode_title": "\"RE-RELEASE: Nate Bargatze\"",
-    "release_date": "2026-05-21 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/rdFezRFc2cm4zSXKAD0ZmxQqFInsIvsn4u3t1CM5Gws",
     "episode_title": "Ezra Klein Returns (on political polarization)",
     "release_date": "2026-05-27 07:30:00",
@@ -201,5 +194,40 @@
     "release_date": "2026-05-22 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "6f91b0da-89d4-11f0-b13f-7710e7a756b7",
+    "episode_title": "Facing Off and Facing Up: The Moth Radio Hour",
+    "release_date": "2026-05-26 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6fe020e4-89d4-11f0-b13f-c3d26484ff19",
+    "episode_title": "Wrestling Nerves: The Moth Podcast",
+    "release_date": "2026-05-22 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "7a1bb07d-09e6-4bba-bea7-acd8fb3d81c7",
+    "episode_title": "\"Nick Jonas\"",
+    "release_date": "2026-05-25 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "e302fcd2-0a04-4e2c-bc00-41f1a3397b0a",
+    "episode_title": "The Big Bird Fluffer",
+    "release_date": "2026-05-28 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "1409c433-14c5-45f7-ab93-088f5c416449",
+    "episode_title": "Olivia Munn",
+    "release_date": "2026-05-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]

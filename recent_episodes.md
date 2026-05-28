@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-28 02:14:27
+Last updated: 2026-05-28 15:30:30
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-05-28 02:14:27
 **Released:** 2026-05-22 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 676: Here’s Looking at You, Kid
-
-**Released:** 2026-05-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
 
 ---
 
@@ -90,6 +80,50 @@ Last updated: 2026-05-28 02:14:27
 
 ---
 
+## This American Life
+
+### 676: Here’s Looking at You, Kid
+
+**Released:** 2026-05-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### JRE MMA Show #179 with Josh Thompson & "Big" John McCarthy
+
+**Released:** 2026-05-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9400073467.mp3)
+
+---
+
+### #2505 - Tom Segura
+
+**Released:** 2026-05-25 23:39:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2820142649.mp3)
+
+---
+
+### #2504 - Skylar Grey
+
+**Released:** 2026-05-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6877232671.mp3)
+
+---
+
+### #2503 - Eric Weinstein
+
+**Released:** 2026-05-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2235835292.mp3)
+
+---
+
 ## Hidden Brain
 
 ### The Past is Never Dead
@@ -110,7 +144,59 @@ Last updated: 2026-05-28 02:14:27
 
 ---
 
+## How I Built This
+
+### Advice Line with Jeffrey Hollender of Seventh Generation
+
+**Released:** 2026-05-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
+
+**Released:** 2026-05-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Great American Elevator Tragedy | The Mistakes Series
+
+**Released:** 2026-05-28 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
+
+**Released:** 2026-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### The Trust Diagnosis 
+
+**Released:** 2026-05-21 16:15:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Stuff You Should Know
+
+### Howard Hughes in Las Vegas
+
+**Released:** 2026-05-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/88dc0575-9c74-44e8-b3ea-b458002baf5d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Knuckle Cracking
 
@@ -133,104 +219,6 @@ Last updated: 2026-05-28 02:14:27
 **Released:** 2026-05-23 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8c4570c8-0410-49c8-8a0e-b44a010c3449/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The 1993 Waco Siege
-
-**Released:** 2026-05-21 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8c2ef3af-9c48-48c9-9f02-b4510003a1db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## How I Built This
-
-### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
-
-**Released:** 2026-05-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Sarah LaFleur of M.M. LaFleur
-
-**Released:** 2026-05-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
-
-**Released:** 2026-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Trust Diagnosis 
-
-**Released:** 2026-05-21 16:15:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Facing Off and Facing Up: The Moth Radio Hour
-
-**Released:** 2026-05-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174)
-
----
-
-### Wrestling Nerves: The Moth Podcast
-
-**Released:** 2026-05-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Olivia Munn
-
-**Released:** 2026-05-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH)
-
----
-
-### Conan Vs. Edibles Part II
-
-**Released:** 2026-05-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/83238ccf-a801-449c-a2d8-463b221ee6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=83238ccf-a801-449c-a2d8-463b221ee6cc&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Nick Jonas"
-
-**Released:** 2026-05-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Nate Bargatze"
-
-**Released:** 2026-05-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/0ea1c45d-d31f-4c3d-8473-d6564f19d423/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=0ea1c45d-d31f-4c3d-8473-d6564f19d423&feed=hNaFxXpO)
 
 ---
 
@@ -257,6 +245,52 @@ Last updated: 2026-05-28 02:14:27
 **Released:** 2026-05-22 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Facing Off and Facing Up: The Moth Radio Hour
+
+**Released:** 2026-05-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174)
+
+---
+
+### Wrestling Nerves: The Moth Podcast
+
+**Released:** 2026-05-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538)
+
+---
+
+## SmartLess 
+
+### "Nick Jonas"
+
+**Released:** 2026-05-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Big Bird Fluffer
+
+**Released:** 2026-05-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH)
+
+---
+
+### Olivia Munn
+
+**Released:** 2026-05-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH)
 
 ---
 
