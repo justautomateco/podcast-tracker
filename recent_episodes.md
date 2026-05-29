@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-29 02:29:31
+Last updated: 2026-05-29 14:42:46
 
 ## Freakonomics Radio
+
+### The Vanishing Mr. Feynman (Update)
+
+**Released:** 2026-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6f58b4e2-7cab-47b4-a954-59ee326a1ec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6f58b4e2-7cab-47b4-a954-59ee326a1ec3&feed=Y8lFbOT4)
+
+---
 
 ### The Brilliant Mr. Feynman (Update)
 
 **Released:** 2026-05-27 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/63afbf37-dc98-4729-a824-678bb535fc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=63afbf37-dc98-4729-a824-678bb535fc5d&feed=Y8lFbOT4)
-
----
-
-### The Curious Mr. Feynman (Update)
-
-**Released:** 2026-05-22 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/bd615219-cd5b-4ad3-bef1-0af0a8114e7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=bd615219-cd5b-4ad3-bef1-0af0a8114e7a&feed=Y8lFbOT4)
 
 ---
 
@@ -90,16 +90,6 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
-## Hidden Brain
-
-### The Past is Never Dead
-
-**Released:** 2026-05-25 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2506 - Michelle Thaller
@@ -134,7 +124,25 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
+## Hidden Brain
+
+### The Past is Never Dead
+
+**Released:** 2026-05-25 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
+
+### 100 Objects #2: 60-Degree Screw
+
+**Released:** 2026-05-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO)
+
+---
 
 ### Drug Story: Ivermectin
 
@@ -178,6 +186,16 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
+## Revisionist History
+
+### The Great American Elevator Tragedy | The Mistakes Series
+
+**Released:** 2026-05-28 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Jeffrey Hollender of Seventh Generation
@@ -196,35 +214,15 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
-## The Tim Ferriss Show
-
-### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
-
-**Released:** 2026-05-28 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Great American Elevator Tragedy | The Mistakes Series
-
-**Released:** 2026-05-28 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
-
-**Released:** 2026-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
+
+### Liberating Yourself with Busy Philipps: The Moth Podcast 
+
+**Released:** 2026-05-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739)
+
+---
 
 ### Facing Off and Facing Up: The Moth Radio Hour
 
@@ -234,21 +232,13 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
-### Wrestling Nerves: The Moth Podcast
+## The Tim Ferriss Show
 
-**Released:** 2026-05-22 04:25:00
+### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD2721791733.mp3?updated=1778170538)
+**Released:** 2026-05-28 22:00:00
 
----
-
-## SmartLess 
-
-### "Nick Jonas"
-
-**Released:** 2026-05-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,7 +260,25 @@ Last updated: 2026-05-29 02:29:31
 
 ---
 
+## SmartLess 
+
+### "Nick Jonas"
+
+**Released:** 2026-05-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Graduation
+
+**Released:** 2026-05-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Ezra Klein Returns (on political polarization)
 
@@ -285,14 +293,6 @@ Last updated: 2026-05-29 02:29:31
 **Released:** 2026-05-25 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Roommate II
-
-**Released:** 2026-05-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
