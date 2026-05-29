@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-28 15:30:30
+Last updated: 2026-05-29 02:29:31
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-05-28 15:30:30
 
 ---
 
+## This American Life
+
+### 676: Here’s Looking at You, Kid
+
+**Released:** 2026-05-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+
+---
+
 ## TED Talks Daily
+
+### The invisible infrastructure in the sky | Adam Bry
+
+**Released:** 2026-05-28 23:13:35
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1711f16ee822cbfb6e8690/media.mp3)
+
+---
 
 ### My $60 million science experiment | Mark Rober
 
@@ -54,14 +72,6 @@ Last updated: 2026-05-28 15:30:30
 
 ---
 
-### How to be smarter about the news | Ian Bremmer
-
-**Released:** 2026-05-23 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f25af80978431daa53024/media.mp3)
-
----
-
 ## Planet Money
 
 ### The leaked tapes that show how the rich avoid taxes
@@ -80,17 +90,25 @@ Last updated: 2026-05-28 15:30:30
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 676: Here’s Looking at You, Kid
+### The Past is Never Dead
 
-**Released:** 2026-05-24 18:00:00
+**Released:** 2026-05-25 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2506 - Michelle Thaller
+
+**Released:** 2026-05-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2663008219.mp3)
+
+---
 
 ### JRE MMA Show #179 with Josh Thompson & "Big" John McCarthy
 
@@ -116,24 +134,6 @@ Last updated: 2026-05-28 15:30:30
 
 ---
 
-### #2503 - Eric Weinstein
-
-**Released:** 2026-05-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2235835292.mp3)
-
----
-
-## Hidden Brain
-
-### The Past is Never Dead
-
-**Released:** 2026-05-25 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Drug Story: Ivermectin
@@ -141,50 +141,6 @@ Last updated: 2026-05-28 15:30:30
 **Released:** 2026-05-26 09:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Jeffrey Hollender of Seventh Generation
-
-**Released:** 2026-05-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
-
-**Released:** 2026-05-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Great American Elevator Tragedy | The Mistakes Series
-
-**Released:** 2026-05-28 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
-
-**Released:** 2026-05-22 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### The Trust Diagnosis 
-
-**Released:** 2026-05-21 16:15:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/e90fa949-85ec-4bcc-8d1f-b44f00e8e896/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -222,29 +178,49 @@ Last updated: 2026-05-28 15:30:30
 
 ---
 
-## Armchair Expert
+## How I Built This
 
-### Ezra Klein Returns (on political polarization)
+### Advice Line with Jeffrey Hollender of Seventh Generation
 
-**Released:** 2026-05-27 07:30:00
+**Released:** 2026-05-28 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jack McBrayer
-
-**Released:** 2026-05-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Armchair Anonymous: Bad Roommate II
+### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
 
-**Released:** 2026-05-22 07:30:00
+**Released:** 2026-05-25 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
+
+**Released:** 2026-05-28 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Great American Elevator Tragedy | The Mistakes Series
+
+**Released:** 2026-05-28 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### James Fleming’s Impossible Vietnam War Rescue | From Medal of Honor
+
+**Released:** 2026-05-22 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1dac6f0e-38d7-44d2-9978-b4510189d8a2/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -291,6 +267,32 @@ Last updated: 2026-05-28 15:30:30
 **Released:** 2026-05-25 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Ezra Klein Returns (on political polarization)
+
+**Released:** 2026-05-27 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Jack McBrayer
+
+**Released:** 2026-05-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Roommate II
+
+**Released:** 2026-05-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9370c725-9508-4764-8a51-71349bc380ee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
