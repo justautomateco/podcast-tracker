@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-05-29 14:42:46
+Last updated: 2026-05-30 02:13:19
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 676: Here’s Looking at You, Kid
+### Why you should be a techno-skeptic | Jonathan Haidt
 
-**Released:** 2026-05-24 18:00:00
+**Released:** 2026-05-29 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17120b8084eb4dbaaaf4ba/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### The invisible infrastructure in the sky | Adam Bry
 
@@ -64,15 +62,25 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-### How to prevent burnout (w/ Master Fixer Guy Winch) | from Fixable
+## This American Life
 
-**Released:** 2026-05-24 06:00:00
+### 676: Here’s Looking at You, Kid
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0f25de163f100183e474e5/media.mp3)
+**Released:** 2026-05-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
 
 ---
 
 ## Planet Money
+
+### The sneaky way companies get new chemicals into our food
+
+**Released:** 2026-05-29 19:59:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
+
+---
 
 ### The leaked tapes that show how the rich avoid taxes
 
@@ -82,15 +90,15 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-### The giant factory town that might be a giant mistake
+## The Joe Rogan Experience
 
-**Released:** 2026-05-22 22:25:00
+### #2507 - Harland Williams
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
+**Released:** 2026-05-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5813764141.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2506 - Michelle Thaller
 
@@ -113,14 +121,6 @@ Last updated: 2026-05-29 14:42:46
 **Released:** 2026-05-25 23:39:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2820142649.mp3)
-
----
-
-### #2504 - Skylar Grey
-
-**Released:** 2026-05-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6877232671.mp3)
 
 ---
 
@@ -186,16 +186,6 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-## Revisionist History
-
-### The Great American Elevator Tragedy | The Mistakes Series
-
-**Released:** 2026-05-28 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jeffrey Hollender of Seventh Generation
@@ -214,31 +204,13 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-## The Moth
+## Revisionist History
 
-### Liberating Yourself with Busy Philipps: The Moth Podcast 
+### The Great American Elevator Tragedy | The Mistakes Series
 
-**Released:** 2026-05-29 04:25:00
+**Released:** 2026-05-28 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739)
-
----
-
-### Facing Off and Facing Up: The Moth Radio Hour
-
-**Released:** 2026-05-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174)
-
----
-
-## The Tim Ferriss Show
-
-### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
-
-**Released:** 2026-05-28 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,13 +232,21 @@ Last updated: 2026-05-29 14:42:46
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Nick Jonas"
+### Liberating Yourself with Busy Philipps: The Moth Podcast 
 
-**Released:** 2026-05-25 07:01:00
+**Released:** 2026-05-29 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739)
+
+---
+
+### Facing Off and Facing Up: The Moth Radio Hour
+
+**Released:** 2026-05-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174)
 
 ---
 
@@ -293,6 +273,26 @@ Last updated: 2026-05-29 14:42:46
 **Released:** 2026-05-25 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Nick Jonas"
+
+**Released:** 2026-05-25 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
+
+**Released:** 2026-05-28 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
