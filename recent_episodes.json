@@ -1,24 +1,10 @@
 [
   {
-    "guid": "ef578f2f-8f03-4454-92c4-8e8ad2f0d4aa",
-    "episode_title": "The Vanishing Mr. Feynman (Update)",
-    "release_date": "2026-05-29 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6f58b4e2-7cab-47b4-a954-59ee326a1ec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6f58b4e2-7cab-47b4-a954-59ee326a1ec3&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "dedb890f-55d0-4718-bb1c-d5d67ed6876e",
-    "episode_title": "The Brilliant Mr. Feynman (Update)",
-    "release_date": "2026-05-27 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/63afbf37-dc98-4729-a824-678bb535fc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=63afbf37-dc98-4729-a824-678bb535fc5d&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "44223 at https://www.thisamericanlife.org",
-    "episode_title": "676: Here\u2019s Looking at You, Kid",
-    "release_date": "2026-05-24 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6a17123dcb11d38a8b3ae090",
+    "episode_title": "Sunday Pick: Kristen Bell on delivering honesty with empathy | from ReThinking with Adam Grant",
+    "release_date": "2026-05-31 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17123dcb11d38a8b3ae090/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a17094630535b3e187550e3",
@@ -49,11 +35,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a15b19eb9ac1c860cbf1ddd",
-    "episode_title": "The missing ingredient in every peace deal | Hiba Qasas",
-    "release_date": "2026-05-26 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a15b19eb9ac1c860cbf1ddd/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "ef578f2f-8f03-4454-92c4-8e8ad2f0d4aa",
+    "episode_title": "The Vanishing Mr. Feynman (Update)",
+    "release_date": "2026-05-29 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6f58b4e2-7cab-47b4-a954-59ee326a1ec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6f58b4e2-7cab-47b4-a954-59ee326a1ec3&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "dedb890f-55d0-4718-bb1c-d5d67ed6876e",
+    "episode_title": "The Brilliant Mr. Feynman (Update)",
+    "release_date": "2026-05-27 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/63afbf37-dc98-4729-a824-678bb535fc5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=63afbf37-dc98-4729-a824-678bb535fc5d&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "44223 at https://www.thisamericanlife.org",
+    "episode_title": "676: Here\u2019s Looking at You, Kid",
+    "release_date": "2026-05-24 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "ff454b2f-c829-44f7-9c40-88c4390fb9f8",
@@ -147,6 +147,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "1abf3177-f5af-43a8-a8cd-b458002c1c76",
+    "episode_title": "The Great American Elevator Tragedy | The Mistakes Series",
+    "release_date": "2026-05-28 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/4WCUE-17OGBw5eL-MBNx-kI9IjwoRoUprZ5pDEWq7XI",
     "episode_title": "Advice Line with Jeffrey Hollender of Seventh Generation",
     "release_date": "2026-05-28 07:10:00",
@@ -161,25 +168,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "1abf3177-f5af-43a8-a8cd-b458002c1c76",
-    "episode_title": "The Great American Elevator Tragedy | The Mistakes Series",
-    "release_date": "2026-05-28 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "e302fcd2-0a04-4e2c-bc00-41f1a3397b0a",
-    "episode_title": "The Big Bird Fluffer",
-    "release_date": "2026-05-28 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "1409c433-14c5-45f7-ab93-088f5c416449",
-    "episode_title": "Olivia Munn",
-    "release_date": "2026-05-25 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/dhnPTObym1k5Jgy5HIl9-rLs-L2EQelRG6h-UgFcTsc",
+    "episode_title": "#867: Dr. Becky Kennedy \u2014 Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
+    "release_date": "2026-05-28 22:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "6fb758a8-89d4-11f0-b13f-8b7b27309e2c",
@@ -217,17 +210,24 @@
     "podcast_name": "Armchair Expert"
   },
   {
+    "guid": "e302fcd2-0a04-4e2c-bc00-41f1a3397b0a",
+    "episode_title": "The Big Bird Fluffer",
+    "release_date": "2026-05-28 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "1409c433-14c5-45f7-ab93-088f5c416449",
+    "episode_title": "Olivia Munn",
+    "release_date": "2026-05-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "7a1bb07d-09e6-4bba-bea7-acd8fb3d81c7",
     "episode_title": "\"Nick Jonas\"",
     "release_date": "2026-05-25 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/dhnPTObym1k5Jgy5HIl9-rLs-L2EQelRG6h-UgFcTsc",
-    "episode_title": "#867: Dr. Becky Kennedy \u2014 Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
-    "release_date": "2026-05-28 22:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
