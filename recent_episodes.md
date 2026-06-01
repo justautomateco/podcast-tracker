@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-01 02:48:29
+Last updated: 2026-06-01 17:19:50
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
+## This American Life
+
+### 137: The Book That Changed Your Life
+
+**Released:** 2026-05-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache)
+
+---
+
 ## TED Talks Daily
+
+### How to escape the smartphone doom loop | Larissa May, Elise Hu
+
+**Released:** 2026-06-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1ce0e3f7ef77595856642a/media.mp3)
+
+---
 
 ### Sunday Pick: Kristen Bell on delivering honesty with empathy | from ReThinking with Adam Grant
 
@@ -54,21 +72,49 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-### My $60 million science experiment | Mark Rober
+## Planet Money
 
-**Released:** 2026-05-27 15:02:22
+### The sneaky way companies get new chemicals into our food
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a170670942fd18754b56654/media.mp3)
+**Released:** 2026-05-29 19:59:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
 
 ---
 
-## This American Life
+### The leaked tapes that show how the rich avoid taxes
 
-### 137: The Book That Changed Your Life
+**Released:** 2026-05-27 07:00:00
 
-**Released:** 2026-05-31 18:00:00
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408)
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache)
+---
+
+## Hidden Brain
+
+### The Past is Never Dead
+
+**Released:** 2026-05-25 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #2: 60-Degree Screw
+
+**Released:** 2026-05-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO)
+
+---
+
+### Drug Story: Ivermectin
+
+**Released:** 2026-05-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO)
 
 ---
 
@@ -106,34 +152,6 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-## Planet Money
-
-### The sneaky way companies get new chemicals into our food
-
-**Released:** 2026-05-29 19:59:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
-
----
-
-### The leaked tapes that show how the rich avoid taxes
-
-**Released:** 2026-05-27 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408)
-
----
-
-## Hidden Brain
-
-### The Past is Never Dead
-
-**Released:** 2026-05-25 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/7b6ac92f-2268-4818-87b9-f936ea97259d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=7b6ac92f-2268-4818-87b9-f936ea97259d&feed=kwWc0lhf)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Did Shakespeare really write all that stuff?
@@ -168,25 +186,15 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #2: 60-Degree Screw
-
-**Released:** 2026-05-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO)
-
----
-
-### Drug Story: Ivermectin
-
-**Released:** 2026-05-26 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
+
+**Released:** 2026-06-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Jeffrey Hollender of Seventh Generation
 
@@ -196,11 +204,13 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-### Justin’s Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
+## The Tim Ferriss Show
 
-**Released:** 2026-05-25 07:10:00
+### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-05-28 22:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,6 +226,14 @@ Last updated: 2026-06-01 02:48:29
 
 ## Conan O'Brien Needs A Friend
 
+### Andrew Scott
+
+**Released:** 2026-06-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
+
+---
+
 ### The Big Bird Fluffer
 
 **Released:** 2026-05-28 04:05:00
@@ -224,11 +242,13 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-### Olivia Munn
+## SmartLess 
 
-**Released:** 2026-05-25 04:05:00
+### "Bowen Yang"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/635608e1-be14-48ce-b513-3f42cd98f83a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=635608e1-be14-48ce-b513-3f42cd98f83a&feed=dHoohVNH)
+**Released:** 2026-06-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
 
 ---
 
@@ -250,27 +270,15 @@ Last updated: 2026-06-01 02:48:29
 
 ---
 
-## The Tim Ferriss Show
-
-### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
-
-**Released:** 2026-05-28 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Nick Jonas"
-
-**Released:** 2026-05-25 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c4fa59a8-a4d5-43cc-a384-f8525b99bf96/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c4fa59a8-a4d5-43cc-a384-f8525b99bf96&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Lena Waithe
+
+**Released:** 2026-06-01 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Graduation
 
@@ -285,14 +293,6 @@ Last updated: 2026-06-01 02:48:29
 **Released:** 2026-05-27 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jack McBrayer
-
-**Released:** 2026-05-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/786aad78-7c7f-4269-9c84-0098b04ca74c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
