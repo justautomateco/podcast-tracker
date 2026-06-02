@@ -14,6 +14,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37536 at https://www.thisamericanlife.org",
+    "episode_title": "137: The Book That Changed Your Life",
+    "release_date": "2026-05-31 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a1dfa2cc1105f0d11176916",
+    "episode_title": "The love of my life (and why I need to share it with you) | Ann Patchett",
+    "release_date": "2026-06-02 15:44:03",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1dfa2cc1105f0d11176916/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a1ce0e3f7ef77595856642a",
     "episode_title": "How to escape the smartphone doom loop | Larissa May, Elise Hu",
     "release_date": "2026-06-01 15:00:00",
@@ -42,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a1711f16ee822cbfb6e8690",
-    "episode_title": "The invisible infrastructure in the sky | Adam Bry",
-    "release_date": "2026-05-28 23:13:35",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1711f16ee822cbfb6e8690/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "ff454b2f-c829-44f7-9c40-88c4390fb9f8",
     "episode_title": "The sneaky way companies get new chemicals into our food",
     "release_date": "2026-05-29 19:59:00",
@@ -61,13 +68,6 @@
     "release_date": "2026-05-27 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37536 at https://www.thisamericanlife.org",
-    "episode_title": "137: The Book That Changed Your Life",
-    "release_date": "2026-05-31 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "cb188274-5b04-11f1-ab08-73f69a0b7be3",
@@ -98,6 +98,13 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "82fe7db6-c100-4796-a503-3c10eb072fb8",
+    "episode_title": "The MAPL Test",
+    "release_date": "2026-06-02 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "9865f082-fddc-4090-8f95-38d445c6eae7",
     "episode_title": "100 Objects #2: 60-Degree Screw",
     "release_date": "2026-05-29 07:00:00",
@@ -105,11 +112,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "abd24a40-cd16-4458-9e8c-281525e68e9f",
-    "episode_title": "Drug Story: Ivermectin",
-    "release_date": "2026-05-26 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/23d6e3b5-6073-419c-860c-6c1c740bd5ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=23d6e3b5-6073-419c-860c-6c1c740bd5ac&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "91412c54-e22c-4190-9b26-b45d000dd21e",
+    "episode_title": "The Tragic Life of Vincent Van Gogh",
+    "release_date": "2026-06-02 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/91412c54-e22c-4190-9b26-b45d000dd21e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "628cca08-024d-4a2a-9179-b45800fa70c8",
@@ -133,20 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "f8057e4f-420a-47ad-a71c-b4560019b3ec",
-    "episode_title": "The Story of Starvation Heights",
-    "release_date": "2026-05-26 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f8057e4f-420a-47ad-a71c-b4560019b3ec/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/dhnPTObym1k5Jgy5HIl9-rLs-L2EQelRG6h-UgFcTsc",
-    "episode_title": "#867: Dr. Becky Kennedy \u2014 Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
-    "release_date": "2026-05-28 22:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/5S0VoNN-oPSK1ZPAt1NXn_-Vo2zCDMe8lt7jxguqKmY",
     "episode_title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
     "release_date": "2026-06-01 07:10:00",
@@ -168,6 +161,34 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
+    "episode_title": "Lena Waithe",
+    "release_date": "2026-06-01 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
+    "episode_title": "Armchair Anonymous: Graduation",
+    "release_date": "2026-05-29 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/rdFezRFc2cm4zSXKAD0ZmxQqFInsIvsn4u3t1CM5Gws",
+    "episode_title": "Ezra Klein Returns (on political polarization)",
+    "release_date": "2026-05-27 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "707a9cdc-89d4-11f0-b13f-1b8e81956261",
+    "episode_title": "Mission: Improbable: The Moth Radio Hour",
+    "release_date": "2026-06-02 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "6fb758a8-89d4-11f0-b13f-8b7b27309e2c",
     "episode_title": "Liberating Yourself with Busy Philipps: The Moth Podcast ",
     "release_date": "2026-05-29 04:25:00",
@@ -175,11 +196,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "6f91b0da-89d4-11f0-b13f-7710e7a756b7",
-    "episode_title": "Facing Off and Facing Up: The Moth Radio Hour",
-    "release_date": "2026-05-26 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD7705471886.mp3?updated=1779402174",
-    "podcast_name": "The Moth"
+    "guid": "b19932f1-34a4-4c9c-8757-e5aad2ccb7d8",
+    "episode_title": "Conan\u2019s Harvard Commencement Address",
+    "release_date": "2026-06-02 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "14605fbe-dac5-495f-84e4-6f2d83e2d717",
@@ -203,24 +224,10 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
-    "episode_title": "Lena Waithe",
-    "release_date": "2026-06-01 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
-    "episode_title": "Armchair Anonymous: Graduation",
-    "release_date": "2026-05-29 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/rdFezRFc2cm4zSXKAD0ZmxQqFInsIvsn4u3t1CM5Gws",
-    "episode_title": "Ezra Klein Returns (on political polarization)",
-    "release_date": "2026-05-27 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/dhnPTObym1k5Jgy5HIl9-rLs-L2EQelRG6h-UgFcTsc",
+    "episode_title": "#867: Dr. Becky Kennedy \u2014 Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
+    "release_date": "2026-05-28 22:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
