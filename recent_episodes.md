@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-03 02:54:50
+Last updated: 2026-06-03 16:19:05
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-06-03 02:54:50
 ---
 
 ## TED Talks Daily
+
+### Why you should disappoint your parents | Desiree Akhavan (re-release)
+
+**Released:** 2026-06-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8dd69942b8f91f544d91/media.mp3)
+
+---
 
 ### The love of my life (and why I need to share it with you) | Ann Patchett
 
@@ -53,60 +61,6 @@ Last updated: 2026-06-03 02:54:50
 **Released:** 2026-05-30 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17094630535b3e187550e3/media.mp3)
-
----
-
-### Why you should be a techno-skeptic | Jonathan Haidt
-
-**Released:** 2026-05-29 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17120b8084eb4dbaaaf4ba/media.mp3)
-
----
-
-## Planet Money
-
-### The sneaky way companies get new chemicals into our food
-
-**Released:** 2026-05-29 19:59:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
-
----
-
-### The leaked tapes that show how the rich avoid taxes
-
-**Released:** 2026-05-27 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408)
-
----
-
-## 99% Invisible
-
-### The MAPL Test
-
-**Released:** 2026-06-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
-
----
-
-### 100 Objects #2: 60-Degree Screw
-
-**Released:** 2026-05-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Unleashing Your Creativity
-
-**Released:** 2026-06-01 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
 
 ---
 
@@ -144,7 +98,43 @@ Last updated: 2026-06-03 02:54:50
 
 ---
 
+## Hidden Brain
+
+### Unleashing Your Creativity
+
+**Released:** 2026-06-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
+
+---
+
+## Planet Money
+
+### There's no business like dough business
+
+**Released:** 2026-06-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751)
+
+---
+
+### The sneaky way companies get new chemicals into our food
+
+**Released:** 2026-05-29 19:59:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: 1955 Le Mans Disaster
+
+**Released:** 2026-06-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/abfd4708-315a-47ef-9855-b45d00e497d1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Tragic Life of Vincent Van Gogh
 
@@ -170,29 +160,21 @@ Last updated: 2026-06-03 02:54:50
 
 ---
 
-### Short Stuff: Knuckle Cracking
+## 99% Invisible
 
-**Released:** 2026-05-27 09:00:00
+### The MAPL Test
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62ac48d7-e9a2-4e35-ac99-b4560117155f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-06-02 09:00:00
 
----
-
-## How I Built This
-
-### UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
-
-**Released:** 2026-06-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
 
 ---
 
-### Advice Line with Jeffrey Hollender of Seventh Generation
+### 100 Objects #2: 60-Degree Screw
 
-**Released:** 2026-05-28 07:10:00
+**Released:** 2026-05-29 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO)
 
 ---
 
@@ -221,6 +203,50 @@ Last updated: 2026-06-03 02:54:50
 **Released:** 2026-05-28 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
+
+**Released:** 2026-06-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Jeffrey Hollender of Seventh Generation
+
+**Released:** 2026-05-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan’s Harvard Commencement Address
+
+**Released:** 2026-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
+
+---
+
+### Andrew Scott
+
+**Released:** 2026-06-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
+
+---
+
+### The Big Bird Fluffer
+
+**Released:** 2026-05-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH)
 
 ---
 
@@ -254,6 +280,14 @@ Last updated: 2026-06-03 02:54:50
 
 ## Armchair Expert
 
+### Cohen Miles-Rath (on psychosis and recovery)
+
+**Released:** 2026-06-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Lena Waithe
 
 **Released:** 2026-06-01 07:30:00
@@ -267,40 +301,6 @@ Last updated: 2026-06-03 02:54:50
 **Released:** 2026-05-29 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ezra Klein Returns (on political polarization)
-
-**Released:** 2026-05-27 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan’s Harvard Commencement Address
-
-**Released:** 2026-06-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
-
----
-
-### Andrew Scott
-
-**Released:** 2026-06-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
-
----
-
-### The Big Bird Fluffer
-
-**Released:** 2026-05-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH)
 
 ---
 

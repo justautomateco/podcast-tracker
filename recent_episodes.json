@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6a1f8dd69942b8f91f544d91",
+    "episode_title": "Why you should disappoint your parents | Desiree Akhavan (re-release)",
+    "release_date": "2026-06-03 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8dd69942b8f91f544d91/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a1dfa2cc1105f0d11176916",
     "episode_title": "The love of my life (and why I need to share it with you) | Ann Patchett",
     "release_date": "2026-06-02 15:44:03",
@@ -40,48 +47,6 @@
     "release_date": "2026-05-30 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17094630535b3e187550e3/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a17120b8084eb4dbaaaf4ba",
-    "episode_title": "Why you should be a techno-skeptic | Jonathan Haidt",
-    "release_date": "2026-05-29 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17120b8084eb4dbaaaf4ba/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "ff454b2f-c829-44f7-9c40-88c4390fb9f8",
-    "episode_title": "The sneaky way companies get new chemicals into our food",
-    "release_date": "2026-05-29 19:59:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "27366322-a1c5-4739-af4e-dc35acf7996e",
-    "episode_title": "The leaked tapes that show how the rich avoid taxes",
-    "release_date": "2026-05-27 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "82fe7db6-c100-4796-a503-3c10eb072fb8",
-    "episode_title": "The MAPL Test",
-    "release_date": "2026-06-02 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "9865f082-fddc-4090-8f95-38d445c6eae7",
-    "episode_title": "100 Objects #2: 60-Degree Screw",
-    "release_date": "2026-05-29 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "9c83d1b7-c222-4805-8465-e2cf023fa34d",
-    "episode_title": "Unleashing Your Creativity",
-    "release_date": "2026-06-01 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "61bd0b4c-5e0b-11f1-b4b2-837f481d7600",
@@ -112,6 +77,34 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "9c83d1b7-c222-4805-8465-e2cf023fa34d",
+    "episode_title": "Unleashing Your Creativity",
+    "release_date": "2026-06-01 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "92074c80-6417-4f52-b24e-ebdb46757077",
+    "episode_title": "There's no business like dough business",
+    "release_date": "2026-06-03 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "ff454b2f-c829-44f7-9c40-88c4390fb9f8",
+    "episode_title": "The sneaky way companies get new chemicals into our food",
+    "release_date": "2026-05-29 19:59:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "abfd4708-315a-47ef-9855-b45d00e497d1",
+    "episode_title": "Short Stuff: 1955 Le Mans Disaster",
+    "release_date": "2026-06-03 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/abfd4708-315a-47ef-9855-b45d00e497d1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "91412c54-e22c-4190-9b26-b45d000dd21e",
     "episode_title": "The Tragic Life of Vincent Van Gogh",
     "release_date": "2026-06-02 09:00:00",
@@ -133,25 +126,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "62ac48d7-e9a2-4e35-ac99-b4560117155f",
-    "episode_title": "Short Stuff: Knuckle Cracking",
-    "release_date": "2026-05-27 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62ac48d7-e9a2-4e35-ac99-b4560117155f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "82fe7db6-c100-4796-a503-3c10eb072fb8",
+    "episode_title": "The MAPL Test",
+    "release_date": "2026-06-02 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/5S0VoNN-oPSK1ZPAt1NXn_-Vo2zCDMe8lt7jxguqKmY",
-    "episode_title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
-    "release_date": "2026-06-01 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/4WCUE-17OGBw5eL-MBNx-kI9IjwoRoUprZ5pDEWq7XI",
-    "episode_title": "Advice Line with Jeffrey Hollender of Seventh Generation",
-    "release_date": "2026-05-28 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "9865f082-fddc-4090-8f95-38d445c6eae7",
+    "episode_title": "100 Objects #2: 60-Degree Screw",
+    "release_date": "2026-05-29 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6d8215c8-36a5-4da7-a005-0e2c1b0258dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6d8215c8-36a5-4da7-a005-0e2c1b0258dc&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/7__fbqi4tWOcFB0X52k5VjgUi9OiWba7D--uW9WyWd0",
@@ -175,46 +161,18 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "707a9cdc-89d4-11f0-b13f-1b8e81956261",
-    "episode_title": "Mission: Improbable: The Moth Radio Hour",
-    "release_date": "2026-06-02 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/5S0VoNN-oPSK1ZPAt1NXn_-Vo2zCDMe8lt7jxguqKmY",
+    "episode_title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
+    "release_date": "2026-06-01 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "6fb758a8-89d4-11f0-b13f-8b7b27309e2c",
-    "episode_title": "Liberating Yourself with Busy Philipps: The Moth Podcast ",
-    "release_date": "2026-05-29 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "9f0df5fa-0e63-40c4-a5b3-9182fb73711c",
-    "episode_title": "\"Bowen Yang\"",
-    "release_date": "2026-06-01 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
-    "episode_title": "Lena Waithe",
-    "release_date": "2026-06-01 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
-    "episode_title": "Armchair Anonymous: Graduation",
-    "release_date": "2026-05-29 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/rdFezRFc2cm4zSXKAD0ZmxQqFInsIvsn4u3t1CM5Gws",
-    "episode_title": "Ezra Klein Returns (on political polarization)",
-    "release_date": "2026-05-27 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/359b5baa-d649-4792-afe9-244d3e15669e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/4WCUE-17OGBw5eL-MBNx-kI9IjwoRoUprZ5pDEWq7XI",
+    "episode_title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+    "release_date": "2026-05-28 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "b19932f1-34a4-4c9c-8757-e5aad2ccb7d8",
@@ -236,5 +194,47 @@
     "release_date": "2026-05-28 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "707a9cdc-89d4-11f0-b13f-1b8e81956261",
+    "episode_title": "Mission: Improbable: The Moth Radio Hour",
+    "release_date": "2026-06-02 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "6fb758a8-89d4-11f0-b13f-8b7b27309e2c",
+    "episode_title": "Liberating Yourself with Busy Philipps: The Moth Podcast ",
+    "release_date": "2026-05-29 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "9f0df5fa-0e63-40c4-a5b3-9182fb73711c",
+    "episode_title": "\"Bowen Yang\"",
+    "release_date": "2026-06-01 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_o3EJA4MLh8jZb-ocIbA2ilUKKBE9YLmCPlWcwRVPOs",
+    "episode_title": "Cohen Miles-Rath (on psychosis and recovery)",
+    "release_date": "2026-06-03 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
+    "episode_title": "Lena Waithe",
+    "release_date": "2026-06-01 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
+    "episode_title": "Armchair Anonymous: Graduation",
+    "release_date": "2026-05-29 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
