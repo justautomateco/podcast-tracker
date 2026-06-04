@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-04 02:50:02
+Last updated: 2026-06-04 14:38:31
+
+## Freakonomics Radio
+
+### The Vanishing Mr. Feynman (Update)
+
+**Released:** 2026-05-29 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6f58b4e2-7cab-47b4-a954-59ee326a1ec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6f58b4e2-7cab-47b4-a954-59ee326a1ec3&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 137: The Book That Changed Your Life
+
+**Released:** 2026-05-31 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache)
+
+---
 
 ## TED Talks Daily
 
@@ -62,16 +82,6 @@ Last updated: 2026-06-04 02:50:02
 
 ---
 
-## Freakonomics Radio
-
-### The Vanishing Mr. Feynman (Update)
-
-**Released:** 2026-05-29 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6f58b4e2-7cab-47b4-a954-59ee326a1ec3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6f58b4e2-7cab-47b4-a954-59ee326a1ec3&feed=Y8lFbOT4)
-
----
-
 ## Hidden Brain
 
 ### Unleashing Your Creativity
@@ -79,16 +89,6 @@ Last updated: 2026-06-04 02:50:02
 **Released:** 2026-06-01 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 137: The Book That Changed Your Life
-
-**Released:** 2026-05-31 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache)
 
 ---
 
@@ -146,6 +146,14 @@ Last updated: 2026-06-04 02:50:02
 
 ## Stuff You Should Know
 
+### Three Mile Island
+
+**Released:** 2026-06-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9a1e8284-e97a-44a0-aa68-b45f00086b7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Short Stuff: 1955 Le Mans Disaster
 
 **Released:** 2026-06-03 09:00:00
@@ -170,29 +178,21 @@ Last updated: 2026-06-04 02:50:02
 
 ---
 
-### Howard Hughes in Las Vegas
+## How I Built This
 
-**Released:** 2026-05-28 09:00:00
+### Advice Line with Tim Ferriss (August 2025)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/88dc0575-9c74-44e8-b3ea-b458002baf5d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-06-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/84f10963-70ff-444d-87df-cfedab442943.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
 
 **Released:** 2026-06-01 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jeffrey Hollender of Seventh Generation
-
-**Released:** 2026-05-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,6 +214,16 @@ Last updated: 2026-06-04 02:50:02
 
 ---
 
+## Revisionist History
+
+### Introducing The News from Scene on Radio
+
+**Released:** 2026-06-04 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## The Moth
 
 ### Mission: Improbable: The Moth Radio Hour
@@ -229,6 +239,42 @@ Last updated: 2026-06-04 02:50:02
 **Released:** 2026-05-29 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Oh Walt Whitman!
+
+**Released:** 2026-06-04 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/456cdcaf-8b7c-4fcf-946e-3081d8e444c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=456cdcaf-8b7c-4fcf-946e-3081d8e444c2&feed=dHoohVNH)
+
+---
+
+### Conan’s Harvard Commencement Address
+
+**Released:** 2026-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
+
+---
+
+### Andrew Scott
+
+**Released:** 2026-06-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Bowen Yang"
+
+**Released:** 2026-06-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
 
 ---
 
@@ -255,52 +301,6 @@ Last updated: 2026-06-04 02:50:02
 **Released:** 2026-05-29 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Great American Elevator Tragedy | The Mistakes Series
-
-**Released:** 2026-05-28 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/1abf3177-f5af-43a8-a8cd-b458002c1c76/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan’s Harvard Commencement Address
-
-**Released:** 2026-06-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
-
----
-
-### Andrew Scott
-
-**Released:** 2026-06-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
-
----
-
-### The Big Bird Fluffer
-
-**Released:** 2026-05-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/613cf231-f241-49d3-86d0-57d6dc75c1a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=613cf231-f241-49d3-86d0-57d6dc75c1a0&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Bowen Yang"
-
-**Released:** 2026-06-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
 
 ---
 
