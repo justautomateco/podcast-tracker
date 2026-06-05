@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6a1f8e209942b8f91f5479df",
+    "episode_title": "Why the best ideas come from play | Maxwell Pearce",
+    "release_date": "2026-06-04 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a1f8dd69942b8f91f544d91",
     "episode_title": "Why you should disappoint your parents | Desiree Akhavan (re-release)",
     "release_date": "2026-06-03 15:00:00",
@@ -42,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a17094630535b3e187550e3",
-    "episode_title": "The counterintuitive secret of leadership | Jessica Kriegel",
-    "release_date": "2026-05-30 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17094630535b3e187550e3/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "92074c80-6417-4f52-b24e-ebdb46757077",
     "episode_title": "There's no business like dough business",
     "release_date": "2026-06-03 07:00:00",
@@ -63,11 +63,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "9c83d1b7-c222-4805-8465-e2cf023fa34d",
-    "episode_title": "Unleashing Your Creativity",
-    "release_date": "2026-06-01 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "2f365426-5f9b-11f1-8433-9fabe6f521e9",
+    "episode_title": "#2509 - Caleb Hammer",
+    "release_date": "2026-06-04 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4890761896.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "e03b5594-5ed0-11f1-9ce3-2f5146ba6398",
@@ -91,11 +91,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "c9848b58-5a58-11f1-af46-1791c124921c",
-    "episode_title": "#2506 - Michelle Thaller",
-    "release_date": "2026-05-28 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2663008219.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "9c83d1b7-c222-4805-8465-e2cf023fa34d",
+    "episode_title": "Unleashing Your Creativity",
+    "release_date": "2026-06-01 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "82fe7db6-c100-4796-a503-3c10eb072fb8",
@@ -161,13 +161,6 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/dhnPTObym1k5Jgy5HIl9-rLs-L2EQelRG6h-UgFcTsc",
-    "episode_title": "#867: Dr. Becky Kennedy \u2014 Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
-    "release_date": "2026-05-28 22:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "33ca129d-016a-454b-a602-b45e013ff5c6",
     "episode_title": "Introducing The News from Scene on Radio",
     "release_date": "2026-06-04 04:01:00",
@@ -187,6 +180,27 @@
     "release_date": "2026-05-29 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_o3EJA4MLh8jZb-ocIbA2ilUKKBE9YLmCPlWcwRVPOs",
+    "episode_title": "Cohen Miles-Rath (on psychosis and recovery)",
+    "release_date": "2026-06-03 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
+    "episode_title": "Lena Waithe",
+    "release_date": "2026-06-01 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
+    "episode_title": "Armchair Anonymous: Graduation",
+    "release_date": "2026-05-29 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "a17c2332-4812-4147-b477-f99752491d72",
@@ -215,26 +229,5 @@
     "release_date": "2026-06-01 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_o3EJA4MLh8jZb-ocIbA2ilUKKBE9YLmCPlWcwRVPOs",
-    "episode_title": "Cohen Miles-Rath (on psychosis and recovery)",
-    "release_date": "2026-06-03 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5refzB0cfXIkuSDp3vPtW-Er5K8kMnTqSHGqrehnOWg",
-    "episode_title": "Lena Waithe",
-    "release_date": "2026-06-01 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/BX9o7jt4EgxJlbkXFZbrlIQpdFgwc5XkoJKTf-MH9RY",
-    "episode_title": "Armchair Anonymous: Graduation",
-    "release_date": "2026-05-29 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]

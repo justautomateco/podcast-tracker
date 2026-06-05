@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-04 14:38:31
+Last updated: 2026-06-05 02:36:58
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-06-04 14:38:31
 ---
 
 ## TED Talks Daily
+
+### Why the best ideas come from play | Maxwell Pearce
+
+**Released:** 2026-06-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
+
+---
 
 ### Why you should disappoint your parents | Desiree Akhavan (re-release)
 
@@ -56,14 +64,6 @@ Last updated: 2026-06-04 14:38:31
 
 ---
 
-### The counterintuitive secret of leadership | Jessica Kriegel
-
-**Released:** 2026-05-30 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17094630535b3e187550e3/media.mp3)
-
----
-
 ## Planet Money
 
 ### There's no business like dough business
@@ -82,17 +82,15 @@ Last updated: 2026-06-04 14:38:31
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### Unleashing Your Creativity
+### #2509 - Caleb Hammer
 
-**Released:** 2026-06-01 19:00:00
+**Released:** 2026-06-04 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4890761896.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2508 - Joe Eszterhas
 
@@ -118,11 +116,13 @@ Last updated: 2026-06-04 14:38:31
 
 ---
 
-### #2506 - Michelle Thaller
+## Hidden Brain
 
-**Released:** 2026-05-28 17:00:00
+### Unleashing Your Creativity
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2663008219.mp3)
+**Released:** 2026-06-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
 
 ---
 
@@ -206,14 +206,6 @@ Last updated: 2026-06-04 14:38:31
 
 ---
 
-### #867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)
-
-**Released:** 2026-05-28 22:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2163fdaa-28f2-44a8-9542-0d8ad2f4042f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Introducing The News from Scene on Radio
@@ -239,6 +231,32 @@ Last updated: 2026-06-04 14:38:31
 **Released:** 2026-05-29 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9725459108.mp3?updated=1779829739)
+
+---
+
+## Armchair Expert
+
+### Cohen Miles-Rath (on psychosis and recovery)
+
+**Released:** 2026-06-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Lena Waithe
+
+**Released:** 2026-06-01 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Graduation
+
+**Released:** 2026-05-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -275,32 +293,6 @@ Last updated: 2026-06-04 14:38:31
 **Released:** 2026-06-01 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Cohen Miles-Rath (on psychosis and recovery)
-
-**Released:** 2026-06-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81b71f6f-a877-4769-966b-3efb6f05d04f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Lena Waithe
-
-**Released:** 2026-06-01 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Graduation
-
-**Released:** 2026-05-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/66359a0d-9309-401b-a469-c27971f3d1ec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
