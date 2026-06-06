@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-05 14:27:18
-
-## Freakonomics Radio
-
-### 676. Has America Lost the Plot?
-
-**Released:** 2026-06-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
-
----
+Last updated: 2026-06-06 02:25:38
 
 ## TED Talks Daily
+
+### Your invitation to become a philanthropist | Sara Lomelin (re-release)
+
+**Released:** 2026-06-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2195fbac951431d76ccfcb/media.mp3)
+
+---
 
 ### Why the best ideas come from play | Maxwell Pearce
 
@@ -46,11 +44,31 @@ Last updated: 2026-06-05 14:27:18
 
 ---
 
-### Sunday Pick: Kristen Bell on delivering honesty with empathy | from ReThinking with Adam Grant
+## Freakonomics Radio
 
-**Released:** 2026-05-31 06:00:00
+### 676. Has America Lost the Plot?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a17123dcb11d38a8b3ae090/media.mp3)
+**Released:** 2026-06-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Why is there a supplement craze if they don’t even work?
+
+**Released:** 2026-06-05 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
+
+---
+
+### There's no business like dough business
+
+**Released:** 2026-06-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751)
 
 ---
 
@@ -64,25 +82,15 @@ Last updated: 2026-06-05 14:27:18
 
 ---
 
-## Planet Money
-
-### There's no business like dough business
-
-**Released:** 2026-06-03 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751)
-
----
-
-### The sneaky way companies get new chemicals into our food
-
-**Released:** 2026-05-29 19:59:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
-
----
-
 ## The Joe Rogan Experience
+
+### #2510 - Devon Larratt
+
+**Released:** 2026-06-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7596740308.mp3)
+
+---
 
 ### #2509 - Caleb Hammer
 
@@ -105,14 +113,6 @@ Last updated: 2026-06-05 14:27:18
 **Released:** 2026-06-02 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5622841708.mp3)
-
----
-
-### #2507 - Harland Williams
-
-**Released:** 2026-05-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5813764141.mp3)
 
 ---
 
@@ -196,16 +196,6 @@ Last updated: 2026-06-05 14:27:18
 
 ---
 
-## Revisionist History
-
-### Introducing The News from Scene on Radio
-
-**Released:** 2026-06-04 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### BFFs: The Moth Podcast
@@ -221,6 +211,16 @@ Last updated: 2026-06-05 14:27:18
 **Released:** 2026-06-02 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738)
+
+---
+
+## Revisionist History
+
+### Introducing The News from Scene on Radio
+
+**Released:** 2026-06-04 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -250,26 +250,6 @@ Last updated: 2026-06-05 14:27:18
 
 ---
 
-## SmartLess 
-
-### "Bowen Yang"
-
-**Released:** 2026-06-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
-
-**Released:** 2026-06-02 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Stealing III
@@ -293,6 +273,26 @@ Last updated: 2026-06-05 14:27:18
 **Released:** 2026-06-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Bowen Yang"
+
+**Released:** 2026-06-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
+
+**Released:** 2026-06-02 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
