@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-07 02:42:49
+Last updated: 2026-06-07 13:23:57
 
 ## Freakonomics Radio
 
@@ -9,48 +9,6 @@ Last updated: 2026-06-07 02:42:49
 **Released:** 2026-06-05 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
-
----
-
-## TED Talks Daily
-
-### Inside Dubai's mission to build the city of the future | His Excellency Khalfan Belhoul, Whitney Pennington Rodgers
-
-**Released:** 2026-06-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e814815e3a83c4212a8/media.mp3)
-
----
-
-### Your invitation to become a philanthropist | Sara Lomelin (re-release)
-
-**Released:** 2026-06-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2195fbac951431d76ccfcb/media.mp3)
-
----
-
-### Why the best ideas come from play | Maxwell Pearce
-
-**Released:** 2026-06-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
-
----
-
-### Why you should disappoint your parents | Desiree Akhavan (re-release)
-
-**Released:** 2026-06-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8dd69942b8f91f544d91/media.mp3)
-
----
-
-### The love of my life (and why I need to share it with you) | Ann Patchett
-
-**Released:** 2026-06-02 15:44:03
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1dfa2cc1105f0d11176916/media.mp3)
 
 ---
 
@@ -116,6 +74,48 @@ Last updated: 2026-06-07 02:42:49
 
 ---
 
+## TED Talks Daily
+
+### Sunday Pick: Pride 2025 with Carol Leifer, Sonya Passi, Paul Tazewell, Leisha Hailey, and Kate Moennig | from Design Matters
+
+**Released:** 2026-06-07 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a21968f17f169d643e8e409/media.mp3)
+
+---
+
+### Inside Dubai's mission to build the city of the future | His Excellency Khalfan Belhoul, Whitney Pennington Rodgers
+
+**Released:** 2026-06-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e814815e3a83c4212a8/media.mp3)
+
+---
+
+### Your invitation to become a philanthropist | Sara Lomelin (re-release)
+
+**Released:** 2026-06-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2195fbac951431d76ccfcb/media.mp3)
+
+---
+
+### Why the best ideas come from play | Maxwell Pearce
+
+**Released:** 2026-06-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
+
+---
+
+### Why you should disappoint your parents | Desiree Akhavan (re-release)
+
+**Released:** 2026-06-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8dd69942b8f91f544d91/media.mp3)
+
+---
+
 ## Hidden Brain
 
 ### Unleashing Your Creativity
@@ -123,24 +123,6 @@ Last updated: 2026-06-07 02:42:49
 **Released:** 2026-06-01 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #3: The Pension Files
-
-**Released:** 2026-06-05 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
-
----
-
-### The MAPL Test
-
-**Released:** 2026-06-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
 
 ---
 
@@ -178,13 +160,21 @@ Last updated: 2026-06-07 02:42:49
 
 ---
 
-## Revisionist History
+## 99% Invisible
 
-### Introducing The News from Scene on Radio
+### 100 Objects #3: The Pension Files
 
-**Released:** 2026-06-04 04:01:00
+**Released:** 2026-06-05 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
+
+---
+
+### The MAPL Test
+
+**Released:** 2026-06-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
 
 ---
 
@@ -206,57 +196,23 @@ Last updated: 2026-06-07 02:42:49
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Oh Walt Whitman!
+### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
 
-**Released:** 2026-06-04 04:05:00
+**Released:** 2026-06-02 21:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/456cdcaf-8b7c-4fcf-946e-3081d8e444c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=456cdcaf-8b7c-4fcf-946e-3081d8e444c2&feed=dHoohVNH)
-
----
-
-### Conan’s Harvard Commencement Address
-
-**Released:** 2026-06-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Andrew Scott
+## Revisionist History
 
-**Released:** 2026-06-01 04:05:00
+### Introducing The News from Scene on Radio
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
+**Released:** 2026-06-04 04:01:00
 
----
-
-## The Moth
-
-### BFFs: The Moth Podcast
-
-**Released:** 2026-06-05 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8524236232.mp3?updated=1779812846)
-
----
-
-### Mission: Improbable: The Moth Radio Hour
-
-**Released:** 2026-06-02 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738)
-
----
-
-## SmartLess 
-
-### "Bowen Yang"
-
-**Released:** 2026-06-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -286,13 +242,57 @@ Last updated: 2026-06-07 02:42:49
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
+### Oh Walt Whitman!
 
-**Released:** 2026-06-02 21:00:00
+**Released:** 2026-06-04 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/456cdcaf-8b7c-4fcf-946e-3081d8e444c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=456cdcaf-8b7c-4fcf-946e-3081d8e444c2&feed=dHoohVNH)
+
+---
+
+### Conan’s Harvard Commencement Address
+
+**Released:** 2026-06-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
+
+---
+
+### Andrew Scott
+
+**Released:** 2026-06-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Bowen Yang"
+
+**Released:** 2026-06-01 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### BFFs: The Moth Podcast
+
+**Released:** 2026-06-05 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8524236232.mp3?updated=1779812846)
+
+---
+
+### Mission: Improbable: The Moth Radio Hour
+
+**Released:** 2026-06-02 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6135113654.mp3?updated=1779905738)
 
 ---
 
