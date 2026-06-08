@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-08 02:46:22
+Last updated: 2026-06-08 15:31:50
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 888: Not Today, Hades!
+### We’re keeping the ocean wild — and you can join us | Sylvia A. Earle
 
-**Released:** 2026-06-07 18:00:00
+**Released:** 2026-06-08 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a22e120ed72f593d842649f/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Sunday Pick: Pride 2025 with Carol Leifer, Sonya Passi, Paul Tazewell, Leisha Hailey, and Kate Moennig | from Design Matters
 
@@ -56,11 +54,13 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-### Why you should disappoint your parents | Desiree Akhavan (re-release)
+## This American Life
 
-**Released:** 2026-06-03 15:00:00
+### 888: Not Today, Hades!
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8dd69942b8f91f544d91/media.mp3)
+**Released:** 2026-06-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
 
 ---
 
@@ -116,24 +116,6 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #3: The Pension Files
-
-**Released:** 2026-06-05 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
-
----
-
-### The MAPL Test
-
-**Released:** 2026-06-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
-
----
-
 ## Hidden Brain
 
 ### Unleashing Your Creativity
@@ -178,13 +160,39 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
+### 100 Objects #3: The Pension Files
 
-**Released:** 2026-06-02 21:00:00
+**Released:** 2026-06-05 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
+
+---
+
+### The MAPL Test
+
+**Released:** 2026-06-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
+
+**Released:** 2026-06-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Tim Ferriss (August 2025)
+
+**Released:** 2026-06-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/84f10963-70ff-444d-87df-cfedab442943.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,24 +203,6 @@ Last updated: 2026-06-08 02:46:22
 **Released:** 2026-06-04 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/33ca129d-016a-454b-a602-b45e013ff5c6/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Tim Ferriss (August 2025)
-
-**Released:** 2026-06-04 07:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/84f10963-70ff-444d-87df-cfedab442943.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
-
-**Released:** 2026-06-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -236,6 +226,14 @@ Last updated: 2026-06-08 02:46:22
 
 ## Conan O'Brien Needs A Friend
 
+### Patton Oswalt Returns Again
+
+**Released:** 2026-06-08 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5d3de2e9-e406-46be-ac01-b0f88074d9f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5d3de2e9-e406-46be-ac01-b0f88074d9f6&feed=dHoohVNH)
+
+---
+
 ### Oh Walt Whitman!
 
 **Released:** 2026-06-04 04:05:00
@@ -252,25 +250,15 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-### Andrew Scott
-
-**Released:** 2026-06-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/278c20da-1bd4-4788-a447-d52a9d39fc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=278c20da-1bd4-4788-a447-d52a9d39fc62&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Bowen Yang"
-
-**Released:** 2026-06-01 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/546c0969-cfd8-4c2d-b492-f93e0fee53c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=546c0969-cfd8-4c2d-b492-f93e0fee53c6&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Hannah Berner
+
+**Released:** 2026-06-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Stealing III
 
@@ -288,11 +276,23 @@ Last updated: 2026-06-08 02:46:22
 
 ---
 
-### Lena Waithe
+## SmartLess 
 
-**Released:** 2026-06-01 07:30:00
+### "Jon Bernthal"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f030c52a-56d6-4880-89e5-f225938931f1.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-06-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
+
+**Released:** 2026-06-02 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
