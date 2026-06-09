@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-08 15:31:50
+Last updated: 2026-06-09 02:13:26
 
 ## Freakonomics Radio
 
@@ -12,48 +12,6 @@ Last updated: 2026-06-08 15:31:50
 
 ---
 
-## TED Talks Daily
-
-### We’re keeping the ocean wild — and you can join us | Sylvia A. Earle
-
-**Released:** 2026-06-08 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a22e120ed72f593d842649f/media.mp3)
-
----
-
-### Sunday Pick: Pride 2025 with Carol Leifer, Sonya Passi, Paul Tazewell, Leisha Hailey, and Kate Moennig | from Design Matters
-
-**Released:** 2026-06-07 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a21968f17f169d643e8e409/media.mp3)
-
----
-
-### Inside Dubai's mission to build the city of the future | His Excellency Khalfan Belhoul, Whitney Pennington Rodgers
-
-**Released:** 2026-06-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e814815e3a83c4212a8/media.mp3)
-
----
-
-### Your invitation to become a philanthropist | Sara Lomelin (re-release)
-
-**Released:** 2026-06-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2195fbac951431d76ccfcb/media.mp3)
-
----
-
-### Why the best ideas come from play | Maxwell Pearce
-
-**Released:** 2026-06-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
-
----
-
 ## This American Life
 
 ### 888: Not Today, Hades!
@@ -61,24 +19,6 @@ Last updated: 2026-06-08 15:31:50
 **Released:** 2026-06-07 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
-
----
-
-## Planet Money
-
-### Why is there a supplement craze if they don’t even work?
-
-**Released:** 2026-06-05 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
-
----
-
-### There's no business like dough business
-
-**Released:** 2026-06-03 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751)
 
 ---
 
@@ -116,13 +56,49 @@ Last updated: 2026-06-08 15:31:50
 
 ---
 
+## Planet Money
+
+### Why is there a supplement craze if they don’t even work?
+
+**Released:** 2026-06-05 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
+
+---
+
+### There's no business like dough business
+
+**Released:** 2026-06-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751)
+
+---
+
 ## Hidden Brain
 
-### Unleashing Your Creativity
+### Who Are You, Really?
 
-**Released:** 2026-06-01 19:00:00
+**Released:** 2026-06-08 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dad121d5-e932-41af-abe0-3c0beeae5924/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dad121d5-e932-41af-abe0-3c0beeae5924&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #3: The Pension Files
+
+**Released:** 2026-06-05 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
+
+---
+
+### The MAPL Test
+
+**Released:** 2026-06-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
 
 ---
 
@@ -157,24 +133,6 @@ Last updated: 2026-06-08 15:31:50
 **Released:** 2026-06-02 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/91412c54-e22c-4190-9b26-b45d000dd21e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #3: The Pension Files
-
-**Released:** 2026-06-05 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
-
----
-
-### The MAPL Test
-
-**Released:** 2026-06-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cb4f1b8e-7e97-4206-8cc4-0120c4a79af4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cb4f1b8e-7e97-4206-8cc4-0120c4a79af4&feed=BqbsxVfO)
 
 ---
 
@@ -247,6 +205,48 @@ Last updated: 2026-06-08 15:31:50
 **Released:** 2026-06-02 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ead95106-3222-43a5-a72e-d4889962efa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ead95106-3222-43a5-a72e-d4889962efa8&feed=dHoohVNH)
+
+---
+
+## TED Talks Daily
+
+### We’re keeping the ocean wild — and you can join us | Sylvia A. Earle
+
+**Released:** 2026-06-08 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a22e120ed72f593d842649f/media.mp3)
+
+---
+
+### Sunday Pick: In celebration of Pride Month | from Design Matters
+
+**Released:** 2026-06-07 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a21968f17f169d643e8e409/media.mp3)
+
+---
+
+### Inside Dubai's mission to build the city of the future | His Excellency Khalfan Belhoul, Whitney Pennington Rodgers
+
+**Released:** 2026-06-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e814815e3a83c4212a8/media.mp3)
+
+---
+
+### Your invitation to become a philanthropist | Sara Lomelin (re-release)
+
+**Released:** 2026-06-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2195fbac951431d76ccfcb/media.mp3)
+
+---
+
+### Why the best ideas come from play | Maxwell Pearce
+
+**Released:** 2026-06-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
 
 ---
 
