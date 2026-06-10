@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-09 14:29:11
+Last updated: 2026-06-10 02:37:08
+
+## Freakonomics Radio
+
+### This Is Your Brain on Pollution (Update)
+
+**Released:** 2026-06-10 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/42a931c4-a876-437a-b89b-d80c6bb5c421/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=42a931c4-a876-437a-b89b-d80c6bb5c421&feed=Y8lFbOT4)
+
+---
+
+### 676. Has America Lost the Plot?
+
+**Released:** 2026-06-05 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How to build a career you actually love | Bill Gurley
+
+**Released:** 2026-06-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a26da4fa917ce4c70fce842/media.mp3)
+
+---
 
 ### We’re keeping the ocean wild — and you can join us | Sylvia A. Earle
 
@@ -36,70 +62,6 @@ Last updated: 2026-06-09 14:29:11
 
 ---
 
-### Why the best ideas come from play | Maxwell Pearce
-
-**Released:** 2026-06-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a1f8e209942b8f91f5479df/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 676. Has America Lost the Plot?
-
-**Released:** 2026-06-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 888: Not Today, Hades!
-
-**Released:** 2026-06-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
-
----
-
-## Hidden Brain
-
-### Who Are You, Really?
-
-**Released:** 2026-06-08 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Selects: 911 Is Not a Joke
-
-**Released:** 2026-06-06 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6068b6e8-b155-4305-a8c9-b46000d539ae/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Three Mile Island
-
-**Released:** 2026-06-04 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9a1e8284-e97a-44a0-aa68-b45f00086b7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: 1955 Le Mans Disaster
-
-**Released:** 2026-06-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/abfd4708-315a-47ef-9855-b45d00e497d1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## Planet Money
 
 ### Why is there a supplement craze if they don’t even work?
@@ -118,7 +80,25 @@ Last updated: 2026-06-09 14:29:11
 
 ---
 
+## This American Life
+
+### 888: Not Today, Hades!
+
+**Released:** 2026-06-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2511 - Terry Bradshaw
+
+**Released:** 2026-06-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1002417746.mp3)
+
+---
 
 ### #2510 - Devon Larratt
 
@@ -144,11 +124,13 @@ Last updated: 2026-06-09 14:29:11
 
 ---
 
-### JRE MMA Show #180 with Daniel Rodriguez
+## Hidden Brain
 
-**Released:** 2026-06-02 17:00:00
+### Who Are You, Really?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5622841708.mp3)
+**Released:** 2026-06-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
 
 ---
 
@@ -167,6 +149,40 @@ Last updated: 2026-06-09 14:29:11
 **Released:** 2026-06-05 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
+
+---
+
+## Stuff You Should Know
+
+### Smile
+
+**Released:** 2026-06-09 14:46:25
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a69ce7b4-f339-4ba7-9a26-b46400f145f9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: 911 Is Not a Joke
+
+**Released:** 2026-06-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6068b6e8-b155-4305-a8c9-b46000d539ae/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Three Mile Island
+
+**Released:** 2026-06-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9a1e8284-e97a-44a0-aa68-b45f00086b7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: 1955 Le Mans Disaster
+
+**Released:** 2026-06-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/abfd4708-315a-47ef-9855-b45d00e497d1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -234,16 +250,6 @@ Last updated: 2026-06-09 14:29:11
 
 ---
 
-## SmartLess 
-
-### "Jon Bernthal"
-
-**Released:** 2026-06-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Hannah Berner
@@ -270,13 +276,23 @@ Last updated: 2026-06-09 14:29:11
 
 ---
 
+## SmartLess 
+
+### "Jon Bernthal"
+
+**Released:** 2026-06-08 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
+
+---
+
 ## The Tim Ferriss Show
 
-### #868: Tim’s Founder Kitchen — From Brainstorm to The President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics)
+### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
 
-**Released:** 2026-06-02 21:00:00
+**Released:** 2026-06-09 23:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/51a11020-0802-4eae-8024-7cc2bee2cd77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
