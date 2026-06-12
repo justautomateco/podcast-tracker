@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-12 02:43:15
+Last updated: 2026-06-12 14:37:36
 
 ## Freakonomics Radio
+
+### 677. Can Backgammon Save Us from Ourselves?
+
+**Released:** 2026-06-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4)
+
+---
 
 ### This Is Your Brain on Pollution (Update)
 
@@ -12,11 +20,13 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-### 676. Has America Lost the Plot?
+## This American Life
 
-**Released:** 2026-06-05 10:00:00
+### 888: Not Today, Hades!
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/3c5443c8-03b8-47ea-8414-a56ee4b5aa63/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=3c5443c8-03b8-47ea-8414-a56ee4b5aa63&feed=Y8lFbOT4)
+**Released:** 2026-06-07 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
 
 ---
 
@@ -62,16 +72,6 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-## This American Life
-
-### 888: Not Today, Hades!
-
-**Released:** 2026-06-07 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2513 - Dean Radin
@@ -103,6 +103,16 @@ Last updated: 2026-06-12 02:43:15
 **Released:** 2026-06-05 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7596740308.mp3)
+
+---
+
+## Hidden Brain
+
+### Who Are You, Really?
+
+**Released:** 2026-06-08 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
 
 ---
 
@@ -158,17 +168,15 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### Who Are You, Really?
+### 100 Objects #4: Lowe's Gas Bag
 
-**Released:** 2026-06-08 19:00:00
+**Released:** 2026-06-12 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
 
 ---
-
-## 99% Invisible
 
 ### Karaoke Videos
 
@@ -178,11 +186,13 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-### 100 Objects #3: The Pension Files
+## Revisionist History
 
-**Released:** 2026-06-05 07:00:00
+### Revisited: Ms. Buchanan’s Period of Adjustment
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO)
+**Released:** 2026-06-11 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fbb60763-b881-4d9c-8b9c-b465014d26d9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -204,17 +214,15 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-## Revisionist History
+## The Moth
 
-### Revisited: Ms. Buchanan’s Period of Adjustment
+### Death and What Remains: The Moth Podcast
 
-**Released:** 2026-06-11 04:01:00
+**Released:** 2026-06-12 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fbb60763-b881-4d9c-8b9c-b465014d26d9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8351449795.mp3)
 
 ---
-
-## The Moth
 
 ### You Can't Go Back: The Moth Radio Hour
 
@@ -224,11 +232,29 @@ Last updated: 2026-06-12 02:43:15
 
 ---
 
-### BFFs: The Moth Podcast
+## Armchair Expert
 
-**Released:** 2026-06-05 04:25:00
+### Armchair Anonymous: Camping
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8524236232.mp3?updated=1779812846)
+**Released:** 2026-06-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7878fd2-e030-42dd-9834-535366a6cec3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Darby Saxbe (on Dad Brain)
+
+**Released:** 2026-06-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Hannah Berner
+
+**Released:** 2026-06-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,32 +291,6 @@ Last updated: 2026-06-12 02:43:15
 **Released:** 2026-06-08 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Darby Saxbe (on Dad Brain)
-
-**Released:** 2026-06-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hannah Berner
-
-**Released:** 2026-06-08 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Stealing III
-
-**Released:** 2026-06-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/ac085ba2-b69b-418b-98de-63009cf27281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
