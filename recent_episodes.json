@@ -14,55 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46163 at https://www.thisamericanlife.org",
-    "episode_title": "888: Not Today, Hades!",
-    "release_date": "2026-06-07 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "4ad4246e-6456-11f1-a4da-aff897fdf12f",
-    "episode_title": "#2512 - Joey Diaz",
-    "release_date": "2026-06-10 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1423641866.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2812b022-639c-11f1-a977-ef24292591fb",
-    "episode_title": "#2511 - Terry Bradshaw",
-    "release_date": "2026-06-09 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1002417746.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "b9344b74-6072-11f1-989b-97b7029632d7",
-    "episode_title": "#2510 - Devon Larratt",
-    "release_date": "2026-06-05 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7596740308.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2f365426-5f9b-11f1-8433-9fabe6f521e9",
-    "episode_title": "#2509 - Caleb Hammer",
-    "release_date": "2026-06-04 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4890761896.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0a75fa68-5d50-4f41-b8dd-c1955184e397",
-    "episode_title": "Two indicators for lowering the rent",
-    "release_date": "2026-06-10 07:15:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "85e1ca1e-0e9b-4bb8-8897-e7a8deec92a1",
-    "episode_title": "Why is there a supplement craze if they don\u2019t even work?",
-    "release_date": "2026-06-05 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "6a26da8b427484b4a4c4f577",
     "episode_title": "Origami, the ancient art form solving modern problems | Miles Wu",
     "release_date": "2026-06-11 15:00:00",
@@ -98,25 +49,53 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "989e5757-8c13-4cc1-b3a5-f11d75e8e4b5",
-    "episode_title": "Who Are You, Really?",
-    "release_date": "2026-06-08 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "46163 at https://www.thisamericanlife.org",
+    "episode_title": "888: Not Today, Hades!",
+    "release_date": "2026-06-07 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache",
+    "podcast_name": "This American Life"
   },
   {
-    "guid": "132f8fb2-0199-4f7b-a379-d4c4ff091b59",
-    "episode_title": "Karaoke Videos",
-    "release_date": "2026-06-09 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "85128b08-6518-11f1-8ac2-33b58404e123",
+    "episode_title": "#2513 - Dean Radin",
+    "release_date": "2026-06-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4705922379.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "e1771191-8467-43fc-ba86-3f33cb7a72a5",
-    "episode_title": "100 Objects #3: The Pension Files",
-    "release_date": "2026-06-05 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "4ad4246e-6456-11f1-a4da-aff897fdf12f",
+    "episode_title": "#2512 - Joey Diaz",
+    "release_date": "2026-06-10 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1423641866.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "2812b022-639c-11f1-a977-ef24292591fb",
+    "episode_title": "#2511 - Terry Bradshaw",
+    "release_date": "2026-06-09 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1002417746.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b9344b74-6072-11f1-989b-97b7029632d7",
+    "episode_title": "#2510 - Devon Larratt",
+    "release_date": "2026-06-05 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7596740308.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "0a75fa68-5d50-4f41-b8dd-c1955184e397",
+    "episode_title": "Two indicators for lowering the rent",
+    "release_date": "2026-06-10 07:15:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "85e1ca1e-0e9b-4bb8-8897-e7a8deec92a1",
+    "episode_title": "Why is there a supplement craze if they don\u2019t even work?",
+    "release_date": "2026-06-05 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "3a8d6e99-9942-499e-972c-b4650156fd14",
@@ -147,6 +126,27 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "989e5757-8c13-4cc1-b3a5-f11d75e8e4b5",
+    "episode_title": "Who Are You, Really?",
+    "release_date": "2026-06-08 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "132f8fb2-0199-4f7b-a379-d4c4ff091b59",
+    "episode_title": "Karaoke Videos",
+    "release_date": "2026-06-09 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "e1771191-8467-43fc-ba86-3f33cb7a72a5",
+    "episode_title": "100 Objects #3: The Pension Files",
+    "release_date": "2026-06-05 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/22a3066a-02de-4046-b37a-4383be8aac7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=22a3066a-02de-4046-b37a-4383be8aac7a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/hHJeEhZmMivSoSDEaIvhgWYYvpP-DdQkpR4htDvlKu8",
     "episode_title": "Advice Line with Christina Tosi of Milk Bar ",
     "release_date": "2026-06-11 07:10:00",
@@ -159,34 +159,6 @@
     "release_date": "2026-06-08 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/LcLd8QEuiPTZoNQXYh0pQPfG3P5qAngaR3PnJBq5HgI",
-    "episode_title": "#869: Max Levchin, PayPal and Affirm \u2014 The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)",
-    "release_date": "2026-06-09 23:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/KNfSVBFGNhZl72jghAABgybFz_VRg6ies9WLpc83BSM",
-    "episode_title": "Darby Saxbe (on Dad Brain)",
-    "release_date": "2026-06-10 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/5iVsRtDTRdhTUWyNNE7wGaheWKTEWN2sOBVSP8Nc8LI",
-    "episode_title": "Hannah Berner",
-    "release_date": "2026-06-08 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/dfzGyGSlw_cFqgvgjrqH0PVOMM6N5Tj0p7Mn151iPYg",
-    "episode_title": "Armchair Anonymous: Stealing III",
-    "release_date": "2026-06-05 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/ac085ba2-b69b-418b-98de-63009cf27281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "fbb60763-b881-4d9c-8b9c-b465014d26d9",
@@ -236,5 +208,33 @@
     "release_date": "2026-06-08 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/KNfSVBFGNhZl72jghAABgybFz_VRg6ies9WLpc83BSM",
+    "episode_title": "Darby Saxbe (on Dad Brain)",
+    "release_date": "2026-06-10 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/5iVsRtDTRdhTUWyNNE7wGaheWKTEWN2sOBVSP8Nc8LI",
+    "episode_title": "Hannah Berner",
+    "release_date": "2026-06-08 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/dfzGyGSlw_cFqgvgjrqH0PVOMM6N5Tj0p7Mn151iPYg",
+    "episode_title": "Armchair Anonymous: Stealing III",
+    "release_date": "2026-06-05 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/ac085ba2-b69b-418b-98de-63009cf27281.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/LcLd8QEuiPTZoNQXYh0pQPfG3P5qAngaR3PnJBq5HgI",
+    "episode_title": "#869: Max Levchin, PayPal and Affirm \u2014 The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)",
+    "release_date": "2026-06-09 23:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
