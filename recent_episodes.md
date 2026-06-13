@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-12 14:37:36
+Last updated: 2026-06-13 02:35:41
 
 ## Freakonomics Radio
 
@@ -30,49 +30,15 @@ Last updated: 2026-06-12 14:37:36
 
 ---
 
-## TED Talks Daily
-
-### Origami, the ancient art form solving modern problems | Miles Wu
-
-**Released:** 2026-06-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a26da8b427484b4a4c4f577/media.mp3)
-
----
-
-### How Community Notes reduce viral misinformation | Keith Coleman, Jay Baxter
-
-**Released:** 2026-06-10 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a26da76427484b4a4c4e405/media.mp3)
-
----
-
-### How to build a career you actually love | Bill Gurley
-
-**Released:** 2026-06-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a26da4fa917ce4c70fce842/media.mp3)
-
----
-
-### We’re keeping the ocean wild — and you can join us | Sylvia A. Earle
-
-**Released:** 2026-06-08 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a22e120ed72f593d842649f/media.mp3)
-
----
-
-### Sunday Pick: In celebration of Pride Month | from Design Matters
-
-**Released:** 2026-06-07 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a21968f17f169d643e8e409/media.mp3)
-
----
-
 ## The Joe Rogan Experience
+
+### #2514 - Cameron Hanes
+
+**Released:** 2026-06-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5962536956.mp3)
+
+---
 
 ### #2513 - Dean Radin
 
@@ -98,11 +64,63 @@ Last updated: 2026-06-12 14:37:36
 
 ---
 
-### #2510 - Devon Larratt
+## Planet Money
 
-**Released:** 2026-06-05 17:00:00
+### It’s my tree. Why can’t I cut it down?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7596740308.mp3)
+**Released:** 2026-06-12 22:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915)
+
+---
+
+### Two indicators for lowering the rent
+
+**Released:** 2026-06-10 07:15:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
+
+---
+
+## TED Talks Daily
+
+### Talks on Love Playlist (1/5): Your relationship expectations could be holding you back | Stephanie R. Yates-Anyabwile
+
+**Released:** 2026-06-12 15:05:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d87e9068bf040893ec2f/media.mp3)
+
+---
+
+### Talks on Love Playlist (2/5): Even healthy couples fight — the difference is how | Julie and John Gottman
+
+**Released:** 2026-06-12 15:04:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d6607fe177e75b604122/media.mp3)
+
+---
+
+### Talks on Love Playlist (3/5): The relationship between sex and imagination | Gina Gutierrez 
+
+**Released:** 2026-06-12 15:02:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d5e232e30dceaf2bf5e7/media.mp3)
+
+---
+
+### Talks on Love Playlist (4/5): A queer vision of love and marriage | Tiq Milan and Kim Katrin
+
+**Released:** 2026-06-12 15:01:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d4297fe177e75b5f708d/media.mp3)
+
+---
+
+### Talks on Love Playlist (5/5): Why friendship can be just as meaningful as romantic love | Rhaina Cohen
+
+**Released:** 2026-06-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d3a27fe177e75b5f468a/media.mp3)
 
 ---
 
@@ -116,21 +134,21 @@ Last updated: 2026-06-12 14:37:36
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### Two indicators for lowering the rent
+### 100 Objects #4: Lowe's Gas Bag
 
-**Released:** 2026-06-10 07:15:00
+**Released:** 2026-06-12 07:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
 
 ---
 
-### Why is there a supplement craze if they don’t even work?
+### Karaoke Videos
 
-**Released:** 2026-06-05 21:00:00
+**Released:** 2026-06-09 08:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
 
 ---
 
@@ -168,34 +186,6 @@ Last updated: 2026-06-12 14:37:36
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #4: Lowe's Gas Bag
-
-**Released:** 2026-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
-
----
-
-### Karaoke Videos
-
-**Released:** 2026-06-09 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Revisited: Ms. Buchanan’s Period of Adjustment
-
-**Released:** 2026-06-11 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fbb60763-b881-4d9c-8b9c-b465014d26d9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Christina Tosi of Milk Bar 
@@ -211,6 +201,16 @@ Last updated: 2026-06-12 14:37:36
 **Released:** 2026-06-08 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Revisited: Ms. Buchanan’s Period of Adjustment
+
+**Released:** 2026-06-11 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fbb60763-b881-4d9c-8b9c-b465014d26d9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -276,6 +276,16 @@ Last updated: 2026-06-12 14:37:36
 
 ---
 
+## The Tim Ferriss Show
+
+### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
+
+**Released:** 2026-06-09 23:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Tom Hanks"
@@ -291,16 +301,6 @@ Last updated: 2026-06-12 14:37:36
 **Released:** 2026-06-08 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
-
-**Released:** 2026-06-09 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
