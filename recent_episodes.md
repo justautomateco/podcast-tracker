@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-15 02:51:48
+Last updated: 2026-06-15 17:00:36
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-06-15 02:51:48
 ---
 
 ## TED Talks Daily
+
+### Reddit's model for a better internet | Steve Huffman
+
+**Released:** 2026-06-15 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a3012af6edea1d9abdbe0b3/media.mp3)
+
+---
 
 ### Sunday Pick: The Data Center Next Door with Dr. Jacoby Wilson | from TED Tech
 
@@ -54,14 +62,6 @@ Last updated: 2026-06-15 02:51:48
 
 ---
 
-### Talks on Love Playlist (3/5): The relationship between sex and imagination | Gina Gutierrez 
-
-**Released:** 2026-06-12 15:02:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d5e232e30dceaf2bf5e7/media.mp3)
-
----
-
 ## Planet Money
 
 ### It’s my tree. Why can’t I cut it down?
@@ -77,16 +77,6 @@ Last updated: 2026-06-15 02:51:48
 **Released:** 2026-06-10 07:15:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
-
----
-
-## This American Life
-
-### 354: Mistakes Were Made
-
-**Released:** 2026-06-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
 
 ---
 
@@ -134,21 +124,13 @@ Last updated: 2026-06-15 02:51:48
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### 100 Objects #4: Lowe's Gas Bag
+### 354: Mistakes Were Made
 
-**Released:** 2026-06-12 07:00:00
+**Released:** 2026-06-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
-
----
-
-### Karaoke Videos
-
-**Released:** 2026-06-09 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
 
 ---
 
@@ -186,21 +168,39 @@ Last updated: 2026-06-15 02:51:48
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #4: Lowe's Gas Bag
+
+**Released:** 2026-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
+
+---
+
+### Karaoke Videos
+
+**Released:** 2026-06-09 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
+
+### Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
+
+**Released:** 2026-06-15 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Christina Tosi of Milk Bar 
 
 **Released:** 2026-06-11 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fd7f2406-fda8-4c1d-936c-d20210215f96.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
-
-**Released:** 2026-06-08 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -214,21 +214,49 @@ Last updated: 2026-06-15 02:51:48
 
 ---
 
+## The Tim Ferriss Show
+
+### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
+
+**Released:** 2026-06-09 23:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Jennifer Lopez"
+
+**Released:** 2026-06-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Tom Hanks"
+
+**Released:** 2026-06-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
+
+### Atsuko Okatsuka
+
+**Released:** 2026-06-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
+
+---
 
 ### Sword Play
 
 **Released:** 2026-06-11 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
-
----
-
-### Patton Oswalt Returns Again
-
-**Released:** 2026-06-08 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5d3de2e9-e406-46be-ac01-b0f88074d9f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5d3de2e9-e406-46be-ac01-b0f88074d9f6&feed=dHoohVNH)
 
 ---
 
@@ -250,25 +278,15 @@ Last updated: 2026-06-15 02:51:48
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: Tom Hanks"
-
-**Released:** 2026-06-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
-
----
-
-### "Jon Bernthal"
-
-**Released:** 2026-06-08 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3f6e9ce1-37a1-40ff-91ee-3ebab0330a9c&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Hunter Biden
+
+**Released:** 2026-06-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Camping
 
@@ -283,24 +301,6 @@ Last updated: 2026-06-15 02:51:48
 **Released:** 2026-06-10 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hannah Berner
-
-**Released:** 2026-06-08 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f25ec236-99b6-4d55-9dcc-49b566619620.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
-
-**Released:** 2026-06-09 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
