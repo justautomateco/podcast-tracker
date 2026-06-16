@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-16 02:53:27
+Last updated: 2026-06-16 16:25:25
 
 ## Freakonomics Radio
 
@@ -20,6 +20,34 @@ Last updated: 2026-06-16 02:53:27
 
 ---
 
+## Serial
+
+### The Last 12 Weeks - Trailer
+
+**Released:** 2026-06-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b4f92e6c-dfd8-4bcf-97ff-d6579151531d/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b4f92e6c-dfd8-4bcf-97ff-d6579151531d&feed=PpzWFGhg)
+
+---
+
+## Planet Money
+
+### It’s my tree. Why can’t I cut it down?
+
+**Released:** 2026-06-12 22:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915)
+
+---
+
+### Two indicators for lowering the rent
+
+**Released:** 2026-06-10 07:15:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
+
+---
+
 ## This American Life
 
 ### 354: Mistakes Were Made
@@ -31,6 +59,14 @@ Last updated: 2026-06-16 02:53:27
 ---
 
 ## TED Talks Daily
+
+### How to feng shui your fridge — and other happy climate hacks | Jiaying Zhao (re-release)
+
+**Released:** 2026-06-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302abde6540bec0fd7c018/media.mp3)
+
+---
 
 ### Reddit's model for a better internet | Steve Huffman
 
@@ -61,32 +97,6 @@ Last updated: 2026-06-16 02:53:27
 **Released:** 2026-06-12 15:05:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d87e9068bf040893ec2f/media.mp3)
-
----
-
-### Talks on Love Playlist (2/5): Even healthy couples fight — the difference is how | Julie and John Gottman
-
-**Released:** 2026-06-12 15:04:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d6607fe177e75b604122/media.mp3)
-
----
-
-## Planet Money
-
-### It’s my tree. Why can’t I cut it down?
-
-**Released:** 2026-06-12 22:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915)
-
----
-
-### Two indicators for lowering the rent
-
-**Released:** 2026-06-10 07:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
 
 ---
 
@@ -134,25 +144,15 @@ Last updated: 2026-06-16 02:53:27
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #4: Lowe's Gas Bag
-
-**Released:** 2026-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
-
----
-
-### Karaoke Videos
-
-**Released:** 2026-06-09 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Did 24-Hour Cable News Kill America?
+
+**Released:** 2026-06-16 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a1c1152-f160-4ac9-a5d6-b467014b3e6b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How the Fairness Doctrine Worked
 
@@ -178,11 +178,21 @@ Last updated: 2026-06-16 02:53:27
 
 ---
 
-### Smile
+## 99% Invisible
 
-**Released:** 2026-06-09 14:46:25
+### The Horn That Divided the World Cup
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a69ce7b4-f339-4ba7-9a26-b46400f145f9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-06-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #4: Lowe's Gas Bag
+
+**Released:** 2026-06-12 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
 
 ---
 
@@ -214,34 +224,6 @@ Last updated: 2026-06-16 02:53:27
 
 ---
 
-## The Tim Ferriss Show
-
-### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
-
-**Released:** 2026-06-09 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Death and What Remains: The Moth Podcast
-
-**Released:** 2026-06-12 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8351449795.mp3)
-
----
-
-### You Can't Go Back: The Moth Radio Hour
-
-**Released:** 2026-06-09 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1024475084.mp3?updated=1780787647)
-
----
-
 ## Armchair Expert
 
 ### Hunter Biden
@@ -268,21 +250,21 @@ Last updated: 2026-06-16 02:53:27
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Moth
 
-### Atsuko Okatsuka
+### Fabricated, Forged and Forgotten: The Moth Radio Hour
 
-**Released:** 2026-06-15 04:05:00
+**Released:** 2026-06-16 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280)
 
 ---
 
-### Sword Play
+### Death and What Remains: The Moth Podcast
 
-**Released:** 2026-06-11 04:05:00
+**Released:** 2026-06-12 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8351449795.mp3)
 
 ---
 
@@ -301,6 +283,34 @@ Last updated: 2026-06-16 02:53:27
 **Released:** 2026-06-11 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Atsuko Okatsuka
+
+**Released:** 2026-06-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
+
+---
+
+### Sword Play
+
+**Released:** 2026-06-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #869: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)
+
+**Released:** 2026-06-09 23:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
