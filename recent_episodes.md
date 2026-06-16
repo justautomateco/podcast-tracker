@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-15 17:00:36
+Last updated: 2026-06-16 02:53:27
 
 ## Freakonomics Radio
 
@@ -17,6 +17,16 @@ Last updated: 2026-06-15 17:00:36
 **Released:** 2026-06-10 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/42a931c4-a876-437a-b89b-d80c6bb5c421/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=42a931c4-a876-437a-b89b-d80c6bb5c421&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 354: Mistakes Were Made
+
+**Released:** 2026-06-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
 
 ---
 
@@ -116,21 +126,29 @@ Last updated: 2026-06-15 17:00:36
 
 ## Hidden Brain
 
-### Who Are You, Really?
+### A Secret Source of Connection
 
-**Released:** 2026-06-08 19:00:00
+**Released:** 2026-06-15 20:24:50
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/3be411b8-3488-4711-8e04-6ce75fbe8e89/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=3be411b8-3488-4711-8e04-6ce75fbe8e89&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
 
 ---
 
-## This American Life
+## 99% Invisible
 
-### 354: Mistakes Were Made
+### 100 Objects #4: Lowe's Gas Bag
 
-**Released:** 2026-06-14 18:00:00
+**Released:** 2026-06-12 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
+
+---
+
+### Karaoke Videos
+
+**Released:** 2026-06-09 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
 
 ---
 
@@ -165,24 +183,6 @@ Last updated: 2026-06-15 17:00:36
 **Released:** 2026-06-09 14:46:25
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a69ce7b4-f339-4ba7-9a26-b46400f145f9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #4: Lowe's Gas Bag
-
-**Released:** 2026-06-12 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
-
----
-
-### Karaoke Videos
-
-**Released:** 2026-06-09 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/de6e869d-f20a-48bd-93a6-ea590d6a254f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=de6e869d-f20a-48bd-93a6-ea590d6a254f&feed=BqbsxVfO)
 
 ---
 
@@ -221,42 +221,6 @@ Last updated: 2026-06-15 17:00:36
 **Released:** 2026-06-09 23:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jennifer Lopez"
-
-**Released:** 2026-06-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Tom Hanks"
-
-**Released:** 2026-06-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Atsuko Okatsuka
-
-**Released:** 2026-06-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
-
----
-
-### Sword Play
-
-**Released:** 2026-06-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
 
 ---
 
@@ -301,6 +265,42 @@ Last updated: 2026-06-15 17:00:36
 **Released:** 2026-06-10 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Atsuko Okatsuka
+
+**Released:** 2026-06-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
+
+---
+
+### Sword Play
+
+**Released:** 2026-06-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Jennifer Lopez"
+
+**Released:** 2026-06-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Tom Hanks"
+
+**Released:** 2026-06-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
 
 ---
 
