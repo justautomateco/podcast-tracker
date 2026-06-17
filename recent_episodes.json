@@ -1,19 +1,5 @@
 [
   {
-    "guid": "110848fc-38a6-49af-ae80-8484dce8764c",
-    "episode_title": "677. Can Backgammon Save Us from Ourselves?",
-    "release_date": "2026-06-12 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "ef882300-e7f8-4972-a811-b3b6531d7bb9",
-    "episode_title": "This Is Your Brain on Pollution (Update)",
-    "release_date": "2026-06-10 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/42a931c4-a876-437a-b89b-d80c6bb5c421/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=42a931c4-a876-437a-b89b-d80c6bb5c421&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "434efcb6-ac5b-4a91-9a8f-dc8b94817293",
     "episode_title": "The Last 12 Weeks - Trailer",
     "release_date": "2026-06-16 10:00:00",
@@ -21,25 +7,11 @@
     "podcast_name": "Serial"
   },
   {
-    "guid": "e64308bf-b503-4f1d-af97-cff9d525fa99",
-    "episode_title": "It\u2019s my tree. Why can\u2019t I cut it down?",
-    "release_date": "2026-06-12 22:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "0a75fa68-5d50-4f41-b8dd-c1955184e397",
-    "episode_title": "Two indicators for lowering the rent",
-    "release_date": "2026-06-10 07:15:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37319 at https://www.thisamericanlife.org",
-    "episode_title": "354: Mistakes Were Made",
-    "release_date": "2026-06-14 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
-    "podcast_name": "This American Life"
+    "guid": "110848fc-38a6-49af-ae80-8484dce8764c",
+    "episode_title": "677. Can Backgammon Save Us from Ourselves?",
+    "release_date": "2026-06-12 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "6a302abde6540bec0fd7c018",
@@ -77,6 +49,27 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "37319 at https://www.thisamericanlife.org",
+    "episode_title": "354: Mistakes Were Made",
+    "release_date": "2026-06-14 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "e64308bf-b503-4f1d-af97-cff9d525fa99",
+    "episode_title": "It\u2019s my tree. Why can\u2019t I cut it down?",
+    "release_date": "2026-06-12 22:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "0a75fa68-5d50-4f41-b8dd-c1955184e397",
+    "episode_title": "Two indicators for lowering the rent",
+    "release_date": "2026-06-10 07:15:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "100d3320-65f5-11f1-aef9-83438d6ed8f3",
     "episode_title": "#2514 - Cameron Hanes",
     "release_date": "2026-06-12 17:00:00",
@@ -98,18 +91,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "2812b022-639c-11f1-a977-ef24292591fb",
-    "episode_title": "#2511 - Terry Bradshaw",
-    "release_date": "2026-06-09 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1002417746.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
     "episode_title": "A Secret Source of Connection",
     "release_date": "2026-06-15 20:24:50",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "1720f7cf-ef12-407c-be36-cfb87b7b07aa",
+    "episode_title": "The Horn That Divided the World Cup",
+    "release_date": "2026-06-16 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "b6845f27-add0-4f61-ba36-19bc454bcce8",
+    "episode_title": "100 Objects #4: Lowe's Gas Bag",
+    "release_date": "2026-06-12 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "0a1c1152-f160-4ac9-a5d6-b467014b3e6b",
@@ -140,20 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "1720f7cf-ef12-407c-be36-cfb87b7b07aa",
-    "episode_title": "The Horn That Divided the World Cup",
-    "release_date": "2026-06-16 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "b6845f27-add0-4f61-ba36-19bc454bcce8",
-    "episode_title": "100 Objects #4: Lowe's Gas Bag",
-    "release_date": "2026-06-12 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/tmp4tjL9NXPyTDg9f4gfoYXV6QZ6U2cn2ydGPaZZzs8",
     "episode_title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire ",
     "release_date": "2026-06-15 07:10:00",
@@ -173,27 +159,6 @@
     "release_date": "2026-06-11 04:01:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/fbb60763-b881-4d9c-8b9c-b465014d26d9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Cb3263Jrvsy3cni4TtCcp8XxiZ1wUrKfngnHcg7vAMM",
-    "episode_title": "Hunter Biden",
-    "release_date": "2026-06-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/qG9CW0q4BnTXicrWfjP_663asCTTm3uKLsTE_Rf50WE",
-    "episode_title": "Armchair Anonymous: Camping",
-    "release_date": "2026-06-12 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/b7878fd2-e030-42dd-9834-535366a6cec3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/KNfSVBFGNhZl72jghAABgybFz_VRg6ies9WLpc83BSM",
-    "episode_title": "Darby Saxbe (on Dad Brain)",
-    "release_date": "2026-06-10 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "70c5a5b0-89d4-11f0-b13f-578a611f130c",
@@ -238,10 +203,31 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/LcLd8QEuiPTZoNQXYh0pQPfG3P5qAngaR3PnJBq5HgI",
-    "episode_title": "#869: Max Levchin, PayPal and Affirm \u2014 The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism)",
-    "release_date": "2026-06-09 23:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2730eb98-86f8-483f-b2fb-4083f032f5b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "guid": "gid://art19-episode-locator/V0/Cb3263Jrvsy3cni4TtCcp8XxiZ1wUrKfngnHcg7vAMM",
+    "episode_title": "Hunter Biden",
+    "release_date": "2026-06-15 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/qG9CW0q4BnTXicrWfjP_663asCTTm3uKLsTE_Rf50WE",
+    "episode_title": "Armchair Anonymous: Camping",
+    "release_date": "2026-06-12 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/b7878fd2-e030-42dd-9834-535366a6cec3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/KNfSVBFGNhZl72jghAABgybFz_VRg6ies9WLpc83BSM",
+    "episode_title": "Darby Saxbe (on Dad Brain)",
+    "release_date": "2026-06-10 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
+    "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
+    "release_date": "2026-06-16 22:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
   }
 ]
