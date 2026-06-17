@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-17 02:50:20
+Last updated: 2026-06-17 14:53:34
 
 ## Serial
 
@@ -12,13 +12,13 @@ Last updated: 2026-06-17 02:50:20
 
 ---
 
-## Freakonomics Radio
+## This American Life
 
-### 677. Can Backgammon Save Us from Ourselves?
+### 354: Mistakes Were Made
 
-**Released:** 2026-06-12 10:00:00
+**Released:** 2026-06-14 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
 
 ---
 
@@ -64,31 +64,31 @@ Last updated: 2026-06-17 02:50:20
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 354: Mistakes Were Made
+### 677. Can Backgammon Save Us from Ourselves?
 
-**Released:** 2026-06-14 18:00:00
+**Released:** 2026-06-12 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4)
 
 ---
 
 ## Planet Money
+
+### Can computer hackers get inside your mind?
+
+**Released:** 2026-06-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518279)
+
+---
 
 ### It’s my tree. Why can’t I cut it down?
 
 **Released:** 2026-06-12 22:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915)
-
----
-
-### Two indicators for lowering the rent
-
-**Released:** 2026-06-10 07:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
 
 ---
 
@@ -148,6 +148,14 @@ Last updated: 2026-06-17 02:50:20
 
 ## Stuff You Should Know
 
+### Short Stuff: Does singing make you happy?
+
+**Released:** 2026-06-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ec06358-1cc6-461f-bafb-b46b017680ac/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Did 24-Hour Cable News Kill America?
 
 **Released:** 2026-06-16 09:00:00
@@ -169,14 +177,6 @@ Last updated: 2026-06-17 02:50:20
 **Released:** 2026-06-11 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3a8d6e99-9942-499e-972c-b4650156fd14/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Rain Barrels! 
-
-**Released:** 2026-06-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4ea56653-d606-4aae-90c0-b46400efd64a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -208,6 +208,16 @@ Last updated: 2026-06-17 02:50:20
 
 ---
 
+## The Tim Ferriss Show
+
+### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
+
+**Released:** 2026-06-16 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Fabricated, Forged and Forgotten: The Moth Radio Hour
@@ -223,24 +233,6 @@ Last updated: 2026-06-17 02:50:20
 **Released:** 2026-06-12 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD8351449795.mp3)
-
----
-
-## SmartLess 
-
-### "Jennifer Lopez"
-
-**Released:** 2026-06-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Tom Hanks"
-
-**Released:** 2026-06-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
 
 ---
 
@@ -262,7 +254,33 @@ Last updated: 2026-06-17 02:50:20
 
 ---
 
+## SmartLess 
+
+### "Jennifer Lopez"
+
+**Released:** 2026-06-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Tom Hanks"
+
+**Released:** 2026-06-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
+
+### Leslie John (on the power of oversharing)
+
+**Released:** 2026-06-17 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1eecd14-1ff6-488f-82fb-7819a796b838.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Hunter Biden
 
@@ -277,24 +295,6 @@ Last updated: 2026-06-17 02:50:20
 **Released:** 2026-06-12 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7878fd2-e030-42dd-9834-535366a6cec3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Darby Saxbe (on Dad Brain)
-
-**Released:** 2026-06-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/017ce8e5-eb6e-4dfe-9931-310e7825df24.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
