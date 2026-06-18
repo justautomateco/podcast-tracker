@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-17 14:53:34
+Last updated: 2026-06-18 02:45:45
+
+## Freakonomics Radio
+
+### 677. Can Backgammon Save Us from Ourselves?
+
+**Released:** 2026-06-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -12,17 +22,15 @@ Last updated: 2026-06-17 14:53:34
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 354: Mistakes Were Made
+### Save it to your desktop! | Alan Resnick
 
-**Released:** 2026-06-14 18:00:00
+**Released:** 2026-06-17 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302bf50592e82545b7ec60/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to feng shui your fridge — and other happy climate hacks | Jiaying Zhao (re-release)
 
@@ -56,31 +64,13 @@ Last updated: 2026-06-17 14:53:34
 
 ---
 
-### Talks on Love Playlist (1/5): Your relationship expectations could be holding you back | Stephanie R. Yates-Anyabwile
-
-**Released:** 2026-06-12 15:05:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a29d87e9068bf040893ec2f/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 677. Can Backgammon Save Us from Ourselves?
-
-**Released:** 2026-06-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c5b68e78-e26a-44c9-bc88-690e44cf8078/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c5b68e78-e26a-44c9-bc88-690e44cf8078&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Can computer hackers get inside your mind?
 
 **Released:** 2026-06-17 07:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518279)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278)
 
 ---
 
@@ -92,7 +82,25 @@ Last updated: 2026-06-17 14:53:34
 
 ---
 
+## This American Life
+
+### 354: Mistakes Were Made
+
+**Released:** 2026-06-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2515 - Chase Hughes
+
+**Released:** 2026-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
+
+---
 
 ### #2514 - Cameron Hanes
 
@@ -107,14 +115,6 @@ Last updated: 2026-06-17 14:53:34
 **Released:** 2026-06-11 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4705922379.mp3)
-
----
-
-### #2512 - Joey Diaz
-
-**Released:** 2026-06-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1423641866.mp3)
 
 ---
 
@@ -208,16 +208,6 @@ Last updated: 2026-06-17 14:53:34
 
 ---
 
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Fabricated, Forged and Forgotten: The Moth Radio Hour
@@ -236,21 +226,13 @@ Last updated: 2026-06-17 14:53:34
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Atsuko Okatsuka
+### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
 
-**Released:** 2026-06-15 04:05:00
+**Released:** 2026-06-16 22:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
-
----
-
-### Sword Play
-
-**Released:** 2026-06-11 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -269,6 +251,24 @@ Last updated: 2026-06-17 14:53:34
 **Released:** 2026-06-11 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d394a9d3-4cac-4de0-99f9-ceecb9b8e3d8&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Atsuko Okatsuka
+
+**Released:** 2026-06-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
+
+---
+
+### Sword Play
+
+**Released:** 2026-06-11 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3f71ff4c-e839-4c5a-99a6-fdc88218f027/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3f71ff4c-e839-4c5a-99a6-fdc88218f027&feed=dHoohVNH)
 
 ---
 
