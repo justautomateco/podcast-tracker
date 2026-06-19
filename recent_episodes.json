@@ -42,6 +42,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37319 at https://www.thisamericanlife.org",
+    "episode_title": "354: Mistakes Were Made",
+    "release_date": "2026-06-14 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a302c0bc3a72484cb2d0bf2",
+    "episode_title": "How to raise kids who question AI | Randi Williams",
+    "release_date": "2026-06-18 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302c0bc3a72484cb2d0bf2/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a302bf50592e82545b7ec60",
     "episode_title": "Save it to your desktop! | Alan Resnick",
     "release_date": "2026-06-17 15:00:00",
@@ -70,18 +84,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a297b827fe177e75b3cbf71",
-    "episode_title": "The human cell is wildly complex. Can AI decode it? | Silvana Konermann",
-    "release_date": "2026-06-13 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a297b827fe177e75b3cbf71/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "e12a72a9-57e6-4467-95bc-6685a74f3056",
+    "episode_title": "Can computer hackers get inside your mind?",
+    "release_date": "2026-06-17 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "37319 at https://www.thisamericanlife.org",
-    "episode_title": "354: Mistakes Were Made",
-    "release_date": "2026-06-14 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
-    "podcast_name": "This American Life"
+    "guid": "e64308bf-b503-4f1d-af97-cff9d525fa99",
+    "episode_title": "It\u2019s my tree. Why can\u2019t I cut it down?",
+    "release_date": "2026-06-12 22:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "04cb4c58-6aab-11f1-908a-ab69dccb621b",
+    "episode_title": "#2516 - Rowan Jacobsen",
+    "release_date": "2026-06-18 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3995715859.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "38a59f2e-69ed-11f1-979c-7f087c850f79",
@@ -98,34 +119,6 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "85128b08-6518-11f1-8ac2-33b58404e123",
-    "episode_title": "#2513 - Dean Radin",
-    "release_date": "2026-06-11 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4705922379.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "e12a72a9-57e6-4467-95bc-6685a74f3056",
-    "episode_title": "Can computer hackers get inside your mind?",
-    "release_date": "2026-06-17 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e64308bf-b503-4f1d-af97-cff9d525fa99",
-    "episode_title": "It\u2019s my tree. Why can\u2019t I cut it down?",
-    "release_date": "2026-06-12 22:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
-    "episode_title": "A Secret Source of Connection",
-    "release_date": "2026-06-15 20:24:50",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "1720f7cf-ef12-407c-be36-cfb87b7b07aa",
     "episode_title": "The Horn That Divided the World Cup",
     "release_date": "2026-06-16 08:00:00",
@@ -138,6 +131,13 @@
     "release_date": "2026-06-12 07:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
+    "episode_title": "A Secret Source of Connection",
+    "release_date": "2026-06-15 20:24:50",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "ed7814fc-f60a-4069-abe6-b46c00fc49dc",
@@ -166,6 +166,13 @@
     "release_date": "2026-06-13 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa726b57-bfcc-4acc-8318-b46600e83563/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
+    "episode_title": "Reconstruction: The Unfinished Promise",
+    "release_date": "2026-06-18 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Pzk4jBulXL5HSniwOmGt-C9bOxMLMdjUsFX0Zkilc2o",
@@ -217,11 +224,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
-    "episode_title": "Reconstruction: The Unfinished Promise",
-    "release_date": "2026-06-18 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
+    "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
+    "release_date": "2026-06-16 22:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "bdc2e00e-d4ba-49cc-b62a-47f6c721c7f8",
@@ -243,12 +250,5 @@
     "release_date": "2026-06-15 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
-    "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
-    "release_date": "2026-06-16 22:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]

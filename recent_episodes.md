@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-18 14:49:02
+Last updated: 2026-06-19 03:30:18
 
 ## Serial
 
@@ -54,7 +54,25 @@ Last updated: 2026-06-18 14:49:02
 
 ---
 
+## This American Life
+
+### 354: Mistakes Were Made
+
+**Released:** 2026-06-14 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
+
+---
+
 ## TED Talks Daily
+
+### How to raise kids who question AI | Randi Williams
+
+**Released:** 2026-06-18 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302c0bc3a72484cb2d0bf2/media.mp3)
+
+---
 
 ### Save it to your desktop! | Alan Resnick
 
@@ -88,50 +106,6 @@ Last updated: 2026-06-18 14:49:02
 
 ---
 
-### The human cell is wildly complex. Can AI decode it? | Silvana Konermann
-
-**Released:** 2026-06-13 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a297b827fe177e75b3cbf71/media.mp3)
-
----
-
-## This American Life
-
-### 354: Mistakes Were Made
-
-**Released:** 2026-06-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
-
----
-
-## The Joe Rogan Experience
-
-### #2515 - Chase Hughes
-
-**Released:** 2026-06-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
-
----
-
-### #2514 - Cameron Hanes
-
-**Released:** 2026-06-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5962536956.mp3)
-
----
-
-### #2513 - Dean Radin
-
-**Released:** 2026-06-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4705922379.mp3)
-
----
-
 ## Planet Money
 
 ### Can computer hackers get inside your mind?
@@ -150,13 +124,29 @@ Last updated: 2026-06-18 14:49:02
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### A Secret Source of Connection
+### #2516 - Rowan Jacobsen
 
-**Released:** 2026-06-15 20:24:50
+**Released:** 2026-06-18 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3995715859.mp3)
+
+---
+
+### #2515 - Chase Hughes
+
+**Released:** 2026-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
+
+---
+
+### #2514 - Cameron Hanes
+
+**Released:** 2026-06-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5962536956.mp3)
 
 ---
 
@@ -175,6 +165,16 @@ Last updated: 2026-06-18 14:49:02
 **Released:** 2026-06-12 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c86339cc-3e89-48de-ad55-c2370fecc4f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c86339cc-3e89-48de-ad55-c2370fecc4f9&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### A Secret Source of Connection
+
+**Released:** 2026-06-15 20:24:50
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
 
 ---
 
@@ -209,6 +209,16 @@ Last updated: 2026-06-18 14:49:02
 **Released:** 2026-06-13 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa726b57-bfcc-4acc-8318-b46600e83563/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Revisionist History
+
+### Reconstruction: The Unfinished Promise
+
+**Released:** 2026-06-18 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -274,13 +284,13 @@ Last updated: 2026-06-18 14:49:02
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### Reconstruction: The Unfinished Promise
+### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
 
-**Released:** 2026-06-18 04:01:00
+**Released:** 2026-06-16 22:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -309,16 +319,6 @@ Last updated: 2026-06-18 14:49:02
 **Released:** 2026-06-15 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
