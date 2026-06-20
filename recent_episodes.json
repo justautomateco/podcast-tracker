@@ -35,13 +35,6 @@
     "podcast_name": "Serial"
   },
   {
-    "guid": "05630673-4d6b-427d-b3ba-0dcfc0bb391e",
-    "episode_title": "678. Who Gets to Choose a \u201cGood Death\u201d?",
-    "release_date": "2026-06-19 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "6a302cbd6edea1d9abe3a47f",
     "episode_title": "The mission to safeguard Black history in the US | Julieanna L. Richardson (re-release)",
     "release_date": "2026-06-19 15:00:00",
@@ -84,10 +77,17 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "05630673-4d6b-427d-b3ba-0dcfc0bb391e",
+    "episode_title": "678. Who Gets to Choose a \u201cGood Death\u201d?",
+    "release_date": "2026-06-19 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "f3c388d8-29eb-404a-b6d8-0c0376706b65",
     "episode_title": "The real horror of \u2018Alien\u2019 and how it explains why we\u2019re not paid enough",
     "release_date": "2026-06-19 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936172",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936171",
     "podcast_name": "Planet Money"
   },
   {
@@ -98,18 +98,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "04cb4c58-6aab-11f1-908a-ab69dccb621b",
-    "episode_title": "#2516 - Rowan Jacobsen",
-    "release_date": "2026-06-18 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "38a59f2e-69ed-11f1-979c-7f087c850f79",
-    "episode_title": "#2515 - Chase Hughes",
-    "release_date": "2026-06-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3525009015.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
+    "episode_title": "A Secret Source of Connection",
+    "release_date": "2026-06-15 20:24:50",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "0478d505-7347-4a40-8c91-f2a93608b7df",
@@ -126,11 +119,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
-    "episode_title": "A Secret Source of Connection",
-    "release_date": "2026-06-15 20:24:50",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "60e8b1a4-1883-452e-bff7-b46b01143f74",
+    "episode_title": "Selects: Birthmarks: Probably Not the Mark of the Devil",
+    "release_date": "2026-06-20 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/60e8b1a4-1883-452e-bff7-b46b01143f74/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "ad871ec1-c0c8-400e-9d17-b46e00fde7dc",
@@ -161,27 +154,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "4b6c5e78-b2d7-4bf3-b511-b46e00fde7d7",
-    "episode_title": "The Stuff You Should Know Doin\u2019 Science Playlist: Can Nuclear Fusion Reactors Save The World?",
-    "release_date": "2026-06-19 18:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4b6c5e78-b2d7-4bf3-b511-b46e00fde7d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
-    "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
-    "release_date": "2026-06-16 22:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
-    "episode_title": "Reconstruction: The Unfinished Promise",
-    "release_date": "2026-06-18 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/Pzk4jBulXL5HSniwOmGt-C9bOxMLMdjUsFX0Zkilc2o",
     "episode_title": "Advice Line with Shazi Visram of Happy Family Organics",
     "release_date": "2026-06-18 07:10:00",
@@ -196,6 +168,13 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
+    "episode_title": "Reconstruction: The Unfinished Promise",
+    "release_date": "2026-06-18 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "716039a4-89d4-11f0-b13f-ff1a04ae8adb",
     "episode_title": "Presenting Office Ladies: Work Friendship",
     "release_date": "2026-06-19 04:25:00",
@@ -208,6 +187,27 @@
     "release_date": "2026-06-16 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/1AzCItWbghFCoy2XaiawWhnJcLyCoszrW65CFKebRIY",
+    "episode_title": "Armchair Anonymous: Crazy Neighbors II",
+    "release_date": "2026-06-19 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f1462c31-89ae-4f88-87de-b9e7dfb064db.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/WyrZ3yhqxoYaMbdhXvLjcSqHOiEB9InsMGFQKN8kE44",
+    "episode_title": "Leslie John (on the power of oversharing)",
+    "release_date": "2026-06-17 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e1eecd14-1ff6-488f-82fb-7819a796b838.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Cb3263Jrvsy3cni4TtCcp8XxiZ1wUrKfngnHcg7vAMM",
+    "episode_title": "Hunter Biden",
+    "release_date": "2026-06-15 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "bdc2e00e-d4ba-49cc-b62a-47f6c721c7f8",
@@ -231,24 +231,10 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/1AzCItWbghFCoy2XaiawWhnJcLyCoszrW65CFKebRIY",
-    "episode_title": "Armchair Anonymous: Crazy Neighbors II",
-    "release_date": "2026-06-19 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f1462c31-89ae-4f88-87de-b9e7dfb064db.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/WyrZ3yhqxoYaMbdhXvLjcSqHOiEB9InsMGFQKN8kE44",
-    "episode_title": "Leslie John (on the power of oversharing)",
-    "release_date": "2026-06-17 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e1eecd14-1ff6-488f-82fb-7819a796b838.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Cb3263Jrvsy3cni4TtCcp8XxiZ1wUrKfngnHcg7vAMM",
-    "episode_title": "Hunter Biden",
-    "release_date": "2026-06-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
+    "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
+    "release_date": "2026-06-16 22:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
