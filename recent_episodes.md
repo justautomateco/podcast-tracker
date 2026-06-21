@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-20 13:41:39
+Last updated: 2026-06-21 02:51:06
 
 ## Serial
 
@@ -44,7 +44,25 @@ Last updated: 2026-06-20 13:41:39
 
 ---
 
+## Freakonomics Radio
+
+### 678. Who Gets to Choose a “Good Death”?
+
+**Released:** 2026-06-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
+
+### Why overtourism could ruin your next vacation | Suresh Subudhi
+
+**Released:** 2026-06-20 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302cd40592e82545b81b76/media.mp3)
+
+---
 
 ### The mission to safeguard Black history in the US | Julieanna L. Richardson (re-release)
 
@@ -78,14 +96,6 @@ Last updated: 2026-06-20 13:41:39
 
 ---
 
-### Reddit's model for a better internet | Steve Huffman
-
-**Released:** 2026-06-15 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a3012af6edea1d9abdbe0b3/media.mp3)
-
----
-
 ## This American Life
 
 ### 354: Mistakes Were Made
@@ -96,13 +106,29 @@ Last updated: 2026-06-20 13:41:39
 
 ---
 
-## Freakonomics Radio
+## The Joe Rogan Experience
 
-### 678. Who Gets to Choose a “Good Death”?
+### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
 
-**Released:** 2026-06-19 10:00:00
+**Released:** 2026-06-20 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
+
+---
+
+### #2516 - Rowan Jacobsen
+
+**Released:** 2026-06-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3995715859.mp3)
+
+---
+
+### #2515 - Chase Hughes
+
+**Released:** 2026-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
 
 ---
 
@@ -131,24 +157,6 @@ Last updated: 2026-06-20 13:41:39
 **Released:** 2026-06-15 20:24:50
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #5: Blue Back Speller
-
-**Released:** 2026-06-19 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO)
-
----
-
-### The Horn That Divided the World Cup
-
-**Released:** 2026-06-16 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO)
 
 ---
 
@@ -194,6 +202,24 @@ Last updated: 2026-06-20 13:41:39
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #5: Blue Back Speller
+
+**Released:** 2026-06-19 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO)
+
+---
+
+### The Horn That Divided the World Cup
+
+**Released:** 2026-06-16 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Shazi Visram of Happy Family Organics
@@ -212,6 +238,16 @@ Last updated: 2026-06-20 13:41:39
 
 ---
 
+## The Tim Ferriss Show
+
+### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
+
+**Released:** 2026-06-16 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### Reconstruction: The Unfinished Promise
@@ -219,6 +255,24 @@ Last updated: 2026-06-20 13:41:39
 **Released:** 2026-06-18 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Bonering Conan
+
+**Released:** 2026-06-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH)
+
+---
+
+### Atsuko Okatsuka
+
+**Released:** 2026-06-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
 
 ---
 
@@ -237,6 +291,16 @@ Last updated: 2026-06-20 13:41:39
 **Released:** 2026-06-16 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280)
+
+---
+
+## SmartLess 
+
+### "Jennifer Lopez"
+
+**Released:** 2026-06-15 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
 
 ---
 
@@ -263,44 +327,6 @@ Last updated: 2026-06-20 13:41:39
 **Released:** 2026-06-15 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Bonering Conan
-
-**Released:** 2026-06-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH)
-
----
-
-### Atsuko Okatsuka
-
-**Released:** 2026-06-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Jennifer Lopez"
-
-**Released:** 2026-06-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
