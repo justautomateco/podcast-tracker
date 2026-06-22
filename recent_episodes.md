@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-21 13:50:01
+Last updated: 2026-06-22 02:53:38
 
 ## Freakonomics Radio
 
@@ -51,6 +51,16 @@ Last updated: 2026-06-21 13:50:01
 **Released:** 2026-06-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4990f699-46ab-48fa-b4fc-b8f3c4d3e165/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4990f699-46ab-48fa-b4fc-b8f3c4d3e165&feed=PpzWFGhg)
+
+---
+
+## This American Life
+
+### 889: There’s Something About Hail Mary
+
+**Released:** 2026-06-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
 
 ---
 
@@ -114,26 +124,6 @@ Last updated: 2026-06-21 13:50:01
 
 ---
 
-## Hidden Brain
-
-### A Secret Source of Connection
-
-**Released:** 2026-06-15 20:24:50
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 354: Mistakes Were Made
-
-**Released:** 2026-06-14 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
@@ -160,6 +150,16 @@ Last updated: 2026-06-21 13:50:01
 
 ---
 
+## Hidden Brain
+
+### A Secret Source of Connection
+
+**Released:** 2026-06-15 20:24:50
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### 100 Objects #5: Blue Back Speller
@@ -175,34 +175,6 @@ Last updated: 2026-06-21 13:50:01
 **Released:** 2026-06-16 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Shazi Visram of Happy Family Organics
-
-**Released:** 2026-06-18 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
-
-**Released:** 2026-06-15 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Reconstruction: The Unfinished Promise
-
-**Released:** 2026-06-18 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -248,21 +220,41 @@ Last updated: 2026-06-21 13:50:01
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Presenting Office Ladies: Work Friendship
+### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
 
-**Released:** 2026-06-19 04:25:00
+**Released:** 2026-06-16 22:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Fabricated, Forged and Forgotten: The Moth Radio Hour
+## How I Built This
 
-**Released:** 2026-06-16 04:25:00
+### Advice Line with Shazi Visram of Happy Family Organics
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280)
+**Released:** 2026-06-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
+
+**Released:** 2026-06-15 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Reconstruction: The Unfinished Promise
+
+**Released:** 2026-06-18 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -310,16 +302,6 @@ Last updated: 2026-06-21 13:50:01
 
 ---
 
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Jennifer Lopez"
@@ -327,6 +309,24 @@ Last updated: 2026-06-21 13:50:01
 **Released:** 2026-06-15 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Presenting Office Ladies: Work Friendship
+
+**Released:** 2026-06-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
+
+---
+
+### Fabricated, Forged and Forgotten: The Moth Radio Hour
+
+**Released:** 2026-06-16 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280)
 
 ---
 
