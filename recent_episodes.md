@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-22 02:53:38
-
-## Freakonomics Radio
-
-### 678. Who Gets to Choose a “Good Death”?
-
-**Released:** 2026-06-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
-
----
+Last updated: 2026-06-22 16:29:55
 
 ## Serial
 
@@ -54,6 +44,60 @@ Last updated: 2026-06-22 02:53:38
 
 ---
 
+## Freakonomics Radio
+
+### 678. Who Gets to Choose a “Good Death”?
+
+**Released:** 2026-06-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+
+---
+
+## The Joe Rogan Experience
+
+### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
+
+**Released:** 2026-06-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
+
+---
+
+### #2516 - Rowan Jacobsen
+
+**Released:** 2026-06-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3995715859.mp3)
+
+---
+
+### #2515 - Chase Hughes
+
+**Released:** 2026-06-17 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
+
+---
+
+## Planet Money
+
+### The real horror of ‘Alien’ and how it explains why we’re not paid enough
+
+**Released:** 2026-06-19 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607)
+
+---
+
+### Can computer hackers get inside your mind?
+
+**Released:** 2026-06-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278)
+
+---
+
 ## This American Life
 
 ### 889: There’s Something About Hail Mary
@@ -66,7 +110,15 @@ Last updated: 2026-06-22 02:53:38
 
 ## TED Talks Daily
 
-### Your Body on Tech: Why living online is leaving us exhausted — and what actually helps (with Manoush Zomorodi and Elise Hu)
+### What sitting all day does to your brain and body | Keith Diaz | Your Body on Tech
+
+**Released:** 2026-06-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b5fc780d0f7579d26f79/media.mp3)
+
+---
+
+### Why living online is leaving us exhausted — and what actually helps (with Manoush Zomorodi and Elise Hu)
 
 **Released:** 2026-06-21 06:00:00
 
@@ -98,68 +150,6 @@ Last updated: 2026-06-22 02:53:38
 
 ---
 
-### Save it to your desktop! | Alan Resnick
-
-**Released:** 2026-06-17 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302bf50592e82545b7ec60/media.mp3)
-
----
-
-## Planet Money
-
-### The real horror of ‘Alien’ and how it explains why we’re not paid enough
-
-**Released:** 2026-06-19 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936171)
-
----
-
-### Can computer hackers get inside your mind?
-
-**Released:** 2026-06-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278)
-
----
-
-## The Joe Rogan Experience
-
-### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
-
-**Released:** 2026-06-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
-
----
-
-### #2516 - Rowan Jacobsen
-
-**Released:** 2026-06-18 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3995715859.mp3)
-
----
-
-### #2515 - Chase Hughes
-
-**Released:** 2026-06-17 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
-
----
-
-## Hidden Brain
-
-### A Secret Source of Connection
-
-**Released:** 2026-06-15 20:24:50
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #5: Blue Back Speller
@@ -175,6 +165,16 @@ Last updated: 2026-06-22 02:53:38
 **Released:** 2026-06-16 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### A Secret Source of Connection
+
+**Released:** 2026-06-15 20:24:50
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf)
 
 ---
 
@@ -230,24 +230,6 @@ Last updated: 2026-06-22 02:53:38
 
 ---
 
-## How I Built This
-
-### Advice Line with Shazi Visram of Happy Family Organics
-
-**Released:** 2026-06-18 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
-
-**Released:** 2026-06-15 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Reconstruction: The Unfinished Promise
@@ -258,7 +240,33 @@ Last updated: 2026-06-22 02:53:38
 
 ---
 
+## How I Built This
+
+### STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct
+
+**Released:** 2026-06-22 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Shazi Visram of Happy Family Organics
+
+**Released:** 2026-06-18 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Armchair Expert
+
+### Steve Aoki
+
+**Released:** 2026-06-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Crazy Neighbors II
 
@@ -273,42 +281,6 @@ Last updated: 2026-06-22 02:53:38
 **Released:** 2026-06-17 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1eecd14-1ff6-488f-82fb-7819a796b838.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Hunter Biden
-
-**Released:** 2026-06-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2ae01cad-78fc-42cb-a880-a6cc74523fd4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Bonering Conan
-
-**Released:** 2026-06-18 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH)
-
----
-
-### Atsuko Okatsuka
-
-**Released:** 2026-06-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/a8755c75-c9a6-48f4-a634-6b9ba3494aa9/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=a8755c75-c9a6-48f4-a634-6b9ba3494aa9&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Jennifer Lopez"
-
-**Released:** 2026-06-15 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/3e911ff8-f176-4704-8613-e42ba3cb1a02/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=3e911ff8-f176-4704-8613-e42ba3cb1a02&feed=hNaFxXpO)
 
 ---
 
@@ -327,6 +299,34 @@ Last updated: 2026-06-22 02:53:38
 **Released:** 2026-06-16 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3294316051.mp3?updated=1781044280)
+
+---
+
+## SmartLess 
+
+### "Amy Adams"
+
+**Released:** 2026-06-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Josh Groban
+
+**Released:** 2026-06-22 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
+
+---
+
+### The Bonering Conan
+
+**Released:** 2026-06-18 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH)
 
 ---
 
