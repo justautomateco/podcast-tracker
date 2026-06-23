@@ -42,41 +42,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "c02c1d02-6c3a-11f1-9abf-470c52089759",
-    "episode_title": "JRE MMA Show #181 with Justin Gaethje & Trevor Wittman",
-    "release_date": "2026-06-20 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1314948676.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "04cb4c58-6aab-11f1-908a-ab69dccb621b",
-    "episode_title": "#2516 - Rowan Jacobsen",
-    "release_date": "2026-06-18 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3995715859.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "38a59f2e-69ed-11f1-979c-7f087c850f79",
-    "episode_title": "#2515 - Chase Hughes",
-    "release_date": "2026-06-17 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3525009015.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "f3c388d8-29eb-404a-b6d8-0c0376706b65",
-    "episode_title": "The real horror of \u2018Alien\u2019 and how it explains why we\u2019re not paid enough",
-    "release_date": "2026-06-19 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e12a72a9-57e6-4467-95bc-6685a74f3056",
-    "episode_title": "Can computer hackers get inside your mind?",
-    "release_date": "2026-06-17 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "46170 at https://www.thisamericanlife.org",
     "episode_title": "889: There\u2019s Something About Hail Mary",
     "release_date": "2026-06-21 18:00:00",
@@ -119,24 +84,45 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "0478d505-7347-4a40-8c91-f2a93608b7df",
-    "episode_title": "100 Objects #5: Blue Back Speller",
-    "release_date": "2026-06-19 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "c02c1d02-6c3a-11f1-9abf-470c52089759",
+    "episode_title": "JRE MMA Show #181 with Justin Gaethje & Trevor Wittman",
+    "release_date": "2026-06-20 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "1720f7cf-ef12-407c-be36-cfb87b7b07aa",
-    "episode_title": "The Horn That Divided the World Cup",
-    "release_date": "2026-06-16 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "04cb4c58-6aab-11f1-908a-ab69dccb621b",
+    "episode_title": "#2516 - Rowan Jacobsen",
+    "release_date": "2026-06-18 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3995715859.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "b75030a2-ff06-4c32-987e-a76630e7763f",
-    "episode_title": "A Secret Source of Connection",
-    "release_date": "2026-06-15 20:24:50",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/b33a85ac-35b2-4f38-a34d-256a5095a9ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=b33a85ac-35b2-4f38-a34d-256a5095a9ef&feed=kwWc0lhf",
+    "guid": "38a59f2e-69ed-11f1-979c-7f087c850f79",
+    "episode_title": "#2515 - Chase Hughes",
+    "release_date": "2026-06-17 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3525009015.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "f3c388d8-29eb-404a-b6d8-0c0376706b65",
+    "episode_title": "The real horror of \u2018Alien\u2019 and how it explains why we\u2019re not paid enough",
+    "release_date": "2026-06-19 21:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e12a72a9-57e6-4467-95bc-6685a74f3056",
+    "episode_title": "Can computer hackers get inside your mind?",
+    "release_date": "2026-06-17 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
+    "episode_title": "Stepping Out of the Shadows",
+    "release_date": "2026-06-22 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
   },
   {
@@ -175,18 +161,25 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "0478d505-7347-4a40-8c91-f2a93608b7df",
+    "episode_title": "100 Objects #5: Blue Back Speller",
+    "release_date": "2026-06-19 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "1720f7cf-ef12-407c-be36-cfb87b7b07aa",
+    "episode_title": "The Horn That Divided the World Cup",
+    "release_date": "2026-06-16 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3a6d6df4-dbfe-4e6f-b892-4972261d8fee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3a6d6df4-dbfe-4e6f-b892-4972261d8fee&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs",
     "episode_title": "#870: Sebastian Mallaby, Biographer of Demis Hassabis \u2014 Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early",
     "release_date": "2026-06-16 22:30:00",
     "mp3_url": "https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
-    "episode_title": "Reconstruction: The Unfinished Promise",
-    "release_date": "2026-06-18 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/jlSeNEsT4p7HW8kfoUVvU50USn8GmU-wxhZoxwdYdg8",
@@ -201,6 +194,13 @@
     "release_date": "2026-06-18 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
+    "episode_title": "Reconstruction: The Unfinished Promise",
+    "release_date": "2026-06-18 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/yxtHcNm2NATi4iFtrNQE5vuxcnMDTlIb9dxYb3VSq7Y",
