@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-23 14:29:42
+Last updated: 2026-06-24 02:29:46
+
+## Freakonomics Radio
+
+### The World Is (Still) Drowning in Sludge
+
+**Released:** 2026-06-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+
+---
+
+### 678. Who Gets to Choose a “Good Death”?
+
+**Released:** 2026-06-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -44,27 +62,15 @@ Last updated: 2026-06-23 14:29:42
 
 ---
 
-## Freakonomics Radio
-
-### 678. Who Gets to Choose a “Good Death”?
-
-**Released:** 2026-06-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 889: There’s Something About Hail Mary
-
-**Released:** 2026-06-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
-
----
-
 ## TED Talks Daily
+
+### What we're getting wrong about teens and tech | Candice Odgers | Your Body on Tech
+
+**Released:** 2026-06-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b61d101389aa3d671af3/media.mp3)
+
+---
 
 ### What sitting all day does to your brain and body | Keith Diaz | Your Body on Tech
 
@@ -98,11 +104,13 @@ Last updated: 2026-06-23 14:29:42
 
 ---
 
-### How to raise kids who question AI | Randi Williams
+## This American Life
 
-**Released:** 2026-06-18 15:00:00
+### 889: There’s Something About Hail Mary
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302c0bc3a72484cb2d0bf2/media.mp3)
+**Released:** 2026-06-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
 
 ---
 
@@ -125,6 +133,14 @@ Last updated: 2026-06-23 14:29:42
 ---
 
 ## The Joe Rogan Experience
+
+### #2517 - Taylor Sheridan
+
+**Released:** 2026-06-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
+
+---
 
 ### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
 
@@ -220,6 +236,24 @@ Last updated: 2026-06-23 14:29:42
 
 ---
 
+## The Moth
+
+### American Dreams: The Moth Radio Hour
+
+**Released:** 2026-06-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
+
+---
+
+### Presenting Office Ladies: Work Friendship
+
+**Released:** 2026-06-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
+
+---
+
 ## How I Built This
 
 ### STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct
@@ -245,24 +279,6 @@ Last updated: 2026-06-23 14:29:42
 **Released:** 2026-06-18 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
-### Presenting Office Ladies: Work Friendship
-
-**Released:** 2026-06-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
 
 ---
 
@@ -317,16 +333,6 @@ Last updated: 2026-06-23 14:29:42
 **Released:** 2026-06-22 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #870: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early
-
-**Released:** 2026-06-16 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/46d28a73-b15a-4146-a5bc-899e0ddd8134.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
