@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-24 14:09:03
+Last updated: 2026-06-25 02:31:31
 
 ## Serial
 
@@ -44,7 +44,33 @@ Last updated: 2026-06-24 14:09:03
 
 ---
 
+## Freakonomics Radio
+
+### The World Is (Still) Drowning in Sludge
+
+**Released:** 2026-06-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+
+---
+
+### 678. Who Gets to Choose a “Good Death”?
+
+**Released:** 2026-06-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
+
+### Your vaccine questions deserve real answers | Kizzmekia Corbett | Your Body on Tech
+
+**Released:** 2026-06-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b6359b6fd8dcabcedf1f/media.mp3)
+
+---
 
 ### What we're getting wrong about teens and tech | Candice Odgers | Your Body on Tech
 
@@ -78,29 +104,13 @@ Last updated: 2026-06-24 14:09:03
 
 ---
 
-### The mission to safeguard Black history in the US | Julieanna L. Richardson (re-release)
+## This American Life
 
-**Released:** 2026-06-19 15:00:00
+### 889: There’s Something About Hail Mary
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302cbd6edea1d9abe3a47f/media.mp3)
+**Released:** 2026-06-21 18:00:00
 
----
-
-## Freakonomics Radio
-
-### The World Is (Still) Drowning in Sludge
-
-**Released:** 2026-06-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
-
----
-
-### 678. Who Gets to Choose a “Good Death”?
-
-**Released:** 2026-06-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
 
 ---
 
@@ -122,27 +132,15 @@ Last updated: 2026-06-24 14:09:03
 
 ---
 
-## Hidden Brain
-
-### Stepping Out of the Shadows
-
-**Released:** 2026-06-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
-
----
-
-## This American Life
-
-### 889: There’s Something About Hail Mary
-
-**Released:** 2026-06-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
-
----
-
 ## The Joe Rogan Experience
+
+### #2518 - Tim Dillon
+
+**Released:** 2026-06-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2211636736.mp3)
+
+---
 
 ### #2517 - Taylor Sheridan
 
@@ -168,11 +166,13 @@ Last updated: 2026-06-24 14:09:03
 
 ---
 
-### #2515 - Chase Hughes
+## Hidden Brain
 
-**Released:** 2026-06-17 17:00:00
+### Stepping Out of the Shadows
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3525009015.mp3)
+**Released:** 2026-06-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
 
 ---
 
@@ -264,24 +264,6 @@ Last updated: 2026-06-24 14:09:03
 
 ---
 
-## The Moth
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
-### Presenting Office Ladies: Work Friendship
-
-**Released:** 2026-06-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Josh Groban
@@ -297,6 +279,24 @@ Last updated: 2026-06-24 14:09:03
 **Released:** 2026-06-18 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### American Dreams: The Moth Radio Hour
+
+**Released:** 2026-06-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
+
+---
+
+### Presenting Office Ladies: Work Friendship
+
+**Released:** 2026-06-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
 
 ---
 
