@@ -1,40 +1,5 @@
 [
   {
-    "guid": "20ad2ce9-3088-449b-8001-2e3e739b54d8",
-    "episode_title": "The Last 12 Weeks - Ep. 5",
-    "release_date": "2026-06-18 10:20:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1e91c884-35d6-4747-9b03-191454f731b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1e91c884-35d6-4747-9b03-191454f731b8&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "e0920ec2-e5e6-4d1f-af8b-b8e114220c96",
-    "episode_title": "The Last 12 Weeks - Ep. 4",
-    "release_date": "2026-06-18 10:15:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fd032538-94da-4389-be55-89f83d02a9b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fd032538-94da-4389-be55-89f83d02a9b3&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "3ca0d01b-018b-4d74-8590-2c8fce868ead",
-    "episode_title": "The Last 12 Weeks - Ep. 3",
-    "release_date": "2026-06-18 10:10:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/7b0fab6d-c1fd-4b52-b35c-244e87973642/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=7b0fab6d-c1fd-4b52-b35c-244e87973642&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "1d286c03-dff4-4d69-afaa-631314f0e225",
-    "episode_title": "The Last 12 Weeks - Ep. 2",
-    "release_date": "2026-06-18 10:05:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/397329da-7a3d-476a-8135-17629ac88ff8/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=397329da-7a3d-476a-8135-17629ac88ff8&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "4699fc7f-5b03-4813-a08f-f30718974b0f",
-    "episode_title": "The Last 12 Weeks - Ep. 1",
-    "release_date": "2026-06-18 10:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/4990f699-46ab-48fa-b4fc-b8f3c4d3e165/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=4990f699-46ab-48fa-b4fc-b8f3c4d3e165&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "393f5ebc-30cc-4d8c-b3ee-d997ab3e3660",
     "episode_title": "The World Is (Still) Drowning in Sludge",
     "release_date": "2026-06-24 00:00:00",
@@ -47,6 +12,13 @@
     "release_date": "2026-06-19 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46170 at https://www.thisamericanlife.org",
+    "episode_title": "889: There\u2019s Something About Hail Mary",
+    "release_date": "2026-06-21 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "6a31b6359b6fd8dcabcedf1f",
@@ -84,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "46170 at https://www.thisamericanlife.org",
-    "episode_title": "889: There\u2019s Something About Hail Mary",
-    "release_date": "2026-06-21 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "43f179b1-4f92-40bd-970a-92304623a98b",
     "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "release_date": "2026-06-24 07:00:00",
@@ -103,6 +68,27 @@
     "release_date": "2026-06-19 21:30:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
+    "episode_title": "Stepping Out of the Shadows",
+    "release_date": "2026-06-22 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "dbdeb18f-d3fa-4fdd-aa62-6cbc6d63e24c",
+    "episode_title": "The Most Exciting Change America Has Ever Seen",
+    "release_date": "2026-06-23 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "0478d505-7347-4a40-8c91-f2a93608b7df",
+    "episode_title": "100 Objects #5: Blue Back Speller",
+    "release_date": "2026-06-19 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "231bd648-6f6d-11f1-a048-3b077aa29ad3",
@@ -133,25 +119,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
-    "episode_title": "Stepping Out of the Shadows",
-    "release_date": "2026-06-22 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "dbdeb18f-d3fa-4fdd-aa62-6cbc6d63e24c",
-    "episode_title": "The Most Exciting Change America Has Ever Seen",
-    "release_date": "2026-06-23 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "0478d505-7347-4a40-8c91-f2a93608b7df",
-    "episode_title": "100 Objects #5: Blue Back Speller",
-    "release_date": "2026-06-19 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "2c856d86-20db-4310-b607-b473015a2dc1",
+    "episode_title": "Freetown Christiania",
+    "release_date": "2026-06-25 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2c856d86-20db-4310-b607-b473015a2dc1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "f77a15e2-fd59-41b2-93ae-b47200dd4c96",
@@ -182,11 +154,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "0bd416e7-e6f0-4bc7-97b4-b46e00fde7db",
-    "episode_title": "The Stuff You Should Know Doin\u2019 Science Playlist: How Global Warming Works",
-    "release_date": "2026-06-19 18:05:03",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bd416e7-e6f0-4bc7-97b4-b46e00fde7db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/o6J6DwehDd7amk7jxbrnVwv_a1tZbI6kHNEjfIBCVXE",
+    "episode_title": "Advice Line with Susan Griffin-Black of EO Products",
+    "release_date": "2026-06-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/jlSeNEsT4p7HW8kfoUVvU50USn8GmU-wxhZoxwdYdg8",
@@ -196,31 +168,45 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Pzk4jBulXL5HSniwOmGt-C9bOxMLMdjUsFX0Zkilc2o",
-    "episode_title": "Advice Line with Shazi Visram of Happy Family Organics",
-    "release_date": "2026-06-18 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/xjVpByn0MOluByJ_ACkwVaNm5mfIE3j7tNuvnL2gjJ4",
+    "episode_title": "Susie Wolff (Managing Director of F1 Academy)",
+    "release_date": "2026-06-24 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "b330848f-f7ca-491e-9745-b46700fd548e",
-    "episode_title": "Reconstruction: The Unfinished Promise",
-    "release_date": "2026-06-18 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b330848f-f7ca-491e-9745-b46700fd548e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "guid": "gid://art19-episode-locator/V0/yxtHcNm2NATi4iFtrNQE5vuxcnMDTlIb9dxYb3VSq7Y",
+    "episode_title": "Steve Aoki",
+    "release_date": "2026-06-22 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/1AzCItWbghFCoy2XaiawWhnJcLyCoszrW65CFKebRIY",
+    "episode_title": "Armchair Anonymous: Crazy Neighbors II",
+    "release_date": "2026-06-19 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f1462c31-89ae-4f88-87de-b9e7dfb064db.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "144891ef-ddcd-4ab5-b77d-b474000be013",
+    "episode_title": "Frankenfood | The Mistakes Series",
+    "release_date": "2026-06-25 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "ab39ba07-e47c-4007-ae68-e2a304d7875f",
+    "episode_title": "Conan and Sona in Morocco",
+    "release_date": "2026-06-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "474f7c59-5285-46e4-bf34-eb483bfda7e8",
     "episode_title": "Josh Groban",
     "release_date": "2026-06-22 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "bdc2e00e-d4ba-49cc-b62a-47f6c721c7f8",
-    "episode_title": "The Bonering Conan",
-    "release_date": "2026-06-18 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/12b82d92-27d8-4592-a8ca-a5589bd70ebd/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=12b82d92-27d8-4592-a8ca-a5589bd70ebd&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
@@ -243,26 +229,5 @@
     "release_date": "2026-06-22 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/xjVpByn0MOluByJ_ACkwVaNm5mfIE3j7tNuvnL2gjJ4",
-    "episode_title": "Susie Wolff (Managing Director of F1 Academy)",
-    "release_date": "2026-06-24 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/yxtHcNm2NATi4iFtrNQE5vuxcnMDTlIb9dxYb3VSq7Y",
-    "episode_title": "Steve Aoki",
-    "release_date": "2026-06-22 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/1AzCItWbghFCoy2XaiawWhnJcLyCoszrW65CFKebRIY",
-    "episode_title": "Armchair Anonymous: Crazy Neighbors II",
-    "release_date": "2026-06-19 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f1462c31-89ae-4f88-87de-b9e7dfb064db.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]
