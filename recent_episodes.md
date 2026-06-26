@@ -1,36 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-25 14:05:55
-
-## Freakonomics Radio
-
-### The World Is (Still) Drowning in Sludge
-
-**Released:** 2026-06-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
-
----
-
-### 678. Who Gets to Choose a “Good Death”?
-
-**Released:** 2026-06-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 889: There’s Something About Hail Mary
-
-**Released:** 2026-06-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
-
----
+Last updated: 2026-06-26 02:34:01
 
 ## TED Talks Daily
+
+### Why I’m obsessed with health wearables (and you should be too) | Michael Snyder | Your Body on Tech
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b65e31f6783268f19f8a/media.mp3)
+
+---
 
 ### Your vaccine questions deserve real answers | Kizzmekia Corbett | Your Body on Tech
 
@@ -64,11 +44,21 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
-### Why overtourism could ruin your next vacation | Suresh Subudhi
+## Freakonomics Radio
 
-**Released:** 2026-06-20 15:00:00
+### The World Is (Still) Drowning in Sludge
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302cd40592e82545b81b76/media.mp3)
+**Released:** 2026-06-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+
+---
+
+### 678. Who Gets to Choose a “Good Death”?
+
+**Released:** 2026-06-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ab4ad161-99aa-4d3c-978c-1543950326a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ab4ad161-99aa-4d3c-978c-1543950326a0&feed=Y8lFbOT4)
 
 ---
 
@@ -100,24 +90,6 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
-## 99% Invisible
-
-### The Most Exciting Change America Has Ever Seen
-
-**Released:** 2026-06-23 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO)
-
----
-
-### 100 Objects #5: Blue Back Speller
-
-**Released:** 2026-06-19 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2518 - Tim Dillon
@@ -144,11 +116,31 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
-### #2516 - Rowan Jacobsen
+## 99% Invisible
 
-**Released:** 2026-06-18 17:00:00
+### The Most Exciting Change America Has Ever Seen
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3995715859.mp3)
+**Released:** 2026-06-23 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #5: Blue Back Speller
+
+**Released:** 2026-06-19 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5e3175e5-7daf-4f91-9660-d6e72577b0d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5e3175e5-7daf-4f91-9660-d6e72577b0d3&feed=BqbsxVfO)
+
+---
+
+## This American Life
+
+### 889: There’s Something About Hail Mary
+
+**Released:** 2026-06-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
 
 ---
 
@@ -212,6 +204,16 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
+## Revisionist History
+
+### Frankenfood | The Mistakes Series
+
+**Released:** 2026-06-25 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Armchair Expert
 
 ### Susie Wolff (Managing Director of F1 Academy)
@@ -238,13 +240,21 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
-## Revisionist History
+## The Moth
 
-### Frankenfood | The Mistakes Series
+### American Dreams: The Moth Radio Hour
 
-**Released:** 2026-06-25 04:01:00
+**Released:** 2026-06-23 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
+
+---
+
+### Presenting Office Ladies: Work Friendship
+
+**Released:** 2026-06-19 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
 
 ---
 
@@ -266,24 +276,6 @@ Last updated: 2026-06-25 14:05:55
 
 ---
 
-## The Moth
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
-### Presenting Office Ladies: Work Friendship
-
-**Released:** 2026-06-19 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6401562198.mp3?updated=1781034641)
-
----
-
 ## SmartLess 
 
 ### "Amy Adams"
@@ -291,6 +283,16 @@ Last updated: 2026-06-25 14:05:55
 **Released:** 2026-06-22 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
