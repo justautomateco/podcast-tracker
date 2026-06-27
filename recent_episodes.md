@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-26 14:05:22
+Last updated: 2026-06-27 02:27:23
 
 ## Freakonomics Radio
 
@@ -20,7 +20,77 @@ Last updated: 2026-06-26 14:05:22
 
 ---
 
+## This American Life
+
+### 889: There’s Something About Hail Mary
+
+**Released:** 2026-06-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2519 - Scott Eastwood
+
+**Released:** 2026-06-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2167530910.mp3)
+
+---
+
+### #2518 - Tim Dillon
+
+**Released:** 2026-06-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2211636736.mp3)
+
+---
+
+### #2517 - Taylor Sheridan
+
+**Released:** 2026-06-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
+
+---
+
+### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
+
+**Released:** 2026-06-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
+
+---
+
+## Planet Money
+
+### We almost had a smartphone in the 90s. Why did it fail?
+
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
+
+---
+
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**Released:** 2026-06-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
+
+---
+
 ## TED Talks Daily
+
+### Can Ozempic end addiction? | Dhruv Khullar | Your Body on Tech
+
+**Released:** 2026-06-26 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b67b780d0f7579d2d156/media.mp3)
+
+---
 
 ### Why I’m obsessed with health wearables (and you should be too) | Michael Snyder | Your Body on Tech
 
@@ -51,68 +121,6 @@ Last updated: 2026-06-26 14:05:22
 **Released:** 2026-06-22 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b5fc780d0f7579d26f79/media.mp3)
-
----
-
-### Why living online is leaving us exhausted — and what actually helps (with Manoush Zomorodi and Elise Hu)
-
-**Released:** 2026-06-21 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a302cf3cd02369494031dc4/media.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2518 - Tim Dillon
-
-**Released:** 2026-06-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2211636736.mp3)
-
----
-
-### #2517 - Taylor Sheridan
-
-**Released:** 2026-06-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
-
----
-
-### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
-
-**Released:** 2026-06-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
-
----
-
-## This American Life
-
-### 889: There’s Something About Hail Mary
-
-**Released:** 2026-06-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
-
----
-
-## Planet Money
-
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**Released:** 2026-06-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
-
----
-
-### The real horror of ‘Alien’ and how it explains why we’re not paid enough
-
-**Released:** 2026-06-19 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607)
 
 ---
 
@@ -160,14 +168,6 @@ Last updated: 2026-06-26 14:05:22
 
 ---
 
-### The Stuff You Should Know Doin’ Science Playlist: How Chaos Theory Changed the Universe
-
-**Released:** 2026-06-19 18:30:29
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ad871ec1-c0c8-400e-9d17-b46e00fde7dc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #6: "Sharpened Screwdriver"
@@ -204,24 +204,6 @@ Last updated: 2026-06-26 14:05:22
 
 ---
 
-## The Moth
-
-### Soccer Stories with Tierna Davidson: The Moth Podcast
-
-**Released:** 2026-06-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
-
----
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
 ## Revisionist History
 
 ### Frankenfood | The Mistakes Series
@@ -229,6 +211,16 @@ Last updated: 2026-06-26 14:05:22
 **Released:** 2026-06-25 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -247,6 +239,24 @@ Last updated: 2026-06-26 14:05:22
 **Released:** 2026-06-22 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Soccer Stories with Tierna Davidson: The Moth Podcast
+
+**Released:** 2026-06-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
+
+---
+
+### American Dreams: The Moth Radio Hour
+
+**Released:** 2026-06-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
 
 ---
 
@@ -283,16 +293,6 @@ Last updated: 2026-06-26 14:05:22
 **Released:** 2026-06-22 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
-
-**Released:** 2026-06-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
