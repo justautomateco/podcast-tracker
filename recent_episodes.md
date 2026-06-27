@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-27 02:27:23
+Last updated: 2026-06-27 13:13:40
 
 ## Freakonomics Radio
 
@@ -20,50 +20,6 @@ Last updated: 2026-06-27 02:27:23
 
 ---
 
-## This American Life
-
-### 889: There’s Something About Hail Mary
-
-**Released:** 2026-06-21 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
-
----
-
-## The Joe Rogan Experience
-
-### #2519 - Scott Eastwood
-
-**Released:** 2026-06-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2167530910.mp3)
-
----
-
-### #2518 - Tim Dillon
-
-**Released:** 2026-06-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2211636736.mp3)
-
----
-
-### #2517 - Taylor Sheridan
-
-**Released:** 2026-06-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
-
----
-
-### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
-
-**Released:** 2026-06-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
-
----
-
 ## Planet Money
 
 ### We almost had a smartphone in the 90s. Why did it fail?
@@ -79,6 +35,16 @@ Last updated: 2026-06-27 02:27:23
 **Released:** 2026-06-24 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
+
+---
+
+## This American Life
+
+### 889: There’s Something About Hail Mary
+
+**Released:** 2026-06-21 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
 
 ---
 
@@ -124,6 +90,40 @@ Last updated: 2026-06-27 02:27:23
 
 ---
 
+## The Joe Rogan Experience
+
+### #2519 - Scott Eastwood
+
+**Released:** 2026-06-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2167530910.mp3)
+
+---
+
+### #2518 - Tim Dillon
+
+**Released:** 2026-06-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2211636736.mp3)
+
+---
+
+### #2517 - Taylor Sheridan
+
+**Released:** 2026-06-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
+
+---
+
+### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
+
+**Released:** 2026-06-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
+
+---
+
 ## Hidden Brain
 
 ### Stepping Out of the Shadows
@@ -135,6 +135,14 @@ Last updated: 2026-06-27 02:27:23
 ---
 
 ## Stuff You Should Know
+
+### Selects: How Enron Fooled the World
+
+**Released:** 2026-06-27 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/259bd46e-ed27-4970-bc4f-b4730143518b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Freetown Christiania
 
@@ -160,14 +168,6 @@ Last updated: 2026-06-27 02:27:23
 
 ---
 
-### Selects: Birthmarks: Probably Not the Mark of the Devil
-
-**Released:** 2026-06-20 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/60e8b1a4-1883-452e-bff7-b46b01143f74/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #6: "Sharpened Screwdriver"
@@ -186,6 +186,16 @@ Last updated: 2026-06-27 02:27:23
 
 ---
 
+## Revisionist History
+
+### Frankenfood | The Mistakes Series
+
+**Released:** 2026-06-25 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Susan Griffin-Black of EO Products
@@ -201,72 +211,6 @@ Last updated: 2026-06-27 02:27:23
 **Released:** 2026-06-22 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Frankenfood | The Mistakes Series
-
-**Released:** 2026-06-25 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
-
-**Released:** 2026-06-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan and Sona in Morocco
-
-**Released:** 2026-06-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
-
----
-
-### Josh Groban
-
-**Released:** 2026-06-22 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Soccer Stories with Tierna Davidson: The Moth Podcast
-
-**Released:** 2026-06-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
-
----
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
-## SmartLess 
-
-### "Amy Adams"
-
-**Released:** 2026-06-22 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +237,62 @@ Last updated: 2026-06-27 02:27:23
 **Released:** 2026-06-22 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan and Sona in Morocco
+
+**Released:** 2026-06-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+
+---
+
+### Josh Groban
+
+**Released:** 2026-06-22 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Amy Adams"
+
+**Released:** 2026-06-22 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Soccer Stories with Tierna Davidson: The Moth Podcast
+
+**Released:** 2026-06-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
+
+---
+
+### American Dreams: The Moth Radio Hour
+
+**Released:** 2026-06-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
+
+---
+
+## The Tim Ferriss Show
+
+### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

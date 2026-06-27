@@ -14,41 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46170 at https://www.thisamericanlife.org",
-    "episode_title": "889: There\u2019s Something About Hail Mary",
-    "release_date": "2026-06-21 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "f613449c-70e8-11f1-8b42-c7b7016e25ae",
-    "episode_title": "#2519 - Scott Eastwood",
-    "release_date": "2026-06-26 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2167530910.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "231bd648-6f6d-11f1-a048-3b077aa29ad3",
-    "episode_title": "#2518 - Tim Dillon",
-    "release_date": "2026-06-24 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2211636736.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "1e41120c-6e99-11f1-ba79-179f81c1fdeb",
-    "episode_title": "#2517 - Taylor Sheridan",
-    "release_date": "2026-06-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1253733274.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "c02c1d02-6c3a-11f1-9abf-470c52089759",
-    "episode_title": "JRE MMA Show #181 with Justin Gaethje & Trevor Wittman",
-    "release_date": "2026-06-20 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1314948676.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
     "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
     "release_date": "2026-06-26 21:30:00",
@@ -61,6 +26,13 @@
     "release_date": "2026-06-24 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46170 at https://www.thisamericanlife.org",
+    "episode_title": "889: There\u2019s Something About Hail Mary",
+    "release_date": "2026-06-21 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "6a31b67b780d0f7579d2d156",
@@ -98,11 +70,46 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "f613449c-70e8-11f1-8b42-c7b7016e25ae",
+    "episode_title": "#2519 - Scott Eastwood",
+    "release_date": "2026-06-26 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2167530910.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "231bd648-6f6d-11f1-a048-3b077aa29ad3",
+    "episode_title": "#2518 - Tim Dillon",
+    "release_date": "2026-06-24 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2211636736.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "1e41120c-6e99-11f1-ba79-179f81c1fdeb",
+    "episode_title": "#2517 - Taylor Sheridan",
+    "release_date": "2026-06-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1253733274.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "c02c1d02-6c3a-11f1-9abf-470c52089759",
+    "episode_title": "JRE MMA Show #181 with Justin Gaethje & Trevor Wittman",
+    "release_date": "2026-06-20 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1314948676.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
     "episode_title": "Stepping Out of the Shadows",
     "release_date": "2026-06-22 19:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "259bd46e-ed27-4970-bc4f-b4730143518b",
+    "episode_title": "Selects: How Enron Fooled the World",
+    "release_date": "2026-06-27 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/259bd46e-ed27-4970-bc4f-b4730143518b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "2c856d86-20db-4310-b607-b473015a2dc1",
@@ -126,13 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "60e8b1a4-1883-452e-bff7-b46b01143f74",
-    "episode_title": "Selects: Birthmarks: Probably Not the Mark of the Devil",
-    "release_date": "2026-06-20 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/60e8b1a4-1883-452e-bff7-b46b01143f74/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "c0bcde74-fbb7-402a-8f87-f0636fe8b934",
     "episode_title": "100 Objects #6: \"Sharpened Screwdriver\"",
     "release_date": "2026-06-26 07:00:00",
@@ -147,6 +147,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "144891ef-ddcd-4ab5-b77d-b474000be013",
+    "episode_title": "Frankenfood | The Mistakes Series",
+    "release_date": "2026-06-25 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/o6J6DwehDd7amk7jxbrnVwv_a1tZbI6kHNEjfIBCVXE",
     "episode_title": "Advice Line with Susan Griffin-Black of EO Products",
     "release_date": "2026-06-25 07:10:00",
@@ -159,55 +166,6 @@
     "release_date": "2026-06-22 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "144891ef-ddcd-4ab5-b77d-b474000be013",
-    "episode_title": "Frankenfood | The Mistakes Series",
-    "release_date": "2026-06-25 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY",
-    "episode_title": "#871: The \u201cDivine Leaf\u201d with 8,000+ Years of Use \u2014 Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis",
-    "release_date": "2026-06-25 15:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "ab39ba07-e47c-4007-ae68-e2a304d7875f",
-    "episode_title": "Conan and Sona in Morocco",
-    "release_date": "2026-06-25 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "474f7c59-5285-46e4-bf34-eb483bfda7e8",
-    "episode_title": "Josh Groban",
-    "release_date": "2026-06-22 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "7186b584-89d4-11f0-b13f-d7fafd0461d5",
-    "episode_title": "Soccer Stories with Tierna Davidson: The Moth Podcast",
-    "release_date": "2026-06-26 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "70ea532e-89d4-11f0-b13f-7f89ab36880e",
-    "episode_title": "American Dreams: The Moth Radio Hour",
-    "release_date": "2026-06-23 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "eb3c6be8-3c56-4322-96a8-cc04ca167478",
-    "episode_title": "\"Amy Adams\"",
-    "release_date": "2026-06-22 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/pc-8PR5vTkb7CNEizkil9HLuUFu9EDX-lJSNFjNt9gw",
@@ -229,5 +187,47 @@
     "release_date": "2026-06-22 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/348ca9c5-fceb-418f-9b22-17316d00f47a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "ab39ba07-e47c-4007-ae68-e2a304d7875f",
+    "episode_title": "Conan and Sona in Morocco",
+    "release_date": "2026-06-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "474f7c59-5285-46e4-bf34-eb483bfda7e8",
+    "episode_title": "Josh Groban",
+    "release_date": "2026-06-22 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "eb3c6be8-3c56-4322-96a8-cc04ca167478",
+    "episode_title": "\"Amy Adams\"",
+    "release_date": "2026-06-22 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "7186b584-89d4-11f0-b13f-d7fafd0461d5",
+    "episode_title": "Soccer Stories with Tierna Davidson: The Moth Podcast",
+    "release_date": "2026-06-26 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "70ea532e-89d4-11f0-b13f-7f89ab36880e",
+    "episode_title": "American Dreams: The Moth Radio Hour",
+    "release_date": "2026-06-23 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY",
+    "episode_title": "#871: The \u201cDivine Leaf\u201d with 8,000+ Years of Use \u2014 Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis",
+    "release_date": "2026-06-25 15:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
