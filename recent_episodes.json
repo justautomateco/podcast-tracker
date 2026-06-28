@@ -14,25 +14,18 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
-    "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
-    "release_date": "2026-06-26 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "43f179b1-4f92-40bd-970a-92304623a98b",
-    "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
-    "release_date": "2026-06-24 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "46170 at https://www.thisamericanlife.org",
     "episode_title": "889: There\u2019s Something About Hail Mary",
     "release_date": "2026-06-21 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a31b69c780d0f7579d2d7c2",
+    "episode_title": "The case for making art in a crisis | Yiyun Kang | Your Body on Tech",
+    "release_date": "2026-06-27 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b69c780d0f7579d2d7c2/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a31b67b780d0f7579d2d156",
@@ -63,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a31b5fc780d0f7579d26f79",
-    "episode_title": "What sitting all day does to your brain and body | Keith Diaz | Your Body on Tech",
-    "release_date": "2026-06-22 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b5fc780d0f7579d26f79/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "f613449c-70e8-11f1-8b42-c7b7016e25ae",
     "episode_title": "#2519 - Scott Eastwood",
     "release_date": "2026-06-26 17:00:00",
@@ -91,18 +77,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "c02c1d02-6c3a-11f1-9abf-470c52089759",
-    "episode_title": "JRE MMA Show #181 with Justin Gaethje & Trevor Wittman",
-    "release_date": "2026-06-20 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1314948676.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
+    "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
+    "release_date": "2026-06-26 21:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038",
+    "podcast_name": "Planet Money"
   },
   {
-    "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
-    "episode_title": "Stepping Out of the Shadows",
-    "release_date": "2026-06-22 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "43f179b1-4f92-40bd-970a-92304623a98b",
+    "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+    "release_date": "2026-06-24 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "259bd46e-ed27-4970-bc4f-b4730143518b",
@@ -131,6 +117,13 @@
     "release_date": "2026-06-23 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da5d3c6e-e9fb-44ca-8b47-b46a00fefb69/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "128c08bf-747f-4a54-a605-075f46553d4a",
+    "episode_title": "Stepping Out of the Shadows",
+    "release_date": "2026-06-22 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "c0bcde74-fbb7-402a-8f87-f0636fe8b934",
@@ -166,6 +159,20 @@
     "release_date": "2026-06-22 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "7186b584-89d4-11f0-b13f-d7fafd0461d5",
+    "episode_title": "Soccer Stories with Tierna Davidson: The Moth Podcast",
+    "release_date": "2026-06-26 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "70ea532e-89d4-11f0-b13f-7f89ab36880e",
+    "episode_title": "American Dreams: The Moth Radio Hour",
+    "release_date": "2026-06-23 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/pc-8PR5vTkb7CNEizkil9HLuUFu9EDX-lJSNFjNt9gw",
@@ -208,20 +215,6 @@
     "release_date": "2026-06-22 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "7186b584-89d4-11f0-b13f-d7fafd0461d5",
-    "episode_title": "Soccer Stories with Tierna Davidson: The Moth Podcast",
-    "release_date": "2026-06-26 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "70ea532e-89d4-11f0-b13f-7f89ab36880e",
-    "episode_title": "American Dreams: The Moth Radio Hour",
-    "release_date": "2026-06-23 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY",

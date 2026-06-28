@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-27 13:13:40
+Last updated: 2026-06-28 02:39:35
 
 ## Freakonomics Radio
 
@@ -20,24 +20,6 @@ Last updated: 2026-06-27 13:13:40
 
 ---
 
-## Planet Money
-
-### We almost had a smartphone in the 90s. Why did it fail?
-
-**Released:** 2026-06-26 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
-
----
-
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**Released:** 2026-06-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
-
----
-
 ## This American Life
 
 ### 889: There’s Something About Hail Mary
@@ -49,6 +31,14 @@ Last updated: 2026-06-27 13:13:40
 ---
 
 ## TED Talks Daily
+
+### The case for making art in a crisis | Yiyun Kang | Your Body on Tech
+
+**Released:** 2026-06-27 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b69c780d0f7579d2d7c2/media.mp3)
+
+---
 
 ### Can Ozempic end addiction? | Dhruv Khullar | Your Body on Tech
 
@@ -82,14 +72,6 @@ Last updated: 2026-06-27 13:13:40
 
 ---
 
-### What sitting all day does to your brain and body | Keith Diaz | Your Body on Tech
-
-**Released:** 2026-06-22 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b5fc780d0f7579d26f79/media.mp3)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2519 - Scott Eastwood
@@ -116,21 +98,21 @@ Last updated: 2026-06-27 13:13:40
 
 ---
 
-### JRE MMA Show #181 with Justin Gaethje & Trevor Wittman
+## Planet Money
 
-**Released:** 2026-06-20 17:00:00
+### We almost had a smartphone in the 90s. Why did it fail?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1314948676.mp3)
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
 
 ---
 
-## Hidden Brain
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
 
-### Stepping Out of the Shadows
+**Released:** 2026-06-24 07:00:00
 
-**Released:** 2026-06-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
 
 ---
 
@@ -165,6 +147,16 @@ Last updated: 2026-06-27 13:13:40
 **Released:** 2026-06-23 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da5d3c6e-e9fb-44ca-8b47-b46a00fefb69/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Stepping Out of the Shadows
+
+**Released:** 2026-06-22 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
 
 ---
 
@@ -211,6 +203,24 @@ Last updated: 2026-06-27 13:13:40
 **Released:** 2026-06-22 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Soccer Stories with Tierna Davidson: The Moth Podcast
+
+**Released:** 2026-06-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
+
+---
+
+### American Dreams: The Moth Radio Hour
+
+**Released:** 2026-06-23 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
 
 ---
 
@@ -265,24 +275,6 @@ Last updated: 2026-06-27 13:13:40
 **Released:** 2026-06-22 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Soccer Stories with Tierna Davidson: The Moth Podcast
-
-**Released:** 2026-06-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
-
----
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
 
 ---
 
