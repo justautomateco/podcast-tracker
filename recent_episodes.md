@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-28 02:39:35
+Last updated: 2026-06-28 13:19:13
 
 ## Freakonomics Radio
 
@@ -31,6 +31,14 @@ Last updated: 2026-06-28 02:39:35
 ---
 
 ## TED Talks Daily
+
+### The unexpected wonders of my son's short life | James G. Robinson | Your Body on Tech
+
+**Released:** 2026-06-28 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b6b8101389aa3d678c4d/media.mp3)
+
+---
 
 ### The case for making art in a crisis | Yiyun Kang | Your Body on Tech
 
@@ -64,11 +72,21 @@ Last updated: 2026-06-28 02:39:35
 
 ---
 
-### What we're getting wrong about teens and tech | Candice Odgers | Your Body on Tech
+## Planet Money
 
-**Released:** 2026-06-23 15:00:00
+### We almost had a smartphone in the 90s. Why did it fail?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b61d101389aa3d671af3/media.mp3)
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
+
+---
+
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**Released:** 2026-06-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
 
 ---
 
@@ -98,21 +116,31 @@ Last updated: 2026-06-28 02:39:35
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### We almost had a smartphone in the 90s. Why did it fail?
+### Stepping Out of the Shadows
 
-**Released:** 2026-06-26 21:30:00
+**Released:** 2026-06-22 19:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
 
 ---
 
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+## 99% Invisible
 
-**Released:** 2026-06-24 07:00:00
+### 100 Objects #6: "Sharpened Screwdriver"
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
+**Released:** 2026-06-26 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
+
+---
+
+### The Most Exciting Change America Has Ever Seen
+
+**Released:** 2026-06-23 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO)
 
 ---
 
@@ -150,44 +178,6 @@ Last updated: 2026-06-28 02:39:35
 
 ---
 
-## Hidden Brain
-
-### Stepping Out of the Shadows
-
-**Released:** 2026-06-22 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #6: "Sharpened Screwdriver"
-
-**Released:** 2026-06-26 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
-
----
-
-### The Most Exciting Change America Has Ever Seen
-
-**Released:** 2026-06-23 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Frankenfood | The Mistakes Series
-
-**Released:** 2026-06-25 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Susan Griffin-Black of EO Products
@@ -206,6 +196,26 @@ Last updated: 2026-06-28 02:39:35
 
 ---
 
+## Revisionist History
+
+### Frankenfood | The Mistakes Series
+
+**Released:** 2026-06-25 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/144891ef-ddcd-4ab5-b77d-b474000be013/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Soccer Stories with Tierna Davidson: The Moth Podcast
@@ -221,6 +231,24 @@ Last updated: 2026-06-28 02:39:35
 **Released:** 2026-06-23 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan and Sona in Morocco
+
+**Released:** 2026-06-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+
+---
+
+### Josh Groban
+
+**Released:** 2026-06-22 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
 
 ---
 
@@ -250,24 +278,6 @@ Last updated: 2026-06-28 02:39:35
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Conan and Sona in Morocco
-
-**Released:** 2026-06-25 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
-
----
-
-### Josh Groban
-
-**Released:** 2026-06-22 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d9da9d4a-c77f-4c6d-9f69-bc373bfdbd76&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Amy Adams"
@@ -275,16 +285,6 @@ Last updated: 2026-06-28 02:39:35
 **Released:** 2026-06-22 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a5052bc6-df38-4856-aa3e-4c170c0a67e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a5052bc6-df38-4856-aa3e-4c170c0a67e6&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
-
-**Released:** 2026-06-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
