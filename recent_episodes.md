@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-30 02:34:31
+Last updated: 2026-06-30 13:58:41
+
+## Freakonomics Radio
+
+### 679. Why Does Vanderbilt Keep Winning?
+
+**Released:** 2026-06-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c7cf3aee-3abd-4def-83bf-af6626170ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c7cf3aee-3abd-4def-83bf-af6626170ac8&feed=Y8lFbOT4)
+
+---
+
+### The World Is (Still) Drowning in Sludge
+
+**Released:** 2026-06-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -41,42 +59,6 @@ Last updated: 2026-06-30 02:34:31
 **Released:** 2026-06-25 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b65e31f6783268f19f8a/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 679. Why Does Vanderbilt Keep Winning?
-
-**Released:** 2026-06-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c7cf3aee-3abd-4def-83bf-af6626170ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c7cf3aee-3abd-4def-83bf-af6626170ac8&feed=Y8lFbOT4)
-
----
-
-### The World Is (Still) Drowning in Sludge
-
-**Released:** 2026-06-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### We almost had a smartphone in the 90s. Why did it fail?
-
-**Released:** 2026-06-26 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
-
----
-
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**Released:** 2026-06-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
 
 ---
 
@@ -126,7 +108,51 @@ Last updated: 2026-06-30 02:34:31
 
 ---
 
+## Planet Money
+
+### We almost had a smartphone in the 90s. Why did it fail?
+
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
+
+---
+
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**Released:** 2026-06-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
+
+---
+
+## 99% Invisible
+
+### Transatlantic Fiber-Optic Expialidocious
+
+**Released:** 2026-06-30 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #6: "Sharpened Screwdriver"
+
+**Released:** 2026-06-26 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### The Hillsborough Disaster
+
+**Released:** 2026-06-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d3c0041-9b74-41e3-af56-b47400f93ab3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Enron Fooled the World
 
@@ -152,29 +178,21 @@ Last updated: 2026-06-30 02:34:31
 
 ---
 
-### Some Interesting Curses
+## How I Built This
 
-**Released:** 2026-06-23 09:00:00
+### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da5d3c6e-e9fb-44ca-8b47-b46a00fefb69/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-06-29 07:10:00
 
----
-
-## 99% Invisible
-
-### 100 Objects #6: "Sharpened Screwdriver"
-
-**Released:** 2026-06-26 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Most Exciting Change America Has Ever Seen
+### Advice Line with Susan Griffin-Black of EO Products
 
-**Released:** 2026-06-23 08:00:00
+**Released:** 2026-06-25 07:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5995ced3-6f18-40dc-b4b0-c77bef07d9ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5995ced3-6f18-40dc-b4b0-c77bef07d9ee&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,24 +224,6 @@ Last updated: 2026-06-30 02:34:31
 
 ---
 
-## How I Built This
-
-### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
-
-**Released:** 2026-06-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Susan Griffin-Black of EO Products
-
-**Released:** 2026-06-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Eric Andre Returns Again
@@ -239,6 +239,34 @@ Last updated: 2026-06-30 02:34:31
 **Released:** 2026-06-25 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
+
+**Released:** 2026-06-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
+
+---
+
+### Soccer Stories with Tierna Davidson: The Moth Podcast
+
+**Released:** 2026-06-26 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
+
+---
+
+## SmartLess 
+
+### "Emma Thompson"
+
+**Released:** 2026-06-29 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
 
 ---
 
@@ -265,34 +293,6 @@ Last updated: 2026-06-30 02:34:31
 **Released:** 2026-06-24 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Soccer Stories with Tierna Davidson: The Moth Podcast
-
-**Released:** 2026-06-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
-
----
-
-### American Dreams: The Moth Radio Hour
-
-**Released:** 2026-06-23 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9381915887.mp3)
-
----
-
-## SmartLess 
-
-### "Emma Thompson"
-
-**Released:** 2026-06-29 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
 
 ---
 
