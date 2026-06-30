@@ -1,38 +1,10 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-29 15:31:54
-
-## Freakonomics Radio
-
-### 679. Why Does Vanderbilt Keep Winning?
-
-**Released:** 2026-06-26 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c7cf3aee-3abd-4def-83bf-af6626170ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c7cf3aee-3abd-4def-83bf-af6626170ac8&feed=Y8lFbOT4)
-
----
-
-### The World Is (Still) Drowning in Sludge
-
-**Released:** 2026-06-24 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 128: Four Corners
-
-**Released:** 2026-06-28 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache)
-
----
+Last updated: 2026-06-30 02:34:31
 
 ## TED Talks Daily
 
-### All you need is an orchestra — and some magic | Jacob Collier and VSO School of Music Orchestra
+### You know this song (but the orchestra doesn't) | Jacob Collier and VSO School of Music Orchestra
 
 **Released:** 2026-06-29 15:00:00
 
@@ -72,6 +44,52 @@ Last updated: 2026-06-29 15:31:54
 
 ---
 
+## Freakonomics Radio
+
+### 679. Why Does Vanderbilt Keep Winning?
+
+**Released:** 2026-06-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c7cf3aee-3abd-4def-83bf-af6626170ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c7cf3aee-3abd-4def-83bf-af6626170ac8&feed=Y8lFbOT4)
+
+---
+
+### The World Is (Still) Drowning in Sludge
+
+**Released:** 2026-06-24 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### We almost had a smartphone in the 90s. Why did it fail?
+
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
+
+---
+
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**Released:** 2026-06-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
+
+---
+
+## This American Life
+
+### 128: Four Corners
+
+**Released:** 2026-06-28 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2519 - Scott Eastwood
@@ -98,31 +116,13 @@ Last updated: 2026-06-29 15:31:54
 
 ---
 
-## Planet Money
-
-### We almost had a smartphone in the 90s. Why did it fail?
-
-**Released:** 2026-06-26 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
-
----
-
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**Released:** 2026-06-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
-
----
-
 ## Hidden Brain
 
-### Stepping Out of the Shadows
+### Waking Up Your Spiritual Brain: Part 1
 
-**Released:** 2026-06-22 19:00:00
+**Released:** 2026-06-29 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9d4a3ce2-69f3-4c3f-9a3a-e0ca7bc61134&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf)
 
 ---
 
@@ -188,24 +188,6 @@ Last updated: 2026-06-29 15:31:54
 
 ---
 
-## How I Built This
-
-### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
-
-**Released:** 2026-06-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Susan Griffin-Black of EO Products
-
-**Released:** 2026-06-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Coming Soon: The Staten Island Problem
@@ -224,6 +206,24 @@ Last updated: 2026-06-29 15:31:54
 
 ---
 
+## How I Built This
+
+### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
+
+**Released:** 2026-06-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Susan Griffin-Black of EO Products
+
+**Released:** 2026-06-25 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Eric Andre Returns Again
@@ -239,6 +239,32 @@ Last updated: 2026-06-29 15:31:54
 **Released:** 2026-06-25 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Olivia Wilde
+
+**Released:** 2026-06-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Foreign Object in Butt III
+
+**Released:** 2026-06-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6403f2e2-5433-4153-a939-0cd878e8b296.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Susie Wolff (Managing Director of F1 Academy)
+
+**Released:** 2026-06-24 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,32 +293,6 @@ Last updated: 2026-06-29 15:31:54
 **Released:** 2026-06-29 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Olivia Wilde
-
-**Released:** 2026-06-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Foreign Object in Butt III
-
-**Released:** 2026-06-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6403f2e2-5433-4153-a939-0cd878e8b296.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Susie Wolff (Managing Director of F1 Academy)
-
-**Released:** 2026-06-24 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
