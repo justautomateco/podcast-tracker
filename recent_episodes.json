@@ -7,11 +7,25 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "393f5ebc-30cc-4d8c-b3ee-d997ab3e3660",
-    "episode_title": "The World Is (Still) Drowning in Sludge",
-    "release_date": "2026-06-24 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
+    "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
+    "release_date": "2026-06-26 21:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "43f179b1-4f92-40bd-970a-92304623a98b",
+    "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+    "release_date": "2026-06-24 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "6a42880181f451b905f44aae",
+    "episode_title": "How play boosts your creativity and resilience | Katina Bajaj",
+    "release_date": "2026-06-30 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a42880181f451b905f44aae/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a4286a181f451b905f3d123",
@@ -42,18 +56,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a31b65e31f6783268f19f8a",
-    "episode_title": "Why I\u2019m obsessed with health wearables (and you should be too) | Michael Snyder | Your Body on Tech",
-    "release_date": "2026-06-25 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b65e31f6783268f19f8a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37545 at https://www.thisamericanlife.org",
     "episode_title": "128: Four Corners",
     "release_date": "2026-06-28 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "21b93c20-7420-11f1-83c5-df47138ce738",
+    "episode_title": "#2520 - Tommy Lee",
+    "release_date": "2026-06-30 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2102720692.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "f613449c-70e8-11f1-8b42-c7b7016e25ae",
@@ -70,46 +84,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "1e41120c-6e99-11f1-ba79-179f81c1fdeb",
-    "episode_title": "#2517 - Taylor Sheridan",
-    "release_date": "2026-06-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1253733274.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "d9a1872d-e665-4536-bf34-5320f4854c61",
     "episode_title": "Waking Up Your Spiritual Brain: Part 1",
     "release_date": "2026-06-29 19:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
-    "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
-    "release_date": "2026-06-26 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "43f179b1-4f92-40bd-970a-92304623a98b",
-    "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
-    "release_date": "2026-06-24 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "41d640dc-738d-4c49-8959-26a97c00f8fc",
-    "episode_title": "Transatlantic Fiber-Optic Expialidocious",
-    "release_date": "2026-06-30 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "c0bcde74-fbb7-402a-8f87-f0636fe8b934",
-    "episode_title": "100 Objects #6: \"Sharpened Screwdriver\"",
-    "release_date": "2026-06-26 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "6d3c0041-9b74-41e3-af56-b47400f93ab3",
@@ -140,25 +119,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/ZiLlWLPg8hZVeAqBRkZIQ6PJjYCcX0t4vhh-NQPBNvE",
-    "episode_title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
-    "release_date": "2026-06-29 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "41d640dc-738d-4c49-8959-26a97c00f8fc",
+    "episode_title": "Transatlantic Fiber-Optic Expialidocious",
+    "release_date": "2026-06-30 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/o6J6DwehDd7amk7jxbrnVwv_a1tZbI6kHNEjfIBCVXE",
-    "episode_title": "Advice Line with Susan Griffin-Black of EO Products",
-    "release_date": "2026-06-25 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY",
-    "episode_title": "#871: The \u201cDivine Leaf\u201d with 8,000+ Years of Use \u2014 Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis",
-    "release_date": "2026-06-25 15:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "c0bcde74-fbb7-402a-8f87-f0636fe8b934",
+    "episode_title": "100 Objects #6: \"Sharpened Screwdriver\"",
+    "release_date": "2026-06-26 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "6cf191a7-0205-4ab5-8387-b475014602dd",
@@ -175,18 +147,18 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "07cdf075-4812-40cd-850b-7b1e67f29e61",
-    "episode_title": "Eric Andre Returns Again",
-    "release_date": "2026-06-29 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/ZiLlWLPg8hZVeAqBRkZIQ6PJjYCcX0t4vhh-NQPBNvE",
+    "episode_title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+    "release_date": "2026-06-29 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "ab39ba07-e47c-4007-ae68-e2a304d7875f",
-    "episode_title": "Conan and Sona in Morocco",
-    "release_date": "2026-06-25 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/o6J6DwehDd7amk7jxbrnVwv_a1tZbI6kHNEjfIBCVXE",
+    "episode_title": "Advice Line with Susan Griffin-Black of EO Products",
+    "release_date": "2026-06-25 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "71109ea8-89d4-11f0-b13f-6321f4adeaec",
@@ -210,6 +182,20 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "07cdf075-4812-40cd-850b-7b1e67f29e61",
+    "episode_title": "Eric Andre Returns Again",
+    "release_date": "2026-06-29 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "ab39ba07-e47c-4007-ae68-e2a304d7875f",
+    "episode_title": "Conan and Sona in Morocco",
+    "release_date": "2026-06-25 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/U1eWCEfo-tDSYaZMAR5vcDp30fgda3IdHOKci_axvko",
     "episode_title": "Olivia Wilde",
     "release_date": "2026-06-29 07:30:00",
@@ -229,5 +215,12 @@
     "release_date": "2026-06-24 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY",
+    "episode_title": "#871: The \u201cDivine Leaf\u201d with 8,000+ Years of Use \u2014 Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis",
+    "release_date": "2026-06-25 15:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

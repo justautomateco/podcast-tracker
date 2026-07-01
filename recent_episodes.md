@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-06-30 13:58:41
+Last updated: 2026-07-01 02:40:38
 
 ## Freakonomics Radio
 
@@ -12,15 +12,33 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
-### The World Is (Still) Drowning in Sludge
+## Planet Money
 
-**Released:** 2026-06-24 00:00:00
+### We almost had a smartphone in the 90s. Why did it fail?
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba0a769c-2363-46a5-8b60-ef16823921f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba0a769c-2363-46a5-8b60-ef16823921f7&feed=Y8lFbOT4)
+**Released:** 2026-06-26 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
+
+---
+
+### Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**Released:** 2026-06-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
 
 ---
 
 ## TED Talks Daily
+
+### How play boosts your creativity and resilience | Katina Bajaj
+
+**Released:** 2026-06-30 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a42880181f451b905f44aae/media.mp3)
+
+---
 
 ### You know this song (but the orchestra doesn't) | Jacob Collier and VSO School of Music Orchestra
 
@@ -54,14 +72,6 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
-### Why I’m obsessed with health wearables (and you should be too) | Michael Snyder | Your Body on Tech
-
-**Released:** 2026-06-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a31b65e31f6783268f19f8a/media.mp3)
-
----
-
 ## This American Life
 
 ### 128: Four Corners
@@ -73,6 +83,14 @@ Last updated: 2026-06-30 13:58:41
 ---
 
 ## The Joe Rogan Experience
+
+### #2520 - Tommy Lee
+
+**Released:** 2026-06-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2102720692.mp3)
+
+---
 
 ### #2519 - Scott Eastwood
 
@@ -90,14 +108,6 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
-### #2517 - Taylor Sheridan
-
-**Released:** 2026-06-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1253733274.mp3)
-
----
-
 ## Hidden Brain
 
 ### Waking Up Your Spiritual Brain: Part 1
@@ -105,42 +115,6 @@ Last updated: 2026-06-30 13:58:41
 **Released:** 2026-06-29 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### We almost had a smartphone in the 90s. Why did it fail?
-
-**Released:** 2026-06-26 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
-
----
-
-### Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**Released:** 2026-06-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910)
-
----
-
-## 99% Invisible
-
-### Transatlantic Fiber-Optic Expialidocious
-
-**Released:** 2026-06-30 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
-
----
-
-### 100 Objects #6: "Sharpened Screwdriver"
-
-**Released:** 2026-06-26 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
 
 ---
 
@@ -178,31 +152,21 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
+### Transatlantic Fiber-Optic Expialidocious
 
-**Released:** 2026-06-29 07:10:00
+**Released:** 2026-06-30 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Susan Griffin-Black of EO Products
-
-**Released:** 2026-06-25 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
 
 ---
 
-## The Tim Ferriss Show
+### 100 Objects #6: "Sharpened Screwdriver"
 
-### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+**Released:** 2026-06-26 07:00:00
 
-**Released:** 2026-06-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
 
 ---
 
@@ -224,21 +188,21 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### Eric Andre Returns Again
+### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
 
-**Released:** 2026-06-29 04:05:00
+**Released:** 2026-06-29 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Conan and Sona in Morocco
+### Advice Line with Susan Griffin-Black of EO Products
 
-**Released:** 2026-06-25 04:05:00
+**Released:** 2026-06-25 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,6 +234,24 @@ Last updated: 2026-06-30 13:58:41
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Eric Andre Returns Again
+
+**Released:** 2026-06-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH)
+
+---
+
+### Conan and Sona in Morocco
+
+**Released:** 2026-06-25 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/367345a6-4d3e-465b-9f9b-efbb9758f835/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=367345a6-4d3e-465b-9f9b-efbb9758f835&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
 
 ### Olivia Wilde
@@ -293,6 +275,16 @@ Last updated: 2026-06-30 13:58:41
 **Released:** 2026-06-24 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/383bfc80-7df0-4927-b0f8-0fa2b9f74a7a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #871: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis
+
+**Released:** 2026-06-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/667d066a-45eb-4526-9338-1e5a9f6aa180.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
