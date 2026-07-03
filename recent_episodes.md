@@ -1,14 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-03 02:05:04
+Last updated: 2026-07-03 13:45:04
 
 ## Freakonomics Radio
 
-### 679. Why Does Vanderbilt Keep Winning?
+### 680. Can Universities Win Back Our Trust?
 
-**Released:** 2026-06-26 10:00:00
+**Released:** 2026-07-03 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c7cf3aee-3abd-4def-83bf-af6626170ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c7cf3aee-3abd-4def-83bf-af6626170ac8&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
 
 ---
 
@@ -98,6 +98,16 @@ Last updated: 2026-07-03 02:05:04
 
 ---
 
+## Hidden Brain
+
+### Waking Up Your Spiritual Brain: Part 1
+
+**Released:** 2026-06-29 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf)
+
+---
+
 ## Planet Money
 
 ### Can the Trump administration make college cheaper?
@@ -113,16 +123,6 @@ Last updated: 2026-07-03 02:05:04
 **Released:** 2026-06-26 21:30:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051)
-
----
-
-## Hidden Brain
-
-### Waking Up Your Spiritual Brain: Part 1
-
-**Released:** 2026-06-29 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf)
 
 ---
 
@@ -162,19 +162,19 @@ Last updated: 2026-07-03 02:05:04
 
 ## 99% Invisible
 
+### 100 Objects #7: The Otis Pamphlet
+
+**Released:** 2026-07-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
+
+---
+
 ### Transatlantic Fiber-Optic Expialidocious
 
 **Released:** 2026-06-30 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
-
----
-
-### 100 Objects #6: "Sharpened Screwdriver"
-
-**Released:** 2026-06-26 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=33f11bc0-f6c7-4f4c-abd9-f50ddd645f1a&feed=BqbsxVfO)
 
 ---
 
@@ -196,16 +196,6 @@ Last updated: 2026-07-03 02:05:04
 
 ---
 
-## Revisionist History
-
-### Coming Soon: The Staten Island Problem
-
-**Released:** 2026-06-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6cf191a7-0205-4ab5-8387-b475014602dd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Ronnen Harary of Spin Master/PAW Patrol
@@ -224,21 +214,13 @@ Last updated: 2026-07-03 02:05:04
 
 ---
 
-## The Moth
+## Revisionist History
 
-### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
+### Coming Soon: The Staten Island Problem
 
-**Released:** 2026-06-30 04:25:00
+**Released:** 2026-06-29 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
-
----
-
-### Soccer Stories with Tierna Davidson: The Moth Podcast
-
-**Released:** 2026-06-26 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3116094553.mp3?updated=1781021384)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6cf191a7-0205-4ab5-8387-b475014602dd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,6 +242,24 @@ Last updated: 2026-07-03 02:05:04
 
 ---
 
+## The Moth
+
+### Blindsided: The Moth Podcast
+
+**Released:** 2026-07-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
+
+---
+
+### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
+
+**Released:** 2026-06-30 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
+
+---
+
 ## SmartLess 
 
 ### "Emma Thompson"
@@ -271,6 +271,14 @@ Last updated: 2026-07-03 02:05:04
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Family Secret
+
+**Released:** 2026-07-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Edward Norton Returns Again
 
@@ -285,14 +293,6 @@ Last updated: 2026-07-03 02:05:04
 **Released:** 2026-06-29 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Foreign Object in Butt III
-
-**Released:** 2026-06-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6403f2e2-5433-4153-a939-0cd878e8b296.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
