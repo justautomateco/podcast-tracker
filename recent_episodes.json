@@ -1,12 +1,5 @@
 [
   {
-    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
-    "episode_title": "680. Can Universities Win Back Our Trust?",
-    "release_date": "2026-07-03 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "37545 at https://www.thisamericanlife.org",
     "episode_title": "128: Four Corners",
     "release_date": "2026-06-28 18:00:00",
@@ -63,6 +56,13 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
+    "episode_title": "680. Can Universities Win Back Our Trust?",
+    "release_date": "2026-07-03 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "254816ac-75d0-11f1-bc38-8bc518292219",
     "episode_title": "#2522 - Tony Hinchcliffe",
     "release_date": "2026-07-02 17:00:00",
@@ -105,6 +105,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d",
+    "episode_title": "Selects: Chopsticks > Forks",
+    "release_date": "2026-07-04 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "48109605-021f-4a87-81fe-b47400fd9e33",
     "episode_title": "Alaska Earthquake of 1964",
     "release_date": "2026-07-02 09:00:00",
@@ -126,11 +133,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "259bd46e-ed27-4970-bc4f-b4730143518b",
-    "episode_title": "Selects: How Enron Fooled the World",
-    "release_date": "2026-06-27 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/259bd46e-ed27-4970-bc4f-b4730143518b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/IP0vY2yexavz2hS40Reul_oEy40aIPj6TP5GW91vWJg",
+    "episode_title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+    "release_date": "2026-07-02 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/ZiLlWLPg8hZVeAqBRkZIQ6PJjYCcX0t4vhh-NQPBNvE",
+    "episode_title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+    "release_date": "2026-06-29 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/hSFmtSoRe_chiSgnjDvdpf65jegtTYYVkmuFBCIoRDg",
@@ -152,41 +166,6 @@
     "release_date": "2026-06-29 09:00:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6cf191a7-0205-4ab5-8387-b475014602dd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/IP0vY2yexavz2hS40Reul_oEy40aIPj6TP5GW91vWJg",
-    "episode_title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
-    "release_date": "2026-07-02 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ZiLlWLPg8hZVeAqBRkZIQ6PJjYCcX0t4vhh-NQPBNvE",
-    "episode_title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
-    "release_date": "2026-06-29 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/FpADBhJ24YY_19VuIeV1n7WyY9CchXaNbI9_X_h_MCE",
-    "episode_title": "Armchair Anonymous: Family Secret",
-    "release_date": "2026-07-03 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/o4y6-mT9NsCTIhXzQrooZRCSji84SzhZMEYzqTE49b0",
-    "episode_title": "Edward Norton Returns Again",
-    "release_date": "2026-07-01 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/U1eWCEfo-tDSYaZMAR5vcDp30fgda3IdHOKci_axvko",
-    "episode_title": "Olivia Wilde",
-    "release_date": "2026-06-29 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "7139332c-89d4-11f0-b13f-f72890fc1da5",
@@ -222,5 +201,26 @@
     "release_date": "2026-06-29 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/FpADBhJ24YY_19VuIeV1n7WyY9CchXaNbI9_X_h_MCE",
+    "episode_title": "Armchair Anonymous: Family Secret",
+    "release_date": "2026-07-03 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/o4y6-mT9NsCTIhXzQrooZRCSji84SzhZMEYzqTE49b0",
+    "episode_title": "Edward Norton Returns Again",
+    "release_date": "2026-07-01 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/U1eWCEfo-tDSYaZMAR5vcDp30fgda3IdHOKci_axvko",
+    "episode_title": "Olivia Wilde",
+    "release_date": "2026-06-29 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]

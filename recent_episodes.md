@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-04 02:03:23
-
-## Freakonomics Radio
-
-### 680. Can Universities Win Back Our Trust?
-
-**Released:** 2026-07-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
-
----
+Last updated: 2026-07-04 13:02:52
 
 ## This American Life
 
@@ -82,6 +72,16 @@ Last updated: 2026-07-04 02:03:23
 
 ---
 
+## Freakonomics Radio
+
+### 680. Can Universities Win Back Our Trust?
+
+**Released:** 2026-07-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2522 - Tony Hinchcliffe
@@ -138,6 +138,14 @@ Last updated: 2026-07-04 02:03:23
 
 ## Stuff You Should Know
 
+### Selects: Chopsticks > Forks
+
+**Released:** 2026-07-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Alaska Earthquake of 1964
 
 **Released:** 2026-07-02 09:00:00
@@ -162,11 +170,21 @@ Last updated: 2026-07-04 02:03:23
 
 ---
 
-### Selects: How Enron Fooled the World
+## How I Built This
 
-**Released:** 2026-06-27 09:00:00
+### Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/259bd46e-ed27-4970-bc4f-b4730143518b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-07-02 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
+
+**Released:** 2026-06-29 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,50 +213,6 @@ Last updated: 2026-07-04 02:03:23
 **Released:** 2026-06-29 09:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6cf191a7-0205-4ab5-8387-b475014602dd/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line with Ronnen Harary of Spin Master/PAW Patrol
-
-**Released:** 2026-07-02 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
-
-**Released:** 2026-06-29 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Armchair Anonymous: Family Secret
-
-**Released:** 2026-07-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Edward Norton Returns Again
-
-**Released:** 2026-07-01 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Olivia Wilde
-
-**Released:** 2026-06-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +259,32 @@ Last updated: 2026-07-04 02:03:23
 **Released:** 2026-06-29 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Family Secret
+
+**Released:** 2026-07-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Edward Norton Returns Again
+
+**Released:** 2026-07-01 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Olivia Wilde
+
+**Released:** 2026-06-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4c61f17a-fd9d-45c7-ad3c-30c194f307a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
