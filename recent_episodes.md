@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-04 13:02:52
+Last updated: 2026-07-05 02:11:45
+
+## Freakonomics Radio
+
+### 680. Can Universities Win Back Our Trust?
+
+**Released:** 2026-07-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +23,14 @@ Last updated: 2026-07-04 13:02:52
 ---
 
 ## TED Talks Daily
+
+### Why democracy requires renewal | Michael Dimock
+
+**Released:** 2026-07-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4680a68890f0eef3a5576a/media.mp3)
+
+---
 
 ### The path to mathematical superintelligence | Tudor Achim
 
@@ -46,14 +64,6 @@ Last updated: 2026-07-04 13:02:52
 
 ---
 
-### You know this song (but the orchestra doesn't) | Jacob Collier and VSO School of Music Orchestra
-
-**Released:** 2026-06-29 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4286a181f451b905f3d123/media.mp3)
-
----
-
 ## Planet Money
 
 ### How to win a penalty shootout (with game theory)
@@ -69,16 +79,6 @@ Last updated: 2026-07-04 13:02:52
 **Released:** 2026-07-01 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684)
-
----
-
-## Freakonomics Radio
-
-### 680. Can Universities Win Back Our Trust?
-
-**Released:** 2026-07-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
 
 ---
 
@@ -234,6 +234,16 @@ Last updated: 2026-07-04 13:02:52
 
 ---
 
+## SmartLess 
+
+### "Emma Thompson"
+
+**Released:** 2026-06-29 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Conan vs. Edibles Part III
@@ -249,16 +259,6 @@ Last updated: 2026-07-04 13:02:52
 **Released:** 2026-06-29 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Emma Thompson"
-
-**Released:** 2026-06-29 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO)
 
 ---
 

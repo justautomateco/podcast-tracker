@@ -1,10 +1,24 @@
 [
   {
+    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
+    "episode_title": "680. Can Universities Win Back Our Trust?",
+    "release_date": "2026-07-03 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "37545 at https://www.thisamericanlife.org",
     "episode_title": "128: Four Corners",
     "release_date": "2026-06-28 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a4680a68890f0eef3a5576a",
+    "episode_title": "Why democracy requires renewal | Michael Dimock",
+    "release_date": "2026-07-04 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4680a68890f0eef3a5576a/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a467fe572b913ccd504f60f",
@@ -35,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a4286a181f451b905f3d123",
-    "episode_title": "You know this song (but the orchestra doesn't) | Jacob Collier and VSO School of Music Orchestra",
-    "release_date": "2026-06-29 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4286a181f451b905f3d123/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "3a1cc7b7-7691-4070-a761-e9465a7b8f42",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "release_date": "2026-07-03 21:00:00",
@@ -54,13 +61,6 @@
     "release_date": "2026-07-01 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
-    "episode_title": "680. Can Universities Win Back Our Trust?",
-    "release_date": "2026-07-03 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "254816ac-75d0-11f1-bc38-8bc518292219",
@@ -182,6 +182,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "3f535a56-fe2f-4ae1-b30c-11a84a4adebd",
+    "episode_title": "\"Emma Thompson\"",
+    "release_date": "2026-06-29 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "8cee25e8-d3b4-41ac-9216-638c08ffad9c",
     "episode_title": "Conan vs. Edibles Part III",
     "release_date": "2026-07-02 04:05:00",
@@ -194,13 +201,6 @@
     "release_date": "2026-06-29 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6e993d49-99e9-479b-b1ef-cbbb8b664246/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6e993d49-99e9-479b-b1ef-cbbb8b664246&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3f535a56-fe2f-4ae1-b30c-11a84a4adebd",
-    "episode_title": "\"Emma Thompson\"",
-    "release_date": "2026-06-29 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/2b557d23-377d-45c0-9334-35944635b36a/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=2b557d23-377d-45c0-9334-35944635b36a&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/FpADBhJ24YY_19VuIeV1n7WyY9CchXaNbI9_X_h_MCE",
