@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-06 15:13:35
+Last updated: 2026-07-07 02:12:08
+
+## Freakonomics Radio
+
+### 680. Can Universities Win Back Our Trust?
+
+**Released:** 2026-07-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 890: Maximal Americanness
+
+**Released:** 2026-07-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+
+---
 
 ## TED Talks Daily
 
@@ -44,16 +64,6 @@ Last updated: 2026-07-06 15:13:35
 
 ---
 
-## Freakonomics Radio
-
-### 680. Can Universities Win Back Our Trust?
-
-**Released:** 2026-07-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### How to win a penalty shootout (with game theory)
@@ -69,16 +79,6 @@ Last updated: 2026-07-06 15:13:35
 **Released:** 2026-07-01 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -105,6 +105,34 @@ Last updated: 2026-07-06 15:13:35
 **Released:** 2026-06-30 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2102720692.mp3)
+
+---
+
+## Hidden Brain
+
+### Waking Up Your Spiritual Brain: Part 2
+
+**Released:** 2026-07-06 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #7: The Otis Pamphlet
+
+**Released:** 2026-07-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
+
+---
+
+### Transatlantic Fiber-Optic Expialidocious
+
+**Released:** 2026-06-30 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
 
 ---
 
@@ -142,31 +170,21 @@ Last updated: 2026-07-06 15:13:35
 
 ---
 
-## Hidden Brain
+## The Moth
 
-### Waking Up Your Spiritual Brain: Part 1
+### Blindsided: The Moth Podcast
 
-**Released:** 2026-06-29 19:00:00
+**Released:** 2026-07-03 04:25:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #7: The Otis Pamphlet
-
-**Released:** 2026-07-03 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
 
 ---
 
-### Transatlantic Fiber-Optic Expialidocious
+### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
 
-**Released:** 2026-06-30 08:00:00
+**Released:** 2026-06-30 04:25:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
 
 ---
 
@@ -188,24 +206,6 @@ Last updated: 2026-07-06 15:13:35
 
 ---
 
-## The Tim Ferriss Show
-
-### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
-
-**Released:** 2026-07-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
-
-**Released:** 2026-07-01 03:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Danny McBride Returns
@@ -224,21 +224,13 @@ Last updated: 2026-07-06 15:13:35
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Blindsided: The Moth Podcast
+### "Ike Barinholtz"
 
-**Released:** 2026-07-03 04:25:00
+**Released:** 2026-07-06 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
-
----
-
-### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
-
-**Released:** 2026-06-30 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
 
 ---
 
@@ -268,13 +260,21 @@ Last updated: 2026-07-06 15:13:35
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Ike Barinholtz"
+### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
 
-**Released:** 2026-07-06 07:01:00
+**Released:** 2026-07-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
+
+**Released:** 2026-07-01 03:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

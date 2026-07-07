@@ -1,5 +1,19 @@
 [
   {
+    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
+    "episode_title": "680. Can Universities Win Back Our Trust?",
+    "release_date": "2026-07-03 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46176 at https://www.thisamericanlife.org",
+    "episode_title": "890: Maximal Americanness",
+    "release_date": "2026-07-05 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "6a4688caecd1239143cd352d",
     "episode_title": "The kind of AI we actually need | Van Jones",
     "release_date": "2026-07-06 15:00:00",
@@ -35,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "024086e9-dfaf-4f2b-8df1-d1bfd4739618",
-    "episode_title": "680. Can Universities Win Back Our Trust?",
-    "release_date": "2026-07-03 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "3a1cc7b7-7691-4070-a761-e9465a7b8f42",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "release_date": "2026-07-03 21:00:00",
@@ -54,13 +61,6 @@
     "release_date": "2026-07-01 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46176 at https://www.thisamericanlife.org",
-    "episode_title": "890: Maximal Americanness",
-    "release_date": "2026-07-05 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "254816ac-75d0-11f1-bc38-8bc518292219",
@@ -82,6 +82,27 @@
     "release_date": "2026-06-30 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT2102720692.mp3",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "fa66899f-cb5a-40f1-94cc-099a0ae1ac71",
+    "episode_title": "Waking Up Your Spiritual Brain: Part 2",
+    "release_date": "2026-07-06 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "113ee1b3-dc46-406c-b462-64317962193c",
+    "episode_title": "100 Objects #7: The Otis Pamphlet",
+    "release_date": "2026-07-03 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "41d640dc-738d-4c49-8959-26a97c00f8fc",
+    "episode_title": "Transatlantic Fiber-Optic Expialidocious",
+    "release_date": "2026-06-30 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d",
@@ -112,25 +133,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "d9a1872d-e665-4536-bf34-5320f4854c61",
-    "episode_title": "Waking Up Your Spiritual Brain: Part 1",
-    "release_date": "2026-06-29 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "7139332c-89d4-11f0-b13f-f72890fc1da5",
+    "episode_title": "Blindsided: The Moth Podcast",
+    "release_date": "2026-07-03 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "113ee1b3-dc46-406c-b462-64317962193c",
-    "episode_title": "100 Objects #7: The Otis Pamphlet",
-    "release_date": "2026-07-03 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "41d640dc-738d-4c49-8959-26a97c00f8fc",
-    "episode_title": "Transatlantic Fiber-Optic Expialidocious",
-    "release_date": "2026-06-30 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "71109ea8-89d4-11f0-b13f-6321f4adeaec",
+    "episode_title": "Cotton Candy and Revolutionary Rides: The Moth Radio Hour",
+    "release_date": "2026-06-30 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/fGB_e35UHoYskMEOdpjdXWgFbVNzkrObi27EAX6iQsM",
@@ -147,20 +161,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/hSFmtSoRe_chiSgnjDvdpf65jegtTYYVkmuFBCIoRDg",
-    "episode_title": "#873: David Allen \u2014 The Art of Getting Things Done (GTD) (Repost) ",
-    "release_date": "2026-07-02 17:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/pbMNVX36hJGhlidWOjFkujYB5G3id8FKiswqNzhKDxk",
-    "episode_title": "#872: Graham Duncan \u2014 Talent Is the Best Asset Class (Repost) ",
-    "release_date": "2026-07-01 03:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "0b7cc06c-4b2a-4157-997d-5b44e9d39cba",
     "episode_title": "Danny McBride Returns",
     "release_date": "2026-07-06 04:05:00",
@@ -175,18 +175,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "7139332c-89d4-11f0-b13f-f72890fc1da5",
-    "episode_title": "Blindsided: The Moth Podcast",
-    "release_date": "2026-07-03 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "71109ea8-89d4-11f0-b13f-6321f4adeaec",
-    "episode_title": "Cotton Candy and Revolutionary Rides: The Moth Radio Hour",
-    "release_date": "2026-06-30 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3",
-    "podcast_name": "The Moth"
+    "guid": "6495bc4e-a1df-40c6-8f2c-b344530f4dc6",
+    "episode_title": "\"Ike Barinholtz\"",
+    "release_date": "2026-07-06 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/ne787VesTD9qYcprM1zecasJFK86le_iMP1-sR6LYi4",
@@ -210,10 +203,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "6495bc4e-a1df-40c6-8f2c-b344530f4dc6",
-    "episode_title": "\"Ike Barinholtz\"",
-    "release_date": "2026-07-06 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/hSFmtSoRe_chiSgnjDvdpf65jegtTYYVkmuFBCIoRDg",
+    "episode_title": "#873: David Allen \u2014 The Art of Getting Things Done (GTD) (Repost) ",
+    "release_date": "2026-07-02 17:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/pbMNVX36hJGhlidWOjFkujYB5G3id8FKiswqNzhKDxk",
+    "episode_title": "#872: Graham Duncan \u2014 Talent Is the Best Asset Class (Repost) ",
+    "release_date": "2026-07-01 03:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
