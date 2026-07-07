@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-07 02:12:08
+Last updated: 2026-07-07 14:09:15
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-07-07 02:12:08
 **Released:** 2026-07-03 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -61,6 +51,16 @@ Last updated: 2026-07-07 02:12:08
 **Released:** 2026-07-02 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2c1e256cf76d7745347dda/media.mp3)
+
+---
+
+## This American Life
+
+### 890: Maximal Americanness
+
+**Released:** 2026-07-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -108,6 +108,24 @@ Last updated: 2026-07-07 02:12:08
 
 ---
 
+## 99% Invisible
+
+### The Score
+
+**Released:** 2026-07-07 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #7: The Otis Pamphlet
+
+**Released:** 2026-07-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
+
+---
+
 ## Hidden Brain
 
 ### Waking Up Your Spiritual Brain: Part 2
@@ -118,25 +136,15 @@ Last updated: 2026-07-07 02:12:08
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #7: The Otis Pamphlet
-
-**Released:** 2026-07-03 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
-
----
-
-### Transatlantic Fiber-Optic Expialidocious
-
-**Released:** 2026-06-30 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/b24453ee-2589-463c-b430-ddf170baed7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=b24453ee-2589-463c-b430-ddf170baed7f&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Kola: The World’s Deepest Hole
+
+**Released:** 2026-07-07 13:48:40
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10fcbf9b-e0f1-4e38-b1a1-b48000e20c16/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Chopsticks > Forks
 
@@ -162,29 +170,21 @@ Last updated: 2026-07-07 02:12:08
 
 ---
 
-### The Hillsborough Disaster
+## The Tim Ferriss Show
 
-**Released:** 2026-06-30 09:00:00
+### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d3c0041-9b74-41e3-af56-b47400f93ab3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-07-02 17:00:00
 
----
-
-## The Moth
-
-### Blindsided: The Moth Podcast
-
-**Released:** 2026-07-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Cotton Candy and Revolutionary Rides: The Moth Radio Hour
+### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
 
-**Released:** 2026-06-30 04:25:00
+**Released:** 2026-07-01 03:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD3481259183.mp3)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,6 +206,44 @@ Last updated: 2026-07-07 02:12:08
 
 ---
 
+## Revisionist History
+
+### Revenge of "A Good Walk Spoiled" 
+
+**Released:** 2026-07-07 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Taking Risks: The Moth Radio Hour
+
+**Released:** 2026-07-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1660494674.mp3)
+
+---
+
+### Blindsided: The Moth Podcast
+
+**Released:** 2026-07-03 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
+
+---
+
+## SmartLess 
+
+### "Ike Barinholtz"
+
+**Released:** 2026-07-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Danny McBride Returns
@@ -221,16 +259,6 @@ Last updated: 2026-07-07 02:12:08
 **Released:** 2026-07-02 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74443485-a9c4-4819-9bec-71dcdbd23b0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74443485-a9c4-4819-9bec-71dcdbd23b0d&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Ike Barinholtz"
-
-**Released:** 2026-07-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
 
 ---
 
@@ -257,24 +285,6 @@ Last updated: 2026-07-07 02:12:08
 **Released:** 2026-07-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
-
-**Released:** 2026-07-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
-
-**Released:** 2026-07-01 03:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
