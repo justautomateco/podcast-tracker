@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-07 14:09:15
+Last updated: 2026-07-08 01:52:28
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-07-07 14:09:15
 
 ---
 
+## This American Life
+
+### 890: Maximal Americanness
+
+**Released:** 2026-07-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Does working hard really make you a good person? | Azim Shariff (re-release)
+
+**Released:** 2026-07-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4bc381f29b7142228a0808/media.mp3)
+
+---
 
 ### The kind of AI we actually need | Van Jones
 
@@ -46,24 +64,6 @@ Last updated: 2026-07-07 14:09:15
 
 ---
 
-### An immersive record of what the LA fires left behind | Nonny de la Peña
-
-**Released:** 2026-07-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a2c1e256cf76d7745347dda/media.mp3)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
-
----
-
 ## Planet Money
 
 ### How to win a penalty shootout (with game theory)
@@ -84,6 +84,14 @@ Last updated: 2026-07-07 14:09:15
 
 ## The Joe Rogan Experience
 
+### #2523 - Ali Siddiq
+
+**Released:** 2026-07-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2738913736.mp3)
+
+---
+
 ### #2522 - Tony Hinchcliffe
 
 **Released:** 2026-07-02 17:00:00
@@ -100,11 +108,13 @@ Last updated: 2026-07-07 14:09:15
 
 ---
 
-### #2520 - Tommy Lee
+## Hidden Brain
 
-**Released:** 2026-06-30 17:00:00
+### Waking Up Your Spiritual Brain: Part 2
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2102720692.mp3)
+**Released:** 2026-07-06 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
 
 ---
 
@@ -123,16 +133,6 @@ Last updated: 2026-07-07 14:09:15
 **Released:** 2026-07-03 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Waking Up Your Spiritual Brain: Part 2
-
-**Released:** 2026-07-06 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
 
 ---
 
@@ -170,24 +170,6 @@ Last updated: 2026-07-07 14:09:15
 
 ---
 
-## The Tim Ferriss Show
-
-### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
-
-**Released:** 2026-07-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
-
-**Released:** 2026-07-01 03:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
@@ -213,6 +195,24 @@ Last updated: 2026-07-07 14:09:15
 **Released:** 2026-07-07 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Danny McBride Returns
+
+**Released:** 2026-07-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH)
+
+---
+
+### Conan vs. Edibles Part III
+
+**Released:** 2026-07-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74443485-a9c4-4819-9bec-71dcdbd23b0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74443485-a9c4-4819-9bec-71dcdbd23b0d&feed=dHoohVNH)
 
 ---
 
@@ -244,24 +244,6 @@ Last updated: 2026-07-07 14:09:15
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Danny McBride Returns
-
-**Released:** 2026-07-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH)
-
----
-
-### Conan vs. Edibles Part III
-
-**Released:** 2026-07-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74443485-a9c4-4819-9bec-71dcdbd23b0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74443485-a9c4-4819-9bec-71dcdbd23b0d&feed=dHoohVNH)
-
----
-
 ## Armchair Expert
 
 ### Lukas Gage
@@ -285,6 +267,32 @@ Last updated: 2026-07-07 14:09:15
 **Released:** 2026-07-01 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cd5d4334-ff22-4483-bba4-3c6e2d643bb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
+
+**Released:** 2026-07-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
+
+**Released:** 2026-07-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #872: Graham Duncan — Talent Is the Best Asset Class (Repost) 
+
+**Released:** 2026-07-01 03:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0519cca1-0d53-49cc-a922-66c33d971172.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
