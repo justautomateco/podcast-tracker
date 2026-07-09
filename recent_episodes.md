@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-08 13:42:56
+Last updated: 2026-07-09 02:05:51
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-07-08 13:42:56
 
 ---
 
+## This American Life
+
+### 890: Maximal Americanness
+
+**Released:** 2026-07-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Confessions of an accidental killer | Gregg Ward
+
+**Released:** 2026-07-08 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a32bf73a43c1651f45bcb24/media.mp3)
+
+---
 
 ### Does working hard really make you a good person? | Azim Shariff (re-release)
 
@@ -46,31 +64,13 @@ Last updated: 2026-07-08 13:42:56
 
 ---
 
-### The path to mathematical superintelligence | Tudor Achim
-
-**Released:** 2026-07-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a467fe572b913ccd504f60f/media.mp3)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
-
----
-
 ## Planet Money
 
 ### Our mission: Find the world’s best economic ideas (Summer School World Tour)
 
 **Released:** 2026-07-08 07:30:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5877869&p=510289&d=2232&size=35715535)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
 
 ---
 
@@ -83,6 +83,14 @@ Last updated: 2026-07-08 13:42:56
 ---
 
 ## The Joe Rogan Experience
+
+### #2524 - Rupert Lowe
+
+**Released:** 2026-07-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2768068918.mp3)
+
+---
 
 ### #2523 - Ali Siddiq
 
@@ -100,14 +108,6 @@ Last updated: 2026-07-08 13:42:56
 
 ---
 
-### #2521 - Aravind Srinivas
-
-**Released:** 2026-07-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7312775809.mp3)
-
----
-
 ## Hidden Brain
 
 ### Waking Up Your Spiritual Brain: Part 2
@@ -115,6 +115,24 @@ Last updated: 2026-07-08 13:42:56
 **Released:** 2026-07-06 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Score
+
+**Released:** 2026-07-07 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #7: The Otis Pamphlet
+
+**Released:** 2026-07-03 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
 
 ---
 
@@ -152,21 +170,21 @@ Last updated: 2026-07-08 13:42:56
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### The Score
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
 
-**Released:** 2026-07-07 08:00:00
+**Released:** 2026-07-07 21:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### 100 Objects #7: The Otis Pamphlet
+### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
 
-**Released:** 2026-07-03 07:00:00
+**Released:** 2026-07-02 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -198,42 +216,6 @@ Last updated: 2026-07-08 13:42:56
 
 ---
 
-## The Tim Ferriss Show
-
-### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
-
-**Released:** 2026-07-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #873: David Allen — The Art of Getting Things Done (GTD) (Repost) 
-
-**Released:** 2026-07-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9a9cede8-d34a-46fb-b7ae-691c0a3ca52a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Danny McBride Returns
-
-**Released:** 2026-07-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH)
-
----
-
-### Conan vs. Edibles Part III
-
-**Released:** 2026-07-02 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74443485-a9c4-4819-9bec-71dcdbd23b0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74443485-a9c4-4819-9bec-71dcdbd23b0d&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### Taking Risks: The Moth Radio Hour
@@ -259,6 +241,24 @@ Last updated: 2026-07-08 13:42:56
 **Released:** 2026-07-06 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Danny McBride Returns
+
+**Released:** 2026-07-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH)
+
+---
+
+### Conan vs. Edibles Part III
+
+**Released:** 2026-07-02 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74443485-a9c4-4819-9bec-71dcdbd23b0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=74443485-a9c4-4819-9bec-71dcdbd23b0d&feed=dHoohVNH)
 
 ---
 
