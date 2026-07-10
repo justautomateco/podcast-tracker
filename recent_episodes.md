@@ -1,22 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-10 02:04:25
+Last updated: 2026-07-10 14:02:28
 
-## Freakonomics Radio
+## This American Life
 
-### 681. How to Host a Talk Show, with Dick Cavett
+### 890: Maximal Americanness
 
-**Released:** 2026-07-09 17:05:00
+**Released:** 2026-07-05 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
-
----
-
-### 680. Can Universities Win Back Our Trust?
-
-**Released:** 2026-07-03 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/6700161c-0ea1-4cdd-978e-8499e9ced7d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=6700161c-0ea1-4cdd-978e-8499e9ced7d3&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -62,6 +54,16 @@ Last updated: 2026-07-10 02:04:25
 
 ---
 
+## Freakonomics Radio
+
+### 681. How to Host a Talk Show, with Dick Cavett
+
+**Released:** 2026-07-09 17:05:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
 
 ### Our mission: Find the world’s best economic ideas (Summer School World Tour)
@@ -80,13 +82,31 @@ Last updated: 2026-07-10 02:04:25
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 890: Maximal Americanness
+### Waking Up Your Spiritual Brain: Part 2
 
-**Released:** 2026-07-05 18:00:00
+**Released:** 2026-07-06 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #8: Billy Possum
+
+**Released:** 2026-07-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO)
+
+---
+
+### The Score
+
+**Released:** 2026-07-07 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
 
 ---
 
@@ -116,68 +136,6 @@ Last updated: 2026-07-10 02:04:25
 
 ---
 
-## 99% Invisible
-
-### The Score
-
-**Released:** 2026-07-07 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
-
----
-
-### 100 Objects #7: The Otis Pamphlet
-
-**Released:** 2026-07-03 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6a04e165-c162-45d7-94a0-49a2232eeb83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=6a04e165-c162-45d7-94a0-49a2232eeb83&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Waking Up Your Spiritual Brain: Part 2
-
-**Released:** 2026-07-06 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Eleanor Roosevelt: Best First Lady
-
-**Released:** 2026-07-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/39426ab0-9468-48ea-b149-b482000f6aa1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Great Britain
-
-**Released:** 2026-07-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0e99a6fa-4ff2-4a55-afa7-b4800143336a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Kola: The World’s Deepest Hole
-
-**Released:** 2026-07-07 13:48:40
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10fcbf9b-e0f1-4e38-b1a1-b48000e20c16/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Chopsticks > Forks
-
-**Released:** 2026-07-04 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
@@ -196,24 +154,6 @@ Last updated: 2026-07-10 02:04:25
 
 ---
 
-## Revisionist History
-
-### The Staten Island Problem - Part 1: The Mayor vs. the Borough President
-
-**Released:** 2026-07-09 04:35:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### Revenge of "A Good Walk Spoiled" 
-
-**Released:** 2026-07-07 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
@@ -226,19 +166,19 @@ Last updated: 2026-07-10 02:04:25
 
 ## The Moth
 
+### Over My Head: The Moth Podcast
+
+**Released:** 2026-07-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6027373994.mp3)
+
+---
+
 ### Taking Risks: The Moth Radio Hour
 
 **Released:** 2026-07-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1660494674.mp3)
-
----
-
-### Blindsided: The Moth Podcast
-
-**Released:** 2026-07-03 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6170543937.mp3)
 
 ---
 
@@ -272,6 +212,14 @@ Last updated: 2026-07-10 02:04:25
 
 ## Armchair Expert
 
+### Armchair Anonymous: Animal Attack III
+
+**Released:** 2026-07-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/89a6c8db-6ea0-4459-9e89-184bcfafc60a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Dave Eggers (writer and publisher)
 
 **Released:** 2026-07-08 07:30:00
@@ -285,14 +233,6 @@ Last updated: 2026-07-10 02:04:25
 **Released:** 2026-07-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7cb5e0c6-3362-4513-9065-dfeeb6555d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Family Secret
-
-**Released:** 2026-07-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6ea117a7-aadd-4f83-bffd-e51db532b96b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
