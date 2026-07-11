@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-11 01:51:10
+Last updated: 2026-07-11 12:58:07
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2026-07-11 01:51:10
 **Released:** 2026-07-09 17:05:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 890: Maximal Americanness
+
+**Released:** 2026-07-05 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -51,16 +61,6 @@ Last updated: 2026-07-11 01:51:10
 **Released:** 2026-07-06 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4688caecd1239143cd352d/media.mp3)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
@@ -138,6 +138,14 @@ Last updated: 2026-07-11 01:51:10
 
 ## Stuff You Should Know
 
+### Selects: The First Road Trip
+
+**Released:** 2026-07-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Eleanor Roosevelt: Best First Lady
 
 **Released:** 2026-07-09 09:00:00
@@ -162,11 +170,21 @@ Last updated: 2026-07-11 01:51:10
 
 ---
 
-### Selects: Chopsticks > Forks
+## How I Built This
 
-**Released:** 2026-07-04 09:00:00
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-07-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+
+**Released:** 2026-07-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,16 +206,6 @@ Last updated: 2026-07-11 01:51:10
 
 ---
 
-## The Tim Ferriss Show
-
-### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
-
-**Released:** 2026-07-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Over My Head: The Moth Podcast
@@ -216,21 +224,13 @@ Last updated: 2026-07-11 01:51:10
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
 
-**Released:** 2026-07-09 07:10:00
+**Released:** 2026-07-07 21:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
-
-**Released:** 2026-07-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
