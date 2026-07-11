@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-10 14:02:28
+Last updated: 2026-07-11 01:51:10
 
-## This American Life
+## Freakonomics Radio
 
-### 890: Maximal Americanness
+### 681. How to Host a Talk Show, with Dick Cavett
 
-**Released:** 2026-07-05 18:00:00
+**Released:** 2026-07-09 17:05:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### The deadly threat affecting millions — and how to prevent it | Drew McCartor
+
+**Released:** 2026-07-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4e6b87fe878dc8e22fefdd/media.mp3)
+
+---
 
 ### Why winning doesn't always equal success | Valorie Kondos Field (re-release)
 
@@ -46,25 +54,25 @@ Last updated: 2026-07-10 14:02:28
 
 ---
 
-### Why you fear the unknown — and what it can teach you | Maya Shankar, Simone Stolzoff
+## This American Life
 
-**Released:** 2026-07-05 06:00:00
+### 890: Maximal Americanness
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a46813e2d7a15a979247820/media.mp3)
+**Released:** 2026-07-05 18:00:00
 
----
-
-## Freakonomics Radio
-
-### 681. How to Host a Talk Show, with Dick Cavett
-
-**Released:** 2026-07-09 17:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
 
 ---
 
 ## Planet Money
+
+### Seven allegedly fake Chanel bags vs The RealReal
+
+**Released:** 2026-07-10 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555)
+
+---
 
 ### Our mission: Find the world’s best economic ideas (Summer School World Tour)
 
@@ -74,11 +82,29 @@ Last updated: 2026-07-10 14:02:28
 
 ---
 
-### How to win a penalty shootout (with game theory)
+## The Joe Rogan Experience
 
-**Released:** 2026-07-03 21:00:00
+### JRE MMA Show #182 - Protect Ya Neck
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799)
+**Released:** 2026-07-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1118485865.mp3)
+
+---
+
+### #2524 - Rupert Lowe
+
+**Released:** 2026-07-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2768068918.mp3)
+
+---
+
+### #2523 - Ali Siddiq
+
+**Released:** 2026-07-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2738913736.mp3)
 
 ---
 
@@ -110,47 +136,55 @@ Last updated: 2026-07-10 14:02:28
 
 ---
 
-## The Joe Rogan Experience
+## Stuff You Should Know
 
-### JRE MMA Show #182 - Protect Ya Neck
+### Eleanor Roosevelt: Best First Lady
 
-**Released:** 2026-07-09 17:00:00
+**Released:** 2026-07-09 09:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1118485865.mp3)
-
----
-
-### #2524 - Rupert Lowe
-
-**Released:** 2026-07-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2768068918.mp3)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/39426ab0-9468-48ea-b149-b482000f6aa1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### #2523 - Ali Siddiq
+### Short Stuff: Great Britain
 
-**Released:** 2026-07-07 17:00:00
+**Released:** 2026-07-08 09:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2738913736.mp3)
-
----
-
-## How I Built This
-
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
-
-**Released:** 2026-07-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0e99a6fa-4ff2-4a55-afa7-b4800143336a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+### Kola: The World’s Deepest Hole
 
-**Released:** 2026-07-06 07:10:00
+**Released:** 2026-07-07 13:48:40
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10fcbf9b-e0f1-4e38-b1a1-b48000e20c16/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Chopsticks > Forks
+
+**Released:** 2026-07-04 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fee0f3b7-bdc9-4ee0-b1cc-b479014c2d8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part 1: The Mayor vs. the Borough President
+
+**Released:** 2026-07-09 04:35:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### Revenge of "A Good Walk Spoiled" 
+
+**Released:** 2026-07-07 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -179,6 +213,24 @@ Last updated: 2026-07-10 14:02:28
 **Released:** 2026-07-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1660494674.mp3)
+
+---
+
+## How I Built This
+
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+
+**Released:** 2026-07-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+
+**Released:** 2026-07-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
