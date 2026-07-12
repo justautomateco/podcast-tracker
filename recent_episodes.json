@@ -14,6 +14,13 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "6a4e6c4a81fe1f6460d37b35",
+    "episode_title": "Sunday Pick: Finding Purpose: Why you should stop chasing your \u201cdream job\u201d (w/ Emily the Recruiter) | Fixable",
+    "release_date": "2026-07-12 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4e6c4a81fe1f6460d37b35/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a4e6c071c8f5a97d8627ce6",
     "episode_title": "Why depression isn't what you think | Lisa Monteggia",
     "release_date": "2026-07-11 15:00:00",
@@ -39,13 +46,6 @@
     "episode_title": "Confessions of an accidental killer | Gregg Ward",
     "release_date": "2026-07-08 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a32bf73a43c1651f45bcb24/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a4bc381f29b7142228a0808",
-    "episode_title": "Does working hard really make you a good person? | Azim Shariff (re-release)",
-    "release_date": "2026-07-07 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4bc381f29b7142228a0808/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -91,20 +91,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "1f30b8c1-5797-4088-b4d7-500efd13cc89",
-    "episode_title": "100 Objects #8: Billy Possum",
-    "release_date": "2026-07-10 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "b4538be5-96af-4cce-8b63-b5b184b8a11b",
-    "episode_title": "The Score",
-    "release_date": "2026-07-07 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "c388d9d5-9ec4-4470-a991-b48200e4956a",
     "episode_title": "Selects: The First Road Trip",
     "release_date": "2026-07-11 09:00:00",
@@ -133,25 +119,25 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "1f30b8c1-5797-4088-b4d7-500efd13cc89",
+    "episode_title": "100 Objects #8: Billy Possum",
+    "release_date": "2026-07-10 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "b4538be5-96af-4cce-8b63-b5b184b8a11b",
+    "episode_title": "The Score",
+    "release_date": "2026-07-07 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/bh1w6BwRWRpHzrAbmx4sDRm-XTG2Lvpn9I-nEmr1KLc",
     "episode_title": "#874: Guy Oseary \u2014 The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First",
     "release_date": "2026-07-07 21:30:00",
     "mp3_url": "https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "c252b1e8-ba60-41a1-8b65-b4810134a5c8",
-    "episode_title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
-    "release_date": "2026-07-09 04:35:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "10e5846a-b42c-45c6-8e16-b47f01875ffa",
-    "episode_title": "Revenge of \"A Good Walk Spoiled\" ",
-    "release_date": "2026-07-07 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/-gFTD5xyYdG6qZbuKTfhNZPp6ArLG--SEFghTDip3qE",
@@ -168,6 +154,20 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "c252b1e8-ba60-41a1-8b65-b4810134a5c8",
+    "episode_title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
+    "release_date": "2026-07-09 04:35:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "10e5846a-b42c-45c6-8e16-b47f01875ffa",
+    "episode_title": "Revenge of \"A Good Walk Spoiled\" ",
+    "release_date": "2026-07-07 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "7291afa6-89d4-11f0-b13f-2fe19c2da108",
     "episode_title": "Over My Head: The Moth Podcast",
     "release_date": "2026-07-10 04:25:00",
@@ -182,6 +182,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "6495bc4e-a1df-40c6-8f2c-b344530f4dc6",
+    "episode_title": "\"Ike Barinholtz\"",
+    "release_date": "2026-07-06 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "3169d2b3-6a90-4707-8db5-e1a47f4ebdb1",
     "episode_title": "The Wedding Ringer",
     "release_date": "2026-07-09 04:05:00",
@@ -194,13 +201,6 @@
     "release_date": "2026-07-06 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "6495bc4e-a1df-40c6-8f2c-b344530f4dc6",
-    "episode_title": "\"Ike Barinholtz\"",
-    "release_date": "2026-07-06 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/ynNl55PFv14TWhocKrNBwAqedKKabYsSvsBSlAdRGZM",
