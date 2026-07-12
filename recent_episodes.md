@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-11 12:58:07
+Last updated: 2026-07-12 01:54:04
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-07-11 12:58:07
 ---
 
 ## TED Talks Daily
+
+### Why depression isn't what you think | Lisa Monteggia
+
+**Released:** 2026-07-11 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4e6c071c8f5a97d8627ce6/media.mp3)
+
+---
 
 ### The deadly threat affecting millions — and how to prevent it | Drew McCartor
 
@@ -53,14 +61,6 @@ Last updated: 2026-07-11 12:58:07
 **Released:** 2026-07-07 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4bc381f29b7142228a0808/media.mp3)
-
----
-
-### The kind of AI we actually need | Van Jones
-
-**Released:** 2026-07-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4688caecd1239143cd352d/media.mp3)
 
 ---
 
@@ -170,21 +170,13 @@ Last updated: 2026-07-11 12:58:07
 
 ---
 
-## How I Built This
+## The Tim Ferriss Show
 
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
 
-**Released:** 2026-07-09 07:10:00
+**Released:** 2026-07-07 21:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
-
-**Released:** 2026-07-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,6 +198,24 @@ Last updated: 2026-07-11 12:58:07
 
 ---
 
+## How I Built This
+
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+
+**Released:** 2026-07-09 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+
+**Released:** 2026-07-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### Over My Head: The Moth Podcast
@@ -221,16 +231,6 @@ Last updated: 2026-07-11 12:58:07
 **Released:** 2026-07-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1660494674.mp3)
-
----
-
-## The Tim Ferriss Show
-
-### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
-
-**Released:** 2026-07-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
