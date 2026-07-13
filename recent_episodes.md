@@ -1,26 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-12 12:58:51
-
-## Freakonomics Radio
-
-### 681. How to Host a Talk Show, with Dick Cavett
-
-**Released:** 2026-07-09 17:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 890: Maximal Americanness
-
-**Released:** 2026-07-05 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
-
----
+Last updated: 2026-07-13 01:56:17
 
 ## TED Talks Daily
 
@@ -64,21 +44,23 @@ Last updated: 2026-07-12 12:58:51
 
 ---
 
-## Planet Money
+## This American Life
 
-### Seven allegedly fake Chanel bags vs The RealReal
+### 891: The Test Case
 
-**Released:** 2026-07-10 21:00:00
+**Released:** 2026-07-12 18:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
 
 ---
 
-### Our mission: Find the world’s best economic ideas (Summer School World Tour)
+## Freakonomics Radio
 
-**Released:** 2026-07-08 07:30:00
+### 681. How to Host a Talk Show, with Dick Cavett
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
+**Released:** 2026-07-09 17:05:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
 
 ---
 
@@ -105,6 +87,24 @@ Last updated: 2026-07-12 12:58:51
 **Released:** 2026-07-07 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2738913736.mp3)
+
+---
+
+## Planet Money
+
+### Seven allegedly fake Chanel bags vs The RealReal
+
+**Released:** 2026-07-10 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555)
+
+---
+
+### Our mission: Find the world’s best economic ideas (Summer School World Tour)
+
+**Released:** 2026-07-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
 
 ---
 
@@ -170,16 +170,6 @@ Last updated: 2026-07-12 12:58:51
 
 ---
 
-## The Tim Ferriss Show
-
-### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
-
-**Released:** 2026-07-07 21:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
@@ -216,31 +206,13 @@ Last updated: 2026-07-12 12:58:51
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Over My Head: The Moth Podcast
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
 
-**Released:** 2026-07-10 04:25:00
+**Released:** 2026-07-07 21:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD6027373994.mp3)
-
----
-
-### Taking Risks: The Moth Radio Hour
-
-**Released:** 2026-07-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD1660494674.mp3)
-
----
-
-## SmartLess 
-
-### "Ike Barinholtz"
-
-**Released:** 2026-07-06 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -259,6 +231,16 @@ Last updated: 2026-07-12 12:58:51
 **Released:** 2026-07-06 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6956deaa-dbb2-4db3-a6e3-d5d0ec5b8b3a&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Ike Barinholtz"
+
+**Released:** 2026-07-06 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ca281497-4b43-41a5-846f-81affca17a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ca281497-4b43-41a5-846f-81affca17a01&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +267,24 @@ Last updated: 2026-07-12 12:58:51
 **Released:** 2026-07-06 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7cb5e0c6-3362-4513-9065-dfeeb6555d58.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Over My Head: The Moth Podcast
+
+**Released:** 2026-07-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066)
+
+---
+
+### Taking Risks: The Moth Radio Hour
+
+**Released:** 2026-07-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208791/8208791_2026-04-13-035831.192.mp3?rssID=6066)
 
 ---
 
