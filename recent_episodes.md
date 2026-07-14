@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-14 01:43:07
+Last updated: 2026-07-14 13:11:55
 
 ## TED Talks Daily
 
@@ -44,17 +44,15 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
-## This American Life
+## Freakonomics Radio
 
-### 891: The Test Case
+### How a Great Architect Thinks, with Bjarke Ingels | Better in Person
 
-**Released:** 2026-07-12 18:00:00
+**Released:** 2026-07-14 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4)
 
 ---
-
-## Freakonomics Radio
 
 ### 681. How to Host a Talk Show, with Dick Cavett
 
@@ -82,13 +80,13 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### Changing Our Mental Maps
+### 891: The Test Case
 
-**Released:** 2026-07-13 19:00:00
+**Released:** 2026-07-12 18:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
 
 ---
 
@@ -118,25 +116,25 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
-## 99% Invisible
+## Hidden Brain
 
-### 100 Objects #8: Billy Possum
+### Changing Our Mental Maps
 
-**Released:** 2026-07-10 07:00:00
+**Released:** 2026-07-13 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO)
-
----
-
-### The Score
-
-**Released:** 2026-07-07 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### You Are Not Alone With Postpartum Depression
+
+**Released:** 2026-07-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: The First Road Trip
 
@@ -170,6 +168,24 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
+## 99% Invisible
+
+### If Mosquito Hawks Can Fly
+
+**Released:** 2026-07-14 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #8: Billy Possum
+
+**Released:** 2026-07-10 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
@@ -188,6 +204,16 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
+## The Tim Ferriss Show
+
+### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
+
+**Released:** 2026-07-07 21:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Staten Island Problem - Part 1: The Mayor vs. the Borough President
@@ -195,32 +221,6 @@ Last updated: 2026-07-14 01:43:07
 **Released:** 2026-07-09 04:35:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### Revenge of "A Good Walk Spoiled" 
-
-**Released:** 2026-07-07 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/10e5846a-b42c-45c6-8e16-b47f01875ffa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Over My Head: The Moth Podcast
-
-**Released:** 2026-07-10 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066)
-
----
-
-### Taking Risks: The Moth Radio Hour
-
-**Released:** 2026-07-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208791/8208791_2026-04-13-035831.192.mp3?rssID=6066)
 
 ---
 
@@ -278,13 +278,21 @@ Last updated: 2026-07-14 01:43:07
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #874: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First
+### Choose Your Own Theme: The Moth Radio Hour
 
-**Released:** 2026-07-07 21:30:00
+**Released:** 2026-07-14 04:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5ddf31c4-0f63-4bf2-acc5-0bcdb8c643e3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066)
+
+---
+
+### Over My Head: The Moth Podcast
+
+**Released:** 2026-07-10 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066)
 
 ---
 
