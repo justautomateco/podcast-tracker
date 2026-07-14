@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-13 14:09:04
-
-## Freakonomics Radio
-
-### 681. How to Host a Talk Show, with Dick Cavett
-
-**Released:** 2026-07-09 17:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
-
----
+Last updated: 2026-07-14 01:43:07
 
 ## TED Talks Daily
+
+### How surveillance tech erodes your privacy | Jen Golbeck
+
+**Released:** 2026-07-13 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a54fa5c75790d5f01679040/media.mp3)
+
+---
 
 ### Sunday Pick: Finding Purpose: Why you should stop chasing your “dream job” (w/ Emily the Recruiter) | Fixable
 
@@ -46,14 +44,6 @@ Last updated: 2026-07-13 14:09:04
 
 ---
 
-### Confessions of an accidental killer | Gregg Ward
-
-**Released:** 2026-07-08 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a32bf73a43c1651f45bcb24/media.mp3)
-
----
-
 ## This American Life
 
 ### 891: The Test Case
@@ -61,6 +51,44 @@ Last updated: 2026-07-13 14:09:04
 **Released:** 2026-07-12 18:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
+
+---
+
+## Freakonomics Radio
+
+### 681. How to Host a Talk Show, with Dick Cavett
+
+**Released:** 2026-07-09 17:05:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Seven allegedly fake Chanel bags vs The RealReal
+
+**Released:** 2026-07-10 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555)
+
+---
+
+### Our mission: Find the world’s best economic ideas (Summer School World Tour)
+
+**Released:** 2026-07-08 07:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
+
+---
+
+## Hidden Brain
+
+### Changing Our Mental Maps
+
+**Released:** 2026-07-13 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
 
 ---
 
@@ -90,21 +118,21 @@ Last updated: 2026-07-13 14:09:04
 
 ---
 
-## Planet Money
+## 99% Invisible
 
-### Seven allegedly fake Chanel bags vs The RealReal
+### 100 Objects #8: Billy Possum
 
-**Released:** 2026-07-10 21:00:00
+**Released:** 2026-07-10 07:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO)
 
 ---
 
-### Our mission: Find the world’s best economic ideas (Summer School World Tour)
+### The Score
 
-**Released:** 2026-07-08 07:30:00
+**Released:** 2026-07-07 08:00:00
 
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
 
 ---
 
@@ -142,31 +170,21 @@ Last updated: 2026-07-13 14:09:04
 
 ---
 
-## Hidden Brain
+## How I Built This
 
-### Waking Up Your Spiritual Brain: Part 2
+### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
-**Released:** 2026-07-06 19:00:00
+**Released:** 2026-07-13 07:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #8: Billy Possum
-
-**Released:** 2026-07-10 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### The Score
+### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
 
-**Released:** 2026-07-07 08:00:00
+**Released:** 2026-07-09 07:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c11ff03e-1d1d-4bb4-9780-2cf11de79cdf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c11ff03e-1d1d-4bb4-9780-2cf11de79cdf&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -188,24 +206,6 @@ Last updated: 2026-07-13 14:09:04
 
 ---
 
-## How I Built This
-
-### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
-
-**Released:** 2026-07-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
-
-**Released:** 2026-07-09 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Over My Head: The Moth Podcast
@@ -221,6 +221,16 @@ Last updated: 2026-07-13 14:09:04
 **Released:** 2026-07-07 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208791/8208791_2026-04-13-035831.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Olivia Wilde"
+
+**Released:** 2026-07-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
@@ -265,16 +275,6 @@ Last updated: 2026-07-13 14:09:04
 **Released:** 2026-07-08 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2bf51521-56fc-4387-8574-8973b7675bb0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Olivia Wilde"
-
-**Released:** 2026-07-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
