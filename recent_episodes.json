@@ -91,6 +91,34 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "e8897a46-6ead-4b2e-a16e-b486012c95e5",
+    "episode_title": "Short Stuff: The Voice of God",
+    "release_date": "2026-07-15 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8897a46-6ead-4b2e-a16e-b486012c95e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "42242b48-41d0-48f8-a02a-b486014e2fcc",
+    "episode_title": "You Are Not Alone With Postpartum Depression",
+    "release_date": "2026-07-14 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "c388d9d5-9ec4-4470-a991-b48200e4956a",
+    "episode_title": "Selects: The First Road Trip",
+    "release_date": "2026-07-11 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "39ff7cd9-af66-47ae-ad95-e06d517749db",
+    "episode_title": "Changing Our Mental Maps",
+    "release_date": "2026-07-13 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "aee9545b-148e-42ac-a34f-f31c875d3e36",
     "episode_title": "If Mosquito Hawks Can Fly",
     "release_date": "2026-07-14 08:00:00",
@@ -105,11 +133,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "39ff7cd9-af66-47ae-ad95-e06d517749db",
-    "episode_title": "Changing Our Mental Maps",
-    "release_date": "2026-07-13 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "gid://art19-episode-locator/V0/SlEuTgzfXjYO_Rrudjv0V9yyH09zn26Ue4qDwoYbEMA",
+    "episode_title": "Advice Line with Kenneth Cole",
+    "release_date": "2026-07-16 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Y7qFTuceid7JcE8jVTpLgnhiXuI40NGWG4iTlJux9Gk",
@@ -119,38 +147,24 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/-gFTD5xyYdG6qZbuKTfhNZPp6ArLG--SEFghTDip3qE",
-    "episode_title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
-    "release_date": "2026-07-09 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "6eb007a3-0ca2-47a4-ba03-b4810156776b",
+    "episode_title": "The Staten Island Problem - Part 2: A New Map",
+    "release_date": "2026-07-16 04:30:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
-    "guid": "71f8d196-89d4-11f0-b13f-6f5a04b220a3",
-    "episode_title": "Choose Your Own Theme: The Moth Radio Hour",
-    "release_date": "2026-07-14 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "7291afa6-89d4-11f0-b13f-2fe19c2da108",
-    "episode_title": "Over My Head: The Moth Podcast",
-    "release_date": "2026-07-10 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
+    "episode_title": "Conan Unboxes \u201cToy Story\u201d Merch",
+    "release_date": "2026-07-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "a3b486e2-ba0c-4eb2-a172-e9f5d2d11656",
     "episode_title": "Mick Jagger",
     "release_date": "2026-07-13 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3169d2b3-6a90-4707-8db5-e1a47f4ebdb1",
-    "episode_title": "The Wedding Ringer",
-    "release_date": "2026-07-09 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/aae4fb48-789e-4edb-a9da-380c8e9f5c04/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=aae4fb48-789e-4edb-a9da-380c8e9f5c04&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
@@ -175,45 +189,38 @@
     "podcast_name": "Armchair Expert"
   },
   {
+    "guid": "71f8d196-89d4-11f0-b13f-6f5a04b220a3",
+    "episode_title": "Choose Your Own Theme: The Moth Radio Hour",
+    "release_date": "2026-07-14 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "7291afa6-89d4-11f0-b13f-2fe19c2da108",
+    "episode_title": "Over My Head: The Moth Podcast",
+    "release_date": "2026-07-10 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo",
+    "episode_title": "#875: The Random Show \u2014 Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for \u201cSomeday\u201d",
+    "release_date": "2026-07-16 13:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "7505184e-9198-4d1a-af5d-666e7501db5b",
+    "episode_title": "\"RE-RELEASE: Will Ferrell\u201d",
+    "release_date": "2026-07-16 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "fea932a9-b866-4088-ac2d-86af142f0a2d",
     "episode_title": "\"Olivia Wilde\"",
     "release_date": "2026-07-13 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "c252b1e8-ba60-41a1-8b65-b4810134a5c8",
-    "episode_title": "The Staten Island Problem - Part 1: The Mayor vs. the Borough President",
-    "release_date": "2026-07-09 04:35:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/c252b1e8-ba60-41a1-8b65-b4810134a5c8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "e8897a46-6ead-4b2e-a16e-b486012c95e5",
-    "episode_title": "Short Stuff: The Voice of God",
-    "release_date": "2026-07-15 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8897a46-6ead-4b2e-a16e-b486012c95e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "42242b48-41d0-48f8-a02a-b486014e2fcc",
-    "episode_title": "You Are Not Alone With Postpartum Depression",
-    "release_date": "2026-07-14 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "c388d9d5-9ec4-4470-a991-b48200e4956a",
-    "episode_title": "Selects: The First Road Trip",
-    "release_date": "2026-07-11 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "39426ab0-9468-48ea-b149-b482000f6aa1",
-    "episode_title": "Eleanor Roosevelt: Best First Lady",
-    "release_date": "2026-07-09 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/39426ab0-9468-48ea-b149-b482000f6aa1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
   }
 ]
