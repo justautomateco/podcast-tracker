@@ -1,19 +1,5 @@
 [
   {
-    "guid": "49bae386-8d41-408f-a2b4-92cce08130c1",
-    "episode_title": "How a Great Architect Thinks, with Bjarke Ingels | Better in Person",
-    "release_date": "2026-07-14 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46177 at https://www.thisamericanlife.org",
-    "episode_title": "891: The Test Case",
-    "release_date": "2026-07-12 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a57d456c152a357dbd61af3",
     "episode_title": "Can a camera on every corner make us safer? | Garrett Langley",
     "release_date": "2026-07-16 15:00:00",
@@ -47,6 +33,27 @@
     "release_date": "2026-07-12 06:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4e6c4a81fe1f6460d37b35/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "46177 at https://www.thisamericanlife.org",
+    "episode_title": "891: The Test Case",
+    "release_date": "2026-07-12 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "0705766d-11e7-4930-9cad-e98d30a94a48",
+    "episode_title": "Are You Really Allergic to Penicillin? (Update)",
+    "release_date": "2026-07-17 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "49bae386-8d41-408f-a2b4-92cce08130c1",
+    "episode_title": "How a Great Architect Thinks, with Bjarke Ingels | Better in Person",
+    "release_date": "2026-07-14 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
     "guid": "7dbc0704-6032-48cf-aeb5-d344fa8a4d65",
@@ -91,17 +98,17 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "0e1458b3-f7d4-4de5-bbbc-db29524e5bc0",
+    "episode_title": "100 Objects #9: Missing Children Milk Carton",
+    "release_date": "2026-07-17 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "aee9545b-148e-42ac-a34f-f31c875d3e36",
     "episode_title": "If Mosquito Hawks Can Fly",
     "release_date": "2026-07-14 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "1f30b8c1-5797-4088-b4d7-500efd13cc89",
-    "episode_title": "100 Objects #8: Billy Possum",
-    "release_date": "2026-07-10 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e1d638e7-a60b-46e9-9a27-59a826b40ee3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=e1d638e7-a60b-46e9-9a27-59a826b40ee3&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
   },
   {
@@ -154,27 +161,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/adzbT4om7mSxEXUPCkeiyiBMGsvudstOo-dzSzO_XIo",
-    "episode_title": "Grant Achatz (award-winning chef)",
-    "release_date": "2026-07-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/WYw9aGotggSKe-sq9W4CJZEYqkz-YvC8qnbs8ZaGBlE",
-    "episode_title": "Jackie Tohn Returns",
-    "release_date": "2026-07-13 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/ynNl55PFv14TWhocKrNBwAqedKKabYsSvsBSlAdRGZM",
-    "episode_title": "Armchair Anonymous: Animal Attack III",
-    "release_date": "2026-07-10 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/89a6c8db-6ea0-4459-9e89-184bcfafc60a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
     "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
     "episode_title": "Conan Unboxes \u201cToy Story\u201d Merch",
     "release_date": "2026-07-16 04:05:00",
@@ -187,6 +173,13 @@
     "release_date": "2026-07-13 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo",
+    "episode_title": "#875: The Random Show \u2014 Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for \u201cSomeday\u201d",
+    "release_date": "2026-07-16 13:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "7505184e-9198-4d1a-af5d-666e7501db5b",
@@ -203,6 +196,13 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
+    "episode_title": "Hard Talks: The Moth Podcast",
+    "release_date": "2026-07-17 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "71f8d196-89d4-11f0-b13f-6f5a04b220a3",
     "episode_title": "Choose Your Own Theme: The Moth Radio Hour",
     "release_date": "2026-07-14 04:25:00",
@@ -210,17 +210,24 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "7291afa6-89d4-11f0-b13f-2fe19c2da108",
-    "episode_title": "Over My Head: The Moth Podcast",
-    "release_date": "2026-07-10 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208784/8208784_2026-04-13-035324.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/HRk58T2QqjowEeS_ENBJ75iVTuaBAGalEkHKcMEKvtw",
+    "episode_title": "Armchair Anonymous: Stalking III",
+    "release_date": "2026-07-17 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo",
-    "episode_title": "#875: The Random Show \u2014 Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for \u201cSomeday\u201d",
-    "release_date": "2026-07-16 13:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/adzbT4om7mSxEXUPCkeiyiBMGsvudstOo-dzSzO_XIo",
+    "episode_title": "Grant Achatz (award-winning chef)",
+    "release_date": "2026-07-15 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/WYw9aGotggSKe-sq9W4CJZEYqkz-YvC8qnbs8ZaGBlE",
+    "episode_title": "Jackie Tohn Returns",
+    "release_date": "2026-07-13 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
