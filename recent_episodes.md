@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-16 13:22:55
+Last updated: 2026-07-17 01:53:04
 
 ## Freakonomics Radio
 
@@ -9,14 +9,6 @@ Last updated: 2026-07-16 13:22:55
 **Released:** 2026-07-14 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4)
-
----
-
-### 681. How to Host a Talk Show, with Dick Cavett
-
-**Released:** 2026-07-09 17:05:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dcde6913-3e69-473d-a939-f678a3beb4e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dcde6913-3e69-473d-a939-f678a3beb4e3&feed=Y8lFbOT4)
 
 ---
 
@@ -31,6 +23,14 @@ Last updated: 2026-07-16 13:22:55
 ---
 
 ## TED Talks Daily
+
+### Can a camera on every corner make us safer? | Garrett Langley
+
+**Released:** 2026-07-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a57d456c152a357dbd61af3/media.mp3)
+
+---
 
 ### Why AI will never replace a great teacher | Matt Wu
 
@@ -64,14 +64,6 @@ Last updated: 2026-07-16 13:22:55
 
 ---
 
-### Why depression isn't what you think | Lisa Monteggia
-
-**Released:** 2026-07-11 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4e6c071c8f5a97d8627ce6/media.mp3)
-
----
-
 ## Planet Money
 
 ### Building things and breaking things in China (Summer School World Tour)
@@ -92,6 +84,14 @@ Last updated: 2026-07-16 13:22:55
 
 ## The Joe Rogan Experience
 
+### #2527 - MrBeast
+
+**Released:** 2026-07-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2845814639.mp3)
+
+---
+
 ### #2526 - JD Vance
 
 **Released:** 2026-07-15 17:00:00
@@ -105,40 +105,6 @@ Last updated: 2026-07-16 13:22:55
 **Released:** 2026-07-14 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
-
----
-
-### JRE MMA Show #182 - Protect Ya Neck
-
-**Released:** 2026-07-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1118485865.mp3)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: The Voice of God
-
-**Released:** 2026-07-15 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8897a46-6ead-4b2e-a16e-b486012c95e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### You Are Not Alone With Postpartum Depression
-
-**Released:** 2026-07-14 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The First Road Trip
-
-**Released:** 2026-07-11 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -170,6 +136,50 @@ Last updated: 2026-07-16 13:22:55
 
 ---
 
+## Stuff You Should Know
+
+### White Boy Rick
+
+**Released:** 2026-07-16 16:24:01
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ef17770-9f66-44c2-8058-b4890105b60d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: The Voice of God
+
+**Released:** 2026-07-15 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8897a46-6ead-4b2e-a16e-b486012c95e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### You Are Not Alone With Postpartum Depression
+
+**Released:** 2026-07-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: The First Road Trip
+
+**Released:** 2026-07-11 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part 2: A New Map
+
+**Released:** 2026-07-16 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Kenneth Cole
@@ -185,34 +195,6 @@ Last updated: 2026-07-16 13:22:55
 **Released:** 2026-07-13 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part 2: A New Map
-
-**Released:** 2026-07-16 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Conan Unboxes “Toy Story” Merch
-
-**Released:** 2026-07-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
-
----
-
-### Mick Jagger
-
-**Released:** 2026-07-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH)
 
 ---
 
@@ -242,6 +224,42 @@ Last updated: 2026-07-16 13:22:55
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Conan Unboxes “Toy Story” Merch
+
+**Released:** 2026-07-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
+
+---
+
+### Mick Jagger
+
+**Released:** 2026-07-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Will Ferrell”
+
+**Released:** 2026-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
+
+---
+
+### "Olivia Wilde"
+
+**Released:** 2026-07-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
+
+---
+
 ## The Moth
 
 ### Choose Your Own Theme: The Moth Radio Hour
@@ -267,24 +285,6 @@ Last updated: 2026-07-16 13:22:55
 **Released:** 2026-07-16 13:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Will Ferrell”
-
-**Released:** 2026-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
-
----
-
-### "Olivia Wilde"
-
-**Released:** 2026-07-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
