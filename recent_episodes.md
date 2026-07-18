@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-18 01:43:19
+Last updated: 2026-07-18 12:54:40
 
 ## Freakonomics Radio
 
@@ -72,24 +72,6 @@ Last updated: 2026-07-18 01:43:19
 
 ---
 
-## Planet Money
-
-### Can World Cup mania grow MLS in the U.S.?
-
-**Released:** 2026-07-17 22:43:18
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
-
----
-
-### Building things and breaking things in China (Summer School World Tour)
-
-**Released:** 2026-07-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2527 - MrBeast
@@ -116,6 +98,24 @@ Last updated: 2026-07-18 01:43:19
 
 ---
 
+## Planet Money
+
+### Can World Cup mania grow MLS in the U.S.?
+
+**Released:** 2026-07-17 22:43:18
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
+
+---
+
+### Building things and breaking things in China (Summer School World Tour)
+
+**Released:** 2026-07-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718)
+
+---
+
 ## Hidden Brain
 
 ### Changing Our Mental Maps
@@ -126,7 +126,33 @@ Last updated: 2026-07-18 01:43:19
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #9: Missing Children Milk Carton
+
+**Released:** 2026-07-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
+
+---
+
+### If Mosquito Hawks Can Fly
+
+**Released:** 2026-07-14 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Selects: The Soul Train Episode
+
+**Released:** 2026-07-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6974678-74d8-461d-a350-b487012f7da0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### White Boy Rick
 
@@ -149,32 +175,6 @@ Last updated: 2026-07-18 01:43:19
 **Released:** 2026-07-14 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42242b48-41d0-48f8-a02a-b486014e2fcc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: The First Road Trip
-
-**Released:** 2026-07-11 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c388d9d5-9ec4-4470-a991-b48200e4956a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #9: Missing Children Milk Carton
-
-**Released:** 2026-07-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
-
----
-
-### If Mosquito Hawks Can Fly
-
-**Released:** 2026-07-14 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
 
 ---
 
@@ -206,24 +206,6 @@ Last updated: 2026-07-18 01:43:19
 
 ---
 
-## The Moth
-
-### Hard Talks: The Moth Podcast
-
-**Released:** 2026-07-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066)
-
----
-
-### Choose Your Own Theme: The Moth Radio Hour
-
-**Released:** 2026-07-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan Unboxes “Toy Story” Merch
@@ -239,6 +221,34 @@ Last updated: 2026-07-18 01:43:19
 **Released:** 2026-07-13 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
+
+**Released:** 2026-07-16 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Hard Talks: The Moth Podcast
+
+**Released:** 2026-07-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066)
+
+---
+
+### Choose Your Own Theme: The Moth Radio Hour
+
+**Released:** 2026-07-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066)
 
 ---
 
@@ -283,16 +293,6 @@ Last updated: 2026-07-18 01:43:19
 **Released:** 2026-07-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
-
-**Released:** 2026-07-16 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
