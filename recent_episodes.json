@@ -1,5 +1,47 @@
 [
   {
+    "guid": "6a5504f53e018503d62d76c9",
+    "episode_title": "The Mystery of Sea Creatures (1/5): A coral reef love story | Ayana Elizabeth Johnson",
+    "release_date": "2026-07-18 15:04:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5504f53e018503d62d76c9/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a5504a275790d5f016a5592",
+    "episode_title": "The Mystery of Sea Creatures (2/5): A giant Jurassic sea dragon, unearthed | Dean R. Lomax",
+    "release_date": "2026-07-18 15:03:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5504a275790d5f016a5592/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a55041308f5afd13411b3e1",
+    "episode_title": "The Mystery of Sea Creatures (3/5): Could an orca give a TED Talk? | Karen Bakker",
+    "release_date": "2026-07-18 15:02:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a55041308f5afd13411b3e1/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a55034c75790d5f0169e5d9",
+    "episode_title": "The Mystery of Sea Creatures (4/5): Are we interrupting the kinky sex lives of fish? | Marah J. Hardt",
+    "release_date": "2026-07-18 15:01:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a55034c75790d5f0169e5d9/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a550254420a266ecbd38b40",
+    "episode_title": "The Mystery of Sea Creatures (5/5): The fantastically weird world of photosynthetic sea slugs | Michael Middlebrooks ",
+    "release_date": "2026-07-18 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a550254420a266ecbd38b40/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "46177 at https://www.thisamericanlife.org",
+    "episode_title": "891: The Test Case",
+    "release_date": "2026-07-12 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "0705766d-11e7-4930-9cad-e98d30a94a48",
     "episode_title": "Are You Really Allergic to Penicillin? (Update)",
     "release_date": "2026-07-17 10:00:00",
@@ -14,46 +56,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46177 at https://www.thisamericanlife.org",
-    "episode_title": "891: The Test Case",
-    "release_date": "2026-07-12 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "6a57d47508297530435e04f7",
-    "episode_title": "The power of imagination \u2014 onstage and off | Suki Hillier",
-    "release_date": "2026-07-17 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a57d47508297530435e04f7/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a57d456c152a357dbd61af3",
-    "episode_title": "Can a camera on every corner make us safer? | Garrett Langley",
-    "release_date": "2026-07-16 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a57d456c152a357dbd61af3/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a564ef47e01c44e38933d21",
-    "episode_title": "Why AI will never replace a great teacher | Matt Wu",
-    "release_date": "2026-07-15 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a564ef47e01c44e38933d21/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a550008420a266ecbd2c7f9",
-    "episode_title": "How AI is discovering athletes that human scouts miss | Richard Felton-Thomas (re-release)",
-    "release_date": "2026-07-14 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a550008420a266ecbd2c7f9/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a54fa5c75790d5f01679040",
-    "episode_title": "How surveillance tech erodes your privacy | Jen Golbeck",
-    "release_date": "2026-07-13 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a54fa5c75790d5f01679040/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "39ff7cd9-af66-47ae-ad95-e06d517749db",
+    "episode_title": "Changing Our Mental Maps",
+    "release_date": "2026-07-13 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "72615f9a-80aa-11f1-adca-2f13d8da1330",
@@ -75,41 +82,6 @@
     "release_date": "2026-07-14 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT1555016650.mp3",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "a4c11ff1-cb3a-4de6-b907-453e907a1479",
-    "episode_title": "Can World Cup mania grow MLS in the U.S.?",
-    "release_date": "2026-07-17 22:43:18",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "7dbc0704-6032-48cf-aeb5-d344fa8a4d65",
-    "episode_title": "Building things and breaking things in China (Summer School World Tour)",
-    "release_date": "2026-07-15 07:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "39ff7cd9-af66-47ae-ad95-e06d517749db",
-    "episode_title": "Changing Our Mental Maps",
-    "release_date": "2026-07-13 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "0e1458b3-f7d4-4de5-bbbc-db29524e5bc0",
-    "episode_title": "100 Objects #9: Missing Children Milk Carton",
-    "release_date": "2026-07-17 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "aee9545b-148e-42ac-a34f-f31c875d3e36",
-    "episode_title": "If Mosquito Hawks Can Fly",
-    "release_date": "2026-07-14 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "a6974678-74d8-461d-a350-b487012f7da0",
@@ -140,6 +112,41 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "a4c11ff1-cb3a-4de6-b907-453e907a1479",
+    "episode_title": "Can World Cup mania grow MLS in the U.S.?",
+    "release_date": "2026-07-17 22:43:18",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "7dbc0704-6032-48cf-aeb5-d344fa8a4d65",
+    "episode_title": "Building things and breaking things in China (Summer School World Tour)",
+    "release_date": "2026-07-15 07:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "0e1458b3-f7d4-4de5-bbbc-db29524e5bc0",
+    "episode_title": "100 Objects #9: Missing Children Milk Carton",
+    "release_date": "2026-07-17 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "aee9545b-148e-42ac-a34f-f31c875d3e36",
+    "episode_title": "If Mosquito Hawks Can Fly",
+    "release_date": "2026-07-14 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "6eb007a3-0ca2-47a4-ba03-b4810156776b",
+    "episode_title": "The Staten Island Problem - Part 2: A New Map",
+    "release_date": "2026-07-16 04:30:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/SlEuTgzfXjYO_Rrudjv0V9yyH09zn26Ue4qDwoYbEMA",
     "episode_title": "Advice Line with Kenneth Cole",
     "release_date": "2026-07-16 07:10:00",
@@ -152,13 +159,6 @@
     "release_date": "2026-07-13 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "6eb007a3-0ca2-47a4-ba03-b4810156776b",
-    "episode_title": "The Staten Island Problem - Part 2: A New Map",
-    "release_date": "2026-07-16 04:30:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
@@ -180,6 +180,27 @@
     "release_date": "2026-07-16 13:00:00",
     "mp3_url": "https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/HRk58T2QqjowEeS_ENBJ75iVTuaBAGalEkHKcMEKvtw",
+    "episode_title": "Armchair Anonymous: Stalking III",
+    "release_date": "2026-07-17 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/adzbT4om7mSxEXUPCkeiyiBMGsvudstOo-dzSzO_XIo",
+    "episode_title": "Grant Achatz (award-winning chef)",
+    "release_date": "2026-07-15 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/WYw9aGotggSKe-sq9W4CJZEYqkz-YvC8qnbs8ZaGBlE",
+    "episode_title": "Jackie Tohn Returns",
+    "release_date": "2026-07-13 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
@@ -208,26 +229,5 @@
     "release_date": "2026-07-13 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/HRk58T2QqjowEeS_ENBJ75iVTuaBAGalEkHKcMEKvtw",
-    "episode_title": "Armchair Anonymous: Stalking III",
-    "release_date": "2026-07-17 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/adzbT4om7mSxEXUPCkeiyiBMGsvudstOo-dzSzO_XIo",
-    "episode_title": "Grant Achatz (award-winning chef)",
-    "release_date": "2026-07-15 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/WYw9aGotggSKe-sq9W4CJZEYqkz-YvC8qnbs8ZaGBlE",
-    "episode_title": "Jackie Tohn Returns",
-    "release_date": "2026-07-13 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]
