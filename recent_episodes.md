@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-19 01:51:28
+Last updated: 2026-07-19 12:56:57
+
+## Freakonomics Radio
+
+### Are You Really Allergic to Penicillin? (Update)
+
+**Released:** 2026-07-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
+
+---
+
+### How a Great Architect Thinks, with Bjarke Ingels | Better in Person
+
+**Released:** 2026-07-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 891: The Test Case
+
+**Released:** 2026-07-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
+
+---
 
 ## TED Talks Daily
+
+### Sunday Pick: Why you should try improv comedy (w/ Rick Andrews) | How to Be a Better Human
+
+**Released:** 2026-07-19 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a57d55cc0080f2be7f62f05/media.mp3)
+
+---
 
 ### The Mystery of Sea Creatures (1/5): A coral reef love story | Ayana Elizabeth Johnson
 
@@ -36,49 +72,21 @@ Last updated: 2026-07-19 01:51:28
 
 ---
 
-### The Mystery of Sea Creatures (5/5): The fantastically weird world of photosynthetic sea slugs | Michael Middlebrooks 
+## Planet Money
 
-**Released:** 2026-07-18 15:00:00
+### Can World Cup mania grow MLS in the U.S.?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a550254420a266ecbd38b40/media.mp3)
+**Released:** 2026-07-17 22:43:18
 
----
-
-## This American Life
-
-### 891: The Test Case
-
-**Released:** 2026-07-12 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
 
 ---
 
-## Freakonomics Radio
+### Building things and breaking things in China (Summer School World Tour)
 
-### Are You Really Allergic to Penicillin? (Update)
+**Released:** 2026-07-15 07:30:00
 
-**Released:** 2026-07-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
-
----
-
-### How a Great Architect Thinks, with Bjarke Ingels | Better in Person
-
-**Released:** 2026-07-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae6e9b40-242b-422f-89d2-3142acbdffaa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae6e9b40-242b-422f-89d2-3142acbdffaa&feed=Y8lFbOT4)
-
----
-
-## Hidden Brain
-
-### Changing Our Mental Maps
-
-**Released:** 2026-07-13 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718)
 
 ---
 
@@ -105,6 +113,16 @@ Last updated: 2026-07-19 01:51:28
 **Released:** 2026-07-14 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
+
+---
+
+## Hidden Brain
+
+### Changing Our Mental Maps
+
+**Released:** 2026-07-13 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
 
 ---
 
@@ -142,24 +160,6 @@ Last updated: 2026-07-19 01:51:28
 
 ---
 
-## Planet Money
-
-### Can World Cup mania grow MLS in the U.S.?
-
-**Released:** 2026-07-17 22:43:18
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
-
----
-
-### Building things and breaking things in China (Summer School World Tour)
-
-**Released:** 2026-07-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #9: Missing Children Milk Carton
@@ -175,6 +175,16 @@ Last updated: 2026-07-19 01:51:28
 **Released:** 2026-07-14 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
+
+**Released:** 2026-07-16 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,13 +234,21 @@ Last updated: 2026-07-19 01:51:28
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
+### "RE-RELEASE: Will Ferrell”
 
-**Released:** 2026-07-16 13:00:00
+**Released:** 2026-07-16 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
+
+---
+
+### "Olivia Wilde"
+
+**Released:** 2026-07-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
@@ -275,24 +293,6 @@ Last updated: 2026-07-19 01:51:28
 **Released:** 2026-07-14 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Will Ferrell”
-
-**Released:** 2026-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
-
----
-
-### "Olivia Wilde"
-
-**Released:** 2026-07-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
