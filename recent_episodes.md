@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-20 02:09:09
+Last updated: 2026-07-20 13:49:28
 
 ## Freakonomics Radio
 
@@ -118,29 +118,13 @@ Last updated: 2026-07-20 02:09:09
 
 ---
 
-## The Joe Rogan Experience
+## The Tim Ferriss Show
 
-### #2527 - MrBeast
+### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
 
-**Released:** 2026-07-16 17:00:00
+**Released:** 2026-07-16 13:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2845814639.mp3)
-
----
-
-### #2526 - JD Vance
-
-**Released:** 2026-07-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1308255264.mp3)
-
----
-
-### #2525 - Nick Bostrom
-
-**Released:** 2026-07-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -178,34 +162,6 @@ Last updated: 2026-07-20 02:09:09
 
 ---
 
-## How I Built This
-
-### Advice Line with Kenneth Cole
-
-**Released:** 2026-07-16 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
-
-**Released:** 2026-07-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
-
-**Released:** 2026-07-16 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Staten Island Problem - Part 2: A New Map
@@ -216,65 +172,21 @@ Last updated: 2026-07-20 02:09:09
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### Conan Unboxes “Toy Story” Merch
+### Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
 
-**Released:** 2026-07-16 04:05:00
+**Released:** 2026-07-20 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
-
----
-
-### Mick Jagger
-
-**Released:** 2026-07-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6eca81bc-b0e1-47e2-a87d-f3b243e76a97.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## Armchair Expert
+### Advice Line with Kenneth Cole
 
-### Armchair Anonymous: Stalking III
+**Released:** 2026-07-16 07:10:00
 
-**Released:** 2026-07-17 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Grant Achatz (award-winning chef)
-
-**Released:** 2026-07-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jackie Tohn Returns
-
-**Released:** 2026-07-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Will Ferrell”
-
-**Released:** 2026-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
-
----
-
-### "Olivia Wilde"
-
-**Released:** 2026-07-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -293,6 +205,68 @@ Last updated: 2026-07-20 02:09:09
 **Released:** 2026-07-14 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208790/8208790_2026-04-13-035730.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Timothy Olyphant"
+
+**Released:** 2026-07-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Will Ferrell”
+
+**Released:** 2026-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Molly Shannon Returns
+
+**Released:** 2026-07-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH)
+
+---
+
+### Conan Unboxes “Toy Story” Merch
+
+**Released:** 2026-07-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
+
+---
+
+## Armchair Expert
+
+### Geena Davis
+
+**Released:** 2026-07-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db4847c2-ae55-47f0-a69e-9d97ad934382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Stalking III
+
+**Released:** 2026-07-17 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Grant Achatz (award-winning chef)
+
+**Released:** 2026-07-15 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
