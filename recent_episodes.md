@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-19 12:56:57
+Last updated: 2026-07-20 02:09:09
 
 ## Freakonomics Radio
 
@@ -22,11 +22,11 @@ Last updated: 2026-07-19 12:56:57
 
 ## This American Life
 
-### 891: The Test Case
+### 892: Trapped on a Bus
 
-**Released:** 2026-07-12 18:00:00
+**Released:** 2026-07-19 18:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
 
 ---
 
@@ -90,6 +90,34 @@ Last updated: 2026-07-19 12:56:57
 
 ---
 
+## Hidden Brain
+
+### Changing Our Mental Maps
+
+**Released:** 2026-07-13 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #9: Missing Children Milk Carton
+
+**Released:** 2026-07-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
+
+---
+
+### If Mosquito Hawks Can Fly
+
+**Released:** 2026-07-14 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2527 - MrBeast
@@ -113,16 +141,6 @@ Last updated: 2026-07-19 12:56:57
 **Released:** 2026-07-14 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
-
----
-
-## Hidden Brain
-
-### Changing Our Mental Maps
-
-**Released:** 2026-07-13 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
 
 ---
 
@@ -160,21 +178,21 @@ Last updated: 2026-07-19 12:56:57
 
 ---
 
-## 99% Invisible
+## How I Built This
 
-### 100 Objects #9: Missing Children Milk Carton
+### Advice Line with Kenneth Cole
 
-**Released:** 2026-07-17 07:00:00
+**Released:** 2026-07-16 07:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### If Mosquito Hawks Can Fly
+### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
-**Released:** 2026-07-14 08:00:00
+**Released:** 2026-07-13 07:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -198,24 +216,6 @@ Last updated: 2026-07-19 12:56:57
 
 ---
 
-## How I Built This
-
-### Advice Line with Kenneth Cole
-
-**Released:** 2026-07-16 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
-
-**Released:** 2026-07-13 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan Unboxes “Toy Story” Merch
@@ -231,24 +231,6 @@ Last updated: 2026-07-19 12:56:57
 **Released:** 2026-07-13 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2de80f25-d53f-4d52-b04b-f8a97eb4f46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2de80f25-d53f-4d52-b04b-f8a97eb4f46a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Will Ferrell”
-
-**Released:** 2026-07-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
-
----
-
-### "Olivia Wilde"
-
-**Released:** 2026-07-13 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +257,24 @@ Last updated: 2026-07-19 12:56:57
 **Released:** 2026-07-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cbfc6026-08cb-455b-85d5-9e3393f05cab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Will Ferrell”
+
+**Released:** 2026-07-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
+
+---
+
+### "Olivia Wilde"
+
+**Released:** 2026-07-13 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/f63ffcce-ca73-44bf-a370-ef773c619aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=f63ffcce-ca73-44bf-a370-ef773c619aea&feed=hNaFxXpO)
 
 ---
 
