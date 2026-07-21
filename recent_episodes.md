@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-20 13:49:28
+Last updated: 2026-07-21 01:51:22
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-07-20 13:49:28
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 892: Trapped on a Bus
+### Why AI is an even bigger deal than you think | Reed Hastings
 
-**Released:** 2026-07-19 18:00:00
+**Released:** 2026-07-20 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a58fae078e0412bc6b44039/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Sunday Pick: Why you should try improv comedy (w/ Rick Andrews) | How to Be a Better Human
 
@@ -64,14 +62,6 @@ Last updated: 2026-07-20 13:49:28
 
 ---
 
-### The Mystery of Sea Creatures (4/5): Are we interrupting the kinky sex lives of fish? | Marah J. Hardt
-
-**Released:** 2026-07-18 15:01:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a55034c75790d5f0169e5d9/media.mp3)
-
----
-
 ## Planet Money
 
 ### Can World Cup mania grow MLS in the U.S.?
@@ -90,13 +80,49 @@ Last updated: 2026-07-20 13:49:28
 
 ---
 
+## This American Life
+
+### 892: Trapped on a Bus
+
+**Released:** 2026-07-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2527 - MrBeast
+
+**Released:** 2026-07-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2845814639.mp3)
+
+---
+
+### #2526 - JD Vance
+
+**Released:** 2026-07-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1308255264.mp3)
+
+---
+
+### #2525 - Nick Bostrom
+
+**Released:** 2026-07-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
+
+---
+
 ## Hidden Brain
 
-### Changing Our Mental Maps
+### How to Combat Pain
 
-**Released:** 2026-07-13 19:00:00
+**Released:** 2026-07-20 14:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=82c2c4e4-4c7d-4200-89d3-6b6bdf4bf498&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
 
 ---
 
@@ -115,16 +141,6 @@ Last updated: 2026-07-20 13:49:28
 **Released:** 2026-07-14 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2a384df5-2270-470d-b466-4b5831433fcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2a384df5-2270-470d-b466-4b5831433fcc&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
-
-**Released:** 2026-07-16 13:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -162,16 +178,6 @@ Last updated: 2026-07-20 13:49:28
 
 ---
 
-## Revisionist History
-
-### The Staten Island Problem - Part 2: A New Map
-
-**Released:** 2026-07-16 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
@@ -187,6 +193,26 @@ Last updated: 2026-07-20 13:49:28
 **Released:** 2026-07-16 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
+
+**Released:** 2026-07-16 13:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part 2: A New Map
+
+**Released:** 2026-07-16 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
