@@ -1,17 +1,10 @@
 [
   {
-    "guid": "0705766d-11e7-4930-9cad-e98d30a94a48",
-    "episode_title": "Are You Really Allergic to Penicillin? (Update)",
-    "release_date": "2026-07-17 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46192 at https://www.thisamericanlife.org",
-    "episode_title": "892: Trapped on a Bus",
-    "release_date": "2026-07-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6a5a8dad461a6a419050f3ff",
+    "episode_title": "Why Big Tech is incompatible with democracy | Bruno Giussani",
+    "release_date": "2026-07-21 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8dad461a6a419050f3ff/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a58fae078e0412bc6b44039",
@@ -42,11 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a55041308f5afd13411b3e1",
-    "episode_title": "The Mystery of Sea Creatures (3/5): Could an orca give a TED Talk? | Karen Bakker",
-    "release_date": "2026-07-18 15:02:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a55041308f5afd13411b3e1/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46192 at https://www.thisamericanlife.org",
+    "episode_title": "892: Trapped on a Bus",
+    "release_date": "2026-07-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab",
+    "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+    "release_date": "2026-07-21 21:00:01",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "a4c11ff1-cb3a-4de6-b907-453e907a1479",
@@ -63,6 +63,34 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "87ea13c4-1f60-4692-baf8-428bb9faf128",
+    "episode_title": "Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person",
+    "release_date": "2026-07-22 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "0705766d-11e7-4930-9cad-e98d30a94a48",
+    "episode_title": "Are You Really Allergic to Penicillin? (Update)",
+    "release_date": "2026-07-17 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "081c8772-4075-43b0-8148-c52833a61775",
+    "episode_title": "How to Combat Pain",
+    "release_date": "2026-07-20 14:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "8aaa3e0c-8495-11f1-8af9-63001aaad13a",
+    "episode_title": "#2528 - Cassie Coppersmith",
+    "release_date": "2026-07-21 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3078553075.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "72615f9a-80aa-11f1-adca-2f13d8da1330",
     "episode_title": "#2527 - MrBeast",
     "release_date": "2026-07-16 17:00:00",
@@ -74,13 +102,6 @@
     "episode_title": "#2526 - JD Vance",
     "release_date": "2026-07-15 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT1308255264.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "709f4dec-7f16-11f1-ae05-dbca289f806f",
-    "episode_title": "#2525 - Nick Bostrom",
-    "release_date": "2026-07-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1555016650.mp3",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -126,13 +147,6 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "081c8772-4075-43b0-8148-c52833a61775",
-    "episode_title": "How to Combat Pain",
-    "release_date": "2026-07-20 14:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/eGG039Qu0oGSWOP_3hHAGhaI9X7jy7X_6GKMS2o9aLM",
     "episode_title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
     "release_date": "2026-07-20 07:10:00",
@@ -161,34 +175,6 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "7f51f038-9b26-4295-9da1-81e0d79c69bc",
-    "episode_title": "Molly Shannon Returns",
-    "release_date": "2026-07-20 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
-    "episode_title": "Conan Unboxes \u201cToy Story\u201d Merch",
-    "release_date": "2026-07-16 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
-    "episode_title": "Walking the Walk: The Moth Radio Hour",
-    "release_date": "2026-07-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
-    "episode_title": "Hard Talks: The Moth Podcast",
-    "release_date": "2026-07-17 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
     "guid": "79187a3d-9532-4ae5-914b-a9483f55fc66",
     "episode_title": "\"Timothy Olyphant\"",
     "release_date": "2026-07-20 07:01:00",
@@ -201,6 +187,20 @@
     "release_date": "2026-07-16 07:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "7f51f038-9b26-4295-9da1-81e0d79c69bc",
+    "episode_title": "Molly Shannon Returns",
+    "release_date": "2026-07-20 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
+    "episode_title": "Conan Unboxes \u201cToy Story\u201d Merch",
+    "release_date": "2026-07-16 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/rCN6gS4vWs5HrpHmpucQ1ZQJQ-Z5qsTfnJtu4SLEG8E",
@@ -222,5 +222,19 @@
     "release_date": "2026-07-15 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
+    "episode_title": "Walking the Walk: The Moth Radio Hour",
+    "release_date": "2026-07-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
+    "episode_title": "Hard Talks: The Moth Podcast",
+    "release_date": "2026-07-17 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]

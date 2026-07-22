@@ -1,28 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-21 13:19:03
-
-## Freakonomics Radio
-
-### Are You Really Allergic to Penicillin? (Update)
-
-**Released:** 2026-07-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 892: Trapped on a Bus
-
-**Released:** 2026-07-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
-
----
+Last updated: 2026-07-22 01:50:08
 
 ## TED Talks Daily
+
+### Why Big Tech is incompatible with democracy | Bruno Giussani
+
+**Released:** 2026-07-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8dad461a6a419050f3ff/media.mp3)
+
+---
 
 ### Why AI is an even bigger deal than you think | Reed Hastings
 
@@ -56,15 +44,25 @@ Last updated: 2026-07-21 13:19:03
 
 ---
 
-### The Mystery of Sea Creatures (3/5): Could an orca give a TED Talk? | Karen Bakker
+## This American Life
 
-**Released:** 2026-07-18 15:02:00
+### 892: Trapped on a Bus
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a55041308f5afd13411b3e1/media.mp3)
+**Released:** 2026-07-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
 
 ---
 
 ## Planet Money
+
+### New NPR Series: "We Keep Us Safe" from the Embedded podcast
+
+**Released:** 2026-07-21 21:00:01
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286)
+
+---
 
 ### Can World Cup mania grow MLS in the U.S.?
 
@@ -82,7 +80,43 @@ Last updated: 2026-07-21 13:19:03
 
 ---
 
+## Freakonomics Radio
+
+### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
+
+**Released:** 2026-07-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
+
+---
+
+### Are You Really Allergic to Penicillin? (Update)
+
+**Released:** 2026-07-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
+
+---
+
+## Hidden Brain
+
+### How to Combat Pain
+
+**Released:** 2026-07-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2528 - Cassie Coppersmith
+
+**Released:** 2026-07-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3078553075.mp3)
+
+---
 
 ### #2527 - MrBeast
 
@@ -97,14 +131,6 @@ Last updated: 2026-07-21 13:19:03
 **Released:** 2026-07-15 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1308255264.mp3)
-
----
-
-### #2525 - Nick Bostrom
-
-**Released:** 2026-07-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1555016650.mp3)
 
 ---
 
@@ -160,16 +186,6 @@ Last updated: 2026-07-21 13:19:03
 
 ---
 
-## Hidden Brain
-
-### How to Combat Pain
-
-**Released:** 2026-07-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
-
----
-
 ## How I Built This
 
 ### Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
@@ -208,42 +224,6 @@ Last updated: 2026-07-21 13:19:03
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Molly Shannon Returns
-
-**Released:** 2026-07-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH)
-
----
-
-### Conan Unboxes “Toy Story” Merch
-
-**Released:** 2026-07-16 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Walking the Walk: The Moth Radio Hour
-
-**Released:** 2026-07-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066)
-
----
-
-### Hard Talks: The Moth Podcast
-
-**Released:** 2026-07-17 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066)
-
----
-
 ## SmartLess 
 
 ### "Timothy Olyphant"
@@ -259,6 +239,24 @@ Last updated: 2026-07-21 13:19:03
 **Released:** 2026-07-16 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Molly Shannon Returns
+
+**Released:** 2026-07-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH)
+
+---
+
+### Conan Unboxes “Toy Story” Merch
+
+**Released:** 2026-07-16 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH)
 
 ---
 
@@ -285,6 +283,24 @@ Last updated: 2026-07-21 13:19:03
 **Released:** 2026-07-15 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Walking the Walk: The Moth Radio Hour
+
+**Released:** 2026-07-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066)
+
+---
+
+### Hard Talks: The Moth Podcast
+
+**Released:** 2026-07-17 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066)
 
 ---
 
