@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-22 01:50:08
+Last updated: 2026-07-22 13:23:23
+
+## Freakonomics Radio
+
+### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
+
+**Released:** 2026-07-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
+
+---
+
+### Are You Really Allergic to Penicillin? (Update)
+
+**Released:** 2026-07-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -72,32 +90,6 @@ Last updated: 2026-07-22 01:50:08
 
 ---
 
-### Building things and breaking things in China (Summer School World Tour)
-
-**Released:** 2026-07-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718)
-
----
-
-## Freakonomics Radio
-
-### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
-
-**Released:** 2026-07-22 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
-
----
-
-### Are You Really Allergic to Penicillin? (Update)
-
-**Released:** 2026-07-17 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ae7c25c8-5a35-41c3-b4f3-9e1f7115cc48&feed=Y8lFbOT4)
-
----
-
 ## Hidden Brain
 
 ### How to Combat Pain
@@ -105,6 +97,24 @@ Last updated: 2026-07-22 01:50:08
 **Released:** 2026-07-20 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Original 100 Objects
+
+**Released:** 2026-07-21 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #9: Missing Children Milk Carton
+
+**Released:** 2026-07-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
 
 ---
 
@@ -136,6 +146,14 @@ Last updated: 2026-07-22 01:50:08
 
 ## Stuff You Should Know
 
+### Short Stuff: Sardines!
+
+**Released:** 2026-07-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/311c0e00-9214-4172-a1b2-b486012d24c0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Tobacco Master Settlement: That Time We Got Em
 
 **Released:** 2026-07-21 09:00:00
@@ -160,32 +178,6 @@ Last updated: 2026-07-22 01:50:08
 
 ---
 
-### Short Stuff: The Voice of God
-
-**Released:** 2026-07-15 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e8897a46-6ead-4b2e-a16e-b486012c95e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Original 100 Objects
-
-**Released:** 2026-07-21 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO)
-
----
-
-### 100 Objects #9: Missing Children Milk Carton
-
-**Released:** 2026-07-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
@@ -204,16 +196,6 @@ Last updated: 2026-07-22 01:50:08
 
 ---
 
-## Revisionist History
-
-### The Staten Island Problem - Part 2: A New Map
-
-**Released:** 2026-07-16 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”
@@ -221,6 +203,16 @@ Last updated: 2026-07-22 01:50:08
 **Released:** 2026-07-16 13:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part 2: A New Map
+
+**Released:** 2026-07-16 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -262,6 +254,14 @@ Last updated: 2026-07-22 01:50:08
 
 ## Armchair Expert
 
+### Tommy Lee
+
+**Released:** 2026-07-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/76bd003c-cf2c-478f-94c8-a05eb380969e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Geena Davis
 
 **Released:** 2026-07-20 07:30:00
@@ -275,14 +275,6 @@ Last updated: 2026-07-22 01:50:08
 **Released:** 2026-07-17 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Grant Achatz (award-winning chef)
-
-**Released:** 2026-07-15 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a0c1527b-209c-4d53-b00d-106857880cfb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
