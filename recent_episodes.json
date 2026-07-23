@@ -21,6 +21,27 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "f5759b18-4ed5-43dd-95ea-0f827a18d5d0",
+    "episode_title": "Big Lettuce meets Small Intestine",
+    "release_date": "2026-07-22 23:16:26",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab",
+    "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+    "release_date": "2026-07-21 21:00:01",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "a4c11ff1-cb3a-4de6-b907-453e907a1479",
+    "episode_title": "Can World Cup mania grow MLS in the U.S.?",
+    "release_date": "2026-07-17 22:43:18",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "6a5a8def7a878a338089a6c8",
     "episode_title": "How I built a machine that feeds millions | Felix Brooks-church",
     "release_date": "2026-07-22 15:00:00",
@@ -56,34 +77,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "f5759b18-4ed5-43dd-95ea-0f827a18d5d0",
-    "episode_title": "Big Lettuce meets Small Intestine",
-    "release_date": "2026-07-22 23:16:26",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab",
-    "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
-    "release_date": "2026-07-21 21:00:01",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "a4c11ff1-cb3a-4de6-b907-453e907a1479",
-    "episode_title": "Can World Cup mania grow MLS in the U.S.?",
-    "release_date": "2026-07-17 22:43:18",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "081c8772-4075-43b0-8148-c52833a61775",
-    "episode_title": "How to Combat Pain",
-    "release_date": "2026-07-20 14:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "266c6a86-8559-11f1-a679-ebb68a31490a",
     "episode_title": "#2529 - Zach Bush",
     "release_date": "2026-07-22 17:00:00",
@@ -103,6 +96,34 @@
     "release_date": "2026-07-16 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT2845814639.mp3",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "da71a69e-34bd-420b-a585-064ccfc1d672",
+    "episode_title": "The Original 100 Objects",
+    "release_date": "2026-07-21 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "0e1458b3-f7d4-4de5-bbbc-db29524e5bc0",
+    "episode_title": "100 Objects #9: Missing Children Milk Carton",
+    "release_date": "2026-07-17 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "081c8772-4075-43b0-8148-c52833a61775",
+    "episode_title": "How to Combat Pain",
+    "release_date": "2026-07-20 14:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "20920c41-cb00-4a5f-9f42-b48d013f5435",
+    "episode_title": "What's the deal with Swiss neutrality?",
+    "release_date": "2026-07-23 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/20920c41-cb00-4a5f-9f42-b48d013f5435/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "311c0e00-9214-4172-a1b2-b486012d24c0",
@@ -133,18 +154,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "da71a69e-34bd-420b-a585-064ccfc1d672",
-    "episode_title": "The Original 100 Objects",
-    "release_date": "2026-07-21 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "0e1458b3-f7d4-4de5-bbbc-db29524e5bc0",
-    "episode_title": "100 Objects #9: Missing Children Milk Carton",
-    "release_date": "2026-07-17 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/5ae8ead5-80fc-4760-b0f0-d1c8a0521f83/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=5ae8ead5-80fc-4760-b0f0-d1c8a0521f83&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "gid://art19-episode-locator/V0/cAK31LxAmrJZLpEnLxL1hayORn7Taayo3d8X81CEiz4",
+    "episode_title": "Advice Line with Curt Richardson of OtterBox",
+    "release_date": "2026-07-23 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/e94bf774-de11-4434-843b-a551309a6773.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/eGG039Qu0oGSWOP_3hHAGhaI9X7jy7X_6GKMS2o9aLM",
@@ -154,11 +168,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/SlEuTgzfXjYO_Rrudjv0V9yyH09zn26Ue4qDwoYbEMA",
-    "episode_title": "Advice Line with Kenneth Cole",
-    "release_date": "2026-07-16 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/83717cb6-e000-4cde-898d-792249545f88.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "6dae2063-6e7f-48b2-9a2c-b4810165183f",
+    "episode_title": "The Staten Island Problem - Part  3: The Tuvalu Effect",
+    "release_date": "2026-07-23 04:30:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc",
@@ -166,62 +180,6 @@
     "release_date": "2026-07-22 21:00:00",
     "mp3_url": "https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo",
-    "episode_title": "#875: The Random Show \u2014 Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for \u201cSomeday\u201d",
-    "release_date": "2026-07-16 13:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/8b8d6e74-d53a-4209-ab52-398ed0854fea.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "6eb007a3-0ca2-47a4-ba03-b4810156776b",
-    "episode_title": "The Staten Island Problem - Part 2: A New Map",
-    "release_date": "2026-07-16 04:30:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6eb007a3-0ca2-47a4-ba03-b4810156776b/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "7f51f038-9b26-4295-9da1-81e0d79c69bc",
-    "episode_title": "Molly Shannon Returns",
-    "release_date": "2026-07-20 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0bfe7edf-2fa8-40a0-8996-5cd5969cc01b",
-    "episode_title": "Conan Unboxes \u201cToy Story\u201d Merch",
-    "release_date": "2026-07-16 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/fd8d7f1a-1a6e-47fe-9d6d-e665336a08da/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=fd8d7f1a-1a6e-47fe-9d6d-e665336a08da&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
-    "episode_title": "Walking the Walk: The Moth Radio Hour",
-    "release_date": "2026-07-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
-    "episode_title": "Hard Talks: The Moth Podcast",
-    "release_date": "2026-07-17 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "79187a3d-9532-4ae5-914b-a9483f55fc66",
-    "episode_title": "\"Timothy Olyphant\"",
-    "release_date": "2026-07-20 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "7505184e-9198-4d1a-af5d-666e7501db5b",
-    "episode_title": "\"RE-RELEASE: Will Ferrell\u201d",
-    "release_date": "2026-07-16 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/edbee263-1d72-4fcd-afef-0c9aae87bed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=edbee263-1d72-4fcd-afef-0c9aae87bed4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/XFwmjoL7jCuIDRmry4VzmXNAM91XskbPu5b9Ou4pZBo",
@@ -243,5 +201,40 @@
     "release_date": "2026-07-17 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/6cae3220-d71d-4a93-a458-e9a14d59e2af.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "79187a3d-9532-4ae5-914b-a9483f55fc66",
+    "episode_title": "\"Timothy Olyphant\"",
+    "release_date": "2026-07-20 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "c57d8fe8-7bc5-4d25-8e7f-f685b99da5f4",
+    "episode_title": "Knife Porn",
+    "release_date": "2026-07-23 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "7f51f038-9b26-4295-9da1-81e0d79c69bc",
+    "episode_title": "Molly Shannon Returns",
+    "release_date": "2026-07-20 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
+    "episode_title": "Walking the Walk: The Moth Radio Hour",
+    "release_date": "2026-07-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "72b8569c-89d4-11f0-b13f-8be16b03458a",
+    "episode_title": "Hard Talks: The Moth Podcast",
+    "release_date": "2026-07-17 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208782/8208782_2026-04-13-035222.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]
