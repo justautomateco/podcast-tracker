@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-25 01:52:52
+Last updated: 2026-07-25 13:04:07
 
 ## Freakonomics Radio
 
@@ -62,6 +62,16 @@ Last updated: 2026-07-25 01:52:52
 
 ---
 
+## This American Life
+
+### 892: Trapped on a Bus
+
+**Released:** 2026-07-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+
+---
+
 ## Planet Money
 
 ### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
@@ -85,26 +95,6 @@ Last updated: 2026-07-25 01:52:52
 **Released:** 2026-07-21 21:00:01
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286)
-
----
-
-## This American Life
-
-### 892: Trapped on a Bus
-
-**Released:** 2026-07-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
-
----
-
-## Hidden Brain
-
-### How to Combat Pain
-
-**Released:** 2026-07-20 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
 
 ---
 
@@ -134,7 +124,25 @@ Last updated: 2026-07-25 01:52:52
 
 ---
 
+## Hidden Brain
+
+### How to Combat Pain
+
+**Released:** 2026-07-20 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### Selects: Plant Migration
+
+**Released:** 2026-07-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f29c2a4-c007-4948-9ed6-b491016e4434/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### What's the deal with Swiss neutrality?
 
@@ -160,14 +168,6 @@ Last updated: 2026-07-25 01:52:52
 
 ---
 
-### Selects: The Soul Train Episode
-
-**Released:** 2026-07-18 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a6974678-74d8-461d-a350-b487012f7da0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #10: Nunchaku
@@ -183,16 +183,6 @@ Last updated: 2026-07-25 01:52:52
 **Released:** 2026-07-21 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  3: The Tuvalu Effect
-
-**Released:** 2026-07-23 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -214,29 +204,13 @@ Last updated: 2026-07-25 01:52:52
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Armchair Anonymous: Wild Card XIII
+### The Staten Island Problem - Part  3: The Tuvalu Effect
 
-**Released:** 2026-07-24 07:30:00
+**Released:** 2026-07-23 04:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b2793bbc-aac7-4eff-ae14-3dcf8c110974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tommy Lee
-
-**Released:** 2026-07-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/76bd003c-cf2c-478f-94c8-a05eb380969e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Geena Davis
-
-**Released:** 2026-07-20 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db4847c2-ae55-47f0-a69e-9d97ad934382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -275,6 +249,32 @@ Last updated: 2026-07-25 01:52:52
 **Released:** 2026-07-20 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Wild Card XIII
+
+**Released:** 2026-07-24 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b2793bbc-aac7-4eff-ae14-3dcf8c110974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Tommy Lee
+
+**Released:** 2026-07-22 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/76bd003c-cf2c-478f-94c8-a05eb380969e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Geena Davis
+
+**Released:** 2026-07-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db4847c2-ae55-47f0-a69e-9d97ad934382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
