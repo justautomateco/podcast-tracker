@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-24 13:19:31
+Last updated: 2026-07-25 01:52:52
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-07-24 13:19:31
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 892: Trapped on a Bus
+### How to get past the "messy middle" of a big change | Mary Martin
 
-**Released:** 2026-07-19 18:00:00
+**Released:** 2026-07-24 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8e607a878a338089be4a/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### A street librarian's quest to bring books to everyone | Storybook Maze (re-release)
 
@@ -64,15 +62,15 @@ Last updated: 2026-07-24 13:19:31
 
 ---
 
-### Sunday Pick: Why you should try improv comedy (w/ Rick Andrews) | How to Be a Better Human
+## Planet Money
 
-**Released:** 2026-07-19 06:00:00
+### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a57d55cc0080f2be7f62f05/media.mp3)
+**Released:** 2026-07-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473)
 
 ---
-
-## Planet Money
 
 ### Big Lettuce meets Small Intestine
 
@@ -90,11 +88,13 @@ Last updated: 2026-07-24 13:19:31
 
 ---
 
-### Can World Cup mania grow MLS in the U.S.?
+## This American Life
 
-**Released:** 2026-07-17 22:43:18
+### 892: Trapped on a Bus
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
+**Released:** 2026-07-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
 
 ---
 
@@ -105,6 +105,32 @@ Last updated: 2026-07-24 13:19:31
 **Released:** 2026-07-20 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2530 - Timothy Alberino
+
+**Released:** 2026-07-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8709484594.mp3)
+
+---
+
+### #2529 - Zach Bush
+
+**Released:** 2026-07-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6631073592.mp3)
+
+---
+
+### #2528 - Cassie Coppersmith
+
+**Released:** 2026-07-21 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3078553075.mp3)
 
 ---
 
@@ -142,32 +168,6 @@ Last updated: 2026-07-24 13:19:31
 
 ---
 
-## The Joe Rogan Experience
-
-### #2530 - Timothy Alberino
-
-**Released:** 2026-07-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8709484594.mp3)
-
----
-
-### #2529 - Zach Bush
-
-**Released:** 2026-07-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6631073592.mp3)
-
----
-
-### #2528 - Cassie Coppersmith
-
-**Released:** 2026-07-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3078553075.mp3)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #10: Nunchaku
@@ -186,6 +186,16 @@ Last updated: 2026-07-24 13:19:31
 
 ---
 
+## Revisionist History
+
+### The Staten Island Problem - Part  3: The Tuvalu Effect
+
+**Released:** 2026-07-23 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Curt Richardson of OtterBox
@@ -201,72 +211,6 @@ Last updated: 2026-07-24 13:19:31
 **Released:** 2026-07-20 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6eca81bc-b0e1-47e2-a87d-f3b243e76a97.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  3: The Tuvalu Effect
-
-**Released:** 2026-07-23 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
-
-**Released:** 2026-07-22 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Timothy Olyphant"
-
-**Released:** 2026-07-20 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Knife Porn
-
-**Released:** 2026-07-23 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH)
-
----
-
-### Molly Shannon Returns
-
-**Released:** 2026-07-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Bittersweet: The Moth Podcast
-
-**Released:** 2026-07-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066)
-
----
-
-### Walking the Walk: The Moth Radio Hour
-
-**Released:** 2026-07-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066)
 
 ---
 
@@ -293,6 +237,62 @@ Last updated: 2026-07-24 13:19:31
 **Released:** 2026-07-20 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/db4847c2-ae55-47f0-a69e-9d97ad934382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Knife Porn
+
+**Released:** 2026-07-23 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH)
+
+---
+
+### Molly Shannon Returns
+
+**Released:** 2026-07-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/15c1adf1-2f21-430b-a7ad-76af0d22eb00/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=15c1adf1-2f21-430b-a7ad-76af0d22eb00&feed=dHoohVNH)
+
+---
+
+## The Tim Ferriss Show
+
+### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
+
+**Released:** 2026-07-22 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Timothy Olyphant"
+
+**Released:** 2026-07-20 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Bittersweet: The Moth Podcast
+
+**Released:** 2026-07-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066)
+
+---
+
+### Walking the Walk: The Moth Radio Hour
+
+**Released:** 2026-07-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066)
 
 ---
 
