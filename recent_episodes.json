@@ -14,6 +14,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46192 at https://www.thisamericanlife.org",
+    "episode_title": "892: Trapped on a Bus",
+    "release_date": "2026-07-19 18:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a5a8ed962e50b14bdbc7961",
+    "episode_title": "A cosmologist's guide to the end of the universe | Katie Mack and Debbie Millman",
+    "release_date": "2026-07-25 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8ed962e50b14bdbc7961/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a5a8e607a878a338089be4a",
     "episode_title": "How to get past the \"messy middle\" of a big change | Mary Martin",
     "release_date": "2026-07-24 15:00:00",
@@ -42,24 +56,10 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a58fae078e0412bc6b44039",
-    "episode_title": "Why AI is an even bigger deal than you think | Reed Hastings",
-    "release_date": "2026-07-20 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a58fae078e0412bc6b44039/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46192 at https://www.thisamericanlife.org",
-    "episode_title": "892: Trapped on a Bus",
-    "release_date": "2026-07-19 18:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "114d32ca-0f46-4a42-b717-ff63f75bec77",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "release_date": "2026-07-24 20:00:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473",
     "podcast_name": "Planet Money"
   },
   {
@@ -75,34 +75,6 @@
     "release_date": "2026-07-21 21:00:01",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "b569ee94-856c-11f1-bb2f-cf7ff131c798",
-    "episode_title": "#2530 - Timothy Alberino",
-    "release_date": "2026-07-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8709484594.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "266c6a86-8559-11f1-a679-ebb68a31490a",
-    "episode_title": "#2529 - Zach Bush",
-    "release_date": "2026-07-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "8aaa3e0c-8495-11f1-8af9-63001aaad13a",
-    "episode_title": "#2528 - Cassie Coppersmith",
-    "release_date": "2026-07-21 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3078553075.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "081c8772-4075-43b0-8148-c52833a61775",
-    "episode_title": "How to Combat Pain",
-    "release_date": "2026-07-20 14:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "2f29c2a4-c007-4948-9ed6-b491016e4434",
@@ -133,6 +105,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "081c8772-4075-43b0-8148-c52833a61775",
+    "episode_title": "How to Combat Pain",
+    "release_date": "2026-07-20 14:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9b8aa098-bc6a-439a-8ed8-dafd9e8bb5fe&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "26ffaf70-2a3f-462d-b472-e0d5cb565017",
     "episode_title": "100 Objects #10: Nunchaku",
     "release_date": "2026-07-24 07:00:00",
@@ -161,11 +140,25 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc",
+    "episode_title": "#876: Dr. Andrew Huberman \u2014 Peptides, Performance, and Protocols",
+    "release_date": "2026-07-22 21:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "6dae2063-6e7f-48b2-9a2c-b4810165183f",
     "episode_title": "The Staten Island Problem - Part  3: The Tuvalu Effect",
     "release_date": "2026-07-23 04:30:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "79187a3d-9532-4ae5-914b-a9483f55fc66",
+    "episode_title": "\"Timothy Olyphant\"",
+    "release_date": "2026-07-20 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "c57d8fe8-7bc5-4d25-8e7f-f685b99da5f4",
@@ -182,18 +175,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc",
-    "episode_title": "#876: Dr. Andrew Huberman \u2014 Peptides, Performance, and Protocols",
-    "release_date": "2026-07-22 21:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "72df46bc-89d4-11f0-b13f-5f9d9dc19ed6",
+    "episode_title": "Bittersweet: The Moth Podcast",
+    "release_date": "2026-07-24 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "79187a3d-9532-4ae5-914b-a9483f55fc66",
-    "episode_title": "\"Timothy Olyphant\"",
-    "release_date": "2026-07-20 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/d8270760-6da7-4fea-8667-33bb7643faae/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=d8270760-6da7-4fea-8667-33bb7643faae&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
+    "episode_title": "Walking the Walk: The Moth Radio Hour",
+    "release_date": "2026-07-21 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/3lT6FHkjPYN-pLQ6PPVVzIk_NE14p7zXjdV3Gc_0KRk",
@@ -215,19 +208,5 @@
     "release_date": "2026-07-20 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/db4847c2-ae55-47f0-a69e-9d97ad934382.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "72df46bc-89d4-11f0-b13f-5f9d9dc19ed6",
-    "episode_title": "Bittersweet: The Moth Podcast",
-    "release_date": "2026-07-24 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "721f0028-89d4-11f0-b13f-9bf523817276",
-    "episode_title": "Walking the Walk: The Moth Radio Hour",
-    "release_date": "2026-07-21 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   }
 ]
