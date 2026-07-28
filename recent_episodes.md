@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-28 01:46:18
+Last updated: 2026-07-28 13:42:22
+
+## Freakonomics Radio
+
+### 682. Should A.I. Move to Space?
+
+**Released:** 2026-07-24 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4)
+
+---
+
+### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
+
+**Released:** 2026-07-22 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 893: Testosterone
+
+**Released:** 2026-07-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+
+---
 
 ## TED Talks Daily
 
@@ -44,24 +72,6 @@ Last updated: 2026-07-28 01:46:18
 
 ---
 
-## Freakonomics Radio
-
-### 682. Should A.I. Move to Space?
-
-**Released:** 2026-07-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4)
-
----
-
-### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
-
-**Released:** 2026-07-22 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
@@ -85,16 +95,6 @@ Last updated: 2026-07-28 01:46:18
 **Released:** 2026-07-21 21:00:01
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286)
-
----
-
-## This American Life
-
-### 893: Testosterone
-
-**Released:** 2026-07-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -134,25 +134,15 @@ Last updated: 2026-07-28 01:46:18
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #10: Nunchaku
-
-**Released:** 2026-07-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
-
----
-
-### The Original 100 Objects
-
-**Released:** 2026-07-21 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/20091ae3-e852-4dd8-8440-b068096595f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=20091ae3-e852-4dd8-8440-b068096595f0&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### The Beloved Judy Blume
+
+**Released:** 2026-07-28 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a2aaa39d-5487-415b-9495-b48e00e60c02/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Plant Migration
 
@@ -178,21 +168,21 @@ Last updated: 2026-07-28 01:46:18
 
 ---
 
-### The Tobacco Master Settlement: That Time We Got Em
+## 99% Invisible
 
-**Released:** 2026-07-21 09:00:00
+### The Finnish Baby Box
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9b441792-f960-4432-811f-b48d0118b80e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-07-28 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
 
 ---
 
-## The Tim Ferriss Show
+### 100 Objects #10: Nunchaku
 
-### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
+**Released:** 2026-07-24 07:00:00
 
-**Released:** 2026-07-22 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
 
 ---
 
@@ -224,6 +214,26 @@ Last updated: 2026-07-28 01:46:18
 
 ---
 
+## The Tim Ferriss Show
+
+### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
+
+**Released:** 2026-07-22 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marcus Mumford"
+
+**Released:** 2026-07-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Leslie Jones Returns
@@ -239,34 +249,6 @@ Last updated: 2026-07-28 01:46:18
 **Released:** 2026-07-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Bittersweet: The Moth Podcast
-
-**Released:** 2026-07-24 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066)
-
----
-
-### Walking the Walk: The Moth Radio Hour
-
-**Released:** 2026-07-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208788/8208788_2026-04-13-035728.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Marcus Mumford"
-
-**Released:** 2026-07-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +275,24 @@ Last updated: 2026-07-28 01:46:18
 **Released:** 2026-07-22 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/76bd003c-cf2c-478f-94c8-a05eb380969e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Feel Good: The Moth Radio Hour
+
+**Released:** 2026-07-28 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066)
+
+---
+
+### Bittersweet: The Moth Podcast
+
+**Released:** 2026-07-24 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066)
 
 ---
 
