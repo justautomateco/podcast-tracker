@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-29 01:48:27
+Last updated: 2026-07-29 13:47:54
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-07-29 01:48:27
 **Released:** 2026-07-24 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 893: Testosterone
-
-**Released:** 2026-07-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -72,7 +62,25 @@ Last updated: 2026-07-29 01:48:27
 
 ---
 
+## This American Life
+
+### 893: Testosterone
+
+**Released:** 2026-07-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+
+---
+
 ## Planet Money
+
+### How to beat the resource curse in Norway (Summer School)
+
+**Released:** 2026-07-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909324&p=510362&d=2335&size=37367727)
+
+---
 
 ### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
@@ -87,6 +95,24 @@ Last updated: 2026-07-29 01:48:27
 **Released:** 2026-07-22 23:16:26
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953)
+
+---
+
+## 99% Invisible
+
+### The Finnish Baby Box
+
+**Released:** 2026-07-28 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #10: Nunchaku
+
+**Released:** 2026-07-24 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
 
 ---
 
@@ -128,6 +154,14 @@ Last updated: 2026-07-29 01:48:27
 
 ## Stuff You Should Know
 
+### Short Stuff: Shark Arm Murders
+
+**Released:** 2026-07-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7950b530-26a3-4bbf-9614-b495013a19f8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Beloved Judy Blume
 
 **Released:** 2026-07-28 09:00:00
@@ -152,52 +186,6 @@ Last updated: 2026-07-29 01:48:27
 
 ---
 
-### Short Stuff: Sardines!
-
-**Released:** 2026-07-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/311c0e00-9214-4172-a1b2-b486012d24c0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Finnish Baby Box
-
-**Released:** 2026-07-28 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
-
----
-
-### 100 Objects #10: Nunchaku
-
-**Released:** 2026-07-24 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
-
-**Released:** 2026-07-22 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  3: The Tuvalu Effect
-
-**Released:** 2026-07-23 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. 
@@ -213,6 +201,26 @@ Last updated: 2026-07-29 01:48:27
 **Released:** 2026-07-23 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e94bf774-de11-4434-843b-a551309a6773.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  3: The Tuvalu Effect
+
+**Released:** 2026-07-23 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
+
+**Released:** 2026-07-22 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -246,6 +254,14 @@ Last updated: 2026-07-29 01:48:27
 
 ## Armchair Expert
 
+### Eva Benefield (on surviving the Black Swan Murder)
+
+**Released:** 2026-07-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f80caf0-2da8-4d83-ace2-18841786ca31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Alan Ritchson
 
 **Released:** 2026-07-27 07:30:00
@@ -259,14 +275,6 @@ Last updated: 2026-07-29 01:48:27
 **Released:** 2026-07-24 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b2793bbc-aac7-4eff-ae14-3dcf8c110974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Tommy Lee
-
-**Released:** 2026-07-22 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/76bd003c-cf2c-478f-94c8-a05eb380969e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
