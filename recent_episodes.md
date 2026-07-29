@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-28 13:42:22
+Last updated: 2026-07-29 01:48:27
 
 ## Freakonomics Radio
+
+### How Gary Gulman Turned Depression Into Comedy Gold | Better in Person
+
+**Released:** 2026-07-29 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4)
+
+---
 
 ### 682. Should A.I. Move to Space?
 
 **Released:** 2026-07-24 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4)
-
----
-
-### Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person
-
-**Released:** 2026-07-22 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4)
 
 ---
 
@@ -31,6 +31,14 @@ Last updated: 2026-07-28 13:42:22
 ---
 
 ## TED Talks Daily
+
+### What music is for | Wallis Bird
+
+**Released:** 2026-07-28 16:12:07
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a68c41e0ee147a124921842/media.mp3)
+
+---
 
 ### What's your leadership language? | Rosita Najmi (re-release)
 
@@ -64,14 +72,6 @@ Last updated: 2026-07-28 13:42:22
 
 ---
 
-### A street librarian's quest to bring books to everyone | Storybook Maze (re-release)
-
-**Released:** 2026-07-23 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6134cd4fac21e67f5623d2/media.mp3)
-
----
-
 ## Planet Money
 
 ### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
@@ -90,15 +90,15 @@ Last updated: 2026-07-28 13:42:22
 
 ---
 
-### New NPR Series: "We Keep Us Safe" from the Embedded podcast
+## The Joe Rogan Experience
 
-**Released:** 2026-07-21 21:00:01
+### #2531 - Forrest Galante
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286)
+**Released:** 2026-07-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2530 - Timothy Alberino
 
@@ -113,14 +113,6 @@ Last updated: 2026-07-28 13:42:22
 **Released:** 2026-07-22 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6631073592.mp3)
-
----
-
-### #2528 - Cassie Coppersmith
-
-**Released:** 2026-07-21 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3078553075.mp3)
 
 ---
 
@@ -186,6 +178,16 @@ Last updated: 2026-07-28 13:42:22
 
 ---
 
+## The Tim Ferriss Show
+
+### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
+
+**Released:** 2026-07-22 21:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Revisionist History
 
 ### The Staten Island Problem - Part  3: The Tuvalu Effect
@@ -214,26 +216,6 @@ Last updated: 2026-07-28 13:42:22
 
 ---
 
-## The Tim Ferriss Show
-
-### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
-
-**Released:** 2026-07-22 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Marcus Mumford"
-
-**Released:** 2026-07-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Leslie Jones Returns
@@ -249,6 +231,16 @@ Last updated: 2026-07-28 13:42:22
 **Released:** 2026-07-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Marcus Mumford"
+
+**Released:** 2026-07-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 

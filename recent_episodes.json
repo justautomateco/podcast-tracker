@@ -1,16 +1,16 @@
 [
   {
+    "guid": "cf6ca0fb-9f5f-4a67-9afb-31b43e6100fa",
+    "episode_title": "How Gary Gulman Turned Depression Into Comedy Gold | Better in Person",
+    "release_date": "2026-07-29 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "e8da1f1f-a5ec-4942-b617-06f2201e32e2",
     "episode_title": "682. Should A.I. Move to Space?",
     "release_date": "2026-07-24 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "87ea13c4-1f60-4692-baf8-428bb9faf128",
-    "episode_title": "Why Cooking is Caregiving, with Chef Hillary Sterling | Better in Person",
-    "release_date": "2026-07-22 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/b4cb6600-fb97-4662-911f-2e4fc5a1b5e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=b4cb6600-fb97-4662-911f-2e4fc5a1b5e8&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -19,6 +19,13 @@
     "release_date": "2026-07-26 18:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a68c41e0ee147a124921842",
+    "episode_title": "What music is for | Wallis Bird",
+    "release_date": "2026-07-28 16:12:07",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a68c41e0ee147a124921842/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a638854614bacdace314ca5",
@@ -49,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a6134cd4fac21e67f5623d2",
-    "episode_title": "A street librarian's quest to bring books to everyone | Storybook Maze (re-release)",
-    "release_date": "2026-07-23 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6134cd4fac21e67f5623d2/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "114d32ca-0f46-4a42-b717-ff63f75bec77",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "release_date": "2026-07-24 20:00:00",
@@ -70,11 +70,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab",
-    "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
-    "release_date": "2026-07-21 21:00:01",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
-    "podcast_name": "Planet Money"
+    "guid": "bfe7ec64-8a20-11f1-b3c0-37f3fff0fd04",
+    "episode_title": "#2531 - Forrest Galante",
+    "release_date": "2026-07-28 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8330959199.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "b569ee94-856c-11f1-bb2f-cf7ff131c798",
@@ -88,13 +88,6 @@
     "episode_title": "#2529 - Zach Bush",
     "release_date": "2026-07-22 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6631073592.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "8aaa3e0c-8495-11f1-8af9-63001aaad13a",
-    "episode_title": "#2528 - Cassie Coppersmith",
-    "release_date": "2026-07-21 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3078553075.mp3",
     "podcast_name": "The Joe Rogan Experience"
   },
   {
@@ -147,6 +140,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc",
+    "episode_title": "#876: Dr. Andrew Huberman \u2014 Peptides, Performance, and Protocols",
+    "release_date": "2026-07-22 21:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "6dae2063-6e7f-48b2-9a2c-b4810165183f",
     "episode_title": "The Staten Island Problem - Part  3: The Tuvalu Effect",
     "release_date": "2026-07-23 04:30:00",
@@ -168,20 +168,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc",
-    "episode_title": "#876: Dr. Andrew Huberman \u2014 Peptides, Performance, and Protocols",
-    "release_date": "2026-07-22 21:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "79122a6a-f227-4abc-a0c6-ef445e8c42f2",
-    "episode_title": "\"Marcus Mumford\"",
-    "release_date": "2026-07-27 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "bf975cc3-a8f8-489e-b89e-f245a092302c",
     "episode_title": "Leslie Jones Returns",
     "release_date": "2026-07-27 04:05:00",
@@ -194,6 +180,13 @@
     "release_date": "2026-07-23 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "79122a6a-f227-4abc-a0c6-ef445e8c42f2",
+    "episode_title": "\"Marcus Mumford\"",
+    "release_date": "2026-07-27 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/5TdwQCn8nIX_nyBrRHgrJBirzCpcrb41-itagcNqxz8",
