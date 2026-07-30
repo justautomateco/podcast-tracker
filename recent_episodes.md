@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-29 13:47:54
+Last updated: 2026-07-30 01:41:30
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-07-29 13:47:54
 ---
 
 ## TED Talks Daily
+
+### The gift and power of emotional courage | Susan David (re-release)
+
+**Released:** 2026-07-29 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a68e5cd25e6bb22178efa4f/media.mp3)
+
+---
 
 ### What music is for | Wallis Bird
 
@@ -54,24 +62,6 @@ Last updated: 2026-07-29 13:47:54
 
 ---
 
-### How to get past the "messy middle" of a big change | Mary Martin
-
-**Released:** 2026-07-24 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8e607a878a338089be4a/media.mp3)
-
----
-
-## This American Life
-
-### 893: Testosterone
-
-**Released:** 2026-07-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
-
----
-
 ## Planet Money
 
 ### How to beat the resource curse in Norway (Summer School)
@@ -90,11 +80,49 @@ Last updated: 2026-07-29 13:47:54
 
 ---
 
-### Big Lettuce meets Small Intestine
+## This American Life
 
-**Released:** 2026-07-22 23:16:26
+### 893: Testosterone
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953)
+**Released:** 2026-07-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2532 - Tim Robbins
+
+**Released:** 2026-07-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
+
+---
+
+### #2531 - Forrest Galante
+
+**Released:** 2026-07-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
+
+---
+
+### #2530 - Timothy Alberino
+
+**Released:** 2026-07-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8709484594.mp3)
+
+---
+
+## Hidden Brain
+
+### You Are Not Ordinary
+
+**Released:** 2026-07-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/97717532-a648-45d4-b0c8-798e0e03fe29/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=97717532-a648-45d4-b0c8-798e0e03fe29&feed=kwWc0lhf)
 
 ---
 
@@ -113,42 +141,6 @@ Last updated: 2026-07-29 13:47:54
 **Released:** 2026-07-24 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2531 - Forrest Galante
-
-**Released:** 2026-07-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
-
----
-
-### #2530 - Timothy Alberino
-
-**Released:** 2026-07-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8709484594.mp3)
-
----
-
-### #2529 - Zach Bush
-
-**Released:** 2026-07-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6631073592.mp3)
-
----
-
-## Hidden Brain
-
-### You Are Not Ordinary
-
-**Released:** 2026-07-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/97717532-a648-45d4-b0c8-798e0e03fe29/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=97717532-a648-45d4-b0c8-798e0e03fe29&feed=kwWc0lhf)
 
 ---
 
@@ -186,6 +178,26 @@ Last updated: 2026-07-29 13:47:54
 
 ---
 
+## The Tim Ferriss Show
+
+### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
+
+**Released:** 2026-07-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  3: The Tuvalu Effect
+
+**Released:** 2026-07-23 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. 
@@ -204,26 +216,6 @@ Last updated: 2026-07-29 13:47:54
 
 ---
 
-## Revisionist History
-
-### The Staten Island Problem - Part  3: The Tuvalu Effect
-
-**Released:** 2026-07-23 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6dae2063-6e7f-48b2-9a2c-b4810165183f/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #876: Dr. Andrew Huberman — Peptides, Performance, and Protocols
-
-**Released:** 2026-07-22 21:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/704b2f6c-7362-4586-bf69-093021bc40e6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Leslie Jones Returns
@@ -239,16 +231,6 @@ Last updated: 2026-07-29 13:47:54
 **Released:** 2026-07-23 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/19b16717-d712-4b4d-ab46-3d8031a95c50/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=19b16717-d712-4b4d-ab46-3d8031a95c50&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Marcus Mumford"
-
-**Released:** 2026-07-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +257,16 @@ Last updated: 2026-07-29 13:47:54
 **Released:** 2026-07-24 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b2793bbc-aac7-4eff-ae14-3dcf8c110974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marcus Mumford"
+
+**Released:** 2026-07-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 
