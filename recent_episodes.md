@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-30 13:29:29
+Last updated: 2026-07-31 01:58:42
 
 ## Freakonomics Radio
 
@@ -30,51 +30,15 @@ Last updated: 2026-07-30 13:29:29
 
 ---
 
-## The Joe Rogan Experience
-
-### #2532 - Tim Robbins
-
-**Released:** 2026-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
-
----
-
-### #2531 - Forrest Galante
-
-**Released:** 2026-07-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
-
----
-
-### #2530 - Timothy Alberino
-
-**Released:** 2026-07-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8709484594.mp3)
-
----
-
-## Planet Money
-
-### How to beat the resource curse in Norway (Summer School)
-
-**Released:** 2026-07-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
-
----
-
-### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
-
-**Released:** 2026-07-24 20:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473)
-
----
-
 ## TED Talks Daily
+
+### How doodling unlocks your imagination | Joe Whale
+
+**Released:** 2026-07-30 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6b6552248de9b0b258c896/media.mp3)
+
+---
 
 ### The gift and power of emotional courage | Susan David (re-release)
 
@@ -108,11 +72,47 @@ Last updated: 2026-07-30 13:29:29
 
 ---
 
-### A cosmologist's guide to the end of the universe | Katie Mack and Debbie Millman
+## The Joe Rogan Experience
 
-**Released:** 2026-07-25 15:00:00
+### #2533 - Diana Pasulka
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a8ed962e50b14bdbc7961/media.mp3)
+**Released:** 2026-07-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1888945098.mp3)
+
+---
+
+### #2532 - Tim Robbins
+
+**Released:** 2026-07-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
+
+---
+
+### #2531 - Forrest Galante
+
+**Released:** 2026-07-28 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
+
+---
+
+## Planet Money
+
+### How to beat the resource curse in Norway (Summer School)
+
+**Released:** 2026-07-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
+
+---
+
+### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+
+**Released:** 2026-07-24 20:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473)
 
 ---
 
@@ -178,16 +178,6 @@ Last updated: 2026-07-30 13:29:29
 
 ---
 
-## The Tim Ferriss Show
-
-### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
-
-**Released:** 2026-07-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Advice Line with Chris Riccobono of UNTUCKit
@@ -216,6 +206,26 @@ Last updated: 2026-07-30 13:29:29
 
 ---
 
+## The Tim Ferriss Show
+
+### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
+
+**Released:** 2026-07-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Marcus Mumford"
+
+**Released:** 2026-07-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 1
@@ -231,16 +241,6 @@ Last updated: 2026-07-30 13:29:29
 **Released:** 2026-07-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d3a88924-de3a-4dc5-b632-ef3db87c8459/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d3a88924-de3a-4dc5-b632-ef3db87c8459&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Marcus Mumford"
-
-**Released:** 2026-07-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 
