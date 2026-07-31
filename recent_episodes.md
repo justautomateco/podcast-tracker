@@ -1,32 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-31 01:58:42
+Last updated: 2026-07-31 13:42:54
 
 ## Freakonomics Radio
+
+### 683. In the New Space Race, Who Makes the Rules?
+
+**Released:** 2026-07-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4)
+
+---
 
 ### How Gary Gulman Turned Depression Into Comedy Gold | Better in Person
 
 **Released:** 2026-07-29 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4)
-
----
-
-### 682. Should A.I. Move to Space?
-
-**Released:** 2026-07-24 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 893: Testosterone
-
-**Released:** 2026-07-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -69,6 +59,16 @@ Last updated: 2026-07-31 01:58:42
 **Released:** 2026-07-26 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3)
+
+---
+
+## This American Life
+
+### 893: Testosterone
+
+**Released:** 2026-07-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -162,6 +162,14 @@ Last updated: 2026-07-31 01:58:42
 
 ## 99% Invisible
 
+### 100 Objects #11: Brannock Device
+
+**Released:** 2026-07-31 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
+
+---
+
 ### The Finnish Baby Box
 
 **Released:** 2026-07-28 08:00:00
@@ -170,11 +178,13 @@ Last updated: 2026-07-31 01:58:42
 
 ---
 
-### 100 Objects #10: Nunchaku
+## Revisionist History
 
-**Released:** 2026-07-24 07:00:00
+### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd4620a7-b307-4bfd-b37b-4533e19cb13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd4620a7-b307-4bfd-b37b-4533e19cb13c&feed=BqbsxVfO)
+**Released:** 2026-07-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -196,36 +206,6 @@ Last updated: 2026-07-31 01:58:42
 
 ---
 
-## Revisionist History
-
-### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
-
-**Released:** 2026-07-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
-
-**Released:** 2026-07-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Marcus Mumford"
-
-**Released:** 2026-07-27 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 1
@@ -244,7 +224,33 @@ Last updated: 2026-07-31 01:58:42
 
 ---
 
+## The Moth
+
+### Rollerskates and Legacy: The Moth Podcast
+
+**Released:** 2026-07-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
+
+---
+
+### Feel Good: The Moth Radio Hour
+
+**Released:** 2026-07-28 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Home Intruder
+
+**Released:** 2026-07-31 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Eva Benefield (on surviving the Black Swan Murder)
 
@@ -262,29 +268,23 @@ Last updated: 2026-07-31 01:58:42
 
 ---
 
-### Armchair Anonymous: Wild Card XIII
+## SmartLess 
 
-**Released:** 2026-07-24 07:30:00
+### "Marcus Mumford"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b2793bbc-aac7-4eff-ae14-3dcf8c110974.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-07-27 07:01:00
 
----
-
-## The Moth
-
-### Feel Good: The Moth Radio Hour
-
-**Released:** 2026-07-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
 
 ---
 
-### Bittersweet: The Moth Podcast
+## The Tim Ferriss Show
 
-**Released:** 2026-07-24 04:25:00
+### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208781/8208781_2026-04-13-035121.192.mp3?rssID=6066)
+**Released:** 2026-07-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
