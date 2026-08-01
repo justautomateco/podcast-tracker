@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-07-31 13:42:54
+Last updated: 2026-08-01 01:59:45
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-07-31 13:42:54
 ---
 
 ## TED Talks Daily
+
+### Why economic inequality is the biggest threat to democracy | Sally Kohn
+
+**Released:** 2026-07-31 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6b67870d497875eba1d8af/media.mp3)
+
+---
 
 ### How doodling unlocks your imagination | Joe Whale
 
@@ -54,25 +62,33 @@ Last updated: 2026-07-31 13:42:54
 
 ---
 
-### Sunday Pick: The Office’s Rainn Wilson on meaning and happiness | ReThinking with Adam Grant
+## Planet Money
 
-**Released:** 2026-07-26 06:00:00
+### What makes a toy go viral
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3)
+**Released:** 2026-07-31 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
 
 ---
 
-## This American Life
+### How to beat the resource curse in Norway (Summer School)
 
-### 893: Testosterone
+**Released:** 2026-07-29 07:30:00
 
-**Released:** 2026-07-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2534 - Annie Jacobsen
+
+**Released:** 2026-07-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8411695309.mp3)
+
+---
 
 ### #2533 - Diana Pasulka
 
@@ -98,31 +114,13 @@ Last updated: 2026-07-31 13:42:54
 
 ---
 
-## Planet Money
+## This American Life
 
-### How to beat the resource curse in Norway (Summer School)
+### 893: Testosterone
 
-**Released:** 2026-07-29 07:30:00
+**Released:** 2026-07-26 18:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
-
----
-
-### Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
-
-**Released:** 2026-07-24 20:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473)
-
----
-
-## Hidden Brain
-
-### You Are Not Ordinary
-
-**Released:** 2026-07-27 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/97717532-a648-45d4-b0c8-798e0e03fe29/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=97717532-a648-45d4-b0c8-798e0e03fe29&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -160,6 +158,16 @@ Last updated: 2026-07-31 13:42:54
 
 ---
 
+## Hidden Brain
+
+### You Are Not Ordinary
+
+**Released:** 2026-07-27 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/97717532-a648-45d4-b0c8-798e0e03fe29/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=97717532-a648-45d4-b0c8-798e0e03fe29&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### 100 Objects #11: Brannock Device
@@ -175,6 +183,26 @@ Last updated: 2026-07-31 13:42:54
 **Released:** 2026-07-28 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
+
+---
+
+## Hardcore History
+
+### Show 74 - Mania for Subjugation IV
+
+**Released:** 2026-07-31 10:02:23
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+
+---
+
+## The Tim Ferriss Show
+
+### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
+
+**Released:** 2026-07-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,6 +234,16 @@ Last updated: 2026-07-31 13:42:54
 
 ---
 
+## SmartLess 
+
+### "Marcus Mumford"
+
+**Released:** 2026-07-27 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 1
@@ -221,24 +259,6 @@ Last updated: 2026-07-31 13:42:54
 **Released:** 2026-07-27 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d3a88924-de3a-4dc5-b632-ef3db87c8459/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d3a88924-de3a-4dc5-b632-ef3db87c8459&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Rollerskates and Legacy: The Moth Podcast
-
-**Released:** 2026-07-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
-
----
-
-### Feel Good: The Moth Radio Hour
-
-**Released:** 2026-07-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066)
 
 ---
 
@@ -268,23 +288,21 @@ Last updated: 2026-07-31 13:42:54
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Marcus Mumford"
+### Rollerskates and Legacy: The Moth Podcast
 
-**Released:** 2026-07-27 07:01:00
+**Released:** 2026-07-31 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
 
 ---
 
-## The Tim Ferriss Show
+### Feel Good: The Moth Radio Hour
 
-### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
+**Released:** 2026-07-28 04:25:00
 
-**Released:** 2026-07-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066)
 
 ---
 
