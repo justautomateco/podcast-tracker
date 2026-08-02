@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-02 01:56:13
+Last updated: 2026-08-02 13:01:36
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 893: Testosterone
+### Sunday Pick: How to Survive a Losing Team | Good Sport
 
-**Released:** 2026-07-26 18:00:00
+**Released:** 2026-08-02 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46e34d4b991ebe115ba1/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Two wars, no clear exit plan. Now what? | Ian Bremmer
 
@@ -64,11 +62,31 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
-### What music is for | Wallis Bird
+## Planet Money
 
-**Released:** 2026-07-28 16:12:07
+### What makes a toy go viral
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a68c41e0ee147a124921842/media.mp3)
+**Released:** 2026-07-31 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
+
+---
+
+### How to beat the resource curse in Norway (Summer School)
+
+**Released:** 2026-07-29 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
+
+---
+
+## This American Life
+
+### 893: Testosterone
+
+**Released:** 2026-07-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
 
 ---
 
@@ -106,24 +124,6 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
-## Planet Money
-
-### What makes a toy go viral
-
-**Released:** 2026-07-31 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
-
----
-
-### How to beat the resource curse in Norway (Summer School)
-
-**Released:** 2026-07-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
-
----
-
 ## Hidden Brain
 
 ### You Are Not Ordinary
@@ -131,34 +131,6 @@ Last updated: 2026-08-02 01:56:13
 **Released:** 2026-07-27 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/97717532-a648-45d4-b0c8-798e0e03fe29/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=97717532-a648-45d4-b0c8-798e0e03fe29&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #11: Brannock Device
-
-**Released:** 2026-07-31 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
-
----
-
-### The Finnish Baby Box
-
-**Released:** 2026-07-28 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
-
----
-
-## Hardcore History
-
-### Show 74 - Mania for Subjugation IV
-
-**Released:** 2026-07-31 10:02:23
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
 
 ---
 
@@ -196,6 +168,54 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #11: Brannock Device
+
+**Released:** 2026-07-31 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
+
+---
+
+### The Finnish Baby Box
+
+**Released:** 2026-07-28 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
+
+**Released:** 2026-07-29 18:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Hardcore History
+
+### Show 74 - Mania for Subjugation IV
+
+**Released:** 2026-07-31 10:02:23
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
+
+**Released:** 2026-07-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Chris Riccobono of UNTUCKit
@@ -214,13 +234,21 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
-## Revisionist History
+## Conan O'Brien Needs A Friend
 
-### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
+### Summer S’pouses Episode 1
 
-**Released:** 2026-07-30 04:01:00
+**Released:** 2026-07-30 04:05:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d46b0fdb-05b4-4b04-8a87-85004a75f731/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d46b0fdb-05b4-4b04-8a87-85004a75f731&feed=dHoohVNH)
+
+---
+
+### Leslie Jones Returns
+
+**Released:** 2026-07-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d3a88924-de3a-4dc5-b632-ef3db87c8459/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d3a88924-de3a-4dc5-b632-ef3db87c8459&feed=dHoohVNH)
 
 ---
 
@@ -250,24 +278,6 @@ Last updated: 2026-08-02 01:56:13
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 1
-
-**Released:** 2026-07-30 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d46b0fdb-05b4-4b04-8a87-85004a75f731/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d46b0fdb-05b4-4b04-8a87-85004a75f731&feed=dHoohVNH)
-
----
-
-### Leslie Jones Returns
-
-**Released:** 2026-07-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d3a88924-de3a-4dc5-b632-ef3db87c8459/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d3a88924-de3a-4dc5-b632-ef3db87c8459&feed=dHoohVNH)
-
----
-
 ## SmartLess 
 
 ### "Marcus Mumford"
@@ -275,16 +285,6 @@ Last updated: 2026-08-02 01:56:13
 **Released:** 2026-07-27 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=37d69cd0-82f8-4c72-a53b-4e0c0ee97d5b&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
-
-**Released:** 2026-07-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
