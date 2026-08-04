@@ -1,19 +1,5 @@
 [
   {
-    "guid": "2d21b1d8-c335-41e0-8b44-db566a4e76de",
-    "episode_title": "683. In the New Space Race, Who Makes the Rules?",
-    "release_date": "2026-07-31 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "cf6ca0fb-9f5f-4a67-9afb-31b43e6100fa",
-    "episode_title": "How Gary Gulman Turned Depression Into Comedy Gold | Better in Person",
-    "release_date": "2026-07-29 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "6a70aa0e6af4dfc918169c5e",
     "episode_title": "A journalist's trick for talking to people you can't stand | Joshua Johnson",
     "release_date": "2026-08-03 15:00:00",
@@ -49,11 +35,46 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "2d21b1d8-c335-41e0-8b44-db566a4e76de",
+    "episode_title": "683. In the New Space Race, Who Makes the Rules?",
+    "release_date": "2026-07-31 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "cf6ca0fb-9f5f-4a67-9afb-31b43e6100fa",
+    "episode_title": "How Gary Gulman Turned Depression Into Comedy Gold | Better in Person",
+    "release_date": "2026-07-29 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "46200 at https://www.thisamericanlife.org",
     "episode_title": "894: I Couldn't Help but Notice",
-    "release_date": "2026-08-02 18:00:00",
+    "release_date": "2026-08-02 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "eafc3020-cb80-4280-be5a-ec9dd0eef05d",
+    "episode_title": "Making the Most of Your Mistakes",
+    "release_date": "2026-08-03 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "a00277d1-9d4f-47b0-9804-0575f581359a",
+    "episode_title": "What makes a toy go viral",
+    "release_date": "2026-07-31 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "840c0c66-7c50-4de2-909a-e50d5ce84a0e",
+    "episode_title": "How to beat the resource curse in Norway (Summer School)",
+    "release_date": "2026-07-29 07:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "0eb8a8e6-8c70-11f1-9c27-1f2ea3655d79",
@@ -84,25 +105,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "a00277d1-9d4f-47b0-9804-0575f581359a",
-    "episode_title": "What makes a toy go viral",
-    "release_date": "2026-07-31 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "840c0c66-7c50-4de2-909a-e50d5ce84a0e",
-    "episode_title": "How to beat the resource curse in Norway (Summer School)",
-    "release_date": "2026-07-29 07:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "eafc3020-cb80-4280-be5a-ec9dd0eef05d",
-    "episode_title": "Making the Most of Your Mistakes",
-    "release_date": "2026-08-03 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "53c77c0f-1a95-45f7-aa4e-5cd57e321521",
+    "episode_title": "The Borrowed Nature of Biomimicry",
+    "release_date": "2026-08-04 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "0faaf77b-356c-4ee4-8bde-d8d85bf87c0c",
@@ -112,11 +119,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "e2192134-a4c8-4074-b19e-6a77d317d53f",
-    "episode_title": "The Finnish Baby Box",
-    "release_date": "2026-07-28 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50787e2b-bd99-4c07-ac55-6c2830c06858/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50787e2b-bd99-4c07-ac55-6c2830c06858&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "1061a2a9-d36a-4e3b-bd21-b49c000064b1",
+    "episode_title": "Beans and Rice Feeds the World",
+    "release_date": "2026-08-04 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1061a2a9-d36a-4e3b-bd21-b49c000064b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "9cbcf3dc-90bc-4773-a61a-b496013901a5",
@@ -140,18 +147,25 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "a2aaa39d-5487-415b-9495-b48e00e60c02",
-    "episode_title": "The Beloved Judy Blume",
-    "release_date": "2026-07-28 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a2aaa39d-5487-415b-9495-b48e00e60c02/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "http://traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
     "episode_title": "Show 74 - Mania for Subjugation IV",
     "release_date": "2026-07-31 10:02:23",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
     "podcast_name": "Hardcore History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/gAVaGinFnw4MB0FIZxAYCiOIX1PiSlu8S8DqBVOlS1o",
+    "episode_title": "#877: Q&A with Tim \u2014 The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More",
+    "release_date": "2026-07-29 18:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "44372408-1537-48da-a93a-b48e00f19724",
+    "episode_title": "The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin",
+    "release_date": "2026-07-30 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/KA6bMh7EmgBZrZVUyWs_bsaVtX-I8syr9s2Fhel9e1c",
@@ -168,13 +182,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "44372408-1537-48da-a93a-b48e00f19724",
-    "episode_title": "The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin",
-    "release_date": "2026-07-30 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "0c515de1-060b-4ca9-a1fd-620764a61e1f",
     "episode_title": "Ice Cube",
     "release_date": "2026-08-03 04:05:00",
@@ -189,6 +196,13 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "73421602-89d4-11f0-b13f-03f2a83616c4",
+    "episode_title": "All Dressed Up: The Moth Radio Hour",
+    "release_date": "2026-08-04 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "73059218-89d4-11f0-b13f-f3b53335275c",
     "episode_title": "Rollerskates and Legacy: The Moth Podcast",
     "release_date": "2026-07-31 04:25:00",
@@ -196,11 +210,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "72456dc6-89d4-11f0-b13f-f728fea1f234",
-    "episode_title": "Feel Good: The Moth Radio Hour",
-    "release_date": "2026-07-28 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208787/8208787_2026-04-13-035627.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "ba814aed-7657-452a-9714-87e408ee2fa4",
+    "episode_title": "\"Professor Brian Cox\"",
+    "release_date": "2026-08-03 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/bzVraCsqfgTxFDCVTS52W9QsBSVByO377o89AAqun68",
@@ -222,19 +236,5 @@
     "release_date": "2026-07-29 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/6f80caf0-2da8-4d83-ace2-18841786ca31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "ba814aed-7657-452a-9714-87e408ee2fa4",
-    "episode_title": "\"Professor Brian Cox\"",
-    "release_date": "2026-08-03 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/gAVaGinFnw4MB0FIZxAYCiOIX1PiSlu8S8DqBVOlS1o",
-    "episode_title": "#877: Q&A with Tim \u2014 The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More",
-    "release_date": "2026-07-29 18:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   }
 ]
