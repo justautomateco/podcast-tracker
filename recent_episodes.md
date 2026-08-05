@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-04 13:49:37
+Last updated: 2026-08-05 01:46:20
+
+## Freakonomics Radio
+
+### Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person
+
+**Released:** 2026-08-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4)
+
+---
+
+### 683. In the New Space Race, Who Makes the Rules?
+
+**Released:** 2026-07-31 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The four steps to hearing hard feedback gracefully | Chris Wheatley
+
+**Released:** 2026-08-04 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70abffc41b8c1d3018304d/media.mp3)
+
+---
 
 ### A journalist's trick for talking to people you can't stand | Joshua Johnson
 
@@ -36,29 +62,21 @@ Last updated: 2026-08-04 13:49:37
 
 ---
 
-### How doodling unlocks your imagination | Joe Whale
+## Planet Money
 
-**Released:** 2026-07-30 15:00:00
+### What makes a toy go viral
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6b6552248de9b0b258c896/media.mp3)
+**Released:** 2026-07-31 21:00:00
 
----
-
-## Freakonomics Radio
-
-### 683. In the New Space Race, Who Makes the Rules?
-
-**Released:** 2026-07-31 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
 
 ---
 
-### How Gary Gulman Turned Depression Into Comedy Gold | Better in Person
+### How to beat the resource curse in Norway (Summer School)
 
-**Released:** 2026-07-29 00:00:00
+**Released:** 2026-07-29 07:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1f04705b-5acc-465c-a9b3-48b818f1ce4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1f04705b-5acc-465c-a9b3-48b818f1ce4e&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
 
 ---
 
@@ -79,76 +97,6 @@ Last updated: 2026-08-04 13:49:37
 **Released:** 2026-08-03 19:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf)
-
----
-
-## Planet Money
-
-### What makes a toy go viral
-
-**Released:** 2026-07-31 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
-
----
-
-### How to beat the resource curse in Norway (Summer School)
-
-**Released:** 2026-07-29 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727)
-
----
-
-## The Joe Rogan Experience
-
-### #2534 - Annie Jacobsen
-
-**Released:** 2026-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8411695309.mp3)
-
----
-
-### #2533 - Diana Pasulka
-
-**Released:** 2026-07-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1888945098.mp3)
-
----
-
-### #2532 - Tim Robbins
-
-**Released:** 2026-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
-
----
-
-### #2531 - Forrest Galante
-
-**Released:** 2026-07-28 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8330959199.mp3)
-
----
-
-## 99% Invisible
-
-### The Borrowed Nature of Biomimicry
-
-**Released:** 2026-08-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
-
----
-
-### 100 Objects #11: Brannock Device
-
-**Released:** 2026-07-31 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +134,58 @@ Last updated: 2026-08-04 13:49:37
 
 ---
 
+## 99% Invisible
+
+### The Borrowed Nature of Biomimicry
+
+**Released:** 2026-08-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #11: Brannock Device
+
+**Released:** 2026-07-31 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### JRE MMA Show #183 with Rico Verhoeven
+
+**Released:** 2026-08-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4292309587.mp3)
+
+---
+
+### #2534 - Annie Jacobsen
+
+**Released:** 2026-07-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8411695309.mp3)
+
+---
+
+### #2533 - Diana Pasulka
+
+**Released:** 2026-07-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1888945098.mp3)
+
+---
+
+### #2532 - Tim Robbins
+
+**Released:** 2026-07-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
+
+---
+
 ## Hardcore History
 
 ### Show 74 - Mania for Subjugation IV
@@ -193,6 +193,24 @@ Last updated: 2026-08-04 13:49:37
 **Released:** 2026-07-31 10:02:23
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+
+---
+
+## How I Built This
+
+### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
+
+**Released:** 2026-08-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Chris Riccobono of UNTUCKit
+
+**Released:** 2026-07-30 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c087247f-1f85-4c15-b4aa-4ffea0368c4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -213,24 +231,6 @@ Last updated: 2026-08-04 13:49:37
 **Released:** 2026-07-30 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
-
-**Released:** 2026-08-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Chris Riccobono of UNTUCKit
-
-**Released:** 2026-07-30 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c087247f-1f85-4c15-b4aa-4ffea0368c4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -270,16 +270,6 @@ Last updated: 2026-08-04 13:49:37
 
 ---
 
-## SmartLess 
-
-### "Professor Brian Cox"
-
-**Released:** 2026-08-03 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Scott Eastwood
@@ -303,6 +293,16 @@ Last updated: 2026-08-04 13:49:37
 **Released:** 2026-07-29 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6f80caf0-2da8-4d83-ace2-18841786ca31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Professor Brian Cox"
+
+**Released:** 2026-08-03 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
 
 ---
 
