@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-06 01:46:46
+Last updated: 2026-08-06 13:43:32
 
 ## Freakonomics Radio
 
@@ -90,6 +90,16 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
+## Hidden Brain
+
+### Making the Most of Your Mistakes
+
+**Released:** 2026-08-03 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2535 - Andrew Wilson
@@ -124,35 +134,15 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
-## Hidden Brain
-
-### Making the Most of Your Mistakes
-
-**Released:** 2026-08-03 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Borrowed Nature of Biomimicry
-
-**Released:** 2026-08-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
-
----
-
-### 100 Objects #11: Brannock Device
-
-**Released:** 2026-07-31 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Reggae: Kingston’s Gift to the World
+
+**Released:** 2026-08-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5102775f-7daf-4d76-b3d2-b49d0183662f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Phone Books
 
@@ -178,21 +168,21 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
-### How Russia Shapes What the World Thinks
+## 99% Invisible
 
-**Released:** 2026-07-30 09:00:00
+### The Borrowed Nature of Biomimicry
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6bd9546f-c485-4718-a348-b49501390740/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-08-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
 
 ---
 
-## Hardcore History
+### 100 Objects #11: Brannock Device
 
-### Show 74 - Mania for Subjugation IV
+**Released:** 2026-07-31 07:00:00
 
-**Released:** 2026-07-31 10:02:23
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
 
 ---
 
@@ -206,17 +196,15 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
-## Revisionist History
+## How I Built This
 
-### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
+### Advice Line: "Strategy Sessions"
 
-**Released:** 2026-07-30 04:01:00
+**Released:** 2026-08-06 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
 
@@ -226,15 +214,35 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
-### Advice Line with Chris Riccobono of UNTUCKit
+## Revisionist History
 
-**Released:** 2026-07-30 07:10:00
+### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c087247f-1f85-4c15-b4aa-4ffea0368c4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-08-06 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Hardcore History
+
+### Show 74 - Mania for Subjugation IV
+
+**Released:** 2026-07-31 10:02:23
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
 
 ---
 
 ## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 2: Amanda Lund
+
+**Released:** 2026-08-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
+
+---
 
 ### Ice Cube
 
@@ -244,11 +252,29 @@ Last updated: 2026-08-06 01:46:46
 
 ---
 
-### Summer S’pouses Episode 1
+## Armchair Expert
 
-**Released:** 2026-07-30 04:05:00
+### Christopher Whitcomb (on the Idaho murders)
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d46b0fdb-05b4-4b04-8a87-85004a75f731/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d46b0fdb-05b4-4b04-8a87-85004a75f731&feed=dHoohVNH)
+**Released:** 2026-08-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aba091bb-d98a-458c-adf7-77264a288bac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Scott Eastwood
+
+**Released:** 2026-08-03 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Home Intruder
+
+**Released:** 2026-07-31 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -277,32 +303,6 @@ Last updated: 2026-08-06 01:46:46
 **Released:** 2026-07-31 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
-
----
-
-## Armchair Expert
-
-### Christopher Whitcomb (on the Idaho murders)
-
-**Released:** 2026-08-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aba091bb-d98a-458c-adf7-77264a288bac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Scott Eastwood
-
-**Released:** 2026-08-03 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Home Intruder
-
-**Released:** 2026-07-31 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
