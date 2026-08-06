@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-05 13:45:11
+Last updated: 2026-08-06 01:46:46
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-08-05 13:45:11
 ---
 
 ## TED Talks Daily
+
+### How I turn joy into art | Yinka Ilori
+
+**Released:** 2026-08-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70acd9c41b8c1d301894f3/media.mp3)
+
+---
 
 ### The four steps to hearing hard feedback gracefully | Chris Wheatley
 
@@ -54,14 +62,6 @@ Last updated: 2026-08-05 13:45:11
 
 ---
 
-### Why economic inequality is the biggest threat to democracy | Sally Kohn
-
-**Released:** 2026-07-31 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6b67870d497875eba1d8af/media.mp3)
-
----
-
 ## This American Life
 
 ### 894: I Couldn't Help but Notice
@@ -72,7 +72,33 @@ Last updated: 2026-08-05 13:45:11
 
 ---
 
+## Planet Money
+
+### Sand heists and property rights in the Caribbean (Summer School)
+
+**Released:** 2026-08-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
+
+---
+
+### What makes a toy go viral
+
+**Released:** 2026-07-31 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2535 - Andrew Wilson
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7134764800.mp3)
+
+---
 
 ### JRE MMA Show #183 with Rico Verhoeven
 
@@ -95,32 +121,6 @@ Last updated: 2026-08-05 13:45:11
 **Released:** 2026-07-30 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1888945098.mp3)
-
----
-
-### #2532 - Tim Robbins
-
-**Released:** 2026-07-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8191324941.mp3)
-
----
-
-## Planet Money
-
-### Sand heists and property rights in the Caribbean (Summer School)
-
-**Released:** 2026-08-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
-
----
-
-### What makes a toy go viral
-
-**Released:** 2026-07-31 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
 
 ---
 
@@ -186,6 +186,36 @@ Last updated: 2026-08-05 13:45:11
 
 ---
 
+## Hardcore History
+
+### Show 74 - Mania for Subjugation IV
+
+**Released:** 2026-07-31 10:02:23
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+
+---
+
+## The Tim Ferriss Show
+
+### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
+
+**Released:** 2026-07-30 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
@@ -201,36 +231,6 @@ Last updated: 2026-08-05 13:45:11
 **Released:** 2026-07-30 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c087247f-1f85-4c15-b4aa-4ffea0368c4c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Hardcore History
-
-### Show 74 - Mania for Subjugation IV
-
-**Released:** 2026-07-31 10:02:23
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  4: Wu-Tang vs. Shaolin
-
-**Released:** 2026-07-30 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44372408-1537-48da-a93a-b48e00f19724/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #877: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More
-
-**Released:** 2026-07-29 18:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b7244dd5-291f-4ab3-9d1b-8ea015a8d59e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,6 +262,24 @@ Last updated: 2026-08-05 13:45:11
 
 ---
 
+## The Moth
+
+### All Dressed Up: The Moth Radio Hour
+
+**Released:** 2026-08-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
+
+---
+
+### Rollerskates and Legacy: The Moth Podcast
+
+**Released:** 2026-07-31 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
 
 ### Christopher Whitcomb (on the Idaho murders)
@@ -285,24 +303,6 @@ Last updated: 2026-08-05 13:45:11
 **Released:** 2026-07-31 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### All Dressed Up: The Moth Radio Hour
-
-**Released:** 2026-08-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
-
----
-
-### Rollerskates and Legacy: The Moth Podcast
-
-**Released:** 2026-07-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
 
 ---
 
