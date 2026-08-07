@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6a738447c3e1347e8b17806e",
+    "episode_title": "How gratitude rewires your brain | Christina Costa",
+    "release_date": "2026-08-06 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a738447c3e1347e8b17806e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a70acd9c41b8c1d301894f3",
     "episode_title": "How I turn joy into art | Yinka Ilori",
     "release_date": "2026-08-05 15:00:00",
@@ -42,20 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a6b67ad8effb6fbbee9f4b5",
-    "episode_title": "Two wars, no clear exit plan. Now what? | Ian Bremmer",
-    "release_date": "2026-08-01 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6b67ad8effb6fbbee9f4b5/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46200 at https://www.thisamericanlife.org",
-    "episode_title": "894: I Couldn't Help but Notice",
-    "release_date": "2026-08-02 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "08584965-fc01-4cb2-bc20-65c8f85576f0",
     "episode_title": "Sand heists and property rights in the Caribbean (Summer School)",
     "release_date": "2026-08-05 07:30:00",
@@ -70,11 +63,18 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "eafc3020-cb80-4280-be5a-ec9dd0eef05d",
-    "episode_title": "Making the Most of Your Mistakes",
-    "release_date": "2026-08-03 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "46200 at https://www.thisamericanlife.org",
+    "episode_title": "894: I Couldn't Help but Notice",
+    "release_date": "2026-08-02 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "0d4cb1e8-9123-11f1-be7f-477c38b7e87e",
+    "episode_title": "#2536 - Eric Goode & Jeremy McBride",
+    "release_date": "2026-08-06 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1902969569.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "9bd82c7c-905f-11f1-9581-0712930da240",
@@ -98,11 +98,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "3e41b214-8ba4-11f1-9b3e-6700767b4af0",
-    "episode_title": "#2533 - Diana Pasulka",
-    "release_date": "2026-07-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1888945098.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "eafc3020-cb80-4280-be5a-ec9dd0eef05d",
+    "episode_title": "Making the Most of Your Mistakes",
+    "release_date": "2026-08-03 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "53c77c0f-1a95-45f7-aa4e-5cd57e321521",
+    "episode_title": "The Borrowed Nature of Biomimicry",
+    "release_date": "2026-08-04 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "0faaf77b-356c-4ee4-8bde-d8d85bf87c0c",
+    "episode_title": "100 Objects #11: Brannock Device",
+    "release_date": "2026-07-31 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "5102775f-7daf-4d76-b3d2-b49d0183662f",
@@ -133,18 +147,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "53c77c0f-1a95-45f7-aa4e-5cd57e321521",
-    "episode_title": "The Borrowed Nature of Biomimicry",
-    "release_date": "2026-08-04 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "0faaf77b-356c-4ee4-8bde-d8d85bf87c0c",
-    "episode_title": "100 Objects #11: Brannock Device",
-    "release_date": "2026-07-31 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "http://traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
+    "episode_title": "Show 74 - Mania for Subjugation IV",
+    "release_date": "2026-07-31 10:02:23",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
+    "podcast_name": "Hardcore History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/W3zsBYkA4pCoU8q00gw1HfYW5pfziuKBDz-kKxF1C9o",
@@ -152,6 +159,13 @@
     "release_date": "2026-08-05 17:00:00",
     "mp3_url": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "7d462965-1cae-4ef6-8691-b48e00fface8",
+    "episode_title": "The Staten Island Problem - Part  5: Revenge of the Forgotten Borough",
+    "release_date": "2026-08-06 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/DBIoYayYNXGqkDuY-izZXN8ne5M5TinUEJ897p-06rQ",
@@ -168,18 +182,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "7d462965-1cae-4ef6-8691-b48e00fface8",
-    "episode_title": "The Staten Island Problem - Part  5: Revenge of the Forgotten Borough",
-    "release_date": "2026-08-06 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "http://traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
-    "episode_title": "Show 74 - Mania for Subjugation IV",
-    "release_date": "2026-07-31 10:02:23",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3",
-    "podcast_name": "Hardcore History"
+    "guid": "ba814aed-7657-452a-9714-87e408ee2fa4",
+    "episode_title": "\"Professor Brian Cox\"",
+    "release_date": "2026-08-03 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "000ee634-0cb5-43e0-b6a0-bb709155efec",
@@ -215,13 +222,6 @@
     "release_date": "2026-07-31 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "ba814aed-7657-452a-9714-87e408ee2fa4",
-    "episode_title": "\"Professor Brian Cox\"",
-    "release_date": "2026-08-03 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "73421602-89d4-11f0-b13f-03f2a83616c4",
