@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-07 02:10:33
+Last updated: 2026-08-07 12:41:41
 
 ## Freakonomics Radio
+
+### 684. He Helped Clean Up the Last Crash. Does He See Another One Coming?
+
+**Released:** 2026-08-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4)
+
+---
 
 ### Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person
 
@@ -12,11 +20,31 @@ Last updated: 2026-08-07 02:10:33
 
 ---
 
-### 683. In the New Space Race, Who Makes the Rules?
+## Planet Money
 
-**Released:** 2026-07-31 10:00:00
+### Sand heists and property rights in the Caribbean (Summer School)
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0c4b8e6d-9c83-462f-879d-344ca000e34d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0c4b8e6d-9c83-462f-879d-344ca000e34d&feed=Y8lFbOT4)
+**Released:** 2026-08-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
+
+---
+
+### What makes a toy go viral
+
+**Released:** 2026-07-31 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
+
+---
+
+## This American Life
+
+### 894: I Couldn't Help but Notice
+
+**Released:** 2026-08-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
 
 ---
 
@@ -59,34 +87,6 @@ Last updated: 2026-08-07 02:10:33
 **Released:** 2026-08-02 06:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46e34d4b991ebe115ba1/media.mp3)
-
----
-
-## Planet Money
-
-### Sand heists and property rights in the Caribbean (Summer School)
-
-**Released:** 2026-08-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
-
----
-
-### What makes a toy go viral
-
-**Released:** 2026-07-31 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
-
----
-
-## This American Life
-
-### 894: I Couldn't Help but Notice
-
-**Released:** 2026-08-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
 
 ---
 
@@ -134,24 +134,6 @@ Last updated: 2026-08-07 02:10:33
 
 ---
 
-## 99% Invisible
-
-### The Borrowed Nature of Biomimicry
-
-**Released:** 2026-08-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
-
----
-
-### 100 Objects #11: Brannock Device
-
-**Released:** 2026-07-31 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0ec6b9a1-9f5b-44c4-b908-1c3cf991d1e2&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Reggae: Kingston’s Gift to the World
@@ -186,13 +168,39 @@ Last updated: 2026-08-07 02:10:33
 
 ---
 
-## Hardcore History
+## 99% Invisible
 
-### Show 74 - Mania for Subjugation IV
+### 100 Objects #12: "Negro Cloth"
 
-**Released:** 2026-07-31 10:02:23
+**Released:** 2026-08-07 07:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
+
+---
+
+### The Borrowed Nature of Biomimicry
+
+**Released:** 2026-08-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line: "Strategy Sessions"
+
+**Released:** 2026-08-06 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
+
+**Released:** 2026-08-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -213,24 +221,6 @@ Last updated: 2026-08-07 02:10:33
 **Released:** 2026-08-06 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Advice Line: "Strategy Sessions"
-
-**Released:** 2026-08-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
-
-**Released:** 2026-08-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,7 +252,33 @@ Last updated: 2026-08-07 02:10:33
 
 ---
 
+## The Moth
+
+### Childhood Crushes: The Moth Podcast
+
+**Released:** 2026-08-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
+
+---
+
+### All Dressed Up: The Moth Radio Hour
+
+**Released:** 2026-08-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: Hotel II
+
+**Released:** 2026-08-07 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a86e8b1-515f-4709-816c-5b984a2adbec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Christopher Whitcomb (on the Idaho murders)
 
@@ -277,32 +293,6 @@ Last updated: 2026-08-07 02:10:33
 **Released:** 2026-08-03 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Home Intruder
-
-**Released:** 2026-07-31 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cacb333-a1db-428f-b2f9-bb91b3f1cbab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### All Dressed Up: The Moth Radio Hour
-
-**Released:** 2026-08-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
-
----
-
-### Rollerskates and Legacy: The Moth Podcast
-
-**Released:** 2026-07-31 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208780/8208780_2026-04-13-035020.192.mp3?rssID=6066)
 
 ---
 
