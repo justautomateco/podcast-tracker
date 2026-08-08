@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-08 00:58:07
+Last updated: 2026-08-08 12:28:38
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-08-08 00:58:07
 **Released:** 2026-08-05 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 894: I Couldn't Help but Notice
-
-**Released:** 2026-08-02 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
 
 ---
 
@@ -69,6 +59,16 @@ Last updated: 2026-08-08 00:58:07
 **Released:** 2026-08-03 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70aa0e6af4dfc918169c5e/media.mp3)
+
+---
+
+## This American Life
+
+### 894: I Couldn't Help but Notice
+
+**Released:** 2026-08-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
 
 ---
 
@@ -134,7 +134,41 @@ Last updated: 2026-08-08 00:58:07
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #12: "Negro Cloth"
+
+**Released:** 2026-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
+
+---
+
+### The Borrowed Nature of Biomimicry
+
+**Released:** 2026-08-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Selects: Iran-Contra Affair: Shady in the 80s, Part 2
+
+**Released:** 2026-08-08 09:05:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d26685-cb0c-496e-91f3-b49e00d9b585/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Iran-Contra Affair: Shady in the 80s, Part 1
+
+**Released:** 2026-08-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d8a73ba2-017d-493e-9207-b49e00d99c9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Reggae: Kingston’s Gift to the World
 
@@ -160,52 +194,6 @@ Last updated: 2026-08-08 00:58:07
 
 ---
 
-### Selects: How Peanut Butter Works
-
-**Released:** 2026-08-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9cbcf3dc-90bc-4773-a61a-b496013901a5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #12: "Negro Cloth"
-
-**Released:** 2026-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
-
----
-
-### The Borrowed Nature of Biomimicry
-
-**Released:** 2026-08-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef052af4-9036-4c68-9d01-5e54358b7fe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef052af4-9036-4c68-9d01-5e54358b7fe5&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
-
-**Released:** 2026-08-06 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line: "Strategy Sessions"
@@ -224,6 +212,16 @@ Last updated: 2026-08-08 00:58:07
 
 ---
 
+## Revisionist History
+
+### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
+
+**Released:** 2026-08-06 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 2: Amanda Lund
@@ -239,16 +237,6 @@ Last updated: 2026-08-08 00:58:07
 **Released:** 2026-08-03 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/63212381-4ed2-4ddc-aa88-723a5c8d9658/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=63212381-4ed2-4ddc-aa88-723a5c8d9658&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Professor Brian Cox"
-
-**Released:** 2026-08-03 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
 
 ---
 
@@ -278,6 +266,16 @@ Last updated: 2026-08-08 00:58:07
 
 ---
 
+## SmartLess 
+
+### "Professor Brian Cox"
+
+**Released:** 2026-08-03 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
+
+---
+
 ## The Moth
 
 ### Childhood Crushes: The Moth Podcast
@@ -293,6 +291,16 @@ Last updated: 2026-08-08 00:58:07
 **Released:** 2026-08-04 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
+
+---
+
+## The Tim Ferriss Show
+
+### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
