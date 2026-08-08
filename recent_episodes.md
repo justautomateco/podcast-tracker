@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-07 12:41:41
+Last updated: 2026-08-08 00:58:07
 
 ## Freakonomics Radio
 
@@ -20,24 +20,6 @@ Last updated: 2026-08-07 12:41:41
 
 ---
 
-## Planet Money
-
-### Sand heists and property rights in the Caribbean (Summer School)
-
-**Released:** 2026-08-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
-
----
-
-### What makes a toy go viral
-
-**Released:** 2026-07-31 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
-
----
-
 ## This American Life
 
 ### 894: I Couldn't Help but Notice
@@ -49,6 +31,14 @@ Last updated: 2026-08-07 12:41:41
 ---
 
 ## TED Talks Daily
+
+### The infodemic — and the scientists fighting against it | Jessica Malaty Rivera
+
+**Released:** 2026-08-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3)
+
+---
 
 ### How gratitude rewires your brain | Christina Costa
 
@@ -82,15 +72,33 @@ Last updated: 2026-08-07 12:41:41
 
 ---
 
-### Sunday Pick: How to Survive a Losing Team | Good Sport
+## Planet Money
 
-**Released:** 2026-08-02 06:00:00
+### Older workers aren’t retiring. Should they be forced to?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46e34d4b991ebe115ba1/media.mp3)
+**Released:** 2026-08-07 20:55:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
+
+---
+
+### Sand heists and property rights in the Caribbean (Summer School)
+
+**Released:** 2026-08-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2537 - David Sinclair
+
+**Released:** 2026-08-07 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1521681560.mp3)
+
+---
 
 ### #2536 - Eric Goode & Jeremy McBride
 
@@ -113,14 +121,6 @@ Last updated: 2026-08-07 12:41:41
 **Released:** 2026-08-04 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4292309587.mp3)
-
----
-
-### #2534 - Annie Jacobsen
-
-**Released:** 2026-07-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8411695309.mp3)
 
 ---
 
@@ -186,24 +186,6 @@ Last updated: 2026-08-07 12:41:41
 
 ---
 
-## How I Built This
-
-### Advice Line: "Strategy Sessions"
-
-**Released:** 2026-08-06 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
-
-**Released:** 2026-08-03 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
@@ -224,13 +206,21 @@ Last updated: 2026-08-07 12:41:41
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Professor Brian Cox"
+### Advice Line: "Strategy Sessions"
 
-**Released:** 2026-08-03 07:01:00
+**Released:** 2026-08-06 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
+
+**Released:** 2026-08-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,21 +242,13 @@ Last updated: 2026-08-07 12:41:41
 
 ---
 
-## The Moth
+## SmartLess 
 
-### Childhood Crushes: The Moth Podcast
+### "Professor Brian Cox"
 
-**Released:** 2026-08-07 04:25:00
+**Released:** 2026-08-03 07:01:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
-
----
-
-### All Dressed Up: The Moth Radio Hour
-
-**Released:** 2026-08-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/4eb7d33a-2954-49ef-92e4-211a2418e166/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=4eb7d33a-2954-49ef-92e4-211a2418e166&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +275,24 @@ Last updated: 2026-08-07 12:41:41
 **Released:** 2026-08-03 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Childhood Crushes: The Moth Podcast
+
+**Released:** 2026-08-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
+
+---
+
+### All Dressed Up: The Moth Radio Hour
+
+**Released:** 2026-08-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
 
 ---
 
