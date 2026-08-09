@@ -1,8 +1,44 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-09 01:01:42
+Last updated: 2026-08-09 12:31:19
+
+## Freakonomics Radio
+
+### 684. He Helped Clean Up the Last Crash. Does He See Another One Coming?
+
+**Released:** 2026-08-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4)
+
+---
+
+### Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person
+
+**Released:** 2026-08-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 894: I Couldn't Help but Notice
+
+**Released:** 2026-08-02 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
+
+---
 
 ## TED Talks Daily
+
+### Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human
+
+**Released:** 2026-08-09 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3)
+
+---
 
 ### Our last, best chance to cool the Earth | Bill McKibben
 
@@ -36,14 +72,6 @@ Last updated: 2026-08-09 01:01:42
 
 ---
 
-### The four steps to hearing hard feedback gracefully | Chris Wheatley
-
-**Released:** 2026-08-04 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70abffc41b8c1d3018304d/media.mp3)
-
----
-
 ## Planet Money
 
 ### Older workers aren’t retiring. Should they be forced to?
@@ -62,13 +90,37 @@ Last updated: 2026-08-09 01:01:42
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 894: I Couldn't Help but Notice
+### #2537 - David Sinclair
 
-**Released:** 2026-08-02 20:00:00
+**Released:** 2026-08-07 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1521681560.mp3)
+
+---
+
+### #2536 - Eric Goode & Jeremy McBride
+
+**Released:** 2026-08-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1902969569.mp3)
+
+---
+
+### #2535 - Andrew Wilson
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7134764800.mp3)
+
+---
+
+### JRE MMA Show #183 with Rico Verhoeven
+
+**Released:** 2026-08-04 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4292309587.mp3)
 
 ---
 
@@ -124,58 +176,6 @@ Last updated: 2026-08-09 01:01:42
 
 ---
 
-## Freakonomics Radio
-
-### 684. He Helped Clean Up the Last Crash. Does He See Another One Coming?
-
-**Released:** 2026-08-07 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4)
-
----
-
-### Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person
-
-**Released:** 2026-08-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4)
-
----
-
-## The Joe Rogan Experience
-
-### #2537 - David Sinclair
-
-**Released:** 2026-08-07 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1521681560.mp3)
-
----
-
-### #2536 - Eric Goode & Jeremy McBride
-
-**Released:** 2026-08-06 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1902969569.mp3)
-
----
-
-### #2535 - Andrew Wilson
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7134764800.mp3)
-
----
-
-### JRE MMA Show #183 with Rico Verhoeven
-
-**Released:** 2026-08-04 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4292309587.mp3)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #12: "Negro Cloth"
@@ -194,6 +194,62 @@ Last updated: 2026-08-09 01:01:42
 
 ---
 
+## The Tim Ferriss Show
+
+### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
+
+**Released:** 2026-08-06 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Childhood Crushes: The Moth Podcast
+
+**Released:** 2026-08-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
+
+---
+
+### All Dressed Up: The Moth Radio Hour
+
+**Released:** 2026-08-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 2: Amanda Lund
+
+**Released:** 2026-08-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
+
+---
+
+### Ice Cube
+
+**Released:** 2026-08-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/63212381-4ed2-4ddc-aa88-723a5c8d9658/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=63212381-4ed2-4ddc-aa88-723a5c8d9658&feed=dHoohVNH)
+
+---
+
 ## How I Built This
 
 ### Advice Line: "Strategy Sessions"
@@ -209,26 +265,6 @@ Last updated: 2026-08-09 01:01:42
 **Released:** 2026-08-03 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
-
-**Released:** 2026-08-06 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,42 +301,6 @@ Last updated: 2026-08-09 01:01:42
 **Released:** 2026-08-03 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 2: Amanda Lund
-
-**Released:** 2026-08-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
-
----
-
-### Ice Cube
-
-**Released:** 2026-08-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/63212381-4ed2-4ddc-aa88-723a5c8d9658/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=63212381-4ed2-4ddc-aa88-723a5c8d9658&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Childhood Crushes: The Moth Podcast
-
-**Released:** 2026-08-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
-
----
-
-### All Dressed Up: The Moth Radio Hour
-
-**Released:** 2026-08-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066)
 
 ---
 

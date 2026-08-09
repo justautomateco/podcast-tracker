@@ -1,5 +1,33 @@
 [
   {
+    "guid": "83b52d48-d065-497d-8cb9-8d1167d7f5f9",
+    "episode_title": "684. He Helped Clean Up the Last Crash. Does He See Another One Coming?",
+    "release_date": "2026-08-07 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "eeb7d61a-64be-4a7f-b24c-430778402f35",
+    "episode_title": "Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person",
+    "release_date": "2026-08-05 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46200 at https://www.thisamericanlife.org",
+    "episode_title": "894: I Couldn't Help but Notice",
+    "release_date": "2026-08-02 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a5a46b07a878a3380725462",
+    "episode_title": "Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human",
+    "release_date": "2026-08-09 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a6a180f6043035f890a464a",
     "episode_title": "Our last, best chance to cool the Earth | Bill McKibben",
     "release_date": "2026-08-08 15:00:00",
@@ -28,13 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a70abffc41b8c1d3018304d",
-    "episode_title": "The four steps to hearing hard feedback gracefully | Chris Wheatley",
-    "release_date": "2026-08-04 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70abffc41b8c1d3018304d/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "c8fefeb8-8aaa-4b93-b648-2eb72051cce3",
     "episode_title": "Older workers aren\u2019t retiring. Should they be forced to?",
     "release_date": "2026-08-07 20:55:00",
@@ -49,11 +70,32 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46200 at https://www.thisamericanlife.org",
-    "episode_title": "894: I Couldn't Help but Notice",
-    "release_date": "2026-08-02 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
-    "podcast_name": "This American Life"
+    "guid": "16d5d7dc-91ee-11f1-bdcf-df9a64476d59",
+    "episode_title": "#2537 - David Sinclair",
+    "release_date": "2026-08-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "0d4cb1e8-9123-11f1-be7f-477c38b7e87e",
+    "episode_title": "#2536 - Eric Goode & Jeremy McBride",
+    "release_date": "2026-08-06 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1902969569.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "9bd82c7c-905f-11f1-9581-0712930da240",
+    "episode_title": "#2535 - Andrew Wilson",
+    "release_date": "2026-08-05 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7134764800.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "a7d26330-8f8d-11f1-b08c-239fa033ae8f",
+    "episode_title": "JRE MMA Show #183 with Rico Verhoeven",
+    "release_date": "2026-08-04 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4292309587.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "23d26685-cb0c-496e-91f3-b49e00d9b585",
@@ -98,48 +140,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "83b52d48-d065-497d-8cb9-8d1167d7f5f9",
-    "episode_title": "684. He Helped Clean Up the Last Crash. Does He See Another One Coming?",
-    "release_date": "2026-08-07 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "eeb7d61a-64be-4a7f-b24c-430778402f35",
-    "episode_title": "Does it Take a Twisted Mind to Write Twisted Stories? | Better In Person",
-    "release_date": "2026-08-05 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8fc32bf-4feb-429b-8ca5-c125f27cee27/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8fc32bf-4feb-429b-8ca5-c125f27cee27&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "16d5d7dc-91ee-11f1-bdcf-df9a64476d59",
-    "episode_title": "#2537 - David Sinclair",
-    "release_date": "2026-08-07 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0d4cb1e8-9123-11f1-be7f-477c38b7e87e",
-    "episode_title": "#2536 - Eric Goode & Jeremy McBride",
-    "release_date": "2026-08-06 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1902969569.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "9bd82c7c-905f-11f1-9581-0712930da240",
-    "episode_title": "#2535 - Andrew Wilson",
-    "release_date": "2026-08-05 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7134764800.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "a7d26330-8f8d-11f1-b08c-239fa033ae8f",
-    "episode_title": "JRE MMA Show #183 with Rico Verhoeven",
-    "release_date": "2026-08-04 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4292309587.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "2d4890a0-0b24-44ea-a67a-55a09a19df83",
     "episode_title": "100 Objects #12: \"Negro Cloth\"",
     "release_date": "2026-08-07 07:00:00",
@@ -154,6 +154,48 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/W3zsBYkA4pCoU8q00gw1HfYW5pfziuKBDz-kKxF1C9o",
+    "episode_title": "#878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration \u2014 Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More",
+    "release_date": "2026-08-05 17:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "7d462965-1cae-4ef6-8691-b48e00fface8",
+    "episode_title": "The Staten Island Problem - Part  5: Revenge of the Forgotten Borough",
+    "release_date": "2026-08-06 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "74292e0c-89d4-11f0-b13f-3f63f5370efe",
+    "episode_title": "Childhood Crushes: The Moth Podcast",
+    "release_date": "2026-08-07 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "73421602-89d4-11f0-b13f-03f2a83616c4",
+    "episode_title": "All Dressed Up: The Moth Radio Hour",
+    "release_date": "2026-08-04 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "000ee634-0cb5-43e0-b6a0-bb709155efec",
+    "episode_title": "Summer S\u2019pouses Episode 2: Amanda Lund",
+    "release_date": "2026-08-06 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "0c515de1-060b-4ca9-a1fd-620764a61e1f",
+    "episode_title": "Ice Cube",
+    "release_date": "2026-08-03 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/63212381-4ed2-4ddc-aa88-723a5c8d9658/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=63212381-4ed2-4ddc-aa88-723a5c8d9658&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/DBIoYayYNXGqkDuY-izZXN8ne5M5TinUEJ897p-06rQ",
     "episode_title": "Advice Line: \"Strategy Sessions\"",
     "release_date": "2026-08-06 07:10:00",
@@ -166,20 +208,6 @@
     "release_date": "2026-08-03 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "7d462965-1cae-4ef6-8691-b48e00fface8",
-    "episode_title": "The Staten Island Problem - Part  5: Revenge of the Forgotten Borough",
-    "release_date": "2026-08-06 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/W3zsBYkA4pCoU8q00gw1HfYW5pfziuKBDz-kKxF1C9o",
-    "episode_title": "#878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration \u2014 Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More",
-    "release_date": "2026-08-05 17:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "ba814aed-7657-452a-9714-87e408ee2fa4",
@@ -208,33 +236,5 @@
     "release_date": "2026-08-03 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/dcd67b8b-41d1-4c08-9433-14e614a4e135.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "000ee634-0cb5-43e0-b6a0-bb709155efec",
-    "episode_title": "Summer S\u2019pouses Episode 2: Amanda Lund",
-    "release_date": "2026-08-06 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0c515de1-060b-4ca9-a1fd-620764a61e1f",
-    "episode_title": "Ice Cube",
-    "release_date": "2026-08-03 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/63212381-4ed2-4ddc-aa88-723a5c8d9658/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=63212381-4ed2-4ddc-aa88-723a5c8d9658&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "74292e0c-89d4-11f0-b13f-3f63f5370efe",
-    "episode_title": "Childhood Crushes: The Moth Podcast",
-    "release_date": "2026-08-07 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "73421602-89d4-11f0-b13f-03f2a83616c4",
-    "episode_title": "All Dressed Up: The Moth Radio Hour",
-    "release_date": "2026-08-04 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208779/8208779_2026-04-13-034919.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   }
 ]
