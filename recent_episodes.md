@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-10 12:47:22
+Last updated: 2026-08-11 01:02:51
 
 ## Freakonomics Radio
 
@@ -27,48 +27,6 @@ Last updated: 2026-08-10 12:47:22
 **Released:** 2026-08-09 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
-
----
-
-## TED Talks Daily
-
-### Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human
-
-**Released:** 2026-08-09 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3)
-
----
-
-### Our last, best chance to cool the Earth | Bill McKibben
-
-**Released:** 2026-08-08 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6a180f6043035f890a464a/media.mp3)
-
----
-
-### The infodemic — and the scientists fighting against it | Jessica Malaty Rivera
-
-**Released:** 2026-08-07 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3)
-
----
-
-### How gratitude rewires your brain | Christina Costa
-
-**Released:** 2026-08-06 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a738447c3e1347e8b17806e/media.mp3)
-
----
-
-### How I turn joy into art | Yinka Ilori
-
-**Released:** 2026-08-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70acd9c41b8c1d301894f3/media.mp3)
 
 ---
 
@@ -124,13 +82,45 @@ Last updated: 2026-08-10 12:47:22
 
 ---
 
-## Hidden Brain
+## TED Talks Daily
 
-### Making the Most of Your Mistakes
+### How citizens (not politicians) are building the future | Jon Alexander
 
-**Released:** 2026-08-03 19:00:00
+**Released:** 2026-08-10 15:01:10
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3)
+
+---
+
+### Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human
+
+**Released:** 2026-08-09 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3)
+
+---
+
+### Our last, best chance to cool the Earth | Bill McKibben
+
+**Released:** 2026-08-08 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6a180f6043035f890a464a/media.mp3)
+
+---
+
+### The infodemic — and the scientists fighting against it | Jessica Malaty Rivera
+
+**Released:** 2026-08-07 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3)
+
+---
+
+### How gratitude rewires your brain | Christina Costa
+
+**Released:** 2026-08-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a738447c3e1347e8b17806e/media.mp3)
 
 ---
 
@@ -194,6 +184,16 @@ Last updated: 2026-08-10 12:47:22
 
 ---
 
+## Hidden Brain
+
+### How Feelings Make Us Smarter
+
+**Released:** 2026-08-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
+
+---
+
 ## Revisionist History
 
 ### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
@@ -219,44 +219,6 @@ Last updated: 2026-08-10 12:47:22
 **Released:** 2026-08-06 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Greta Lee
-
-**Released:** 2026-08-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 2: Amanda Lund
-
-**Released:** 2026-08-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Robby Hoffman"
-
-**Released:** 2026-08-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
 
 ---
 
@@ -301,6 +263,44 @@ Last updated: 2026-08-10 12:47:22
 **Released:** 2026-08-05 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aba091bb-d98a-458c-adf7-77264a288bac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Robby Hoffman"
+
+**Released:** 2026-08-10 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Greta Lee
+
+**Released:** 2026-08-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 2: Amanda Lund
+
+**Released:** 2026-08-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
 
 ---
 

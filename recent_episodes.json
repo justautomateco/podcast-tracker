@@ -21,41 +21,6 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "6a5a46b07a878a3380725462",
-    "episode_title": "Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human",
-    "release_date": "2026-08-09 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a6a180f6043035f890a464a",
-    "episode_title": "Our last, best chance to cool the Earth | Bill McKibben",
-    "release_date": "2026-08-08 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6a180f6043035f890a464a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a7385a52578a0c7e2a5cf73",
-    "episode_title": "The infodemic \u2014 and the scientists fighting against it | Jessica Malaty Rivera",
-    "release_date": "2026-08-07 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a738447c3e1347e8b17806e",
-    "episode_title": "How gratitude rewires your brain | Christina Costa",
-    "release_date": "2026-08-06 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a738447c3e1347e8b17806e/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a70acd9c41b8c1d301894f3",
-    "episode_title": "How I turn joy into art | Yinka Ilori",
-    "release_date": "2026-08-05 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a70acd9c41b8c1d301894f3/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "c8fefeb8-8aaa-4b93-b648-2eb72051cce3",
     "episode_title": "Older workers aren\u2019t retiring. Should they be forced to?",
     "release_date": "2026-08-07 20:55:00",
@@ -98,11 +63,39 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "eafc3020-cb80-4280-be5a-ec9dd0eef05d",
-    "episode_title": "Making the Most of Your Mistakes",
-    "release_date": "2026-08-03 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4e7d0a46-6c23-4b2f-bd03-07d9dd2c0ea8&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "6a79e7b6cfc0396cc19c91e1",
+    "episode_title": "How citizens (not politicians) are building the future | Jon Alexander",
+    "release_date": "2026-08-10 15:01:10",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a5a46b07a878a3380725462",
+    "episode_title": "Sunday Pick: How to solve your problems through drawing (w/ Liana Finck) | How to Be a Better Human",
+    "release_date": "2026-08-09 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a5a46b07a878a3380725462/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a6a180f6043035f890a464a",
+    "episode_title": "Our last, best chance to cool the Earth | Bill McKibben",
+    "release_date": "2026-08-08 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6a180f6043035f890a464a/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a7385a52578a0c7e2a5cf73",
+    "episode_title": "The infodemic \u2014 and the scientists fighting against it | Jessica Malaty Rivera",
+    "release_date": "2026-08-07 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a738447c3e1347e8b17806e",
+    "episode_title": "How gratitude rewires your brain | Christina Costa",
+    "release_date": "2026-08-06 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a738447c3e1347e8b17806e/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "2d4890a0-0b24-44ea-a67a-55a09a19df83",
@@ -154,6 +147,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
+    "episode_title": "How Feelings Make Us Smarter",
+    "release_date": "2026-08-10 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "7d462965-1cae-4ef6-8691-b48e00fface8",
     "episode_title": "The Staten Island Problem - Part  5: Revenge of the Forgotten Borough",
     "release_date": "2026-08-06 04:01:00",
@@ -173,34 +173,6 @@
     "release_date": "2026-08-06 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/W3zsBYkA4pCoU8q00gw1HfYW5pfziuKBDz-kKxF1C9o",
-    "episode_title": "#878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration \u2014 Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More",
-    "release_date": "2026-08-05 17:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "8f52aa53-23fc-4f18-a4c3-4e3f984b2fc9",
-    "episode_title": "Greta Lee",
-    "release_date": "2026-08-10 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "000ee634-0cb5-43e0-b6a0-bb709155efec",
-    "episode_title": "Summer S\u2019pouses Episode 2: Amanda Lund",
-    "release_date": "2026-08-06 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "3a469bf8-a602-457b-bf6b-a03bf45aab4b",
-    "episode_title": "\"Robby Hoffman\"",
-    "release_date": "2026-08-10 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "74292e0c-89d4-11f0-b13f-3f63f5370efe",
@@ -236,5 +208,33 @@
     "release_date": "2026-08-05 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/aba091bb-d98a-458c-adf7-77264a288bac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/W3zsBYkA4pCoU8q00gw1HfYW5pfziuKBDz-kKxF1C9o",
+    "episode_title": "#878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration \u2014 Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More",
+    "release_date": "2026-08-05 17:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "3a469bf8-a602-457b-bf6b-a03bf45aab4b",
+    "episode_title": "\"Robby Hoffman\"",
+    "release_date": "2026-08-10 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "8f52aa53-23fc-4f18-a4c3-4e3f984b2fc9",
+    "episode_title": "Greta Lee",
+    "release_date": "2026-08-10 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "000ee634-0cb5-43e0-b6a0-bb709155efec",
+    "episode_title": "Summer S\u2019pouses Episode 2: Amanda Lund",
+    "release_date": "2026-08-06 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]
