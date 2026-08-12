@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-12 01:10:11
+Last updated: 2026-08-12 12:47:20
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-08-12 01:10:11
 **Released:** 2026-08-07 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 443: Amusement Park
-
-**Released:** 2026-08-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
 
 ---
 
@@ -72,7 +62,25 @@ Last updated: 2026-08-12 01:10:11
 
 ---
 
+## This American Life
+
+### 443: Amusement Park
+
+**Released:** 2026-08-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+
+---
+
 ## Planet Money
+
+### Currency Chaos in Argentina (Summer School)
+
+**Released:** 2026-08-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828318)
+
+---
 
 ### Older workers aren’t retiring. Should they be forced to?
 
@@ -82,11 +90,13 @@ Last updated: 2026-08-12 01:10:11
 
 ---
 
-### Sand heists and property rights in the Caribbean (Summer School)
+## Hidden Brain
 
-**Released:** 2026-08-05 07:30:00
+### How Feelings Make Us Smarter
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
+**Released:** 2026-08-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
 
 ---
 
@@ -142,17 +152,15 @@ Last updated: 2026-08-12 01:10:11
 
 ---
 
-## Hidden Brain
+## Stuff You Should Know
 
-### How Feelings Make Us Smarter
+### Short Stuff: Nero and His Fiddle
 
-**Released:** 2026-08-10 19:00:00
+**Released:** 2026-08-12 09:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Bonnie and Clyde
 
@@ -186,24 +194,6 @@ Last updated: 2026-08-12 01:10:11
 
 ---
 
-### Short Stuff: Phone Books
-
-**Released:** 2026-08-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d49c073a-20c1-490c-804f-b49c0145e6c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Revisionist History
-
-### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
-
-**Released:** 2026-08-06 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### MadeGood: Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant.
@@ -219,6 +209,34 @@ Last updated: 2026-08-12 01:10:11
 **Released:** 2026-08-06 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Staten Island Problem - Part  5: Revenge of the Forgotten Borough
+
+**Released:** 2026-08-06 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
+
+**Released:** 2026-08-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
+
+---
+
+### Childhood Crushes: The Moth Podcast
+
+**Released:** 2026-08-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
 
 ---
 
@@ -242,6 +260,14 @@ Last updated: 2026-08-12 01:10:11
 
 ## Armchair Expert
 
+### Marc Brackett (on emotional intelligence)
+
+**Released:** 2026-08-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Taron Egerton
 
 **Released:** 2026-08-10 07:30:00
@@ -258,42 +284,6 @@ Last updated: 2026-08-12 01:10:11
 
 ---
 
-### Christopher Whitcomb (on the Idaho murders)
-
-**Released:** 2026-08-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/aba091bb-d98a-458c-adf7-77264a288bac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
-
-**Released:** 2026-08-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
-
----
-
-### Childhood Crushes: The Moth Podcast
-
-**Released:** 2026-08-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
-
----
-
 ## SmartLess 
 
 ### "Robby Hoffman"
@@ -301,6 +291,24 @@ Last updated: 2026-08-12 01:10:11
 **Released:** 2026-08-10 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
+
+**Released:** 2026-08-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
+
+**Released:** 2026-08-05 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
