@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-12 12:47:20
+Last updated: 2026-08-13 01:12:11
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-08-12 12:47:20
 
 ---
 
+## This American Life
+
+### 443: Amusement Park
+
+**Released:** 2026-08-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+
+---
+
 ## TED Talks Daily
+
+### The hidden power of sad songs and rainy days | Susan Cain and Min Kym
+
+**Released:** 2026-08-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3)
+
+---
 
 ### How satellites and AI can protect the planet | Robbie Schingler
 
@@ -54,53 +72,15 @@ Last updated: 2026-08-12 12:47:20
 
 ---
 
-### The infodemic — and the scientists fighting against it | Jessica Malaty Rivera
-
-**Released:** 2026-08-07 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7385a52578a0c7e2a5cf73/media.mp3)
-
----
-
-## This American Life
-
-### 443: Amusement Park
-
-**Released:** 2026-08-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
-
----
-
-## Planet Money
-
-### Currency Chaos in Argentina (Summer School)
-
-**Released:** 2026-08-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828318)
-
----
-
-### Older workers aren’t retiring. Should they be forced to?
-
-**Released:** 2026-08-07 20:55:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
-
----
-
-## Hidden Brain
-
-### How Feelings Make Us Smarter
-
-**Released:** 2026-08-10 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2538 - Joe DeRosa
+
+**Released:** 2026-08-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
+
+---
 
 ### JRE MMA Show #184 with Aljamain Sterling
 
@@ -126,29 +106,21 @@ Last updated: 2026-08-12 12:47:20
 
 ---
 
-### #2535 - Andrew Wilson
+## Planet Money
 
-**Released:** 2026-08-05 17:00:00
+### Currency Chaos in Argentina (Summer School)
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7134764800.mp3)
+**Released:** 2026-08-12 07:30:00
 
----
-
-## 99% Invisible
-
-### Bamboo Is Innocent
-
-**Released:** 2026-08-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318)
 
 ---
 
-### 100 Objects #12: "Negro Cloth"
+### Older workers aren’t retiring. Should they be forced to?
 
-**Released:** 2026-08-07 07:00:00
+**Released:** 2026-08-07 20:55:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
 
 ---
 
@@ -194,9 +166,37 @@ Last updated: 2026-08-12 12:47:20
 
 ---
 
+## Hidden Brain
+
+### How Feelings Make Us Smarter
+
+**Released:** 2026-08-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Bamboo Is Innocent
+
+**Released:** 2026-08-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #12: "Negro Cloth"
+
+**Released:** 2026-08-07 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
-### MadeGood: Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant.
+### MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
 
 **Released:** 2026-08-10 07:10:00
 
@@ -219,42 +219,6 @@ Last updated: 2026-08-12 12:47:20
 **Released:** 2026-08-06 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/7d462965-1cae-4ef6-8691-b48e00fface8/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
-
-**Released:** 2026-08-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
-
----
-
-### Childhood Crushes: The Moth Podcast
-
-**Released:** 2026-08-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Greta Lee
-
-**Released:** 2026-08-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 2: Amanda Lund
-
-**Released:** 2026-08-06 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
 
 ---
 
@@ -284,6 +248,42 @@ Last updated: 2026-08-12 12:47:20
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Greta Lee
+
+**Released:** 2026-08-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 2: Amanda Lund
+
+**Released:** 2026-08-06 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3718c7de-1305-4643-82b4-945db66e795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3718c7de-1305-4643-82b4-945db66e795a&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
+
+**Released:** 2026-08-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
+
+---
+
+### Childhood Crushes: The Moth Podcast
+
+**Released:** 2026-08-07 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
+
+---
+
 ## SmartLess 
 
 ### "Robby Hoffman"
@@ -301,14 +301,6 @@ Last updated: 2026-08-12 12:47:20
 **Released:** 2026-08-12 10:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #878: How to Start When You're Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and More
-
-**Released:** 2026-08-05 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f261454-c4d9-46aa-91db-4f6340cdab8a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
