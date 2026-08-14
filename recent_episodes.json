@@ -14,6 +14,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37230 at https://www.thisamericanlife.org",
+    "episode_title": "443: Amusement Park",
+    "release_date": "2026-08-09 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6a7b867fb8e79c154df980c1",
+    "episode_title": "\"Bridge Over Troubled Water\" \u2014 like you've never heard it before | MAS Vocal ",
+    "release_date": "2026-08-13 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b867fb8e79c154df980c1/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a7b780bf91cd396b39c5cf4",
     "episode_title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
     "release_date": "2026-08-12 15:00:00",
@@ -42,11 +56,32 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a6a180f6043035f890a464a",
-    "episode_title": "Our last, best chance to cool the Earth | Bill McKibben",
-    "release_date": "2026-08-08 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a6a180f6043035f890a464a/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "a3aee712-96bb-11f1-807f-c72272cb9884",
+    "episode_title": "#2539 - Protect Our Parks 17",
+    "release_date": "2026-08-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "22233586-966b-11f1-8f2f-03112136bec0",
+    "episode_title": "#2538 - Joe DeRosa",
+    "release_date": "2026-08-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1242550719.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "99c85bdc-9523-11f1-8cce-6b6deb9f7357",
+    "episode_title": "JRE MMA Show #184 with Aljamain Sterling",
+    "release_date": "2026-08-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "16d5d7dc-91ee-11f1-bdcf-df9a64476d59",
+    "episode_title": "#2537 - David Sinclair",
+    "release_date": "2026-08-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1521681560.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "2e6155cd-e5f7-4427-acfc-c8b0e0848efc",
@@ -63,11 +98,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "37230 at https://www.thisamericanlife.org",
-    "episode_title": "443: Amusement Park",
-    "release_date": "2026-08-09 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache",
-    "podcast_name": "This American Life"
+    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
+    "episode_title": "How Feelings Make Us Smarter",
+    "release_date": "2026-08-10 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "5f5d0b7d-72b5-45cb-bb40-587a86bb6fbd",
@@ -82,13 +117,6 @@
     "release_date": "2026-08-07 07:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
-    "episode_title": "How Feelings Make Us Smarter",
-    "release_date": "2026-08-10 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "0dc229c1-daad-4b93-a1cc-b4a30105206f",
@@ -140,6 +168,13 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/OigKKO7pVDscTWhoitq5Wy6BsJzs_1wHOUOk8xBWd0I",
+    "episode_title": "#879: How to Reinvent Yourself and Make Bold Moves \u2014 Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More",
+    "release_date": "2026-08-12 10:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
     "episode_title": "Summer S\u2019pouses Episode 3: Tak Boroyan",
     "release_date": "2026-08-13 04:05:00",
@@ -152,34 +187,6 @@
     "release_date": "2026-08-10 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
-    "episode_title": "Marc Brackett (on emotional intelligence)",
-    "release_date": "2026-08-12 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/sX7AAcnp642H_bhEewffDS1MKiHx-fnzU701xhxf5_k",
-    "episode_title": "Taron Egerton",
-    "release_date": "2026-08-10 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/L8VJ5EgSqyhDqPgmd5-nVx-w8_Izcm5iYeWBHQYwbrk",
-    "episode_title": "Armchair Anonymous: Hotel II",
-    "release_date": "2026-08-07 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/0a86e8b1-515f-4709-816c-5b984a2adbec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/OigKKO7pVDscTWhoitq5Wy6BsJzs_1wHOUOk8xBWd0I",
-    "episode_title": "#879: How to Reinvent Yourself and Make Bold Moves \u2014 Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More",
-    "release_date": "2026-08-12 10:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "9df48be0-e9ef-467b-9703-a99324245723",
@@ -208,5 +215,26 @@
     "release_date": "2026-08-07 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
+    "episode_title": "Marc Brackett (on emotional intelligence)",
+    "release_date": "2026-08-12 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/sX7AAcnp642H_bhEewffDS1MKiHx-fnzU701xhxf5_k",
+    "episode_title": "Taron Egerton",
+    "release_date": "2026-08-10 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/L8VJ5EgSqyhDqPgmd5-nVx-w8_Izcm5iYeWBHQYwbrk",
+    "episode_title": "Armchair Anonymous: Hotel II",
+    "release_date": "2026-08-07 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/0a86e8b1-515f-4709-816c-5b984a2adbec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
