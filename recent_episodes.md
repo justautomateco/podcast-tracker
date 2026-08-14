@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-14 01:11:04
+Last updated: 2026-08-14 12:43:31
 
 ## Freakonomics Radio
+
+### The Case of the $4 Million Gold Coffin (Update)
+
+**Released:** 2026-08-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4)
+
+---
 
 ### What if Being a Stranger Is Actually Your Superpower? | Better in Person
 
@@ -12,21 +20,21 @@ Last updated: 2026-08-14 01:11:04
 
 ---
 
-### 684. He Helped Clean Up the Last Crash. Does He See Another One Coming?
+## Planet Money
 
-**Released:** 2026-08-07 10:00:00
+### Currency Chaos in Argentina (Summer School)
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4)
+**Released:** 2026-08-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318)
 
 ---
 
-## This American Life
+### Older workers aren’t retiring. Should they be forced to?
 
-### 443: Amusement Park
+**Released:** 2026-08-07 20:55:00
 
-**Released:** 2026-08-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
 
 ---
 
@@ -72,6 +80,16 @@ Last updated: 2026-08-14 01:11:04
 
 ---
 
+## This American Life
+
+### 443: Amusement Park
+
+**Released:** 2026-08-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2539 - Protect Our Parks 17
@@ -103,52 +121,6 @@ Last updated: 2026-08-14 01:11:04
 **Released:** 2026-08-07 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1521681560.mp3)
-
----
-
-## Planet Money
-
-### Currency Chaos in Argentina (Summer School)
-
-**Released:** 2026-08-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318)
-
----
-
-### Older workers aren’t retiring. Should they be forced to?
-
-**Released:** 2026-08-07 20:55:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
-
----
-
-## Hidden Brain
-
-### How Feelings Make Us Smarter
-
-**Released:** 2026-08-10 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Bamboo Is Innocent
-
-**Released:** 2026-08-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
-
----
-
-### 100 Objects #12: "Negro Cloth"
-
-**Released:** 2026-08-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/32d7222e-3686-4a0b-a3d2-83ab8c232c82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=32d7222e-3686-4a0b-a3d2-83ab8c232c82&feed=BqbsxVfO)
 
 ---
 
@@ -194,6 +166,34 @@ Last updated: 2026-08-14 01:11:04
 
 ---
 
+## Hidden Brain
+
+### How Feelings Make Us Smarter
+
+**Released:** 2026-08-10 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #13: The Sand Letters
+
+**Released:** 2026-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
+
+---
+
+### Bamboo Is Innocent
+
+**Released:** 2026-08-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)
@@ -219,6 +219,32 @@ Last updated: 2026-08-14 01:11:04
 **Released:** 2026-08-12 10:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Armchair Anonymous: Extreme Weather
+
+**Released:** 2026-08-14 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Marc Brackett (on emotional intelligence)
+
+**Released:** 2026-08-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Taron Egerton
+
+**Released:** 2026-08-10 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -260,45 +286,19 @@ Last updated: 2026-08-14 01:11:04
 
 ## The Moth
 
+### Schooled: The Moth Podcast
+
+**Released:** 2026-08-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
+
+---
+
 ### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
 
 **Released:** 2026-08-11 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
-
----
-
-### Childhood Crushes: The Moth Podcast
-
-**Released:** 2026-08-07 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208770/8208770_2026-04-13-034110.192.mp3?rssID=6066)
-
----
-
-## Armchair Expert
-
-### Marc Brackett (on emotional intelligence)
-
-**Released:** 2026-08-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Taron Egerton
-
-**Released:** 2026-08-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Hotel II
-
-**Released:** 2026-08-07 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0a86e8b1-515f-4709-816c-5b984a2adbec.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
