@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-15 00:42:51
+Last updated: 2026-08-15 12:19:42
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-08-15 00:42:51
 **Released:** 2026-08-12 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 443: Amusement Park
-
-**Released:** 2026-08-09 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
 
 ---
 
@@ -72,40 +62,6 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
-## The Joe Rogan Experience
-
-### #2540 - Travis Barker
-
-**Released:** 2026-08-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5593509812.mp3)
-
----
-
-### #2539 - Protect Our Parks 17
-
-**Released:** 2026-08-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2831972716.mp3)
-
----
-
-### #2538 - Joe DeRosa
-
-**Released:** 2026-08-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
-
----
-
-### JRE MMA Show #184 with Aljamain Sterling
-
-**Released:** 2026-08-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9611837612.mp3)
-
----
-
 ## Planet Money
 
 ### You bet your life insurance
@@ -124,6 +80,16 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
+## This American Life
+
+### 443: Amusement Park
+
+**Released:** 2026-08-09 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+
+---
+
 ## Hidden Brain
 
 ### How Feelings Make Us Smarter
@@ -134,7 +100,33 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #13: The Sand Letters
+
+**Released:** 2026-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
+
+---
+
+### Bamboo Is Innocent
+
+**Released:** 2026-08-11 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Selects: The Manhattan Grid
+
+**Released:** 2026-08-15 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/54a718a4-c91c-499f-87d9-b4a500dd7695/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Who was Robert Maxwell?l
 
@@ -160,40 +152,6 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
-### Selects: Iran-Contra Affair: Shady in the 80s, Part 2
-
-**Released:** 2026-08-08 09:05:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23d26685-cb0c-496e-91f3-b49e00d9b585/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Iran-Contra Affair: Shady in the 80s, Part 1
-
-**Released:** 2026-08-08 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d8a73ba2-017d-493e-9207-b49e00d99c9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #13: The Sand Letters
-
-**Released:** 2026-08-14 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
-
----
-
-### Bamboo Is Innocent
-
-**Released:** 2026-08-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)
@@ -212,21 +170,49 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Schooled: The Moth Podcast
+### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
 
-**Released:** 2026-08-14 04:25:00
+**Released:** 2026-08-12 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-08-11 04:25:00
+### Summer S’pouses Episode 3: Tak Boroyan
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
+**Released:** 2026-08-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
+
+---
+
+### Greta Lee
+
+**Released:** 2026-08-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Kaley Cuoco"
+
+**Released:** 2026-08-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
+
+---
+
+### "Robby Hoffman"
+
+**Released:** 2026-08-10 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
 
 ---
 
@@ -256,49 +242,21 @@ Last updated: 2026-08-15 00:42:51
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "RE-RELEASE: Kaley Cuoco"
+### Schooled: The Moth Podcast
 
-**Released:** 2026-08-13 07:00:00
+**Released:** 2026-08-14 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
-
----
-
-### "Robby Hoffman"
-
-**Released:** 2026-08-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
 
 ---
 
-## Conan O'Brien Needs A Friend
+### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
 
-### Summer S’pouses Episode 3: Tak Boroyan
+**Released:** 2026-08-11 04:25:00
 
-**Released:** 2026-08-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
-
----
-
-### Greta Lee
-
-**Released:** 2026-08-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
-
-**Released:** 2026-08-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
 
 ---
 
