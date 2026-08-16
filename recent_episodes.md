@@ -1,6 +1,48 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-15 12:19:42
+Last updated: 2026-08-16 00:45:32
+
+## TED Talks Daily
+
+### 3 steps to turn everyday get-togethers into transformative gatherings | Priya Parker
+
+**Released:** 2026-08-15 15:04:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b8a39b8e79c154dfa87ee/media.mp3)
+
+---
+
+### A guerrilla gardener in South Central LA | Ron Finley
+
+**Released:** 2026-08-15 15:03:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9bced6c287f9ee9bc5c4/media.mp3)
+
+---
+
+### 3 ways community creates a healthy life | Olivia Affuso
+
+**Released:** 2026-08-15 15:02:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9b8260037525733dc948/media.mp3)
+
+---
+
+### 3 skills every middle school boy needs | Jerome Hunter
+
+**Released:** 2026-08-15 15:01:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9af4f91cd396b3a71c2d/media.mp3)
+
+---
+
+### The power of gaming together in a lonely world | Laura Miele
+
+**Released:** 2026-08-15 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b900ef91cd396b3a43185/media.mp3)
+
+---
 
 ## Freakonomics Radio
 
@@ -17,48 +59,6 @@ Last updated: 2026-08-15 12:19:42
 **Released:** 2026-08-12 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4)
-
----
-
-## TED Talks Daily
-
-### The creative genius of sneaker design | Salehe Bembury
-
-**Released:** 2026-08-14 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b870341d476dc7a72efe8/media.mp3)
-
----
-
-### "Bridge Over Troubled Water" — like you've never heard it before | MAS Vocal 
-
-**Released:** 2026-08-13 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b867fb8e79c154df980c1/media.mp3)
-
----
-
-### The hidden power of sad songs and rainy days | Susan Cain and Min Kym
-
-**Released:** 2026-08-12 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3)
-
----
-
-### How satellites and AI can protect the planet | Robbie Schingler
-
-**Released:** 2026-08-11 15:05:19
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b3a301549db32d42f0931/media.mp3)
-
----
-
-### How citizens (not politicians) are building the future | Jon Alexander
-
-**Released:** 2026-08-10 15:01:10
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3)
 
 ---
 
@@ -100,6 +100,40 @@ Last updated: 2026-08-15 12:19:42
 
 ---
 
+## The Joe Rogan Experience
+
+### #2540 - Travis Barker
+
+**Released:** 2026-08-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5593509812.mp3)
+
+---
+
+### #2539 - Protect Our Parks 17
+
+**Released:** 2026-08-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2831972716.mp3)
+
+---
+
+### #2538 - Joe DeRosa
+
+**Released:** 2026-08-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
+
+---
+
+### JRE MMA Show #184 with Aljamain Sterling
+
+**Released:** 2026-08-11 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9611837612.mp3)
+
+---
+
 ## 99% Invisible
 
 ### 100 Objects #13: The Sand Letters
@@ -128,7 +162,7 @@ Last updated: 2026-08-15 12:19:42
 
 ---
 
-### Who was Robert Maxwell?l
+### Who was Robert Maxwell?
 
 **Released:** 2026-08-13 09:00:00
 
@@ -152,6 +186,16 @@ Last updated: 2026-08-15 12:19:42
 
 ---
 
+## The Tim Ferriss Show
+
+### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
+
+**Released:** 2026-08-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)
@@ -167,52 +211,6 @@ Last updated: 2026-08-15 12:19:42
 **Released:** 2026-08-10 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
-
-**Released:** 2026-08-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 3: Tak Boroyan
-
-**Released:** 2026-08-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
-
----
-
-### Greta Lee
-
-**Released:** 2026-08-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Kaley Cuoco"
-
-**Released:** 2026-08-13 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
-
----
-
-### "Robby Hoffman"
-
-**Released:** 2026-08-10 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
 
 ---
 
@@ -239,6 +237,42 @@ Last updated: 2026-08-15 12:19:42
 **Released:** 2026-08-10 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Kaley Cuoco"
+
+**Released:** 2026-08-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
+
+---
+
+### "Robby Hoffman"
+
+**Released:** 2026-08-10 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 3: Tak Boroyan
+
+**Released:** 2026-08-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
+
+---
+
+### Greta Lee
+
+**Released:** 2026-08-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
 
 ---
 

@@ -1,5 +1,40 @@
 [
   {
+    "guid": "6a7b8a39b8e79c154dfa87ee",
+    "episode_title": "3 steps to turn everyday get-togethers into transformative gatherings | Priya Parker",
+    "release_date": "2026-08-15 15:04:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b8a39b8e79c154dfa87ee/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a7b9bced6c287f9ee9bc5c4",
+    "episode_title": "A guerrilla gardener in South Central LA | Ron Finley",
+    "release_date": "2026-08-15 15:03:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9bced6c287f9ee9bc5c4/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a7b9b8260037525733dc948",
+    "episode_title": "3 ways community creates a healthy life | Olivia Affuso",
+    "release_date": "2026-08-15 15:02:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9b8260037525733dc948/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a7b9af4f91cd396b3a71c2d",
+    "episode_title": "3 skills every middle school boy needs | Jerome Hunter",
+    "release_date": "2026-08-15 15:01:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9af4f91cd396b3a71c2d/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "6a7b900ef91cd396b3a43185",
+    "episode_title": "The power of gaming together in a lonely world | Laura Miele",
+    "release_date": "2026-08-15 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b900ef91cd396b3a43185/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
     "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
     "release_date": "2026-08-14 10:00:00",
@@ -12,41 +47,6 @@
     "release_date": "2026-08-12 00:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "6a7b870341d476dc7a72efe8",
-    "episode_title": "The creative genius of sneaker design | Salehe Bembury",
-    "release_date": "2026-08-14 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b870341d476dc7a72efe8/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a7b867fb8e79c154df980c1",
-    "episode_title": "\"Bridge Over Troubled Water\" \u2014 like you've never heard it before | MAS Vocal ",
-    "release_date": "2026-08-13 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b867fb8e79c154df980c1/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a7b780bf91cd396b39c5cf4",
-    "episode_title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
-    "release_date": "2026-08-12 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a7b3a301549db32d42f0931",
-    "episode_title": "How satellites and AI can protect the planet | Robbie Schingler",
-    "release_date": "2026-08-11 15:05:19",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b3a301549db32d42f0931/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a79e7b6cfc0396cc19c91e1",
-    "episode_title": "How citizens (not politicians) are building the future | Jon Alexander",
-    "release_date": "2026-08-10 15:01:10",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a79e7b6cfc0396cc19c91e1/media.mp3",
-    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
@@ -77,6 +77,34 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "b5568610-9764-11f1-8761-4370c8a2da8b",
+    "episode_title": "#2540 - Travis Barker",
+    "release_date": "2026-08-14 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "a3aee712-96bb-11f1-807f-c72272cb9884",
+    "episode_title": "#2539 - Protect Our Parks 17",
+    "release_date": "2026-08-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "22233586-966b-11f1-8f2f-03112136bec0",
+    "episode_title": "#2538 - Joe DeRosa",
+    "release_date": "2026-08-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1242550719.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "99c85bdc-9523-11f1-8cce-6b6deb9f7357",
+    "episode_title": "JRE MMA Show #184 with Aljamain Sterling",
+    "release_date": "2026-08-11 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9611837612.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
     "episode_title": "100 Objects #13: The Sand Letters",
     "release_date": "2026-08-14 07:00:00",
@@ -99,7 +127,7 @@
   },
   {
     "guid": "0dc229c1-daad-4b93-a1cc-b4a30105206f",
-    "episode_title": "Who was Robert Maxwell?l",
+    "episode_title": "Who was Robert Maxwell?",
     "release_date": "2026-08-13 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0dc229c1-daad-4b93-a1cc-b4a30105206f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
@@ -119,6 +147,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/OigKKO7pVDscTWhoitq5Wy6BsJzs_1wHOUOk8xBWd0I",
+    "episode_title": "#879: How to Reinvent Yourself and Make Bold Moves \u2014 Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More",
+    "release_date": "2026-08-12 10:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/UD6TQC_B-mu2CNmxiXwhu61Z50GAWlhF7wbYA3No3Ic",
     "episode_title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
     "release_date": "2026-08-13 07:10:00",
@@ -131,41 +166,6 @@
     "release_date": "2026-08-10 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/OigKKO7pVDscTWhoitq5Wy6BsJzs_1wHOUOk8xBWd0I",
-    "episode_title": "#879: How to Reinvent Yourself and Make Bold Moves \u2014 Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More",
-    "release_date": "2026-08-12 10:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
-    "episode_title": "Summer S\u2019pouses Episode 3: Tak Boroyan",
-    "release_date": "2026-08-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "8f52aa53-23fc-4f18-a4c3-4e3f984b2fc9",
-    "episode_title": "Greta Lee",
-    "release_date": "2026-08-10 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
-    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
-    "release_date": "2026-08-13 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "3a469bf8-a602-457b-bf6b-a03bf45aab4b",
-    "episode_title": "\"Robby Hoffman\"",
-    "release_date": "2026-08-10 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
@@ -187,6 +187,34 @@
     "release_date": "2026-08-10 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
+    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
+    "release_date": "2026-08-13 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "3a469bf8-a602-457b-bf6b-a03bf45aab4b",
+    "episode_title": "\"Robby Hoffman\"",
+    "release_date": "2026-08-10 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
+    "episode_title": "Summer S\u2019pouses Episode 3: Tak Boroyan",
+    "release_date": "2026-08-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "8f52aa53-23fc-4f18-a4c3-4e3f984b2fc9",
+    "episode_title": "Greta Lee",
+    "release_date": "2026-08-10 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "744f5a3c-89d4-11f0-b13f-7fe4e752f3ee",
