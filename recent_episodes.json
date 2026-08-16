@@ -1,5 +1,26 @@
 [
   {
+    "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
+    "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
+    "release_date": "2026-08-14 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
+    "episode_title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
+    "release_date": "2026-08-12 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "6a7b872e1549db32d449fb54",
+    "episode_title": "Lessons: What to do when you get \u201clayered\u201d at work | WorkLife with Molly Graham",
+    "release_date": "2026-08-16 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b872e1549db32d449fb54/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a7b8a39b8e79c154dfa87ee",
     "episode_title": "3 steps to turn everyday get-togethers into transformative gatherings | Priya Parker",
     "release_date": "2026-08-15 15:04:00",
@@ -28,25 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a7b900ef91cd396b3a43185",
-    "episode_title": "The power of gaming together in a lonely world | Laura Miele",
-    "release_date": "2026-08-15 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b900ef91cd396b3a43185/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
-    "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
-    "release_date": "2026-08-14 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
-    "episode_title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
-    "release_date": "2026-08-12 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "37230 at https://www.thisamericanlife.org",
+    "episode_title": "443: Amusement Park",
+    "release_date": "2026-08-09 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
@@ -61,20 +68,6 @@
     "release_date": "2026-08-12 07:30:00",
     "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37230 at https://www.thisamericanlife.org",
-    "episode_title": "443: Amusement Park",
-    "release_date": "2026-08-09 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
-    "episode_title": "How Feelings Make Us Smarter",
-    "release_date": "2026-08-10 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "b5568610-9764-11f1-8761-4370c8a2da8b",
@@ -105,18 +98,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
-    "episode_title": "100 Objects #13: The Sand Letters",
-    "release_date": "2026-08-14 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "5f5d0b7d-72b5-45cb-bb40-587a86bb6fbd",
-    "episode_title": "Bamboo Is Innocent",
-    "release_date": "2026-08-11 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
+    "episode_title": "How Feelings Make Us Smarter",
+    "release_date": "2026-08-10 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "54a718a4-c91c-499f-87d9-b4a500dd7695",
@@ -147,6 +133,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
+    "episode_title": "100 Objects #13: The Sand Letters",
+    "release_date": "2026-08-14 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "5f5d0b7d-72b5-45cb-bb40-587a86bb6fbd",
+    "episode_title": "Bamboo Is Innocent",
+    "release_date": "2026-08-11 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/OigKKO7pVDscTWhoitq5Wy6BsJzs_1wHOUOk8xBWd0I",
     "episode_title": "#879: How to Reinvent Yourself and Make Bold Moves \u2014 Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More",
     "release_date": "2026-08-12 10:00:00",
@@ -166,27 +166,6 @@
     "release_date": "2026-08-10 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
-    "episode_title": "Armchair Anonymous: Extreme Weather",
-    "release_date": "2026-08-14 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
-    "episode_title": "Marc Brackett (on emotional intelligence)",
-    "release_date": "2026-08-12 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/sX7AAcnp642H_bhEewffDS1MKiHx-fnzU701xhxf5_k",
-    "episode_title": "Taron Egerton",
-    "release_date": "2026-08-10 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "9df48be0-e9ef-467b-9703-a99324245723",
@@ -229,5 +208,26 @@
     "release_date": "2026-08-11 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
+    "episode_title": "Armchair Anonymous: Extreme Weather",
+    "release_date": "2026-08-14 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
+    "episode_title": "Marc Brackett (on emotional intelligence)",
+    "release_date": "2026-08-12 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/sX7AAcnp642H_bhEewffDS1MKiHx-fnzU701xhxf5_k",
+    "episode_title": "Taron Egerton",
+    "release_date": "2026-08-10 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
