@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-17 00:43:19
+Last updated: 2026-08-17 12:24:23
 
 ## Freakonomics Radio
 
@@ -152,16 +152,6 @@ Last updated: 2026-08-17 00:43:19
 
 ---
 
-## The Tim Ferriss Show
-
-### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
-
-**Released:** 2026-08-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: The Manhattan Grid
@@ -196,21 +186,31 @@ Last updated: 2026-08-17 00:43:19
 
 ---
 
+## The Tim Ferriss Show
+
+### #879: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More
+
+**Released:** 2026-08-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9eacccbb-545a-4944-81c8-d1c9a0efd805.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
+
+### Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants
+
+**Released:** 2026-08-17 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4488842b-74d3-40ed-8776-5831c5934e69.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)
 
 **Released:** 2026-08-13 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/427590c2-11bc-43fa-9c92-d1eccf05842a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
-
-**Released:** 2026-08-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -232,25 +232,15 @@ Last updated: 2026-08-17 00:43:19
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 3: Tak Boroyan
-
-**Released:** 2026-08-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
-
----
-
-### Greta Lee
-
-**Released:** 2026-08-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cb45ed8f-e462-42c7-8b7a-9e9002aa6d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cb45ed8f-e462-42c7-8b7a-9e9002aa6d59&feed=dHoohVNH)
-
----
-
 ## SmartLess 
+
+### "Tim Robbins"
+
+**Released:** 2026-08-17 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
+
+---
 
 ### "RE-RELEASE: Kaley Cuoco"
 
@@ -260,15 +250,33 @@ Last updated: 2026-08-17 00:43:19
 
 ---
 
-### "Robby Hoffman"
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-08-10 07:01:00
+### Gillian Anderson
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/7b5596b3-2883-432e-9e74-765b0b8593a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=7b5596b3-2883-432e-9e74-765b0b8593a1&feed=hNaFxXpO)
+**Released:** 2026-08-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 3: Tak Boroyan
+
+**Released:** 2026-08-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
 
 ---
 
 ## Armchair Expert
+
+### David Sedaris #6
+
+**Released:** 2026-08-17 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Extreme Weather
 
@@ -283,14 +291,6 @@ Last updated: 2026-08-17 00:43:19
 **Released:** 2026-08-12 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Taron Egerton
-
-**Released:** 2026-08-10 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4ffdd703-5810-49ab-bd50-411edf6ad703.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
