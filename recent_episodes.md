@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-18 00:42:35
+Last updated: 2026-08-18 12:26:33
+
+## Freakonomics Radio
+
+### The Case of the $4 Million Gold Coffin (Update)
+
+**Released:** 2026-08-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4)
+
+---
+
+### What if Being a Stranger Is Actually Your Superpower? | Better in Person
+
+**Released:** 2026-08-12 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,34 +62,6 @@ Last updated: 2026-08-18 00:42:35
 
 ---
 
-## Freakonomics Radio
-
-### The Case of the $4 Million Gold Coffin (Update)
-
-**Released:** 2026-08-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4)
-
----
-
-### What if Being a Stranger Is Actually Your Superpower? | Better in Person
-
-**Released:** 2026-08-12 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 895: Label Maker!
-
-**Released:** 2026-08-16 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
-
----
-
 ## Planet Money
 
 ### You bet your life insurance
@@ -90,37 +80,13 @@ Last updated: 2026-08-18 00:42:35
 
 ---
 
-## The Joe Rogan Experience
+## This American Life
 
-### #2540 - Travis Barker
+### 895: Label Maker!
 
-**Released:** 2026-08-14 17:00:00
+**Released:** 2026-08-16 20:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5593509812.mp3)
-
----
-
-### #2539 - Protect Our Parks 17
-
-**Released:** 2026-08-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2831972716.mp3)
-
----
-
-### #2538 - Joe DeRosa
-
-**Released:** 2026-08-12 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
-
----
-
-### JRE MMA Show #184 with Aljamain Sterling
-
-**Released:** 2026-08-11 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9611837612.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
 
 ---
 
@@ -134,25 +100,15 @@ Last updated: 2026-08-18 00:42:35
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #13: The Sand Letters
-
-**Released:** 2026-08-14 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
-
----
-
-### Bamboo Is Innocent
-
-**Released:** 2026-08-11 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/1911b2b6-5d79-4ceb-87a3-2445cc696d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=1911b2b6-5d79-4ceb-87a3-2445cc696d36&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Isn't It Ironic, Dontcha Think? 
+
+**Released:** 2026-08-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f18f3b06-13e9-436c-87f5-b4a500dc39b6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: The Manhattan Grid
 
@@ -178,11 +134,21 @@ Last updated: 2026-08-18 00:42:35
 
 ---
 
-### Bonnie and Clyde
+## 99% Invisible
 
-**Released:** 2026-08-11 09:00:00
+### The Bone Wars
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/751b5230-fe86-434d-80dd-b4a20165416c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-08-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #13: The Sand Letters
+
+**Released:** 2026-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
 
 ---
 
@@ -211,42 +177,6 @@ Last updated: 2026-08-18 00:42:35
 **Released:** 2026-08-13 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/427590c2-11bc-43fa-9c92-d1eccf05842a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Schooled: The Moth Podcast
-
-**Released:** 2026-08-14 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
-
----
-
-### Soul Searching, Soul Food, and the Upside Down: The Moth Radio Hour
-
-**Released:** 2026-08-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208777/8208777_2026-04-13-034817.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Gillian Anderson
-
-**Released:** 2026-08-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 3: Tak Boroyan
-
-**Released:** 2026-08-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
 
 ---
 
@@ -291,6 +221,42 @@ Last updated: 2026-08-18 00:42:35
 **Released:** 2026-08-12 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Gillian Anderson
+
+**Released:** 2026-08-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 3: Tak Boroyan
+
+**Released:** 2026-08-13 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Driven: The Moth Radio Hour
+
+**Released:** 2026-08-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208776/8208776_2026-04-13-034516.192.mp3?rssID=6066)
+
+---
+
+### Schooled: The Moth Podcast
+
+**Released:** 2026-08-14 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
 
 ---
 
