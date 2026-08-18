@@ -1,24 +1,10 @@
 [
   {
-    "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
-    "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
-    "release_date": "2026-08-14 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
-    "episode_title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
-    "release_date": "2026-08-12 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46208 at https://www.thisamericanlife.org",
-    "episode_title": "895: Label Maker!",
-    "release_date": "2026-08-16 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6a83205691aa41f304f1a8b1",
+    "episode_title": "We\u2019ve solved many medical mysteries. Where are the cures? | Saloni Dattani",
+    "release_date": "2026-08-17 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a83205691aa41f304f1a8b1/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a7b872e1549db32d449fb54",
@@ -49,11 +35,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a7b9af4f91cd396b3a71c2d",
-    "episode_title": "3 skills every middle school boy needs | Jerome Hunter",
-    "release_date": "2026-08-15 15:01:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9af4f91cd396b3a71c2d/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
+    "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
+    "release_date": "2026-08-14 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
+    "episode_title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
+    "release_date": "2026-08-12 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "46208 at https://www.thisamericanlife.org",
+    "episode_title": "895: Label Maker!",
+    "release_date": "2026-08-16 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
@@ -66,7 +66,7 @@
     "guid": "2e6155cd-e5f7-4427-acfc-c8b0e0848efc",
     "episode_title": "Currency Chaos in Argentina (Summer School)",
     "release_date": "2026-08-12 07:30:00",
-    "mp3_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319",
     "podcast_name": "Planet Money"
   },
   {
@@ -98,10 +98,10 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "cc714b1c-b27e-48d3-a627-7150206b28a2",
-    "episode_title": "How Feelings Make Us Smarter",
-    "release_date": "2026-08-10 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4c93f587-a360-4f19-a445-924c451e26e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4c93f587-a360-4f19-a445-924c451e26e3&feed=kwWc0lhf",
+    "guid": "fca44e1b-0090-4d8e-b0e3-88aa51577f58",
+    "episode_title": "How to Be A Better Partner",
+    "release_date": "2026-08-17 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
   },
   {
@@ -182,20 +182,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "1af9086f-3ac6-4c92-86b2-5493cb3aaa4a",
-    "episode_title": "\"Tim Robbins\"",
-    "release_date": "2026-08-17 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
-    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
-    "release_date": "2026-08-13 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
     "episode_title": "Gillian Anderson",
     "release_date": "2026-08-17 04:05:00",
@@ -208,6 +194,20 @@
     "release_date": "2026-08-13 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "1af9086f-3ac6-4c92-86b2-5493cb3aaa4a",
+    "episode_title": "\"Tim Robbins\"",
+    "release_date": "2026-08-17 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
+    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
+    "release_date": "2026-08-13 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/jq7vu24dKabBCVfN8LxJDqKB3hMmDX56FahqBXxdYEs",
