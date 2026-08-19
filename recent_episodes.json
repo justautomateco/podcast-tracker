@@ -1,5 +1,12 @@
 [
   {
+    "guid": "511183af-1167-4638-9a09-67c153cd4ba1",
+    "episode_title": "Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person",
+    "release_date": "2026-08-19 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "6e861620-6bd8-4770-a57a-1edd837c9b2e",
     "episode_title": "The Case of the $4 Million Gold Coffin (Update)",
     "release_date": "2026-08-14 10:00:00",
@@ -7,11 +14,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
-    "episode_title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
-    "release_date": "2026-08-12 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "6a84725939e73ea8f3dcaaf8",
+    "episode_title": "How AI is breaking the internet (and what to do about it) | Matthew Prince",
+    "release_date": "2026-08-18 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a84725939e73ea8f3dcaaf8/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a83205691aa41f304f1a8b1",
@@ -42,11 +49,39 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a7b9b8260037525733dc948",
-    "episode_title": "3 ways community creates a healthy life | Olivia Affuso",
-    "release_date": "2026-08-15 15:02:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9b8260037525733dc948/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46208 at https://www.thisamericanlife.org",
+    "episode_title": "895: Label Maker!",
+    "release_date": "2026-08-16 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+    "episode_title": "#2541 - Thomas Campbell",
+    "release_date": "2026-08-18 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b5568610-9764-11f1-8761-4370c8a2da8b",
+    "episode_title": "#2540 - Travis Barker",
+    "release_date": "2026-08-14 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5593509812.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "a3aee712-96bb-11f1-807f-c72272cb9884",
+    "episode_title": "#2539 - Protect Our Parks 17",
+    "release_date": "2026-08-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2831972716.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "22233586-966b-11f1-8f2f-03112136bec0",
+    "episode_title": "#2538 - Joe DeRosa",
+    "release_date": "2026-08-12 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1242550719.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "7408d7f6-3eab-4ebd-b88d-ccb2f6327204",
@@ -61,20 +96,6 @@
     "release_date": "2026-08-12 07:30:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46208 at https://www.thisamericanlife.org",
-    "episode_title": "895: Label Maker!",
-    "release_date": "2026-08-16 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "fca44e1b-0090-4d8e-b0e3-88aa51577f58",
-    "episode_title": "How to Be A Better Partner",
-    "release_date": "2026-08-17 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "f18f3b06-13e9-436c-87f5-b4a500dc39b6",
@@ -103,6 +124,13 @@
     "release_date": "2026-08-12 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "fca44e1b-0090-4d8e-b0e3-88aa51577f58",
+    "episode_title": "How to Be A Better Partner",
+    "release_date": "2026-08-17 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "368dcad4-4e3c-44eb-a47d-651bfa1b42ee",
@@ -154,27 +182,6 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/jq7vu24dKabBCVfN8LxJDqKB3hMmDX56FahqBXxdYEs",
-    "episode_title": "David Sedaris #6",
-    "release_date": "2026-08-17 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
-    "episode_title": "Armchair Anonymous: Extreme Weather",
-    "release_date": "2026-08-14 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
-    "episode_title": "Marc Brackett (on emotional intelligence)",
-    "release_date": "2026-08-12 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
     "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
     "episode_title": "Gillian Anderson",
     "release_date": "2026-08-17 04:05:00",
@@ -201,5 +208,26 @@
     "release_date": "2026-08-14 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/jq7vu24dKabBCVfN8LxJDqKB3hMmDX56FahqBXxdYEs",
+    "episode_title": "David Sedaris #6",
+    "release_date": "2026-08-17 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/8GeIDzyw8gjvq8e2IxuQQp7k3Ev3NGgGhoRorNfC7rI",
+    "episode_title": "Armchair Anonymous: Extreme Weather",
+    "release_date": "2026-08-14 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/C60kuU2jM1hJ4VaOiasJhTf4dG22XiUpUBqe2KcInFk",
+    "episode_title": "Marc Brackett (on emotional intelligence)",
+    "release_date": "2026-08-12 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]

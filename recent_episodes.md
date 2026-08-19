@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-18 12:26:33
+Last updated: 2026-08-19 00:42:34
 
 ## Freakonomics Radio
+
+### Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person
+
+**Released:** 2026-08-19 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4)
+
+---
 
 ### The Case of the $4 Million Gold Coffin (Update)
 
@@ -12,15 +20,15 @@ Last updated: 2026-08-18 12:26:33
 
 ---
 
-### What if Being a Stranger Is Actually Your Superpower? | Better in Person
+## TED Talks Daily
 
-**Released:** 2026-08-12 00:00:00
+### How AI is breaking the internet (and what to do about it) | Matthew Prince
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&feed=Y8lFbOT4)
+**Released:** 2026-08-18 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a84725939e73ea8f3dcaaf8/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### We’ve solved many medical mysteries. Where are the cures? | Saloni Dattani
 
@@ -54,11 +62,47 @@ Last updated: 2026-08-18 12:26:33
 
 ---
 
-### 3 ways community creates a healthy life | Olivia Affuso
+## This American Life
 
-**Released:** 2026-08-15 15:02:00
+### 895: Label Maker!
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9b8260037525733dc948/media.mp3)
+**Released:** 2026-08-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2541 - Thomas Campbell
+
+**Released:** 2026-08-18 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7603949559.mp3)
+
+---
+
+### #2540 - Travis Barker
+
+**Released:** 2026-08-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5593509812.mp3)
+
+---
+
+### #2539 - Protect Our Parks 17
+
+**Released:** 2026-08-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2831972716.mp3)
+
+---
+
+### #2538 - Joe DeRosa
+
+**Released:** 2026-08-12 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
 
 ---
 
@@ -77,26 +121,6 @@ Last updated: 2026-08-18 12:26:33
 **Released:** 2026-08-12 07:30:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319)
-
----
-
-## This American Life
-
-### 895: Label Maker!
-
-**Released:** 2026-08-16 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
-
----
-
-## Hidden Brain
-
-### How to Be A Better Partner
-
-**Released:** 2026-08-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
 
 ---
 
@@ -131,6 +155,16 @@ Last updated: 2026-08-18 12:26:33
 **Released:** 2026-08-12 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94c57e69-6c04-4145-aabb-b4a3014bc50e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### How to Be A Better Partner
+
+**Released:** 2026-08-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
 
 ---
 
@@ -198,32 +232,6 @@ Last updated: 2026-08-18 12:26:33
 
 ---
 
-## Armchair Expert
-
-### David Sedaris #6
-
-**Released:** 2026-08-17 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Extreme Weather
-
-**Released:** 2026-08-14 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Marc Brackett (on emotional intelligence)
-
-**Released:** 2026-08-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Gillian Anderson
@@ -257,6 +265,32 @@ Last updated: 2026-08-18 12:26:33
 **Released:** 2026-08-14 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208769/8208769_2026-04-13-034009.192.mp3?rssID=6066)
+
+---
+
+## Armchair Expert
+
+### David Sedaris #6
+
+**Released:** 2026-08-17 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Extreme Weather
+
+**Released:** 2026-08-14 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Marc Brackett (on emotional intelligence)
+
+**Released:** 2026-08-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1d89627-ad5d-44ae-a86f-a797e0142103.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
