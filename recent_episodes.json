@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6a8472eb9cb9faa61ae42fe7",
+    "episode_title": "How I\u2019m helping thousands rebuild their lives after prison | Susan Burton",
+    "release_date": "2026-08-19 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8472eb9cb9faa61ae42fe7/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a84725939e73ea8f3dcaaf8",
     "episode_title": "How AI is breaking the internet (and what to do about it) | Matthew Prince",
     "release_date": "2026-08-18 15:00:00",
@@ -42,11 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a7b9bced6c287f9ee9bc5c4",
-    "episode_title": "A guerrilla gardener in South Central LA | Ron Finley",
-    "release_date": "2026-08-15 15:03:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9bced6c287f9ee9bc5c4/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46208 at https://www.thisamericanlife.org",
+    "episode_title": "895: Label Maker!",
+    "release_date": "2026-08-16 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "d3594708-49b5-464f-a29c-1f92c115d119",
@@ -63,11 +70,18 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46208 at https://www.thisamericanlife.org",
-    "episode_title": "895: Label Maker!",
-    "release_date": "2026-08-16 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
-    "podcast_name": "This American Life"
+    "guid": "fca44e1b-0090-4d8e-b0e3-88aa51577f58",
+    "episode_title": "How to Be A Better Partner",
+    "release_date": "2026-08-17 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "d0eed536-9b6e-11f1-91e1-87ba07d621a5",
+    "episode_title": "#2542 - Steve Hilton",
+    "release_date": "2026-08-19 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6487899018.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
@@ -91,11 +105,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "22233586-966b-11f1-8f2f-03112136bec0",
-    "episode_title": "#2538 - Joe DeRosa",
-    "release_date": "2026-08-12 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "368dcad4-4e3c-44eb-a47d-651bfa1b42ee",
+    "episode_title": "The Bone Wars",
+    "release_date": "2026-08-18 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
+    "episode_title": "100 Objects #13: The Sand Letters",
+    "release_date": "2026-08-14 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "a2415e46-b751-40a2-8d6c-b4a900d6e29c",
@@ -126,27 +147,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "fca44e1b-0090-4d8e-b0e3-88aa51577f58",
-    "episode_title": "How to Be A Better Partner",
-    "release_date": "2026-08-17 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "368dcad4-4e3c-44eb-a47d-651bfa1b42ee",
-    "episode_title": "The Bone Wars",
-    "release_date": "2026-08-18 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "4b1a85a9-d31b-4152-8f28-a4572084239d",
-    "episode_title": "100 Objects #13: The Sand Letters",
-    "release_date": "2026-08-14 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/B9ig_Uuj6gsMAfvhjDjHbdAotG_t_aV8JHo4acYM9bI",
     "episode_title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
     "release_date": "2026-08-17 07:10:00",
@@ -161,18 +161,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
-    "episode_title": "Gillian Anderson",
-    "release_date": "2026-08-17 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
-    "episode_title": "Summer S\u2019pouses Episode 3: Tak Boroyan",
-    "release_date": "2026-08-13 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/6dRFVIzoPUVRub4_SZnOqx9bBl1cOTM4P9rpkIiN1i0",
+    "episode_title": "#880: Relationship Tools That Work \u2014 Esther Perel, Bren\u00e9 Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love",
+    "release_date": "2026-08-19 20:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "738ff6ce-89d4-11f0-b13f-8f531d8a298a",
@@ -189,18 +182,18 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "1af9086f-3ac6-4c92-86b2-5493cb3aaa4a",
-    "episode_title": "\"Tim Robbins\"",
-    "release_date": "2026-08-17 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "60ccbc9a-6095-4aaf-b6ee-56969a16e311",
+    "episode_title": "Gillian Anderson",
+    "release_date": "2026-08-17 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
-    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
-    "release_date": "2026-08-13 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "ba368a70-3c84-4108-86e3-c41f343c1afd",
+    "episode_title": "Summer S\u2019pouses Episode 3: Tak Boroyan",
+    "release_date": "2026-08-13 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/4gXXZQiOL6BL-jKBGZ9ko-wO2ZuQV9BLjmM6l8xEj_g",
@@ -222,5 +215,19 @@
     "release_date": "2026-08-14 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "1af9086f-3ac6-4c92-86b2-5493cb3aaa4a",
+    "episode_title": "\"Tim Robbins\"",
+    "release_date": "2026-08-17 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "9df48be0-e9ef-467b-9703-a99324245723",
+    "episode_title": "\"RE-RELEASE: Kaley Cuoco\"",
+    "release_date": "2026-08-13 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

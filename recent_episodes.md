@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-19 12:26:40
+Last updated: 2026-08-20 00:42:45
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-08-19 12:26:40
 ---
 
 ## TED Talks Daily
+
+### How I’m helping thousands rebuild their lives after prison | Susan Burton
+
+**Released:** 2026-08-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8472eb9cb9faa61ae42fe7/media.mp3)
+
+---
 
 ### How AI is breaking the internet (and what to do about it) | Matthew Prince
 
@@ -54,11 +62,13 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-### A guerrilla gardener in South Central LA | Ron Finley
+## This American Life
 
-**Released:** 2026-08-15 15:03:00
+### 895: Label Maker!
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b9bced6c287f9ee9bc5c4/media.mp3)
+**Released:** 2026-08-16 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
 
 ---
 
@@ -80,17 +90,25 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 895: Label Maker!
+### How to Be A Better Partner
 
-**Released:** 2026-08-16 20:00:00
+**Released:** 2026-08-17 19:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2542 - Steve Hilton
+
+**Released:** 2026-08-19 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6487899018.mp3)
+
+---
 
 ### #2541 - Thomas Campbell
 
@@ -116,11 +134,21 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-### #2538 - Joe DeRosa
+## 99% Invisible
 
-**Released:** 2026-08-12 17:00:00
+### The Bone Wars
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1242550719.mp3)
+**Released:** 2026-08-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #13: The Sand Letters
+
+**Released:** 2026-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
 
 ---
 
@@ -158,34 +186,6 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-## Hidden Brain
-
-### How to Be A Better Partner
-
-**Released:** 2026-08-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Bone Wars
-
-**Released:** 2026-08-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
-
----
-
-### 100 Objects #13: The Sand Letters
-
-**Released:** 2026-08-14 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants
@@ -204,21 +204,13 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Gillian Anderson
+### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
 
-**Released:** 2026-08-17 04:05:00
+**Released:** 2026-08-19 20:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 3: Tak Boroyan
-
-**Released:** 2026-08-13 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,21 +232,21 @@ Last updated: 2026-08-19 12:26:40
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Tim Robbins"
+### Gillian Anderson
 
-**Released:** 2026-08-17 07:01:00
+**Released:** 2026-08-17 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
 
 ---
 
-### "RE-RELEASE: Kaley Cuoco"
+### Summer S’pouses Episode 3: Tak Boroyan
 
-**Released:** 2026-08-13 07:00:00
+**Released:** 2026-08-13 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH)
 
 ---
 
@@ -281,6 +273,24 @@ Last updated: 2026-08-19 12:26:40
 **Released:** 2026-08-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Tim Robbins"
+
+**Released:** 2026-08-17 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Kaley Cuoco"
+
+**Released:** 2026-08-13 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b7916e9a-32b2-4cc6-92e6-2d21d9da342e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b7916e9a-32b2-4cc6-92e6-2d21d9da342e&feed=hNaFxXpO)
 
 ---
 
