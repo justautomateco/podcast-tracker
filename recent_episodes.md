@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-20 12:28:49
+Last updated: 2026-08-21 00:46:25
+
+## Freakonomics Radio
+
+### Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person
+
+**Released:** 2026-08-19 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4)
+
+---
+
+### The Case of the $4 Million Gold Coffin (Update)
+
+**Released:** 2026-08-14 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4)
+
+---
 
 ## This American Life
 
@@ -13,6 +31,14 @@ Last updated: 2026-08-20 12:28:49
 ---
 
 ## TED Talks Daily
+
+### Why you need the growth mindset of a weed | Stephen Nobles
+
+**Released:** 2026-08-20 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a87158adcddb5e3cf492a13/media.mp3)
+
+---
 
 ### How I’m helping thousands rebuild their lives after prison | Susan Burton
 
@@ -46,14 +72,6 @@ Last updated: 2026-08-20 12:28:49
 
 ---
 
-### 3 steps to turn everyday get-togethers into transformative gatherings | Priya Parker
-
-**Released:** 2026-08-15 15:04:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b8a39b8e79c154dfa87ee/media.mp3)
-
----
-
 ## Planet Money
 
 ### Getting entrepreneurial in Korea (Summer School)
@@ -72,53 +90,15 @@ Last updated: 2026-08-20 12:28:49
 
 ---
 
-## Freakonomics Radio
-
-### Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person
-
-**Released:** 2026-08-19 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4)
-
----
-
-### The Case of the $4 Million Gold Coffin (Update)
-
-**Released:** 2026-08-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c2c4eb51-e7bc-4cc0-87b6-5c2a2d7339b5&feed=Y8lFbOT4)
-
----
-
-## 99% Invisible
-
-### The Bone Wars
-
-**Released:** 2026-08-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
-
----
-
-### 100 Objects #13: The Sand Letters
-
-**Released:** 2026-08-14 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### How to Be A Better Partner
-
-**Released:** 2026-08-17 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2543 - MrBallen
+
+**Released:** 2026-08-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9789891628.mp3)
+
+---
 
 ### #2542 - Steve Hilton
 
@@ -144,11 +124,31 @@ Last updated: 2026-08-20 12:28:49
 
 ---
 
-### #2539 - Protect Our Parks 17
+## Hidden Brain
 
-**Released:** 2026-08-13 17:00:00
+### How to Be A Better Partner
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2831972716.mp3)
+**Released:** 2026-08-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Bone Wars
+
+**Released:** 2026-08-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #13: The Sand Letters
+
+**Released:** 2026-08-14 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cd2d774c-2500-42df-b68b-d97db82d622e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cd2d774c-2500-42df-b68b-d97db82d622e&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +186,16 @@ Last updated: 2026-08-20 12:28:49
 
 ---
 
+## Revisionist History
+
+### The Other Johnson and Johnson | From Planet Money
+
+**Released:** 2026-08-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Carlton Calvin of Razor
@@ -204,16 +214,6 @@ Last updated: 2026-08-20 12:28:49
 
 ---
 
-## Revisionist History
-
-### The Other Johnson and Johnson | From Planet Money
-
-**Released:** 2026-08-20 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
@@ -221,6 +221,24 @@ Last updated: 2026-08-20 12:28:49
 **Released:** 2026-08-19 20:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 4: Liza Powel O'Brien
+
+**Released:** 2026-08-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH)
+
+---
+
+### Gillian Anderson
+
+**Released:** 2026-08-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
 
 ---
 
@@ -247,24 +265,6 @@ Last updated: 2026-08-20 12:28:49
 **Released:** 2026-08-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/5d4992fb-5f90-4fd9-89c9-c038a63d6131.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 4: Liza Powel O'Brien
-
-**Released:** 2026-08-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH)
-
----
-
-### Gillian Anderson
-
-**Released:** 2026-08-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
 
 ---
 
