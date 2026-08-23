@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-23 00:47:05
+Last updated: 2026-08-23 12:20:43
 
 ## Freakonomics Radio
 
@@ -20,17 +20,15 @@ Last updated: 2026-08-23 00:47:05
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 895: Label Maker!
+### Sunday Pick: How to mentally reset when you’re stressed out (w/ Dr Jenny Taitz) | How to Be a Better Human
 
-**Released:** 2026-08-16 20:00:00
+**Released:** 2026-08-23 06:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a87168ddcddb5e3cf499c81/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to make learning impossibly fun | Mark Rober
 
@@ -64,29 +62,13 @@ Last updated: 2026-08-23 00:47:05
 
 ---
 
-### How AI is breaking the internet (and what to do about it) | Matthew Prince
+## This American Life
 
-**Released:** 2026-08-18 15:00:00
+### 895: Label Maker!
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a84725939e73ea8f3dcaaf8/media.mp3)
+**Released:** 2026-08-16 20:00:00
 
----
-
-## Planet Money
-
-### Who decides what big box sells? Our GAME got us answers
-
-**Released:** 2026-08-21 21:17:27
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592)
-
----
-
-### Getting entrepreneurial in Korea (Summer School)
-
-**Released:** 2026-08-19 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
 
 ---
 
@@ -124,13 +106,21 @@ Last updated: 2026-08-23 00:47:05
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### How to Be A Better Partner
+### Who decides what big box sells? Our GAME got us answers
 
-**Released:** 2026-08-17 19:00:00
+**Released:** 2026-08-21 21:17:27
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592)
+
+---
+
+### Getting entrepreneurial in Korea (Summer School)
+
+**Released:** 2026-08-19 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655)
 
 ---
 
@@ -149,6 +139,16 @@ Last updated: 2026-08-23 00:47:05
 **Released:** 2026-08-18 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### How to Be A Better Partner
+
+**Released:** 2026-08-17 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
 
 ---
 
@@ -224,6 +224,16 @@ Last updated: 2026-08-23 00:47:05
 
 ---
 
+## SmartLess 
+
+### "Tim Robbins"
+
+**Released:** 2026-08-17 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 4: Liza Powel O'Brien
@@ -239,34 +249,6 @@ Last updated: 2026-08-23 00:47:05
 **Released:** 2026-08-17 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Tim Robbins"
-
-**Released:** 2026-08-17 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Calling In: The Moth Podcast
-
-**Released:** 2026-08-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
-
----
-
-### Driven: The Moth Radio Hour
-
-**Released:** 2026-08-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208776/8208776_2026-04-13-034516.192.mp3?rssID=6066)
 
 ---
 
@@ -293,6 +275,24 @@ Last updated: 2026-08-23 00:47:05
 **Released:** 2026-08-17 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Calling In: The Moth Podcast
+
+**Released:** 2026-08-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
+
+---
+
+### Driven: The Moth Radio Hour
+
+**Released:** 2026-08-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208776/8208776_2026-04-13-034516.192.mp3?rssID=6066)
 
 ---
 
