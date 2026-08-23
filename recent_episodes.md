@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-22 12:20:22
+Last updated: 2026-08-23 00:47:05
 
 ## Freakonomics Radio
 
@@ -32,6 +32,14 @@ Last updated: 2026-08-22 12:20:22
 
 ## TED Talks Daily
 
+### How to make learning impossibly fun | Mark Rober
+
+**Released:** 2026-08-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871657c71d02aaba4dc70f/media.mp3)
+
+---
+
 ### Is AI turning us all into the same person? | Sandra Matz
 
 **Released:** 2026-08-21 15:00:00
@@ -61,14 +69,6 @@ Last updated: 2026-08-22 12:20:22
 **Released:** 2026-08-18 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a84725939e73ea8f3dcaaf8/media.mp3)
-
----
-
-### We’ve solved many medical mysteries. Where are the cures? | Saloni Dattani
-
-**Released:** 2026-08-17 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a83205691aa41f304f1a8b1/media.mp3)
 
 ---
 
@@ -196,16 +196,6 @@ Last updated: 2026-08-22 12:20:22
 
 ---
 
-## Revisionist History
-
-### The Other Johnson and Johnson | From Planet Money
-
-**Released:** 2026-08-20 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Carlton Calvin of Razor
@@ -221,6 +211,62 @@ Last updated: 2026-08-22 12:20:22
 **Released:** 2026-08-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4488842b-74d3-40ed-8776-5831c5934e69.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### The Other Johnson and Johnson | From Planet Money
+
+**Released:** 2026-08-20 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 4: Liza Powel O'Brien
+
+**Released:** 2026-08-20 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH)
+
+---
+
+### Gillian Anderson
+
+**Released:** 2026-08-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Tim Robbins"
+
+**Released:** 2026-08-17 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Calling In: The Moth Podcast
+
+**Released:** 2026-08-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
+
+---
+
+### Driven: The Moth Radio Hour
+
+**Released:** 2026-08-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208776/8208776_2026-04-13-034516.192.mp3?rssID=6066)
 
 ---
 
@@ -247,52 +293,6 @@ Last updated: 2026-08-22 12:20:22
 **Released:** 2026-08-17 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3af7ce6-d5a0-49c8-a125-33eb06cf055b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Summer S’pouses Episode 4: Liza Powel O'Brien
-
-**Released:** 2026-08-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH)
-
----
-
-### Gillian Anderson
-
-**Released:** 2026-08-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Calling In: The Moth Podcast
-
-**Released:** 2026-08-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
-
----
-
-### Driven: The Moth Radio Hour
-
-**Released:** 2026-08-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208776/8208776_2026-04-13-034516.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Tim Robbins"
-
-**Released:** 2026-08-17 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO)
 
 ---
 
