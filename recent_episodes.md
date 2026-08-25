@@ -1,18 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-24 12:29:13
+Last updated: 2026-08-25 00:43:55
 
-## This American Life
+## Freakonomics Radio
 
-### 206: Somewhere in the Arabian Sea
+### Is a Museum Just a Trophy Case? (Update)
 
-**Released:** 2026-08-23 20:00:00
+**Released:** 2026-08-21 10:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/59b4a5b0-17d0-4b70-9320-dc29578a508b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=59b4a5b0-17d0-4b70-9320-dc29578a508b&feed=Y8lFbOT4)
+
+---
+
+### Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person
+
+**Released:** 2026-08-19 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### How to fix Africa's learning crisis | Rapelang Rabana
+
+**Released:** 2026-08-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8716aad6b6da9392dd4697/media.mp3)
+
+---
 
 ### Sunday Pick: How to mentally reset when you’re stressed out (w/ Dr Jenny Taitz) | How to Be a Better Human
 
@@ -46,32 +62,6 @@ Last updated: 2026-08-24 12:29:13
 
 ---
 
-### How I’m helping thousands rebuild their lives after prison | Susan Burton
-
-**Released:** 2026-08-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8472eb9cb9faa61ae42fe7/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### Is a Museum Just a Trophy Case? (Update)
-
-**Released:** 2026-08-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/59b4a5b0-17d0-4b70-9320-dc29578a508b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=59b4a5b0-17d0-4b70-9320-dc29578a508b&feed=Y8lFbOT4)
-
----
-
-### Meet Warren Zanes, the Author and Rocker Behind the Springsteen Movie | Better in Person
-
-**Released:** 2026-08-19 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a281f7fc-1b53-4fb9-884a-94010d55fb9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a281f7fc-1b53-4fb9-884a-94010d55fb9f&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Who decides what big box sells? Our GAME got us answers
@@ -90,21 +80,13 @@ Last updated: 2026-08-24 12:29:13
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### 100 Objects #14: Basketball Sleeve
+### 206: Somewhere in the Arabian Sea
 
-**Released:** 2026-08-21 07:00:00
+**Released:** 2026-08-23 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2e45e5a7-6467-4cc5-b09c-7f0a83b62450/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2e45e5a7-6467-4cc5-b09c-7f0a83b62450&feed=BqbsxVfO)
-
----
-
-### The Bone Wars
-
-**Released:** 2026-08-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
 
 ---
 
@@ -144,45 +126,57 @@ Last updated: 2026-08-24 12:29:13
 
 ## Hidden Brain
 
-### How to Be A Better Partner
+### What Art Does For Your Brain
 
-**Released:** 2026-08-17 19:00:00
+**Released:** 2026-08-24 19:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/13656b38-9d66-4208-b5c1-f6a4d529d2a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=13656b38-9d66-4208-b5c1-f6a4d529d2a0&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Selects: How Narcolepsy Works
-
-**Released:** 2026-08-22 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/436385ef-9ea7-427e-8fe8-b4ac00d8e963/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
 
 ---
 
-### Rope, yeah ROPE!
+## 99% Invisible
 
-**Released:** 2026-08-20 09:00:00
+### 100 Objects #14: Basketball Sleeve
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ed1fbda-af64-402d-b3a6-b4ab014226d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-08-21 07:00:00
 
----
-
-### Short Stuff: Did a shipwreck double the size of the United States?
-
-**Released:** 2026-08-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a2415e46-b751-40a2-8d6c-b4a900d6e29c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2e45e5a7-6467-4cc5-b09c-7f0a83b62450/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2e45e5a7-6467-4cc5-b09c-7f0a83b62450&feed=BqbsxVfO)
 
 ---
 
-### Isn't It Ironic, Dontcha Think? 
+### The Bone Wars
 
-**Released:** 2026-08-18 09:00:00
+**Released:** 2026-08-18 08:00:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f18f3b06-13e9-436c-87f5-b4a500dc39b6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c211385c-1bad-4e1f-a209-803237860b76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c211385c-1bad-4e1f-a209-803237860b76&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
+
+**Released:** 2026-08-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7f8e0e8-51a5-4444-8c1d-f5c43c353285.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Carlton Calvin of Razor
+
+**Released:** 2026-08-20 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c0de1a84-3d35-45f3-921c-6144693ad86e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
+
+**Released:** 2026-08-19 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -196,21 +190,29 @@ Last updated: 2026-08-24 12:29:13
 
 ---
 
-## How I Built This
+## Armchair Expert
 
-### YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
+### Jimmy Kimmel & Molly McNearney
 
-**Released:** 2026-08-24 07:10:00
+**Released:** 2026-08-24 07:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7f8e0e8-51a5-4444-8c1d-f5c43c353285.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e4315199-3fcd-4469-9175-9b5ba19f0138.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Advice Line with Carlton Calvin of Razor
+### Armchair Anonymous: Spas
 
-**Released:** 2026-08-20 07:10:00
+**Released:** 2026-08-21 07:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c0de1a84-3d35-45f3-921c-6144693ad86e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e3855cab-8215-4f4d-a70f-51c03115f6b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Chris Young (on being sentenced to life in prison)
+
+**Released:** 2026-08-19 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/57fca618-9556-4f0e-b7b3-558ad61136cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -250,6 +252,40 @@ Last updated: 2026-08-24 12:29:13
 
 ---
 
+## Stuff You Should Know
+
+### Selects: How Narcolepsy Works
+
+**Released:** 2026-08-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/436385ef-9ea7-427e-8fe8-b4ac00d8e963/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Rope, yeah ROPE!
+
+**Released:** 2026-08-20 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ed1fbda-af64-402d-b3a6-b4ab014226d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Did a shipwreck double the size of the United States?
+
+**Released:** 2026-08-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a2415e46-b751-40a2-8d6c-b4a900d6e29c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Isn't It Ironic, Dontcha Think? 
+
+**Released:** 2026-08-18 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f18f3b06-13e9-436c-87f5-b4a500dc39b6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ## SmartLess 
 
 ### "Sandra Bullock"
@@ -257,42 +293,6 @@ Last updated: 2026-08-24 12:29:13
 **Released:** 2026-08-24 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Jimmy Kimmel & Molly McNearney
-
-**Released:** 2026-08-24 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e4315199-3fcd-4469-9175-9b5ba19f0138.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Spas
-
-**Released:** 2026-08-21 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e3855cab-8215-4f4d-a70f-51c03115f6b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Young (on being sentenced to life in prison)
-
-**Released:** 2026-08-19 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/57fca618-9556-4f0e-b7b3-558ad61136cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
-
-**Released:** 2026-08-19 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
