@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-26 00:45:07
-
-## Freakonomics Radio
-
-### Is a Museum Just a Trophy Case? (Update)
-
-**Released:** 2026-08-21 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/59b4a5b0-17d0-4b70-9320-dc29578a508b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=59b4a5b0-17d0-4b70-9320-dc29578a508b&feed=Y8lFbOT4)
-
----
+Last updated: 2026-08-26 12:32:29
 
 ## TED Talks Daily
 
@@ -54,31 +44,39 @@ Last updated: 2026-08-26 00:45:07
 
 ---
 
+## Freakonomics Radio
+
+### “I Trust Almost Anyone More Than Myself” | Better in Person
+
+**Released:** 2026-08-26 01:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
+
+---
+
+### Is a Museum Just a Trophy Case? (Update)
+
+**Released:** 2026-08-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/59b4a5b0-17d0-4b70-9320-dc29578a508b/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=59b4a5b0-17d0-4b70-9320-dc29578a508b&feed=Y8lFbOT4)
+
+---
+
 ## Planet Money
+
+### The continent nobody owns & everyone benefits from (Summer School)
+
+**Released:** 2026-08-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
+
+---
 
 ### Who decides what big box sells? Our GAME got us answers
 
 **Released:** 2026-08-21 21:17:27
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592)
-
----
-
-### Getting entrepreneurial in Korea (Summer School)
-
-**Released:** 2026-08-19 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655)
-
----
-
-## This American Life
-
-### 206: Somewhere in the Arabian Sea
-
-**Released:** 2026-08-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
 
 ---
 
@@ -118,6 +116,14 @@ Last updated: 2026-08-26 00:45:07
 
 ## Stuff You Should Know
 
+### Short Stuff: Cyclospora
+
+**Released:** 2026-08-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd7a7d5c-10f4-42a5-8362-b4b100d1da4f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### The Fall of the USSR, Pt I
 
 **Released:** 2026-08-25 09:00:00
@@ -139,14 +145,6 @@ Last updated: 2026-08-26 00:45:07
 **Released:** 2026-08-20 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ed1fbda-af64-402d-b3a6-b4ab014226d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Did a shipwreck double the size of the United States?
-
-**Released:** 2026-08-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a2415e46-b751-40a2-8d6c-b4a900d6e29c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -206,6 +204,16 @@ Last updated: 2026-08-26 00:45:07
 
 ---
 
+## The Tim Ferriss Show
+
+### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
+
+**Released:** 2026-08-19 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### John Cena
@@ -242,7 +250,35 @@ Last updated: 2026-08-26 00:45:07
 
 ---
 
+## SmartLess 
+
+### "Sandra Bullock"
+
+**Released:** 2026-08-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
+
+---
+
+## This American Life
+
+### 206: Somewhere in the Arabian Sea
+
+**Released:** 2026-08-23 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
+
+---
+
 ## Armchair Expert
+
+### Olivia Fox Cabane (on the science of charisma)
+
+**Released:** 2026-08-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Jimmy Kimmel & Molly McNearney
 
@@ -257,34 +293,6 @@ Last updated: 2026-08-26 00:45:07
 **Released:** 2026-08-21 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e3855cab-8215-4f4d-a70f-51c03115f6b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Chris Young (on being sentenced to life in prison)
-
-**Released:** 2026-08-19 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/57fca618-9556-4f0e-b7b3-558ad61136cd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Sandra Bullock"
-
-**Released:** 2026-08-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
-
-**Released:** 2026-08-19 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
