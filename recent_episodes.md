@@ -1,48 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-26 12:32:29
-
-## TED Talks Daily
-
-### How 180 strangers built a library together | Rebecca Toh
-
-**Released:** 2026-08-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8d9ef666c4a1e81a63516a/media.mp3)
-
----
-
-### How to fix Africa's learning crisis | Rapelang Rabana
-
-**Released:** 2026-08-24 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8716aad6b6da9392dd4697/media.mp3)
-
----
-
-### Sunday Pick: How to mentally reset when you’re stressed out (w/ Dr Jenny Taitz) | How to Be a Better Human
-
-**Released:** 2026-08-23 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a87168ddcddb5e3cf499c81/media.mp3)
-
----
-
-### How to make learning impossibly fun | Mark Rober
-
-**Released:** 2026-08-22 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871657c71d02aaba4dc70f/media.mp3)
-
----
-
-### Is AI turning us all into the same person? | Sandra Matz
-
-**Released:** 2026-08-21 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871606037681afc7c21aa6/media.mp3)
-
----
+Last updated: 2026-08-27 05:56:27
 
 ## Freakonomics Radio
 
@@ -80,7 +38,77 @@ Last updated: 2026-08-26 12:32:29
 
 ---
 
+## TED Talks Daily
+
+### Dolly Parton is burning up, not burning out | from WorkLife with Adam Grant
+
+**Released:** 2026-08-26 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8df3a283ae7b3466ca914b/media.mp3)
+
+---
+
+### How 180 strangers built a library together | Rebecca Toh
+
+**Released:** 2026-08-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8d9ef666c4a1e81a63516a/media.mp3)
+
+---
+
+### How to fix Africa's learning crisis | Rapelang Rabana
+
+**Released:** 2026-08-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8716aad6b6da9392dd4697/media.mp3)
+
+---
+
+### Sunday Pick: How to mentally reset when you’re stressed out (w/ Dr Jenny Taitz) | How to Be a Better Human
+
+**Released:** 2026-08-23 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a87168ddcddb5e3cf499c81/media.mp3)
+
+---
+
+### How to make learning impossibly fun | Mark Rober
+
+**Released:** 2026-08-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a871657c71d02aaba4dc70f/media.mp3)
+
+---
+
+## This American Life
+
+### 206: Somewhere in the Arabian Sea
+
+**Released:** 2026-08-23 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
+
+---
+
+## Hidden Brain
+
+### What Art Does For Your Brain
+
+**Released:** 2026-08-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2546 - Michael Button
+
+**Released:** 2026-08-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5185167681.mp3)
+
+---
 
 ### #2545 - Jesse Michels
 
@@ -106,15 +134,33 @@ Last updated: 2026-08-26 12:32:29
 
 ---
 
-### #2542 - Steve Hilton
+## 99% Invisible
 
-**Released:** 2026-08-19 17:00:00
+### Spolia
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6487899018.mp3)
+**Released:** 2026-08-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #14: Basketball Sleeve
+
+**Released:** 2026-08-21 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2e45e5a7-6467-4cc5-b09c-7f0a83b62450/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2e45e5a7-6467-4cc5-b09c-7f0a83b62450&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### SYSK Tribute: Why does everyone love Dolly Parton?
+
+**Released:** 2026-08-26 15:56:14
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3e9b6a27-f6f6-4db3-a434-b4b201035410/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Cyclospora
 
@@ -148,34 +194,6 @@ Last updated: 2026-08-26 12:32:29
 
 ---
 
-## Hidden Brain
-
-### What Art Does For Your Brain
-
-**Released:** 2026-08-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Spolia
-
-**Released:** 2026-08-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
-
----
-
-### 100 Objects #14: Basketball Sleeve
-
-**Released:** 2026-08-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2e45e5a7-6467-4cc5-b09c-7f0a83b62450/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2e45e5a7-6467-4cc5-b09c-7f0a83b62450&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
@@ -196,57 +214,11 @@ Last updated: 2026-08-26 12:32:29
 
 ## Revisionist History
 
-### The Other Johnson and Johnson | From Planet Money
+### Merciless Indian Savages | First America
 
-**Released:** 2026-08-20 04:01:00
+**Released:** 2026-08-27 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #880: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love
-
-**Released:** 2026-08-19 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a147406e-b82d-4f2b-81e4-decf259647ab.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### John Cena
-
-**Released:** 2026-08-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4025fbc5-a91e-4349-9938-21fe69f9a39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4025fbc5-a91e-4349-9938-21fe69f9a39e&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 4: Liza Powel O'Brien
-
-**Released:** 2026-08-20 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d1b6929-f606-4b95-aa06-069c1cb69949/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d1b6929-f606-4b95-aa06-069c1cb69949&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Live from Johannesburg: The Moth Radio Hour
-
-**Released:** 2026-08-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066)
-
----
-
-### Calling In: The Moth Podcast
-
-**Released:** 2026-08-21 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,13 +232,21 @@ Last updated: 2026-08-26 12:32:29
 
 ---
 
-## This American Life
+## Conan O'Brien Needs A Friend
 
-### 206: Somewhere in the Arabian Sea
+### Summer S’pouses Episode 5: The Spouses Alone
 
-**Released:** 2026-08-23 20:00:00
+**Released:** 2026-08-27 04:05:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
+
+---
+
+### John Cena
+
+**Released:** 2026-08-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4025fbc5-a91e-4349-9938-21fe69f9a39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4025fbc5-a91e-4349-9938-21fe69f9a39e&feed=dHoohVNH)
 
 ---
 
@@ -293,6 +273,24 @@ Last updated: 2026-08-26 12:32:29
 **Released:** 2026-08-21 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e3855cab-8215-4f4d-a70f-51c03115f6b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Live from Johannesburg: The Moth Radio Hour
+
+**Released:** 2026-08-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066)
+
+---
+
+### Calling In: The Moth Podcast
+
+**Released:** 2026-08-21 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208771/8208771_2026-04-13-034211.192.mp3?rssID=6066)
 
 ---
 
