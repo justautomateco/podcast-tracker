@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-28 21:36:00
+Last updated: 2026-08-29 04:54:40
 
 ## Freakonomics Radio
 
@@ -17,16 +17,6 @@ Last updated: 2026-08-28 21:36:00
 **Released:** 2026-08-26 01:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 206: Somewhere in the Arabian Sea
-
-**Released:** 2026-08-23 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
 
 ---
 
@@ -72,24 +62,6 @@ Last updated: 2026-08-28 21:36:00
 
 ---
 
-## Planet Money
-
-### Branded fruit: How produce got “Honeycrisp-ified"
-
-**Released:** 2026-08-28 19:19:07
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025)
-
----
-
-### The continent nobody owns & everyone benefits from (Summer School)
-
-**Released:** 2026-08-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2547 - Daniel Everett
@@ -116,31 +88,13 @@ Last updated: 2026-08-28 21:36:00
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### What Art Does For Your Brain
+### 206: Somewhere in the Arabian Sea
 
-**Released:** 2026-08-24 19:00:00
+**Released:** 2026-08-23 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #15: Bundy Clock
-
-**Released:** 2026-08-28 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
-
----
-
-### Spolia
-
-**Released:** 2026-08-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
 
 ---
 
@@ -186,6 +140,62 @@ Last updated: 2026-08-28 21:36:00
 
 ---
 
+## Planet Money
+
+### Branded fruit: How produce got “Honeycrisp-ified"
+
+**Released:** 2026-08-28 19:19:07
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025)
+
+---
+
+### The continent nobody owns & everyone benefits from (Summer School)
+
+**Released:** 2026-08-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
+
+---
+
+## Hidden Brain
+
+### What Art Does For Your Brain
+
+**Released:** 2026-08-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #15: Bundy Clock
+
+**Released:** 2026-08-28 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
+
+---
+
+### Spolia
+
+**Released:** 2026-08-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Merciless Indian Savages | First America
+
+**Released:** 2026-08-27 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Daymond John of FUBU
@@ -204,16 +214,6 @@ Last updated: 2026-08-28 21:36:00
 
 ---
 
-## Revisionist History
-
-### Merciless Indian Savages | First America
-
-**Released:** 2026-08-27 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 5: The Spouses Alone
@@ -229,34 +229,6 @@ Last updated: 2026-08-28 21:36:00
 **Released:** 2026-08-24 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4025fbc5-a91e-4349-9938-21fe69f9a39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4025fbc5-a91e-4349-9938-21fe69f9a39e&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Mermaid Veterinarian: The Moth Podcast
-
-**Released:** 2026-08-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
-
----
-
-### Live from Johannesburg: The Moth Radio Hour
-
-**Released:** 2026-08-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Sandra Bullock"
-
-**Released:** 2026-08-24 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
 
 ---
 
@@ -283,6 +255,34 @@ Last updated: 2026-08-28 21:36:00
 **Released:** 2026-08-24 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e4315199-3fcd-4469-9175-9b5ba19f0138.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Sandra Bullock"
+
+**Released:** 2026-08-24 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Mermaid Veterinarian: The Moth Podcast
+
+**Released:** 2026-08-28 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
+
+---
+
+### Live from Johannesburg: The Moth Radio Hour
+
+**Released:** 2026-08-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066)
 
 ---
 
