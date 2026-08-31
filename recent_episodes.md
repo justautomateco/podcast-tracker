@@ -1,26 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-31 02:32:36
+Last updated: 2026-08-31 18:29:18
 
-## Freakonomics Radio
+## This American Life
 
-### How to Return Stolen Art (Update)
+### 896: I Know What You Need
 
-**Released:** 2026-08-28 10:00:00
+**Released:** 2026-08-30 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db118d08-c74b-4b85-a083-3b23fad2c96f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db118d08-c74b-4b85-a083-3b23fad2c96f&feed=Y8lFbOT4)
-
----
-
-### “I Trust Almost Anyone More Than Myself” | Better in Person
-
-**Released:** 2026-08-26 01:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
 
 ---
 
 ## TED Talks Daily
+
+### This is what the birth of the universe sounded like | Mark Whittle
+
+**Released:** 2026-08-31 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a959507ee851f3f3101b20c/media.mp3)
+
+---
 
 ### Sunday Pick: How to quit (and why it matters) with Anthony Klotz | from Fixable
 
@@ -54,50 +54,6 @@ Last updated: 2026-08-31 02:32:36
 
 ---
 
-### Dolly Parton is burning up, not burning out | from WorkLife with Adam Grant
-
-**Released:** 2026-08-26 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8df3a283ae7b3466ca914b/media.mp3)
-
----
-
-## This American Life
-
-### 896: I Know What You Need
-
-**Released:** 2026-08-30 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
-
----
-
-## Planet Money
-
-### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**Released:** 2026-08-30 07:00:02
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
-
----
-
-### Branded fruit: How produce got “Honeycrisp-ified"
-
-**Released:** 2026-08-28 19:19:07
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025)
-
----
-
-### The continent nobody owns & everyone benefits from (Summer School)
-
-**Released:** 2026-08-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2547 - Daniel Everett
@@ -121,6 +77,78 @@ Last updated: 2026-08-31 02:32:36
 **Released:** 2026-08-25 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5434878204.mp3)
+
+---
+
+## Freakonomics Radio
+
+### How to Return Stolen Art (Update)
+
+**Released:** 2026-08-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db118d08-c74b-4b85-a083-3b23fad2c96f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db118d08-c74b-4b85-a083-3b23fad2c96f&feed=Y8lFbOT4)
+
+---
+
+### “I Trust Almost Anyone More Than Myself” | Better in Person
+
+**Released:** 2026-08-26 01:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+
+**Released:** 2026-08-30 07:00:02
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
+
+---
+
+### Branded fruit: How produce got “Honeycrisp-ified"
+
+**Released:** 2026-08-28 19:19:07
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623)
+
+---
+
+### The continent nobody owns & everyone benefits from (Summer School)
+
+**Released:** 2026-08-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
+
+---
+
+## Hidden Brain
+
+### What Art Does For Your Brain
+
+**Released:** 2026-08-24 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #15: Bundy Clock
+
+**Released:** 2026-08-28 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
+
+---
+
+### Spolia
+
+**Released:** 2026-08-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
 
 ---
 
@@ -166,49 +194,21 @@ Last updated: 2026-08-31 02:32:36
 
 ---
 
-## Hidden Brain
-
-### What Art Does For Your Brain
-
-**Released:** 2026-08-24 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #15: Bundy Clock
-
-**Released:** 2026-08-28 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
-
----
-
-### Spolia
-
-**Released:** 2026-08-25 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
+
+**Released:** 2026-08-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Daymond John of FUBU
 
 **Released:** 2026-08-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
-
-**Released:** 2026-08-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d7f8e0e8-51a5-4444-8c1d-f5c43c353285.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,6 +224,14 @@ Last updated: 2026-08-31 02:32:36
 
 ## Conan O'Brien Needs A Friend
 
+### Andy Daly Returns
+
+**Released:** 2026-08-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
+
+---
+
 ### Summer S’pouses Episode 5: The Spouses Alone
 
 **Released:** 2026-08-27 04:05:00
@@ -232,11 +240,29 @@ Last updated: 2026-08-31 02:32:36
 
 ---
 
-### John Cena
+## Armchair Expert
 
-**Released:** 2026-08-24 04:05:00
+### Gal Gadot
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4025fbc5-a91e-4349-9938-21fe69f9a39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4025fbc5-a91e-4349-9938-21fe69f9a39e&feed=dHoohVNH)
+**Released:** 2026-08-31 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d60c0c9d-55a8-4bb4-94e8-f7903ab171bb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Wild Card XIV
+
+**Released:** 2026-08-28 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Olivia Fox Cabane (on the science of charisma)
+
+**Released:** 2026-08-26 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -258,39 +284,13 @@ Last updated: 2026-08-31 02:32:36
 
 ---
 
-## Armchair Expert
-
-### Armchair Anonymous: Wild Card XIV
-
-**Released:** 2026-08-28 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Olivia Fox Cabane (on the science of charisma)
-
-**Released:** 2026-08-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Jimmy Kimmel & Molly McNearney
-
-**Released:** 2026-08-24 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e4315199-3fcd-4469-9175-9b5ba19f0138.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
-### "Sandra Bullock"
+### "Steve Zahn"
 
-**Released:** 2026-08-24 07:01:00
+**Released:** 2026-08-31 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/b2073ff6-3e80-4f59-bb34-0ea79c22cca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=b2073ff6-3e80-4f59-bb34-0ea79c22cca6&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
 
 ---
 
