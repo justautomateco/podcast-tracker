@@ -1,12 +1,5 @@
 [
   {
-    "guid": "46218 at https://www.thisamericanlife.org",
-    "episode_title": "896: I Know What You Need",
-    "release_date": "2026-08-30 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a959507ee851f3f3101b20c",
     "episode_title": "This is what the birth of the universe sounded like | Mark Whittle",
     "release_date": "2026-08-31 15:00:00",
@@ -40,27 +33,6 @@
     "release_date": "2026-08-27 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8db8203e4ed0e7c21d42b5/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
-    "episode_title": "#2547 - Daniel Everett",
-    "release_date": "2026-08-27 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb",
-    "episode_title": "#2546 - Michael Button",
-    "release_date": "2026-08-26 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "fc78372e-a00f-11f1-b4a6-67ef23d80453",
-    "episode_title": "#2545 - Jesse Michels",
-    "release_date": "2026-08-25 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "b7bfd2f7-c64b-4b37-a6b7-5568f6d21c05",
@@ -98,11 +70,39 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "8c5290c5-dc0d-4b84-8f08-e9f6ac19d171",
-    "episode_title": "What Art Does For Your Brain",
-    "release_date": "2026-08-24 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf",
+    "guid": "46218 at https://www.thisamericanlife.org",
+    "episode_title": "896: I Know What You Need",
+    "release_date": "2026-08-30 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
+    "episode_title": "The Things We Don't Say",
+    "release_date": "2026-08-31 20:33:53",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
+    "episode_title": "#2547 - Daniel Everett",
+    "release_date": "2026-08-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb",
+    "episode_title": "#2546 - Michael Button",
+    "release_date": "2026-08-26 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "fc78372e-a00f-11f1-b4a6-67ef23d80453",
+    "episode_title": "#2545 - Jesse Michels",
+    "release_date": "2026-08-25 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5434878204.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",

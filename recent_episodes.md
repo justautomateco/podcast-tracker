@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-08-31 18:29:18
-
-## This American Life
-
-### 896: I Know What You Need
-
-**Released:** 2026-08-30 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
-
----
+Last updated: 2026-09-01 02:46:48
 
 ## TED Talks Daily
 
@@ -51,32 +41,6 @@ Last updated: 2026-08-31 18:29:18
 **Released:** 2026-08-27 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8db8203e4ed0e7c21d42b5/media.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2547 - Daniel Everett
-
-**Released:** 2026-08-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
-
----
-
-### #2546 - Michael Button
-
-**Released:** 2026-08-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5185167681.mp3)
-
----
-
-### #2545 - Jesse Michels
-
-**Released:** 2026-08-25 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5434878204.mp3)
 
 ---
 
@@ -124,13 +88,49 @@ Last updated: 2026-08-31 18:29:18
 
 ---
 
+## This American Life
+
+### 896: I Know What You Need
+
+**Released:** 2026-08-30 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
+
+---
+
 ## Hidden Brain
 
-### What Art Does For Your Brain
+### The Things We Don't Say
 
-**Released:** 2026-08-24 19:00:00
+**Released:** 2026-08-31 20:33:53
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/bd1b99ba-0c18-4759-b45f-50af4dd90781/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=bd1b99ba-0c18-4759-b45f-50af4dd90781&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf)
+
+---
+
+## The Joe Rogan Experience
+
+### #2547 - Daniel Everett
+
+**Released:** 2026-08-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
+
+---
+
+### #2546 - Michael Button
+
+**Released:** 2026-08-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5185167681.mp3)
+
+---
+
+### #2545 - Jesse Michels
+
+**Released:** 2026-08-25 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5434878204.mp3)
 
 ---
 
