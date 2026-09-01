@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-01 02:46:48
+Last updated: 2026-09-01 15:48:17
+
+## Freakonomics Radio
+
+### How to Return Stolen Art (Update)
+
+**Released:** 2026-08-28 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db118d08-c74b-4b85-a083-3b23fad2c96f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db118d08-c74b-4b85-a083-3b23fad2c96f&feed=Y8lFbOT4)
+
+---
+
+### “I Trust Almost Anyone More Than Myself” | Better in Person
+
+**Released:** 2026-08-26 01:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The 60 seconds that make or break a conversation | Chris Fenning
+
+**Released:** 2026-09-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a95c9a13255edf604afbe65/media.mp3)
+
+---
 
 ### This is what the birth of the universe sounded like | Mark Whittle
 
@@ -36,32 +62,6 @@ Last updated: 2026-09-01 02:46:48
 
 ---
 
-### The shape-shifting sounds of the accordion | Maria Telesheva
-
-**Released:** 2026-08-27 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8db8203e4ed0e7c21d42b5/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### How to Return Stolen Art (Update)
-
-**Released:** 2026-08-28 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db118d08-c74b-4b85-a083-3b23fad2c96f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=db118d08-c74b-4b85-a083-3b23fad2c96f&feed=Y8lFbOT4)
-
----
-
-### “I Trust Almost Anyone More Than Myself” | Better in Person
-
-**Released:** 2026-08-26 01:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
-
----
-
 ## Planet Money
 
 ### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
@@ -85,16 +85,6 @@ Last updated: 2026-09-01 02:46:48
 **Released:** 2026-08-26 07:30:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
-
----
-
-## This American Life
-
-### 896: I Know What You Need
-
-**Released:** 2026-08-30 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
 
 ---
 
@@ -136,6 +126,14 @@ Last updated: 2026-09-01 02:46:48
 
 ## 99% Invisible
 
+### 1-800-PODCAST
+
+**Released:** 2026-09-01 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
+
+---
+
 ### 100 Objects #15: Bundy Clock
 
 **Released:** 2026-08-28 07:00:00
@@ -144,15 +142,15 @@ Last updated: 2026-09-01 02:46:48
 
 ---
 
-### Spolia
+## Stuff You Should Know
 
-**Released:** 2026-08-25 08:00:00
+### Terry Fox: Greatest Canadian Hero
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO)
+**Released:** 2026-09-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: Flagpole Sitting: A Real Fad
 
@@ -186,14 +184,6 @@ Last updated: 2026-09-01 02:46:48
 
 ---
 
-### The Fall of the USSR, Pt I
-
-**Released:** 2026-08-25 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7a18c2b-f347-4149-bc96-b4ad011e5186/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## How I Built This
 
 ### Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
@@ -219,24 +209,6 @@ Last updated: 2026-09-01 02:46:48
 **Released:** 2026-08-27 04:01:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Andy Daly Returns
-
-**Released:** 2026-08-31 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 5: The Spouses Alone
-
-**Released:** 2026-08-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
 
 ---
 
@@ -268,6 +240,14 @@ Last updated: 2026-09-01 02:46:48
 
 ## The Moth
 
+### Eyewitness: The Moth Radio Hour
+
+**Released:** 2026-09-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
+
+---
+
 ### Mermaid Veterinarian: The Moth Podcast
 
 **Released:** 2026-08-28 04:25:00
@@ -276,11 +256,21 @@ Last updated: 2026-09-01 02:46:48
 
 ---
 
-### Live from Johannesburg: The Moth Radio Hour
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-08-25 04:25:00
+### Andy Daly Returns
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066)
+**Released:** 2026-08-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 5: The Spouses Alone
+
+**Released:** 2026-08-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
 
 ---
 
