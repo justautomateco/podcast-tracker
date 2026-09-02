@@ -14,11 +14,60 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "43627a93-796f-4805-89ae-76c7bed4997d",
+    "episode_title": "Love in the time of Palantir",
+    "release_date": "2026-09-02 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "532d6947-be95-4fff-981e-ff2bfdcc26f8",
+    "episode_title": "Dolly Parton\u2019s \u201c9 to 5,\u201d the true story behind the anthem (bonus)",
+    "release_date": "2026-08-30 07:00:02",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "9ac6cc5f-1327-48c1-8539-61e6fb1d39e4",
+    "episode_title": "Branded fruit: How produce got \u201cHoneycrisp-ified\"",
+    "release_date": "2026-08-28 19:19:07",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "46218 at https://www.thisamericanlife.org",
     "episode_title": "896: I Know What You Need",
     "release_date": "2026-08-30 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
+    "episode_title": "#2548 - Brian Simpson",
+    "release_date": "2026-09-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
+    "episode_title": "#2547 - Daniel Everett",
+    "release_date": "2026-08-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb",
+    "episode_title": "#2546 - Michael Button",
+    "release_date": "2026-08-26 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5185167681.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "6a96f67466efea21e002f3b8",
+    "episode_title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
+    "release_date": "2026-09-02 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a95c9a13255edf604afbe65",
@@ -49,55 +98,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a8f4d927d95e52c97462af4",
-    "episode_title": "Who controls your city's money? | Trinity Tran",
-    "release_date": "2026-08-28 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4d927d95e52c97462af4/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "532d6947-be95-4fff-981e-ff2bfdcc26f8",
-    "episode_title": "Dolly Parton\u2019s \u201c9 to 5,\u201d the true story behind the anthem (bonus)",
-    "release_date": "2026-08-30 07:00:02",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "9ac6cc5f-1327-48c1-8539-61e6fb1d39e4",
-    "episode_title": "Branded fruit: How produce got \u201cHoneycrisp-ified\"",
-    "release_date": "2026-08-28 19:19:07",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "267391af-c63f-4343-a9be-55a5446379a0",
-    "episode_title": "The continent nobody owns & everyone benefits from (Summer School)",
-    "release_date": "2026-08-26 07:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
-    "episode_title": "#2548 - Brian Simpson",
-    "release_date": "2026-09-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
-    "episode_title": "#2547 - Daniel Everett",
-    "release_date": "2026-08-27 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "7c0a5244-a0db-11f1-bbe3-13e22537d5bb",
-    "episode_title": "#2546 - Michael Button",
-    "release_date": "2026-08-26 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5185167681.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
     "episode_title": "The Things We Don't Say",
     "release_date": "2026-08-31 20:33:53",
@@ -117,6 +117,13 @@
     "release_date": "2026-08-28 07:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "667b64ea-8cfc-41ff-aceb-b4b8010d7f86",
+    "episode_title": "Short Stuff: Hisashi Ouchi",
+    "release_date": "2026-09-02 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "efc3265a-03c9-43b2-8680-b4b00151f504",
@@ -147,11 +154,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "dd7a7d5c-10f4-42a5-8362-b4b100d1da4f",
-    "episode_title": "Short Stuff: Cyclospora",
-    "release_date": "2026-08-26 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd7a7d5c-10f4-42a5-8362-b4b100d1da4f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "664db4ab-c5e5-4afe-8e10-b46b00e54598",
+    "episode_title": "Merciless Indian Savages | First America",
+    "release_date": "2026-08-27 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/yD1mqjntfXk3mXrMxNTFj6KkFOVBCmMJvm6fF4IofD4",
@@ -166,13 +173,6 @@
     "release_date": "2026-08-27 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "664db4ab-c5e5-4afe-8e10-b46b00e54598",
-    "episode_title": "Merciless Indian Savages | First America",
-    "release_date": "2026-08-27 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "4743d43a-9c75-4709-92b2-cbf3f0aaa8aa",
@@ -210,6 +210,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/_X1UbkLbukPWAiZZuoZZyt50EBBU_ZLEbLTh5jtzvns",
+    "episode_title": "Ray Madoff (on how billionaires avoid taxes & threaten capitalism)",
+    "release_date": "2026-09-02 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/fB-MiAxwHEsdXh7of5VKfD3Gmk9D5OtD7xw7pDb_z9Y",
     "episode_title": "Gal Gadot",
     "release_date": "2026-08-31 07:30:00",
@@ -221,13 +228,6 @@
     "episode_title": "Armchair Anonymous: Wild Card XIV",
     "release_date": "2026-08-28 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/C2xYtA8JeVOCNFwSwXaTLlpciEaDXbWDC_0a0xqYnno",
-    "episode_title": "Olivia Fox Cabane (on the science of charisma)",
-    "release_date": "2026-08-26 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]

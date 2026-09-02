@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-02 02:07:21
+Last updated: 2026-09-02 15:40:50
 
 ## Freakonomics Radio
 
@@ -20,6 +20,32 @@ Last updated: 2026-09-02 02:07:21
 
 ---
 
+## Planet Money
+
+### Love in the time of Palantir
+
+**Released:** 2026-09-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
+
+---
+
+### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+
+**Released:** 2026-08-30 07:00:02
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
+
+---
+
+### Branded fruit: How produce got “Honeycrisp-ified"
+
+**Released:** 2026-08-28 19:19:07
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623)
+
+---
+
 ## This American Life
 
 ### 896: I Know What You Need
@@ -30,7 +56,41 @@ Last updated: 2026-09-02 02:07:21
 
 ---
 
+## The Joe Rogan Experience
+
+### #2548 - Brian Simpson
+
+**Released:** 2026-09-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
+
+---
+
+### #2547 - Daniel Everett
+
+**Released:** 2026-08-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
+
+---
+
+### #2546 - Michael Button
+
+**Released:** 2026-08-26 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5185167681.mp3)
+
+---
+
 ## TED Talks Daily
+
+### How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche
+
+**Released:** 2026-09-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3)
+
+---
 
 ### The 60 seconds that make or break a conversation | Chris Fenning
 
@@ -64,66 +124,6 @@ Last updated: 2026-09-02 02:07:21
 
 ---
 
-### Who controls your city's money? | Trinity Tran
-
-**Released:** 2026-08-28 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4d927d95e52c97462af4/media.mp3)
-
----
-
-## Planet Money
-
-### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**Released:** 2026-08-30 07:00:02
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
-
----
-
-### Branded fruit: How produce got “Honeycrisp-ified"
-
-**Released:** 2026-08-28 19:19:07
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623)
-
----
-
-### The continent nobody owns & everyone benefits from (Summer School)
-
-**Released:** 2026-08-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
-
----
-
-## The Joe Rogan Experience
-
-### #2548 - Brian Simpson
-
-**Released:** 2026-09-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
-
----
-
-### #2547 - Daniel Everett
-
-**Released:** 2026-08-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
-
----
-
-### #2546 - Michael Button
-
-**Released:** 2026-08-26 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5185167681.mp3)
-
----
-
 ## Hidden Brain
 
 ### The Things We Don't Say
@@ -153,6 +153,14 @@ Last updated: 2026-09-02 02:07:21
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Hisashi Ouchi
+
+**Released:** 2026-09-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Terry Fox: Greatest Canadian Hero
 
@@ -186,11 +194,13 @@ Last updated: 2026-09-02 02:07:21
 
 ---
 
-### Short Stuff: Cyclospora
+## Revisionist History
 
-**Released:** 2026-08-26 09:00:00
+### Merciless Indian Savages | First America
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd7a7d5c-10f4-42a5-8362-b4b100d1da4f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-08-27 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -209,16 +219,6 @@ Last updated: 2026-09-02 02:07:21
 **Released:** 2026-08-27 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Merciless Indian Savages | First America
-
-**Released:** 2026-08-27 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -270,6 +270,14 @@ Last updated: 2026-09-02 02:07:21
 
 ## Armchair Expert
 
+### Ray Madoff (on how billionaires avoid taxes & threaten capitalism)
+
+**Released:** 2026-09-02 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Gal Gadot
 
 **Released:** 2026-08-31 07:30:00
@@ -283,14 +291,6 @@ Last updated: 2026-09-02 02:07:21
 **Released:** 2026-08-28 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Olivia Fox Cabane (on the science of charisma)
-
-**Released:** 2026-08-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
