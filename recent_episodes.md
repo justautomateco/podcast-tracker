@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-01 15:48:17
+Last updated: 2026-09-02 02:07:21
 
 ## Freakonomics Radio
+
+### How to Run an Institution in an Anti-Institution Era | Better in Person
+
+**Released:** 2026-09-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/210e3f76-5a94-48a3-b4ff-5fcef7b75b1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=210e3f76-5a94-48a3-b4ff-5fcef7b75b1c&feed=Y8lFbOT4)
+
+---
 
 ### How to Return Stolen Art (Update)
 
@@ -12,11 +20,13 @@ Last updated: 2026-09-01 15:48:17
 
 ---
 
-### “I Trust Almost Anyone More Than Myself” | Better in Person
+## This American Life
 
-**Released:** 2026-08-26 01:00:00
+### 896: I Know What You Need
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/e74acb0b-af18-4835-8c33-1c72e1844813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=e74acb0b-af18-4835-8c33-1c72e1844813&feed=Y8lFbOT4)
+**Released:** 2026-08-30 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
 
 ---
 
@@ -88,17 +98,15 @@ Last updated: 2026-09-01 15:48:17
 
 ---
 
-## Hidden Brain
+## The Joe Rogan Experience
 
-### The Things We Don't Say
+### #2548 - Brian Simpson
 
-**Released:** 2026-08-31 20:33:53
+**Released:** 2026-09-01 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2547 - Daniel Everett
 
@@ -116,11 +124,13 @@ Last updated: 2026-09-01 15:48:17
 
 ---
 
-### #2545 - Jesse Michels
+## Hidden Brain
 
-**Released:** 2026-08-25 17:00:00
+### The Things We Don't Say
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5434878204.mp3)
+**Released:** 2026-08-31 20:33:53
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf)
 
 ---
 
@@ -212,6 +222,52 @@ Last updated: 2026-09-01 15:48:17
 
 ---
 
+## SmartLess 
+
+### "Steve Zahn"
+
+**Released:** 2026-08-31 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Andy Daly Returns
+
+**Released:** 2026-08-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 5: The Spouses Alone
+
+**Released:** 2026-08-27 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Eyewitness: The Moth Radio Hour
+
+**Released:** 2026-09-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
+
+---
+
+### Mermaid Veterinarian: The Moth Podcast
+
+**Released:** 2026-08-28 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
 
 ### Gal Gadot
@@ -235,52 +291,6 @@ Last updated: 2026-09-01 15:48:17
 **Released:** 2026-08-26 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c9653cae-55d1-4acd-9261-5e500675d1b4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Eyewitness: The Moth Radio Hour
-
-**Released:** 2026-09-01 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
-
----
-
-### Mermaid Veterinarian: The Moth Podcast
-
-**Released:** 2026-08-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Andy Daly Returns
-
-**Released:** 2026-08-31 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 5: The Spouses Alone
-
-**Released:** 2026-08-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Steve Zahn"
-
-**Released:** 2026-08-31 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
 
 ---
 
