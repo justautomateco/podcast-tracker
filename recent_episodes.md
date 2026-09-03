@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-03 02:13:30
+Last updated: 2026-09-03 15:31:15
 
 ## Freakonomics Radio
 
@@ -20,32 +20,6 @@ Last updated: 2026-09-03 02:13:30
 
 ---
 
-## Planet Money
-
-### Love in the time of Palantir
-
-**Released:** 2026-09-02 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
-
----
-
-### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**Released:** 2026-08-30 07:00:02
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
-
----
-
-### Branded fruit: How produce got “Honeycrisp-ified"
-
-**Released:** 2026-08-28 19:19:07
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623)
-
----
-
 ## This American Life
 
 ### 896: I Know What You Need
@@ -56,159 +30,15 @@ Last updated: 2026-09-03 02:13:30
 
 ---
 
-## The Joe Rogan Experience
-
-### JRE MMA Show #185 with Ethyn Ewing
-
-**Released:** 2026-09-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
-
----
-
-### #2548 - Brian Simpson
-
-**Released:** 2026-09-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
-
----
-
-### #2547 - Daniel Everett
-
-**Released:** 2026-08-27 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
-
----
-
-## Hidden Brain
-
-### The Things We Don't Say
-
-**Released:** 2026-08-31 20:33:53
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf)
-
----
-
-## Stuff You Should Know
-
-### Short Stuff: Hisashi Ouchi
-
-**Released:** 2026-09-02 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Terry Fox: Greatest Canadian Hero
-
-**Released:** 2026-09-01 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Flagpole Sitting: A Real Fad
-
-**Released:** 2026-08-29 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ed221fa-bab3-4359-a416-b4b300e368c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The Fall of the USSR, Pt II
-
-**Released:** 2026-08-27 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b021fc54-bb17-4e94-8b96-b4ad01271048/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 1-800-PODCAST
-
-**Released:** 2026-09-01 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
-
----
-
-### 100 Objects #15: Bundy Clock
-
-**Released:** 2026-08-28 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
-
-**Released:** 2026-08-31 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Daymond John of FUBU
-
-**Released:** 2026-08-27 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Merciless Indian Savages | First America
-
-**Released:** 2026-08-27 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Andy Daly Returns
-
-**Released:** 2026-08-31 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 5: The Spouses Alone
-
-**Released:** 2026-08-27 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Eyewitness: The Moth Radio Hour
-
-**Released:** 2026-09-01 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
-
----
-
-### Mermaid Veterinarian: The Moth Podcast
-
-**Released:** 2026-08-28 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
-
----
-
 ## TED Talks Daily
+
+### The missing half of music history | Gabriella Di Laccio
+
+**Released:** 2026-09-03 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a988fffd54ec94380782ab7/media.mp3)
+
+---
 
 ### How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche
 
@@ -242,21 +72,171 @@ Last updated: 2026-09-03 02:13:30
 
 ---
 
-### The art of the novel | Ann Patchett
+## Hidden Brain
 
-**Released:** 2026-08-29 15:00:00
+### The Things We Don't Say
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4df46634e0e9bac690e1/media.mp3)
+**Released:** 2026-08-31 20:33:53
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf)
 
 ---
 
-## SmartLess 
+## Planet Money
 
-### "Steve Zahn"
+### Love in the time of Palantir
 
-**Released:** 2026-08-31 07:01:00
+**Released:** 2026-09-02 07:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
+
+---
+
+### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+
+**Released:** 2026-08-30 07:00:02
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
+
+---
+
+### Branded fruit: How produce got “Honeycrisp-ified"
+
+**Released:** 2026-08-28 19:19:07
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623)
+
+---
+
+## The Joe Rogan Experience
+
+### JRE MMA Show #185 with Ethyn Ewing
+
+**Released:** 2026-09-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
+
+---
+
+### #2548 - Brian Simpson
+
+**Released:** 2026-09-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
+
+---
+
+### #2547 - Daniel Everett
+
+**Released:** 2026-08-27 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8609844651.mp3)
+
+---
+
+## Stuff You Should Know
+
+### Social Identity Theory: Your Group Rules, Others Drool
+
+**Released:** 2026-09-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f8a763f-daa1-4efd-9d11-b4b80164422f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Short Stuff: Hisashi Ouchi
+
+**Released:** 2026-09-02 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Terry Fox: Greatest Canadian Hero
+
+**Released:** 2026-09-01 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### Selects: Flagpole Sitting: A Real Fad
+
+**Released:** 2026-08-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ed221fa-bab3-4359-a416-b4b300e368c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### 1-800-PODCAST
+
+**Released:** 2026-09-01 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #15: Bundy Clock
+
+**Released:** 2026-08-28 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Advice Line with Ben Goodwin of Olipop
+
+**Released:** 2026-09-03 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
+
+**Released:** 2026-08-31 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Eyewitness: The Moth Radio Hour
+
+**Released:** 2026-09-01 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
+
+---
+
+### Mermaid Veterinarian: The Moth Podcast
+
+**Released:** 2026-08-28 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Summer S’pouses Episode 6: The Spouses Reunited
+
+**Released:** 2026-09-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH)
+
+---
+
+### Andy Daly Returns
+
+**Released:** 2026-08-31 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
 
 ---
 
@@ -283,6 +263,16 @@ Last updated: 2026-09-03 02:13:30
 **Released:** 2026-08-28 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Steve Zahn"
+
+**Released:** 2026-08-31 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
 
 ---
 

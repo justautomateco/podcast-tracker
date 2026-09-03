@@ -14,27 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "43627a93-796f-4805-89ae-76c7bed4997d",
-    "episode_title": "Love in the time of Palantir",
-    "release_date": "2026-09-02 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "532d6947-be95-4fff-981e-ff2bfdcc26f8",
-    "episode_title": "Dolly Parton\u2019s \u201c9 to 5,\u201d the true story behind the anthem (bonus)",
-    "release_date": "2026-08-30 07:00:02",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "9ac6cc5f-1327-48c1-8539-61e6fb1d39e4",
-    "episode_title": "Branded fruit: How produce got \u201cHoneycrisp-ified\"",
-    "release_date": "2026-08-28 19:19:07",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "46218 at https://www.thisamericanlife.org",
     "episode_title": "896: I Know What You Need",
     "release_date": "2026-08-30 20:00:00",
@@ -42,123 +21,11 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
-    "episode_title": "JRE MMA Show #185 with Ethyn Ewing",
-    "release_date": "2026-09-02 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
-    "episode_title": "#2548 - Brian Simpson",
-    "release_date": "2026-09-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
-    "episode_title": "#2547 - Daniel Everett",
-    "release_date": "2026-08-27 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
-    "episode_title": "The Things We Don't Say",
-    "release_date": "2026-08-31 20:33:53",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "667b64ea-8cfc-41ff-aceb-b4b8010d7f86",
-    "episode_title": "Short Stuff: Hisashi Ouchi",
-    "release_date": "2026-09-02 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "efc3265a-03c9-43b2-8680-b4b00151f504",
-    "episode_title": "Terry Fox: Greatest Canadian Hero",
-    "release_date": "2026-09-01 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "0ed221fa-bab3-4359-a416-b4b300e368c8",
-    "episode_title": "Selects: Flagpole Sitting: A Real Fad",
-    "release_date": "2026-08-29 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ed221fa-bab3-4359-a416-b4b300e368c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "b021fc54-bb17-4e94-8b96-b4ad01271048",
-    "episode_title": "The Fall of the USSR, Pt II",
-    "release_date": "2026-08-27 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b021fc54-bb17-4e94-8b96-b4ad01271048/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
-    "episode_title": "1-800-PODCAST",
-    "release_date": "2026-09-01 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",
-    "episode_title": "100 Objects #15: Bundy Clock",
-    "release_date": "2026-08-28 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/yD1mqjntfXk3mXrMxNTFj6KkFOVBCmMJvm6fF4IofD4",
-    "episode_title": "Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing\u2026 Tortilla Chips Saved Them",
-    "release_date": "2026-08-31 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/PBwNeVxCp4OwJAo8ckJ6Myj2D0kdy6jkrnuSXVA1SJ8",
-    "episode_title": "Advice Line with Daymond John of FUBU",
-    "release_date": "2026-08-27 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "664db4ab-c5e5-4afe-8e10-b46b00e54598",
-    "episode_title": "Merciless Indian Savages | First America",
-    "release_date": "2026-08-27 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/664db4ab-c5e5-4afe-8e10-b46b00e54598/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "748745d5-0680-44d8-a9e8-b36a5c441f80",
-    "episode_title": "Andy Daly Returns",
-    "release_date": "2026-08-31 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "074d3b1c-9fbe-4b03-957f-721cb6dd5e31",
-    "episode_title": "Summer S\u2019pouses Episode 5: The Spouses Alone",
-    "release_date": "2026-08-27 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/2ba72ac2-321f-4519-b26a-acac1c3abbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=2ba72ac2-321f-4519-b26a-acac1c3abbde&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "7475b0f6-89d4-11f0-b13f-63d85e7d0a45",
-    "episode_title": "Eyewitness: The Moth Radio Hour",
-    "release_date": "2026-09-01 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "73dc44de-89d4-11f0-b13f-7b6da22f7276",
-    "episode_title": "Mermaid Veterinarian: The Moth Podcast",
-    "release_date": "2026-08-28 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "6a988fffd54ec94380782ab7",
+    "episode_title": "The missing half of music history | Gabriella Di Laccio",
+    "release_date": "2026-09-03 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a988fffd54ec94380782ab7/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6a96f67466efea21e002f3b8",
@@ -189,18 +56,137 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a8f4df46634e0e9bac690e1",
-    "episode_title": "The art of the novel | Ann Patchett",
-    "release_date": "2026-08-29 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a8f4df46634e0e9bac690e1/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
+    "episode_title": "The Things We Don't Say",
+    "release_date": "2026-08-31 20:33:53",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "4743d43a-9c75-4709-92b2-cbf3f0aaa8aa",
-    "episode_title": "\"Steve Zahn\"",
-    "release_date": "2026-08-31 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "43627a93-796f-4805-89ae-76c7bed4997d",
+    "episode_title": "Love in the time of Palantir",
+    "release_date": "2026-09-02 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "532d6947-be95-4fff-981e-ff2bfdcc26f8",
+    "episode_title": "Dolly Parton\u2019s \u201c9 to 5,\u201d the true story behind the anthem (bonus)",
+    "release_date": "2026-08-30 07:00:02",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "9ac6cc5f-1327-48c1-8539-61e6fb1d39e4",
+    "episode_title": "Branded fruit: How produce got \u201cHoneycrisp-ified\"",
+    "release_date": "2026-08-28 19:19:07",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
+    "episode_title": "JRE MMA Show #185 with Ethyn Ewing",
+    "release_date": "2026-09-02 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6785965754.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
+    "episode_title": "#2548 - Brian Simpson",
+    "release_date": "2026-09-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
+    "episode_title": "#2547 - Daniel Everett",
+    "release_date": "2026-08-27 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "2f8a763f-daa1-4efd-9d11-b4b80164422f",
+    "episode_title": "Social Identity Theory: Your Group Rules, Others Drool",
+    "release_date": "2026-09-03 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f8a763f-daa1-4efd-9d11-b4b80164422f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "667b64ea-8cfc-41ff-aceb-b4b8010d7f86",
+    "episode_title": "Short Stuff: Hisashi Ouchi",
+    "release_date": "2026-09-02 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "efc3265a-03c9-43b2-8680-b4b00151f504",
+    "episode_title": "Terry Fox: Greatest Canadian Hero",
+    "release_date": "2026-09-01 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "0ed221fa-bab3-4359-a416-b4b300e368c8",
+    "episode_title": "Selects: Flagpole Sitting: A Real Fad",
+    "release_date": "2026-08-29 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ed221fa-bab3-4359-a416-b4b300e368c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
+    "episode_title": "1-800-PODCAST",
+    "release_date": "2026-09-01 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",
+    "episode_title": "100 Objects #15: Bundy Clock",
+    "release_date": "2026-08-28 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/VuqadoVNb-_3LcnRk2TLJN6l0zis0WXEYeCEE5czv6Y",
+    "episode_title": "Advice Line with Ben Goodwin of Olipop",
+    "release_date": "2026-09-03 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/yD1mqjntfXk3mXrMxNTFj6KkFOVBCmMJvm6fF4IofD4",
+    "episode_title": "Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing\u2026 Tortilla Chips Saved Them",
+    "release_date": "2026-08-31 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "7475b0f6-89d4-11f0-b13f-63d85e7d0a45",
+    "episode_title": "Eyewitness: The Moth Radio Hour",
+    "release_date": "2026-09-01 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "73dc44de-89d4-11f0-b13f-7b6da22f7276",
+    "episode_title": "Mermaid Veterinarian: The Moth Podcast",
+    "release_date": "2026-08-28 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "451b6bf0-d6db-489c-a6d5-d9ed5765a356",
+    "episode_title": "Summer S\u2019pouses Episode 6: The Spouses Reunited",
+    "release_date": "2026-09-03 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "748745d5-0680-44d8-a9e8-b36a5c441f80",
+    "episode_title": "Andy Daly Returns",
+    "release_date": "2026-08-31 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/_X1UbkLbukPWAiZZuoZZyt50EBBU_ZLEbLTh5jtzvns",
@@ -222,5 +208,12 @@
     "release_date": "2026-08-28 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/0fbf46c2-a0b5-4c40-a67b-b1faa0fd06e7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "4743d43a-9c75-4709-92b2-cbf3f0aaa8aa",
+    "episode_title": "\"Steve Zahn\"",
+    "release_date": "2026-08-31 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
