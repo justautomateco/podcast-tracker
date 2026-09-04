@@ -14,13 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46218 at https://www.thisamericanlife.org",
-    "episode_title": "896: I Know What You Need",
-    "release_date": "2026-08-30 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6a988fffd54ec94380782ab7",
     "episode_title": "The missing half of music history | Gabriella Di Laccio",
     "release_date": "2026-09-03 15:00:00",
@@ -56,13 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
-    "episode_title": "The Things We Don't Say",
-    "release_date": "2026-08-31 20:33:53",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "43627a93-796f-4805-89ae-76c7bed4997d",
     "episode_title": "Love in the time of Palantir",
     "release_date": "2026-09-02 07:00:00",
@@ -84,6 +70,20 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "46218 at https://www.thisamericanlife.org",
+    "episode_title": "896: I Know What You Need",
+    "release_date": "2026-08-30 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "97b946a8-a725-11f1-b1c6-fb57637e3c16",
+    "episode_title": "#2549 - Jared Diamond",
+    "release_date": "2026-09-03 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
     "episode_title": "JRE MMA Show #185 with Ethyn Ewing",
     "release_date": "2026-09-02 17:00:00",
@@ -98,11 +98,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "9e1fb742-a1b8-11f1-9e55-d7d5779b3db3",
-    "episode_title": "#2547 - Daniel Everett",
-    "release_date": "2026-08-27 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8609844651.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "0ecde77d-d135-42b2-a674-79a4da6ce789",
+    "episode_title": "The Things We Don't Say",
+    "release_date": "2026-08-31 20:33:53",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e489f8c9-91b6-4fce-97a2-ee8f8d7abe99/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e489f8c9-91b6-4fce-97a2-ee8f8d7abe99&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
+    "episode_title": "1-800-PODCAST",
+    "release_date": "2026-09-01 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",
+    "episode_title": "100 Objects #15: Bundy Clock",
+    "release_date": "2026-08-28 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "2f8a763f-daa1-4efd-9d11-b4b80164422f",
@@ -133,20 +147,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
-    "episode_title": "1-800-PODCAST",
-    "release_date": "2026-09-01 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",
-    "episode_title": "100 Objects #15: Bundy Clock",
-    "release_date": "2026-08-28 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/aeaca5a2-999e-4a20-b91f-9897233d3ac8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=aeaca5a2-999e-4a20-b91f-9897233d3ac8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/VuqadoVNb-_3LcnRk2TLJN6l0zis0WXEYeCEE5czv6Y",
     "episode_title": "Advice Line with Ben Goodwin of Olipop",
     "release_date": "2026-09-03 07:10:00",
@@ -161,18 +161,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "7475b0f6-89d4-11f0-b13f-63d85e7d0a45",
-    "episode_title": "Eyewitness: The Moth Radio Hour",
-    "release_date": "2026-09-01 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "73dc44de-89d4-11f0-b13f-7b6da22f7276",
-    "episode_title": "Mermaid Veterinarian: The Moth Podcast",
-    "release_date": "2026-08-28 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "4743d43a-9c75-4709-92b2-cbf3f0aaa8aa",
+    "episode_title": "\"Steve Zahn\"",
+    "release_date": "2026-08-31 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "451b6bf0-d6db-489c-a6d5-d9ed5765a356",
@@ -210,10 +203,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "4743d43a-9c75-4709-92b2-cbf3f0aaa8aa",
-    "episode_title": "\"Steve Zahn\"",
-    "release_date": "2026-08-31 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "7475b0f6-89d4-11f0-b13f-63d85e7d0a45",
+    "episode_title": "Eyewitness: The Moth Radio Hour",
+    "release_date": "2026-09-01 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "73dc44de-89d4-11f0-b13f-7b6da22f7276",
+    "episode_title": "Mermaid Veterinarian: The Moth Podcast",
+    "release_date": "2026-08-28 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208772/8208772_2026-04-13-034412.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]
