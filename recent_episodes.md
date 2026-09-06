@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-06 02:05:16
+Last updated: 2026-09-06 14:40:17
+
+## Freakonomics Radio
+
+### 685. How to Survive the A.I. Shock
+
+**Released:** 2026-09-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7dea01e6-48f3-47ae-8527-9fcc879e0df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7dea01e6-48f3-47ae-8527-9fcc879e0df5&feed=Y8lFbOT4)
+
+---
+
+### How to Run an Institution in an Anti-Institution Era | Better in Person
+
+**Released:** 2026-09-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/210e3f76-5a94-48a3-b4ff-5fcef7b75b1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=210e3f76-5a94-48a3-b4ff-5fcef7b75b1c&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Grit: The power of passion and perseverance | Angela Lee Duckworth
+
+**Released:** 2026-09-06 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a95ca40cbb5391397247423/media.mp3)
+
+---
 
 ### What's the biggest barrier to thriving? A philosopher and a space architect answer | Ariel Ekblaw and Meghan Sullivan
 
@@ -36,29 +62,21 @@ Last updated: 2026-09-06 02:05:16
 
 ---
 
-### The 60 seconds that make or break a conversation | Chris Fenning
+## Planet Money
 
-**Released:** 2026-09-01 15:00:00
+### Trump drinks Venezuela’s milkshake
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a95c9a13255edf604afbe65/media.mp3)
+**Released:** 2026-09-05 00:00:00
 
----
-
-## Freakonomics Radio
-
-### 685. How to Survive the A.I. Shock
-
-**Released:** 2026-09-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7dea01e6-48f3-47ae-8527-9fcc879e0df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7dea01e6-48f3-47ae-8527-9fcc879e0df5&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
 
 ---
 
-### How to Run an Institution in an Anti-Institution Era | Better in Person
+### Love in the time of Palantir
 
-**Released:** 2026-09-02 00:00:00
+**Released:** 2026-09-02 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/210e3f76-5a94-48a3-b4ff-5fcef7b75b1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=210e3f76-5a94-48a3-b4ff-5fcef7b75b1c&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
 
 ---
 
@@ -95,32 +113,6 @@ Last updated: 2026-09-06 02:05:16
 **Released:** 2026-09-01 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
-
----
-
-## Planet Money
-
-### Trump drinks Venezuela’s milkshake
-
-**Released:** 2026-09-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
-
----
-
-### Love in the time of Palantir
-
-**Released:** 2026-09-02 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
-
----
-
-### Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**Released:** 2026-08-30 07:00:02
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
 
 ---
 
@@ -204,26 +196,6 @@ Last updated: 2026-09-06 02:05:16
 
 ---
 
-## The Tim Ferriss Show
-
-### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
-
-**Released:** 2026-09-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Steve Zahn"
-
-**Released:** 2026-08-31 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Summer S’pouses Episode 6: The Spouses Reunited
@@ -283,6 +255,26 @@ Last updated: 2026-09-06 02:05:16
 **Released:** 2026-08-31 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d60c0c9d-55a8-4bb4-94e8-f7903ab171bb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Steve Zahn"
+
+**Released:** 2026-08-31 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
+
+**Released:** 2026-09-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
