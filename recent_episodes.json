@@ -1,5 +1,12 @@
 [
   {
+    "guid": "6a989c8e809ae7c2f4fbb7b8",
+    "episode_title": "What's the biggest barrier to thriving? A philosopher and a space architect answer | Ariel Ekblaw and Meghan Sullivan",
+    "release_date": "2026-09-05 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c8e809ae7c2f4fbb7b8/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6a989c24054653259a9743b3",
     "episode_title": "Meet the youngest-ever mayor in Japan's history | Ryosuke Takashima",
     "release_date": "2026-09-04 15:00:00",
@@ -28,13 +35,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6a959507ee851f3f3101b20c",
-    "episode_title": "This is what the birth of the universe sounded like | Mark Whittle",
-    "release_date": "2026-08-31 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a959507ee851f3f3101b20c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "c605d9c0-e21c-4cfc-a0e1-1ed925d4f8db",
     "episode_title": "685. How to Survive the A.I. Shock",
     "release_date": "2026-09-04 10:00:00",
@@ -54,6 +54,27 @@
     "release_date": "2026-08-30 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "97b946a8-a725-11f1-b1c6-fb57637e3c16",
+    "episode_title": "#2549 - Jared Diamond",
+    "release_date": "2026-09-03 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
+    "episode_title": "JRE MMA Show #185 with Ethyn Ewing",
+    "release_date": "2026-09-02 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6785965754.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
+    "episode_title": "#2548 - Brian Simpson",
+    "release_date": "2026-09-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "70775d03-ff2f-4143-9d1b-df6bd2cb60b3",
@@ -84,41 +105,6 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "97b946a8-a725-11f1-b1c6-fb57637e3c16",
-    "episode_title": "#2549 - Jared Diamond",
-    "release_date": "2026-09-03 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2f848f20-a658-11f1-ae00-9f0126f17601",
-    "episode_title": "JRE MMA Show #185 with Ethyn Ewing",
-    "release_date": "2026-09-02 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "b401b5a8-a594-11f1-a46b-ebbce54c9d78",
-    "episode_title": "#2548 - Brian Simpson",
-    "release_date": "2026-09-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1161328740.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "c62db9e7-f185-41c6-a304-e008f58161ca",
-    "episode_title": "100 Objects #16: Wheel of Fortune Dalmatian",
-    "release_date": "2026-09-04 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
-    "episode_title": "1-800-PODCAST",
-    "release_date": "2026-09-01 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "bf0e1069-4fc9-452d-b033-b4ba00f31ce1",
     "episode_title": "Selects: Blacksmiths? You got that right!",
     "release_date": "2026-09-05 09:00:00",
@@ -145,6 +131,20 @@
     "release_date": "2026-09-01 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "c62db9e7-f185-41c6-a304-e008f58161ca",
+    "episode_title": "100 Objects #16: Wheel of Fortune Dalmatian",
+    "release_date": "2026-09-04 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
+    "episode_title": "1-800-PODCAST",
+    "release_date": "2026-09-01 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/VuqadoVNb-_3LcnRk2TLJN6l0zis0WXEYeCEE5czv6Y",

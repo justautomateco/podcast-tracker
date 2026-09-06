@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-05 14:16:58
+Last updated: 2026-09-06 02:05:16
 
 ## TED Talks Daily
+
+### What's the biggest barrier to thriving? A philosopher and a space architect answer | Ariel Ekblaw and Meghan Sullivan
+
+**Released:** 2026-09-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c8e809ae7c2f4fbb7b8/media.mp3)
+
+---
 
 ### Meet the youngest-ever mayor in Japan's history | Ryosuke Takashima
 
@@ -36,14 +44,6 @@ Last updated: 2026-09-05 14:16:58
 
 ---
 
-### This is what the birth of the universe sounded like | Mark Whittle
-
-**Released:** 2026-08-31 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a959507ee851f3f3101b20c/media.mp3)
-
----
-
 ## Freakonomics Radio
 
 ### 685. How to Survive the A.I. Shock
@@ -69,6 +69,32 @@ Last updated: 2026-09-05 14:16:58
 **Released:** 2026-08-30 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2549 - Jared Diamond
+
+**Released:** 2026-09-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3310404935.mp3)
+
+---
+
+### JRE MMA Show #185 with Ethyn Ewing
+
+**Released:** 2026-09-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
+
+---
+
+### #2548 - Brian Simpson
+
+**Released:** 2026-09-01 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
 
 ---
 
@@ -108,50 +134,6 @@ Last updated: 2026-09-05 14:16:58
 
 ---
 
-## The Joe Rogan Experience
-
-### #2549 - Jared Diamond
-
-**Released:** 2026-09-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3310404935.mp3)
-
----
-
-### JRE MMA Show #185 with Ethyn Ewing
-
-**Released:** 2026-09-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
-
----
-
-### #2548 - Brian Simpson
-
-**Released:** 2026-09-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
-
----
-
-## 99% Invisible
-
-### 100 Objects #16: Wheel of Fortune Dalmatian
-
-**Released:** 2026-09-04 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
-
----
-
-### 1-800-PODCAST
-
-**Released:** 2026-09-01 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Blacksmiths? You got that right!
@@ -183,6 +165,24 @@ Last updated: 2026-09-05 14:16:58
 **Released:** 2026-09-01 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #16: Wheel of Fortune Dalmatian
+
+**Released:** 2026-09-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
+
+---
+
+### 1-800-PODCAST
+
+**Released:** 2026-09-01 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
 
 ---
 
