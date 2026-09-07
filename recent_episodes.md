@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-07 02:02:29
+Last updated: 2026-09-07 16:54:36
 
 ## Freakonomics Radio
 
@@ -32,61 +32,43 @@ Last updated: 2026-09-07 02:02:29
 
 ## TED Talks Daily
 
-### Grit: The power of passion and perseverance | Angela Lee Duckworth
+### Every kid needs a champion | Rita Pierson
 
-**Released:** 2026-09-06 06:00:00
+**Released:** 2026-09-07 04:04:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a95ca40cbb5391397247423/media.mp3)
-
----
-
-### What's the biggest barrier to thriving? A philosopher and a space architect answer | Ariel Ekblaw and Meghan Sullivan
-
-**Released:** 2026-09-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c8e809ae7c2f4fbb7b8/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989d32e7a9fe24781ab8fb/media.mp3)
 
 ---
 
-### Meet the youngest-ever mayor in Japan's history | Ryosuke Takashima
+### How to make learning as addictive as social media | Luis von Ahn
 
-**Released:** 2026-09-04 15:00:00
+**Released:** 2026-09-07 04:03:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989c24054653259a9743b3/media.mp3)
-
----
-
-### The missing half of music history | Gabriella Di Laccio
-
-**Released:** 2026-09-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a988fffd54ec94380782ab7/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e7e7809ae7c2f473ea07/media.mp3)
 
 ---
 
-### How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche
+### 4 steps to unlock your kid’s math potential | Shalinee Sharma
 
-**Released:** 2026-09-02 15:00:00
+**Released:** 2026-09-07 04:02:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3)
-
----
-
-## Planet Money
-
-### Trump drinks Venezuela’s milkshake
-
-**Released:** 2026-09-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e84ed54ec94380f6372d/media.mp3)
 
 ---
 
-### Love in the time of Palantir
+### How video games can level up the way you learn | Kris Alexander
 
-**Released:** 2026-09-02 07:00:00
+**Released:** 2026-09-07 04:01:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e89bbe9805796131af88/media.mp3)
+
+---
+
+### How schools can nurture every student's genius | Trish Millines Dziko
+
+**Released:** 2026-09-07 04:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e8fe809ae7c2f4749091/media.mp3)
 
 ---
 
@@ -118,6 +100,14 @@ Last updated: 2026-09-07 02:02:29
 
 ## Hidden Brain
 
+### Blowing Up Your Life
+
+**Released:** 2026-09-07 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c0973444-73f2-4f54-98ee-c048d6a0402d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c0973444-73f2-4f54-98ee-c048d6a0402d&feed=kwWc0lhf)
+
+---
+
 ### The Things We Don't Say
 
 **Released:** 2026-08-31 20:33:53
@@ -126,21 +116,21 @@ Last updated: 2026-09-07 02:02:29
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### 100 Objects #16: Wheel of Fortune Dalmatian
+### Trump drinks Venezuela’s milkshake
 
-**Released:** 2026-09-04 07:00:00
+**Released:** 2026-09-05 00:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
 
 ---
 
-### 1-800-PODCAST
+### Love in the time of Palantir
 
-**Released:** 2026-09-01 08:00:00
+**Released:** 2026-09-02 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
 
 ---
 
@@ -178,21 +168,21 @@ Last updated: 2026-09-07 02:02:29
 
 ---
 
-## How I Built This
+## 99% Invisible
 
-### Advice Line with Ben Goodwin of Olipop
+### 100 Objects #16: Wheel of Fortune Dalmatian
 
-**Released:** 2026-09-03 07:10:00
+**Released:** 2026-09-04 07:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
 
 ---
 
-### Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
+### 1-800-PODCAST
 
-**Released:** 2026-08-31 07:10:00
+**Released:** 2026-09-01 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
 
 ---
 
@@ -206,21 +196,21 @@ Last updated: 2026-09-07 02:02:29
 
 ---
 
-## Conan O'Brien Needs A Friend
+## How I Built This
 
-### Summer S’pouses Episode 6: The Spouses Reunited
+### Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
 
-**Released:** 2026-09-03 04:05:00
+**Released:** 2026-09-07 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Andy Daly Returns
+### Advice Line with Ben Goodwin of Olipop
 
-**Released:** 2026-08-31 04:05:00
+**Released:** 2026-09-03 07:10:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9f32a805-ba57-46c4-9f20-fdf77b192821/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9f32a805-ba57-46c4-9f20-fdf77b192821&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,17 +232,43 @@ Last updated: 2026-09-07 02:02:29
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Matt Groening
+
+**Released:** 2026-09-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 6: The Spouses Reunited
+
+**Released:** 2026-09-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
-### "Steve Zahn"
+### "Andrew Garfield"
 
-**Released:** 2026-08-31 07:01:00
+**Released:** 2026-09-07 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/686a5050-4aa0-4416-b161-3a681953fc45/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=686a5050-4aa0-4416-b161-3a681953fc45&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Lizzo
+
+**Released:** 2026-09-07 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Summer Fling
 
@@ -267,14 +283,6 @@ Last updated: 2026-09-07 02:02:29
 **Released:** 2026-09-02 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Gal Gadot
-
-**Released:** 2026-08-31 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d60c0c9d-55a8-4bb4-94e8-f7903ab171bb.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
