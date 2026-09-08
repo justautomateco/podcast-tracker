@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-08 02:14:20
+Last updated: 2026-09-08 15:42:34
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-09-08 02:14:20
 
 ---
 
+## This American Life
+
+### 449: Middle School
+
+**Released:** 2026-09-06 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
+
+---
+
 ## TED Talks Daily
+
+### How the wealth gap is reshaping politics | Xochitl Gonzalez
+
+**Released:** 2026-09-08 15:00:58
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa02305e25cb7d39e91b630/media.mp3)
+
+---
 
 ### Every kid needs a champion | Rita Pierson
 
@@ -51,24 +69,6 @@ Last updated: 2026-09-08 02:14:20
 **Released:** 2026-09-07 04:01:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e89bbe9805796131af88/media.mp3)
-
----
-
-### How schools can nurture every student's genius | Trish Millines Dziko
-
-**Released:** 2026-09-07 04:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e8fe809ae7c2f4749091/media.mp3)
-
----
-
-## This American Life
-
-### 449: Middle School
-
-**Released:** 2026-09-06 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
 
 ---
 
@@ -126,7 +126,33 @@ Last updated: 2026-09-08 02:14:20
 
 ---
 
+## 99% Invisible
+
+### Kobuk the Destroyer
+
+**Released:** 2026-09-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #16: Wheel of Fortune Dalmatian
+
+**Released:** 2026-09-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Nickelodeon:The Best of Slimes
+
+**Released:** 2026-09-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c269b798-5adf-4fcb-b036-b4ba015fcf7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Blacksmiths? You got that right!
 
@@ -152,29 +178,13 @@ Last updated: 2026-09-08 02:14:20
 
 ---
 
-### Terry Fox: Greatest Canadian Hero
+## The Tim Ferriss Show
 
-**Released:** 2026-09-01 09:00:00
+### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-04 10:00:00
 
----
-
-## 99% Invisible
-
-### 100 Objects #16: Wheel of Fortune Dalmatian
-
-**Released:** 2026-09-04 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
-
----
-
-### 1-800-PODCAST
-
-**Released:** 2026-09-01 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -193,24 +203,6 @@ Last updated: 2026-09-08 02:14:20
 **Released:** 2026-09-03 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Matt Groening
-
-**Released:** 2026-09-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
-
----
-
-### Summer S’pouses Episode 6: The Spouses Reunited
-
-**Released:** 2026-09-03 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH)
 
 ---
 
@@ -242,6 +234,14 @@ Last updated: 2026-09-08 02:14:20
 
 ## The Moth
 
+### Fresh Starts: The Moth Radio Hour
+
+**Released:** 2026-09-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
+
+---
+
 ### Taken by Surprise: The Moth Podcast
 
 **Released:** 2026-09-04 04:25:00
@@ -250,11 +250,21 @@ Last updated: 2026-09-08 02:14:20
 
 ---
 
-### Eyewitness: The Moth Radio Hour
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-09-01 04:25:00
+### Matt Groening
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208767/8208767_2026-04-13-033907.192.mp3?rssID=6066)
+**Released:** 2026-09-07 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
+
+---
+
+### Summer S’pouses Episode 6: The Spouses Reunited
+
+**Released:** 2026-09-03 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/db6a5ce3-efbf-461c-87d9-5c6c90492725/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=db6a5ce3-efbf-461c-87d9-5c6c90492725&feed=dHoohVNH)
 
 ---
 
@@ -265,16 +275,6 @@ Last updated: 2026-09-08 02:14:20
 **Released:** 2026-09-07 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
-
-**Released:** 2026-09-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
