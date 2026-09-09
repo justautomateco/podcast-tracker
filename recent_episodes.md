@@ -1,32 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-08 15:42:34
+Last updated: 2026-09-09 02:17:42
 
 ## Freakonomics Radio
+
+### Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person
+
+**Released:** 2026-09-09 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/20454781-44ef-4772-9271-cd89102b14c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=20454781-44ef-4772-9271-cd89102b14c7&feed=Y8lFbOT4)
+
+---
 
 ### 685. How to Survive the A.I. Shock
 
 **Released:** 2026-09-04 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7dea01e6-48f3-47ae-8527-9fcc879e0df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7dea01e6-48f3-47ae-8527-9fcc879e0df5&feed=Y8lFbOT4)
-
----
-
-### How to Run an Institution in an Anti-Institution Era | Better in Person
-
-**Released:** 2026-09-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/210e3f76-5a94-48a3-b4ff-5fcef7b75b1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=210e3f76-5a94-48a3-b4ff-5fcef7b75b1c&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 449: Middle School
-
-**Released:** 2026-09-06 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
 
 ---
 
@@ -72,6 +62,42 @@ Last updated: 2026-09-08 15:42:34
 
 ---
 
+## This American Life
+
+### 449: Middle School
+
+**Released:** 2026-09-06 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2550 - Rick Springfield
+
+**Released:** 2026-09-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5567898828.mp3)
+
+---
+
+### #2549 - Jared Diamond
+
+**Released:** 2026-09-03 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3310404935.mp3)
+
+---
+
+### JRE MMA Show #185 with Ethyn Ewing
+
+**Released:** 2026-09-02 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
+
+---
+
 ## Planet Money
 
 ### Trump drinks Venezuela’s milkshake
@@ -90,32 +116,6 @@ Last updated: 2026-09-08 15:42:34
 
 ---
 
-## The Joe Rogan Experience
-
-### #2549 - Jared Diamond
-
-**Released:** 2026-09-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3310404935.mp3)
-
----
-
-### JRE MMA Show #185 with Ethyn Ewing
-
-**Released:** 2026-09-02 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6785965754.mp3)
-
----
-
-### #2548 - Brian Simpson
-
-**Released:** 2026-09-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1161328740.mp3)
-
----
-
 ## Hidden Brain
 
 ### Blowing Up Your Life
@@ -123,24 +123,6 @@ Last updated: 2026-09-08 15:42:34
 **Released:** 2026-09-07 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c0973444-73f2-4f54-98ee-c048d6a0402d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c0973444-73f2-4f54-98ee-c048d6a0402d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Kobuk the Destroyer
-
-**Released:** 2026-09-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
-
----
-
-### 100 Objects #16: Wheel of Fortune Dalmatian
-
-**Released:** 2026-09-04 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +160,24 @@ Last updated: 2026-09-08 15:42:34
 
 ---
 
+## 99% Invisible
+
+### Kobuk the Destroyer
+
+**Released:** 2026-09-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #16: Wheel of Fortune Dalmatian
+
+**Released:** 2026-09-04 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d17e1bb5-0ce6-4a8a-98eb-4a0c54000f8a&feed=BqbsxVfO)
+
+---
+
 ## The Tim Ferriss Show
 
 ### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
@@ -206,50 +206,6 @@ Last updated: 2026-09-08 15:42:34
 
 ---
 
-## Armchair Expert
-
-### Lizzo
-
-**Released:** 2026-09-07 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Summer Fling
-
-**Released:** 2026-09-04 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4aba0eb-77aa-4440-bf86-d14982198cb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ray Madoff (on how billionaires avoid taxes & threaten capitalism)
-
-**Released:** 2026-09-02 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Fresh Starts: The Moth Radio Hour
-
-**Released:** 2026-09-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
-
----
-
-### Taken by Surprise: The Moth Podcast
-
-**Released:** 2026-09-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Matt Groening
@@ -275,6 +231,50 @@ Last updated: 2026-09-08 15:42:34
 **Released:** 2026-09-07 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Fresh Starts: The Moth Radio Hour
+
+**Released:** 2026-09-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
+
+---
+
+### Taken by Surprise: The Moth Podcast
+
+**Released:** 2026-09-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066)
+
+---
+
+## Armchair Expert
+
+### Lizzo
+
+**Released:** 2026-09-07 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Summer Fling
+
+**Released:** 2026-09-04 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4aba0eb-77aa-4440-bf86-d14982198cb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ray Madoff (on how billionaires avoid taxes & threaten capitalism)
+
+**Released:** 2026-09-02 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
