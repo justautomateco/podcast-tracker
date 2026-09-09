@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6aa16c4c156a52f88077296c",
+    "episode_title": "How bullying spreads \u2014 and how social bravery stops it | Amy Cuddy",
+    "release_date": "2026-09-09 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa16c4c156a52f88077296c/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6aa02305e25cb7d39e91b630",
     "episode_title": "How the wealth gap is reshaping politics | Xochitl Gonzalez",
     "release_date": "2026-09-08 15:00:58",
@@ -39,13 +46,6 @@
     "episode_title": "4 steps to unlock your kid\u2019s math potential | Shalinee Sharma",
     "release_date": "2026-09-07 04:02:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e84ed54ec94380f6372d/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6a99e89bbe9805796131af88",
-    "episode_title": "How video games can level up the way you learn | Kris Alexander",
-    "release_date": "2026-09-07 04:01:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a99e89bbe9805796131af88/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -77,25 +77,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "70775d03-ff2f-4143-9d1b-df6bd2cb60b3",
-    "episode_title": "Trump drinks Venezuela\u2019s milkshake",
-    "release_date": "2026-09-05 00:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "43627a93-796f-4805-89ae-76c7bed4997d",
-    "episode_title": "Love in the time of Palantir",
-    "release_date": "2026-09-02 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "ba3c9663-7bec-426c-b824-042d4d8b3d3b",
     "episode_title": "Blowing Up Your Life",
     "release_date": "2026-09-07 14:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c0973444-73f2-4f54-98ee-c048d6a0402d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c0973444-73f2-4f54-98ee-c048d6a0402d&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "0809be36-a919-4170-9fe2-b4bb00d131c1",
+    "episode_title": "Short Stuff: Flappers",
+    "release_date": "2026-09-09 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0809be36-a919-4170-9fe2-b4bb00d131c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "c269b798-5adf-4fcb-b036-b4ba015fcf7f",
@@ -119,13 +112,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "667b64ea-8cfc-41ff-aceb-b4b8010d7f86",
-    "episode_title": "Short Stuff: Hisashi Ouchi",
-    "release_date": "2026-09-02 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/667b64ea-8cfc-41ff-aceb-b4b8010d7f86/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "49e69f0d-2223-415d-8127-44a1d33bc2ed",
     "episode_title": "Kobuk the Destroyer",
     "release_date": "2026-09-08 08:00:00",
@@ -140,11 +126,39 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/7g4aLSGEnWOzqiwijwRh2l5G9IEr7H-l_IJ296GtDGs",
-    "episode_title": "#881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  \u2014 Tim McGraw, Terry Crews, Dax Shepard, and More",
-    "release_date": "2026-09-04 10:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "9e77d9d8-97df-4750-a7c6-503e3ed2da9f",
+    "episode_title": "Cost-cutting, quiet guilt and the inflation generation",
+    "release_date": "2026-09-09 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "70775d03-ff2f-4143-9d1b-df6bd2cb60b3",
+    "episode_title": "Trump drinks Venezuela\u2019s milkshake",
+    "release_date": "2026-09-05 00:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/g1H1b-7cauyo3bdjziQ1GIlHU7l2Mt-nM3alKsRixYU",
+    "episode_title": "Angela Duckworth #3 (on bringing out your best)",
+    "release_date": "2026-09-09 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/99b92bec-c886-4c79-8fa9-e5dcfc8a3e4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/kW9deFG0ugDWx5oPaPQFA746LEfWqhhWJvaxqWdw9bU",
+    "episode_title": "Lizzo",
+    "release_date": "2026-09-07 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/MWDq7fBr3WmC3toocPt7GR6i6kmFkVTg55EvEDbZCc0",
+    "episode_title": "Armchair Anonymous: Summer Fling",
+    "release_date": "2026-09-04 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f4aba0eb-77aa-4440-bf86-d14982198cb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/f6M7sDIGoM9WoNUGt3NFp5wazgawXACm6iJoAFUIU_w",
@@ -159,6 +173,27 @@
     "release_date": "2026-09-03 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/f9d3fe17-eb2c-440d-b223-990fed970727.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "749d3ff4-89d4-11f0-b13f-2313dd5644b3",
+    "episode_title": "Fresh Starts: The Moth Radio Hour",
+    "release_date": "2026-09-08 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "75a9a8ba-89d4-11f0-b13f-3309749997db",
+    "episode_title": "Taken by Surprise: The Moth Podcast",
+    "release_date": "2026-09-04 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/7g4aLSGEnWOzqiwijwRh2l5G9IEr7H-l_IJ296GtDGs",
+    "episode_title": "#881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  \u2014 Tim McGraw, Terry Crews, Dax Shepard, and More",
+    "release_date": "2026-09-04 10:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "2b6ecfb3-62f0-4238-a581-474d0da2dbc9",
@@ -180,40 +215,5 @@
     "release_date": "2026-09-07 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "749d3ff4-89d4-11f0-b13f-2313dd5644b3",
-    "episode_title": "Fresh Starts: The Moth Radio Hour",
-    "release_date": "2026-09-08 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "75a9a8ba-89d4-11f0-b13f-3309749997db",
-    "episode_title": "Taken by Surprise: The Moth Podcast",
-    "release_date": "2026-09-04 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/kW9deFG0ugDWx5oPaPQFA746LEfWqhhWJvaxqWdw9bU",
-    "episode_title": "Lizzo",
-    "release_date": "2026-09-07 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/MWDq7fBr3WmC3toocPt7GR6i6kmFkVTg55EvEDbZCc0",
-    "episode_title": "Armchair Anonymous: Summer Fling",
-    "release_date": "2026-09-04 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f4aba0eb-77aa-4440-bf86-d14982198cb4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_X1UbkLbukPWAiZZuoZZyt50EBBU_ZLEbLTh5jtzvns",
-    "episode_title": "Ray Madoff (on how billionaires avoid taxes & threaten capitalism)",
-    "release_date": "2026-09-02 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/618f40e4-0251-41c8-ba12-39d237d7a098.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]
