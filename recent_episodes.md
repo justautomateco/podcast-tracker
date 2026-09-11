@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-10 15:32:56
+Last updated: 2026-09-11 02:12:23
 
 ## Freakonomics Radio
 
@@ -17,24 +17,6 @@ Last updated: 2026-09-10 15:32:56
 **Released:** 2026-09-04 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7dea01e6-48f3-47ae-8527-9fcc879e0df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7dea01e6-48f3-47ae-8527-9fcc879e0df5&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### Cost-cutting, quiet guilt and the inflation generation
-
-**Released:** 2026-09-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
-
----
-
-### Trump drinks Venezuela’s milkshake
-
-**Released:** 2026-09-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
 
 ---
 
@@ -80,6 +62,24 @@ Last updated: 2026-09-10 15:32:56
 
 ---
 
+## Planet Money
+
+### Cost-cutting, quiet guilt and the inflation generation
+
+**Released:** 2026-09-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
+
+---
+
+### Trump drinks Venezuela’s milkshake
+
+**Released:** 2026-09-05 00:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
+
+---
+
 ## This American Life
 
 ### 449: Middle School
@@ -91,6 +91,14 @@ Last updated: 2026-09-10 15:32:56
 ---
 
 ## The Joe Rogan Experience
+
+### #2552 - Ehsan Ahmad & Deric Poston
+
+**Released:** 2026-09-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5341784284.mp3)
+
+---
 
 ### #2551 - Daniel Kokotajlo
 
@@ -105,14 +113,6 @@ Last updated: 2026-09-10 15:32:56
 **Released:** 2026-09-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5567898828.mp3)
-
----
-
-### #2549 - Jared Diamond
-
-**Released:** 2026-09-03 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3310404935.mp3)
 
 ---
 
@@ -144,6 +144,24 @@ Last updated: 2026-09-10 15:32:56
 
 ---
 
+## The Tim Ferriss Show
+
+### #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session)
+
+**Released:** 2026-09-10 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
+
+**Released:** 2026-09-04 10:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Kip Tindell of The Container Store
@@ -159,16 +177,6 @@ Last updated: 2026-09-10 15:32:56
 **Released:** 2026-09-07 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #881: Tales of Overcoming The Odds, and How to Turn Losses Into Wins  — Tim McGraw, Terry Crews, Dax Shepard, and More
-
-**Released:** 2026-09-04 10:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c599888a-c9bb-403c-96a9-b1bb87125ccc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,13 +214,21 @@ Last updated: 2026-09-10 15:32:56
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Andrew Garfield"
+### Fresh Starts: The Moth Radio Hour
 
-**Released:** 2026-09-07 07:01:00
+**Released:** 2026-09-08 04:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
+
+---
+
+### Taken by Surprise: The Moth Podcast
+
+**Released:** 2026-09-04 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066)
 
 ---
 
@@ -242,24 +258,6 @@ Last updated: 2026-09-10 15:32:56
 
 ---
 
-## The Moth
-
-### Fresh Starts: The Moth Radio Hour
-
-**Released:** 2026-09-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
-
----
-
-### Taken by Surprise: The Moth Podcast
-
-**Released:** 2026-09-04 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208758/8208758_2026-04-13-033158.192.mp3?rssID=6066)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Comedy Crimes with Andy Daly
@@ -275,6 +273,16 @@ Last updated: 2026-09-10 15:32:56
 **Released:** 2026-09-07 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Andrew Garfield"
+
+**Released:** 2026-09-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
 
 ---
 
