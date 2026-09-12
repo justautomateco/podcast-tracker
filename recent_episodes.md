@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-11 15:35:00
+Last updated: 2026-09-12 02:18:27
 
 ## Freakonomics Radio
 
@@ -62,6 +62,24 @@ Last updated: 2026-09-11 15:35:00
 
 ---
 
+## Planet Money
+
+### The loan at the heart of a new foreclosure crisis
+
+**Released:** 2026-09-11 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
+
+---
+
+### Cost-cutting, quiet guilt and the inflation generation
+
+**Released:** 2026-09-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
+
+---
+
 ## This American Life
 
 ### 449: Middle School
@@ -98,24 +116,6 @@ Last updated: 2026-09-11 15:35:00
 
 ---
 
-## Planet Money
-
-### Cost-cutting, quiet guilt and the inflation generation
-
-**Released:** 2026-09-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
-
----
-
-### Trump drinks Venezuela’s milkshake
-
-**Released:** 2026-09-05 00:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
-
----
-
 ## Hidden Brain
 
 ### Blowing Up Your Life
@@ -123,6 +123,52 @@ Last updated: 2026-09-11 15:35:00
 **Released:** 2026-09-07 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c0973444-73f2-4f54-98ee-c048d6a0402d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c0973444-73f2-4f54-98ee-c048d6a0402d&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #17: M43 Field Jacket
+
+**Released:** 2026-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
+
+---
+
+### Kobuk the Destroyer
+
+**Released:** 2026-09-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session)
+
+**Released:** 2026-09-10 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## How I Built This
+
+### Advice Line with Kip Tindell of The Container Store
+
+**Released:** 2026-09-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
+
+**Released:** 2026-09-07 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -160,70 +206,6 @@ Last updated: 2026-09-11 15:35:00
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #17: M43 Field Jacket
-
-**Released:** 2026-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
-
----
-
-### Kobuk the Destroyer
-
-**Released:** 2026-09-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Kip Tindell of The Container Store
-
-**Released:** 2026-09-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
-
-**Released:** 2026-09-07 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session)
-
-**Released:** 2026-09-10 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### City of Angels: The Moth Podcast
-
-**Released:** 2026-09-11 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208759/8208759_2026-04-13-033359.192.mp3?rssID=6066)
-
----
-
-### Fresh Starts: The Moth Radio Hour
-
-**Released:** 2026-09-08 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Comedy Crimes with Andy Daly
@@ -239,16 +221,6 @@ Last updated: 2026-09-11 15:35:00
 **Released:** 2026-09-07 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Andrew Garfield"
-
-**Released:** 2026-09-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +247,34 @@ Last updated: 2026-09-11 15:35:00
 **Released:** 2026-09-07 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Andrew Garfield"
+
+**Released:** 2026-09-07 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### City of Angels: The Moth Podcast
+
+**Released:** 2026-09-11 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208759/8208759_2026-04-13-033359.192.mp3?rssID=6066)
+
+---
+
+### Fresh Starts: The Moth Radio Hour
+
+**Released:** 2026-09-08 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
 
 ---
 
