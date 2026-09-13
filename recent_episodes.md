@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-12 14:41:25
+Last updated: 2026-09-13 02:16:02
 
 ## Freakonomics Radio
 
@@ -20,35 +20,15 @@ Last updated: 2026-09-12 14:41:25
 
 ---
 
-## Planet Money
-
-### The loan at the heart of a new foreclosure crisis
-
-**Released:** 2026-09-11 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
-
----
-
-### Cost-cutting, quiet guilt and the inflation generation
-
-**Released:** 2026-09-09 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
-
----
-
-## This American Life
-
-### 449: Middle School
-
-**Released:** 2026-09-06 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
-
----
-
 ## TED Talks Daily
+
+### Why is it so hard for men to open up? A journalist and an entrepreneur answer | Joshua Johnson and Blake Mycoskie
+
+**Released:** 2026-09-12 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bc90b520126fa0ee07e7/media.mp3)
+
+---
 
 ### The gravity-defying future of manufacturing | Schendy Kernizan
 
@@ -82,11 +62,31 @@ Last updated: 2026-09-12 14:41:25
 
 ---
 
-### Every kid needs a champion | Rita Pierson
+## Planet Money
 
-**Released:** 2026-09-07 04:04:00
+### The loan at the heart of a new foreclosure crisis
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a989d32e7a9fe24781ab8fb/media.mp3)
+**Released:** 2026-09-11 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
+
+---
+
+### Cost-cutting, quiet guilt and the inflation generation
+
+**Released:** 2026-09-09 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
+
+---
+
+## This American Life
+
+### 449: Middle School
+
+**Released:** 2026-09-06 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache)
 
 ---
 
@@ -113,24 +113,6 @@ Last updated: 2026-09-12 14:41:25
 **Released:** 2026-09-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5567898828.mp3)
-
----
-
-## 99% Invisible
-
-### 100 Objects #17: M43 Field Jacket
-
-**Released:** 2026-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
-
----
-
-### Kobuk the Destroyer
-
-**Released:** 2026-09-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
 
 ---
 
@@ -178,6 +160,62 @@ Last updated: 2026-09-12 14:41:25
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #17: M43 Field Jacket
+
+**Released:** 2026-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
+
+---
+
+### Kobuk the Destroyer
+
+**Released:** 2026-09-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The Fines
+
+**Released:** 2026-09-10 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Advice Line with Kip Tindell of The Container Store
+
+**Released:** 2026-09-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
+
+**Released:** 2026-09-07 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session)
+
+**Released:** 2026-09-10 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Comedy Crimes with Andy Daly
@@ -196,6 +234,32 @@ Last updated: 2026-09-12 14:41:25
 
 ---
 
+## Armchair Expert
+
+### Armchair Anonymous: Bad Teacher
+
+**Released:** 2026-09-11 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Angela Duckworth #3 (on bringing out your best)
+
+**Released:** 2026-09-09 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99b92bec-c886-4c79-8fa9-e5dcfc8a3e4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Lizzo
+
+**Released:** 2026-09-07 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## The Moth
 
 ### City of Angels: The Moth Podcast
@@ -211,16 +275,6 @@ Last updated: 2026-09-12 14:41:25
 **Released:** 2026-09-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
-
----
-
-## Revisionist History
-
-### The Fines
-
-**Released:** 2026-09-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
