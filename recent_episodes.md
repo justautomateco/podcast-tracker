@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-14 02:33:31
-
-## Freakonomics Radio
-
-### 686. Why Is It So Hard to Find an NFL Quarterback?
-
-**Released:** 2026-09-11 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4)
-
----
-
-### Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person
-
-**Released:** 2026-09-09 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/20454781-44ef-4772-9271-cd89102b14c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=20454781-44ef-4772-9271-cd89102b14c7&feed=Y8lFbOT4)
-
----
+Last updated: 2026-09-14 17:17:35
 
 ## TED Talks Daily
+
+### How AI unleashed (not replaced) my creativity | Kelly A. Boesch
+
+**Released:** 2026-09-14 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa808faa6e9aef4ccb6de56/media.mp3)
+
+---
 
 ### How to turn setbacks into success | Amy Shoenthal
 
@@ -54,11 +44,31 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
-### How bullying spreads — and how social bravery stops it | Amy Cuddy
+## Freakonomics Radio
 
-**Released:** 2026-09-09 15:00:00
+### 686. Why Is It So Hard to Find an NFL Quarterback?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa16c4c156a52f88077296c/media.mp3)
+**Released:** 2026-09-11 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4)
+
+---
+
+### Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person
+
+**Released:** 2026-09-09 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/20454781-44ef-4772-9271-cd89102b14c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=20454781-44ef-4772-9271-cd89102b14c7&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 646: The Secret of My Death
+
+**Released:** 2026-09-13 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
 
 ---
 
@@ -80,17 +90,15 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 646: The Secret of My Death
+### #2553 - Andrew Huberman
 
-**Released:** 2026-09-13 20:00:00
+**Released:** 2026-09-14 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4909015971.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2552 - Ehsan Ahmad & Deric Poston
 
@@ -113,6 +121,34 @@ Last updated: 2026-09-14 02:33:31
 **Released:** 2026-09-08 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5567898828.mp3)
+
+---
+
+## Hidden Brain
+
+### Why Conversations Go Wrong
+
+**Released:** 2026-09-14 15:14:37
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #17: M43 Field Jacket
+
+**Released:** 2026-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
+
+---
+
+### Kobuk the Destroyer
+
+**Released:** 2026-09-08 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
 
 ---
 
@@ -150,52 +186,6 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
-## Hidden Brain
-
-### Blowing Up Your Life
-
-**Released:** 2026-09-07 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c0973444-73f2-4f54-98ee-c048d6a0402d/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c0973444-73f2-4f54-98ee-c048d6a0402d&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #17: M43 Field Jacket
-
-**Released:** 2026-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
-
----
-
-### Kobuk the Destroyer
-
-**Released:** 2026-09-08 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Kip Tindell of The Container Store
-
-**Released:** 2026-09-10 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
-
-**Released:** 2026-09-07 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Fines
@@ -206,7 +196,33 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
+## How I Built This
+
+### Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission
+
+**Released:** 2026-09-14 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Kip Tindell of The Container Store
+
+**Released:** 2026-09-10 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
+
+---
 
 ### Comedy Crimes with Andy Daly
 
@@ -216,35 +232,15 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
-### Matt Groening
-
-**Released:** 2026-09-07 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/22328aa9-59b9-439c-82e5-70c2c426968e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=22328aa9-59b9-439c-82e5-70c2c426968e&feed=dHoohVNH)
-
----
-
-## The Tim Ferriss Show
-
-### #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session)
-
-**Released:** 2026-09-10 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Andrew Garfield"
-
-**Released:** 2026-09-07 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Dave Franco Returns
+
+**Released:** 2026-09-14 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Bad Teacher
 
@@ -262,11 +258,13 @@ Last updated: 2026-09-14 02:33:31
 
 ---
 
-### Lizzo
+## SmartLess 
 
-**Released:** 2026-09-07 07:30:00
+### "Sharon Horgan"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/4e9bf39b-540e-47c9-9a03-94b8f619dbc6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
 
 ---
 
@@ -285,6 +283,16 @@ Last updated: 2026-09-14 02:33:31
 **Released:** 2026-09-08 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066)
+
+---
+
+## The Tim Ferriss Show
+
+### #882: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava
+
+**Released:** 2026-09-10 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
