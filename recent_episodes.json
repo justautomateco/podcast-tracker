@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6aa85891564171e32a3a1d62",
+    "episode_title": "The wiggly wonder of music | Jacob Collier",
+    "release_date": "2026-09-15 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa85891564171e32a3a1d62/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6aa808faa6e9aef4ccb6de56",
     "episode_title": "How AI unleashed (not replaced) my creativity | Kelly A. Boesch",
     "release_date": "2026-09-14 15:00:00",
@@ -42,11 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6aa1bc558ff451bb22255312",
-    "episode_title": "News tells you what happened. Drawing shows you how it felt | George Butler",
-    "release_date": "2026-09-10 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bc558ff451bb22255312/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "43933 at https://www.thisamericanlife.org",
+    "episode_title": "646: The Secret of My Death",
+    "release_date": "2026-09-13 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "e4a2224f-f462-445a-9401-ad628eaee491",
@@ -61,13 +68,6 @@
     "release_date": "2026-09-09 07:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "43933 at https://www.thisamericanlife.org",
-    "episode_title": "646: The Secret of My Death",
-    "release_date": "2026-09-13 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
@@ -105,6 +105,27 @@
     "podcast_name": "Hidden Brain"
   },
   {
+    "guid": "c7e83437-9e12-4108-908a-5ce7a9c688b2",
+    "episode_title": "Doves Type",
+    "release_date": "2026-09-15 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "cb8fed00-ab18-4194-a25c-f675f0a34b28",
+    "episode_title": "100 Objects #17: M43 Field Jacket",
+    "release_date": "2026-09-11 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "71366f25-c214-4f28-81fd-b4c501163bc9",
+    "episode_title": "How Boredom Works",
+    "release_date": "2026-09-15 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/71366f25-c214-4f28-81fd-b4c501163bc9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "7e92cdca-503b-44b2-bdf7-b4bf014bc4ca",
     "episode_title": "Selects: Wasps: Not as cute as bees",
     "release_date": "2026-09-12 09:00:00",
@@ -126,32 +147,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "c269b798-5adf-4fcb-b036-b4ba015fcf7f",
-    "episode_title": "Nickelodeon:The Best of Slimes",
-    "release_date": "2026-09-08 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c269b798-5adf-4fcb-b036-b4ba015fcf7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "cb8fed00-ab18-4194-a25c-f675f0a34b28",
-    "episode_title": "100 Objects #17: M43 Field Jacket",
-    "release_date": "2026-09-11 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "49e69f0d-2223-415d-8127-44a1d33bc2ed",
-    "episode_title": "Kobuk the Destroyer",
-    "release_date": "2026-09-08 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/92600b48-e7e9-4d96-828a-32d95f38e9dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=92600b48-e7e9-4d96-828a-32d95f38e9dd&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
-    "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
-    "release_date": "2026-09-10 20:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "90a01eb0-92aa-439d-a362-b4c0017cc7c1",
+    "episode_title": "The Fines",
+    "release_date": "2026-09-10 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/R0SHJ0rk0-fnK6uLjY6he7feGNoCr6yZpMxWCY1Bzzs",
@@ -168,11 +168,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "90a01eb0-92aa-439d-a362-b4c0017cc7c1",
-    "episode_title": "The Fines",
-    "release_date": "2026-09-10 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
+    "episode_title": "Taylor Tomlinson Returns Again",
+    "release_date": "2026-09-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "76af1962-c7fa-471d-849f-d22b51110d5d",
+    "episode_title": "Comedy Crimes with Andy Daly",
+    "release_date": "2026-09-10 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
@@ -196,11 +203,11 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
-    "episode_title": "\"Sharon Horgan\"",
-    "release_date": "2026-09-14 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "74c30a90-89d4-11f0-b13f-df0a6d331060",
+    "episode_title": "Navigating the Gray: The Moth Radio Hour",
+    "release_date": "2026-09-15 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "75833982-89d4-11f0-b13f-7b2a7ba86986",
@@ -210,24 +217,17 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "749d3ff4-89d4-11f0-b13f-2313dd5644b3",
-    "episode_title": "Fresh Starts: The Moth Radio Hour",
-    "release_date": "2026-09-08 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208766/8208766_2026-04-13-033806.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
+    "episode_title": "\"Sharon Horgan\"",
+    "release_date": "2026-09-14 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
-    "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
-    "episode_title": "Taylor Tomlinson Returns Again",
-    "release_date": "2026-09-14 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "76af1962-c7fa-471d-849f-d22b51110d5d",
-    "episode_title": "Comedy Crimes with Andy Daly",
-    "release_date": "2026-09-10 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
+    "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
+    "release_date": "2026-09-10 20:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
