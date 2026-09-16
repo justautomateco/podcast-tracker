@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-16 02:32:01
+Last updated: 2026-09-16 15:49:23
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-09-16 02:32:01
 ---
 
 ## TED Talks Daily
+
+### Campaigns spend millions to influence voters. This works better | Katie Paris
+
+**Released:** 2026-09-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa80986b54f356fc7aecbd1/media.mp3)
+
+---
 
 ### The wiggly wonder of music | Jacob Collier
 
@@ -54,11 +62,21 @@ Last updated: 2026-09-16 02:32:01
 
 ---
 
-### The gravity-defying future of manufacturing | Schendy Kernizan
+## Planet Money
 
-**Released:** 2026-09-11 15:00:00
+### How investing is getting riskier (Two Indicators)
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bc70b520126fa0edfe70/media.mp3)
+**Released:** 2026-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
+
+---
+
+### The loan at the heart of a new foreclosure crisis
+
+**Released:** 2026-09-11 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
 
 ---
 
@@ -72,21 +90,37 @@ Last updated: 2026-09-16 02:32:01
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### The loan at the heart of a new foreclosure crisis
+### #2554 - Carlo Rovelli
 
-**Released:** 2026-09-11 21:00:00
+**Released:** 2026-09-15 17:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1673171329.mp3)
 
 ---
 
-### Cost-cutting, quiet guilt and the inflation generation
+### #2553 - Andrew Huberman
 
-**Released:** 2026-09-09 07:00:00
+**Released:** 2026-09-14 17:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4909015971.mp3)
+
+---
+
+### #2552 - Ehsan Ahmad & Deric Poston
+
+**Released:** 2026-09-10 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5341784284.mp3)
+
+---
+
+### #2551 - Daniel Kokotajlo
+
+**Released:** 2026-09-09 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087453482.mp3)
 
 ---
 
@@ -120,6 +154,14 @@ Last updated: 2026-09-16 02:32:01
 
 ## Stuff You Should Know
 
+### Short Stuff: Leisure Suits
+
+**Released:** 2026-09-16 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c70373b-0b66-4a10-9650-b4c5011d380d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### How Boredom Works
 
 **Released:** 2026-09-15 09:00:00
@@ -141,14 +183,6 @@ Last updated: 2026-09-16 02:32:01
 **Released:** 2026-09-10 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Flappers
-
-**Released:** 2026-09-09 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0809be36-a919-4170-9fe2-b4bb00d131c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -180,29 +214,13 @@ Last updated: 2026-09-16 02:32:01
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Dave Franco Returns
+### #882: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava
 
-**Released:** 2026-09-14 07:30:00
+**Released:** 2026-09-10 20:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Teacher
-
-**Released:** 2026-09-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Angela Duckworth #3 (on bringing out your best)
-
-**Released:** 2026-09-09 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/99b92bec-c886-4c79-8fa9-e5dcfc8a3e4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,16 +260,6 @@ Last updated: 2026-09-16 02:32:01
 
 ---
 
-## The Tim Ferriss Show
-
-### #882: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava
-
-**Released:** 2026-09-10 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "Sharon Horgan"
@@ -259,6 +267,32 @@ Last updated: 2026-09-16 02:32:01
 **Released:** 2026-09-14 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
+
+---
+
+## Armchair Expert
+
+### Eric Goode (documentary filmmaker)
+
+**Released:** 2026-09-16 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dave Franco Returns
+
+**Released:** 2026-09-14 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Teacher
+
+**Released:** 2026-09-11 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

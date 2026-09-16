@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6aa80986b54f356fc7aecbd1",
+    "episode_title": "Campaigns spend millions to influence voters. This works better | Katie Paris",
+    "release_date": "2026-09-16 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa80986b54f356fc7aecbd1/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6aa85891564171e32a3a1d62",
     "episode_title": "The wiggly wonder of music | Jacob Collier",
     "release_date": "2026-09-15 15:00:00",
@@ -42,18 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6aa1bc70b520126fa0edfe70",
-    "episode_title": "The gravity-defying future of manufacturing | Schendy Kernizan",
-    "release_date": "2026-09-11 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bc70b520126fa0edfe70/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "43933 at https://www.thisamericanlife.org",
-    "episode_title": "646: The Secret of My Death",
-    "release_date": "2026-09-13 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
-    "podcast_name": "This American Life"
+    "guid": "1dadb75e-d29b-400a-bb49-f6df18e28213",
+    "episode_title": "How investing is getting riskier (Two Indicators)",
+    "release_date": "2026-09-16 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "e4a2224f-f462-445a-9401-ad628eaee491",
@@ -63,11 +63,39 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "9e77d9d8-97df-4750-a7c6-503e3ed2da9f",
-    "episode_title": "Cost-cutting, quiet guilt and the inflation generation",
-    "release_date": "2026-09-09 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487",
-    "podcast_name": "Planet Money"
+    "guid": "43933 at https://www.thisamericanlife.org",
+    "episode_title": "646: The Secret of My Death",
+    "release_date": "2026-09-13 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "78761fec-b0ac-11f1-bdd6-2b4a2c138356",
+    "episode_title": "#2554 - Carlo Rovelli",
+    "release_date": "2026-09-15 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1673171329.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
+    "episode_title": "#2553 - Andrew Huberman",
+    "release_date": "2026-09-14 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4909015971.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "41147402-acd5-11f1-ae8e-bb792e6b1e3d",
+    "episode_title": "#2552 - Ehsan Ahmad & Deric Poston",
+    "release_date": "2026-09-10 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT5341784284.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "4a7504f8-abd6-11f1-922a-8727e0ad3325",
+    "episode_title": "#2551 - Daniel Kokotajlo",
+    "release_date": "2026-09-09 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7087453482.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
@@ -91,6 +119,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "9c70373b-0b66-4a10-9650-b4c5011d380d",
+    "episode_title": "Short Stuff: Leisure Suits",
+    "release_date": "2026-09-16 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c70373b-0b66-4a10-9650-b4c5011d380d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "71366f25-c214-4f28-81fd-b4c501163bc9",
     "episode_title": "How Boredom Works",
     "release_date": "2026-09-15 09:00:00",
@@ -109,13 +144,6 @@
     "episode_title": "The Odyssey Episode",
     "release_date": "2026-09-10 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "0809be36-a919-4170-9fe2-b4bb00d131c1",
-    "episode_title": "Short Stuff: Flappers",
-    "release_date": "2026-09-09 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0809be36-a919-4170-9fe2-b4bb00d131c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
   },
   {
@@ -140,25 +168,11 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
-    "episode_title": "Dave Franco Returns",
-    "release_date": "2026-09-14 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_MPPd3d6lMXUXnmmue_0S5mMf0h-NvSqQWxvVoOB9EM",
-    "episode_title": "Armchair Anonymous: Bad Teacher",
-    "release_date": "2026-09-11 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/g1H1b-7cauyo3bdjziQ1GIlHU7l2Mt-nM3alKsRixYU",
-    "episode_title": "Angela Duckworth #3 (on bringing out your best)",
-    "release_date": "2026-09-09 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/99b92bec-c886-4c79-8fa9-e5dcfc8a3e4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
+    "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
+    "release_date": "2026-09-10 20:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
@@ -189,17 +203,31 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
-    "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
-    "release_date": "2026-09-10 20:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
     "episode_title": "\"Sharon Horgan\"",
     "release_date": "2026-09-14 07:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/PmFETg-qvBPzdfKOml7yT8dEuFEE9z8K53x6Toyew0U",
+    "episode_title": "Eric Goode (documentary filmmaker)",
+    "release_date": "2026-09-16 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
+    "episode_title": "Dave Franco Returns",
+    "release_date": "2026-09-14 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_MPPd3d6lMXUXnmmue_0S5mMf0h-NvSqQWxvVoOB9EM",
+    "episode_title": "Armchair Anonymous: Bad Teacher",
+    "release_date": "2026-09-11 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
