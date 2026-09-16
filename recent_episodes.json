@@ -1,16 +1,16 @@
 [
   {
+    "guid": "75093d30-0cd5-40e4-bfbe-e6505eed3b47",
+    "episode_title": "How to Be a Double Unicorn, with John Urschel | Better in Person",
+    "release_date": "2026-09-16 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "bd579fc0-f3a0-4575-b0f0-af1ea7dde92d",
     "episode_title": "686. Why Is It So Hard to Find an NFL Quarterback?",
     "release_date": "2026-09-11 10:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "2403167d-b4b1-41b5-83e5-1391ef060eaa",
-    "episode_title": "Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person",
-    "release_date": "2026-09-09 00:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/20454781-44ef-4772-9271-cd89102b14c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=20454781-44ef-4772-9271-cd89102b14c7&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
   },
   {
@@ -70,34 +70,6 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
-    "episode_title": "#2553 - Andrew Huberman",
-    "release_date": "2026-09-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4909015971.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "41147402-acd5-11f1-ae8e-bb792e6b1e3d",
-    "episode_title": "#2552 - Ehsan Ahmad & Deric Poston",
-    "release_date": "2026-09-10 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "4a7504f8-abd6-11f1-922a-8727e0ad3325",
-    "episode_title": "#2551 - Daniel Kokotajlo",
-    "release_date": "2026-09-09 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "3b71cc92-ab23-11f1-bc29-3ba1f2c16d91",
-    "episode_title": "#2550 - Rick Springfield",
-    "release_date": "2026-09-08 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5567898828.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
     "episode_title": "Why Conversations Go Wrong",
     "release_date": "2026-09-14 15:14:37",
@@ -147,13 +119,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "90a01eb0-92aa-439d-a362-b4c0017cc7c1",
-    "episode_title": "The Fines",
-    "release_date": "2026-09-10 04:01:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/R0SHJ0rk0-fnK6uLjY6he7feGNoCr6yZpMxWCY1Bzzs",
     "episode_title": "Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission",
     "release_date": "2026-09-14 07:10:00",
@@ -168,18 +133,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
-    "episode_title": "Taylor Tomlinson Returns Again",
-    "release_date": "2026-09-14 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "76af1962-c7fa-471d-849f-d22b51110d5d",
-    "episode_title": "Comedy Crimes with Andy Daly",
-    "release_date": "2026-09-10 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "90a01eb0-92aa-439d-a362-b4c0017cc7c1",
+    "episode_title": "The Fines",
+    "release_date": "2026-09-10 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
@@ -203,6 +161,20 @@
     "podcast_name": "Armchair Expert"
   },
   {
+    "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
+    "episode_title": "Taylor Tomlinson Returns Again",
+    "release_date": "2026-09-14 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "76af1962-c7fa-471d-849f-d22b51110d5d",
+    "episode_title": "Comedy Crimes with Andy Daly",
+    "release_date": "2026-09-10 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "74c30a90-89d4-11f0-b13f-df0a6d331060",
     "episode_title": "Navigating the Gray: The Moth Radio Hour",
     "release_date": "2026-09-15 04:25:00",
@@ -217,17 +189,17 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
-    "episode_title": "\"Sharon Horgan\"",
-    "release_date": "2026-09-14 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
     "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
     "release_date": "2026-09-10 20:30:00",
     "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
+    "episode_title": "\"Sharon Horgan\"",
+    "release_date": "2026-09-14 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]

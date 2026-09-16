@@ -1,22 +1,22 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-15 15:56:49
+Last updated: 2026-09-16 02:32:01
 
 ## Freakonomics Radio
+
+### How to Be a Double Unicorn, with John Urschel | Better in Person
+
+**Released:** 2026-09-16 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
+
+---
 
 ### 686. Why Is It So Hard to Find an NFL Quarterback?
 
 **Released:** 2026-09-11 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4)
-
----
-
-### Amazon Was Supposed to Kill the Bookstore. James Daunt Had Other Plans | Better in Person
-
-**Released:** 2026-09-09 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/20454781-44ef-4772-9271-cd89102b14c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=20454781-44ef-4772-9271-cd89102b14c7&feed=Y8lFbOT4)
 
 ---
 
@@ -90,40 +90,6 @@ Last updated: 2026-09-15 15:56:49
 
 ---
 
-## The Joe Rogan Experience
-
-### #2553 - Andrew Huberman
-
-**Released:** 2026-09-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4909015971.mp3)
-
----
-
-### #2552 - Ehsan Ahmad & Deric Poston
-
-**Released:** 2026-09-10 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5341784284.mp3)
-
----
-
-### #2551 - Daniel Kokotajlo
-
-**Released:** 2026-09-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087453482.mp3)
-
----
-
-### #2550 - Rick Springfield
-
-**Released:** 2026-09-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5567898828.mp3)
-
----
-
 ## Hidden Brain
 
 ### Why Conversations Go Wrong
@@ -186,16 +152,6 @@ Last updated: 2026-09-15 15:56:49
 
 ---
 
-## Revisionist History
-
-### The Fines
-
-**Released:** 2026-09-10 04:01:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission
@@ -214,21 +170,13 @@ Last updated: 2026-09-15 15:56:49
 
 ---
 
-## Conan O'Brien Needs A Friend
+## Revisionist History
 
-### Taylor Tomlinson Returns Again
+### The Fines
 
-**Released:** 2026-09-14 04:05:00
+**Released:** 2026-09-10 04:01:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
-
----
-
-### Comedy Crimes with Andy Daly
-
-**Released:** 2026-09-10 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/90a01eb0-92aa-439d-a362-b4c0017cc7c1/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -258,6 +206,24 @@ Last updated: 2026-09-15 15:56:49
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
+
+---
+
+### Comedy Crimes with Andy Daly
+
+**Released:** 2026-09-10 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/907c54f7-3cd8-4a9c-912a-f3a0ba6167c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=907c54f7-3cd8-4a9c-912a-f3a0ba6167c4&feed=dHoohVNH)
+
+---
+
 ## The Moth
 
 ### Navigating the Gray: The Moth Radio Hour
@@ -276,16 +242,6 @@ Last updated: 2026-09-15 15:56:49
 
 ---
 
-## SmartLess 
-
-### "Sharon Horgan"
-
-**Released:** 2026-09-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #882: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava
@@ -293,6 +249,16 @@ Last updated: 2026-09-15 15:56:49
 **Released:** 2026-09-10 20:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Sharon Horgan"
+
+**Released:** 2026-09-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
 
 ---
 
