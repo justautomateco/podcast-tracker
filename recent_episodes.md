@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-16 15:49:23
+Last updated: 2026-09-17 02:36:00
 
 ## Freakonomics Radio
 
@@ -62,6 +62,16 @@ Last updated: 2026-09-16 15:49:23
 
 ---
 
+## This American Life
+
+### 646: The Secret of My Death
+
+**Released:** 2026-09-13 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
+
+---
+
 ## Planet Money
 
 ### How investing is getting riskier (Two Indicators)
@@ -80,17 +90,15 @@ Last updated: 2026-09-16 15:49:23
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 646: The Secret of My Death
+### #2555 - Ron White
 
-**Released:** 2026-09-13 20:00:00
+**Released:** 2026-09-16 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
 
 ---
-
-## The Joe Rogan Experience
 
 ### #2554 - Carlo Rovelli
 
@@ -116,14 +124,6 @@ Last updated: 2026-09-16 15:49:23
 
 ---
 
-### #2551 - Daniel Kokotajlo
-
-**Released:** 2026-09-09 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7087453482.mp3)
-
----
-
 ## Hidden Brain
 
 ### Why Conversations Go Wrong
@@ -131,24 +131,6 @@ Last updated: 2026-09-16 15:49:23
 **Released:** 2026-09-14 15:14:37
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Doves Type
-
-**Released:** 2026-09-15 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
-
----
-
-### 100 Objects #17: M43 Field Jacket
-
-**Released:** 2026-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
 
 ---
 
@@ -183,6 +165,24 @@ Last updated: 2026-09-16 15:49:23
 **Released:** 2026-09-10 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### Doves Type
+
+**Released:** 2026-09-15 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #17: M43 Field Jacket
+
+**Released:** 2026-09-11 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
 
 ---
 

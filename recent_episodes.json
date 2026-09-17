@@ -49,6 +49,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "43933 at https://www.thisamericanlife.org",
+    "episode_title": "646: The Secret of My Death",
+    "release_date": "2026-09-13 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "1dadb75e-d29b-400a-bb49-f6df18e28213",
     "episode_title": "How investing is getting riskier (Two Indicators)",
     "release_date": "2026-09-16 07:00:00",
@@ -63,11 +70,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "43933 at https://www.thisamericanlife.org",
-    "episode_title": "646: The Secret of My Death",
-    "release_date": "2026-09-13 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
-    "podcast_name": "This American Life"
+    "guid": "33ba0998-b176-11f1-a5c0-6b85186c4a35",
+    "episode_title": "#2555 - Ron White",
+    "release_date": "2026-09-16 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3641124128.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "78761fec-b0ac-11f1-bdd6-2b4a2c138356",
@@ -91,32 +98,11 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "4a7504f8-abd6-11f1-922a-8727e0ad3325",
-    "episode_title": "#2551 - Daniel Kokotajlo",
-    "release_date": "2026-09-09 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
     "episode_title": "Why Conversations Go Wrong",
     "release_date": "2026-09-14 15:14:37",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "c7e83437-9e12-4108-908a-5ce7a9c688b2",
-    "episode_title": "Doves Type",
-    "release_date": "2026-09-15 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "cb8fed00-ab18-4194-a25c-f675f0a34b28",
-    "episode_title": "100 Objects #17: M43 Field Jacket",
-    "release_date": "2026-09-11 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "9c70373b-0b66-4a10-9650-b4c5011d380d",
@@ -145,6 +131,20 @@
     "release_date": "2026-09-10 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "c7e83437-9e12-4108-908a-5ce7a9c688b2",
+    "episode_title": "Doves Type",
+    "release_date": "2026-09-15 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "cb8fed00-ab18-4194-a25c-f675f0a34b28",
+    "episode_title": "100 Objects #17: M43 Field Jacket",
+    "release_date": "2026-09-11 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "gid://art19-episode-locator/V0/R0SHJ0rk0-fnK6uLjY6he7feGNoCr6yZpMxWCY1Bzzs",
