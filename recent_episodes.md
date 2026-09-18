@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-18 02:23:04
+Last updated: 2026-09-18 15:29:57
 
 ## Freakonomics Radio
+
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
+
+**Released:** 2026-09-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
+
+---
 
 ### How to Be a Double Unicorn, with John Urschel | Better in Person
 
@@ -12,15 +20,15 @@ Last updated: 2026-09-18 02:23:04
 
 ---
 
-### 686. Why Is It So Hard to Find an NFL Quarterback?
+## TED Talks Daily
 
-**Released:** 2026-09-11 10:00:00
+### How to make AI companies pay your energy bill | Ari Matusiak
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/2df955ca-2dbc-4d61-859e-8c4b7c637a40/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=2df955ca-2dbc-4d61-859e-8c4b7c637a40&feed=Y8lFbOT4)
+**Released:** 2026-09-18 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aabff67fa2bb1bafe272880/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to use tech to outsmart dictators | Leopoldo López
 
@@ -51,14 +59,6 @@ Last updated: 2026-09-18 02:23:04
 **Released:** 2026-09-14 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa808faa6e9aef4ccb6de56/media.mp3)
-
----
-
-### How to turn setbacks into success | Amy Shoenthal
-
-**Released:** 2026-09-13 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1bcfe156a52f880976343/media.mp3)
 
 ---
 
@@ -128,6 +128,14 @@ Last updated: 2026-09-18 02:23:04
 
 ## 99% Invisible
 
+### 100 Objects #18: Hair Relaxer
+
+**Released:** 2026-09-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
+
+---
+
 ### Doves Type
 
 **Released:** 2026-09-15 08:00:00
@@ -136,45 +144,45 @@ Last updated: 2026-09-18 02:23:04
 
 ---
 
-### 100 Objects #17: M43 Field Jacket
-
-**Released:** 2026-09-11 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
-### The Cancer Episode
+### SYSK Gets Weird Playlist: What is Collective Hysteria?
 
-**Released:** 2026-09-17 09:00:00
+**Released:** 2026-09-18 09:10:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d41bf835-c1e0-4a40-8cd1-b4c501250942/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: Leisure Suits
-
-**Released:** 2026-09-16 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c70373b-0b66-4a10-9650-b4c5011d380d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### How Boredom Works
+### SYSK Gets Weird Playlist: What was the Philadelphia Experiment?
 
-**Released:** 2026-09-15 09:00:00
+**Released:** 2026-09-18 09:09:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/71366f25-c214-4f28-81fd-b4c501163bc9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
-### Selects: Wasps: Not as cute as bees
+### SYSK Gets Weird Playlist: Mermaids: Not a real thing
 
-**Released:** 2026-09-12 09:00:00
+**Released:** 2026-09-18 09:07:00
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7e92cdca-503b-44b2-bdf7-b4bf014bc4ca/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK Gets Weird Playlist: Will We Find Evidence of Aliens by Their Engineering Projects?
+
+**Released:** 2026-09-18 09:06:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cf331d01-4a27-43a0-86bf-b4c8014ce34e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+### SYSK Gets Weird Playlist: The Mystery of the Mary Celeste
+
+**Released:** 2026-09-18 09:05:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3a545ea-5bfd-48ad-b717-b4c8014ce348/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -196,50 +204,6 @@ Last updated: 2026-09-18 02:23:04
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d53308a-4a30-437a-b127-1a9312f6ce76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d53308a-4a30-437a-b127-1a9312f6ce76&feed=dHoohVNH)
-
----
-
-### Taylor Tomlinson Returns Again
-
-**Released:** 2026-09-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Eric Goode (documentary filmmaker)
-
-**Released:** 2026-09-16 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dave Franco Returns
-
-**Released:** 2026-09-14 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Teacher
-
-**Released:** 2026-09-11 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## SmartLess 
 
 ### "RE-RELEASE: Matthew Rhys"
@@ -258,7 +222,33 @@ Last updated: 2026-09-18 02:23:04
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d53308a-4a30-437a-b127-1a9312f6ce76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d53308a-4a30-437a-b127-1a9312f6ce76&feed=dHoohVNH)
+
+---
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
+
+---
+
 ## The Moth
+
+### Coming Home: The Moth Podcast
+
+**Released:** 2026-09-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
+
+---
 
 ### Navigating the Gray: The Moth Radio Hour
 
@@ -268,11 +258,29 @@ Last updated: 2026-09-18 02:23:04
 
 ---
 
-### City of Angels: The Moth Podcast
+## Armchair Expert
 
-**Released:** 2026-09-11 04:25:00
+### Armchair Anonymous: Crazy Gym II
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208759/8208759_2026-04-13-033359.192.mp3?rssID=6066)
+**Released:** 2026-09-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Eric Goode (documentary filmmaker)
+
+**Released:** 2026-09-16 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Dave Franco Returns
+
+**Released:** 2026-09-14 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
