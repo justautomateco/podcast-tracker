@@ -14,55 +14,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "33ba0998-b176-11f1-a5c0-6b85186c4a35",
-    "episode_title": "#2555 - Ron White",
-    "release_date": "2026-09-16 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3641124128.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "78761fec-b0ac-11f1-bdd6-2b4a2c138356",
-    "episode_title": "#2554 - Carlo Rovelli",
-    "release_date": "2026-09-15 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1673171329.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
-    "episode_title": "#2553 - Andrew Huberman",
-    "release_date": "2026-09-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4909015971.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "41147402-acd5-11f1-ae8e-bb792e6b1e3d",
-    "episode_title": "#2552 - Ehsan Ahmad & Deric Poston",
-    "release_date": "2026-09-10 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5341784284.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "43933 at https://www.thisamericanlife.org",
-    "episode_title": "646: The Secret of My Death",
-    "release_date": "2026-09-13 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "1dadb75e-d29b-400a-bb49-f6df18e28213",
-    "episode_title": "How investing is getting riskier (Two Indicators)",
-    "release_date": "2026-09-16 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e4a2224f-f462-445a-9401-ad628eaee491",
-    "episode_title": "The loan at the heart of a new foreclosure crisis",
-    "release_date": "2026-09-11 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "6aaabba7fce2f88226cec482",
     "episode_title": "How to use tech to outsmart dictators | Leopoldo L\u00f3pez",
     "release_date": "2026-09-17 15:00:00",
@@ -98,6 +49,55 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "1dadb75e-d29b-400a-bb49-f6df18e28213",
+    "episode_title": "How investing is getting riskier (Two Indicators)",
+    "release_date": "2026-09-16 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e4a2224f-f462-445a-9401-ad628eaee491",
+    "episode_title": "The loan at the heart of a new foreclosure crisis",
+    "release_date": "2026-09-11 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "43933 at https://www.thisamericanlife.org",
+    "episode_title": "646: The Secret of My Death",
+    "release_date": "2026-09-13 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "33ba0998-b176-11f1-a5c0-6b85186c4a35",
+    "episode_title": "#2555 - Ron White",
+    "release_date": "2026-09-16 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3641124128.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "78761fec-b0ac-11f1-bdd6-2b4a2c138356",
+    "episode_title": "#2554 - Carlo Rovelli",
+    "release_date": "2026-09-15 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1673171329.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
+    "episode_title": "#2553 - Andrew Huberman",
+    "release_date": "2026-09-14 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT4909015971.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
+    "episode_title": "Why Conversations Go Wrong",
+    "release_date": "2026-09-14 15:14:37",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "c7e83437-9e12-4108-908a-5ce7a9c688b2",
     "episode_title": "Doves Type",
     "release_date": "2026-09-15 08:00:00",
@@ -110,13 +110,6 @@
     "release_date": "2026-09-11 07:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/91cf8312-172d-4480-ab07-81aede89c100/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=91cf8312-172d-4480-ab07-81aede89c100&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
-    "episode_title": "Why Conversations Go Wrong",
-    "release_date": "2026-09-14 15:14:37",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "d41bf835-c1e0-4a40-8cd1-b4c501250942",
@@ -161,20 +154,6 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "618e51d8-5816-40a3-9dbf-b4c70115eafa",
-    "episode_title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
-    "release_date": "2026-09-17 04:30:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
-    "episode_title": "#882: How to Teach a 3-Year-Old to Read and Rethinking Education \u2014 Tim Coaches Niels Hoven of Mentava",
-    "release_date": "2026-09-10 20:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "f73acdc3-543d-468d-a81b-037ebb202bed",
     "episode_title": "The Body Politic Part I",
     "release_date": "2026-09-17 04:05:00",
@@ -187,6 +166,27 @@
     "release_date": "2026-09-14 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/PmFETg-qvBPzdfKOml7yT8dEuFEE9z8K53x6Toyew0U",
+    "episode_title": "Eric Goode (documentary filmmaker)",
+    "release_date": "2026-09-16 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
+    "episode_title": "Dave Franco Returns",
+    "release_date": "2026-09-14 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/_MPPd3d6lMXUXnmmue_0S5mMf0h-NvSqQWxvVoOB9EM",
+    "episode_title": "Armchair Anonymous: Bad Teacher",
+    "release_date": "2026-09-11 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
@@ -215,26 +215,5 @@
     "release_date": "2026-09-11 04:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208759/8208759_2026-04-13-033359.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/PmFETg-qvBPzdfKOml7yT8dEuFEE9z8K53x6Toyew0U",
-    "episode_title": "Eric Goode (documentary filmmaker)",
-    "release_date": "2026-09-16 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
-    "episode_title": "Dave Franco Returns",
-    "release_date": "2026-09-14 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_MPPd3d6lMXUXnmmue_0S5mMf0h-NvSqQWxvVoOB9EM",
-    "episode_title": "Armchair Anonymous: Bad Teacher",
-    "release_date": "2026-09-11 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/dadfc4d5-6dee-4675-9b94-3ac6859fcb6a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]
