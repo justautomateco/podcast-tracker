@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-18 15:29:57
-
-## Freakonomics Radio
-
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
-
-**Released:** 2026-09-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
-
----
-
-### How to Be a Double Unicorn, with John Urschel | Better in Person
-
-**Released:** 2026-09-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
-
----
+Last updated: 2026-09-19 02:23:44
 
 ## TED Talks Daily
 
@@ -62,21 +44,21 @@ Last updated: 2026-09-18 15:29:57
 
 ---
 
-## Planet Money
+## Freakonomics Radio
 
-### How investing is getting riskier (Two Indicators)
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
 
-**Released:** 2026-09-16 07:00:00
+**Released:** 2026-09-18 10:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
 
 ---
 
-### The loan at the heart of a new foreclosure crisis
+### How to Be a Double Unicorn, with John Urschel | Better in Person
 
-**Released:** 2026-09-11 21:00:00
+**Released:** 2026-09-16 00:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
 
 ---
 
@@ -87,6 +69,24 @@ Last updated: 2026-09-18 15:29:57
 **Released:** 2026-09-13 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
+
+---
+
+## Planet Money
+
+### The Domino’s Pizza Tracker Theory of Everything
+
+**Released:** 2026-09-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+
+---
+
+### How investing is getting riskier (Two Indicators)
+
+**Released:** 2026-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
 
 ---
 
@@ -123,24 +123,6 @@ Last updated: 2026-09-18 15:29:57
 **Released:** 2026-09-14 15:14:37
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #18: Hair Relaxer
-
-**Released:** 2026-09-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
-
----
-
-### Doves Type
-
-**Released:** 2026-09-15 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
 
 ---
 
@@ -186,6 +168,24 @@ Last updated: 2026-09-18 15:29:57
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #18: Hair Relaxer
+
+**Released:** 2026-09-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
+
+---
+
+### Doves Type
+
+**Released:** 2026-09-15 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Michelle Wahler of Beyond Yoga
@@ -204,57 +204,13 @@ Last updated: 2026-09-18 15:29:57
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "RE-RELEASE: Matthew Rhys"
+### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
 
-**Released:** 2026-09-17 07:00:00
+**Released:** 2026-09-18 19:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
-
----
-
-### "Sharon Horgan"
-
-**Released:** 2026-09-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d53308a-4a30-437a-b127-1a9312f6ce76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d53308a-4a30-437a-b127-1a9312f6ce76&feed=dHoohVNH)
-
----
-
-### Taylor Tomlinson Returns Again
-
-**Released:** 2026-09-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Coming Home: The Moth Podcast
-
-**Released:** 2026-09-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
-
----
-
-### Navigating the Gray: The Moth Radio Hour
-
-**Released:** 2026-09-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -281,6 +237,60 @@ Last updated: 2026-09-18 15:29:57
 **Released:** 2026-09-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Coming Home: The Moth Podcast
+
+**Released:** 2026-09-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
+
+---
+
+### Navigating the Gray: The Moth Radio Hour
+
+**Released:** 2026-09-15 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d53308a-4a30-437a-b127-1a9312f6ce76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d53308a-4a30-437a-b127-1a9312f6ce76&feed=dHoohVNH)
+
+---
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+### "Sharon Horgan"
+
+**Released:** 2026-09-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
 
 ---
 
