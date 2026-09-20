@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-19 15:04:35
-
-## Freakonomics Radio
-
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
-
-**Released:** 2026-09-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
-
----
-
-### How to Be a Double Unicorn, with John Urschel | Better in Person
-
-**Released:** 2026-09-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
-
----
+Last updated: 2026-09-20 02:33:30
 
 ## TED Talks Daily
+
+### How tech will (and won't) replace your doctor | Zack Abbott and Dhruv Khullar
+
+**Released:** 2026-09-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aad5d477aa361c6129253f0/media.mp3)
+
+---
 
 ### How to make AI companies pay your energy bill | Ari Matusiak
 
@@ -54,29 +44,21 @@ Last updated: 2026-09-19 15:04:35
 
 ---
 
-### How AI unleashed (not replaced) my creativity | Kelly A. Boesch
+## Freakonomics Radio
 
-**Released:** 2026-09-14 15:00:00
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa808faa6e9aef4ccb6de56/media.mp3)
+**Released:** 2026-09-18 10:00:00
 
----
-
-## Planet Money
-
-### The Domino’s Pizza Tracker Theory of Everything
-
-**Released:** 2026-09-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
 
 ---
 
-### How investing is getting riskier (Two Indicators)
+### How to Be a Double Unicorn, with John Urschel | Better in Person
 
-**Released:** 2026-09-16 07:00:00
+**Released:** 2026-09-16 00:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
 
 ---
 
@@ -116,13 +98,21 @@ Last updated: 2026-09-19 15:04:35
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Why Conversations Go Wrong
+### The Domino’s Pizza Tracker Theory of Everything
 
-**Released:** 2026-09-14 15:14:37
+**Released:** 2026-09-18 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+
+---
+
+### How investing is getting riskier (Two Indicators)
+
+**Released:** 2026-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
 
 ---
 
@@ -165,6 +155,16 @@ Last updated: 2026-09-19 15:04:35
 **Released:** 2026-09-18 09:06:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cf331d01-4a27-43a0-86bf-b4c8014ce34e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## Hidden Brain
+
+### Why Conversations Go Wrong
+
+**Released:** 2026-09-14 15:14:37
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
 
 ---
 
@@ -224,6 +224,24 @@ Last updated: 2026-09-19 15:04:35
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
+
+---
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222304/default.mp3)
+
+---
+
 ## SmartLess 
 
 ### "RE-RELEASE: Matthew Rhys"
@@ -242,21 +260,21 @@ Last updated: 2026-09-19 15:04:35
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Moth
 
-### The Body Politic Part I
+### Coming Home: The Moth Podcast
 
-**Released:** 2026-09-17 04:05:00
+**Released:** 2026-09-18 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9d53308a-4a30-437a-b127-1a9312f6ce76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9d53308a-4a30-437a-b127-1a9312f6ce76&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
 
 ---
 
-### Taylor Tomlinson Returns Again
+### Navigating the Gray: The Moth Radio Hour
 
-**Released:** 2026-09-14 04:05:00
+**Released:** 2026-09-15 04:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/b08585be-3e8a-4dc8-8cb9-6ddb128df9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=b08585be-3e8a-4dc8-8cb9-6ddb128df9f4&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066)
 
 ---
 
@@ -283,24 +301,6 @@ Last updated: 2026-09-19 15:04:35
 **Released:** 2026-09-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Coming Home: The Moth Podcast
-
-**Released:** 2026-09-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
-
----
-
-### Navigating the Gray: The Moth Radio Hour
-
-**Released:** 2026-09-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066)
 
 ---
 
