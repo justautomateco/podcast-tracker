@@ -1,8 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-20 02:33:30
+Last updated: 2026-09-20 15:08:40
+
+## Freakonomics Radio
+
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
+
+**Released:** 2026-09-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
+
+---
+
+### How to Be a Double Unicorn, with John Urschel | Better in Person
+
+**Released:** 2026-09-16 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### The secret to mastering life's biggest transitions | Bruce Feiler
+
+**Released:** 2026-09-20 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aac27f78a1508074dc11ad1/media.mp3)
+
+---
 
 ### How tech will (and won't) replace your doctor | Zack Abbott and Dhruv Khullar
 
@@ -36,32 +62,6 @@ Last updated: 2026-09-20 02:33:30
 
 ---
 
-### The wiggly wonder of music | Jacob Collier
-
-**Released:** 2026-09-15 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa85891564171e32a3a1d62/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
-
-**Released:** 2026-09-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
-
----
-
-### How to Be a Double Unicorn, with John Urschel | Better in Person
-
-**Released:** 2026-09-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
-
----
-
 ## This American Life
 
 ### 646: The Secret of My Death
@@ -69,6 +69,24 @@ Last updated: 2026-09-20 02:33:30
 **Released:** 2026-09-13 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
+
+---
+
+## Planet Money
+
+### The Domino’s Pizza Tracker Theory of Everything
+
+**Released:** 2026-09-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+
+---
+
+### How investing is getting riskier (Two Indicators)
+
+**Released:** 2026-09-16 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
 
 ---
 
@@ -98,21 +116,31 @@ Last updated: 2026-09-20 02:33:30
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### The Domino’s Pizza Tracker Theory of Everything
+### Why Conversations Go Wrong
 
-**Released:** 2026-09-18 20:00:00
+**Released:** 2026-09-14 15:14:37
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
 
 ---
 
-### How investing is getting riskier (Two Indicators)
+## 99% Invisible
 
-**Released:** 2026-09-16 07:00:00
+### 100 Objects #18: Hair Relaxer
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
+**Released:** 2026-09-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
+
+---
+
+### Doves Type
+
+**Released:** 2026-09-15 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
 
 ---
 
@@ -158,31 +186,23 @@ Last updated: 2026-09-20 02:33:30
 
 ---
 
-## Hidden Brain
+## The Tim Ferriss Show
 
-### Why Conversations Go Wrong
+### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
 
-**Released:** 2026-09-14 15:14:37
+**Released:** 2026-09-18 19:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #18: Hair Relaxer
-
-**Released:** 2026-09-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Doves Type
+## Revisionist History
 
-**Released:** 2026-09-15 08:00:00
+### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
+**Released:** 2026-09-17 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -201,62 +221,6 @@ Last updated: 2026-09-20 02:33:30
 **Released:** 2026-09-14 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
-
-**Released:** 2026-09-17 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
-
-**Released:** 2026-09-18 19:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
-
----
-
-### Taylor Tomlinson Returns Again
-
-**Released:** 2026-09-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222304/default.mp3)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Matthew Rhys"
-
-**Released:** 2026-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
-
----
-
-### "Sharon Horgan"
-
-**Released:** 2026-09-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
 
 ---
 
@@ -301,6 +265,42 @@ Last updated: 2026-09-20 02:33:30
 **Released:** 2026-09-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+### "Sharon Horgan"
+
+**Released:** 2026-09-14 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
+
+---
+
+### Taylor Tomlinson Returns Again
+
+**Released:** 2026-09-14 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222304/default.mp3)
 
 ---
 
