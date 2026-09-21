@@ -14,6 +14,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6ab144561faf37ef045db6c9",
+    "episode_title": "How to clean up the world's dirtiest industry | Joojin Kim",
+    "release_date": "2026-09-21 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab144561faf37ef045db6c9/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6aac27f78a1508074dc11ad1",
     "episode_title": "The secret to mastering life's biggest transitions | Bruce Feiler",
     "release_date": "2026-09-20 06:00:00",
@@ -39,13 +46,6 @@
     "episode_title": "How to use tech to outsmart dictators | Leopoldo L\u00f3pez",
     "release_date": "2026-09-17 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aaabba7fce2f88226cec482/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6aa80986b54f356fc7aecbd1",
-    "episode_title": "Campaigns spend millions to influence voters. This works better | Katie Paris",
-    "release_date": "2026-09-16 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa80986b54f356fc7aecbd1/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -84,17 +84,10 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "019e9130-afb5-11f1-ba2a-77da5f707852",
-    "episode_title": "#2553 - Andrew Huberman",
-    "release_date": "2026-09-14 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT4909015971.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "66172720-ae9f-4d8e-911c-d71cb88c7d98",
-    "episode_title": "Why Conversations Go Wrong",
-    "release_date": "2026-09-14 15:14:37",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf",
+    "guid": "6db8e638-e67f-448e-a75f-99f65fc41037",
+    "episode_title": "How to Make a Difference: Part 1",
+    "release_date": "2026-09-21 15:21:37",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
   },
   {
@@ -147,6 +140,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI",
+    "episode_title": "#883: How to Legalize Medical Psychedelics in Your Country \u2014 Tania de Jong on The Playbook Behind Australia's World-First Breakthrough",
+    "release_date": "2026-09-18 19:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "618e51d8-5816-40a3-9dbf-b4c70115eafa",
     "episode_title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
     "release_date": "2026-09-17 04:30:00",
@@ -154,11 +154,11 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI",
-    "episode_title": "#883: How to Legalize Medical Psychedelics in Your Country \u2014 Tania de Jong on The Playbook Behind Australia's World-First Breakthrough",
-    "release_date": "2026-09-18 19:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/ILOOIWfzPTNlgpl6nV8a-X7cUtwPWUg2OoITySa5wno",
+    "episode_title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+    "release_date": "2026-09-21 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/UuM5ckFBAGuU9ZX7vFF6uzdt0j1ngc29AEjqB-t36Dk",
@@ -168,11 +168,32 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/R0SHJ0rk0-fnK6uLjY6he7feGNoCr6yZpMxWCY1Bzzs",
-    "episode_title": "Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission",
-    "release_date": "2026-09-14 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
+    "episode_title": "\"Benny Blanco\"",
+    "release_date": "2026-09-21 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
+    "episode_title": "\"RE-RELEASE: Matthew Rhys\"",
+    "release_date": "2026-09-17 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "002c26c7-e453-48d2-9483-22ed9c4a2523",
+    "episode_title": "Joel McHale Returns",
+    "release_date": "2026-09-21 04:05:00",
+    "mp3_url": "https://api.spreaker.com/download/episode/75272768/default.mp3",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "f73acdc3-543d-468d-a81b-037ebb202bed",
+    "episode_title": "The Body Politic Part I",
+    "release_date": "2026-09-17 04:05:00",
+    "mp3_url": "https://api.spreaker.com/download/episode/75222302/default.mp3",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "755c53e4-89d4-11f0-b13f-571d5293a03f",
@@ -189,32 +210,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "f73acdc3-543d-468d-a81b-037ebb202bed",
-    "episode_title": "The Body Politic Part I",
-    "release_date": "2026-09-17 04:05:00",
-    "mp3_url": "https://api.spreaker.com/download/episode/75222302/default.mp3",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "0d90b022-7d7a-4159-9015-3e0bbafc69a9",
-    "episode_title": "Taylor Tomlinson Returns Again",
-    "release_date": "2026-09-14 04:05:00",
-    "mp3_url": "https://api.spreaker.com/download/episode/75222304/default.mp3",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
-    "episode_title": "\"RE-RELEASE: Matthew Rhys\"",
-    "release_date": "2026-09-17 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "af033106-cf3c-4f0a-8e78-789eb935844d",
-    "episode_title": "\"Sharon Horgan\"",
-    "release_date": "2026-09-14 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/eEKLU91odnYMZho8bH_W5qO19F1fqbgCdaeg5zZhNvg",
+    "episode_title": "Joey King Returns",
+    "release_date": "2026-09-21 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/l9IfxdMdGD6-eRO6tZSxkf1q7DVh07swabt3uhBHzW4",
@@ -228,13 +228,6 @@
     "episode_title": "Eric Goode (documentary filmmaker)",
     "release_date": "2026-09-16 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/_pnV3vBCv5ei3uT88cP7202KCQRzYJO1LMY_X0BHE1k",
-    "episode_title": "Dave Franco Returns",
-    "release_date": "2026-09-14 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]

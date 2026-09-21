@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-21 02:30:59
+Last updated: 2026-09-21 17:29:55
 
 ## Freakonomics Radio
 
@@ -21,6 +21,14 @@ Last updated: 2026-09-21 02:30:59
 ---
 
 ## TED Talks Daily
+
+### How to clean up the world's dirtiest industry | Joojin Kim
+
+**Released:** 2026-09-21 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab144561faf37ef045db6c9/media.mp3)
+
+---
 
 ### The secret to mastering life's biggest transitions | Bruce Feiler
 
@@ -51,14 +59,6 @@ Last updated: 2026-09-21 02:30:59
 **Released:** 2026-09-17 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aaabba7fce2f88226cec482/media.mp3)
-
----
-
-### Campaigns spend millions to influence voters. This works better | Katie Paris
-
-**Released:** 2026-09-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa80986b54f356fc7aecbd1/media.mp3)
 
 ---
 
@@ -108,21 +108,13 @@ Last updated: 2026-09-21 02:30:59
 
 ---
 
-### #2553 - Andrew Huberman
-
-**Released:** 2026-09-14 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT4909015971.mp3)
-
----
-
 ## Hidden Brain
 
-### Why Conversations Go Wrong
+### How to Make a Difference: Part 1
 
-**Released:** 2026-09-14 15:14:37
+**Released:** 2026-09-21 15:21:37
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf)
 
 ---
 
@@ -186,16 +178,6 @@ Last updated: 2026-09-21 02:30:59
 
 ---
 
-## Revisionist History
-
-### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
-
-**Released:** 2026-09-17 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
@@ -206,7 +188,25 @@ Last updated: 2026-09-21 02:30:59
 
 ---
 
+## Revisionist History
+
+### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
+
+**Released:** 2026-09-17 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
+
+### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
+
+**Released:** 2026-09-21 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Advice Line with Michelle Wahler of Beyond Yoga
 
@@ -216,11 +216,39 @@ Last updated: 2026-09-21 02:30:59
 
 ---
 
-### Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission
+## SmartLess 
 
-**Released:** 2026-09-14 07:10:00
+### "Benny Blanco"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Joel McHale Returns
+
+**Released:** 2026-09-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
+
+---
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
 
 ---
 
@@ -242,43 +270,15 @@ Last updated: 2026-09-21 02:30:59
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
-
----
-
-### Taylor Tomlinson Returns Again
-
-**Released:** 2026-09-14 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222304/default.mp3)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Matthew Rhys"
-
-**Released:** 2026-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
-
----
-
-### "Sharon Horgan"
-
-**Released:** 2026-09-14 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5a397483-cf5d-4ebb-a340-ffafc30ceacd/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5a397483-cf5d-4ebb-a340-ffafc30ceacd&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Joey King Returns
+
+**Released:** 2026-09-21 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Crazy Gym II
 
@@ -293,14 +293,6 @@ Last updated: 2026-09-21 02:30:59
 **Released:** 2026-09-16 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Dave Franco Returns
-
-**Released:** 2026-09-14 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/50b3a1aa-37df-4fba-b299-cf714df1d31a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
