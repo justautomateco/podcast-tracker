@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-22 02:33:45
+Last updated: 2026-09-22 15:59:07
 
 ## Freakonomics Radio
 
@@ -20,7 +20,25 @@ Last updated: 2026-09-22 02:33:45
 
 ---
 
+## This American Life
+
+### 897: Intergenerational Space Travel
+
+**Released:** 2026-09-20 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache)
+
+---
+
 ## TED Talks Daily
+
+### What makes a good game? | Eric Zimmerman
+
+**Released:** 2026-09-22 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2943d93749e4c0b45afec/media.mp3)
+
+---
 
 ### How to clean up the world's dirtiest industry | Joojin Kim
 
@@ -54,21 +72,21 @@ Last updated: 2026-09-22 02:33:45
 
 ---
 
-### How to use tech to outsmart dictators | Leopoldo López
+## The Joe Rogan Experience
 
-**Released:** 2026-09-17 15:00:00
+### #2555 - Ron White
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aaabba7fce2f88226cec482/media.mp3)
+**Released:** 2026-09-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
 
 ---
 
-## This American Life
+### #2554 - Carlo Rovelli
 
-### 897: Intergenerational Space Travel
+**Released:** 2026-09-15 17:00:00
 
-**Released:** 2026-09-20 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1673171329.mp3)
 
 ---
 
@@ -90,24 +108,6 @@ Last updated: 2026-09-22 02:33:45
 
 ---
 
-## The Joe Rogan Experience
-
-### #2555 - Ron White
-
-**Released:** 2026-09-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
-
----
-
-### #2554 - Carlo Rovelli
-
-**Released:** 2026-09-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1673171329.mp3)
-
----
-
 ## Hidden Brain
 
 ### How to Make a Difference: Part 1
@@ -118,25 +118,15 @@ Last updated: 2026-09-22 02:33:45
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #18: Hair Relaxer
-
-**Released:** 2026-09-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
-
----
-
-### Doves Type
-
-**Released:** 2026-09-15 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3be4ab0f-e536-4480-b33b-054d22189281/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3be4ab0f-e536-4480-b33b-054d22189281&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Our Big Fat Dream Episode
+
+**Released:** 2026-09-22 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Fallout Shelters: Probably Useless (Let’s Never Find Out)
 
@@ -170,11 +160,21 @@ Last updated: 2026-09-22 02:33:45
 
 ---
 
-### SYSK Gets Weird Playlist: Will We Find Evidence of Aliens by Their Engineering Projects?
+## 99% Invisible
 
-**Released:** 2026-09-18 09:06:00
+### The Rocky Statue
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cf331d01-4a27-43a0-86bf-b4c8014ce34e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-22 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #18: Hair Relaxer
+
+**Released:** 2026-09-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
 
 ---
 
@@ -185,16 +185,6 @@ Last updated: 2026-09-22 02:33:45
 **Released:** 2026-09-18 19:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
-
-**Released:** 2026-09-17 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -213,60 +203,6 @@ Last updated: 2026-09-22 02:33:45
 **Released:** 2026-09-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Coming Home: The Moth Podcast
-
-**Released:** 2026-09-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
-
----
-
-### Navigating the Gray: The Moth Radio Hour
-
-**Released:** 2026-09-15 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208765/8208765_2026-04-13-033605.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Joel McHale Returns
-
-**Released:** 2026-09-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
-
----
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
-
----
-
-## SmartLess 
-
-### "Benny Blanco"
-
-**Released:** 2026-09-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Matthew Rhys"
-
-**Released:** 2026-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +229,70 @@ Last updated: 2026-09-22 02:33:45
 **Released:** 2026-09-16 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+## Revisionist History
+
+### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
+
+**Released:** 2026-09-17 04:30:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Moth
+
+### Puppets, Pastors & Secret Agents: The Moth Radio Hour
+
+**Released:** 2026-09-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
+
+---
+
+### Coming Home: The Moth Podcast
+
+**Released:** 2026-09-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Joel McHale Returns
+
+**Released:** 2026-09-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
+
+---
+
+### The Body Politic Part I
+
+**Released:** 2026-09-17 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
 
 ---
 
