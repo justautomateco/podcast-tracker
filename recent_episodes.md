@@ -1,34 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-22 15:59:07
-
-## Freakonomics Radio
-
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
-
-**Released:** 2026-09-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
-
----
-
-### How to Be a Double Unicorn, with John Urschel | Better in Person
-
-**Released:** 2026-09-16 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 897: Intergenerational Space Travel
-
-**Released:** 2026-09-20 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache)
-
----
+Last updated: 2026-09-23 02:33:54
 
 ## TED Talks Daily
 
@@ -72,21 +44,13 @@ Last updated: 2026-09-22 15:59:07
 
 ---
 
-## The Joe Rogan Experience
+## Freakonomics Radio
 
-### #2555 - Ron White
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
 
-**Released:** 2026-09-16 17:00:00
+**Released:** 2026-09-18 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
-
----
-
-### #2554 - Carlo Rovelli
-
-**Released:** 2026-09-15 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1673171329.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
 
 ---
 
@@ -108,6 +72,34 @@ Last updated: 2026-09-22 15:59:07
 
 ---
 
+## This American Life
+
+### 897: Intergenerational Space Travel
+
+**Released:** 2026-09-20 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2556 - Siddharth Kara
+
+**Released:** 2026-09-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
+
+---
+
+### #2555 - Ron White
+
+**Released:** 2026-09-16 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
+
+---
+
 ## Hidden Brain
 
 ### How to Make a Difference: Part 1
@@ -115,6 +107,24 @@ Last updated: 2026-09-22 15:59:07
 **Released:** 2026-09-21 15:21:37
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Rocky Statue
+
+**Released:** 2026-09-22 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #18: Hair Relaxer
+
+**Released:** 2026-09-18 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
 
 ---
 
@@ -160,24 +170,6 @@ Last updated: 2026-09-22 15:59:07
 
 ---
 
-## 99% Invisible
-
-### The Rocky Statue
-
-**Released:** 2026-09-22 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
-
----
-
-### 100 Objects #18: Hair Relaxer
-
-**Released:** 2026-09-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
-
----
-
 ## The Tim Ferriss Show
 
 ### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
@@ -206,29 +198,21 @@ Last updated: 2026-09-22 15:59:07
 
 ---
 
-## Armchair Expert
+## Revisionist History
 
-### Joey King Returns
+### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
 
-**Released:** 2026-09-21 07:30:00
+**Released:** 2026-09-22 16:03:32
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Crazy Gym II
-
-**Released:** 2026-09-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
-### Eric Goode (documentary filmmaker)
+### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
 
-**Released:** 2026-09-16 07:30:00
+**Released:** 2026-09-17 04:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -247,16 +231,6 @@ Last updated: 2026-09-22 15:59:07
 **Released:** 2026-09-17 07:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
-
----
-
-## Revisionist History
-
-### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
-
-**Released:** 2026-09-17 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -293,6 +267,32 @@ Last updated: 2026-09-22 15:59:07
 **Released:** 2026-09-17 04:05:00
 
 **Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
+
+---
+
+## Armchair Expert
+
+### Joey King Returns
+
+**Released:** 2026-09-21 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Crazy Gym II
+
+**Released:** 2026-09-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Eric Goode (documentary filmmaker)
+
+**Released:** 2026-09-16 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
