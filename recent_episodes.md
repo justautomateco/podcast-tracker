@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-23 02:33:54
+Last updated: 2026-09-23 15:49:32
+
+## Freakonomics Radio
+
+### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
+
+**Released:** 2026-09-18 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### Why we blew up a dam — and saved a river | Amy Bowers Cordalis
+
+**Released:** 2026-09-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2ac6ab8c4cddd7564032e/media.mp3)
+
+---
 
 ### What makes a good game? | Eric Zimmerman
 
@@ -36,42 +54,6 @@ Last updated: 2026-09-23 02:33:54
 
 ---
 
-### How to make AI companies pay your energy bill | Ari Matusiak
-
-**Released:** 2026-09-18 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aabff67fa2bb1bafe272880/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
-
-**Released:** 2026-09-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### The Domino’s Pizza Tracker Theory of Everything
-
-**Released:** 2026-09-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
-
----
-
-### How investing is getting riskier (Two Indicators)
-
-**Released:** 2026-09-16 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127)
-
----
-
 ## This American Life
 
 ### 897: Intergenerational Space Travel
@@ -82,21 +64,21 @@ Last updated: 2026-09-23 02:33:54
 
 ---
 
-## The Joe Rogan Experience
+## Planet Money
 
-### #2556 - Siddharth Kara
+### Is our national debt finally too much? (update)
 
-**Released:** 2026-09-22 17:00:00
+**Released:** 2026-09-23 07:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
 
 ---
 
-### #2555 - Ron White
+### The Domino’s Pizza Tracker Theory of Everything
 
-**Released:** 2026-09-16 17:00:00
+**Released:** 2026-09-18 20:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
 
 ---
 
@@ -130,6 +112,14 @@ Last updated: 2026-09-23 02:33:54
 
 ## Stuff You Should Know
 
+### Short Stuff: Mabon
+
+**Released:** 2026-09-23 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Our Big Fat Dream Episode
 
 **Released:** 2026-09-22 09:00:00
@@ -162,39 +152,21 @@ Last updated: 2026-09-23 02:33:54
 
 ---
 
-### SYSK Gets Weird Playlist: Mermaids: Not a real thing
+## The Joe Rogan Experience
 
-**Released:** 2026-09-18 09:07:00
+### #2556 - Siddharth Kara
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-22 17:00:00
 
----
-
-## The Tim Ferriss Show
-
-### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
-
-**Released:** 2026-09-18 19:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
 
 ---
 
-## How I Built This
+### #2555 - Ron White
 
-### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
+**Released:** 2026-09-16 17:00:00
 
-**Released:** 2026-09-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Michelle Wahler of Beyond Yoga
-
-**Released:** 2026-09-17 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
 
 ---
 
@@ -216,21 +188,47 @@ Last updated: 2026-09-23 02:33:54
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Benny Blanco"
+### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
 
-**Released:** 2026-09-21 07:01:00
+**Released:** 2026-09-21 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "RE-RELEASE: Matthew Rhys"
+### Advice Line with Michelle Wahler of Beyond Yoga
 
-**Released:** 2026-09-17 07:00:00
+**Released:** 2026-09-17 07:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Ben Lamm (on de-extinction)
+
+**Released:** 2026-09-23 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Joey King Returns
+
+**Released:** 2026-09-21 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Crazy Gym II
+
+**Released:** 2026-09-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -252,6 +250,34 @@ Last updated: 2026-09-23 02:33:54
 
 ---
 
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #883: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia's World-First Breakthrough
+
+**Released:** 2026-09-18 19:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Joel McHale Returns
@@ -267,32 +293,6 @@ Last updated: 2026-09-23 02:33:54
 **Released:** 2026-09-17 04:05:00
 
 **Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
-
----
-
-## Armchair Expert
-
-### Joey King Returns
-
-**Released:** 2026-09-21 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Crazy Gym II
-
-**Released:** 2026-09-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Eric Goode (documentary filmmaker)
-
-**Released:** 2026-09-16 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/18242480-e9e8-4305-83af-06cf02fda426.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
