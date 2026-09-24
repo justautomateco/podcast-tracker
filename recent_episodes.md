@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-23 15:49:32
+Last updated: 2026-09-24 02:23:03
 
 ## Freakonomics Radio
 
@@ -14,7 +14,7 @@ Last updated: 2026-09-23 15:49:32
 
 ## TED Talks Daily
 
-### Why we blew up a dam — and saved a river | Amy Bowers Cordalis
+### Why we blew up four dams — and saved a river | Amy Bowers Cordalis
 
 **Released:** 2026-09-23 15:00:00
 
@@ -110,6 +110,24 @@ Last updated: 2026-09-23 15:49:32
 
 ---
 
+## The Joe Rogan Experience
+
+### #2557 - Yakov Smirnoff
+
+**Released:** 2026-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
+
+---
+
+### #2556 - Siddharth Kara
+
+**Released:** 2026-09-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
+
+---
+
 ## Stuff You Should Know
 
 ### Short Stuff: Mabon
@@ -152,42 +170,6 @@ Last updated: 2026-09-23 15:49:32
 
 ---
 
-## The Joe Rogan Experience
-
-### #2556 - Siddharth Kara
-
-**Released:** 2026-09-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
-
----
-
-### #2555 - Ron White
-
-**Released:** 2026-09-16 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3641124128.mp3)
-
----
-
-## Revisionist History
-
-### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
-
-**Released:** 2026-09-22 16:03:32
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War
-
-**Released:** 2026-09-17 04:30:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
@@ -203,68 +185,6 @@ Last updated: 2026-09-23 15:49:32
 **Released:** 2026-09-17 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Ben Lamm (on de-extinction)
-
-**Released:** 2026-09-23 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Joey King Returns
-
-**Released:** 2026-09-21 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Crazy Gym II
-
-**Released:** 2026-09-18 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Puppets, Pastors & Secret Agents: The Moth Radio Hour
-
-**Released:** 2026-09-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
-
----
-
-### Coming Home: The Moth Podcast
-
-**Released:** 2026-09-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Benny Blanco"
-
-**Released:** 2026-09-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Matthew Rhys"
-
-**Released:** 2026-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
 
 ---
 
@@ -293,6 +213,68 @@ Last updated: 2026-09-23 15:49:32
 **Released:** 2026-09-17 04:05:00
 
 **Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
+
+---
+
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Matthew Rhys"
+
+**Released:** 2026-09-17 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Puppets, Pastors & Secret Agents: The Moth Radio Hour
+
+**Released:** 2026-09-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
+
+---
+
+### Coming Home: The Moth Podcast
+
+**Released:** 2026-09-18 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
+
+---
+
+## Armchair Expert
+
+### Ben Lamm (on de-extinction)
+
+**Released:** 2026-09-23 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Joey King Returns
+
+**Released:** 2026-09-21 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Crazy Gym II
+
+**Released:** 2026-09-18 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

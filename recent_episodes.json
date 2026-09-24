@@ -8,7 +8,7 @@
   },
   {
     "guid": "6ab2ac6ab8c4cddd7564032e",
-    "episode_title": "Why we blew up a dam \u2014 and saved a river | Amy Bowers Cordalis",
+    "episode_title": "Why we blew up four dams \u2014 and saved a river | Amy Bowers Cordalis",
     "release_date": "2026-09-23 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2ac6ab8c4cddd7564032e/media.mp3",
     "podcast_name": "TED Talks Daily"
@@ -84,6 +84,20 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "1f5f9bec-b6e0-11f1-928a-2f1012a42d65",
+    "episode_title": "#2557 - Yakov Smirnoff",
+    "release_date": "2026-09-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1399685644.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "36952024-b60a-11f1-903c-771baa11d490",
+    "episode_title": "#2556 - Siddharth Kara",
+    "release_date": "2026-09-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "129204ba-0422-4ccc-8c91-b4cd01501379",
     "episode_title": "Short Stuff: Mabon",
     "release_date": "2026-09-23 09:00:00",
@@ -119,34 +133,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "36952024-b60a-11f1-903c-771baa11d490",
-    "episode_title": "#2556 - Siddharth Kara",
-    "release_date": "2026-09-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6395368742.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "33ba0998-b176-11f1-a5c0-6b85186c4a35",
-    "episode_title": "#2555 - Ron White",
-    "release_date": "2026-09-16 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT3641124128.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06",
-    "episode_title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
-    "release_date": "2026-09-22 16:03:32",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "618e51d8-5816-40a3-9dbf-b4c70115eafa",
-    "episode_title": "A Dollop Crossover | Ben Naddaff-Hafrey on Staten Island and the Revolutionary War",
-    "release_date": "2026-09-17 04:30:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/618e51d8-5816-40a3-9dbf-b4c70115eafa/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/ILOOIWfzPTNlgpl6nV8a-X7cUtwPWUg2OoITySa5wno",
     "episode_title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
     "release_date": "2026-09-21 07:10:00",
@@ -159,55 +145,6 @@
     "release_date": "2026-09-17 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/7m8UgcNGYwmu2m4sPkYDK6ImzOtOygA51tBYqHFNGOI",
-    "episode_title": "Ben Lamm (on de-extinction)",
-    "release_date": "2026-09-23 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/eEKLU91odnYMZho8bH_W5qO19F1fqbgCdaeg5zZhNvg",
-    "episode_title": "Joey King Returns",
-    "release_date": "2026-09-21 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/l9IfxdMdGD6-eRO6tZSxkf1q7DVh07swabt3uhBHzW4",
-    "episode_title": "Armchair Anonymous: Crazy Gym II",
-    "release_date": "2026-09-18 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "74e901e6-89d4-11f0-b13f-17e0d9b13611",
-    "episode_title": "Puppets, Pastors & Secret Agents: The Moth Radio Hour",
-    "release_date": "2026-09-22 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "755c53e4-89d4-11f0-b13f-571d5293a03f",
-    "episode_title": "Coming Home: The Moth Podcast",
-    "release_date": "2026-09-18 04:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
-    "episode_title": "\"Benny Blanco\"",
-    "release_date": "2026-09-21 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
-    "episode_title": "\"RE-RELEASE: Matthew Rhys\"",
-    "release_date": "2026-09-17 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI",
@@ -229,5 +166,54 @@
     "release_date": "2026-09-17 04:05:00",
     "mp3_url": "https://api.spreaker.com/download/episode/75222302/default.mp3",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
+    "episode_title": "\"Benny Blanco\"",
+    "release_date": "2026-09-21 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
+    "episode_title": "\"RE-RELEASE: Matthew Rhys\"",
+    "release_date": "2026-09-17 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "74e901e6-89d4-11f0-b13f-17e0d9b13611",
+    "episode_title": "Puppets, Pastors & Secret Agents: The Moth Radio Hour",
+    "release_date": "2026-09-22 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "755c53e4-89d4-11f0-b13f-571d5293a03f",
+    "episode_title": "Coming Home: The Moth Podcast",
+    "release_date": "2026-09-18 04:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/7m8UgcNGYwmu2m4sPkYDK6ImzOtOygA51tBYqHFNGOI",
+    "episode_title": "Ben Lamm (on de-extinction)",
+    "release_date": "2026-09-23 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/eEKLU91odnYMZho8bH_W5qO19F1fqbgCdaeg5zZhNvg",
+    "episode_title": "Joey King Returns",
+    "release_date": "2026-09-21 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/l9IfxdMdGD6-eRO6tZSxkf1q7DVh07swabt3uhBHzW4",
+    "episode_title": "Armchair Anonymous: Crazy Gym II",
+    "release_date": "2026-09-18 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
