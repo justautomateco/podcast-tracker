@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6ab2addff161207303061e85",
+    "episode_title": "Inside the \"play labs\" helping refugee kids heal | Erum Mariam",
+    "release_date": "2026-09-24 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2addff161207303061e85/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6ab2ac6ab8c4cddd7564032e",
     "episode_title": "Why we blew up four dams \u2014 and saved a river | Amy Bowers Cordalis",
     "release_date": "2026-09-23 15:00:00",
@@ -35,13 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6aad5d477aa361c6129253f0",
-    "episode_title": "How tech will (and won't) replace your doctor | Zack Abbott and Dhruv Khullar",
-    "release_date": "2026-09-19 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aad5d477aa361c6129253f0/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "46224 at https://www.thisamericanlife.org",
     "episode_title": "897: Intergenerational Space Travel",
     "release_date": "2026-09-20 20:00:00",
@@ -61,6 +61,20 @@
     "release_date": "2026-09-18 20:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "1f5f9bec-b6e0-11f1-928a-2f1012a42d65",
+    "episode_title": "#2557 - Yakov Smirnoff",
+    "release_date": "2026-09-23 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1399685644.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "36952024-b60a-11f1-903c-771baa11d490",
+    "episode_title": "#2556 - Siddharth Kara",
+    "release_date": "2026-09-22 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "6db8e638-e67f-448e-a75f-99f65fc41037",
@@ -84,18 +98,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "1f5f9bec-b6e0-11f1-928a-2f1012a42d65",
-    "episode_title": "#2557 - Yakov Smirnoff",
-    "release_date": "2026-09-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1399685644.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "36952024-b60a-11f1-903c-771baa11d490",
-    "episode_title": "#2556 - Siddharth Kara",
-    "release_date": "2026-09-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6395368742.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "9c65a2b6-5710-4ffe-863a-b4cc01219456",
+    "episode_title": "Emily Post: Ettiquette Queen",
+    "release_date": "2026-09-24 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c65a2b6-5710-4ffe-863a-b4cc01219456/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "129204ba-0422-4ccc-8c91-b4cd01501379",
@@ -126,11 +133,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "c736e655-1b03-4f28-932a-b4c8014ce349",
-    "episode_title": "SYSK Gets Weird Playlist: What was the Philadelphia Experiment?",
-    "release_date": "2026-09-18 09:09:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/QJEXX-b2jX0aWElLym--cYFMPFhi8TFmkI4BAbgCjok",
+    "episode_title": "Advice Line with Danny Meyer of Shake Shack",
+    "release_date": "2026-09-24 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "gid://art19-episode-locator/V0/ILOOIWfzPTNlgpl6nV8a-X7cUtwPWUg2OoITySa5wno",
@@ -140,11 +147,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/UuM5ckFBAGuU9ZX7vFF6uzdt0j1ngc29AEjqB-t36Dk",
-    "episode_title": "Advice Line with Michelle Wahler of Beyond Yoga",
-    "release_date": "2026-09-17 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "aa3e81f8-0bfa-446c-a173-b4ce015524c0",
+    "episode_title": "The Invention of an Epidemic",
+    "release_date": "2026-09-24 04:01:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/aa3e81f8-0bfa-446c-a173-b4ce015524c0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06",
+    "episode_title": "President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America",
+    "release_date": "2026-09-22 16:03:32",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI",
@@ -152,34 +166,6 @@
     "release_date": "2026-09-18 19:30:00",
     "mp3_url": "https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "002c26c7-e453-48d2-9483-22ed9c4a2523",
-    "episode_title": "Joel McHale Returns",
-    "release_date": "2026-09-21 04:05:00",
-    "mp3_url": "https://api.spreaker.com/download/episode/75272768/default.mp3",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f73acdc3-543d-468d-a81b-037ebb202bed",
-    "episode_title": "The Body Politic Part I",
-    "release_date": "2026-09-17 04:05:00",
-    "mp3_url": "https://api.spreaker.com/download/episode/75222302/default.mp3",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
-    "episode_title": "\"Benny Blanco\"",
-    "release_date": "2026-09-21 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "2e0dc94b-26d9-4135-994a-cc7a84263b3d",
-    "episode_title": "\"RE-RELEASE: Matthew Rhys\"",
-    "release_date": "2026-09-17 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "74e901e6-89d4-11f0-b13f-17e0d9b13611",
@@ -215,5 +201,26 @@
     "release_date": "2026-09-18 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
+    "episode_title": "\"Benny Blanco\"",
+    "release_date": "2026-09-21 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "f9ff6778-fdf7-4261-97db-f0cc913b8262",
+    "episode_title": "The Body Politic Part II",
+    "release_date": "2026-09-24 04:05:00",
+    "mp3_url": "https://api.spreaker.com/download/episode/75326049/default.mp3",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "002c26c7-e453-48d2-9483-22ed9c4a2523",
+    "episode_title": "Joel McHale Returns",
+    "release_date": "2026-09-21 04:05:00",
+    "mp3_url": "https://api.spreaker.com/download/episode/75272768/default.mp3",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   }
 ]

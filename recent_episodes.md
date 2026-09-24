@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-24 02:23:03
+Last updated: 2026-09-24 16:11:25
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-09-24 02:23:03
 ---
 
 ## TED Talks Daily
+
+### Inside the "play labs" helping refugee kids heal | Erum Mariam
+
+**Released:** 2026-09-24 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2addff161207303061e85/media.mp3)
+
+---
 
 ### Why we blew up four dams — and saved a river | Amy Bowers Cordalis
 
@@ -46,14 +54,6 @@ Last updated: 2026-09-24 02:23:03
 
 ---
 
-### How tech will (and won't) replace your doctor | Zack Abbott and Dhruv Khullar
-
-**Released:** 2026-09-19 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aad5d477aa361c6129253f0/media.mp3)
-
----
-
 ## This American Life
 
 ### 897: Intergenerational Space Travel
@@ -79,6 +79,24 @@ Last updated: 2026-09-24 02:23:03
 **Released:** 2026-09-18 20:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025)
+
+---
+
+## The Joe Rogan Experience
+
+### #2557 - Yakov Smirnoff
+
+**Released:** 2026-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
+
+---
+
+### #2556 - Siddharth Kara
+
+**Released:** 2026-09-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
 
 ---
 
@@ -110,25 +128,15 @@ Last updated: 2026-09-24 02:23:03
 
 ---
 
-## The Joe Rogan Experience
-
-### #2557 - Yakov Smirnoff
-
-**Released:** 2026-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
-
----
-
-### #2556 - Siddharth Kara
-
-**Released:** 2026-09-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
-
----
-
 ## Stuff You Should Know
+
+### Emily Post: Ettiquette Queen
+
+**Released:** 2026-09-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c65a2b6-5710-4ffe-863a-b4cc01219456/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Mabon
 
@@ -162,15 +170,15 @@ Last updated: 2026-09-24 02:23:03
 
 ---
 
-### SYSK Gets Weird Playlist: What was the Philadelphia Experiment?
+## How I Built This
 
-**Released:** 2026-09-18 09:09:00
+### Advice Line with Danny Meyer of Shake Shack
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## How I Built This
 
 ### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
 
@@ -180,11 +188,21 @@ Last updated: 2026-09-24 02:23:03
 
 ---
 
-### Advice Line with Michelle Wahler of Beyond Yoga
+## Revisionist History
 
-**Released:** 2026-09-17 07:10:00
+### The Invention of an Epidemic
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-24 04:01:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/aa3e81f8-0bfa-446c-a173-b4ce015524c0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
+
+**Released:** 2026-09-22 16:03:32
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -195,42 +213,6 @@ Last updated: 2026-09-24 02:23:03
 **Released:** 2026-09-18 19:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8226a13e-77b3-4f59-98af-384d22ce645e.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Joel McHale Returns
-
-**Released:** 2026-09-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
-
----
-
-### The Body Politic Part I
-
-**Released:** 2026-09-17 04:05:00
-
-**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75222302/default.mp3)
-
----
-
-## SmartLess 
-
-### "Benny Blanco"
-
-**Released:** 2026-09-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Matthew Rhys"
-
-**Released:** 2026-09-17 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/e94e629c-95de-4726-9dc5-0b356d1c2a3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=e94e629c-95de-4726-9dc5-0b356d1c2a3c&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +257,34 @@ Last updated: 2026-09-24 02:23:03
 **Released:** 2026-09-18 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### The Body Politic Part II
+
+**Released:** 2026-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75326049/default.mp3)
+
+---
+
+### Joel McHale Returns
+
+**Released:** 2026-09-21 04:05:00
+
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
 
 ---
 
