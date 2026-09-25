@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-25 02:40:18
+Last updated: 2026-09-25 16:11:55
 
 ## Freakonomics Radio
 
-### 687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?
+### 688. When Is a Bet Not a Bet?
 
-**Released:** 2026-09-18 10:00:00
+**Released:** 2026-09-25 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/0df0bf2f-fb40-4add-902f-7e35c486c728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=0df0bf2f-fb40-4add-902f-7e35c486c728&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7cc6e44c-25e8-43a6-907e-778ba898d728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7cc6e44c-25e8-43a6-907e-778ba898d728&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### I thought I was lazy. Turns out I had a sleep disorder | Lindsay Scola
+
+**Released:** 2026-09-25 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aaab0b85d36baebf101ad4d/media.mp3)
+
+---
 
 ### Inside the "play labs" helping refugee kids heal | Erum Mariam
 
@@ -46,14 +54,6 @@ Last updated: 2026-09-25 02:40:18
 
 ---
 
-### The secret to mastering life's biggest transitions | Bruce Feiler
-
-**Released:** 2026-09-20 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aac27f78a1508074dc11ad1/media.mp3)
-
----
-
 ## This American Life
 
 ### 897: Intergenerational Space Travel
@@ -82,6 +82,16 @@ Last updated: 2026-09-25 02:40:18
 
 ---
 
+## Hidden Brain
+
+### How to Make a Difference: Part 1
+
+**Released:** 2026-09-21 15:21:37
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2558 - Tyler Engle
@@ -105,34 +115,6 @@ Last updated: 2026-09-25 02:40:18
 **Released:** 2026-09-22 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
-
----
-
-## Hidden Brain
-
-### How to Make a Difference: Part 1
-
-**Released:** 2026-09-21 15:21:37
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Rocky Statue
-
-**Released:** 2026-09-22 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
-
----
-
-### 100 Objects #18: Hair Relaxer
-
-**Released:** 2026-09-18 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/bf1fd77a-fd16-40a2-a8f0-6472be31d24f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=bf1fd77a-fd16-40a2-a8f0-6472be31d24f&feed=BqbsxVfO)
 
 ---
 
@@ -170,11 +152,21 @@ Last updated: 2026-09-25 02:40:18
 
 ---
 
-### SYSK Gets Weird Playlist: What is Collective Hysteria?
+## 99% Invisible
 
-**Released:** 2026-09-18 09:10:00
+### 100 Objects #19: Western Electric 500 Series
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-25 13:17:35
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
+
+---
+
+### The Rocky Statue
+
+**Released:** 2026-09-22 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
 
 ---
 
@@ -250,24 +242,6 @@ Last updated: 2026-09-25 02:40:18
 
 ---
 
-## The Moth
-
-### Puppets, Pastors & Secret Agents: The Moth Radio Hour
-
-**Released:** 2026-09-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
-
----
-
-### Coming Home: The Moth Podcast
-
-**Released:** 2026-09-18 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208760/8208760_2026-04-13-033300.192.mp3?rssID=6066)
-
----
-
 ## SmartLess 
 
 ### "Benny Blanco"
@@ -279,6 +253,14 @@ Last updated: 2026-09-25 02:40:18
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Bad Customer
+
+**Released:** 2026-09-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Ben Lamm (on de-extinction)
 
@@ -296,11 +278,21 @@ Last updated: 2026-09-25 02:40:18
 
 ---
 
-### Armchair Anonymous: Crazy Gym II
+## The Moth
 
-**Released:** 2026-09-18 07:30:00
+### Looking in the Mirror: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6015ee5f-eaf4-42f9-a51a-d8481f23e745.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
+
+---
+
+### Puppets, Pastors & Secret Agents: The Moth Radio Hour
+
+**Released:** 2026-09-22 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
 
 ---
 
