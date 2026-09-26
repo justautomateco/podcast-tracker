@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6ab68cb0079b46c81911b04a",
+    "episode_title": "How to escape your obsession with productivity | Rebecca McMackin and Catherine Price",
+    "release_date": "2026-09-26 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68cb0079b46c81911b04a/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6aaab0b85d36baebf101ad4d",
     "episode_title": "I thought I was lazy. Turns out I had a sleep disorder | Lindsay Scola",
     "release_date": "2026-09-25 15:00:00",
@@ -32,13 +39,6 @@
     "episode_title": "What makes a good game? | Eric Zimmerman",
     "release_date": "2026-09-22 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2943d93749e4c0b45afec/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6ab144561faf37ef045db6c9",
-    "episode_title": "How to clean up the world's dirtiest industry | Joojin Kim",
-    "release_date": "2026-09-21 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab144561faf37ef045db6c9/media.mp3",
     "podcast_name": "TED Talks Daily"
   },
   {
@@ -91,6 +91,13 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "4857d997-83f5-48ae-a725-b4ce01405add",
+    "episode_title": "Selects: Wetlands! Wetlands! Wetlands!",
+    "release_date": "2026-09-26 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4857d997-83f5-48ae-a725-b4ce01405add/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
     "guid": "1abdca83-ddaa-43de-abdc-b4d10021cd41",
     "episode_title": "Introducing 3 Putt Bogey",
     "release_date": "2026-09-26 02:05:27",
@@ -119,11 +126,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "01a42f07-7277-43f5-91f1-b4c8012fd1c7",
-    "episode_title": "Selects: Fallout Shelters: Probably Useless (Let\u2019s Never Find Out)",
-    "release_date": "2026-09-19 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/01a42f07-7277-43f5-91f1-b4c8012fd1c7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg",
+    "episode_title": "#884: How to Spot 10-Year Trends and Build Billion-Dollar Companies \u2014 Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More",
+    "release_date": "2026-09-24 17:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "gid://art19-episode-locator/V0/QJEXX-b2jX0aWElLym--cYFMPFhi8TFmkI4BAbgCjok",
@@ -154,13 +161,6 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg",
-    "episode_title": "#884: How to Spot 10-Year Trends and Build Billion-Dollar Companies \u2014 Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More",
-    "release_date": "2026-09-24 17:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "75352d32-89d4-11f0-b13f-a37637337b1d",
     "episode_title": "Looking in the Mirror: The Moth Podcast",
     "release_date": "2026-09-25 04:25:00",
@@ -175,6 +175,13 @@
     "podcast_name": "The Moth"
   },
   {
+    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
+    "episode_title": "\"Benny Blanco\"",
+    "release_date": "2026-09-21 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "f9ff6778-fdf7-4261-97db-f0cc913b8262",
     "episode_title": "The Body Politic Part II",
     "release_date": "2026-09-24 04:05:00",
@@ -187,13 +194,6 @@
     "release_date": "2026-09-21 04:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/23c2d95f-02ec-49a1-a2b3-acf393d68bfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=23c2d95f-02ec-49a1-a2b3-acf393d68bfe&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f7bd301c-e15b-4fb9-a7b4-ae1c3a0f255a",
-    "episode_title": "\"Benny Blanco\"",
-    "release_date": "2026-09-21 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/vtXm3EA1cduliSmkjXn3r1tFOxdPHLSfUhaBXzC2B2A",

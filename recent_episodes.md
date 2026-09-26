@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-26 02:42:28
+Last updated: 2026-09-26 15:25:28
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-09-26 02:42:28
 ---
 
 ## TED Talks Daily
+
+### How to escape your obsession with productivity | Rebecca McMackin and Catherine Price
+
+**Released:** 2026-09-26 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68cb0079b46c81911b04a/media.mp3)
+
+---
 
 ### I thought I was lazy. Turns out I had a sleep disorder | Lindsay Scola
 
@@ -43,14 +51,6 @@ Last updated: 2026-09-26 02:42:28
 **Released:** 2026-09-22 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2943d93749e4c0b45afec/media.mp3)
-
----
-
-### How to clean up the world's dirtiest industry | Joojin Kim
-
-**Released:** 2026-09-21 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab144561faf37ef045db6c9/media.mp3)
 
 ---
 
@@ -120,6 +120,14 @@ Last updated: 2026-09-26 02:42:28
 
 ## Stuff You Should Know
 
+### Selects: Wetlands! Wetlands! Wetlands!
+
+**Released:** 2026-09-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4857d997-83f5-48ae-a725-b4ce01405add/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Introducing 3 Putt Bogey
 
 **Released:** 2026-09-26 02:05:27
@@ -152,11 +160,13 @@ Last updated: 2026-09-26 02:42:28
 
 ---
 
-### Selects: Fallout Shelters: Probably Useless (Let’s Never Find Out)
+## The Tim Ferriss Show
 
-**Released:** 2026-09-19 09:00:00
+### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/01a42f07-7277-43f5-91f1-b4c8012fd1c7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -196,16 +206,6 @@ Last updated: 2026-09-26 02:42:28
 
 ---
 
-## The Tim Ferriss Show
-
-### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
-
-**Released:** 2026-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Looking in the Mirror: The Moth Podcast
@@ -224,6 +224,16 @@ Last updated: 2026-09-26 02:42:28
 
 ---
 
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### The Body Politic Part II
@@ -239,16 +249,6 @@ Last updated: 2026-09-26 02:42:28
 **Released:** 2026-09-21 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/23c2d95f-02ec-49a1-a2b3-acf393d68bfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=23c2d95f-02ec-49a1-a2b3-acf393d68bfe&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Benny Blanco"
-
-**Released:** 2026-09-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
 
 ---
 
