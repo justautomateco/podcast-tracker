@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-26 15:25:28
+Last updated: 2026-09-27 02:42:35
 
 ## Freakonomics Radio
 
@@ -54,6 +54,24 @@ Last updated: 2026-09-26 15:25:28
 
 ---
 
+## Planet Money
+
+### Middlegarchs are the new Oligarchs
+
+**Released:** 2026-09-25 21:46:44
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
+
+---
+
+### Is our national debt finally too much? (update)
+
+**Released:** 2026-09-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
+
+---
+
 ## This American Life
 
 ### 898: An Argument
@@ -72,21 +90,29 @@ Last updated: 2026-09-26 15:25:28
 
 ---
 
-## Planet Money
+## The Joe Rogan Experience
 
-### Middlegarchs are the new Oligarchs
+### #2558 - Tyler Engle
 
-**Released:** 2026-09-25 21:46:44
+**Released:** 2026-09-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7969377226.mp3)
 
 ---
 
-### Is our national debt finally too much? (update)
+### #2557 - Yakov Smirnoff
 
-**Released:** 2026-09-23 07:00:00
+**Released:** 2026-09-23 17:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
+
+---
+
+### #2556 - Siddharth Kara
+
+**Released:** 2026-09-22 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
 
 ---
 
@@ -160,13 +186,21 @@ Last updated: 2026-09-26 15:25:28
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
+### The Invention of an Epidemic
 
-**Released:** 2026-09-24 17:00:00
+**Released:** 2026-09-24 04:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/aa3e81f8-0bfa-446c-a173-b4ce015524c0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
+
+**Released:** 2026-09-22 16:03:32
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -188,21 +222,13 @@ Last updated: 2026-09-26 15:25:28
 
 ---
 
-## Revisionist History
+## The Tim Ferriss Show
 
-### The Invention of an Epidemic
+### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
 
-**Released:** 2026-09-24 04:01:00
+**Released:** 2026-09-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/aa3e81f8-0bfa-446c-a173-b4ce015524c0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
-
-**Released:** 2026-09-22 16:03:32
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -224,23 +250,13 @@ Last updated: 2026-09-26 15:25:28
 
 ---
 
-## SmartLess 
-
-### "Benny Blanco"
-
-**Released:** 2026-09-21 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### The Body Politic Part II
 
 **Released:** 2026-09-24 04:05:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cfe2431f-e74a-4501-a413-68e5cc6037a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cfe2431f-e74a-4501-a413-68e5cc6037a1&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75326049/default.mp3)
 
 ---
 
@@ -248,7 +264,17 @@ Last updated: 2026-09-26 15:25:28
 
 **Released:** 2026-09-21 04:05:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/23c2d95f-02ec-49a1-a2b3-acf393d68bfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=23c2d95f-02ec-49a1-a2b3-acf393d68bfe&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://api.spreaker.com/download/episode/75272768/default.mp3)
+
+---
+
+## SmartLess 
+
+### "Benny Blanco"
+
+**Released:** 2026-09-21 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
 
 ---
 
