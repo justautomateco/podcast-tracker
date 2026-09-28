@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-28 02:44:39
+Last updated: 2026-09-28 18:59:49
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-09-28 02:44:39
 
 ---
 
+## This American Life
+
+### 898: An Argument
+
+**Released:** 2026-09-25 21:30:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Why I’m building libraries inside prisons | Reginald Dwayne Betts
+
+**Released:** 2026-09-28 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68e195410c8e94cb948d1/media.mp3)
+
+---
 
 ### How to break through fear and become a leader | Valerie Montgomery Rice
 
@@ -43,24 +61,6 @@ Last updated: 2026-09-28 02:44:39
 **Released:** 2026-09-24 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2addff161207303061e85/media.mp3)
-
----
-
-### Why we blew up four dams — and saved a river | Amy Bowers Cordalis
-
-**Released:** 2026-09-23 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2ac6ab8c4cddd7564032e/media.mp3)
-
----
-
-## This American Life
-
-### 898: An Argument
-
-**Released:** 2026-09-25 21:30:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
 
 ---
 
@@ -110,29 +110,11 @@ Last updated: 2026-09-28 02:44:39
 
 ## Hidden Brain
 
-### How to Make a Difference: Part 1
+### How to Make a Difference: Part 2
 
-**Released:** 2026-09-21 15:21:37
+**Released:** 2026-09-28 14:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #19: Western Electric 500 Series
-
-**Released:** 2026-09-25 13:17:35
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
-
----
-
-### The Rocky Statue
-
-**Released:** 2026-09-22 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
 
 ---
 
@@ -178,6 +160,24 @@ Last updated: 2026-09-28 02:44:39
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #19: Western Electric 500 Series
+
+**Released:** 2026-09-25 13:17:35
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
+
+---
+
+### The Rocky Statue
+
+**Released:** 2026-09-22 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
+
+---
+
 ## Revisionist History
 
 ### The Invention of an Epidemic
@@ -193,52 +193,6 @@ Last updated: 2026-09-28 02:44:39
 **Released:** 2026-09-22 16:03:32
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
-
-**Released:** 2026-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## How I Built This
-
-### Advice Line with Danny Meyer of Shake Shack
-
-**Released:** 2026-09-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
-
-**Released:** 2026-09-21 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### The Body Politic Part II
-
-**Released:** 2026-09-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cfe2431f-e74a-4501-a413-68e5cc6037a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cfe2431f-e74a-4501-a413-68e5cc6037a1&feed=dHoohVNH)
-
----
-
-### Joel McHale Returns
-
-**Released:** 2026-09-21 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/23c2d95f-02ec-49a1-a2b3-acf393d68bfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=23c2d95f-02ec-49a1-a2b3-acf393d68bfe&feed=dHoohVNH)
 
 ---
 
@@ -260,17 +214,61 @@ Last updated: 2026-09-28 02:44:39
 
 ---
 
+## How I Built This
+
+### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
+
+**Released:** 2026-09-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Danny Meyer of Shake Shack
+
+**Released:** 2026-09-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matthew McConaughey & Woody Harrelson
+
+**Released:** 2026-09-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec04ee90-4975-4a0c-8501-7adca495f442/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec04ee90-4975-4a0c-8501-7adca495f442&feed=dHoohVNH)
+
+---
+
+### The Body Politic Part II
+
+**Released:** 2026-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cfe2431f-e74a-4501-a413-68e5cc6037a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cfe2431f-e74a-4501-a413-68e5cc6037a1&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
-### "Benny Blanco"
+### "Seth Meyers"
 
-**Released:** 2026-09-21 07:01:00
+**Released:** 2026-09-28 07:01:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
 
 ---
 
 ## Armchair Expert
+
+### Leanne Morgan
+
+**Released:** 2026-09-28 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Bad Customer
 
@@ -288,11 +286,13 @@ Last updated: 2026-09-28 02:44:39
 
 ---
 
-### Joey King Returns
+## The Tim Ferriss Show
 
-**Released:** 2026-09-21 07:30:00
+### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2f0f72ef-c817-4b06-b9c2-bd0567db501b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
