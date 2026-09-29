@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-29 03:26:26
+Last updated: 2026-09-29 17:19:50
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 898: An Argument
+### How to break down barriers and not accept limits | Candace Parker
 
-**Released:** 2026-09-25 21:30:00
+**Released:** 2026-09-29 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abbd19706846f55a3d01b5d/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### Why I’m building libraries inside prisons | Reginald Dwayne Betts
 
@@ -56,40 +54,6 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-### Inside the "play labs" helping refugee kids heal | Erum Mariam
-
-**Released:** 2026-09-24 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2addff161207303061e85/media.mp3)
-
----
-
-## The Joe Rogan Experience
-
-### #2558 - Tyler Engle
-
-**Released:** 2026-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7969377226.mp3)
-
----
-
-### #2557 - Yakov Smirnoff
-
-**Released:** 2026-09-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
-
----
-
-### #2556 - Siddharth Kara
-
-**Released:** 2026-09-22 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6395368742.mp3)
-
----
-
 ## Planet Money
 
 ### Middlegarchs are the new Oligarchs
@@ -108,6 +72,42 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
+## The Joe Rogan Experience
+
+### #2559 - Sam Morril
+
+**Released:** 2026-09-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1481505854.mp3)
+
+---
+
+### #2558 - Tyler Engle
+
+**Released:** 2026-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7969377226.mp3)
+
+---
+
+### #2557 - Yakov Smirnoff
+
+**Released:** 2026-09-23 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
+
+---
+
+## This American Life
+
+### 898: An Argument
+
+**Released:** 2026-09-25 21:30:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
+
+---
+
 ## Hidden Brain
 
 ### How to Make a Difference: Part 2
@@ -118,43 +118,15 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #19: Western Electric 500 Series
-
-**Released:** 2026-09-25 13:17:35
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
-
----
-
-### The Rocky Statue
-
-**Released:** 2026-09-22 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c19dc4a9-0394-4162-953b-e1441c6a0910/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=c19dc4a9-0394-4162-953b-e1441c6a0910&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
-
-**Released:** 2026-09-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Advice Line with Danny Meyer of Shake Shack
-
-**Released:** 2026-09-24 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Stuff You Should Know
+
+### A Good Walk Ruined: The History of Golf
+
+**Released:** 2026-09-29 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3074d075-f3ad-4430-a5db-b4d300ea3d18/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Wetlands! Wetlands! Wetlands!
 
@@ -188,11 +160,49 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-### Our Big Fat Dream Episode
+## The Tim Ferriss Show
 
-**Released:** 2026-09-22 09:00:00
+### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-24 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## 99% Invisible
+
+### Tootle of a Devilish Song
+
+**Released:** 2026-09-29 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #19: Western Electric 500 Series
+
+**Released:** 2026-09-25 13:17:35
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
+
+**Released:** 2026-09-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Advice Line with Danny Meyer of Shake Shack
+
+**Released:** 2026-09-24 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -206,11 +216,29 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-### President Barack Obama & Malcolm Gladwell: How Reconstruction Still Defines America
+## Armchair Expert
 
-**Released:** 2026-09-22 16:03:32
+### Leanne Morgan
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2d20e17b-b6ac-4bda-acd1-b4cd00fd1c06/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Released:** 2026-09-28 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Customer
+
+**Released:** 2026-09-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Ben Lamm (on de-extinction)
+
+**Released:** 2026-09-23 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,57 +270,21 @@ Last updated: 2026-09-29 03:26:26
 
 ---
 
-## The Tim Ferriss Show
-
-### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
-
-**Released:** 2026-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Armchair Expert
-
-### Leanne Morgan
-
-**Released:** 2026-09-28 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Customer
-
-**Released:** 2026-09-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ben Lamm (on de-extinction)
-
-**Released:** 2026-09-23 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
+
+### Matters of the Heart: The Moth Radio Hour
+
+**Released:** 2026-09-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208763/8208763_2026-04-13-033503.192.mp3?rssID=6066)
+
+---
 
 ### Looking in the Mirror: The Moth Podcast
 
 **Released:** 2026-09-25 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
-
----
-
-### Puppets, Pastors & Secret Agents: The Moth Radio Hour
-
-**Released:** 2026-09-22 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208764/8208764_2026-04-13-033604.192.mp3?rssID=6066)
 
 ---
 
