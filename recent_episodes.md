@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-30 03:09:46
+Last updated: 2026-09-30 17:17:44
 
 ## Freakonomics Radio
 
@@ -12,17 +12,15 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-## This American Life
+## TED Talks Daily
 
-### 898: An Argument
+### AI and the end of loneliness | Paul Bloom
 
-**Released:** 2026-09-27 20:00:00
+**Released:** 2026-09-30 15:01:47
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abd245b56d8e12f09c351cf/media.mp3)
 
 ---
-
-## TED Talks Daily
 
 ### How to break down barriers and not accept limits | Candace Parker
 
@@ -56,33 +54,15 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-### I thought I was lazy. Turns out I had a sleep disorder | Lindsay Scola
-
-**Released:** 2026-09-25 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aaab0b85d36baebf101ad4d/media.mp3)
-
----
-
-## Planet Money
-
-### Middlegarchs are the new Oligarchs
-
-**Released:** 2026-09-25 21:46:44
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
-
----
-
-### Is our national debt finally too much? (update)
-
-**Released:** 2026-09-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
-
----
-
 ## The Joe Rogan Experience
+
+### #2560 - David Grusch
+
+**Released:** 2026-09-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2730878908.mp3)
+
+---
 
 ### #2559 - Sam Morril
 
@@ -100,11 +80,21 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-### #2557 - Yakov Smirnoff
+## Planet Money
 
-**Released:** 2026-09-23 17:00:00
+### Who’s gonna pay for your Social Security?
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1399685644.mp3)
+**Released:** 2026-09-30 14:55:43
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284)
+
+---
+
+### Middlegarchs are the new Oligarchs
+
+**Released:** 2026-09-25 21:46:44
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
 
 ---
 
@@ -118,25 +108,15 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-## 99% Invisible
-
-### Tootle of a Devilish Song
-
-**Released:** 2026-09-29 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
-
----
-
-### 100 Objects #19: Western Electric 500 Series
-
-**Released:** 2026-09-25 13:17:35
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Short Stuff: The Retirement Curse
+
+**Released:** 2026-09-30 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### A Good Walk Ruined: The History of Golf
 
@@ -170,11 +150,31 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-### Short Stuff: Mabon
+## 99% Invisible
 
-**Released:** 2026-09-23 09:00:00
+### Tootle of a Devilish Song
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-09-29 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #19: Western Electric 500 Series
+
+**Released:** 2026-09-25 13:17:35
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
+
+---
+
+## This American Life
+
+### 898: An Argument
+
+**Released:** 2026-09-27 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
 
 ---
 
@@ -216,42 +216,6 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
-## SmartLess 
-
-### "Seth Meyers"
-
-**Released:** 2026-09-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
-
----
-
-## Armchair Expert
-
-### Leanne Morgan
-
-**Released:** 2026-09-28 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Bad Customer
-
-**Released:** 2026-09-25 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Ben Lamm (on de-extinction)
-
-**Released:** 2026-09-23 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Matthew McConaughey & Woody Harrelson
@@ -270,6 +234,16 @@ Last updated: 2026-09-30 03:09:46
 
 ---
 
+## SmartLess 
+
+### "Seth Meyers"
+
+**Released:** 2026-09-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
+
+---
+
 ## The Moth
 
 ### Matters of the Heart: The Moth Radio Hour
@@ -285,6 +259,32 @@ Last updated: 2026-09-30 03:09:46
 **Released:** 2026-09-25 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
+
+---
+
+## Armchair Expert
+
+### Jared Diamond Returns (on the science of leadership)
+
+**Released:** 2026-09-30 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Leanne Morgan
+
+**Released:** 2026-09-28 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Bad Customer
+
+**Released:** 2026-09-25 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
