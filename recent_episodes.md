@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-09-30 17:17:44
-
-## Freakonomics Radio
-
-### 688. When Is a Bet Not a Bet?
-
-**Released:** 2026-09-25 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7cc6e44c-25e8-43a6-907e-778ba898d728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7cc6e44c-25e8-43a6-907e-778ba898d728&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-01 03:16:46
 
 ## TED Talks Daily
 
@@ -54,6 +44,72 @@ Last updated: 2026-09-30 17:17:44
 
 ---
 
+## Freakonomics Radio
+
+### 688. When Is a Bet Not a Bet?
+
+**Released:** 2026-09-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7cc6e44c-25e8-43a6-907e-778ba898d728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7cc6e44c-25e8-43a6-907e-778ba898d728&feed=Y8lFbOT4)
+
+---
+
+## Planet Money
+
+### Who’s gonna pay for your Social Security?
+
+**Released:** 2026-09-30 14:55:43
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284)
+
+---
+
+### Middlegarchs are the new Oligarchs
+
+**Released:** 2026-09-25 21:46:44
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
+
+---
+
+## This American Life
+
+### 898: An Argument
+
+**Released:** 2026-09-27 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
+
+---
+
+## 99% Invisible
+
+### Tootle of a Devilish Song
+
+**Released:** 2026-09-29 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #19: Western Electric 500 Series
+
+**Released:** 2026-09-25 13:17:35
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### How to Make a Difference: Part 2
+
+**Released:** 2026-09-28 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2560 - David Grusch
@@ -77,34 +133,6 @@ Last updated: 2026-09-30 17:17:44
 **Released:** 2026-09-24 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7969377226.mp3)
-
----
-
-## Planet Money
-
-### Who’s gonna pay for your Social Security?
-
-**Released:** 2026-09-30 14:55:43
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284)
-
----
-
-### Middlegarchs are the new Oligarchs
-
-**Released:** 2026-09-25 21:46:44
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
-
----
-
-## Hidden Brain
-
-### How to Make a Difference: Part 2
-
-**Released:** 2026-09-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
 
 ---
 
@@ -150,34 +178,6 @@ Last updated: 2026-09-30 17:17:44
 
 ---
 
-## 99% Invisible
-
-### Tootle of a Devilish Song
-
-**Released:** 2026-09-29 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
-
----
-
-### 100 Objects #19: Western Electric 500 Series
-
-**Released:** 2026-09-25 13:17:35
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
-
----
-
-## This American Life
-
-### 898: An Argument
-
-**Released:** 2026-09-27 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
-
----
-
 ## How I Built This
 
 ### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
@@ -196,16 +196,6 @@ Last updated: 2026-09-30 17:17:44
 
 ---
 
-## The Tim Ferriss Show
-
-### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
-
-**Released:** 2026-09-24 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### The Invention of an Epidemic
@@ -216,49 +206,13 @@ Last updated: 2026-09-30 17:17:44
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Matthew McConaughey & Woody Harrelson
+### #884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More
 
-**Released:** 2026-09-28 04:05:00
+**Released:** 2026-09-24 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec04ee90-4975-4a0c-8501-7adca495f442/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec04ee90-4975-4a0c-8501-7adca495f442&feed=dHoohVNH)
-
----
-
-### The Body Politic Part II
-
-**Released:** 2026-09-24 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cfe2431f-e74a-4501-a413-68e5cc6037a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cfe2431f-e74a-4501-a413-68e5cc6037a1&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Seth Meyers"
-
-**Released:** 2026-09-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Matters of the Heart: The Moth Radio Hour
-
-**Released:** 2026-09-29 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208763/8208763_2026-04-13-033503.192.mp3?rssID=6066)
-
----
-
-### Looking in the Mirror: The Moth Podcast
-
-**Released:** 2026-09-25 04:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/44f24cf5-59b3-4e96-99b5-13f029b035c6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -285,6 +239,52 @@ Last updated: 2026-09-30 17:17:44
 **Released:** 2026-09-25 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Seth Meyers"
+
+**Released:** 2026-09-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Matthew McConaughey & Woody Harrelson
+
+**Released:** 2026-09-28 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec04ee90-4975-4a0c-8501-7adca495f442/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec04ee90-4975-4a0c-8501-7adca495f442&feed=dHoohVNH)
+
+---
+
+### The Body Politic Part II
+
+**Released:** 2026-09-24 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cfe2431f-e74a-4501-a413-68e5cc6037a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cfe2431f-e74a-4501-a413-68e5cc6037a1&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Matters of the Heart: The Moth Radio Hour
+
+**Released:** 2026-09-29 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208763/8208763_2026-04-13-033503.192.mp3?rssID=6066)
+
+---
+
+### Looking in the Mirror: The Moth Podcast
+
+**Released:** 2026-09-25 04:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
 
 ---
 
