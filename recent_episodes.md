@@ -1,56 +1,14 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-02 03:17:23
+Last updated: 2026-10-02 17:05:53
 
 ## Freakonomics Radio
 
-### 688. When Is a Bet Not a Bet?
+### 689. Here’s Why Your Hamburger Just Got So Pricey
 
-**Released:** 2026-09-25 10:00:00
+**Released:** 2026-10-02 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7cc6e44c-25e8-43a6-907e-778ba898d728/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7cc6e44c-25e8-43a6-907e-778ba898d728&feed=Y8lFbOT4)
-
----
-
-## TED Talks Daily
-
-### Are your dealbreakers sabotaging your love life? | Amy Chan
-
-**Released:** 2026-10-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe7442ce220947617cd457/media.mp3)
-
----
-
-### AI and the end of loneliness | Paul Bloom
-
-**Released:** 2026-09-30 15:01:47
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abd245b56d8e12f09c351cf/media.mp3)
-
----
-
-### How to break down barriers and not accept limits | Candace Parker
-
-**Released:** 2026-09-29 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abbd19706846f55a3d01b5d/media.mp3)
-
----
-
-### Why I’m building libraries inside prisons | Reginald Dwayne Betts
-
-**Released:** 2026-09-28 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68e195410c8e94cb948d1/media.mp3)
-
----
-
-### How to break through fear and become a leader | Valerie Montgomery Rice
-
-**Released:** 2026-09-27 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2aeff68ec5641e2235644/media.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
 
 ---
 
@@ -90,16 +48,6 @@ Last updated: 2026-10-02 03:17:23
 
 ---
 
-## Hidden Brain
-
-### How to Make a Difference: Part 2
-
-**Released:** 2026-09-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
-
----
-
 ## Planet Money
 
 ### Who’s gonna pay for your Social Security?
@@ -115,6 +63,114 @@ Last updated: 2026-10-02 03:17:23
 **Released:** 2026-09-25 21:46:44
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661)
+
+---
+
+## Hidden Brain
+
+### How to Make a Difference: Part 2
+
+**Released:** 2026-09-28 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #20: AA Sobriety Chip
+
+**Released:** 2026-10-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO)
+
+---
+
+### Tootle of a Devilish Song
+
+**Released:** 2026-09-29 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
+
+**Released:** 2026-10-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## TED Talks Daily
+
+### Why we should design cities like Disney | Zach DeBoer
+
+**Released:** 2026-10-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe74dcce220947617cd458/media.mp3)
+
+---
+
+### Are your dealbreakers sabotaging your love life? | Amy Chan
+
+**Released:** 2026-10-01 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe7442ce220947617cd457/media.mp3)
+
+---
+
+### AI and the end of loneliness | Paul Bloom
+
+**Released:** 2026-09-30 15:01:47
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abd245b56d8e12f09c351cf/media.mp3)
+
+---
+
+### How to break down barriers and not accept limits | Candace Parker
+
+**Released:** 2026-09-29 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abbd19706846f55a3d01b5d/media.mp3)
+
+---
+
+### Why I’m building libraries inside prisons | Reginald Dwayne Betts
+
+**Released:** 2026-09-28 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68e195410c8e94cb948d1/media.mp3)
+
+---
+
+## Revisionist History
+
+### Brian Lehrer and Malcolm Gladwell Talk Policing and Guns
+
+**Released:** 2026-10-02 08:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## How I Built This
+
+### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)
+
+**Released:** 2026-10-01 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
+
+**Released:** 2026-09-28 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -160,62 +216,6 @@ Last updated: 2026-10-02 03:17:23
 
 ---
 
-## 99% Invisible
-
-### Tootle of a Devilish Song
-
-**Released:** 2026-09-29 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
-
----
-
-### 100 Objects #19: Western Electric 500 Series
-
-**Released:** 2026-09-25 13:17:35
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2aed375c-a6e2-4390-90c1-2562e330c87c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2aed375c-a6e2-4390-90c1-2562e330c87c&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)
-
-**Released:** 2026-10-01 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
-
-**Released:** 2026-09-28 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
-
-**Released:** 2026-10-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Seth Meyers"
-
-**Released:** 2026-09-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Conan O’Brien Must Go: Season 3 Roundtable Discussion Part I
@@ -236,6 +236,14 @@ Last updated: 2026-10-02 03:17:23
 
 ## The Moth
 
+### Secondhand Embarrassment: The Moth Podcast
+
+**Released:** 2026-10-02 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066)
+
+---
+
 ### Matters of the Heart: The Moth Radio Hour
 
 **Released:** 2026-09-29 04:25:00
@@ -244,15 +252,15 @@ Last updated: 2026-10-02 03:17:23
 
 ---
 
-### Looking in the Mirror: The Moth Podcast
+## Armchair Expert
 
-**Released:** 2026-09-25 04:25:00
+### Armchair Anonymous: Dinner Party
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208761/8208761_2026-04-13-033401.192.mp3?rssID=6066)
+**Released:** 2026-10-02 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cdf6c0c-870e-41a7-b04b-44927cea5d77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Jared Diamond Returns (on the science of leadership)
 
@@ -270,11 +278,13 @@ Last updated: 2026-10-02 03:17:23
 
 ---
 
-### Armchair Anonymous: Bad Customer
+## SmartLess 
 
-**Released:** 2026-09-25 07:30:00
+### "Seth Meyers"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-09-28 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
 
 ---
 
