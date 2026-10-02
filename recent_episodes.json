@@ -7,48 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46226 at https://www.thisamericanlife.org",
-    "episode_title": "898: An Argument",
-    "release_date": "2026-09-27 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "2089f348-bd41-11f1-a7c5-d7bc7ba22f90",
-    "episode_title": "JRE MMA Show #186 with Sean Sharaf",
-    "release_date": "2026-10-01 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "f3a56dec-bc61-11f1-b794-3f2a4515ae58",
-    "episode_title": "#2560 - David Grusch",
-    "release_date": "2026-09-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2730878908.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "15242aa8-bb9a-11f1-b421-f7d46b049862",
-    "episode_title": "#2559 - Sam Morril",
-    "release_date": "2026-09-29 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1481505854.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "84e80865-2556-470a-9f62-d1106c5aede6",
-    "episode_title": "Who\u2019s gonna pay for your Social Security?",
-    "release_date": "2026-09-30 14:55:43",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "10652924-571e-4b6e-bd4f-11f819c1dc21",
-    "episode_title": "Middlegarchs are the new Oligarchs",
-    "release_date": "2026-09-25 21:46:44",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "6abe7442ce220947617cd457",
     "episode_title": "Are your dealbreakers sabotaging your love life? | Amy Chan",
     "release_date": "2026-10-01 15:00:00",
@@ -84,11 +42,53 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "46226 at https://www.thisamericanlife.org",
+    "episode_title": "898: An Argument",
+    "release_date": "2026-09-27 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "2089f348-bd41-11f1-a7c5-d7bc7ba22f90",
+    "episode_title": "JRE MMA Show #186 with Sean Sharaf",
+    "release_date": "2026-10-01 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "f3a56dec-bc61-11f1-b794-3f2a4515ae58",
+    "episode_title": "#2560 - David Grusch",
+    "release_date": "2026-09-30 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2730878908.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "15242aa8-bb9a-11f1-b421-f7d46b049862",
+    "episode_title": "#2559 - Sam Morril",
+    "release_date": "2026-09-29 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "b27f54c6-92cc-42ff-8fb3-a330e579e8bb",
     "episode_title": "How to Make a Difference: Part 2",
     "release_date": "2026-09-28 14:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "84e80865-2556-470a-9f62-d1106c5aede6",
+    "episode_title": "Who\u2019s gonna pay for your Social Security?",
+    "release_date": "2026-09-30 14:55:43",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "10652924-571e-4b6e-bd4f-11f819c1dc21",
+    "episode_title": "Middlegarchs are the new Oligarchs",
+    "release_date": "2026-09-25 21:46:44",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "3d494b3c-945d-46fd-aa4c-b4d300ee7cda",
@@ -140,25 +140,32 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/_SsUocluEMczMvJHJLG0cZB-iMDIfwEjmhnuaUYZnm8",
-    "episode_title": "Jared Diamond Returns (on the science of leadership)",
-    "release_date": "2026-09-30 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/K3lQnuNLy9f_ujAPZnRY8T87eVXYcJR9AM-XFpEYLRI",
+    "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
+    "release_date": "2026-10-01 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/tZOUHVbxeAlzXTB9vsXpjvc1MsoH25dTLU4J4TCjj5Q",
-    "episode_title": "Leanne Morgan",
-    "release_date": "2026-09-28 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/xjF9427j7JFCPrm7NU7XpNO78PI_ZbqZluku9W3ivgg",
+    "episode_title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished\u2014until it Failed. (2021) ",
+    "release_date": "2026-09-28 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/vtXm3EA1cduliSmkjXn3r1tFOxdPHLSfUhaBXzC2B2A",
-    "episode_title": "Armchair Anonymous: Bad Customer",
-    "release_date": "2026-09-25 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
+    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
+    "release_date": "2026-10-02 00:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "915e5c52-23d1-41c3-900f-2a9b7ee2e1ac",
+    "episode_title": "\"Seth Meyers\"",
+    "release_date": "2026-09-28 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "d8b94afd-0c66-4c7e-8965-249585f94c35",
@@ -189,24 +196,24 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "915e5c52-23d1-41c3-900f-2a9b7ee2e1ac",
-    "episode_title": "\"Seth Meyers\"",
-    "release_date": "2026-09-28 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/_SsUocluEMczMvJHJLG0cZB-iMDIfwEjmhnuaUYZnm8",
+    "episode_title": "Jared Diamond Returns (on the science of leadership)",
+    "release_date": "2026-09-30 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/K3lQnuNLy9f_ujAPZnRY8T87eVXYcJR9AM-XFpEYLRI",
-    "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
-    "release_date": "2026-10-01 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/tZOUHVbxeAlzXTB9vsXpjvc1MsoH25dTLU4J4TCjj5Q",
+    "episode_title": "Leanne Morgan",
+    "release_date": "2026-09-28 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/xjF9427j7JFCPrm7NU7XpNO78PI_ZbqZluku9W3ivgg",
-    "episode_title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished\u2014until it Failed. (2021) ",
-    "release_date": "2026-09-28 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "gid://art19-episode-locator/V0/vtXm3EA1cduliSmkjXn3r1tFOxdPHLSfUhaBXzC2B2A",
+    "episode_title": "Armchair Anonymous: Bad Customer",
+    "release_date": "2026-09-25 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/804d5079-e1b0-481c-8a01-8dfa7d315370.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   }
 ]
