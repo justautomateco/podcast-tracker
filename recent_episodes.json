@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46226 at https://www.thisamericanlife.org",
+    "episode_title": "898: An Argument",
+    "release_date": "2026-09-27 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "6abe754bce220947617cd459",
     "episode_title": "The joy of foraging your own food | Alexis Nikole Nelson",
     "release_date": "2026-10-03 15:00:00",
@@ -40,13 +47,6 @@
     "release_date": "2026-09-29 15:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abbd19706846f55a3d01b5d/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "46226 at https://www.thisamericanlife.org",
-    "episode_title": "898: An Argument",
-    "release_date": "2026-09-27 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "2089f348-bd41-11f1-a7c5-d7bc7ba22f90",
@@ -133,13 +133,6 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
-    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
-    "release_date": "2026-10-02 00:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/K3lQnuNLy9f_ujAPZnRY8T87eVXYcJR9AM-XFpEYLRI",
     "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
     "release_date": "2026-10-01 07:10:00",
@@ -159,6 +152,13 @@
     "release_date": "2026-10-02 08:00:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
+    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
+    "release_date": "2026-10-02 00:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "d8b94afd-0c66-4c7e-8965-249585f94c35",
@@ -189,13 +189,6 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "915e5c52-23d1-41c3-900f-2a9b7ee2e1ac",
-    "episode_title": "\"Seth Meyers\"",
-    "release_date": "2026-09-28 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/9ZmbfsJxwyQa9vhWulpZ90uivPiD9kfBwCEnOo8wnQU",
     "episode_title": "Armchair Anonymous: Dinner Party",
     "release_date": "2026-10-02 07:30:00",
@@ -215,5 +208,12 @@
     "release_date": "2026-09-28 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "915e5c52-23d1-41c3-900f-2a9b7ee2e1ac",
+    "episode_title": "\"Seth Meyers\"",
+    "release_date": "2026-09-28 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
