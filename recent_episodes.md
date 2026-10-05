@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-05 03:12:10
-
-## Freakonomics Radio
-
-### 689. Here’s Why Your Hamburger Just Got So Pricey
-
-**Released:** 2026-10-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-05 20:09:04
 
 ## TED Talks Daily
+
+### The secret to lasting love | Eli J Finkel
+
+**Released:** 2026-10-05 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abfc88f5dd8db805ee8e56b/media.mp3)
+
+---
 
 ### Sunday Pick: All the lonely people | from Corner Piece
 
@@ -46,11 +44,13 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-### AI and the end of loneliness | Paul Bloom
+## This American Life
 
-**Released:** 2026-09-30 15:01:47
+### 899: Reaching Out
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abd245b56d8e12f09c351cf/media.mp3)
+**Released:** 2026-10-04 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
 
 ---
 
@@ -72,13 +72,39 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-## This American Life
+## The Joe Rogan Experience
 
-### 899: Reaching Out
+### JRE MMA Show #186 with Sean Sharaf
 
-**Released:** 2026-10-04 20:00:00
+**Released:** 2026-10-01 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1692440444.mp3)
+
+---
+
+### #2560 - David Grusch
+
+**Released:** 2026-09-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2730878908.mp3)
+
+---
+
+### #2559 - Sam Morril
+
+**Released:** 2026-09-29 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1481505854.mp3)
+
+---
+
+## Hidden Brain
+
+### When Bad Things Happen to Good People
+
+**Released:** 2026-10-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
 
 ---
 
@@ -116,39 +142,13 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-## The Joe Rogan Experience
+## Freakonomics Radio
 
-### JRE MMA Show #186 with Sean Sharaf
+### 689. Here’s Why Your Hamburger Just Got So Pricey
 
-**Released:** 2026-10-01 17:00:00
+**Released:** 2026-10-02 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1692440444.mp3)
-
----
-
-### #2560 - David Grusch
-
-**Released:** 2026-09-30 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2730878908.mp3)
-
----
-
-### #2559 - Sam Morril
-
-**Released:** 2026-09-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1481505854.mp3)
-
----
-
-## Hidden Brain
-
-### How to Make a Difference: Part 2
-
-**Released:** 2026-09-28 14:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
 
 ---
 
@@ -170,16 +170,6 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-## The Tim Ferriss Show
-
-### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
-
-**Released:** 2026-10-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Brian Lehrer and Malcolm Gladwell Talk Policing and Guns
@@ -192,6 +182,14 @@ Last updated: 2026-10-05 03:12:10
 
 ## How I Built This
 
+### 10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention
+
+**Released:** 2026-10-05 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdd4f8d2-9920-427e-ae2a-ae2d44768a31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)
 
 **Released:** 2026-10-01 07:10:00
@@ -200,11 +198,21 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-### Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-09-28 07:10:00
+### Owen Wilson
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/cf1c5327-05ed-44de-b54e-e2d81fb740fa.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-10-05 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3969c117-4761-4613-a78e-8ce0de17f111/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3969c117-4761-4613-a78e-8ce0de17f111&feed=dHoohVNH)
+
+---
+
+### Conan O’Brien Must Go: Season 3 Roundtable Discussion Part I
+
+**Released:** 2026-10-01 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159&feed=dHoohVNH)
 
 ---
 
@@ -226,35 +234,25 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Conan O’Brien Must Go: Season 3 Roundtable Discussion Part I
+### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
 
-**Released:** 2026-10-01 04:05:00
+**Released:** 2026-10-02 00:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159&feed=dHoohVNH)
-
----
-
-### Matthew McConaughey & Woody Harrelson
-
-**Released:** 2026-09-28 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/ec04ee90-4975-4a0c-8501-7adca495f442/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=ec04ee90-4975-4a0c-8501-7adca495f442&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Seth Meyers"
-
-**Released:** 2026-09-28 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/a7bd6815-0a23-4c31-a69e-07647c9c0ac9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=a7bd6815-0a23-4c31-a69e-07647c9c0ac9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Guillermo del Toro
+
+**Released:** 2026-10-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Dinner Party
 
@@ -272,11 +270,13 @@ Last updated: 2026-10-05 03:12:10
 
 ---
 
-### Leanne Morgan
+## SmartLess 
 
-**Released:** 2026-09-28 07:30:00
+### "Michael Douglas"
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c142acbe-caa2-48b5-b17d-4cae22853b4f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
 
 ---
 
