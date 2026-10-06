@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-06 04:00:23
-
-## Freakonomics Radio
-
-### 689. Here’s Why Your Hamburger Just Got So Pricey
-
-**Released:** 2026-10-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-06 17:38:33
 
 ## TED Talks Daily
+
+### The wonder of weightlifting | Jaime Seeman (re-release)
+
+**Released:** 2026-10-06 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac3ba163b662ae0dba27e87/media.mp3)
+
+---
 
 ### The secret to lasting love | Eli J Finkel
 
@@ -46,14 +44,6 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
-### Are your dealbreakers sabotaging your love life? | Amy Chan
-
-**Released:** 2026-10-01 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe7442ce220947617cd457/media.mp3)
-
----
-
 ## This American Life
 
 ### 899: Reaching Out
@@ -61,6 +51,16 @@ Last updated: 2026-10-06 04:00:23
 **Released:** 2026-10-04 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
+
+---
+
+## Freakonomics Radio
+
+### 689. Here’s Why Your Hamburger Just Got So Pricey
+
+**Released:** 2026-10-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
 
 ---
 
@@ -84,6 +84,14 @@ Last updated: 2026-10-06 04:00:23
 
 ## The Joe Rogan Experience
 
+### #2561 - LL Cool J
+
+**Released:** 2026-10-06 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5582771746.mp3)
+
+---
+
 ### JRE MMA Show #186 with Sean Sharaf
 
 **Released:** 2026-10-01 17:00:00
@@ -100,14 +108,6 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
-### #2559 - Sam Morril
-
-**Released:** 2026-09-29 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1481505854.mp3)
-
----
-
 ## Hidden Brain
 
 ### When Bad Things Happen to Good People
@@ -119,6 +119,14 @@ Last updated: 2026-10-06 04:00:23
 ---
 
 ## Stuff You Should Know
+
+### Stand-Up Comedy Pt I
+
+**Released:** 2026-10-06 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: How Bras Work
 
@@ -144,39 +152,21 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
-### A Good Walk Ruined: The History of Golf
+## 99% Invisible
 
-**Released:** 2026-09-29 09:00:00
+### (Not Just) Another Brick in the Wall
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3074d075-f3ad-4430-a5db-b4d300ea3d18/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-10-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
 
 ---
-
-## 99% Invisible
 
 ### 100 Objects #20: AA Sobriety Chip
 
 **Released:** 2026-10-02 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO)
-
----
-
-### Tootle of a Devilish Song
-
-**Released:** 2026-09-29 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
-
----
-
-## The Tim Ferriss Show
-
-### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
-
-**Released:** 2026-10-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,6 +198,16 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
+## The Tim Ferriss Show
+
+### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
+
+**Released:** 2026-10-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Owen Wilson
@@ -226,17 +226,15 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
-## SmartLess 
+## The Moth
 
-### "Michael Douglas"
+### A Love Note to NJ: The Moth Radio Hour
 
-**Released:** 2026-10-05 07:01:00
+**Released:** 2026-10-06 07:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066)
 
 ---
-
-## The Moth
 
 ### Secondhand Embarrassment: The Moth Podcast
 
@@ -246,15 +244,15 @@ Last updated: 2026-10-06 04:00:23
 
 ---
 
-### Matters of the Heart: The Moth Radio Hour
+## Armchair Expert
 
-**Released:** 2026-09-29 04:25:00
+### Mom's Car: Dakota Fanning & Jake Johnson
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208763/8208763_2026-04-13-033503.192.mp3?rssID=6066)
+**Released:** 2026-10-06 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Guillermo del Toro
 
@@ -277,6 +275,16 @@ Last updated: 2026-10-06 04:00:23
 **Released:** 2026-09-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Michael Douglas"
+
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
 
 ---
 
