@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-05 20:09:04
+Last updated: 2026-10-06 04:00:23
+
+## Freakonomics Radio
+
+### 689. Here’s Why Your Hamburger Just Got So Pricey
+
+**Released:** 2026-10-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -142,16 +152,6 @@ Last updated: 2026-10-05 20:09:04
 
 ---
 
-## Freakonomics Radio
-
-### 689. Here’s Why Your Hamburger Just Got So Pricey
-
-**Released:** 2026-10-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
-
----
-
 ## 99% Invisible
 
 ### 100 Objects #20: AA Sobriety Chip
@@ -167,6 +167,16 @@ Last updated: 2026-10-05 20:09:04
 **Released:** 2026-09-29 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/cf82af4f-5340-4da1-90b9-cee85bcaf214/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=cf82af4f-5340-4da1-90b9-cee85bcaf214&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
+
+**Released:** 2026-10-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -216,6 +226,16 @@ Last updated: 2026-10-05 20:09:04
 
 ---
 
+## SmartLess 
+
+### "Michael Douglas"
+
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
+
+---
+
 ## The Moth
 
 ### Secondhand Embarrassment: The Moth Podcast
@@ -231,16 +251,6 @@ Last updated: 2026-10-05 20:09:04
 **Released:** 2026-09-29 04:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208763/8208763_2026-04-13-033503.192.mp3?rssID=6066)
-
----
-
-## The Tim Ferriss Show
-
-### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
-
-**Released:** 2026-10-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -267,16 +277,6 @@ Last updated: 2026-10-05 20:09:04
 **Released:** 2026-09-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Michael Douglas"
-
-**Released:** 2026-10-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
 
 ---
 
