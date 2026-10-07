@@ -7,6 +7,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "46233 at https://www.thisamericanlife.org",
+    "episode_title": "899: Reaching Out",
+    "release_date": "2026-10-04 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6ac50a9bfba456483104cf1e",
+    "episode_title": "What my politically divided family teaches me | Tami Pyfer",
+    "release_date": "2026-10-07 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac50a9bfba456483104cf1e/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6ac3ba163b662ae0dba27e87",
     "episode_title": "The wonder of weightlifting | Jaime Seeman (re-release)",
     "release_date": "2026-10-06 15:00:00",
@@ -35,11 +49,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6abe74dcce220947617cd458",
-    "episode_title": "Why we should design cities like Disney | Zach DeBoer",
-    "release_date": "2026-10-02 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe74dcce220947617cd458/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "422e04c9-24e3-4eca-bae9-fdd71d614953",
+    "episode_title": "Charles Ponzi's scheme (plus a new scam)",
+    "release_date": "2026-10-07 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "f35873ff-fecc-4857-bc2d-0f8a1a1202d5",
@@ -49,18 +63,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "84e80865-2556-470a-9f62-d1106c5aede6",
-    "episode_title": "Who\u2019s gonna pay for your Social Security?",
-    "release_date": "2026-09-30 14:55:43",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46233 at https://www.thisamericanlife.org",
-    "episode_title": "899: Reaching Out",
-    "release_date": "2026-10-04 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
-    "podcast_name": "This American Life"
+    "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
+    "episode_title": "#2562 - Dan McClellan",
+    "release_date": "2026-10-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6084226127.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "2013800e-c120-11f1-a768-6f890ba0aaa8",
@@ -77,11 +84,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "f3a56dec-bc61-11f1-b794-3f2a4515ae58",
-    "episode_title": "#2560 - David Grusch",
-    "release_date": "2026-09-30 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2730878908.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "4da471c8-f8ec-4fbe-aba6-30ceacaa6aa1",
+    "episode_title": "When Bad Things Happen to Good People",
+    "release_date": "2026-10-05 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "551d1c25-8c6b-40c8-8a0a-b4db011ecd2e",
+    "episode_title": "Short Stuff: The Style Cycle",
+    "release_date": "2026-10-07 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "6badb8c6-5351-4a96-924b-b4d60123f7fe",
@@ -105,20 +119,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "980bf20b-77bd-4045-aed2-b4d401844195",
-    "episode_title": "Short Stuff: The Retirement Curse",
-    "release_date": "2026-09-30 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "4da471c8-f8ec-4fbe-aba6-30ceacaa6aa1",
-    "episode_title": "When Bad Things Happen to Good People",
-    "release_date": "2026-10-05 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "c5d134a1-1a20-47cd-b7e9-6a7865ae29a6",
     "episode_title": "(Not Just) Another Brick in the Wall",
     "release_date": "2026-10-06 08:00:00",
@@ -133,6 +133,20 @@
     "podcast_name": "99% Invisible"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
+    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
+    "release_date": "2026-10-02 00:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "b7bfcb21-7320-4b11-ba37-b4d70035a84e",
+    "episode_title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+    "release_date": "2026-10-02 08:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/smSb__LZVRH1HA4gtHmL_S6U48MLDfnfRTCwSzknc5I",
     "episode_title": "10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention",
     "release_date": "2026-10-05 07:10:00",
@@ -145,34 +159,6 @@
     "release_date": "2026-10-01 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "b7bfcb21-7320-4b11-ba37-b4d70035a84e",
-    "episode_title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
-    "release_date": "2026-10-02 08:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
-    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
-    "release_date": "2026-10-02 00:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "75cf5b14-89d4-11f0-b13f-c3f3778f4274",
-    "episode_title": "A Love Note to NJ: The Moth Radio Hour",
-    "release_date": "2026-10-06 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "76d6ec02-89d4-11f0-b13f-e76b88a4ae87",
-    "episode_title": "Secondhand Embarrassment: The Moth Podcast",
-    "release_date": "2026-10-02 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "40e67dbb-6427-43bd-b55d-a3c8cab4c280",
@@ -196,6 +182,13 @@
     "podcast_name": "SmartLess "
   },
   {
+    "guid": "gid://art19-episode-locator/V0/oRhVlriZOFyjm9ziYRneURYSisU-Texko5myHy6ekvk",
+    "episode_title": "Adam Grant #4 (on the secrets of strong connections)",
+    "release_date": "2026-10-07 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/IWa33VY0Ongdeaw99iG6KLluvhs5rIDNBXtEWuKyM5k",
     "episode_title": "Mom's Car: Dakota Fanning & Jake Johnson",
     "release_date": "2026-10-06 07:30:00",
@@ -217,10 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/_SsUocluEMczMvJHJLG0cZB-iMDIfwEjmhnuaUYZnm8",
-    "episode_title": "Jared Diamond Returns (on the science of leadership)",
-    "release_date": "2026-09-30 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/2761ef8e-ec8f-4871-a408-b86e34f3be8c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "75cf5b14-89d4-11f0-b13f-c3f3778f4274",
+    "episode_title": "A Love Note to NJ: The Moth Radio Hour",
+    "release_date": "2026-10-06 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "76d6ec02-89d4-11f0-b13f-e76b88a4ae87",
+    "episode_title": "Secondhand Embarrassment: The Moth Podcast",
+    "release_date": "2026-10-02 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]
