@@ -1,19 +1,5 @@
 [
   {
-    "guid": "33a2154f-e78c-4a9e-9d7a-62c1ff45dc67",
-    "episode_title": "689. Here\u2019s Why Your Hamburger Just Got So Pricey",
-    "release_date": "2026-10-02 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "46233 at https://www.thisamericanlife.org",
-    "episode_title": "899: Reaching Out",
-    "release_date": "2026-10-04 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6ac50a9bfba456483104cf1e",
     "episode_title": "What my politically divided family teaches me | Tami Pyfer",
     "release_date": "2026-10-07 15:00:00",
@@ -49,18 +35,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "422e04c9-24e3-4eca-bae9-fdd71d614953",
-    "episode_title": "Charles Ponzi's scheme (plus a new scam)",
-    "release_date": "2026-10-07 07:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
-    "podcast_name": "Planet Money"
+    "guid": "33a2154f-e78c-4a9e-9d7a-62c1ff45dc67",
+    "episode_title": "689. Here\u2019s Why Your Hamburger Just Got So Pricey",
+    "release_date": "2026-10-02 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "f35873ff-fecc-4857-bc2d-0f8a1a1202d5",
-    "episode_title": "Where all those weird new drinks are coming from",
-    "release_date": "2026-10-02 23:14:21",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275",
-    "podcast_name": "Planet Money"
+    "guid": "46233 at https://www.thisamericanlife.org",
+    "episode_title": "899: Reaching Out",
+    "release_date": "2026-10-04 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
@@ -119,6 +105,20 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "422e04c9-24e3-4eca-bae9-fdd71d614953",
+    "episode_title": "Charles Ponzi's scheme (plus a new scam)",
+    "release_date": "2026-10-07 07:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "f35873ff-fecc-4857-bc2d-0f8a1a1202d5",
+    "episode_title": "Where all those weird new drinks are coming from",
+    "release_date": "2026-10-02 23:14:21",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "c5d134a1-1a20-47cd-b7e9-6a7865ae29a6",
     "episode_title": "(Not Just) Another Brick in the Wall",
     "release_date": "2026-10-06 08:00:00",
@@ -131,20 +131,6 @@
     "release_date": "2026-10-02 07:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
-    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
-    "release_date": "2026-10-02 00:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "b7bfcb21-7320-4b11-ba37-b4d70035a84e",
-    "episode_title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
-    "release_date": "2026-10-02 08:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/smSb__LZVRH1HA4gtHmL_S6U48MLDfnfRTCwSzknc5I",
@@ -161,6 +147,13 @@
     "podcast_name": "How I Built This"
   },
   {
+    "guid": "b7bfcb21-7320-4b11-ba37-b4d70035a84e",
+    "episode_title": "Brian Lehrer and Malcolm Gladwell Talk Policing and Guns",
+    "release_date": "2026-10-02 08:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
     "guid": "40e67dbb-6427-43bd-b55d-a3c8cab4c280",
     "episode_title": "Owen Wilson",
     "release_date": "2026-10-05 04:05:00",
@@ -175,11 +168,18 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "db54b512-33ee-461b-99c4-61b35be26ad7",
-    "episode_title": "\"Michael Douglas\"",
-    "release_date": "2026-10-05 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "75cf5b14-89d4-11f0-b13f-c3f3778f4274",
+    "episode_title": "A Love Note to NJ: The Moth Radio Hour",
+    "release_date": "2026-10-06 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "76d6ec02-89d4-11f0-b13f-e76b88a4ae87",
+    "episode_title": "Secondhand Embarrassment: The Moth Podcast",
+    "release_date": "2026-10-02 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "gid://art19-episode-locator/V0/oRhVlriZOFyjm9ziYRneURYSisU-Texko5myHy6ekvk",
@@ -210,17 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "75cf5b14-89d4-11f0-b13f-c3f3778f4274",
-    "episode_title": "A Love Note to NJ: The Moth Radio Hour",
-    "release_date": "2026-10-06 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "db54b512-33ee-461b-99c4-61b35be26ad7",
+    "episode_title": "\"Michael Douglas\"",
+    "release_date": "2026-10-05 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
-    "guid": "76d6ec02-89d4-11f0-b13f-e76b88a4ae87",
-    "episode_title": "Secondhand Embarrassment: The Moth Podcast",
-    "release_date": "2026-10-02 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/QVuJrSMa8305chPbnqdNV7yerKYvqRXelCzyA7VAW-M",
+    "episode_title": "#885: How to Simplify Your Life \u2014 Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More ",
+    "release_date": "2026-10-02 00:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
