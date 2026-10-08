@@ -1,8 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-08 03:42:57
+Last updated: 2026-10-08 18:12:50
+
+## Freakonomics Radio
+
+### 689. Here’s Why Your Hamburger Just Got So Pricey
+
+**Released:** 2026-10-02 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
+
+### How imaginary worlds help kids learn | Anna Rainio
+
+**Released:** 2026-10-08 15:00:03
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7ae48e2a72faefc1e8d0f/media.mp3)
+
+---
 
 ### What my politically divided family teaches me | Tami Pyfer
 
@@ -36,35 +54,15 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
-### The joy of foraging your own food | Alexis Nikole Nelson
-
-**Released:** 2026-10-03 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe754bce220947617cd459/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 689. Here’s Why Your Hamburger Just Got So Pricey
-
-**Released:** 2026-10-02 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 899: Reaching Out
-
-**Released:** 2026-10-04 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
-
----
-
 ## The Joe Rogan Experience
+
+### #2563 - Dan Richards
+
+**Released:** 2026-10-08 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1048281357.mp3)
+
+---
 
 ### #2562 - Dan McClellan
 
@@ -82,14 +80,6 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
-### JRE MMA Show #186 with Sean Sharaf
-
-**Released:** 2026-10-01 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1692440444.mp3)
-
----
-
 ## Hidden Brain
 
 ### When Bad Things Happen to Good People
@@ -100,7 +90,33 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
+## 99% Invisible
+
+### (Not Just) Another Brick in the Wall
+
+**Released:** 2026-10-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #20: AA Sobriety Chip
+
+**Released:** 2026-10-02 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Stand-Up Pt II
+
+**Released:** 2026-10-08 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165c6213-d25c-418d-89f3-b4d601257f1e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: The Style Cycle
 
@@ -126,11 +142,13 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
-### Let's Thank Universal Pictures for Monster Movies!
+## This American Life
 
-**Released:** 2026-10-01 09:00:00
+### 899: Reaching Out
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-10-04 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
 
 ---
 
@@ -152,25 +170,15 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
-## 99% Invisible
-
-### (Not Just) Another Brick in the Wall
-
-**Released:** 2026-10-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
-
----
-
-### 100 Objects #20: AA Sobriety Chip
-
-**Released:** 2026-10-02 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO)
-
----
-
 ## How I Built This
+
+### Advice Line with Nick Green of Thrive Market
+
+**Released:** 2026-10-08 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7764e494-e791-48db-b95a-2d18994139a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### 10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention
 
@@ -180,15 +188,15 @@ Last updated: 2026-10-08 03:42:57
 
 ---
 
-### Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)
+## Revisionist History
 
-**Released:** 2026-10-01 07:10:00
+### Wolfgang's Law - Part One
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e64c6623-10d1-4222-85d6-22eeab736221.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
-
-## Revisionist History
 
 ### Brian Lehrer and Malcolm Gladwell Talk Policing and Guns
 
@@ -200,19 +208,19 @@ Last updated: 2026-10-08 03:42:57
 
 ## Conan O'Brien Needs A Friend
 
+### Conan O’Brien Must Go: Season 3 Roundtable Discussion Part II
+
+**Released:** 2026-10-08 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7dbae2bc-f937-4bae-8da4-c51b736a80e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7dbae2bc-f937-4bae-8da4-c51b736a80e3&feed=dHoohVNH)
+
+---
+
 ### Owen Wilson
 
 **Released:** 2026-10-05 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/3969c117-4761-4613-a78e-8ce0de17f111/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=3969c117-4761-4613-a78e-8ce0de17f111&feed=dHoohVNH)
-
----
-
-### Conan O’Brien Must Go: Season 3 Roundtable Discussion Part I
-
-**Released:** 2026-10-01 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4bb9a4c5-be6c-4cef-b3c1-4c75d77ad159&feed=dHoohVNH)
 
 ---
 
@@ -231,6 +239,42 @@ Last updated: 2026-10-08 03:42:57
 **Released:** 2026-10-02 07:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066)
+
+---
+
+## The Tim Ferriss Show
+
+### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
+
+**Released:** 2026-10-08 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
+
+**Released:** 2026-10-02 00:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Ben Affleck"
+
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO)
+
+---
+
+### "Michael Douglas"
+
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
 
 ---
 
@@ -265,26 +309,6 @@ Last updated: 2026-10-08 03:42:57
 **Released:** 2026-10-02 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cdf6c0c-870e-41a7-b04b-44927cea5d77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Michael Douglas"
-
-**Released:** 2026-10-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #885: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More 
-
-**Released:** 2026-10-02 00:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3f4a3a80-d25a-4f6f-b5f6-fe67aad2a607.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
