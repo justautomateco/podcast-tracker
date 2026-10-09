@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-09 03:48:16
+Last updated: 2026-10-09 17:45:45
 
 ## Freakonomics Radio
 
-### 689. Here’s Why Your Hamburger Just Got So Pricey
+### 690. It’s Show Business, Baby!
 
-**Released:** 2026-10-02 10:00:00
+**Released:** 2026-10-09 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5819f6b3-f013-480d-a8b8-2cd72079c2df/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5819f6b3-f013-480d-a8b8-2cd72079c2df&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### The three words that saved my life | Blake Mycoskie
+
+**Released:** 2026-10-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7af6ae2a72faefc1e8d10/media.mp3)
+
+---
 
 ### How imaginary worlds help kids learn | Anna Rainio
 
@@ -46,24 +54,6 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
-### Sunday Pick: All the lonely people | from Corner Piece
-
-**Released:** 2026-10-04 04:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1dbbb156a52f880a51eb6/media.mp3)
-
----
-
-## This American Life
-
-### 899: Reaching Out
-
-**Released:** 2026-10-04 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
-
----
-
 ## Planet Money
 
 ### Charles Ponzi's scheme (plus a new scam)
@@ -82,13 +72,13 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
-## Hidden Brain
+## This American Life
 
-### When Bad Things Happen to Good People
+### 899: Reaching Out
 
-**Released:** 2026-10-05 19:00:00
+**Released:** 2026-10-04 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
 
 ---
 
@@ -115,24 +105,6 @@ Last updated: 2026-10-09 03:48:16
 **Released:** 2026-10-06 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5582771746.mp3)
-
----
-
-## 99% Invisible
-
-### (Not Just) Another Brick in the Wall
-
-**Released:** 2026-10-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
-
----
-
-### 100 Objects #20: AA Sobriety Chip
-
-**Released:** 2026-10-02 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO)
 
 ---
 
@@ -170,6 +142,36 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
+## Hidden Brain
+
+### When Bad Things Happen to Good People
+
+**Released:** 2026-10-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### (Not Just) Another Brick in the Wall
+
+**Released:** 2026-10-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Wolfgang's Law - Part One
+
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Nick Green of Thrive Market
@@ -185,24 +187,6 @@ Last updated: 2026-10-09 03:48:16
 **Released:** 2026-10-05 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdd4f8d2-9920-427e-ae2a-ae2d44768a31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Wolfgang's Law - Part One
-
-**Released:** 2026-10-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-### Brian Lehrer and Malcolm Gladwell Talk Policing and Guns
-
-**Released:** 2026-10-02 08:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/b7bfcb21-7320-4b11-ba37-b4d70035a84e/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -224,17 +208,15 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
+### Squaring Up: The Moth Podcast
 
-**Released:** 2026-10-08 17:30:00
+**Released:** 2026-10-09 07:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066)
 
 ---
-
-## The Moth
 
 ### A Love Note to NJ: The Moth Radio Hour
 
@@ -244,33 +226,15 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
-### Secondhand Embarrassment: The Moth Podcast
-
-**Released:** 2026-10-02 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208746/8208746_2026-04-13-032346.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Ben Affleck"
-
-**Released:** 2026-10-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO)
-
----
-
-### "Michael Douglas"
-
-**Released:** 2026-10-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Nurses III
+
+**Released:** 2026-10-09 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Adam Grant #4 (on the secrets of strong connections)
 
@@ -296,11 +260,31 @@ Last updated: 2026-10-09 03:48:16
 
 ---
 
-### Armchair Anonymous: Dinner Party
+## The Tim Ferriss Show
 
-**Released:** 2026-10-02 07:30:00
+### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6cdf6c0c-870e-41a7-b04b-44927cea5d77.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-10-08 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Ben Affleck"
+
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO)
+
+---
+
+### "Michael Douglas"
+
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
 
 ---
 
