@@ -1,8 +1,36 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-10 03:31:41
+Last updated: 2026-10-10 16:39:11
+
+## Freakonomics Radio
+
+### 690. It’s Show Business, Baby!
+
+**Released:** 2026-10-09 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 899: Reaching Out
+
+**Released:** 2026-10-04 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
+
+---
 
 ## TED Talks Daily
+
+### Why the future is human ... plus AI | Sal Khan and Esther Perel
+
+**Released:** 2026-10-10 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac518de854b00dcfdb99f09/media.mp3)
+
+---
 
 ### The three words that saved my life | Blake Mycoskie
 
@@ -36,34 +64,6 @@ Last updated: 2026-10-10 03:31:41
 
 ---
 
-### The secret to lasting love | Eli J Finkel
-
-**Released:** 2026-10-05 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abfc88f5dd8db805ee8e56b/media.mp3)
-
----
-
-## Freakonomics Radio
-
-### 690. It’s Show Business, Baby!
-
-**Released:** 2026-10-09 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 899: Reaching Out
-
-**Released:** 2026-10-04 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
-
----
-
 ## Planet Money
 
 ### Should we all be getting tariff refunds right now?
@@ -79,16 +79,6 @@ Last updated: 2026-10-10 03:31:41
 **Released:** 2026-10-07 07:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839)
-
----
-
-## Hidden Brain
-
-### When Bad Things Happen to Good People
-
-**Released:** 2026-10-05 19:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
 
 ---
 
@@ -118,6 +108,16 @@ Last updated: 2026-10-10 03:31:41
 
 ---
 
+## Hidden Brain
+
+### When Bad Things Happen to Good People
+
+**Released:** 2026-10-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### (Not Just) Another Brick in the Wall
@@ -129,6 +129,14 @@ Last updated: 2026-10-10 03:31:41
 ---
 
 ## Stuff You Should Know
+
+### Selects: What's the deal with swing states?
+
+**Released:** 2026-10-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b5d62a33-4f18-41e1-9997-b4dd00d9c300/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Stand-Up Pt II
 
@@ -154,11 +162,13 @@ Last updated: 2026-10-10 03:31:41
 
 ---
 
-### Selects: How Bras Work
+## Revisionist History
 
-**Released:** 2026-10-03 09:00:00
+### Wolfgang's Law - Part One
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -177,26 +187,6 @@ Last updated: 2026-10-10 03:31:41
 **Released:** 2026-10-05 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/fdd4f8d2-9920-427e-ae2a-ae2d44768a31.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## Revisionist History
-
-### Wolfgang's Law - Part One
-
-**Released:** 2026-10-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Tim Ferriss Show
-
-### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
-
-**Released:** 2026-10-08 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -236,24 +226,6 @@ Last updated: 2026-10-10 03:31:41
 
 ---
 
-## SmartLess 
-
-### "RE-RELEASE: Ben Affleck"
-
-**Released:** 2026-10-08 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO)
-
----
-
-### "Michael Douglas"
-
-**Released:** 2026-10-05 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
-
----
-
 ## Armchair Expert
 
 ### Armchair Anonymous: Nurses III
@@ -285,6 +257,34 @@ Last updated: 2026-10-10 03:31:41
 **Released:** 2026-10-05 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Ben Affleck"
+
+**Released:** 2026-10-08 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO)
+
+---
+
+### "Michael Douglas"
+
+**Released:** 2026-10-05 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/38e1de52-8a5c-415c-9690-f74a4acb78f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=38e1de52-8a5c-415c-9690-f74a4acb78f4&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
+
+**Released:** 2026-10-08 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
