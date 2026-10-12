@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37246 at https://www.thisamericanlife.org",
+    "episode_title": "427: Original Recipe",
+    "release_date": "2026-10-11 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "6ac7b033e2a72faefc1e8d13",
     "episode_title": "Sunday Pick: Can AI really teach your kids? with Leah Belsky | from WorkLife with Molly Graham",
     "release_date": "2026-10-11 06:00:00",
@@ -56,13 +63,6 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46233 at https://www.thisamericanlife.org",
-    "episode_title": "899: Reaching Out",
-    "release_date": "2026-10-04 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc",
     "episode_title": "#2563 - Dan Richards",
     "release_date": "2026-10-08 17:00:00",
@@ -82,6 +82,20 @@
     "release_date": "2026-10-06 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT5582771746.mp3",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "4da471c8-f8ec-4fbe-aba6-30ceacaa6aa1",
+    "episode_title": "When Bad Things Happen to Good People",
+    "release_date": "2026-10-05 19:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "c5d134a1-1a20-47cd-b7e9-6a7865ae29a6",
+    "episode_title": "(Not Just) Another Brick in the Wall",
+    "release_date": "2026-10-06 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "b5d62a33-4f18-41e1-9997-b4dd00d9c300",
@@ -112,18 +126,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "4da471c8-f8ec-4fbe-aba6-30ceacaa6aa1",
-    "episode_title": "When Bad Things Happen to Good People",
-    "release_date": "2026-10-05 19:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "c5d134a1-1a20-47cd-b7e9-6a7865ae29a6",
-    "episode_title": "(Not Just) Another Brick in the Wall",
-    "release_date": "2026-10-06 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "633a124e-d9c4-45d2-9d7f-b4dd00124388",
+    "episode_title": "Wolfgang's Law - Part One",
+    "release_date": "2026-10-08 07:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/4U5IblotV9xqyU1VMc3zGrLdXeQH29s8aq_n5KUHuXw",
@@ -140,18 +147,32 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "633a124e-d9c4-45d2-9d7f-b4dd00124388",
-    "episode_title": "Wolfgang's Law - Part One",
-    "release_date": "2026-10-08 07:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "gid://art19-episode-locator/V0/9LnP3g-x7GAvvPCwt2d6A7cBU3ZClLUxVFsrHKAPJZ8",
+    "episode_title": "Armchair Anonymous: Nurses III",
+    "release_date": "2026-10-09 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
-    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
-    "release_date": "2026-10-08 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "gid://art19-episode-locator/V0/oRhVlriZOFyjm9ziYRneURYSisU-Texko5myHy6ekvk",
+    "episode_title": "Adam Grant #4 (on the secrets of strong connections)",
+    "release_date": "2026-10-07 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/IWa33VY0Ongdeaw99iG6KLluvhs5rIDNBXtEWuKyM5k",
+    "episode_title": "Mom's Car: Dakota Fanning & Jake Johnson",
+    "release_date": "2026-10-06 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/d9uBsRaGatrapr0WFyoCTjYCY1kUjBkLKnOuIxel7DA",
+    "episode_title": "Guillermo del Toro",
+    "release_date": "2026-10-05 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "d8b51d18-5889-4c53-9ec2-1cae8fb524d9",
@@ -196,31 +217,10 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/9LnP3g-x7GAvvPCwt2d6A7cBU3ZClLUxVFsrHKAPJZ8",
-    "episode_title": "Armchair Anonymous: Nurses III",
-    "release_date": "2026-10-09 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/oRhVlriZOFyjm9ziYRneURYSisU-Texko5myHy6ekvk",
-    "episode_title": "Adam Grant #4 (on the secrets of strong connections)",
-    "release_date": "2026-10-07 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/IWa33VY0Ongdeaw99iG6KLluvhs5rIDNBXtEWuKyM5k",
-    "episode_title": "Mom's Car: Dakota Fanning & Jake Johnson",
-    "release_date": "2026-10-06 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/d9uBsRaGatrapr0WFyoCTjYCY1kUjBkLKnOuIxel7DA",
-    "episode_title": "Guillermo del Toro",
-    "release_date": "2026-10-05 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
+    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
+    "release_date": "2026-10-08 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]

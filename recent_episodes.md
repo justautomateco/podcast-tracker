@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-11 17:05:09
+Last updated: 2026-10-12 03:27:41
 
 ## Freakonomics Radio
 
@@ -9,6 +9,16 @@ Last updated: 2026-10-11 17:05:09
 **Released:** 2026-10-09 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 427: Original Recipe
+
+**Released:** 2026-10-11 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
 
 ---
 
@@ -72,16 +82,6 @@ Last updated: 2026-10-11 17:05:09
 
 ---
 
-## This American Life
-
-### 899: Reaching Out
-
-**Released:** 2026-10-04 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2563 - Dan Richards
@@ -105,6 +105,26 @@ Last updated: 2026-10-11 17:05:09
 **Released:** 2026-10-06 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5582771746.mp3)
+
+---
+
+## Hidden Brain
+
+### When Bad Things Happen to Good People
+
+**Released:** 2026-10-05 19:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### (Not Just) Another Brick in the Wall
+
+**Released:** 2026-10-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
 
 ---
 
@@ -142,23 +162,13 @@ Last updated: 2026-10-11 17:05:09
 
 ---
 
-## Hidden Brain
+## Revisionist History
 
-### When Bad Things Happen to Good People
+### Wolfgang's Law - Part One
 
-**Released:** 2026-10-05 19:00:00
+**Released:** 2026-10-08 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/2c5ab0a6-9726-4927-8374-88d6d7af0383/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=2c5ab0a6-9726-4927-8374-88d6d7af0383&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### (Not Just) Another Brick in the Wall
-
-**Released:** 2026-10-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -180,23 +190,37 @@ Last updated: 2026-10-11 17:05:09
 
 ---
 
-## Revisionist History
+## Armchair Expert
 
-### Wolfgang's Law - Part One
+### Armchair Anonymous: Nurses III
 
-**Released:** 2026-10-08 07:00:00
+**Released:** 2026-10-09 07:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## The Tim Ferriss Show
+### Adam Grant #4 (on the secrets of strong connections)
 
-### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
+**Released:** 2026-10-07 07:30:00
 
-**Released:** 2026-10-08 17:30:00
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+### Mom's Car: Dakota Fanning & Jake Johnson
+
+**Released:** 2026-10-06 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Guillermo del Toro
+
+**Released:** 2026-10-05 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -254,37 +278,13 @@ Last updated: 2026-10-11 17:05:09
 
 ---
 
-## Armchair Expert
+## The Tim Ferriss Show
 
-### Armchair Anonymous: Nurses III
+### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
 
-**Released:** 2026-10-09 07:30:00
+**Released:** 2026-10-08 17:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Adam Grant #4 (on the secrets of strong connections)
-
-**Released:** 2026-10-07 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Dakota Fanning & Jake Johnson
-
-**Released:** 2026-10-06 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Guillermo del Toro
-
-**Released:** 2026-10-05 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/b4d28d65-08eb-4342-a58d-27db26edb7b6.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
