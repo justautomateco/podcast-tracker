@@ -1,5 +1,19 @@
 [
   {
+    "guid": "61e9d902-83d9-4d66-b667-42a509974f1d",
+    "episode_title": "690. It\u2019s Show Business, Baby!",
+    "release_date": "2026-10-09 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "6acd4daa1882f45a244792a2",
+    "episode_title": "Why it's so hard to listen when you disagree | Emily Kasriel",
+    "release_date": "2026-10-13 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acd4daa1882f45a244792a2/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6ac7affae2a72faefc1e8d12",
     "episode_title": "How to make parenting less lonely | Stacey McLachlan",
     "release_date": "2026-10-12 15:00:00",
@@ -28,20 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6ac7ae48e2a72faefc1e8d0f",
-    "episode_title": "How imaginary worlds help kids learn | Anna Rainio",
-    "release_date": "2026-10-08 15:00:03",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7ae48e2a72faefc1e8d0f/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "61e9d902-83d9-4d66-b667-42a509974f1d",
-    "episode_title": "690. It\u2019s Show Business, Baby!",
-    "release_date": "2026-10-09 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "37246 at https://www.thisamericanlife.org",
     "episode_title": "427: Original Recipe",
     "release_date": "2026-10-11 20:00:00",
@@ -63,11 +63,46 @@
     "podcast_name": "Planet Money"
   },
   {
+    "guid": "d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525",
+    "episode_title": "#2564 - Chuck Lorre",
+    "release_date": "2026-10-13 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc",
+    "episode_title": "#2563 - Dan Richards",
+    "release_date": "2026-10-08 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1048281357.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
+    "episode_title": "#2562 - Dan McClellan",
+    "release_date": "2026-10-07 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT6084226127.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
     "guid": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
     "episode_title": "Why Am I Unhappy?",
     "release_date": "2026-10-12 17:35:10",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "365da1ae-e35e-4665-98ba-d705f0b4dce2",
+    "episode_title": "The Problem With Football Helmets",
+    "release_date": "2026-10-13 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "2fa6d973-0ab9-4879-984c-b4db013027cd",
+    "episode_title": "Asteroooooid De-FENSE!",
+    "release_date": "2026-10-13 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "b5d62a33-4f18-41e1-9997-b4dd00d9c300",
@@ -91,39 +126,18 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "6badb8c6-5351-4a96-924b-b4d60123f7fe",
-    "episode_title": "Stand-Up Comedy Pt I",
-    "release_date": "2026-10-06 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
+    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
+    "release_date": "2026-10-08 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "c5d134a1-1a20-47cd-b7e9-6a7865ae29a6",
-    "episode_title": "(Not Just) Another Brick in the Wall",
-    "release_date": "2026-10-06 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8971dd12-a9a8-449f-8a3d-d22052a9fde8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=8971dd12-a9a8-449f-8a3d-d22052a9fde8&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc",
-    "episode_title": "#2563 - Dan Richards",
-    "release_date": "2026-10-08 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1048281357.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
-    "episode_title": "#2562 - Dan McClellan",
-    "release_date": "2026-10-07 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "2013800e-c120-11f1-a768-6f890ba0aaa8",
-    "episode_title": "#2561 - LL Cool J",
-    "release_date": "2026-10-06 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "633a124e-d9c4-45d2-9d7f-b4dd00124388",
+    "episode_title": "Wolfgang's Law - Part One",
+    "release_date": "2026-10-08 07:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "gid://art19-episode-locator/V0/GiDNE3MaX0mB-G0wH5bNJsUb8BJ6Kuotu5scAhofgTU",
@@ -140,18 +154,18 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "633a124e-d9c4-45d2-9d7f-b4dd00124388",
-    "episode_title": "Wolfgang's Law - Part One",
-    "release_date": "2026-10-08 07:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/633a124e-d9c4-45d2-9d7f-b4dd00124388/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
+    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
+    "episode_title": "\"Jessica Biel\"",
+    "release_date": "2026-10-12 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
-    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
-    "release_date": "2026-10-08 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "a0198718-6ff7-4e0b-9cc5-1957d0a3f376",
+    "episode_title": "\"RE-RELEASE: Ben Affleck\"",
+    "release_date": "2026-10-08 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "245ecb67-2196-4c44-8049-c87b54c34906",
@@ -168,18 +182,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
-    "episode_title": "\"Jessica Biel\"",
-    "release_date": "2026-10-12 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "a0198718-6ff7-4e0b-9cc5-1957d0a3f376",
-    "episode_title": "\"RE-RELEASE: Ben Affleck\"",
-    "release_date": "2026-10-08 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/dDGCb075QvDeevOm2JHLHqx6BhvggGtb60EsvDVmhz4",
+    "episode_title": "Mom's Car: Jedidiah Jenkins",
+    "release_date": "2026-10-13 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/iEeIy6vPhVrDKelA5VaI8khtHY65kEXZNaXUZNAh5cI",
@@ -203,24 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/IWa33VY0Ongdeaw99iG6KLluvhs5rIDNBXtEWuKyM5k",
-    "episode_title": "Mom's Car: Dakota Fanning & Jake Johnson",
-    "release_date": "2026-10-06 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/80a2bb37-6a3c-4acb-9cde-ecd39bc9e155.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
+    "episode_title": "Girls!: The Moth Radio Hour",
+    "release_date": "2026-10-13 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "76fcd552-89d4-11f0-b13f-5f2a811e577f",
     "episode_title": "Squaring Up: The Moth Podcast",
     "release_date": "2026-10-09 07:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "75cf5b14-89d4-11f0-b13f-c3f3778f4274",
-    "episode_title": "A Love Note to NJ: The Moth Radio Hour",
-    "release_date": "2026-10-06 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208755/8208755_2026-04-13-033155.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
   }
 ]
