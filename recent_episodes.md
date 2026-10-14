@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-14 02:50:52
+Last updated: 2026-10-14 16:12:49
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-10-14 02:50:52
 ---
 
 ## TED Talks Daily
+
+### AI brain fry is real. Here’s what’s causing it | Julie Bedard
+
+**Released:** 2026-10-14 15:00:20
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3)
+
+---
 
 ### Why it's so hard to listen when you disagree | Emily Kasriel
 
@@ -46,14 +54,6 @@ Last updated: 2026-10-14 02:50:52
 
 ---
 
-### The three words that saved my life | Blake Mycoskie
-
-**Released:** 2026-10-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7af6ae2a72faefc1e8d10/media.mp3)
-
----
-
 ## This American Life
 
 ### 427: Original Recipe
@@ -61,6 +61,16 @@ Last updated: 2026-10-14 02:50:52
 **Released:** 2026-10-11 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
+
+---
+
+## Planet Money
+
+### Should we all be getting tariff refunds right now?
+
+**Released:** 2026-10-09 21:07:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555)
 
 ---
 
@@ -90,24 +100,6 @@ Last updated: 2026-10-14 02:50:52
 
 ---
 
-## Planet Money
-
-### Should we all be getting tariff refunds right now?
-
-**Released:** 2026-10-09 21:07:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555)
-
----
-
-### Charles Ponzi's scheme (plus a new scam)
-
-**Released:** 2026-10-07 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839)
-
----
-
 ## Hidden Brain
 
 ### Why Am I Unhappy?
@@ -118,7 +110,25 @@ Last updated: 2026-10-14 02:50:52
 
 ---
 
+## 99% Invisible
+
+### The Problem With Football Helmets
+
+**Released:** 2026-10-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
+
+### Short Stuff: Currency Symbols
+
+**Released:** 2026-10-14 09:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Asteroooooid De-FENSE!
 
@@ -141,24 +151,6 @@ Last updated: 2026-10-14 02:50:52
 **Released:** 2026-10-08 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165c6213-d25c-418d-89f3-b4d601257f1e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Short Stuff: The Style Cycle
-
-**Released:** 2026-10-07 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### The Problem With Football Helmets
-
-**Released:** 2026-10-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
 
 ---
 
@@ -190,21 +182,37 @@ Last updated: 2026-10-14 02:50:52
 
 ---
 
-## The Moth
+## Armchair Expert
 
-### Girls!: The Moth Radio Hour
+### Ashe
 
-**Released:** 2026-10-13 07:25:00
+**Released:** 2026-10-14 07:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a84344e6-9b5d-4d0a-95cf-76959f9c5041.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Squaring Up: The Moth Podcast
+### Mom's Car: Jedidiah Jenkins
 
-**Released:** 2026-10-09 07:25:00
+**Released:** 2026-10-13 07:30:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### James McAvoy
+
+**Released:** 2026-10-12 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6d1fd0b-d670-4e3d-8407-5149ca729c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Nurses III
+
+**Released:** 2026-10-09 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -244,40 +252,6 @@ Last updated: 2026-10-14 02:50:52
 
 ---
 
-## Armchair Expert
-
-### Mom's Car: Jedidiah Jenkins
-
-**Released:** 2026-10-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James McAvoy
-
-**Released:** 2026-10-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6d1fd0b-d670-4e3d-8407-5149ca729c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Nurses III
-
-**Released:** 2026-10-09 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Adam Grant #4 (on the secrets of strong connections)
-
-**Released:** 2026-10-07 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8d6cc802-201e-4eae-9fc3-b47132580e6d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Tim Ferriss Show
 
 ### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
@@ -285,6 +259,24 @@ Last updated: 2026-10-14 02:50:52
 **Released:** 2026-10-08 17:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Girls!: The Moth Radio Hour
+
+**Released:** 2026-10-13 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
+
+---
+
+### Squaring Up: The Moth Podcast
+
+**Released:** 2026-10-09 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066)
 
 ---
 
