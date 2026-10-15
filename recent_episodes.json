@@ -1,12 +1,5 @@
 [
   {
-    "guid": "61e9d902-83d9-4d66-b667-42a509974f1d",
-    "episode_title": "690. It\u2019s Show Business, Baby!",
-    "release_date": "2026-10-09 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "6acf9867b3381b9dbb7c315a",
     "episode_title": "AI brain fry is real. Here\u2019s what\u2019s causing it | Julie Bedard",
     "release_date": "2026-10-14 15:00:20",
@@ -42,6 +35,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "61e9d902-83d9-4d66-b667-42a509974f1d",
+    "episode_title": "690. It\u2019s Show Business, Baby!",
+    "release_date": "2026-10-09 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "37246 at https://www.thisamericanlife.org",
     "episode_title": "427: Original Recipe",
     "release_date": "2026-10-11 20:00:00",
@@ -49,11 +49,32 @@
     "podcast_name": "This American Life"
   },
   {
+    "guid": "b297c28a-87e4-4b96-92e0-e64b7b581948",
+    "episode_title": "Wanna slow down AI? These biologists can help.",
+    "release_date": "2026-10-14 21:30:18",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "71c5cc76-b7f6-4479-9835-26b8d7e16c67",
     "episode_title": "Should we all be getting tariff refunds right now?",
     "release_date": "2026-10-09 21:07:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
+    "episode_title": "Why Am I Unhappy?",
+    "release_date": "2026-10-12 17:35:10",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8",
+    "episode_title": "#2565 - Michael Douglas",
+    "release_date": "2026-10-14 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7323005226.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525",
@@ -68,27 +89,6 @@
     "release_date": "2026-10-08 17:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT1048281357.mp3",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a",
-    "episode_title": "#2562 - Dan McClellan",
-    "release_date": "2026-10-07 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
-    "episode_title": "Why Am I Unhappy?",
-    "release_date": "2026-10-12 17:35:10",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "365da1ae-e35e-4665-98ba-d705f0b4dce2",
-    "episode_title": "The Problem With Football Helmets",
-    "release_date": "2026-10-13 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
   },
   {
     "guid": "65aec1de-d4db-465a-851d-b4e20124b771",
@@ -119,6 +119,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "365da1ae-e35e-4665-98ba-d705f0b4dce2",
+    "episode_title": "The Problem With Football Helmets",
+    "release_date": "2026-10-13 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/GiDNE3MaX0mB-G0wH5bNJsUb8BJ6Kuotu5scAhofgTU",
     "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
     "release_date": "2026-10-12 07:10:00",
@@ -131,6 +138,55 @@
     "release_date": "2026-10-08 07:10:00",
     "mp3_url": "https://rss.art19.com/episodes/7764e494-e791-48db-b95a-2d18994139a0.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
+    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
+    "release_date": "2026-10-08 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
+    "episode_title": "Girls!: The Moth Radio Hour",
+    "release_date": "2026-10-13 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "76fcd552-89d4-11f0-b13f-5f2a811e577f",
+    "episode_title": "Squaring Up: The Moth Podcast",
+    "release_date": "2026-10-09 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
+    "episode_title": "\"Jessica Biel\"",
+    "release_date": "2026-10-12 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "a0198718-6ff7-4e0b-9cc5-1957d0a3f376",
+    "episode_title": "\"RE-RELEASE: Ben Affleck\"",
+    "release_date": "2026-10-08 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "245ecb67-2196-4c44-8049-c87b54c34906",
+    "episode_title": "Kyle MacLachlan",
+    "release_date": "2026-10-12 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "d8b51d18-5889-4c53-9ec2-1cae8fb524d9",
+    "episode_title": "Conan O\u2019Brien Must Go: Season 3 Roundtable Discussion Part II",
+    "release_date": "2026-10-08 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7dbae2bc-f937-4bae-8da4-c51b736a80e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7dbae2bc-f937-4bae-8da4-c51b736a80e3&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "633a124e-d9c4-45d2-9d7f-b4dd00124388",
@@ -166,54 +222,5 @@
     "release_date": "2026-10-09 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/10d1337f-ee05-4048-8d8c-338e8e209db9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "245ecb67-2196-4c44-8049-c87b54c34906",
-    "episode_title": "Kyle MacLachlan",
-    "release_date": "2026-10-12 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "d8b51d18-5889-4c53-9ec2-1cae8fb524d9",
-    "episode_title": "Conan O\u2019Brien Must Go: Season 3 Roundtable Discussion Part II",
-    "release_date": "2026-10-08 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/7dbae2bc-f937-4bae-8da4-c51b736a80e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=7dbae2bc-f937-4bae-8da4-c51b736a80e3&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
-    "episode_title": "\"Jessica Biel\"",
-    "release_date": "2026-10-12 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "a0198718-6ff7-4e0b-9cc5-1957d0a3f376",
-    "episode_title": "\"RE-RELEASE: Ben Affleck\"",
-    "release_date": "2026-10-08 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c8a870ae-88d6-40e5-92ff-a04b3e3c8c7b&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/2gc0hStoXesmLQZPcbIV2jgLHbfTSjMnSRajpeMjrBM",
-    "episode_title": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
-    "release_date": "2026-10-08 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
-    "episode_title": "Girls!: The Moth Radio Hour",
-    "release_date": "2026-10-13 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "76fcd552-89d4-11f0-b13f-5f2a811e577f",
-    "episode_title": "Squaring Up: The Moth Podcast",
-    "release_date": "2026-10-09 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   }
 ]
