@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-15 16:00:23
-
-## Freakonomics Radio
-
-### 690. It’s Show Business, Baby!
-
-**Released:** 2026-10-09 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-16 02:24:12
 
 ## TED Talks Daily
+
+### How to stop homelessness before it starts | Jen Loving
+
+**Released:** 2026-10-15 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3)
+
+---
 
 ### AI brain fry is real. Here’s what leaders can do | Julie Bedard
 
@@ -46,14 +44,6 @@ Last updated: 2026-10-15 16:00:23
 
 ---
 
-### Why the future is human ... plus AI | Sal Khan and Esther Perel
-
-**Released:** 2026-10-10 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac518de854b00dcfdb99f09/media.mp3)
-
----
-
 ## This American Life
 
 ### 427: Original Recipe
@@ -64,29 +54,13 @@ Last updated: 2026-10-15 16:00:23
 
 ---
 
-## The Joe Rogan Experience
+## Freakonomics Radio
 
-### #2565 - Michael Douglas
+### 690. It’s Show Business, Baby!
 
-**Released:** 2026-10-14 17:00:00
+**Released:** 2026-10-09 10:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7323005226.mp3)
-
----
-
-### #2564 - Chuck Lorre
-
-**Released:** 2026-10-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8839252815.mp3)
-
----
-
-### #2563 - Dan Richards
-
-**Released:** 2026-10-08 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1048281357.mp3)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d8917a50-ae6e-4ee7-8587-fee9ad02456e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=d8917a50-ae6e-4ee7-8587-fee9ad02456e&feed=Y8lFbOT4)
 
 ---
 
@@ -105,6 +79,52 @@ Last updated: 2026-10-15 16:00:23
 **Released:** 2026-10-09 21:07:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555)
+
+---
+
+## Hidden Brain
+
+### Why Am I Unhappy?
+
+**Released:** 2026-10-12 17:35:10
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Problem With Football Helmets
+
+**Released:** 2026-10-13 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
+
+---
+
+## The Joe Rogan Experience
+
+### #2566 - Cody Tucker
+
+**Released:** 2026-10-15 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9650525080.mp3)
+
+---
+
+### #2565 - Michael Douglas
+
+**Released:** 2026-10-14 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7323005226.mp3)
+
+---
+
+### #2564 - Chuck Lorre
+
+**Released:** 2026-10-13 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8839252815.mp3)
 
 ---
 
@@ -142,36 +162,6 @@ Last updated: 2026-10-15 16:00:23
 
 ---
 
-## Hidden Brain
-
-### Why Am I Unhappy?
-
-**Released:** 2026-10-12 17:35:10
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Problem With Football Helmets
-
-**Released:** 2026-10-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
-
----
-
-## Revisionist History
-
-### Wolfgang's Law - Part Two
-
-**Released:** 2026-10-15 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## How I Built This
 
 ### Advice Line with Tara Bosch of SmartSweets
@@ -190,21 +180,13 @@ Last updated: 2026-10-15 16:00:23
 
 ---
 
-## The Moth
+## Revisionist History
 
-### Girls!: The Moth Radio Hour
+### Wolfgang's Law - Part Two
 
-**Released:** 2026-10-13 07:25:00
+**Released:** 2026-10-15 07:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
-
----
-
-### Squaring Up: The Moth Podcast
-
-**Released:** 2026-10-09 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -260,13 +242,21 @@ Last updated: 2026-10-15 16:00:23
 
 ---
 
-## The Tim Ferriss Show
+## The Moth
 
-### #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More
+### Girls!: The Moth Radio Hour
 
-**Released:** 2026-10-08 17:30:00
+**Released:** 2026-10-13 07:25:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
+
+---
+
+### Squaring Up: The Moth Podcast
+
+**Released:** 2026-10-09 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208745/8208745_2026-04-13-032145.192.mp3?rssID=6066)
 
 ---
 
