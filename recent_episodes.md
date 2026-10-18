@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-17 14:42:12
+Last updated: 2026-10-18 02:16:54
 
 ## Freakonomics Radio
 
@@ -12,25 +12,15 @@ Last updated: 2026-10-17 14:42:12
 
 ---
 
-## Planet Money
-
-### Anatomy of a movie market
-
-**Released:** 2026-10-16 21:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
-
----
-
-### Wanna slow down AI? These biologists can help.
-
-**Released:** 2026-10-14 21:30:18
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
-
----
-
 ## TED Talks Daily
+
+### Inside Venezuela's uncertain path to freedom | Leopoldo López
+
+**Released:** 2026-10-17 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3)
+
+---
 
 ### Is your body language working against you? | Cara Hale Alter
 
@@ -64,14 +54,6 @@ Last updated: 2026-10-17 14:42:12
 
 ---
 
-### How to make parenting less lonely | Stacey McLachlan
-
-**Released:** 2026-10-12 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7affae2a72faefc1e8d12/media.mp3)
-
----
-
 ## This American Life
 
 ### 427: Original Recipe
@@ -79,6 +61,24 @@ Last updated: 2026-10-17 14:42:12
 **Released:** 2026-10-11 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
+
+---
+
+## Planet Money
+
+### Anatomy of a movie market
+
+**Released:** 2026-10-16 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
+
+---
+
+### Wanna slow down AI? These biologists can help.
+
+**Released:** 2026-10-14 21:30:18
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
 
 ---
 
@@ -170,6 +170,52 @@ Last updated: 2026-10-17 14:42:12
 
 ---
 
+## How I Built This
+
+### Advice Line with Tara Bosch of SmartSweets
+
+**Released:** 2026-10-15 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Alamo Drafthouse Cinema: Tim and Karrie League (2023)
+
+**Released:** 2026-10-12 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Revisionist History
+
+### Wolfgang's Law - Part Two
+
+**Released:** 2026-10-15 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Bubble Gum and Cyanide
+
+**Released:** 2026-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH)
+
+---
+
+### Kyle MacLachlan
+
+**Released:** 2026-10-12 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Study Abroad
@@ -204,44 +250,6 @@ Last updated: 2026-10-17 14:42:12
 
 ---
 
-## Revisionist History
-
-### Wolfgang's Law - Part Two
-
-**Released:** 2026-10-15 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Bubble Gum and Cyanide
-
-**Released:** 2026-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH)
-
----
-
-### Kyle MacLachlan
-
-**Released:** 2026-10-12 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Jessica Biel"
-
-**Released:** 2026-10-12 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO)
-
----
-
 ## The Moth
 
 ### Looking the Part: The Moth Podcast
@@ -260,21 +268,13 @@ Last updated: 2026-10-17 14:42:12
 
 ---
 
-## How I Built This
+## SmartLess 
 
-### Advice Line with Tara Bosch of SmartSweets
+### "Jessica Biel"
 
-**Released:** 2026-10-15 07:10:00
+**Released:** 2026-10-12 07:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Alamo Drafthouse Cinema: Tim and Karrie League (2023)
-
-**Released:** 2026-10-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO)
 
 ---
 

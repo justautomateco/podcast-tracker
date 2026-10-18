@@ -7,18 +7,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
-    "episode_title": "Anatomy of a movie market",
-    "release_date": "2026-10-16 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "b297c28a-87e4-4b96-92e0-e64b7b581948",
-    "episode_title": "Wanna slow down AI? These biologists can help.",
-    "release_date": "2026-10-14 21:30:18",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
-    "podcast_name": "Planet Money"
+    "guid": "6acfa6f7b3381b9dbb7c315e",
+    "episode_title": "Inside Venezuela's uncertain path to freedom | Leopoldo L\u00f3pez",
+    "release_date": "2026-10-17 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6acfa672b3381b9dbb7c315d",
@@ -49,18 +42,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6ac7affae2a72faefc1e8d12",
-    "episode_title": "How to make parenting less lonely | Stacey McLachlan",
-    "release_date": "2026-10-12 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7affae2a72faefc1e8d12/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37246 at https://www.thisamericanlife.org",
     "episode_title": "427: Original Recipe",
     "release_date": "2026-10-11 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
+    "episode_title": "Anatomy of a movie market",
+    "release_date": "2026-10-16 21:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "b297c28a-87e4-4b96-92e0-e64b7b581948",
+    "episode_title": "Wanna slow down AI? These biologists can help.",
+    "release_date": "2026-10-14 21:30:18",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
@@ -133,6 +133,41 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/nXj46jD6_OOGK9BHtObqLakEd9w87mblHTBLReFVq3I",
+    "episode_title": "Advice Line with Tara Bosch of SmartSweets",
+    "release_date": "2026-10-15 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/GiDNE3MaX0mB-G0wH5bNJsUb8BJ6Kuotu5scAhofgTU",
+    "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+    "release_date": "2026-10-12 07:10:00",
+    "mp3_url": "https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "44558a08-7551-4948-841f-b4e3016a0653",
+    "episode_title": "Wolfgang's Law - Part Two",
+    "release_date": "2026-10-15 07:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "397c7a8f-5540-4d6c-b099-f51b68415fee",
+    "episode_title": "Bubble Gum and Cyanide",
+    "release_date": "2026-10-15 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "245ecb67-2196-4c44-8049-c87b54c34906",
+    "episode_title": "Kyle MacLachlan",
+    "release_date": "2026-10-12 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/yP_MxFpkizJaZvgyjc_skWjCng9EdXquhs37knMogvA",
     "episode_title": "Armchair Anonymous: Study Abroad",
     "release_date": "2026-10-16 07:30:00",
@@ -161,34 +196,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "44558a08-7551-4948-841f-b4e3016a0653",
-    "episode_title": "Wolfgang's Law - Part Two",
-    "release_date": "2026-10-15 07:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "397c7a8f-5540-4d6c-b099-f51b68415fee",
-    "episode_title": "Bubble Gum and Cyanide",
-    "release_date": "2026-10-15 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "245ecb67-2196-4c44-8049-c87b54c34906",
-    "episode_title": "Kyle MacLachlan",
-    "release_date": "2026-10-12 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
-    "episode_title": "\"Jessica Biel\"",
-    "release_date": "2026-10-12 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
     "episode_title": "Looking the Part: The Moth Podcast",
     "release_date": "2026-10-16 07:25:00",
@@ -203,17 +210,10 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/nXj46jD6_OOGK9BHtObqLakEd9w87mblHTBLReFVq3I",
-    "episode_title": "Advice Line with Tara Bosch of SmartSweets",
-    "release_date": "2026-10-15 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/GiDNE3MaX0mB-G0wH5bNJsUb8BJ6Kuotu5scAhofgTU",
-    "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
-    "release_date": "2026-10-12 07:10:00",
-    "mp3_url": "https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "How I Built This"
+    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
+    "episode_title": "\"Jessica Biel\"",
+    "release_date": "2026-10-12 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
