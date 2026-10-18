@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-18 02:16:54
+Last updated: 2026-10-18 15:07:40
 
 ## Freakonomics Radio
 
@@ -12,7 +12,25 @@ Last updated: 2026-10-18 02:16:54
 
 ---
 
+## This American Life
+
+### 427: Original Recipe
+
+**Released:** 2026-10-11 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human
+
+**Released:** 2026-10-18 06:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3)
+
+---
 
 ### Inside Venezuela's uncertain path to freedom | Leopoldo López
 
@@ -43,24 +61,6 @@ Last updated: 2026-10-18 02:16:54
 **Released:** 2026-10-14 15:00:20
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3)
-
----
-
-### Why it's so hard to listen when you disagree | Emily Kasriel
-
-**Released:** 2026-10-13 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acd4daa1882f45a244792a2/media.mp3)
-
----
-
-## This American Life
-
-### 427: Original Recipe
-
-**Released:** 2026-10-11 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
 
 ---
 

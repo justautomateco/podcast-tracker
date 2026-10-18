@@ -7,6 +7,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "37246 at https://www.thisamericanlife.org",
+    "episode_title": "427: Original Recipe",
+    "release_date": "2026-10-11 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6acf9f12b3381b9dbb7c315b",
+    "episode_title": "Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human",
+    "release_date": "2026-10-18 06:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6acfa6f7b3381b9dbb7c315e",
     "episode_title": "Inside Venezuela's uncertain path to freedom | Leopoldo L\u00f3pez",
     "release_date": "2026-10-17 15:00:00",
@@ -33,20 +47,6 @@
     "release_date": "2026-10-14 15:00:20",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3",
     "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "6acd4daa1882f45a244792a2",
-    "episode_title": "Why it's so hard to listen when you disagree | Emily Kasriel",
-    "release_date": "2026-10-13 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acd4daa1882f45a244792a2/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "37246 at https://www.thisamericanlife.org",
-    "episode_title": "427: Original Recipe",
-    "release_date": "2026-10-11 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
