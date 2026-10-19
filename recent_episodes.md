@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-19 02:32:05
-
-## Freakonomics Radio
-
-### 691. Is This What a “Good Billionaire” Looks Like?
-
-**Released:** 2026-10-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-19 18:00:12
 
 ## TED Talks Daily
+
+### What if you could read the DNA of your future child? | Noor Siddiqui
+
+**Released:** 2026-10-19 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3)
+
+---
 
 ### Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human
 
@@ -46,11 +44,13 @@ Last updated: 2026-10-19 02:32:05
 
 ---
 
-### AI brain fry is real. Here’s what leaders can do | Julie Bedard
+## Freakonomics Radio
 
-**Released:** 2026-10-14 15:00:20
+### 691. Is This What a “Good Billionaire” Looks Like?
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3)
+**Released:** 2026-10-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
 
 ---
 
@@ -61,6 +61,24 @@ Last updated: 2026-10-19 02:32:05
 **Released:** 2026-10-18 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+
+---
+
+## Planet Money
+
+### Anatomy of a movie market
+
+**Released:** 2026-10-16 21:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
+
+---
+
+### Wanna slow down AI? These biologists can help.
+
+**Released:** 2026-10-14 21:30:18
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
 
 ---
 
@@ -98,21 +116,13 @@ Last updated: 2026-10-19 02:32:05
 
 ---
 
-## Planet Money
+## Hidden Brain
 
-### Anatomy of a movie market
+### Do You Have Trouble Sleeping?
 
-**Released:** 2026-10-16 21:30:00
+**Released:** 2026-10-19 16:04:39
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
-
----
-
-### Wanna slow down AI? These biologists can help.
-
-**Released:** 2026-10-14 21:30:18
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4316fd53-1cac-4e04-ae81-44caa56d6c76/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4316fd53-1cac-4e04-ae81-44caa56d6c76&feed=kwWc0lhf)
 
 ---
 
@@ -123,16 +133,6 @@ Last updated: 2026-10-19 02:32:05
 **Released:** 2026-10-13 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Why Am I Unhappy?
-
-**Released:** 2026-10-12 17:35:10
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf)
 
 ---
 
@@ -172,19 +172,19 @@ Last updated: 2026-10-19 02:32:05
 
 ## How I Built This
 
+### Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand
+
+**Released:** 2026-10-19 07:10:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ### Advice Line with Tara Bosch of SmartSweets
 
 **Released:** 2026-10-15 07:10:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Alamo Drafthouse Cinema: Tim and Karrie League (2023)
-
-**Released:** 2026-10-12 07:10:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -195,6 +195,16 @@ Last updated: 2026-10-19 02:32:05
 **Released:** 2026-10-15 07:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/44558a08-7551-4948-841f-b4e3016a0653/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## SmartLess 
+
+### "Colman Domingo"
+
+**Released:** 2026-10-19 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
 
 ---
 
@@ -216,17 +226,15 @@ Last updated: 2026-10-19 02:32:05
 
 ---
 
-## SmartLess 
+## Conan O'Brien Needs A Friend
 
-### "Jessica Biel"
+### Martin Short Returns Again
 
-**Released:** 2026-10-12 07:01:00
+**Released:** 2026-10-19 04:05:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### Bubble Gum and Cyanide
 
@@ -236,15 +244,15 @@ Last updated: 2026-10-19 02:32:05
 
 ---
 
-### Kyle MacLachlan
+## Armchair Expert
 
-**Released:** 2026-10-12 04:05:00
+### Colin Kaepernick
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/f6438514-cd12-4fb3-a183-75cce5af8b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=f6438514-cd12-4fb3-a183-75cce5af8b9b&feed=dHoohVNH)
+**Released:** 2026-10-19 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eea4f157-e24c-4baa-8400-ff55634bd052.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
-
-## Armchair Expert
 
 ### Armchair Anonymous: Study Abroad
 
@@ -267,14 +275,6 @@ Last updated: 2026-10-19 02:32:05
 **Released:** 2026-10-13 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### James McAvoy
-
-**Released:** 2026-10-12 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6d1fd0b-d670-4e3d-8407-5149ca729c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
