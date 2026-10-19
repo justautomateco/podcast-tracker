@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-18 15:07:40
+Last updated: 2026-10-19 02:32:05
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-10-18 15:07:40
 **Released:** 2026-10-16 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 427: Original Recipe
-
-**Released:** 2026-10-11 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache)
 
 ---
 
@@ -64,21 +54,13 @@ Last updated: 2026-10-18 15:07:40
 
 ---
 
-## Planet Money
+## This American Life
 
-### Anatomy of a movie market
+### 489: No Coincidence, No Story!
 
-**Released:** 2026-10-16 21:30:00
+**Released:** 2026-10-18 20:00:00
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
-
----
-
-### Wanna slow down AI? These biologists can help.
-
-**Released:** 2026-10-14 21:30:18
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
 
 ---
 
@@ -116,13 +98,21 @@ Last updated: 2026-10-18 15:07:40
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Why Am I Unhappy?
+### Anatomy of a movie market
 
-**Released:** 2026-10-12 17:35:10
+**Released:** 2026-10-16 21:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
+
+---
+
+### Wanna slow down AI? These biologists can help.
+
+**Released:** 2026-10-14 21:30:18
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
 
 ---
 
@@ -133,6 +123,16 @@ Last updated: 2026-10-18 15:07:40
 **Released:** 2026-10-13 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### Why Am I Unhappy?
+
+**Released:** 2026-10-12 17:35:10
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf)
 
 ---
 
@@ -198,6 +198,34 @@ Last updated: 2026-10-18 15:07:40
 
 ---
 
+## The Moth
+
+### Looking the Part: The Moth Podcast
+
+**Released:** 2026-10-16 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066)
+
+---
+
+### Girls!: The Moth Radio Hour
+
+**Released:** 2026-10-13 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Jessica Biel"
+
+**Released:** 2026-10-12 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Bubble Gum and Cyanide
@@ -247,34 +275,6 @@ Last updated: 2026-10-18 15:07:40
 **Released:** 2026-10-12 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/d6d1fd0b-d670-4e3d-8407-5149ca729c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Looking the Part: The Moth Podcast
-
-**Released:** 2026-10-16 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066)
-
----
-
-### Girls!: The Moth Radio Hour
-
-**Released:** 2026-10-13 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Jessica Biel"
-
-**Released:** 2026-10-12 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO)
 
 ---
 

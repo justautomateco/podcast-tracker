@@ -7,13 +7,6 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "37246 at https://www.thisamericanlife.org",
-    "episode_title": "427: Original Recipe",
-    "release_date": "2026-10-11 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "6acf9f12b3381b9dbb7c315b",
     "episode_title": "Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human",
     "release_date": "2026-10-18 06:00:00",
@@ -49,18 +42,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
-    "episode_title": "Anatomy of a movie market",
-    "release_date": "2026-10-16 21:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "b297c28a-87e4-4b96-92e0-e64b7b581948",
-    "episode_title": "Wanna slow down AI? These biologists can help.",
-    "release_date": "2026-10-14 21:30:18",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
-    "podcast_name": "Planet Money"
+    "guid": "37184 at https://www.thisamericanlife.org",
+    "episode_title": "489: No Coincidence, No Story!",
+    "release_date": "2026-10-18 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
@@ -91,11 +77,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
-    "episode_title": "Why Am I Unhappy?",
-    "release_date": "2026-10-12 17:35:10",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
+    "episode_title": "Anatomy of a movie market",
+    "release_date": "2026-10-16 21:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "b297c28a-87e4-4b96-92e0-e64b7b581948",
+    "episode_title": "Wanna slow down AI? These biologists can help.",
+    "release_date": "2026-10-14 21:30:18",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "365da1ae-e35e-4665-98ba-d705f0b4dce2",
@@ -103,6 +96,13 @@
     "release_date": "2026-10-13 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
+    "episode_title": "Why Am I Unhappy?",
+    "release_date": "2026-10-12 17:35:10",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/99f68276-72af-4365-90ea-c300b48bd191/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=99f68276-72af-4365-90ea-c300b48bd191&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "1d1b2133-b0f6-4b85-b267-b4e4014c5b8d",
@@ -154,6 +154,27 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
+    "episode_title": "Looking the Part: The Moth Podcast",
+    "release_date": "2026-10-16 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
+    "episode_title": "Girls!: The Moth Radio Hour",
+    "release_date": "2026-10-13 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
+    "episode_title": "\"Jessica Biel\"",
+    "release_date": "2026-10-12 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "397c7a8f-5540-4d6c-b099-f51b68415fee",
     "episode_title": "Bubble Gum and Cyanide",
     "release_date": "2026-10-15 04:05:00",
@@ -194,26 +215,5 @@
     "release_date": "2026-10-12 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/d6d1fd0b-d670-4e3d-8407-5149ca729c2f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
-    "episode_title": "Looking the Part: The Moth Podcast",
-    "release_date": "2026-10-16 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
-    "episode_title": "Girls!: The Moth Radio Hour",
-    "release_date": "2026-10-13 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "d7a6b21f-29d5-4cd9-85f6-5d772586c765",
-    "episode_title": "\"Jessica Biel\"",
-    "release_date": "2026-10-12 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79628bda-a693-4799-8c6d-c4da0aeb7726/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79628bda-a693-4799-8c6d-c4da0aeb7726&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
