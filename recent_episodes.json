@@ -1,5 +1,12 @@
 [
   {
+    "guid": "70116525-cf1b-46e0-9234-6d94f475977d",
+    "episode_title": "691. Is This What a \u201cGood Billionaire\u201d Looks Like?",
+    "release_date": "2026-10-16 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "6acfa742b3381b9dbb7c315f",
     "episode_title": "What if you could read the DNA of your future child? | Noor Siddiqui",
     "release_date": "2026-10-19 15:00:00",
@@ -35,20 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "70116525-cf1b-46e0-9234-6d94f475977d",
-    "episode_title": "691. Is This What a \u201cGood Billionaire\u201d Looks Like?",
-    "release_date": "2026-10-16 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "37184 at https://www.thisamericanlife.org",
-    "episode_title": "489: No Coincidence, No Story!",
-    "release_date": "2026-10-18 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
     "episode_title": "Anatomy of a movie market",
     "release_date": "2026-10-16 21:30:00",
@@ -61,6 +54,13 @@
     "release_date": "2026-10-14 21:30:18",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "37184 at https://www.thisamericanlife.org",
+    "episode_title": "489: No Coincidence, No Story!",
+    "release_date": "2026-10-18 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
@@ -154,6 +154,20 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "09ba9aed-8104-4841-9f0c-a18f736637bf",
+    "episode_title": "Martin Short Returns Again",
+    "release_date": "2026-10-19 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "397c7a8f-5540-4d6c-b099-f51b68415fee",
+    "episode_title": "Bubble Gum and Cyanide",
+    "release_date": "2026-10-15 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
     "guid": "8df0643c-5c45-47d5-bb94-069aa0cba101",
     "episode_title": "\"Colman Domingo\"",
     "release_date": "2026-10-19 07:01:00",
@@ -173,20 +187,6 @@
     "release_date": "2026-10-13 07:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "09ba9aed-8104-4841-9f0c-a18f736637bf",
-    "episode_title": "Martin Short Returns Again",
-    "release_date": "2026-10-19 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "397c7a8f-5540-4d6c-b099-f51b68415fee",
-    "episode_title": "Bubble Gum and Cyanide",
-    "release_date": "2026-10-15 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/2SBGeDVFrTht_mS3atILXcHWNz2jis_SbNEPX3Hnd6E",

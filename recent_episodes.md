@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-19 18:00:12
+Last updated: 2026-10-20 02:44:55
+
+## Freakonomics Radio
+
+### 691. Is This What a “Good Billionaire” Looks Like?
+
+**Released:** 2026-10-16 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,26 +54,6 @@ Last updated: 2026-10-19 18:00:12
 
 ---
 
-## Freakonomics Radio
-
-### 691. Is This What a “Good Billionaire” Looks Like?
-
-**Released:** 2026-10-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 489: No Coincidence, No Story!
-
-**Released:** 2026-10-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
-
----
-
 ## Planet Money
 
 ### Anatomy of a movie market
@@ -79,6 +69,16 @@ Last updated: 2026-10-19 18:00:12
 **Released:** 2026-10-14 21:30:18
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
+
+---
+
+## This American Life
+
+### 489: No Coincidence, No Story!
+
+**Released:** 2026-10-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
 
 ---
 
@@ -198,6 +198,24 @@ Last updated: 2026-10-19 18:00:12
 
 ---
 
+## Conan O'Brien Needs A Friend
+
+### Martin Short Returns Again
+
+**Released:** 2026-10-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
+
+---
+
+### Bubble Gum and Cyanide
+
+**Released:** 2026-10-15 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH)
+
+---
+
 ## SmartLess 
 
 ### "Colman Domingo"
@@ -223,24 +241,6 @@ Last updated: 2026-10-19 18:00:12
 **Released:** 2026-10-13 07:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Martin Short Returns Again
-
-**Released:** 2026-10-19 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
-
----
-
-### Bubble Gum and Cyanide
-
-**Released:** 2026-10-15 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/084ba938-c183-4ec2-badc-45cdefc666ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=084ba938-c183-4ec2-badc-45cdefc666ba&feed=dHoohVNH)
 
 ---
 
