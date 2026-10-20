@@ -7,6 +7,13 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "6ad77fd358c0e97ce0c32f31",
+    "episode_title": "Why the best learners talk to themselves | Tania Lombrozo",
+    "release_date": "2026-10-20 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3",
+    "podcast_name": "TED Talks Daily"
+  },
+  {
     "guid": "6acfa742b3381b9dbb7c315f",
     "episode_title": "What if you could read the DNA of your future child? | Noor Siddiqui",
     "release_date": "2026-10-19 15:00:00",
@@ -35,13 +42,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6acfa619b3381b9dbb7c315c",
-    "episode_title": "How to stop homelessness before it starts | Jen Loving",
-    "release_date": "2026-10-15 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "515a052e-a76b-4127-a5f4-9c6a9d70c1ac",
     "episode_title": "Anatomy of a movie market",
     "release_date": "2026-10-16 21:30:00",
@@ -54,13 +54,6 @@
     "release_date": "2026-10-14 21:30:18",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37184 at https://www.thisamericanlife.org",
-    "episode_title": "489: No Coincidence, No Story!",
-    "release_date": "2026-10-18 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
@@ -91,6 +84,20 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "f981c287-6236-44d2-a4d0-7cb4bfc613c6",
+    "episode_title": "Tony Hawk's Real-Life Willy Wonka",
+    "release_date": "2026-10-20 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "37184 at https://www.thisamericanlife.org",
+    "episode_title": "489: No Coincidence, No Story!",
+    "release_date": "2026-10-18 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "aae5d2bb-92c3-44b2-a47d-7d85cbb4e648",
     "episode_title": "Do You Have Trouble Sleeping?",
     "release_date": "2026-10-19 16:04:39",
@@ -98,11 +105,11 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "365da1ae-e35e-4665-98ba-d705f0b4dce2",
-    "episode_title": "The Problem With Football Helmets",
-    "release_date": "2026-10-13 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "4de2947d-67fe-4466-a768-b4e500e64edf",
+    "episode_title": "Winnie the Pooh: Silly Old Bear",
+    "release_date": "2026-10-20 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4de2947d-67fe-4466-a768-b4e500e64edf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "1d1b2133-b0f6-4b85-b267-b4e4014c5b8d",
@@ -123,13 +130,6 @@
     "episode_title": "Short Stuff: Currency Symbols",
     "release_date": "2026-10-14 09:00:00",
     "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "2fa6d973-0ab9-4879-984c-b4db013027cd",
-    "episode_title": "Asteroooooid De-FENSE!",
-    "release_date": "2026-10-13 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
     "podcast_name": "Stuff You Should Know"
   },
   {
@@ -154,6 +154,27 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "761acc84-89d4-11f0-b13f-5713c34bf49a",
+    "episode_title": "Mortality: The Moth Radio Hour",
+    "release_date": "2026-10-20 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
+    "episode_title": "Looking the Part: The Moth Podcast",
+    "release_date": "2026-10-16 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "8df0643c-5c45-47d5-bb94-069aa0cba101",
+    "episode_title": "\"Colman Domingo\"",
+    "release_date": "2026-10-19 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "09ba9aed-8104-4841-9f0c-a18f736637bf",
     "episode_title": "Martin Short Returns Again",
     "release_date": "2026-10-19 04:05:00",
@@ -168,25 +189,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "8df0643c-5c45-47d5-bb94-069aa0cba101",
-    "episode_title": "\"Colman Domingo\"",
-    "release_date": "2026-10-19 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
-    "episode_title": "Looking the Part: The Moth Podcast",
-    "release_date": "2026-10-16 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "75f4de48-89d4-11f0-b13f-0bf0f5c8e865",
-    "episode_title": "Girls!: The Moth Radio Hour",
-    "release_date": "2026-10-13 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/wBbaSl2HlF8W_iB2MnFQeHb3ZsH3ziUsKD5OkKkwFbA",
+    "episode_title": "Mom's Car: Liz Plank",
+    "release_date": "2026-10-20 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/96c303a6-dba2-4929-9b70-48a81b83f73f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/2SBGeDVFrTht_mS3atILXcHWNz2jis_SbNEPX3Hnd6E",
@@ -207,13 +214,6 @@
     "episode_title": "Ashe",
     "release_date": "2026-10-14 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/a84344e6-9b5d-4d0a-95cf-76959f9c5041.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/dDGCb075QvDeevOm2JHLHqx6BhvggGtb60EsvDVmhz4",
-    "episode_title": "Mom's Car: Jedidiah Jenkins",
-    "release_date": "2026-10-13 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
   }
 ]

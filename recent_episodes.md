@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-20 02:44:55
+Last updated: 2026-10-20 16:04:14
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-10-20 02:44:55
 ---
 
 ## TED Talks Daily
+
+### Why the best learners talk to themselves | Tania Lombrozo
+
+**Released:** 2026-10-20 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3)
+
+---
 
 ### What if you could read the DNA of your future child? | Noor Siddiqui
 
@@ -46,14 +54,6 @@ Last updated: 2026-10-20 02:44:55
 
 ---
 
-### How to stop homelessness before it starts | Jen Loving
-
-**Released:** 2026-10-15 15:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3)
-
----
-
 ## Planet Money
 
 ### Anatomy of a movie market
@@ -69,16 +69,6 @@ Last updated: 2026-10-20 02:44:55
 **Released:** 2026-10-14 21:30:18
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130)
-
----
-
-## This American Life
-
-### 489: No Coincidence, No Story!
-
-**Released:** 2026-10-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
 
 ---
 
@@ -116,6 +106,26 @@ Last updated: 2026-10-20 02:44:55
 
 ---
 
+## 99% Invisible
+
+### Tony Hawk's Real-Life Willy Wonka
+
+**Released:** 2026-10-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO)
+
+---
+
+## This American Life
+
+### 489: No Coincidence, No Story!
+
+**Released:** 2026-10-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+
+---
+
 ## Hidden Brain
 
 ### Do You Have Trouble Sleeping?
@@ -126,17 +136,15 @@ Last updated: 2026-10-20 02:44:55
 
 ---
 
-## 99% Invisible
+## Stuff You Should Know
 
-### The Problem With Football Helmets
+### Winnie the Pooh: Silly Old Bear
 
-**Released:** 2026-10-13 08:00:00
+**Released:** 2026-10-20 09:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7c400d37-2342-4e66-a3f0-a345d68d5a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=7c400d37-2342-4e66-a3f0-a345d68d5a26&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4de2947d-67fe-4466-a768-b4e500e64edf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Selects: Sacagawea: Impressive Teen
 
@@ -159,14 +167,6 @@ Last updated: 2026-10-20 02:44:55
 **Released:** 2026-10-14 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Asteroooooid De-FENSE!
-
-**Released:** 2026-10-13 09:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
 
@@ -198,6 +198,34 @@ Last updated: 2026-10-20 02:44:55
 
 ---
 
+## The Moth
+
+### Mortality: The Moth Radio Hour
+
+**Released:** 2026-10-20 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
+
+---
+
+### Looking the Part: The Moth Podcast
+
+**Released:** 2026-10-16 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Colman Domingo"
+
+**Released:** 2026-10-19 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Martin Short Returns Again
@@ -216,35 +244,15 @@ Last updated: 2026-10-20 02:44:55
 
 ---
 
-## SmartLess 
-
-### "Colman Domingo"
-
-**Released:** 2026-10-19 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Looking the Part: The Moth Podcast
-
-**Released:** 2026-10-16 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066)
-
----
-
-### Girls!: The Moth Radio Hour
-
-**Released:** 2026-10-13 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208754/8208754_2026-04-13-033054.192.mp3?rssID=6066)
-
----
-
 ## Armchair Expert
+
+### Mom's Car: Liz Plank
+
+**Released:** 2026-10-20 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/96c303a6-dba2-4929-9b70-48a81b83f73f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Colin Kaepernick
 
@@ -267,14 +275,6 @@ Last updated: 2026-10-20 02:44:55
 **Released:** 2026-10-14 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a84344e6-9b5d-4d0a-95cf-76959f9c5041.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Jedidiah Jenkins
-
-**Released:** 2026-10-13 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8bb75174-904c-4b28-8f91-cd332fd3c2c9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
