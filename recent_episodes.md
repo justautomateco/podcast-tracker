@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-20 16:04:14
+Last updated: 2026-10-21 02:38:32
 
 ## Freakonomics Radio
+
+### Are Private Equity Firms Plundering the U.S. Economy? (Update)
+
+**Released:** 2026-10-21 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
+
+---
 
 ### 691. Is This What a “Good Billionaire” Looks Like?
 
@@ -72,7 +80,25 @@ Last updated: 2026-10-20 16:04:14
 
 ---
 
+## This American Life
+
+### 489: No Coincidence, No Story!
+
+**Released:** 2026-10-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2568 - Ross Edgley
+
+**Released:** 2026-10-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2760842155.mp3)
+
+---
 
 ### #2567 - Mariana van Zeller
 
@@ -95,34 +121,6 @@ Last updated: 2026-10-20 16:04:14
 **Released:** 2026-10-14 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7323005226.mp3)
-
----
-
-### #2564 - Chuck Lorre
-
-**Released:** 2026-10-13 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8839252815.mp3)
-
----
-
-## 99% Invisible
-
-### Tony Hawk's Real-Life Willy Wonka
-
-**Released:** 2026-10-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO)
-
----
-
-## This American Life
-
-### 489: No Coincidence, No Story!
-
-**Released:** 2026-10-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
 
 ---
 
@@ -170,13 +168,33 @@ Last updated: 2026-10-20 16:04:14
 
 ---
 
+## 99% Invisible
+
+### Tony Hawk's Real-Life Willy Wonka
+
+**Released:** 2026-10-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO)
+
+---
+
+## The Tim Ferriss Show
+
+### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
+
+**Released:** 2026-10-20 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## How I Built This
 
 ### Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand
 
 **Released:** 2026-10-19 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP6250914256.mp3)
 
 ---
 
@@ -184,7 +202,7 @@ Last updated: 2026-10-20 16:04:14
 
 **Released:** 2026-10-15 07:10:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP5291785441.mp3)
 
 ---
 
