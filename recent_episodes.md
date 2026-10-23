@@ -1,24 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-23 02:41:01
-
-## Freakonomics Radio
-
-### Are Private Equity Firms Plundering the U.S. Economy? (Update)
-
-**Released:** 2026-10-22 16:50:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
-
----
-
-### 691. Is This What a “Good Billionaire” Looks Like?
-
-**Released:** 2026-10-16 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4)
-
----
+Last updated: 2026-10-23 16:09:31
 
 ## Serial
 
@@ -30,7 +12,43 @@ Last updated: 2026-10-23 02:41:01
 
 ---
 
+## Freakonomics Radio
+
+### 692. What Will A.I. Do to (and for) Human Creativity?
+
+**Released:** 2026-10-23 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4)
+
+---
+
+### Are Private Equity Firms Plundering the U.S. Economy? (Update)
+
+**Released:** 2026-10-21 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 489: No Coincidence, No Story!
+
+**Released:** 2026-10-18 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Can you spot the lies in your news feed? | Laura Smythe
+
+**Released:** 2026-10-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3)
+
+---
 
 ### I can't speak. Here's how I get people to listen | Jessica Irwin
 
@@ -64,14 +82,6 @@ Last updated: 2026-10-23 02:41:01
 
 ---
 
-### Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human
-
-**Released:** 2026-10-18 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3)
-
----
-
 ## Planet Money
 
 ### We try to fix election polling (update)
@@ -87,26 +97,6 @@ Last updated: 2026-10-23 02:41:01
 **Released:** 2026-10-16 21:30:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
-
----
-
-## This American Life
-
-### 489: No Coincidence, No Story!
-
-**Released:** 2026-10-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
-
----
-
-## Hidden Brain
-
-### Do You Have Trouble Sleeping?
-
-**Released:** 2026-10-19 16:04:39
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4316fd53-1cac-4e04-ae81-44caa56d6c76/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4316fd53-1cac-4e04-ae81-44caa56d6c76&feed=kwWc0lhf)
 
 ---
 
@@ -141,6 +131,16 @@ Last updated: 2026-10-23 02:41:01
 **Released:** 2026-10-16 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2143664668.mp3)
+
+---
+
+## Hidden Brain
+
+### Do You Have Trouble Sleeping?
+
+**Released:** 2026-10-19 16:04:39
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4316fd53-1cac-4e04-ae81-44caa56d6c76/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4316fd53-1cac-4e04-ae81-44caa56d6c76&feed=kwWc0lhf)
 
 ---
 
@@ -180,6 +180,14 @@ Last updated: 2026-10-23 02:41:01
 
 ## 99% Invisible
 
+### 100 Objects #21: Window from the House of D
+
+**Released:** 2026-10-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO)
+
+---
+
 ### Audio Guide of the Imperfections of a Perfect Masterpiece
 
 **Released:** 2026-10-21 08:00:00
@@ -196,21 +204,11 @@ Last updated: 2026-10-23 02:41:01
 
 ---
 
-## The Tim Ferriss Show
-
-### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
-
-**Released:** 2026-10-20 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Advice Line with Seth Berkowitz of Insomnia Cookies
 
-**Released:** 2026-10-22 07:10:00
+**Released:** 2026-10-23 07:57:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP8144262595.mp3)
 
@@ -221,6 +219,16 @@ Last updated: 2026-10-23 02:41:01
 **Released:** 2026-10-19 07:10:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP6250914256.mp3)
+
+---
+
+## The Tim Ferriss Show
+
+### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
+
+**Released:** 2026-10-20 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -262,7 +270,33 @@ Last updated: 2026-10-23 02:41:01
 
 ---
 
+## The Moth
+
+### Ghosted: The Moth Podcast
+
+**Released:** 2026-10-23 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066)
+
+---
+
+### Mortality: The Moth Radio Hour
+
+**Released:** 2026-10-20 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
+
+### Armchair Anonymous: News II
+
+**Released:** 2026-10-23 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80b089b9-4a20-41be-b691-fcd64f610d61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Malcolm Gladwell #4
 
@@ -285,32 +319,6 @@ Last updated: 2026-10-23 02:41:01
 **Released:** 2026-10-19 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eea4f157-e24c-4baa-8400-ff55634bd052.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Study Abroad
-
-**Released:** 2026-10-16 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f38b8257-9a07-4e66-ac95-9de79db32725.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Mortality: The Moth Radio Hour
-
-**Released:** 2026-10-20 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
-
----
-
-### Looking the Part: The Moth Podcast
-
-**Released:** 2026-10-16 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066)
 
 ---
 

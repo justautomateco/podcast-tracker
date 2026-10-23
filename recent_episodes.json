@@ -1,24 +1,38 @@
 [
   {
-    "guid": "bb279a80-202e-498a-bf40-77a3af56e323",
-    "episode_title": "Are Private Equity Firms Plundering the U.S. Economy? (Update)",
-    "release_date": "2026-10-22 16:50:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "70116525-cf1b-46e0-9234-6d94f475977d",
-    "episode_title": "691. Is This What a \u201cGood Billionaire\u201d Looks Like?",
-    "release_date": "2026-10-16 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/4e51e340-1455-4559-9a4c-d7f12ed16d52/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=4e51e340-1455-4559-9a4c-d7f12ed16d52&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
     "guid": "3f4ccd0b-f676-4973-8b6a-515a2a44417c",
     "episode_title": "Special Preview: METRO with Sarah Koenig - Ep. 1",
     "release_date": "2026-10-22 01:00:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1651a123-bdc1-4da3-9e35-fc5440010323/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1651a123-bdc1-4da3-9e35-fc5440010323&feed=PpzWFGhg",
     "podcast_name": "Serial"
+  },
+  {
+    "guid": "c6a1d1d0-cfef-4373-8282-9e8f8fbc6278",
+    "episode_title": "692. What Will A.I. Do to (and for) Human Creativity?",
+    "release_date": "2026-10-23 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "bb279a80-202e-498a-bf40-77a3af56e323",
+    "episode_title": "Are Private Equity Firms Plundering the U.S. Economy? (Update)",
+    "release_date": "2026-10-21 00:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "37184 at https://www.thisamericanlife.org",
+    "episode_title": "489: No Coincidence, No Story!",
+    "release_date": "2026-10-18 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6adb749627504523efb891e6",
+    "episode_title": "Can you spot the lies in your news feed? | Laura Smythe",
+    "release_date": "2026-10-23 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6ada23e044592625b9151811",
@@ -49,13 +63,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6acf9f12b3381b9dbb7c315b",
-    "episode_title": "Sunday Pick: How to reclaim your narrative (w/ Monica Lewinsky) | from How to Be a Better Human",
-    "release_date": "2026-10-18 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "e23755e3-6b21-4507-a5e7-3620e2f4618e",
     "episode_title": "We try to fix election polling (update)",
     "release_date": "2026-10-21 07:00:00",
@@ -68,20 +75,6 @@
     "release_date": "2026-10-16 21:30:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
     "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "37184 at https://www.thisamericanlife.org",
-    "episode_title": "489: No Coincidence, No Story!",
-    "release_date": "2026-10-18 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "aae5d2bb-92c3-44b2-a47d-7d85cbb4e648",
-    "episode_title": "Do You Have Trouble Sleeping?",
-    "release_date": "2026-10-19 16:04:39",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4316fd53-1cac-4e04-ae81-44caa56d6c76/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4316fd53-1cac-4e04-ae81-44caa56d6c76&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "ed2504ac-cdc1-11f1-b263-83f2c9b36709",
@@ -112,6 +105,13 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "aae5d2bb-92c3-44b2-a47d-7d85cbb4e648",
+    "episode_title": "Do You Have Trouble Sleeping?",
+    "release_date": "2026-10-19 16:04:39",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/4316fd53-1cac-4e04-ae81-44caa56d6c76/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=4316fd53-1cac-4e04-ae81-44caa56d6c76&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "941dff8e-815e-4dbb-9626-b4ea00f8a732",
     "episode_title": "The Twilight Zone Episode",
     "release_date": "2026-10-22 09:00:00",
@@ -140,6 +140,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "264d9ec5-251f-400e-995c-a3ba93da2243",
+    "episode_title": "100 Objects #21: Window from the House of D",
+    "release_date": "2026-10-23 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
     "guid": "2ff0d2b9-1c0b-4fd2-b42d-d7e41f5ce0be",
     "episode_title": "Audio Guide of the Imperfections of a Perfect Masterpiece",
     "release_date": "2026-10-21 08:00:00",
@@ -154,16 +161,9 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/LLc01yasJycwSRaWbjpqbAnr-Xbpof3RMyXFoj1LTrY",
-    "episode_title": "#887: Q&A with Tim \u2014 The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More",
-    "release_date": "2026-10-20 22:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/Kj8x51LQFsVf4e_5mDnG_IK2QcCXa1SdpmdAmt5MeIw",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
-    "release_date": "2026-10-22 07:10:00",
+    "release_date": "2026-10-23 07:57:00",
     "mp3_url": "https://traffic.megaphone.fm/VMP8144262595.mp3",
     "podcast_name": "How I Built This"
   },
@@ -173,6 +173,13 @@
     "release_date": "2026-10-19 07:10:00",
     "mp3_url": "https://traffic.megaphone.fm/VMP6250914256.mp3",
     "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/LLc01yasJycwSRaWbjpqbAnr-Xbpof3RMyXFoj1LTrY",
+    "episode_title": "#887: Q&A with Tim \u2014 The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More",
+    "release_date": "2026-10-20 22:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "945a1b82-06e1-429c-916b-b4ea01455782",
@@ -203,6 +210,27 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "768c0a20-89d4-11f0-b13f-7b9dc8b6e871",
+    "episode_title": "Ghosted: The Moth Podcast",
+    "release_date": "2026-10-23 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "761acc84-89d4-11f0-b13f-5713c34bf49a",
+    "episode_title": "Mortality: The Moth Radio Hour",
+    "release_date": "2026-10-20 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/w2CmqIV_rEqb33AiIJNNS_VFl5Tq84RulJewWgZdpVc",
+    "episode_title": "Armchair Anonymous: News II",
+    "release_date": "2026-10-23 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/80b089b9-4a20-41be-b691-fcd64f610d61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/ADUAuubdrzhiuKujyebHZDBeeA4p8b1TUUIXyLfMnRI",
     "episode_title": "Malcolm Gladwell #4",
     "release_date": "2026-10-21 07:30:00",
@@ -222,26 +250,5 @@
     "release_date": "2026-10-19 07:30:00",
     "mp3_url": "https://rss.art19.com/episodes/eea4f157-e24c-4baa-8400-ff55634bd052.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/yP_MxFpkizJaZvgyjc_skWjCng9EdXquhs37knMogvA",
-    "episode_title": "Armchair Anonymous: Study Abroad",
-    "release_date": "2026-10-16 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f38b8257-9a07-4e66-ac95-9de79db32725.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "761acc84-89d4-11f0-b13f-5713c34bf49a",
-    "episode_title": "Mortality: The Moth Radio Hour",
-    "release_date": "2026-10-20 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "76b1b4dc-89d4-11f0-b13f-4bac6e797fdf",
-    "episode_title": "Looking the Part: The Moth Podcast",
-    "release_date": "2026-10-16 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208747/8208747_2026-04-13-032447.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   }
 ]
