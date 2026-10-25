@@ -1,6 +1,34 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-24 15:06:00
+Last updated: 2026-10-25 02:27:17
+
+## Serial
+
+### Special Preview: METRO with Sarah Koenig - Ep. 1
+
+**Released:** 2026-10-22 01:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1651a123-bdc1-4da3-9e35-fc5440010323/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1651a123-bdc1-4da3-9e35-fc5440010323&feed=PpzWFGhg)
+
+---
+
+## Freakonomics Radio
+
+### 692. What Will A.I. Do to (and for) Human Creativity?
+
+**Released:** 2026-10-23 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4)
+
+---
+
+### Are Private Equity Firms Plundering the U.S. Economy? (Update)
+
+**Released:** 2026-10-21 00:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -41,52 +69,6 @@ Last updated: 2026-10-24 15:06:00
 **Released:** 2026-10-20 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3)
-
----
-
-## Serial
-
-### Special Preview: METRO with Sarah Koenig - Ep. 1
-
-**Released:** 2026-10-22 01:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/1651a123-bdc1-4da3-9e35-fc5440010323/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=1651a123-bdc1-4da3-9e35-fc5440010323&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### 692. What Will A.I. Do to (and for) Human Creativity?
-
-**Released:** 2026-10-23 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4)
-
----
-
-### Are Private Equity Firms Plundering the U.S. Economy? (Update)
-
-**Released:** 2026-10-21 00:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### How surveillance crept up on us
-
-**Released:** 2026-10-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
-
----
-
-### We try to fix election polling (update)
-
-**Released:** 2026-10-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698)
 
 ---
 
@@ -131,6 +113,24 @@ Last updated: 2026-10-24 15:06:00
 **Released:** 2026-10-20 17:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2760842155.mp3)
+
+---
+
+## Planet Money
+
+### How surveillance crept up on us
+
+**Released:** 2026-10-23 21:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
+
+---
+
+### We try to fix election polling (update)
+
+**Released:** 2026-10-21 07:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698)
 
 ---
 
@@ -232,21 +232,23 @@ Last updated: 2026-10-24 15:06:00
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### Olivia Harrison
+### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
 
-**Released:** 2026-10-22 04:05:00
+**Released:** 2026-10-20 22:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/56ad6bef-ddf4-4f74-9313-acfd06482700/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=56ad6bef-ddf4-4f74-9313-acfd06482700&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Martin Short Returns Again
+## SmartLess 
 
-**Released:** 2026-10-19 04:05:00
+### "Colman Domingo"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
+**Released:** 2026-10-19 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
 
 ---
 
@@ -265,16 +267,6 @@ Last updated: 2026-10-24 15:06:00
 **Released:** 2026-10-20 07:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Colman Domingo"
-
-**Released:** 2026-10-19 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
 
 ---
 
@@ -312,13 +304,21 @@ Last updated: 2026-10-24 15:06:00
 
 ---
 
-## The Tim Ferriss Show
+## Conan O'Brien Needs A Friend
 
-### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
+### Olivia Harrison
 
-**Released:** 2026-10-20 22:30:00
+**Released:** 2026-10-22 04:05:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/56ad6bef-ddf4-4f74-9313-acfd06482700/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=56ad6bef-ddf4-4f74-9313-acfd06482700&feed=dHoohVNH)
+
+---
+
+### Martin Short Returns Again
+
+**Released:** 2026-10-19 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
 
 ---
 
