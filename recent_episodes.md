@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-25 15:18:26
+Last updated: 2026-10-26 02:27:03
 
 ## Serial
 
@@ -27,6 +27,16 @@ Last updated: 2026-10-25 15:18:26
 **Released:** 2026-10-21 00:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 506: Secret Identity
+
+**Released:** 2026-10-25 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache)
 
 ---
 
@@ -69,34 +79,6 @@ Last updated: 2026-10-25 15:18:26
 **Released:** 2026-10-21 15:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3)
-
----
-
-## Planet Money
-
-### How surveillance crept up on us
-
-**Released:** 2026-10-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
-
----
-
-### We try to fix election polling (update)
-
-**Released:** 2026-10-21 07:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698)
-
----
-
-## This American Life
-
-### 489: No Coincidence, No Story!
-
-**Released:** 2026-10-18 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
 
 ---
 
@@ -144,29 +126,21 @@ Last updated: 2026-10-25 15:18:26
 
 ---
 
-## 99% Invisible
+## Planet Money
 
-### 100 Objects #21: Window from the House of D
+### How surveillance crept up on us
 
-**Released:** 2026-10-23 07:00:00
+**Released:** 2026-10-23 21:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO)
-
----
-
-### Audio Guide of the Imperfections of a Perfect Masterpiece
-
-**Released:** 2026-10-21 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50677d3e-8c20-4080-98be-2d9f68d40414/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50677d3e-8c20-4080-98be-2d9f68d40414&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
 
 ---
 
-### Tony Hawk's Real-Life Willy Wonka
+### We try to fix election polling (update)
 
-**Released:** 2026-10-20 08:00:00
+**Released:** 2026-10-21 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698)
 
 ---
 
@@ -204,6 +178,42 @@ Last updated: 2026-10-25 15:18:26
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #21: Window from the House of D
+
+**Released:** 2026-10-23 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO)
+
+---
+
+### Audio Guide of the Imperfections of a Perfect Masterpiece
+
+**Released:** 2026-10-21 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/50677d3e-8c20-4080-98be-2d9f68d40414/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=50677d3e-8c20-4080-98be-2d9f68d40414&feed=BqbsxVfO)
+
+---
+
+### Tony Hawk's Real-Life Willy Wonka
+
+**Released:** 2026-10-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ea79b208-0ef1-4b5f-bc0f-1863e1bfbd36&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### Pals, Allies, and Companions | Malcolm Gladwell and Adam Grant Live
+
+**Released:** 2026-10-22 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/945a1b82-06e1-429c-916b-b4ea01455782/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Seth Berkowitz of Insomnia Cookies
@@ -222,23 +232,21 @@ Last updated: 2026-10-25 15:18:26
 
 ---
 
-## Revisionist History
+## The Moth
 
-### Pals, Allies, and Companions | Malcolm Gladwell and Adam Grant Live
+### Ghosted: The Moth Podcast
 
-**Released:** 2026-10-22 07:00:00
+**Released:** 2026-10-23 07:25:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/945a1b82-06e1-429c-916b-b4ea01455782/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066)
 
 ---
 
-## The Tim Ferriss Show
+### Mortality: The Moth Radio Hour
 
-### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
+**Released:** 2026-10-20 07:25:00
 
-**Released:** 2026-10-20 22:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
 
 ---
 
@@ -257,24 +265,6 @@ Last updated: 2026-10-25 15:18:26
 **Released:** 2026-10-19 04:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d690e2b5-a013-43dd-9d82-987c03ad7cc1/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d690e2b5-a013-43dd-9d82-987c03ad7cc1&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Ghosted: The Moth Podcast
-
-**Released:** 2026-10-23 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066)
-
----
-
-### Mortality: The Moth Radio Hour
-
-**Released:** 2026-10-20 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208753/8208753_2026-04-13-032753.192.mp3?rssID=6066)
 
 ---
 
@@ -319,6 +309,16 @@ Last updated: 2026-10-25 15:18:26
 **Released:** 2026-10-19 07:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/885c82e0-de54-47da-8241-bb4b03fa4bfc/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=885c82e0-de54-47da-8241-bb4b03fa4bfc&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### #887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More
+
+**Released:** 2026-10-20 22:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
