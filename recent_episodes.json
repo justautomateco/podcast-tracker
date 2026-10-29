@@ -1,10 +1,17 @@
 [
   {
-    "guid": "37167 at https://www.thisamericanlife.org",
-    "episode_title": "506: Secret Identity",
-    "release_date": "2026-10-25 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache",
-    "podcast_name": "This American Life"
+    "guid": "c6a1d1d0-cfef-4373-8282-9e8f8fbc6278",
+    "episode_title": "692. What Will A.I. Do to (and for) Human Creativity?",
+    "release_date": "2026-10-23 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "6ae35ff72ce0a6edbe8a84d3",
+    "episode_title": "How fossil fuel companies keep your energy costs high | Jon Powers",
+    "release_date": "2026-10-29 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6adb8f7a52428fc30bf6f9ca",
@@ -35,25 +42,11 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6adb884ac84c3697e90f7b90",
-    "episode_title": "The pursuit of happiness requires free time | Danielle Roberts",
-    "release_date": "2026-10-24 15:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
-    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
-    "release_date": "2026-10-28 12:57:50",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "a6b63a1f-36c3-49e5-96db-8ac77ff0014a",
-    "episode_title": "How surveillance crept up on us",
-    "release_date": "2026-10-23 21:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
-    "podcast_name": "Planet Money"
+    "guid": "a7f8279c-d37a-11f1-a462-fb1f7204087b",
+    "episode_title": "#2572 - Colum Tyrrell",
+    "release_date": "2026-10-29 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3844762456.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "2261e0d2-d2fd-11f1-88f9-877628146802",
@@ -70,11 +63,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "ed2504ac-cdc1-11f1-b263-83f2c9b36709",
-    "episode_title": "JRE MMA Show #187 with Robert Whittaker",
-    "release_date": "2026-10-22 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1470402625.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
+    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+    "release_date": "2026-10-28 12:57:50",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "a6b63a1f-36c3-49e5-96db-8ac77ff0014a",
+    "episode_title": "How surveillance crept up on us",
+    "release_date": "2026-10-23 21:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "37167 at https://www.thisamericanlife.org",
+    "episode_title": "506: Secret Identity",
+    "release_date": "2026-10-25 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "794b679d-fa66-497c-b728-c0796fb03bed",
@@ -84,11 +91,32 @@
     "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "c6a1d1d0-cfef-4373-8282-9e8f8fbc6278",
-    "episode_title": "692. What Will A.I. Do to (and for) Human Creativity?",
-    "release_date": "2026-10-23 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7",
+    "episode_title": "The SYSK Annual Halloween Freaky Spooktacular 2026! ",
+    "release_date": "2026-10-29 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "8e0a3bbf-b52f-4e95-81e0-b4e801153034",
+    "episode_title": "Short Stuff: The Enfield Monster",
+    "release_date": "2026-10-28 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8e0a3bbf-b52f-4e95-81e0-b4e801153034/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "78650bdf-15b9-44c2-949f-b4ef00f62c00",
+    "episode_title": "(Don't Fear) The (Grim) Reaper",
+    "release_date": "2026-10-27 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
+  },
+  {
+    "guid": "50977401-b32e-4473-974f-b4ec01254583",
+    "episode_title": "Selects: John Lennon and the FBI",
+    "release_date": "2026-10-24 09:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "0eb5b092-63f4-43a8-b2e4-afb82f1f28c5",
@@ -105,11 +133,46 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "945a1b82-06e1-429c-916b-b4ea01455782",
-    "episode_title": "Pals, Allies, and Companions | Malcolm Gladwell and Adam Grant Live",
-    "release_date": "2026-10-22 07:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/945a1b82-06e1-429c-916b-b4ea01455782/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "guid": "3c7bf2ee-d2f0-11f1-8e63-7f013611efaa",
+    "episode_title": "Advice Line with Tope Awotona of Calendly",
+    "release_date": "2026-10-29 07:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP4254648132.mp3",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "99e2adb8-ce1f-11f1-b394-0b459b384fa9",
+    "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
+    "release_date": "2026-10-26 07:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP6448511514.mp3",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/Kj8x51LQFsVf4e_5mDnG_IK2QcCXa1SdpmdAmt5MeIw",
+    "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
+    "release_date": "2026-10-23 07:57:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP8144262595.mp3",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "e96c78c6-164c-49a6-bded-b4f101175d51",
+    "episode_title": "The $5 Billion Effort to help Secure the World\u2019s Shared Software | Smart Talks with IBM",
+    "release_date": "2026-10-29 07:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
+  },
+  {
+    "guid": "8af11445-7e56-4296-b2f9-df9e838f83b4",
+    "episode_title": "Find The Communist!",
+    "release_date": "2026-10-29 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/64baa86b-e1dc-4f8e-8644-178ad49bde5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=64baa86b-e1dc-4f8e-8644-178ad49bde5a&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "61c82781-ed76-437a-b5da-3b3b86233332",
+    "episode_title": "Michael Douglas",
+    "release_date": "2026-10-26 04:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/342b86be-8281-421e-970f-5812c87824db/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=342b86be-8281-421e-970f-5812c87824db&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/jAPXTlK-Nikj6eAYukT1yEGAzWSs02m6OcDbLmm-muo",
@@ -140,18 +203,11 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "61c82781-ed76-437a-b5da-3b3b86233332",
-    "episode_title": "Michael Douglas",
-    "release_date": "2026-10-26 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/342b86be-8281-421e-970f-5812c87824db/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=342b86be-8281-421e-970f-5812c87824db&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "f03b299c-beb0-4851-bc91-f47061dd44ee",
-    "episode_title": "Olivia Harrison",
-    "release_date": "2026-10-22 04:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/56ad6bef-ddf4-4f74-9313-acfd06482700/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=56ad6bef-ddf4-4f74-9313-acfd06482700&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
+    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
+    "episode_title": "STAYING ALIVE: Sean Hayes!",
+    "release_date": "2026-10-29 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "af235812-427d-4250-8c61-bc9debe217e6",
@@ -161,45 +217,17 @@
     "podcast_name": "SmartLess "
   },
   {
-    "guid": "8e0a3bbf-b52f-4e95-81e0-b4e801153034",
-    "episode_title": "Short Stuff: The Enfield Monster",
-    "release_date": "2026-10-28 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8e0a3bbf-b52f-4e95-81e0-b4e801153034/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
+    "guid": "763fb706-89d4-11f0-b13f-c7af01079ce0",
+    "episode_title": "Speaking of Death: The Moth Radio Hour",
+    "release_date": "2026-10-27 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "78650bdf-15b9-44c2-949f-b4ef00f62c00",
-    "episode_title": "(Don't Fear) The (Grim) Reaper",
-    "release_date": "2026-10-27 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "50977401-b32e-4473-974f-b4ec01254583",
-    "episode_title": "Selects: John Lennon and the FBI",
-    "release_date": "2026-10-24 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "941dff8e-815e-4dbb-9626-b4ea00f8a732",
-    "episode_title": "The Twilight Zone Episode",
-    "release_date": "2026-10-22 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/941dff8e-815e-4dbb-9626-b4ea00f8a732/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "99e2adb8-ce1f-11f1-b394-0b459b384fa9",
-    "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
-    "release_date": "2026-10-26 07:10:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP6448511514.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/Kj8x51LQFsVf4e_5mDnG_IK2QcCXa1SdpmdAmt5MeIw",
-    "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
-    "release_date": "2026-10-23 07:57:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP8144262595.mp3",
-    "podcast_name": "How I Built This"
+    "guid": "768c0a20-89d4-11f0-b13f-7b9dc8b6e871",
+    "episode_title": "Ghosted: The Moth Podcast",
+    "release_date": "2026-10-23 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]
