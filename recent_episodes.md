@@ -1,18 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-30 03:41:45
+Last updated: 2026-10-30 17:29:44
 
 ## Freakonomics Radio
 
-### 692. What Will A.I. Do to (and for) Human Creativity?
+### 693. What’s Our Job as Humans Anymore?
 
-**Released:** 2026-10-23 10:00:00
+**Released:** 2026-10-30 10:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
 
 ---
 
 ## TED Talks Daily
+
+### How to make friends (and keep them) | Sheridan Voysey
+
+**Released:** 2026-10-30 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3)
+
+---
 
 ### How fossil fuel companies keep your energy costs high | Jon Powers
 
@@ -46,14 +54,6 @@ Last updated: 2026-10-30 03:41:45
 
 ---
 
-### Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable
-
-**Released:** 2026-10-25 06:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3)
-
----
-
 ## This American Life
 
 ### 506: Secret Identity
@@ -65,6 +65,14 @@ Last updated: 2026-10-30 03:41:45
 ---
 
 ## The Joe Rogan Experience
+
+### #2573 - Legion of Skanks
+
+**Released:** 2026-10-30 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3082011100.mp3)
+
+---
 
 ### #2572 - Colum Tyrrell
 
@@ -79,14 +87,6 @@ Last updated: 2026-10-30 03:41:45
 **Released:** 2026-10-28 19:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7178896407.mp3)
-
----
-
-### #2570 - Mystery Boys
-
-**Released:** 2026-10-23 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2538626371.mp3)
 
 ---
 
@@ -105,6 +105,16 @@ Last updated: 2026-10-30 03:41:45
 **Released:** 2026-10-23 21:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
+
+---
+
+## Hidden Brain
+
+### The Story of Stories
+
+**Released:** 2026-10-26 14:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf)
 
 ---
 
@@ -142,31 +152,21 @@ Last updated: 2026-10-30 03:41:45
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### The Story of Stories
+### 100 Objects #22: AOL Disc
 
-**Released:** 2026-10-26 14:00:00
+**Released:** 2026-10-30 07:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
 
 ---
-
-## 99% Invisible
 
 ### Doktoro Esperanto
 
 **Released:** 2026-10-27 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
-
----
-
-### 100 Objects #21: Window from the House of D
-
-**Released:** 2026-10-23 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO)
 
 ---
 
@@ -188,14 +188,6 @@ Last updated: 2026-10-30 03:41:45
 
 ---
 
-### Advice Line with Seth Berkowitz of Insomnia Cookies
-
-**Released:** 2026-10-23 07:57:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP8144262595.mp3)
-
----
-
 ## Revisionist History
 
 ### The $5 Billion Effort to help Secure the World’s Shared Software | Smart Talks with IBM
@@ -203,24 +195,6 @@ Last updated: 2026-10-30 03:41:45
 **Released:** 2026-10-29 07:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## The Moth
-
-### Speaking of Death: The Moth Radio Hour
-
-**Released:** 2026-10-27 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
-
----
-
-### Ghosted: The Moth Podcast
-
-**Released:** 2026-10-23 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066)
 
 ---
 
@@ -242,25 +216,33 @@ Last updated: 2026-10-30 03:41:45
 
 ---
 
-## SmartLess 
+## The Moth
 
-### STAYING ALIVE: Sean Hayes!
+### That's A Funny Story: The Moth Podcast
 
-**Released:** 2026-10-29 07:00:00
+**Released:** 2026-10-30 07:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
 
 ---
 
-### "Ray Winstone"
+### Speaking of Death: The Moth Radio Hour
 
-**Released:** 2026-10-26 07:01:00
+**Released:** 2026-10-27 07:25:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Halloween II
+
+**Released:** 2026-10-30 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Erin & Sara Foster
 
@@ -286,11 +268,21 @@ Last updated: 2026-10-30 03:41:45
 
 ---
 
-### Armchair Anonymous: News II
+## SmartLess 
 
-**Released:** 2026-10-23 07:30:00
+### STAYING ALIVE: Sean Hayes!
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/80b089b9-4a20-41be-b691-fcd64f610d61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-10-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
+
+---
+
+### "Ray Winstone"
+
+**Released:** 2026-10-26 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO)
 
 ---
 

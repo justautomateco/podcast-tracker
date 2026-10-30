@@ -1,10 +1,17 @@
 [
   {
-    "guid": "c6a1d1d0-cfef-4373-8282-9e8f8fbc6278",
-    "episode_title": "692. What Will A.I. Do to (and for) Human Creativity?",
-    "release_date": "2026-10-23 10:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
+    "guid": "835cd2b1-bc0e-4a89-b896-e3a58cf01f3d",
+    "episode_title": "693. What\u2019s Our Job as Humans Anymore?",
+    "release_date": "2026-10-30 10:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "6ae36e30e9e95f232bb6df41",
+    "episode_title": "How to make friends (and keep them) | Sheridan Voysey",
+    "release_date": "2026-10-30 15:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6ae35ff72ce0a6edbe8a84d3",
@@ -35,18 +42,18 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6adb86439522da114937cd6a",
-    "episode_title": "Sunday Pick: Unlocking Your Power at Work: Kara Swisher on how to get what you want | from Fixable",
-    "release_date": "2026-10-25 06:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "37167 at https://www.thisamericanlife.org",
     "episode_title": "506: Secret Identity",
     "release_date": "2026-10-25 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "a96ed958-d402-11f1-b9a5-576e4cad39df",
+    "episode_title": "#2573 - Legion of Skanks",
+    "release_date": "2026-10-30 17:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3082011100.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "a7f8279c-d37a-11f1-a462-fb1f7204087b",
@@ -63,13 +70,6 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "ec46995e-ce9a-11f1-9c7e-fbbdba278d52",
-    "episode_title": "#2570 - Mystery Boys",
-    "release_date": "2026-10-23 17:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
     "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
     "release_date": "2026-10-28 12:57:50",
@@ -82,6 +82,13 @@
     "release_date": "2026-10-23 21:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "794b679d-fa66-497c-b728-c0796fb03bed",
+    "episode_title": "The Story of Stories",
+    "release_date": "2026-10-26 14:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7",
@@ -112,24 +119,17 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "794b679d-fa66-497c-b728-c0796fb03bed",
-    "episode_title": "The Story of Stories",
-    "release_date": "2026-10-26 14:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "fd227244-9c99-44a9-84af-acfaf98ae40f",
+    "episode_title": "100 Objects #22: AOL Disc",
+    "release_date": "2026-10-30 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "0eb5b092-63f4-43a8-b2e4-afb82f1f28c5",
     "episode_title": "Doktoro Esperanto",
     "release_date": "2026-10-27 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "264d9ec5-251f-400e-995c-a3ba93da2243",
-    "episode_title": "100 Objects #21: Window from the House of D",
-    "release_date": "2026-10-23 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/abc90def-24cb-4eae-bac6-37ad459b050a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=abc90def-24cb-4eae-bac6-37ad459b050a&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
   },
   {
@@ -147,32 +147,11 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/Kj8x51LQFsVf4e_5mDnG_IK2QcCXa1SdpmdAmt5MeIw",
-    "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
-    "release_date": "2026-10-23 07:57:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP8144262595.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "e96c78c6-164c-49a6-bded-b4f101175d51",
     "episode_title": "The $5 Billion Effort to help Secure the World\u2019s Shared Software | Smart Talks with IBM",
     "release_date": "2026-10-29 07:00:00",
     "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "763fb706-89d4-11f0-b13f-c7af01079ce0",
-    "episode_title": "Speaking of Death: The Moth Radio Hour",
-    "release_date": "2026-10-27 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "768c0a20-89d4-11f0-b13f-7b9dc8b6e871",
-    "episode_title": "Ghosted: The Moth Podcast",
-    "release_date": "2026-10-23 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208748/8208748_2026-04-13-032548.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   },
   {
     "guid": "8af11445-7e56-4296-b2f9-df9e838f83b4",
@@ -189,18 +168,25 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
-    "episode_title": "STAYING ALIVE: Sean Hayes!",
-    "release_date": "2026-10-29 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "7664c956-89d4-11f0-b13f-a3796aef5927",
+    "episode_title": "That's A Funny Story: The Moth Podcast",
+    "release_date": "2026-10-30 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
-    "guid": "af235812-427d-4250-8c61-bc9debe217e6",
-    "episode_title": "\"Ray Winstone\"",
-    "release_date": "2026-10-26 07:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "763fb706-89d4-11f0-b13f-c7af01079ce0",
+    "episode_title": "Speaking of Death: The Moth Radio Hour",
+    "release_date": "2026-10-27 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/7C6jK8sLBQ-RwrIJXLNHhLhy6G-O9yRn7DLqN941cbY",
+    "episode_title": "Armchair Anonymous: Halloween II",
+    "release_date": "2026-10-30 07:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/jAPXTlK-Nikj6eAYukT1yEGAzWSs02m6OcDbLmm-muo",
@@ -224,10 +210,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/w2CmqIV_rEqb33AiIJNNS_VFl5Tq84RulJewWgZdpVc",
-    "episode_title": "Armchair Anonymous: News II",
-    "release_date": "2026-10-23 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/80b089b9-4a20-41be-b691-fcd64f610d61.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
+    "episode_title": "STAYING ALIVE: Sean Hayes!",
+    "release_date": "2026-10-29 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "af235812-427d-4250-8c61-bc9debe217e6",
+    "episode_title": "\"Ray Winstone\"",
+    "release_date": "2026-10-26 07:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
