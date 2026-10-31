@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-30 17:29:44
+Last updated: 2026-10-31 03:26:31
+
+## Serial
+
+### METRO - Karat and Schtick
+
+**Released:** 2026-10-30 19:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -64,6 +74,24 @@ Last updated: 2026-10-30 17:29:44
 
 ---
 
+## Planet Money
+
+### Is this how the great international borrowing spree ends?
+
+**Released:** 2026-10-31 00:15:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
+
+---
+
+### Politicians are afraid to fix taxes. So 100 citizens tried.
+
+**Released:** 2026-10-28 12:57:50
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
+
+---
+
 ## The Joe Rogan Experience
 
 ### #2573 - Legion of Skanks
@@ -90,24 +118,6 @@ Last updated: 2026-10-30 17:29:44
 
 ---
 
-## Planet Money
-
-### Politicians are afraid to fix taxes. So 100 citizens tried.
-
-**Released:** 2026-10-28 12:57:50
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
-
----
-
-### How surveillance crept up on us
-
-**Released:** 2026-10-23 21:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
-
----
-
 ## Hidden Brain
 
 ### The Story of Stories
@@ -115,6 +125,24 @@ Last updated: 2026-10-30 17:29:44
 **Released:** 2026-10-26 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #22: AOL Disc
+
+**Released:** 2026-10-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
+
+---
+
+### Doktoro Esperanto
+
+**Released:** 2026-10-27 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
 
 ---
 
@@ -152,24 +180,6 @@ Last updated: 2026-10-30 17:29:44
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
-### Doktoro Esperanto
-
-**Released:** 2026-10-27 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Advice Line with Tope Awotona of Calendly
@@ -198,24 +208,6 @@ Last updated: 2026-10-30 17:29:44
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Find The Communist!
-
-**Released:** 2026-10-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/64baa86b-e1dc-4f8e-8644-178ad49bde5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=64baa86b-e1dc-4f8e-8644-178ad49bde5a&feed=dHoohVNH)
-
----
-
-### Michael Douglas
-
-**Released:** 2026-10-26 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/342b86be-8281-421e-970f-5812c87824db/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=342b86be-8281-421e-970f-5812c87824db&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### That's A Funny Story: The Moth Podcast
@@ -231,6 +223,42 @@ Last updated: 2026-10-30 17:29:44
 **Released:** 2026-10-27 07:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### STAYING ALIVE: Sean Hayes!
+
+**Released:** 2026-10-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
+
+---
+
+### "Ray Winstone"
+
+**Released:** 2026-10-26 07:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Find The Communist!
+
+**Released:** 2026-10-29 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/64baa86b-e1dc-4f8e-8644-178ad49bde5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=64baa86b-e1dc-4f8e-8644-178ad49bde5a&feed=dHoohVNH)
+
+---
+
+### Michael Douglas
+
+**Released:** 2026-10-26 04:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/342b86be-8281-421e-970f-5812c87824db/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=342b86be-8281-421e-970f-5812c87824db&feed=dHoohVNH)
 
 ---
 
@@ -265,24 +293,6 @@ Last updated: 2026-10-30 17:29:44
 **Released:** 2026-10-26 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/96d03166-2046-43f9-891c-28bc3ee283bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### STAYING ALIVE: Sean Hayes!
-
-**Released:** 2026-10-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
-
----
-
-### "Ray Winstone"
-
-**Released:** 2026-10-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO)
 
 ---
 
