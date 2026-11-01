@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-10-31 16:34:02
+Last updated: 2026-11-01 03:28:05
+
+## Freakonomics Radio
+
+### 693. What’s Our Job as Humans Anymore?
+
+**Released:** 2026-10-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -9,6 +19,16 @@ Last updated: 2026-10-31 16:34:02
 **Released:** 2026-10-30 19:30:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
+
+---
+
+## This American Life
+
+### 506: Secret Identity
+
+**Released:** 2026-10-25 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache)
 
 ---
 
@@ -54,27 +74,33 @@ Last updated: 2026-10-31 16:34:02
 
 ---
 
-## Freakonomics Radio
+## Planet Money
 
-### 693. What’s Our Job as Humans Anymore?
+### Is this how the great international borrowing spree ends?
 
-**Released:** 2026-10-30 10:00:00
+**Released:** 2026-10-31 00:15:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
 
 ---
 
-## This American Life
+### Politicians are afraid to fix taxes. So 100 citizens tried.
 
-### 506: Secret Identity
+**Released:** 2026-10-28 12:57:50
 
-**Released:** 2026-10-25 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2574 - Francis Foster & Konstantin Kisin
+
+**Released:** 2026-10-31 17:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8304275411.mp3)
+
+---
 
 ### #2573 - Legion of Skanks
 
@@ -100,24 +126,6 @@ Last updated: 2026-10-31 16:34:02
 
 ---
 
-## Planet Money
-
-### Is this how the great international borrowing spree ends?
-
-**Released:** 2026-10-31 00:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
-
----
-
-### Politicians are afraid to fix taxes. So 100 citizens tried.
-
-**Released:** 2026-10-28 12:57:50
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
-
----
-
 ## Hidden Brain
 
 ### The Story of Stories
@@ -125,24 +133,6 @@ Last updated: 2026-10-31 16:34:02
 **Released:** 2026-10-26 14:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
-### Doktoro Esperanto
-
-**Released:** 2026-10-27 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
 
 ---
 
@@ -180,6 +170,34 @@ Last updated: 2026-10-31 16:34:02
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #22: AOL Disc
+
+**Released:** 2026-10-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
+
+---
+
+### Doktoro Esperanto
+
+**Released:** 2026-10-27 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The $5 Billion Effort to help Secure the World’s Shared Software | Smart Talks with IBM
+
+**Released:** 2026-10-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Advice Line with Tope Awotona of Calendly
@@ -195,16 +213,6 @@ Last updated: 2026-10-31 16:34:02
 **Released:** 2026-10-26 07:10:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP6448511514.mp3)
-
----
-
-## Revisionist History
-
-### The $5 Billion Effort to help Secure the World’s Shared Software | Smart Talks with IBM
-
-**Released:** 2026-10-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -244,6 +252,24 @@ Last updated: 2026-10-31 16:34:02
 
 ---
 
+## The Moth
+
+### That's A Funny Story: The Moth Podcast
+
+**Released:** 2026-10-30 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
+
+---
+
+### Speaking of Death: The Moth Radio Hour
+
+**Released:** 2026-10-27 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Halloween II
@@ -275,24 +301,6 @@ Last updated: 2026-10-31 16:34:02
 **Released:** 2026-10-26 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/96d03166-2046-43f9-891c-28bc3ee283bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### That's A Funny Story: The Moth Podcast
-
-**Released:** 2026-10-30 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
-
----
-
-### Speaking of Death: The Moth Radio Hour
-
-**Released:** 2026-10-27 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
 
 ---
 
