@@ -1,18 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-02 03:36:02
-
-## Serial
-
-### METRO - Karat and Schtick
-
-**Released:** 2026-10-30 19:30:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
-
----
+Last updated: 2026-11-02 21:08:22
 
 ## TED Talks Daily
+
+### The couples therapists who nearly got divorced | Harville Hendrix
+
+**Released:** 2026-11-02 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3)
+
+---
 
 ### Sunday Pick: Do all my friends secretly hate me? | from Corner Piece
 
@@ -46,11 +44,13 @@ Last updated: 2026-11-02 03:36:02
 
 ---
 
-### The fascinating physics of insect pee | Saad Bhamla (re-release)
+## Serial
 
-**Released:** 2026-10-31 15:01:00
+### METRO - Karat and Schtick
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3)
+**Released:** 2026-10-30 19:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
 
 ---
 
@@ -61,6 +61,16 @@ Last updated: 2026-11-02 03:36:02
 **Released:** 2026-10-30 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 900: Talk Me Into It
+
+**Released:** 2026-11-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
 
 ---
 
@@ -150,6 +160,16 @@ Last updated: 2026-11-02 03:36:02
 
 ---
 
+## Hidden Brain
+
+### How Love Really Works
+
+**Released:** 2026-11-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### 100 Objects #22: AOL Disc
@@ -168,31 +188,21 @@ Last updated: 2026-11-02 03:36:02
 
 ---
 
-## Hidden Brain
+## How I Built This
 
-### The Story of Stories
+### Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”
 
-**Released:** 2026-10-26 14:00:00
+**Released:** 2026-11-02 08:10:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=e77a4d6c-1d6b-4fe7-839d-2c85a7ee5484&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP9745758647.mp3)
 
 ---
-
-## How I Built This
 
 ### Advice Line with Tope Awotona of Calendly
 
 **Released:** 2026-10-29 07:10:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4254648132.mp3)
-
----
-
-### FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work
-
-**Released:** 2026-10-26 07:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP6448511514.mp3)
 
 ---
 
@@ -206,17 +216,15 @@ Last updated: 2026-11-02 03:36:02
 
 ---
 
-## This American Life
+## Conan O'Brien Needs A Friend
 
-### 900: Talk Me Into It
+### Olivia Colman
 
-**Released:** 2026-11-01 19:00:00
+**Released:** 2026-11-02 05:05:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
 
 ---
-
-## Conan O'Brien Needs A Friend
 
 ### Find The Communist!
 
@@ -226,15 +234,51 @@ Last updated: 2026-11-02 03:36:02
 
 ---
 
-### Michael Douglas
+## SmartLess 
 
-**Released:** 2026-10-26 04:05:00
+### "Linda Cardellini"
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/342b86be-8281-421e-970f-5812c87824db/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=342b86be-8281-421e-970f-5812c87824db&feed=dHoohVNH)
+**Released:** 2026-11-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO)
+
+---
+
+### STAYING ALIVE: Sean Hayes!
+
+**Released:** 2026-10-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### That's A Funny Story: The Moth Podcast
+
+**Released:** 2026-10-30 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
+
+---
+
+### Speaking of Death: The Moth Radio Hour
+
+**Released:** 2026-10-27 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
 
 ---
 
 ## Armchair Expert
+
+### Brittany Snow
+
+**Released:** 2026-11-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e09fd4d-0d0d-4e6b-9f8a-de844cbb0cce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Armchair Anonymous: Halloween II
 
@@ -257,50 +301,6 @@ Last updated: 2026-11-02 03:36:02
 **Released:** 2026-10-27 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/331ff13e-f58b-46f5-a070-100de7c9b4dc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Nobody Wants This
-
-**Released:** 2026-10-26 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/96d03166-2046-43f9-891c-28bc3ee283bd.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### STAYING ALIVE: Sean Hayes!
-
-**Released:** 2026-10-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO)
-
----
-
-### "Ray Winstone"
-
-**Released:** 2026-10-26 07:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/80b22d32-957b-435b-9a0f-1fcd3fa1a5f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=80b22d32-957b-435b-9a0f-1fcd3fa1a5f9&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### That's A Funny Story: The Moth Podcast
-
-**Released:** 2026-10-30 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
-
----
-
-### Speaking of Death: The Moth Radio Hour
-
-**Released:** 2026-10-27 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
 
 ---
 
