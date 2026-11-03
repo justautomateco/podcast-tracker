@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-02 21:08:22
+Last updated: 2026-11-03 04:42:20
+
+## Freakonomics Radio
+
+### 693. What’s Our Job as Humans Anymore?
+
+**Released:** 2026-10-30 10:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+
+---
+
+## Serial
+
+### METRO - Karat and Schtick
+
+**Released:** 2026-10-30 19:30:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
+
+---
 
 ## TED Talks Daily
 
@@ -44,23 +64,21 @@ Last updated: 2026-11-02 21:08:22
 
 ---
 
-## Serial
+## Planet Money
 
-### METRO - Karat and Schtick
+### Is this how the great international borrowing spree ends?
 
-**Released:** 2026-10-30 19:30:00
+**Released:** 2026-10-31 00:15:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
 
 ---
 
-## Freakonomics Radio
+### Politicians are afraid to fix taxes. So 100 citizens tried.
 
-### 693. What’s Our Job as Humans Anymore?
+**Released:** 2026-10-28 12:57:50
 
-**Released:** 2026-10-30 10:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
 
 ---
 
@@ -71,6 +89,34 @@ Last updated: 2026-11-02 21:08:22
 **Released:** 2026-11-01 19:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #22: AOL Disc
+
+**Released:** 2026-10-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
+
+---
+
+### Doktoro Esperanto
+
+**Released:** 2026-10-27 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### How Love Really Works
+
+**Released:** 2026-11-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
 
 ---
 
@@ -108,24 +154,6 @@ Last updated: 2026-11-02 21:08:22
 
 ---
 
-## Planet Money
-
-### Is this how the great international borrowing spree ends?
-
-**Released:** 2026-10-31 00:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
-
----
-
-### Politicians are afraid to fix taxes. So 100 citizens tried.
-
-**Released:** 2026-10-28 12:57:50
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400)
-
----
-
 ## Stuff You Should Know
 
 ### Selects: Salem Witchcraft Trials: More Bonkers Than You Know
@@ -157,34 +185,6 @@ Last updated: 2026-11-02 21:08:22
 **Released:** 2026-10-27 09:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
-### Doktoro Esperanto
-
-**Released:** 2026-10-27 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
 
 ---
 
