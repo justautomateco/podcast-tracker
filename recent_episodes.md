@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-03 04:42:20
+Last updated: 2026-11-03 18:51:48
 
 ## Freakonomics Radio
 
@@ -23,6 +23,14 @@ Last updated: 2026-11-03 04:42:20
 ---
 
 ## TED Talks Daily
+
+### What kids wish their parents knew about fun | Mila Rojas
+
+**Released:** 2026-11-03 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3)
+
+---
 
 ### The couples therapists who nearly got divorced | Harville Hendrix
 
@@ -56,14 +64,6 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
-### The razor-thin line between contagion and connection | Dan Taberski (re-release)
-
-**Released:** 2026-10-31 15:02:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3)
-
----
-
 ## Planet Money
 
 ### Is this how the great international borrowing spree ends?
@@ -92,35 +92,15 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
-## 99% Invisible
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
-### Doktoro Esperanto
-
-**Released:** 2026-10-27 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3afcbf0c-3b85-4460-a3df-e337dcede5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=3afcbf0c-3b85-4460-a3df-e337dcede5e6&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2575 - Sam Tallent
+
+**Released:** 2026-11-03 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2051514655.mp3)
+
+---
 
 ### #2574 - Francis Foster & Konstantin Kisin
 
@@ -154,7 +134,25 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
+## Hidden Brain
+
+### How Love Really Works
+
+**Released:** 2026-11-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
+
+---
+
 ## Stuff You Should Know
+
+### Ba-Dum-Bum Goes Your Heart! 
+
+**Released:** 2026-11-03 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Salem Witchcraft Trials: More Bonkers Than You Know
 
@@ -180,11 +178,21 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
-### (Don't Fear) The (Grim) Reaper
+## 99% Invisible
 
-**Released:** 2026-10-27 09:00:00
+### Zone Zero
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-11-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #22: AOL Disc
+
+**Released:** 2026-10-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
 
 ---
 
@@ -234,6 +242,24 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
+## The Moth
+
+### On The Job: The Moth Radio Hour
+
+**Released:** 2026-11-03 08:24:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
+
+---
+
+### That's A Funny Story: The Moth Podcast
+
+**Released:** 2026-10-30 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
+
+---
+
 ## SmartLess 
 
 ### "Linda Cardellini"
@@ -252,25 +278,15 @@ Last updated: 2026-11-03 04:42:20
 
 ---
 
-## The Moth
-
-### That's A Funny Story: The Moth Podcast
-
-**Released:** 2026-10-30 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
-
----
-
-### Speaking of Death: The Moth Radio Hour
-
-**Released:** 2026-10-27 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208752/8208752_2026-04-13-032752.192.mp3?rssID=6066)
-
----
-
 ## Armchair Expert
+
+### Mom's Car: Minka Kelly
+
+**Released:** 2026-11-03 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Brittany Snow
 
@@ -293,14 +309,6 @@ Last updated: 2026-11-03 04:42:20
 **Released:** 2026-10-28 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/9f55c9e9-86f1-4320-9a81-90fb3e5b38e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Guy Stevenson
-
-**Released:** 2026-10-27 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/331ff13e-f58b-46f5-a070-100de7c9b4dc.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
