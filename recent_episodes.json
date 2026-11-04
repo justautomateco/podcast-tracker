@@ -1,5 +1,12 @@
 [
   {
+    "guid": "bb1e9899-638f-49f6-baca-88027b638998",
+    "episode_title": "METRO - Karat and Schtick",
+    "release_date": "2026-10-30 19:30:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg",
+    "podcast_name": "Serial"
+  },
+  {
     "guid": "835cd2b1-bc0e-4a89-b896-e3a58cf01f3d",
     "episode_title": "693. What\u2019s Our Job as Humans Anymore?",
     "release_date": "2026-10-30 10:00:00",
@@ -7,11 +14,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "bb1e9899-638f-49f6-baca-88027b638998",
-    "episode_title": "METRO - Karat and Schtick",
-    "release_date": "2026-10-30 19:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg",
-    "podcast_name": "Serial"
+    "guid": "46252 at https://www.thisamericanlife.org",
+    "episode_title": "900: Talk Me Into It",
+    "release_date": "2026-11-01 19:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "6ae8b9cd008b613dfe44544a",
@@ -49,27 +56,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "ebb86052-61b6-4d13-b078-f19589376677",
-    "episode_title": "Is this how the great international borrowing spree ends?",
-    "release_date": "2026-10-31 00:15:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
-    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
-    "release_date": "2026-10-28 12:57:50",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46252 at https://www.thisamericanlife.org",
-    "episode_title": "900: Talk Me Into It",
-    "release_date": "2026-11-01 19:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
     "guid": "709942d8-d729-11f1-8d39-1fb40a68132d",
     "episode_title": "#2575 - Sam Tallent",
     "release_date": "2026-11-03 18:00:00",
@@ -103,6 +89,20 @@
     "release_date": "2026-10-28 19:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT7178896407.mp3",
     "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "ebb86052-61b6-4d13-b078-f19589376677",
+    "episode_title": "Is this how the great international borrowing spree ends?",
+    "release_date": "2026-10-31 00:15:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
+    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+    "release_date": "2026-10-28 12:57:50",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+    "podcast_name": "Planet Money"
   },
   {
     "guid": "41bb5919-9678-4d19-a5e3-e0f54843519d",
@@ -175,6 +175,20 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a",
+    "episode_title": "\"Linda Cardellini\"",
+    "release_date": "2026-11-02 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
+    "episode_title": "STAYING ALIVE: Sean Hayes!",
+    "release_date": "2026-10-29 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
     "guid": "815b21ef-9078-4720-b100-f78be4be34a1",
     "episode_title": "Olivia Colman",
     "release_date": "2026-11-02 05:05:00",
@@ -201,20 +215,6 @@
     "release_date": "2026-10-30 07:25:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a",
-    "episode_title": "\"Linda Cardellini\"",
-    "release_date": "2026-11-02 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
-    "episode_title": "STAYING ALIVE: Sean Hayes!",
-    "release_date": "2026-10-29 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/e-S1YheodFqpR8m4MuvaSGswSsnumX43d97Y58SVYOw",
