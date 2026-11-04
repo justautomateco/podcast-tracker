@@ -7,6 +7,13 @@
     "podcast_name": "Serial"
   },
   {
+    "guid": "e4c05d01-5e71-4f13-a953-cc7495e996fc",
+    "episode_title": "What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy",
+    "release_date": "2026-11-04 13:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1c43a65c-f6cc-42a2-b725-2908c200c239/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1c43a65c-f6cc-42a2-b725-2908c200c239&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "835cd2b1-bc0e-4a89-b896-e3a58cf01f3d",
     "episode_title": "693. What\u2019s Our Job as Humans Anymore?",
     "release_date": "2026-10-30 10:00:00",
@@ -14,11 +21,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46252 at https://www.thisamericanlife.org",
-    "episode_title": "900: Talk Me Into It",
-    "release_date": "2026-11-01 19:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6ae8b9dc008b613dfe44544b",
+    "episode_title": "5 ideas for better government in the US | Jeff Maurer",
+    "release_date": "2026-11-04 16:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6ae8b9cd008b613dfe44544a",
@@ -49,11 +56,32 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6ad66b9898b58b8b524628ef",
-    "episode_title": "What crows teach us about death | Kaeli Swift (re-release)",
-    "release_date": "2026-10-31 15:03:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "46252 at https://www.thisamericanlife.org",
+    "episode_title": "900: Talk Me Into It",
+    "release_date": "2026-11-01 19:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "d7ae601b-8465-47f2-835c-21fba48f631d",
+    "episode_title": "The history of light (classic)",
+    "release_date": "2026-11-04 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "ebb86052-61b6-4d13-b078-f19589376677",
+    "episode_title": "Is this how the great international borrowing spree ends?",
+    "release_date": "2026-10-31 00:15:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "843a4c4c-d814-11f1-b9a1-43aa4be9aada",
+    "episode_title": "#2576 - Dr. Peter McCullough",
+    "release_date": "2026-11-04 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT1721245652.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "709942d8-d729-11f1-8d39-1fb40a68132d",
@@ -84,32 +112,32 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "2261e0d2-d2fd-11f1-88f9-877628146802",
-    "episode_title": "#2571 - Jimmy Carr",
-    "release_date": "2026-10-28 19:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "ebb86052-61b6-4d13-b078-f19589376677",
-    "episode_title": "Is this how the great international borrowing spree ends?",
-    "release_date": "2026-10-31 00:15:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "e2b2c030-eb87-48c0-9069-31a7def930b0",
-    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
-    "release_date": "2026-10-28 12:57:50",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "41bb5919-9678-4d19-a5e3-e0f54843519d",
     "episode_title": "How Love Really Works",
     "release_date": "2026-11-02 15:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "56d61977-58fe-46f3-a70d-46ec6069dab1",
+    "episode_title": "Zone Zero",
+    "release_date": "2026-11-03 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "fd227244-9c99-44a9-84af-acfaf98ae40f",
+    "episode_title": "100 Objects #22: AOL Disc",
+    "release_date": "2026-10-30 07:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "c7779fc4-34d1-4743-a8b5-b4ef013fc89b",
+    "episode_title": "Short Stuff: Weather Balloons",
+    "release_date": "2026-11-04 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c7779fc4-34d1-4743-a8b5-b4ef013fc89b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "30849b3a-b398-4257-8034-b4ef00f8421f",
@@ -133,27 +161,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "8e0a3bbf-b52f-4e95-81e0-b4e801153034",
-    "episode_title": "Short Stuff: The Enfield Monster",
-    "release_date": "2026-10-28 09:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8e0a3bbf-b52f-4e95-81e0-b4e801153034/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "56d61977-58fe-46f3-a70d-46ec6069dab1",
-    "episode_title": "Zone Zero",
-    "release_date": "2026-11-03 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "fd227244-9c99-44a9-84af-acfaf98ae40f",
-    "episode_title": "100 Objects #22: AOL Disc",
-    "release_date": "2026-10-30 07:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
     "guid": "c38caf1e-c97a-11f1-9218-bf22d2ed62c6",
     "episode_title": "Airbnb CEO Brian Chesky: \u201cI Was a Great Founder and a Terrible CEO\u201d",
     "release_date": "2026-11-02 08:10:00",
@@ -175,20 +182,6 @@
     "podcast_name": "Revisionist History"
   },
   {
-    "guid": "f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a",
-    "episode_title": "\"Linda Cardellini\"",
-    "release_date": "2026-11-02 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
-    "episode_title": "STAYING ALIVE: Sean Hayes!",
-    "release_date": "2026-10-29 07:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
     "guid": "815b21ef-9078-4720-b100-f78be4be34a1",
     "episode_title": "Olivia Colman",
     "release_date": "2026-11-02 05:05:00",
@@ -203,18 +196,11 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
-    "guid": "OFsyk12N0ika98ibw9ScLupBpkFUBsEN",
-    "episode_title": "On The Job: The Moth Radio Hour",
-    "release_date": "2026-11-03 08:24:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "7664c956-89d4-11f0-b13f-a3796aef5927",
-    "episode_title": "That's A Funny Story: The Moth Podcast",
-    "release_date": "2026-10-30 07:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/3e1-JQmbYKO28v2_uZ4Ud5SsnMtm1dm0QxYP7D_fXk4",
+    "episode_title": "Kelly McGonigal (on joy)",
+    "release_date": "2026-11-04 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/e091ac20-eec1-49d3-b266-687080110bd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/e-S1YheodFqpR8m4MuvaSGswSsnumX43d97Y58SVYOw",
@@ -238,10 +224,31 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/jAPXTlK-Nikj6eAYukT1yEGAzWSs02m6OcDbLmm-muo",
-    "episode_title": "Erin & Sara Foster",
-    "release_date": "2026-10-28 07:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/9f55c9e9-86f1-4320-9a81-90fb3e5b38e4.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
+    "guid": "f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a",
+    "episode_title": "\"Linda Cardellini\"",
+    "release_date": "2026-11-02 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "8e26ceb2-50a2-46c5-8680-8923ef301453",
+    "episode_title": "STAYING ALIVE: Sean Hayes!",
+    "release_date": "2026-10-29 07:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/c040c8a4-c3e6-43ea-92ac-8685739c3600/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=c040c8a4-c3e6-43ea-92ac-8685739c3600&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "OFsyk12N0ika98ibw9ScLupBpkFUBsEN",
+    "episode_title": "On The Job: The Moth Radio Hour",
+    "release_date": "2026-11-03 08:24:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "7664c956-89d4-11f0-b13f-a3796aef5927",
+    "episode_title": "That's A Funny Story: The Moth Podcast",
+    "release_date": "2026-10-30 07:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   }
 ]
