@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-04 19:07:57
+Last updated: 2026-11-05 04:24:40
 
 ## Serial
 
@@ -27,6 +27,16 @@ Last updated: 2026-11-04 19:07:57
 **Released:** 2026-10-30 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 900: Talk Me Into It
+
+**Released:** 2026-11-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
 
 ---
 
@@ -69,16 +79,6 @@ Last updated: 2026-11-04 19:07:57
 **Released:** 2026-10-31 15:04:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3)
-
----
-
-## This American Life
-
-### 900: Talk Me Into It
-
-**Released:** 2026-11-01 19:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
 
 ---
 
@@ -142,34 +142,6 @@ Last updated: 2026-11-04 19:07:57
 
 ---
 
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Zone Zero
-
-**Released:** 2026-11-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
-
----
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
 
 ### Short Stuff: Weather Balloons
@@ -204,6 +176,44 @@ Last updated: 2026-11-04 19:07:57
 
 ---
 
+## Hidden Brain
+
+### How Love Really Works
+
+**Released:** 2026-11-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Zone Zero
+
+**Released:** 2026-11-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #22: AOL Disc
+
+**Released:** 2026-10-30 07:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
+
+---
+
+## Revisionist History
+
+### The $5 Billion Effort to help Secure the World’s Shared Software | Smart Talks with IBM
+
+**Released:** 2026-10-29 07:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## How I Built This
 
 ### Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”
@@ -222,16 +232,6 @@ Last updated: 2026-11-04 19:07:57
 
 ---
 
-## Revisionist History
-
-### The $5 Billion Effort to help Secure the World’s Shared Software | Smart Talks with IBM
-
-**Released:** 2026-10-29 07:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/a350a739-8b39-41ec-a2e5-b4ef00f4cd53/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## Conan O'Brien Needs A Friend
 
 ### Olivia Colman
@@ -239,48 +239,6 @@ Last updated: 2026-11-04 19:07:57
 **Released:** 2026-11-02 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
-
----
-
-### Find The Communist!
-
-**Released:** 2026-10-29 04:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/64baa86b-e1dc-4f8e-8644-178ad49bde5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=64baa86b-e1dc-4f8e-8644-178ad49bde5a&feed=dHoohVNH)
-
----
-
-## Armchair Expert
-
-### Kelly McGonigal (on joy)
-
-**Released:** 2026-11-04 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e091ac20-eec1-49d3-b266-687080110bd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Minka Kelly
-
-**Released:** 2026-11-03 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Brittany Snow
-
-**Released:** 2026-11-02 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e09fd4d-0d0d-4e6b-9f8a-de844cbb0cce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Halloween II
-
-**Released:** 2026-10-30 07:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -317,6 +275,40 @@ Last updated: 2026-11-04 19:07:57
 **Released:** 2026-10-30 07:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
+
+---
+
+## Armchair Expert
+
+### Kelly McGonigal (on joy)
+
+**Released:** 2026-11-04 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e091ac20-eec1-49d3-b266-687080110bd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Minka Kelly
+
+**Released:** 2026-11-03 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Brittany Snow
+
+**Released:** 2026-11-02 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/1e09fd4d-0d0d-4e6b-9f8a-de844cbb0cce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Halloween II
+
+**Released:** 2026-10-30 07:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
