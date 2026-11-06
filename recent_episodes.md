@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-05 19:15:45
+Last updated: 2026-11-06 04:22:37
 
 ## Serial
 
@@ -35,6 +35,16 @@ Last updated: 2026-11-05 19:15:45
 **Released:** 2026-10-30 10:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 900: Talk Me Into It
+
+**Released:** 2026-11-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
 
 ---
 
@@ -98,13 +108,13 @@ Last updated: 2026-11-05 19:15:45
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 900: Talk Me Into It
+### How Love Really Works
 
-**Released:** 2026-11-01 19:00:00
+**Released:** 2026-11-02 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
 
 ---
 
@@ -150,16 +160,6 @@ Last updated: 2026-11-05 19:15:45
 
 ---
 
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
 ## 99% Invisible
 
 ### Zone Zero
@@ -175,24 +175,6 @@ Last updated: 2026-11-05 19:15:45
 **Released:** 2026-10-30 07:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
-
-**Released:** 2026-11-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
-
----
-
-### Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”
-
-**Released:** 2026-11-02 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP9745758647.mp3)
 
 ---
 
@@ -230,21 +212,31 @@ Last updated: 2026-11-05 19:15:45
 
 ---
 
-## Conan O'Brien Needs A Friend
+## The Tim Ferriss Show
 
-### For the Love of Butts
+### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
 
-**Released:** 2026-11-05 05:05:00
+**Released:** 2026-11-05 20:30:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Olivia Colman
+## How I Built This
 
-**Released:** 2026-11-02 05:05:00
+### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
+**Released:** 2026-11-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
+
+---
+
+### Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”
+
+**Released:** 2026-11-02 08:10:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP9745758647.mp3)
 
 ---
 
@@ -263,6 +255,42 @@ Last updated: 2026-11-05 19:15:45
 **Released:** 2026-11-02 08:01:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### On The Job: The Moth Radio Hour
+
+**Released:** 2026-11-03 08:24:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
+
+---
+
+### That's A Funny Story: The Moth Podcast
+
+**Released:** 2026-10-30 07:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### For the Love of Butts
+
+**Released:** 2026-11-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
+
+---
+
+### Olivia Colman
+
+**Released:** 2026-11-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
 
 ---
 
@@ -297,24 +325,6 @@ Last updated: 2026-11-05 19:15:45
 **Released:** 2026-10-30 07:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### On The Job: The Moth Radio Hour
-
-**Released:** 2026-11-03 08:24:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
-
----
-
-### That's A Funny Story: The Moth Podcast
-
-**Released:** 2026-10-30 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
 
 ---
 
