@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-06 04:22:37
+Last updated: 2026-11-06 18:42:21
 
 ## Serial
 
@@ -22,6 +22,14 @@ Last updated: 2026-11-06 04:22:37
 
 ## Freakonomics Radio
 
+### 694. Does Democracy Really Need Elections?
+
+**Released:** 2026-11-06 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5b1efac3-9ff4-451c-b6c0-9d711de24b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5b1efac3-9ff4-451c-b6c0-9d711de24b8a&feed=Y8lFbOT4)
+
+---
+
 ### What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy
 
 **Released:** 2026-11-04 13:00:00
@@ -30,11 +38,21 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-### 693. What’s Our Job as Humans Anymore?
+## Planet Money
 
-**Released:** 2026-10-30 10:00:00
+### The history of light (classic)
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/a060192e-2409-4068-9b2d-9736e3c2eaac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=a060192e-2409-4068-9b2d-9736e3c2eaac&feed=Y8lFbOT4)
+**Released:** 2026-11-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002)
+
+---
+
+### Is this how the great international borrowing spree ends?
+
+**Released:** 2026-10-31 00:15:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
 
 ---
 
@@ -49,6 +67,14 @@ Last updated: 2026-11-06 04:22:37
 ---
 
 ## TED Talks Daily
+
+### The surprising beauty of mosquitos | Felix Hol
+
+**Released:** 2026-11-06 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3)
+
+---
 
 ### Why great art requires risk | Alex Van Halen, David Lee Roth, Robert Vargas
 
@@ -82,43 +108,15 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-### Sunday Pick: Do all my friends secretly hate me? | from Corner Piece
-
-**Released:** 2026-11-01 07:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3)
-
----
-
-## Planet Money
-
-### The history of light (classic)
-
-**Released:** 2026-11-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002)
-
----
-
-### Is this how the great international borrowing spree ends?
-
-**Released:** 2026-10-31 00:15:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
-
----
-
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
+
+### #2578 - Calley Means
+
+**Released:** 2026-11-06 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2681832801.mp3)
+
+---
 
 ### #2577 - Gregory Forth
 
@@ -152,29 +150,31 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-### #2573 - Legion of Skanks
+## Hidden Brain
 
-**Released:** 2026-10-30 17:00:00
+### How Love Really Works
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3082011100.mp3)
+**Released:** 2026-11-02 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
 
 ---
 
 ## 99% Invisible
+
+### 100 Objects #23: Coin From the Ship of Gold
+
+**Released:** 2026-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
+
+---
 
 ### Zone Zero
 
 **Released:** 2026-11-03 09:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
-
----
-
-### 100 Objects #22: AOL Disc
-
-**Released:** 2026-10-30 07:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2b20383f-2668-4c54-8804-15135b78d44c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2b20383f-2668-4c54-8804-15135b78d44c&feed=BqbsxVfO)
 
 ---
 
@@ -212,16 +212,6 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-## The Tim Ferriss Show
-
-### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
-
-**Released:** 2026-11-05 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## How I Built This
 
 ### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
@@ -240,61 +230,25 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "RE-RELEASE: Reese Witherspoon"
+### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
 
-**Released:** 2026-11-05 08:00:00
+**Released:** 2026-11-05 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
-
----
-
-### "Linda Cardellini"
-
-**Released:** 2026-11-02 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### On The Job: The Moth Radio Hour
-
-**Released:** 2026-11-03 08:24:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
-
----
-
-### That's A Funny Story: The Moth Podcast
-
-**Released:** 2026-10-30 07:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208751/8208751_2026-04-13-032651.192.mp3?rssID=6066)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### For the Love of Butts
-
-**Released:** 2026-11-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
-
----
-
-### Olivia Colman
-
-**Released:** 2026-11-02 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
 ## Armchair Expert
+
+### Armchair Anonymous: Jail
+
+**Released:** 2026-11-06 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f421e050-c11a-4452-a056-5996e6ea9994.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Kelly McGonigal (on joy)
 
@@ -320,11 +274,57 @@ Last updated: 2026-11-06 04:22:37
 
 ---
 
-### Armchair Anonymous: Halloween II
+## Conan O'Brien Needs A Friend
 
-**Released:** 2026-10-30 07:30:00
+### For the Love of Butts
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/2aab3f68-d8a2-4a7a-a814-fcb0787451cf.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-11-05 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
+
+---
+
+### Olivia Colman
+
+**Released:** 2026-11-02 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Reese Witherspoon"
+
+**Released:** 2026-11-05 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
+
+---
+
+### "Linda Cardellini"
+
+**Released:** 2026-11-02 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO)
+
+---
+
+## The Moth
+
+### Home for the Holidays: The Moth Podcast
+
+**Released:** 2026-11-06 08:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066)
+
+---
+
+### On The Job: The Moth Radio Hour
+
+**Released:** 2026-11-03 08:24:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
 
 ---
 
