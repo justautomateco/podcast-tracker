@@ -7,13 +7,6 @@
     "podcast_name": "Serial"
   },
   {
-    "guid": "bb1e9899-638f-49f6-baca-88027b638998",
-    "episode_title": "METRO - Karat and Schtick",
-    "release_date": "2026-10-30 19:30:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=b8a071d3-b4f2-4e4c-85d3-f37e3a3d646c&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "e16f3508-dd10-4df9-98eb-8223df2487de",
     "episode_title": "694. Does Democracy Really Need Elections?",
     "release_date": "2026-11-06 11:00:00",
@@ -26,27 +19,6 @@
     "release_date": "2026-11-04 13:00:00",
     "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1c43a65c-f6cc-42a2-b725-2908c200c239/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1c43a65c-f6cc-42a2-b725-2908c200c239&feed=Y8lFbOT4",
     "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "d7ae601b-8465-47f2-835c-21fba48f631d",
-    "episode_title": "The history of light (classic)",
-    "release_date": "2026-11-04 08:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "ebb86052-61b6-4d13-b078-f19589376677",
-    "episode_title": "Is this how the great international borrowing spree ends?",
-    "release_date": "2026-10-31 00:15:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "46252 at https://www.thisamericanlife.org",
-    "episode_title": "900: Talk Me Into It",
-    "release_date": "2026-11-01 19:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
-    "podcast_name": "This American Life"
   },
   {
     "guid": "6aedf666225208a74da728d2",
@@ -82,6 +54,27 @@
     "release_date": "2026-11-02 16:00:00",
     "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3",
     "podcast_name": "TED Talks Daily"
+  },
+  {
+    "guid": "4dca2240-f1f8-47b7-a504-6aaae5753f74",
+    "episode_title": "Inside the insurance industry\u2019s destruction lab",
+    "release_date": "2026-11-06 22:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "d7ae601b-8465-47f2-835c-21fba48f631d",
+    "episode_title": "The history of light (classic)",
+    "release_date": "2026-11-04 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46252 at https://www.thisamericanlife.org",
+    "episode_title": "900: Talk Me Into It",
+    "release_date": "2026-11-01 19:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "9a21b2c6-d99e-11f1-9c2f-e7736191fbbd",
@@ -189,6 +182,34 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
+    "guid": "c2226f56-3689-4ebd-bf86-653e6f9dfecb",
+    "episode_title": "For the Love of Butts",
+    "release_date": "2026-11-05 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "815b21ef-9078-4720-b100-f78be4be34a1",
+    "episode_title": "Olivia Colman",
+    "release_date": "2026-11-02 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "7826151a-89d4-11f0-b13f-2fd54ba8ac02",
+    "episode_title": "Home for the Holidays: The Moth Podcast",
+    "release_date": "2026-11-06 08:25:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "OFsyk12N0ika98ibw9ScLupBpkFUBsEN",
+    "episode_title": "On The Job: The Moth Radio Hour",
+    "release_date": "2026-11-03 08:24:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "gid://art19-episode-locator/V0/UKNlgIyYDqVVCW39UZ-2dcm67qfrvjcA07B774WLyvY",
     "episode_title": "Armchair Anonymous: Jail",
     "release_date": "2026-11-06 08:30:00",
@@ -217,20 +238,6 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "c2226f56-3689-4ebd-bf86-653e6f9dfecb",
-    "episode_title": "For the Love of Butts",
-    "release_date": "2026-11-05 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "815b21ef-9078-4720-b100-f78be4be34a1",
-    "episode_title": "Olivia Colman",
-    "release_date": "2026-11-02 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9935ee9d-7b10-4218-a649-fc67107aeced/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9935ee9d-7b10-4218-a649-fc67107aeced&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
     "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
     "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
     "release_date": "2026-11-05 08:00:00",
@@ -243,19 +250,5 @@
     "release_date": "2026-11-02 08:01:00",
     "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/256d26b7-6b45-439f-8211-eaaeefed2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=256d26b7-6b45-439f-8211-eaaeefed2d36&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "7826151a-89d4-11f0-b13f-2fd54ba8ac02",
-    "episode_title": "Home for the Holidays: The Moth Podcast",
-    "release_date": "2026-11-06 08:25:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "OFsyk12N0ika98ibw9ScLupBpkFUBsEN",
-    "episode_title": "On The Job: The Moth Radio Hour",
-    "release_date": "2026-11-03 08:24:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
   }
 ]
