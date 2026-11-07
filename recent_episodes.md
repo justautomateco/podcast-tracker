@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-07 03:51:30
+Last updated: 2026-11-07 17:12:32
 
 ## Serial
 
@@ -30,7 +30,25 @@ Last updated: 2026-11-07 03:51:30
 
 ---
 
+## This American Life
+
+### 900: Talk Me Into It
+
+**Released:** 2026-11-01 19:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
+
+---
+
 ## TED Talks Daily
+
+### How to build the next wave of clean energy | Jennifer Granholm, Ryan Panchadsaram
+
+**Released:** 2026-11-07 16:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3)
+
+---
 
 ### The surprising beauty of mosquitos | Felix Hol
 
@@ -64,14 +82,6 @@ Last updated: 2026-11-07 03:51:30
 
 ---
 
-### The couples therapists who nearly got divorced | Harville Hendrix
-
-**Released:** 2026-11-02 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3)
-
----
-
 ## Planet Money
 
 ### Inside the insurance industry’s destruction lab
@@ -90,13 +100,13 @@ Last updated: 2026-11-07 03:51:30
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 900: Talk Me Into It
+### How Love Really Works
 
-**Released:** 2026-11-01 19:00:00
+**Released:** 2026-11-02 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
 
 ---
 
@@ -134,43 +144,15 @@ Last updated: 2026-11-07 03:51:30
 
 ---
 
-### #2574 - Francis Foster & Konstantin Kisin
-
-**Released:** 2026-10-31 17:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8304275411.mp3)
-
----
-
-## Hidden Brain
-
-### How Love Really Works
-
-**Released:** 2026-11-02 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/fa6090e5-2f93-4e8c-b4a0-7b7882277150/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=fa6090e5-2f93-4e8c-b4a0-7b7882277150&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #23: Coin From the Ship of Gold
-
-**Released:** 2026-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
-
----
-
-### Zone Zero
-
-**Released:** 2026-11-03 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
-
----
-
 ## Stuff You Should Know
+
+### Selects: The Tailesin Massacre
+
+**Released:** 2026-11-07 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10845c30-c2c5-4595-9ef5-b4f7013f4b11/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### The Wilmington Massacre
 
@@ -196,11 +178,21 @@ Last updated: 2026-11-07 03:51:30
 
 ---
 
-### Selects: Salem Witchcraft Trials: More Bonkers Than You Know
+## 99% Invisible
 
-**Released:** 2026-10-31 09:00:00
+### 100 Objects #23: Coin From the Ship of Gold
 
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59a147ba-9575-41de-a57f-b4f001119cc1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+**Released:** 2026-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
+
+---
+
+### Zone Zero
+
+**Released:** 2026-11-03 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
 
 ---
 
@@ -219,16 +211,6 @@ Last updated: 2026-11-07 03:51:30
 **Released:** 2026-11-02 08:10:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP9745758647.mp3)
-
----
-
-## The Tim Ferriss Show
-
-### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
-
-**Released:** 2026-11-05 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -265,6 +247,16 @@ Last updated: 2026-11-07 03:51:30
 **Released:** 2026-11-03 08:24:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066)
+
+---
+
+## The Tim Ferriss Show
+
+### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
+
+**Released:** 2026-11-05 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
