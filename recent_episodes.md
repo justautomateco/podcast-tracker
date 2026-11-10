@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-09 21:46:17
+Last updated: 2026-11-10 05:22:44
 
 ## Serial
 
@@ -100,16 +100,6 @@ Last updated: 2026-11-09 21:46:17
 
 ---
 
-## Hidden Brain
-
-### Dropping the Mask
-
-**Released:** 2026-11-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2578 - Calley Means
@@ -144,6 +134,16 @@ Last updated: 2026-11-09 21:46:17
 
 ---
 
+## Hidden Brain
+
+### Dropping the Mask
+
+**Released:** 2026-11-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
+
+---
+
 ## 99% Invisible
 
 ### 100 Objects #23: Coin From the Ship of Gold
@@ -159,24 +159,6 @@ Last updated: 2026-11-09 21:46:17
 **Released:** 2026-11-03 09:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
-
-**Released:** 2026-11-09 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
-
----
-
-### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
-
-**Released:** 2026-11-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
 
 ---
 
@@ -224,21 +206,21 @@ Last updated: 2026-11-09 21:46:17
 
 ---
 
-## SmartLess 
+## How I Built This
 
-### "Dustin Hoffman"
+### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
 
-**Released:** 2026-11-09 08:01:00
+**Released:** 2026-11-09 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
 
 ---
 
-### "RE-RELEASE: Reese Witherspoon"
+### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
 
-**Released:** 2026-11-05 08:00:00
+**Released:** 2026-11-05 08:10:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
 
 ---
 
@@ -309,6 +291,24 @@ Last updated: 2026-11-09 21:46:17
 **Released:** 2026-11-03 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Dustin Hoffman"
+
+**Released:** 2026-11-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Reese Witherspoon"
+
+**Released:** 2026-11-05 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
 
 ---
 

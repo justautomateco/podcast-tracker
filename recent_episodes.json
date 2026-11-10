@@ -77,13 +77,6 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
-    "episode_title": "Dropping the Mask",
-    "release_date": "2026-11-09 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
-  },
-  {
     "guid": "9a21b2c6-d99e-11f1-9c2f-e7736191fbbd",
     "episode_title": "#2578 - Calley Means",
     "release_date": "2026-11-06 18:00:00",
@@ -112,6 +105,13 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
+    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
+    "episode_title": "Dropping the Mask",
+    "release_date": "2026-11-09 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "816164d8-b92d-49ed-924e-95dc25b71046",
     "episode_title": "100 Objects #23: Coin From the Ship of Gold",
     "release_date": "2026-11-06 08:00:00",
@@ -124,20 +124,6 @@
     "release_date": "2026-11-03 09:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "c3c8209e-c97a-11f1-9218-230851eee037",
-    "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
-    "release_date": "2026-11-09 08:10:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP1750831437.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "c3aada52-c97a-11f1-9218-2b49890f4d04",
-    "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
-    "release_date": "2026-11-05 08:10:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP4247798433.mp3",
-    "podcast_name": "How I Built This"
   },
   {
     "guid": "10845c30-c2c5-4595-9ef5-b4f7013f4b11",
@@ -175,18 +161,18 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
-    "episode_title": "\"Dustin Hoffman\"",
-    "release_date": "2026-11-09 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "c3c8209e-c97a-11f1-9218-230851eee037",
+    "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+    "release_date": "2026-11-09 08:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP1750831437.mp3",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
-    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
-    "release_date": "2026-11-05 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "c3aada52-c97a-11f1-9218-2b49890f4d04",
+    "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+    "release_date": "2026-11-05 08:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP4247798433.mp3",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "6fafb2d6-7b17-4e40-859a-2040de3cd70d",
@@ -243,5 +229,19 @@
     "release_date": "2026-11-03 08:30:00",
     "mp3_url": "https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
+    "episode_title": "\"Dustin Hoffman\"",
+    "release_date": "2026-11-09 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
+    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
+    "release_date": "2026-11-05 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   }
 ]
