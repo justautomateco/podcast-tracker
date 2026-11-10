@@ -1,12 +1,5 @@
 [
   {
-    "guid": "432971cf-9021-4eb5-97f7-d4f2a7c25644",
-    "episode_title": "METRO - Heavy is the Head that Refuses to Share the Crown",
-    "release_date": "2026-11-05 09:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "e16f3508-dd10-4df9-98eb-8223df2487de",
     "episode_title": "694. Does Democracy Really Need Elections?",
     "release_date": "2026-11-06 11:00:00",
@@ -21,11 +14,25 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "432971cf-9021-4eb5-97f7-d4f2a7c25644",
+    "episode_title": "METRO - Heavy is the Head that Refuses to Share the Crown",
+    "release_date": "2026-11-05 09:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg",
+    "podcast_name": "Serial"
+  },
+  {
     "guid": "46253 at https://www.thisamericanlife.org",
     "episode_title": "901: Is Your Blue My Blue?",
     "release_date": "2026-11-08 20:00:00",
     "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
     "podcast_name": "This American Life"
+  },
+  {
+    "guid": "6af23934e1219d878fcb3b47",
+    "episode_title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
+    "release_date": "2026-11-10 17:34:47",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6af1eb82e0d89bd85412a56b",
@@ -56,13 +63,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6aeb94a69f528791af8c1bc2",
-    "episode_title": "Why great art requires risk | Alex Van Halen, David Lee Roth, Robert Vargas",
-    "release_date": "2026-11-05 16:13:59",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "4dca2240-f1f8-47b7-a504-6aaae5753f74",
     "episode_title": "Inside the insurance industry\u2019s destruction lab",
     "release_date": "2026-11-06 22:30:00",
@@ -75,6 +75,34 @@
     "release_date": "2026-11-04 08:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "d7bb6813-c78b-4e46-864d-aa9461b43f3a",
+    "episode_title": "Perfectly Leveraged for the Squat",
+    "release_date": "2026-11-10 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "816164d8-b92d-49ed-924e-95dc25b71046",
+    "episode_title": "100 Objects #23: Coin From the Ship of Gold",
+    "release_date": "2026-11-06 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
+    "episode_title": "Dropping the Mask",
+    "release_date": "2026-11-09 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "ccadeb34-dca4-11f1-af0c-13d358cf1a21",
+    "episode_title": "#2579 - Gary Sinise",
+    "release_date": "2026-11-10 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "9a21b2c6-d99e-11f1-9c2f-e7736191fbbd",
@@ -98,32 +126,25 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "709942d8-d729-11f1-8d39-1fb40a68132d",
-    "episode_title": "#2575 - Sam Tallent",
-    "release_date": "2026-11-03 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT2051514655.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "c3c8209e-c97a-11f1-9218-230851eee037",
+    "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+    "release_date": "2026-11-09 08:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP1750831437.mp3",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
-    "episode_title": "Dropping the Mask",
-    "release_date": "2026-11-09 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "c3aada52-c97a-11f1-9218-2b49890f4d04",
+    "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
+    "release_date": "2026-11-05 08:10:00",
+    "mp3_url": "https://traffic.megaphone.fm/VMP4247798433.mp3",
+    "podcast_name": "How I Built This"
   },
   {
-    "guid": "816164d8-b92d-49ed-924e-95dc25b71046",
-    "episode_title": "100 Objects #23: Coin From the Ship of Gold",
-    "release_date": "2026-11-06 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "56d61977-58fe-46f3-a70d-46ec6069dab1",
-    "episode_title": "Zone Zero",
-    "release_date": "2026-11-03 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ceee3eec-1f1d-4e08-bca5-9ed2d577b937/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ceee3eec-1f1d-4e08-bca5-9ed2d577b937&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "698e37d6-6070-476f-a28c-b4f801606d28",
+    "episode_title": "Zorro! That guy with the sword! ",
+    "release_date": "2026-11-10 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/698e37d6-6070-476f-a28c-b4f801606d28/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "10845c30-c2c5-4595-9ef5-b4f7013f4b11",
@@ -147,13 +168,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "30849b3a-b398-4257-8034-b4ef00f8421f",
-    "episode_title": "Ba-Dum-Bum Goes Your Heart! ",
-    "release_date": "2026-11-03 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/iysdMdGvN9fjpPlvVGkiu_988jdJiOnVpJwX_NlwUsE",
     "episode_title": "Lucky #888 \u2014 My Tour of Designing Luck in China, Japan, and Korea",
     "release_date": "2026-11-05 20:30:00",
@@ -161,18 +175,11 @@
     "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "c3c8209e-c97a-11f1-9218-230851eee037",
-    "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
-    "release_date": "2026-11-09 08:10:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP1750831437.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "c3aada52-c97a-11f1-9218-2b49890f4d04",
-    "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
-    "release_date": "2026-11-05 08:10:00",
-    "mp3_url": "https://traffic.megaphone.fm/VMP4247798433.mp3",
-    "podcast_name": "How I Built This"
+    "guid": "5dd35aec-81d4-4bc9-a519-b4ef010b8668",
+    "episode_title": "From The Big Dig: Mitt & Ted",
+    "release_date": "2026-11-10 08:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "6fafb2d6-7b17-4e40-859a-2040de3cd70d",
@@ -189,6 +196,27 @@
     "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
+    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
+    "episode_title": "\"Dustin Hoffman\"",
+    "release_date": "2026-11-09 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
+    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
+    "release_date": "2026-11-05 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "7747b41e-89d4-11f0-b13f-6bec025929b2",
+    "episode_title": "Moth StorySLAM 25th Anniversary Highlights: The Moth Radio Hour",
+    "release_date": "2026-11-10 08:50:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208742/8208742_2026-04-13-031942.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
     "guid": "7826151a-89d4-11f0-b13f-2fd54ba8ac02",
     "episode_title": "Home for the Holidays: The Moth Podcast",
     "release_date": "2026-11-06 08:25:00",
@@ -196,11 +224,11 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "OFsyk12N0ika98ibw9ScLupBpkFUBsEN",
-    "episode_title": "On The Job: The Moth Radio Hour",
-    "release_date": "2026-11-03 08:24:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8898047/8898047_2026-10-28-200147.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
+    "guid": "gid://art19-episode-locator/V0/vtnewchSSK-Raog3dWRYz0ErXl8xZ9Ma2bEIVBOxAkk",
+    "episode_title": "Mom's Car: Jonathan Tucker",
+    "release_date": "2026-11-10 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/dd1e15ea-4d75-47cb-be94-7fdcc11a2669.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
   },
   {
     "guid": "gid://art19-episode-locator/V0/BpRnhkZKFq_-KSljpA0ODeiLJkMbUf12PVT7t-uNMUw",
@@ -222,26 +250,5 @@
     "release_date": "2026-11-04 08:30:00",
     "mp3_url": "https://rss.art19.com/episodes/e091ac20-eec1-49d3-b266-687080110bd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/e-S1YheodFqpR8m4MuvaSGswSsnumX43d97Y58SVYOw",
-    "episode_title": "Mom's Car: Minka Kelly",
-    "release_date": "2026-11-03 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/a6d3be44-7f61-4be8-a467-be75419035b2.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
-    "episode_title": "\"Dustin Hoffman\"",
-    "release_date": "2026-11-09 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
-    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
-    "release_date": "2026-11-05 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   }
 ]
