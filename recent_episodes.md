@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-10 19:05:19
+Last updated: 2026-11-11 03:53:44
+
+## Serial
+
+### METRO - Heavy is the Head that Refuses to Share the Crown
+
+**Released:** 2026-11-05 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg)
+
+---
 
 ## Freakonomics Radio
 
@@ -17,26 +27,6 @@ Last updated: 2026-11-10 19:05:19
 **Released:** 2026-11-04 13:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/1c43a65c-f6cc-42a2-b725-2908c200c239/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=1c43a65c-f6cc-42a2-b725-2908c200c239&feed=Y8lFbOT4)
-
----
-
-## Serial
-
-### METRO - Heavy is the Head that Refuses to Share the Crown
-
-**Released:** 2026-11-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg)
-
----
-
-## This American Life
-
-### 901: Is Your Blue My Blue?
-
-**Released:** 2026-11-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
 
 ---
 
@@ -82,52 +72,6 @@ Last updated: 2026-11-10 19:05:19
 
 ---
 
-## Planet Money
-
-### Inside the insurance industry’s destruction lab
-
-**Released:** 2026-11-06 22:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
-
----
-
-### The history of light (classic)
-
-**Released:** 2026-11-04 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002)
-
----
-
-## 99% Invisible
-
-### Perfectly Leveraged for the Squat
-
-**Released:** 2026-11-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
-
----
-
-### 100 Objects #23: Coin From the Ship of Gold
-
-**Released:** 2026-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Dropping the Mask
-
-**Released:** 2026-11-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2579 - Gary Sinise
@@ -162,21 +106,41 @@ Last updated: 2026-11-10 19:05:19
 
 ---
 
-## How I Built This
+## This American Life
 
-### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
+### 901: Is Your Blue My Blue?
 
-**Released:** 2026-11-09 08:10:00
+**Released:** 2026-11-08 20:00:00
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
 
 ---
 
-### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
+## Planet Money
 
-**Released:** 2026-11-05 08:10:00
+### Inside the insurance industry’s destruction lab
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
+**Released:** 2026-11-06 22:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
+
+---
+
+### The history of light (classic)
+
+**Released:** 2026-11-04 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002)
+
+---
+
+## Hidden Brain
+
+### Dropping the Mask
+
+**Released:** 2026-11-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
 
 ---
 
@@ -214,13 +178,39 @@ Last updated: 2026-11-10 19:05:19
 
 ---
 
-## The Tim Ferriss Show
+## 99% Invisible
 
-### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
+### Perfectly Leveraged for the Squat
 
-**Released:** 2026-11-05 20:30:00
+**Released:** 2026-11-10 09:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #23: Coin From the Ship of Gold
+
+**Released:** 2026-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
+
+---
+
+## How I Built This
+
+### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
+
+**Released:** 2026-11-09 08:10:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
+
+---
+
+### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
+
+**Released:** 2026-11-05 08:10:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
 
 ---
 
@@ -249,24 +239,6 @@ Last updated: 2026-11-10 19:05:19
 **Released:** 2026-11-05 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
-
----
-
-## SmartLess 
-
-### "Dustin Hoffman"
-
-**Released:** 2026-11-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Reese Witherspoon"
-
-**Released:** 2026-11-05 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
 
 ---
 
@@ -319,6 +291,34 @@ Last updated: 2026-11-10 19:05:19
 **Released:** 2026-11-04 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/e091ac20-eec1-49d3-b266-687080110bd7.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Dustin Hoffman"
+
+**Released:** 2026-11-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
+
+---
+
+### "RE-RELEASE: Reese Witherspoon"
+
+**Released:** 2026-11-05 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
+
+---
+
+## The Tim Ferriss Show
+
+### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
+
+**Released:** 2026-11-05 20:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
