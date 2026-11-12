@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-12 05:00:58
+Last updated: 2026-11-12 19:21:03
 
 ## Freakonomics Radio
 
@@ -12,17 +12,25 @@ Last updated: 2026-11-12 05:00:58
 
 ---
 
-## Serial
+## This American Life
 
-### METRO - Heavy is the Head that Refuses to Share the Crown
+### 901: Is Your Blue My Blue?
 
-**Released:** 2026-11-05 09:00:00
+**Released:** 2026-11-08 20:00:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
 
 ---
 
 ## TED Talks Daily
+
+### How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich
+
+**Released:** 2026-11-12 16:57:16
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3)
+
+---
 
 ### How to repair harm — in relationships and nations | Aria Florant
 
@@ -56,14 +64,6 @@ Last updated: 2026-11-12 05:00:58
 
 ---
 
-### How to build the next wave of clean energy | Jennifer Granholm, Ryan Panchadsaram
-
-**Released:** 2026-11-07 16:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3)
-
----
-
 ## Planet Money
 
 ### How bodegas led to the Yemeni coffeehouse explosion
@@ -82,17 +82,43 @@ Last updated: 2026-11-12 05:00:58
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 901: Is Your Blue My Blue?
+### Dropping the Mask
 
-**Released:** 2026-11-08 20:00:00
+**Released:** 2026-11-09 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Perfectly Leveraged for the Squat
+
+**Released:** 2026-11-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #23: Coin From the Ship of Gold
+
+**Released:** 2026-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2580 - Kenneth Lacovera
+
+**Released:** 2026-11-12 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9977701761.mp3)
+
+---
 
 ### JRE MMA Show #188 with Paddy Pimblett
 
@@ -118,15 +144,15 @@ Last updated: 2026-11-12 05:00:58
 
 ---
 
-### #2577 - Gregory Forth
+## Stuff You Should Know
 
-**Released:** 2026-11-05 18:00:00
+### The World Needs More Manatees
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6183630462.mp3)
+**Released:** 2026-11-12 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da2b4202-c37a-4266-a838-b4f801627ec7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
 
 ---
-
-## Stuff You Should Know
 
 ### Short Stuff: Boston Molasses Flood
 
@@ -152,57 +178,21 @@ Last updated: 2026-11-12 05:00:58
 
 ---
 
-### The Wilmington Massacre
-
-**Released:** 2026-11-05 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/99503c59-d34b-4493-949c-b4f8013dd5cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### Perfectly Leveraged for the Squat
-
-**Released:** 2026-11-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
-
----
-
-### 100 Objects #23: Coin From the Ship of Gold
-
-**Released:** 2026-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Dropping the Mask
-
-**Released:** 2026-11-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
-
----
-
 ## How I Built This
+
+### Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
+
+**Released:** 2026-11-12 05:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP7917788157.mp3)
+
+---
 
 ### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
 
 **Released:** 2026-11-09 08:10:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
-
----
-
-### Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
-
-**Released:** 2026-11-05 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP4247798433.mp3)
 
 ---
 
@@ -213,68 +203,6 @@ Last updated: 2026-11-12 05:00:58
 **Released:** 2026-11-10 08:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Dustin Hoffman Part II
-
-**Released:** 2026-11-11 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9566a8ae-1ce5-4dcf-843e-68bc4f6c5cb7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9566a8ae-1ce5-4dcf-843e-68bc4f6c5cb7&feed=dHoohVNH)
-
----
-
-### Dustin Hoffman Part I
-
-**Released:** 2026-11-09 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d892a68a-7113-4540-98c6-81f17b1f14ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d892a68a-7113-4540-98c6-81f17b1f14ab&feed=dHoohVNH)
-
----
-
-### For the Love of Butts
-
-**Released:** 2026-11-05 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9ce89a6f-d249-4e09-be4d-658813400abc/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9ce89a6f-d249-4e09-be4d-658813400abc&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Moth StorySLAM 25th Anniversary Highlights: The Moth Radio Hour
-
-**Released:** 2026-11-10 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208742/8208742_2026-04-13-031942.192.mp3?rssID=6066)
-
----
-
-### Home for the Holidays: The Moth Podcast
-
-**Released:** 2026-11-06 08:25:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Dustin Hoffman"
-
-**Released:** 2026-11-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Reese Witherspoon"
-
-**Released:** 2026-11-05 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
 
 ---
 
@@ -327,6 +255,68 @@ Last updated: 2026-11-12 05:00:58
 **Released:** 2026-11-05 20:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Moth StorySLAM 25th Anniversary Highlights: The Moth Radio Hour
+
+**Released:** 2026-11-10 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208742/8208742_2026-04-13-031942.192.mp3?rssID=6066)
+
+---
+
+### Home for the Holidays: The Moth Podcast
+
+**Released:** 2026-11-06 08:25:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Bill Hader"
+
+**Released:** 2026-11-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
+
+---
+
+### "Dustin Hoffman"
+
+**Released:** 2026-11-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Taps with Andy Richter
+
+**Released:** 2026-11-12 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1a28ce33-c3a8-4edd-847a-52931efabc76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1a28ce33-c3a8-4edd-847a-52931efabc76&feed=dHoohVNH)
+
+---
+
+### Dustin Hoffman Part II
+
+**Released:** 2026-11-11 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/9566a8ae-1ce5-4dcf-843e-68bc4f6c5cb7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=9566a8ae-1ce5-4dcf-843e-68bc4f6c5cb7&feed=dHoohVNH)
+
+---
+
+### Dustin Hoffman Part I
+
+**Released:** 2026-11-09 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d892a68a-7113-4540-98c6-81f17b1f14ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d892a68a-7113-4540-98c6-81f17b1f14ab&feed=dHoohVNH)
 
 ---
 
