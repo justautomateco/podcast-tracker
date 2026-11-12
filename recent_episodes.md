@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-11 19:01:47
-
-## Serial
-
-### METRO - Heavy is the Head that Refuses to Share the Crown
-
-**Released:** 2026-11-05 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg)
-
----
+Last updated: 2026-11-12 05:00:58
 
 ## Freakonomics Radio
 
@@ -22,13 +12,13 @@ Last updated: 2026-11-11 19:01:47
 
 ---
 
-## This American Life
+## Serial
 
-### 901: Is Your Blue My Blue?
+### METRO - Heavy is the Head that Refuses to Share the Crown
 
-**Released:** 2026-11-08 20:00:00
+**Released:** 2026-11-05 09:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg)
 
 ---
 
@@ -74,13 +64,31 @@ Last updated: 2026-11-11 19:01:47
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Dropping the Mask
+### How bodegas led to the Yemeni coffeehouse explosion
 
-**Released:** 2026-11-09 15:00:00
+**Released:** 2026-11-11 13:03:29
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
+
+---
+
+### Inside the insurance industry’s destruction lab
+
+**Released:** 2026-11-06 22:30:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
+
+---
+
+## This American Life
+
+### 901: Is Your Blue My Blue?
+
+**Released:** 2026-11-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
 
 ---
 
@@ -115,24 +123,6 @@ Last updated: 2026-11-11 19:01:47
 **Released:** 2026-11-05 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT6183630462.mp3)
-
----
-
-## Planet Money
-
-### How bodegas led to the Yemeni coffeehouse explosion
-
-**Released:** 2026-11-11 13:03:29
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
-
----
-
-### Inside the insurance industry’s destruction lab
-
-**Released:** 2026-11-06 22:30:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
 
 ---
 
@@ -185,6 +175,16 @@ Last updated: 2026-11-11 19:01:47
 **Released:** 2026-11-06 08:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### Dropping the Mask
+
+**Released:** 2026-11-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
 
 ---
 
@@ -260,21 +260,21 @@ Last updated: 2026-11-11 19:01:47
 
 ---
 
-## The Tim Ferriss Show
+## SmartLess 
 
-### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+### "Dustin Hoffman"
 
-**Released:** 2026-11-11 17:30:00
+**Released:** 2026-11-09 08:01:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
 
 ---
 
-### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
+### "RE-RELEASE: Reese Witherspoon"
 
-**Released:** 2026-11-05 20:30:00
+**Released:** 2026-11-05 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
 
 ---
 
@@ -312,21 +312,21 @@ Last updated: 2026-11-11 19:01:47
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Dustin Hoffman"
+### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
 
-**Released:** 2026-11-09 08:01:00
+**Released:** 2026-11-11 17:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### "RE-RELEASE: Reese Witherspoon"
+### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
 
-**Released:** 2026-11-05 08:00:00
+**Released:** 2026-11-05 20:30:00
 
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

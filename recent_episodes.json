@@ -1,12 +1,5 @@
 [
   {
-    "guid": "432971cf-9021-4eb5-97f7-d4f2a7c25644",
-    "episode_title": "METRO - Heavy is the Head that Refuses to Share the Crown",
-    "release_date": "2026-11-05 09:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
     "guid": "e16f3508-dd10-4df9-98eb-8223df2487de",
     "episode_title": "694. Does Democracy Really Need Elections?",
     "release_date": "2026-11-06 11:00:00",
@@ -14,11 +7,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "46253 at https://www.thisamericanlife.org",
-    "episode_title": "901: Is Your Blue My Blue?",
-    "release_date": "2026-11-08 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
-    "podcast_name": "This American Life"
+    "guid": "432971cf-9021-4eb5-97f7-d4f2a7c25644",
+    "episode_title": "METRO - Heavy is the Head that Refuses to Share the Crown",
+    "release_date": "2026-11-05 09:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/fab752cf-57e1-48ea-b3d0-4dfdfd592761/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=fab752cf-57e1-48ea-b3d0-4dfdfd592761&feed=PpzWFGhg",
+    "podcast_name": "Serial"
   },
   {
     "guid": "6af38974ac84158342c9ed3d",
@@ -56,11 +49,25 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
-    "episode_title": "Dropping the Mask",
-    "release_date": "2026-11-09 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "70d8b4a2-8120-4edf-a676-ead093e1d532",
+    "episode_title": "How bodegas led to the Yemeni coffeehouse explosion",
+    "release_date": "2026-11-11 13:03:29",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "4dca2240-f1f8-47b7-a504-6aaae5753f74",
+    "episode_title": "Inside the insurance industry\u2019s destruction lab",
+    "release_date": "2026-11-06 22:30:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "46253 at https://www.thisamericanlife.org",
+    "episode_title": "901: Is Your Blue My Blue?",
+    "release_date": "2026-11-08 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "61caf9fa-dd90-11f1-a603-032ff04a3020",
@@ -89,20 +96,6 @@
     "release_date": "2026-11-05 18:00:00",
     "mp3_url": "https://traffic.megaphone.fm/GLT6183630462.mp3",
     "podcast_name": "The Joe Rogan Experience"
-  },
-  {
-    "guid": "70d8b4a2-8120-4edf-a676-ead093e1d532",
-    "episode_title": "How bodegas led to the Yemeni coffeehouse explosion",
-    "release_date": "2026-11-11 13:03:29",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "4dca2240-f1f8-47b7-a504-6aaae5753f74",
-    "episode_title": "Inside the insurance industry\u2019s destruction lab",
-    "release_date": "2026-11-06 22:30:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
-    "podcast_name": "Planet Money"
   },
   {
     "guid": "d8e56576-619e-4a4b-9c54-b4f6014657e3",
@@ -145,6 +138,13 @@
     "release_date": "2026-11-06 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
+    "episode_title": "Dropping the Mask",
+    "release_date": "2026-11-09 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "c3c8209e-c97a-11f1-9218-230851eee037",
@@ -203,18 +203,18 @@
     "podcast_name": "The Moth"
   },
   {
-    "guid": "gid://art19-episode-locator/V0/67uUttG4xZKDY-WDgW_KVsg-7VRHBPkeERYOQaC6ihg",
-    "episode_title": "#889: Q&A with Tim \u2014 How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
-    "release_date": "2026-11-11 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
+    "episode_title": "\"Dustin Hoffman\"",
+    "release_date": "2026-11-09 08:01:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
-    "guid": "gid://art19-episode-locator/V0/iysdMdGvN9fjpPlvVGkiu_988jdJiOnVpJwX_NlwUsE",
-    "episode_title": "Lucky #888 \u2014 My Tour of Designing Luck in China, Japan, and Korea",
-    "release_date": "2026-11-05 20:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
+    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
+    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
+    "release_date": "2026-11-05 08:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "gid://art19-episode-locator/V0/MlSynzQ59NcgGXAbLM4FjWXeKNRbhf_RNZfFPkUMYAw",
@@ -245,17 +245,17 @@
     "podcast_name": "Armchair Expert"
   },
   {
-    "guid": "ef2ac01d-92e4-499c-979f-940937ebcde1",
-    "episode_title": "\"Dustin Hoffman\"",
-    "release_date": "2026-11-09 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/67uUttG4xZKDY-WDgW_KVsg-7VRHBPkeERYOQaC6ihg",
+    "episode_title": "#889: Q&A with Tim \u2014 How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
+    "release_date": "2026-11-11 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   },
   {
-    "guid": "8e3f99f9-3bf7-484d-974c-f4356f7b4e26",
-    "episode_title": "\"RE-RELEASE: Reese Witherspoon\"",
-    "release_date": "2026-11-05 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/bc1ea6d5-d6f2-4253-9b0d-56e768ec7985/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=bc1ea6d5-d6f2-4253-9b0d-56e768ec7985&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
+    "guid": "gid://art19-episode-locator/V0/iysdMdGvN9fjpPlvVGkiu_988jdJiOnVpJwX_NlwUsE",
+    "episode_title": "Lucky #888 \u2014 My Tour of Designing Luck in China, Japan, and Korea",
+    "release_date": "2026-11-05 20:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
   }
 ]
