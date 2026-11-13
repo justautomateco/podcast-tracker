@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-12 19:21:03
+Last updated: 2026-11-13 04:16:08
 
 ## Freakonomics Radio
 
@@ -9,16 +9,6 @@ Last updated: 2026-11-12 19:21:03
 **Released:** 2026-11-06 11:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/5b1efac3-9ff4-451c-b6c0-9d711de24b8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=5b1efac3-9ff4-451c-b6c0-9d711de24b8a&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 901: Is Your Blue My Blue?
-
-**Released:** 2026-11-08 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
 
 ---
 
@@ -64,6 +54,16 @@ Last updated: 2026-11-12 19:21:03
 
 ---
 
+## This American Life
+
+### 901: Is Your Blue My Blue?
+
+**Released:** 2026-11-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
+
+---
+
 ## Planet Money
 
 ### How bodegas led to the Yemeni coffeehouse explosion
@@ -82,37 +82,9 @@ Last updated: 2026-11-12 19:21:03
 
 ---
 
-## Hidden Brain
-
-### Dropping the Mask
-
-**Released:** 2026-11-09 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### Perfectly Leveraged for the Squat
-
-**Released:** 2026-11-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
-
----
-
-### 100 Objects #23: Coin From the Ship of Gold
-
-**Released:** 2026-11-06 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
-
----
-
 ## The Joe Rogan Experience
 
-### #2580 - Kenneth Lacovera
+### #2580 - Kenneth Lacovara
 
 **Released:** 2026-11-12 18:00:00
 
@@ -141,6 +113,34 @@ Last updated: 2026-11-12 19:21:03
 **Released:** 2026-11-06 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2681832801.mp3)
+
+---
+
+## Hidden Brain
+
+### Dropping the Mask
+
+**Released:** 2026-11-09 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### Perfectly Leveraged for the Squat
+
+**Released:** 2026-11-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #23: Coin From the Ship of Gold
+
+**Released:** 2026-11-06 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/fbde230d-d1db-486c-aeef-2cfb8fd95f54/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=fbde230d-d1db-486c-aeef-2cfb8fd95f54&feed=BqbsxVfO)
 
 ---
 
@@ -178,24 +178,6 @@ Last updated: 2026-11-12 19:21:03
 
 ---
 
-## How I Built This
-
-### Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
-
-**Released:** 2026-11-12 05:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP7917788157.mp3)
-
----
-
-### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
-
-**Released:** 2026-11-09 08:10:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
-
----
-
 ## Revisionist History
 
 ### From The Big Dig: Mitt & Ted
@@ -203,6 +185,16 @@ Last updated: 2026-11-12 19:21:03
 **Released:** 2026-11-10 08:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## The Tim Ferriss Show
+
+### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+
+**Released:** 2026-11-11 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -240,24 +232,6 @@ Last updated: 2026-11-12 19:21:03
 
 ---
 
-## The Tim Ferriss Show
-
-### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
-
-**Released:** 2026-11-11 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea
-
-**Released:** 2026-11-05 20:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## The Moth
 
 ### Moth StorySLAM 25th Anniversary Highlights: The Moth Radio Hour
@@ -273,24 +247,6 @@ Last updated: 2026-11-12 19:21:03
 **Released:** 2026-11-06 08:25:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208732/8208732_2026-04-13-031432.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Bill Hader"
-
-**Released:** 2026-11-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
-
----
-
-### "Dustin Hoffman"
-
-**Released:** 2026-11-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
 
 ---
 
@@ -317,6 +273,42 @@ Last updated: 2026-11-12 19:21:03
 **Released:** 2026-11-09 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d892a68a-7113-4540-98c6-81f17b1f14ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d892a68a-7113-4540-98c6-81f17b1f14ab&feed=dHoohVNH)
+
+---
+
+## How I Built This
+
+### Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
+
+**Released:** 2026-11-12 05:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP7917788157.mp3)
+
+---
+
+### Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
+
+**Released:** 2026-11-09 08:10:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/VMP1750831437.mp3)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Bill Hader"
+
+**Released:** 2026-11-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
+
+---
+
+### "Dustin Hoffman"
+
+**Released:** 2026-11-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
 
 ---
 
