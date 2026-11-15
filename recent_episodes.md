@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-14 17:29:31
+Last updated: 2026-11-15 03:57:54
 
 ## Freakonomics Radio
 
@@ -54,6 +54,16 @@ Last updated: 2026-11-14 17:29:31
 
 ---
 
+## This American Life
+
+### 901: Is Your Blue My Blue?
+
+**Released:** 2026-11-08 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
+
+---
+
 ## Planet Money
 
 ### Are wildfires making the future uninsurable?
@@ -72,31 +82,13 @@ Last updated: 2026-11-14 17:29:31
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 901: Is Your Blue My Blue?
+### Dropping the Mask
 
-**Released:** 2026-11-08 20:00:00
+**Released:** 2026-11-09 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
-
----
-
-## 99% Invisible
-
-### 100 Objects #24: White House Solar Panels
-
-**Released:** 2026-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO)
-
----
-
-### Perfectly Leveraged for the Squat
-
-**Released:** 2026-11-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
 
 ---
 
@@ -134,13 +126,21 @@ Last updated: 2026-11-14 17:29:31
 
 ---
 
-## Hidden Brain
+## 99% Invisible
 
-### Dropping the Mask
+### 100 Objects #24: White House Solar Panels
 
-**Released:** 2026-11-09 15:00:00
+**Released:** 2026-11-13 08:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO)
+
+---
+
+### Perfectly Leveraged for the Squat
+
+**Released:** 2026-11-10 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
 
 ---
 
@@ -206,6 +206,16 @@ Last updated: 2026-11-14 17:29:31
 
 ---
 
+## The Tim Ferriss Show
+
+### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+
+**Released:** 2026-11-11 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Taps with Andy Richter
@@ -263,16 +273,6 @@ Last updated: 2026-11-14 17:29:31
 **Released:** 2026-11-09 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c0e71163-6187-47ec-ae02-ec0c4f0d100f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Tim Ferriss Show
-
-### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
-
-**Released:** 2026-11-11 17:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

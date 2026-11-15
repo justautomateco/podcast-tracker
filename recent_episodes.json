@@ -42,6 +42,13 @@
     "podcast_name": "TED Talks Daily"
   },
   {
+    "guid": "46253 at https://www.thisamericanlife.org",
+    "episode_title": "901: Is Your Blue My Blue?",
+    "release_date": "2026-11-08 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
     "guid": "1d0454cc-1590-4928-8613-39678c23a5d5",
     "episode_title": "Are wildfires making the future uninsurable?",
     "release_date": "2026-11-13 23:49:12",
@@ -56,25 +63,11 @@
     "podcast_name": "Planet Money"
   },
   {
-    "guid": "46253 at https://www.thisamericanlife.org",
-    "episode_title": "901: Is Your Blue My Blue?",
-    "release_date": "2026-11-08 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "7ad3e14f-f99c-4988-a755-44af989cfd74",
-    "episode_title": "100 Objects #24: White House Solar Panels",
-    "release_date": "2026-11-13 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
-  },
-  {
-    "guid": "d7bb6813-c78b-4e46-864d-aa9461b43f3a",
-    "episode_title": "Perfectly Leveraged for the Squat",
-    "release_date": "2026-11-10 09:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO",
-    "podcast_name": "99% Invisible"
+    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
+    "episode_title": "Dropping the Mask",
+    "release_date": "2026-11-09 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
     "guid": "8ea2bc8c-df8a-11f1-b646-13979babfcd7",
@@ -105,11 +98,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "71e560a4-8dd4-44a6-9dce-4dab1372a9f8",
-    "episode_title": "Dropping the Mask",
-    "release_date": "2026-11-09 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/a8a45ef2-e782-4c6b-9018-9d99b0f2865f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=a8a45ef2-e782-4c6b-9018-9d99b0f2865f&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "7ad3e14f-f99c-4988-a755-44af989cfd74",
+    "episode_title": "100 Objects #24: White House Solar Panels",
+    "release_date": "2026-11-13 08:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "d7bb6813-c78b-4e46-864d-aa9461b43f3a",
+    "episode_title": "Perfectly Leveraged for the Squat",
+    "release_date": "2026-11-10 09:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO",
+    "podcast_name": "99% Invisible"
   },
   {
     "guid": "1d06ef82-8118-45c1-810d-b4f7014ea62f",
@@ -161,6 +161,13 @@
     "podcast_name": "Revisionist History"
   },
   {
+    "guid": "gid://art19-episode-locator/V0/67uUttG4xZKDY-WDgW_KVsg-7VRHBPkeERYOQaC6ihg",
+    "episode_title": "#889: Q&A with Tim \u2014 How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
+    "release_date": "2026-11-11 17:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
     "guid": "170c122d-55f4-4892-8b16-1005c2468dd5",
     "episode_title": "Taps with Andy Richter",
     "release_date": "2026-11-12 05:05:00",
@@ -208,13 +215,6 @@
     "release_date": "2026-11-09 08:30:00",
     "mp3_url": "https://rss.art19.com/episodes/c0e71163-6187-47ec-ae02-ec0c4f0d100f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/67uUttG4xZKDY-WDgW_KVsg-7VRHBPkeERYOQaC6ihg",
-    "episode_title": "#889: Q&A with Tim \u2014 How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
-    "release_date": "2026-11-11 17:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
   },
   {
     "guid": "5ed092a1-9148-4653-9112-288ddb9007da",
