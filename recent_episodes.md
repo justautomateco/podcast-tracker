@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-15 18:16:34
+Last updated: 2026-11-16 03:57:58
 
 ## Freakonomics Radio
 
@@ -56,29 +56,11 @@ Last updated: 2026-11-15 18:16:34
 
 ## This American Life
 
-### 901: Is Your Blue My Blue?
+### 902: The Missing Minutes
 
-**Released:** 2026-11-08 20:00:00
+**Released:** 2026-11-15 20:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
-
----
-
-## Planet Money
-
-### Are wildfires making the future uninsurable?
-
-**Released:** 2026-11-13 23:49:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
-
----
-
-### How bodegas led to the Yemeni coffeehouse explosion
-
-**Released:** 2026-11-11 13:03:29
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
 
 ---
 
@@ -113,6 +95,24 @@ Last updated: 2026-11-15 18:16:34
 **Released:** 2026-11-10 18:00:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8785723657.mp3)
+
+---
+
+## Planet Money
+
+### Are wildfires making the future uninsurable?
+
+**Released:** 2026-11-13 23:49:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
+
+---
+
+### How bodegas led to the Yemeni coffeehouse explosion
+
+**Released:** 2026-11-11 13:03:29
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
 
 ---
 
@@ -178,13 +178,13 @@ Last updated: 2026-11-15 18:16:34
 
 ---
 
-## The Tim Ferriss Show
+## Revisionist History
 
-### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+### From The Big Dig: Mitt & Ted
 
-**Released:** 2026-11-11 17:30:00
+**Released:** 2026-11-10 08:00:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -206,16 +206,6 @@ Last updated: 2026-11-15 18:16:34
 
 ---
 
-## Revisionist History
-
-### From The Big Dig: Mitt & Ted
-
-**Released:** 2026-11-10 08:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Moth
 
 ### Powering Through It: The Moth Podcast
@@ -231,24 +221,6 @@ Last updated: 2026-11-15 18:16:34
 **Released:** 2026-11-10 08:50:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208742/8208742_2026-04-13-031942.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "RE-RELEASE: Bill Hader"
-
-**Released:** 2026-11-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
-
----
-
-### "Dustin Hoffman"
-
-**Released:** 2026-11-09 08:01:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
 
 ---
 
@@ -275,6 +247,24 @@ Last updated: 2026-11-15 18:16:34
 **Released:** 2026-11-09 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d892a68a-7113-4540-98c6-81f17b1f14ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=d892a68a-7113-4540-98c6-81f17b1f14ab&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "RE-RELEASE: Bill Hader"
+
+**Released:** 2026-11-12 08:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
+
+---
+
+### "Dustin Hoffman"
+
+**Released:** 2026-11-09 08:01:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/ce887ab2-0dad-4cfa-981b-57ef84304ec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=ce887ab2-0dad-4cfa-981b-57ef84304ec4&feed=hNaFxXpO)
 
 ---
 
@@ -309,6 +299,16 @@ Last updated: 2026-11-15 18:16:34
 **Released:** 2026-11-09 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/c0e71163-6187-47ec-ae02-ec0c4f0d100f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Tim Ferriss Show
+
+### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+
+**Released:** 2026-11-11 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
