@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-17 05:50:11
+Last updated: 2026-11-17 20:15:30
 
 ## Freakonomics Radio
 
@@ -13,6 +13,14 @@ Last updated: 2026-11-17 05:50:11
 ---
 
 ## TED Talks Daily
+
+### My search for proof aliens exist | Avi Loeb (re-release)
+
+**Released:** 2026-11-17 15:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afb5767f1fb73f380bc6633/media.mp3)
+
+---
 
 ### What you hear when you stop talking | John Lloyd
 
@@ -46,15 +54,43 @@ Last updated: 2026-11-17 05:50:11
 
 ---
 
-### How we’ll actually ditch fossil fuels — by the numbers | Michael Liebreich
+## This American Life
 
-**Released:** 2026-11-12 16:57:16
+### 902: The Missing Minutes
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3)
+**Released:** 2026-11-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+
+---
+
+## Planet Money
+
+### Are wildfires making the future uninsurable?
+
+**Released:** 2026-11-13 23:49:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
+
+---
+
+### How bodegas led to the Yemeni coffeehouse explosion
+
+**Released:** 2026-11-11 13:03:29
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
 
 ---
 
 ## The Joe Rogan Experience
+
+### JRE MMA Show #189 with Tommy McMililen
+
+**Released:** 2026-11-17 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT7685860836.mp3)
+
+---
 
 ### #2581 - Protect Our Parks 18
 
@@ -80,43 +116,43 @@ Last updated: 2026-11-17 05:50:11
 
 ---
 
-### #2579 - Gary Sinise
+## Hidden Brain
 
-**Released:** 2026-11-10 18:00:00
+### Just Watch Me!
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8785723657.mp3)
+**Released:** 2026-11-16 15:00:00
 
----
-
-## Planet Money
-
-### Are wildfires making the future uninsurable?
-
-**Released:** 2026-11-13 23:49:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
 
 ---
 
-### How bodegas led to the Yemeni coffeehouse explosion
+## 99% Invisible
 
-**Released:** 2026-11-11 13:03:29
+### Know the Score
 
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985)
+**Released:** 2026-11-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74c9d99e-1e9d-4e40-be72-f1c9e1d374da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74c9d99e-1e9d-4e40-be72-f1c9e1d374da&feed=BqbsxVfO)
 
 ---
 
-## This American Life
+### 100 Objects #24: White House Solar Panels
 
-### 902: The Missing Minutes
+**Released:** 2026-11-13 08:00:00
 
-**Released:** 2026-11-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO)
 
 ---
 
 ## Stuff You Should Know
+
+### The Story of Chester Weger
+
+**Released:** 2026-11-17 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Selects: Gobble Gobble: Turkeys!
 
@@ -142,42 +178,6 @@ Last updated: 2026-11-17 05:50:11
 
 ---
 
-### Zorro! That guy with the sword! 
-
-**Released:** 2026-11-10 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/698e37d6-6070-476f-a28c-b4f801606d28/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Just Watch Me!
-
-**Released:** 2026-11-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #24: White House Solar Panels
-
-**Released:** 2026-11-13 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO)
-
----
-
-### Perfectly Leveraged for the Squat
-
-**Released:** 2026-11-10 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/532fa21d-9d3e-488d-8f78-72d2885c900b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=532fa21d-9d3e-488d-8f78-72d2885c900b&feed=BqbsxVfO)
-
----
-
 ## How I Built This
 
 ### Good Culture: How Jesse Merrill Made Cottage Cheese Cool
@@ -196,23 +196,37 @@ Last updated: 2026-11-17 05:50:11
 
 ---
 
-## The Tim Ferriss Show
+## Armchair Expert
 
-### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+### Mom's Car: Nat Faxon
 
-**Released:** 2026-11-11 17:30:00
+**Released:** 2026-11-17 08:30:00
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/87d1f998-ee01-4a62-a227-fa7c23530f87.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-## Revisionist History
+### Jordan Firstman
 
-### From The Big Dig: Mitt & Ted
+**Released:** 2026-11-16 08:30:00
 
-**Released:** 2026-11-10 08:00:00
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6511c600-1537-4023-854f-c665bd087ef8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/5dd35aec-81d4-4bc9-a519-b4ef010b8668/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+---
+
+### Armchair Anonymous: Out of Hand Lie
+
+**Released:** 2026-11-13 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fc67528-b02e-40e8-a71d-5bd754c81c48.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Evan Gershkovich (on surviving a Russian prison)
+
+**Released:** 2026-11-11 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81a4979d-9180-491a-8f3b-33d3495f6f33.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -242,6 +256,34 @@ Last updated: 2026-11-17 05:50:11
 
 ---
 
+## The Tim Ferriss Show
+
+### #889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More
+
+**Released:** 2026-11-11 17:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### The Vietnam War: The Moth Radio Hour
+
+**Released:** 2026-11-17 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208740/8208740_2026-04-13-031940.192.mp3?rssID=6066)
+
+---
+
+### Powering Through It: The Moth Podcast
+
+**Released:** 2026-11-13 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208735/8208735_2026-04-13-031535.192.mp3?rssID=6066)
+
+---
+
 ## SmartLess 
 
 ### "Beastie Boys"
@@ -257,58 +299,6 @@ Last updated: 2026-11-17 05:50:11
 **Released:** 2026-11-12 08:00:00
 
 **Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Powering Through It: The Moth Podcast
-
-**Released:** 2026-11-13 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208735/8208735_2026-04-13-031535.192.mp3?rssID=6066)
-
----
-
-### Moth StorySLAM 25th Anniversary Highlights: The Moth Radio Hour
-
-**Released:** 2026-11-10 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208742/8208742_2026-04-13-031942.192.mp3?rssID=6066)
-
----
-
-## Armchair Expert
-
-### Jordan Firstman
-
-**Released:** 2026-11-16 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6511c600-1537-4023-854f-c665bd087ef8.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Out of Hand Lie
-
-**Released:** 2026-11-13 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/7fc67528-b02e-40e8-a71d-5bd754c81c48.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Evan Gershkovich (on surviving a Russian prison)
-
-**Released:** 2026-11-11 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/81a4979d-9180-491a-8f3b-33d3495f6f33.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Mom's Car: Jonathan Tucker
-
-**Released:** 2026-11-10 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/dd1e15ea-4d75-47cb-be94-7fdcc11a2669.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
