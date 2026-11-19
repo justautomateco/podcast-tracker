@@ -1,10 +1,24 @@
 [
   {
-    "guid": "d1309829-27d7-4b68-bb18-176d31b96264",
-    "episode_title": "695. Can the U.S. Close Its Fertility Gap?",
-    "release_date": "2026-11-13 11:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd529794-52fc-4b60-b1a8-04e71d7cf4ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd529794-52fc-4b60-b1a8-04e71d7cf4ac&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
+    "guid": "74bdb425-023b-4ef5-b70d-e3405c832b87",
+    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
+    "release_date": "2026-11-18 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "1d0454cc-1590-4928-8613-39678c23a5d5",
+    "episode_title": "Are wildfires making the future uninsurable?",
+    "release_date": "2026-11-13 23:49:12",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "6afc7f5d22c8b5ded545df81",
+    "episode_title": "The \u201cgodfather of AI\u201d on the risks that worry him most | Geoffrey Hinton",
+    "release_date": "2026-11-18 21:46:01",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6afb5767f1fb73f380bc6633",
@@ -35,27 +49,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6af5f82c43d8776fbbb21b35",
-    "episode_title": "Could this ancient Greek idea make us better citizens? | Scott Reich",
-    "release_date": "2026-11-13 15:59:51",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
-    "guid": "74bdb425-023b-4ef5-b70d-e3405c832b87",
-    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
-    "release_date": "2026-11-18 08:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "1d0454cc-1590-4928-8613-39678c23a5d5",
-    "episode_title": "Are wildfires making the future uninsurable?",
-    "release_date": "2026-11-13 23:49:12",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
-    "podcast_name": "Planet Money"
-  },
-  {
     "guid": "46259 at https://www.thisamericanlife.org",
     "episode_title": "902: The Missing Minutes",
     "release_date": "2026-11-15 20:00:00",
@@ -63,11 +56,39 @@
     "podcast_name": "This American Life"
   },
   {
-    "guid": "bc3b8732-f7ff-4a0d-b3dc-b96c93fb27d3",
-    "episode_title": "Just Watch Me!",
-    "release_date": "2026-11-16 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "d1309829-27d7-4b68-bb18-176d31b96264",
+    "episode_title": "695. Can the U.S. Close Its Fertility Gap?",
+    "release_date": "2026-11-13 11:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd529794-52fc-4b60-b1a8-04e71d7cf4ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd529794-52fc-4b60-b1a8-04e71d7cf4ac&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "2e58f11e-e306-11f1-8e27-277008c7b349",
+    "episode_title": "#2582 - Greg Anderson",
+    "release_date": "2026-11-18 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT8132860054.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "e4225d06-e238-11f1-8b63-ab796739cefe",
+    "episode_title": "JRE MMA Show #189 with Tommy McMililen",
+    "release_date": "2026-11-17 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT7685860836.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "8ea2bc8c-df8a-11f1-b646-13979babfcd7",
+    "episode_title": "#2581 - Protect Our Parks 18",
+    "release_date": "2026-11-13 18:30:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT2131296942.mp3",
+    "podcast_name": "The Joe Rogan Experience"
+  },
+  {
+    "guid": "717f0dd4-de4c-11f1-af83-9f5e45b228c5",
+    "episode_title": "#2580 - Kenneth Lacovara",
+    "release_date": "2026-11-12 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "e606278c-ca73-402c-a8cb-b4f60147a1a4",
@@ -98,6 +119,13 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
+    "guid": "bc3b8732-f7ff-4a0d-b3dc-b96c93fb27d3",
+    "episode_title": "Just Watch Me!",
+    "release_date": "2026-11-16 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
+  },
+  {
     "guid": "7e10e672-6d45-42fc-a5b2-72280b7482d9",
     "episode_title": "Know the Score",
     "release_date": "2026-11-17 09:00:00",
@@ -110,6 +138,13 @@
     "release_date": "2026-11-13 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/77d3c20e-bf27-4943-a92c-59d3370bd317/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=77d3c20e-bf27-4943-a92c-59d3370bd317&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "c42fd7e8-c97a-11f1-9218-3bcfa8b7014c",
+    "episode_title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+    "release_date": "2026-11-19 05:00:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8419655880.mp3",
+    "podcast_name": "How I Built This"
   },
   {
     "guid": "758822cc-e2dd-11f1-9a55-87cd37c9fb74",
@@ -126,25 +161,32 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "c3eb7616-c97a-11f1-9218-135003a15254",
-    "episode_title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
-    "release_date": "2026-11-12 05:00:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7917788157.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
     "guid": "a081e902-1bfb-4729-b790-65cc4f2a1ad8",
     "episode_title": "\"Beastie Boys\"",
     "release_date": "2026-11-16 08:01:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
   },
   {
     "guid": "5ed092a1-9148-4653-9112-288ddb9007da",
     "episode_title": "\"RE-RELEASE: Bill Hader\"",
     "release_date": "2026-11-12 08:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO",
     "podcast_name": "SmartLess "
+  },
+  {
+    "guid": "af313069-c600-42ff-abb6-da697f412f65",
+    "episode_title": "Staff Review With Sarah Federowicz",
+    "release_date": "2026-11-19 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "776fa342-9f60-482e-831d-22ce9e8ce7f4",
+    "episode_title": "Adam Brody",
+    "release_date": "2026-11-16 05:05:00",
+    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH",
+    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "776cadfa-89d4-11f0-b13f-93aab52b50f0",
@@ -159,20 +201,6 @@
     "release_date": "2026-11-13 08:50:00",
     "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208735/8208735_2026-04-13-031535.192.mp3?rssID=6066",
     "podcast_name": "The Moth"
-  },
-  {
-    "guid": "776fa342-9f60-482e-831d-22ce9e8ce7f4",
-    "episode_title": "Adam Brody",
-    "release_date": "2026-11-16 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "170c122d-55f4-4892-8b16-1005c2468dd5",
-    "episode_title": "Taps with Andy Richter",
-    "release_date": "2026-11-12 05:05:00",
-    "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1a28ce33-c3a8-4edd-847a-52931efabc76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1a28ce33-c3a8-4edd-847a-52931efabc76&feed=dHoohVNH",
-    "podcast_name": "Conan O'Brien Needs A Friend"
   },
   {
     "guid": "gid://art19-episode-locator/V0/CAGB-OZtSBFOBmXq2bpbKg9fhXflRww4g70jPO1obgw",
