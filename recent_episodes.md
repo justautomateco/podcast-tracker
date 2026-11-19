@@ -1,26 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-19 05:11:38
-
-## Planet Money
-
-### Two ways big bets on data centers might affect you (Two Indicators)
-
-**Released:** 2026-11-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
-
----
-
-### Are wildfires making the future uninsurable?
-
-**Released:** 2026-11-13 23:49:12
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
-
----
+Last updated: 2026-11-19 19:46:26
 
 ## TED Talks Daily
+
+### A letter to the end of time | Lau Noah
+
+**Released:** 2026-11-19 16:56:31
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aff1debc1a867006b449928/media.mp3)
+
+---
 
 ### The “godfather of AI” on the risks that worry him most | Geoffrey Hinton
 
@@ -54,21 +44,13 @@ Last updated: 2026-11-19 05:11:38
 
 ---
 
-### The digital detectives preserving the truth of war | Hadi Al Khatib
+## Serial
 
-**Released:** 2026-11-14 07:00:00
+### METRO - Death & Taxes. Rats & Real Estate.
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3)
+**Released:** 2026-11-19 09:00:00
 
----
-
-## This American Life
-
-### 902: The Missing Minutes
-
-**Released:** 2026-11-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
 
 ---
 
@@ -82,7 +64,25 @@ Last updated: 2026-11-19 05:11:38
 
 ---
 
+## This American Life
+
+### 902: The Missing Minutes
+
+**Released:** 2026-11-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+
+---
+
 ## The Joe Rogan Experience
+
+### #2583 - Bob Gymlan
+
+**Released:** 2026-11-19 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211480054.mp3)
+
+---
 
 ### #2582 - Greg Anderson
 
@@ -108,15 +108,43 @@ Last updated: 2026-11-19 05:11:38
 
 ---
 
-### #2580 - Kenneth Lacovara
+## Planet Money
 
-**Released:** 2026-11-12 18:00:00
+### Two ways big bets on data centers might affect you (Two Indicators)
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9977701761.mp3)
+**Released:** 2026-11-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
+
+---
+
+### Are wildfires making the future uninsurable?
+
+**Released:** 2026-11-13 23:49:12
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
+
+---
+
+## Hidden Brain
+
+### Just Watch Me!
+
+**Released:** 2026-11-16 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### Sign Language Interpreters: Coolest Job?
+
+**Released:** 2026-11-19 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/067cccee-e214-481b-a856-b500010be642/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: How Much Does A Cloud Weigh
 
@@ -139,24 +167,6 @@ Last updated: 2026-11-19 05:11:38
 **Released:** 2026-11-14 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d06ef82-8118-45c1-810d-b4f7014ea62f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### The World Needs More Manatees
-
-**Released:** 2026-11-12 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da2b4202-c37a-4266-a838-b4f801627ec7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## Hidden Brain
-
-### Just Watch Me!
-
-**Released:** 2026-11-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
 
 ---
 
@@ -204,21 +214,31 @@ Last updated: 2026-11-19 05:11:38
 
 ---
 
+## Revisionist History
+
+### Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
+
+**Released:** 2026-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
 ## SmartLess 
+
+### "Jason Sudeikis – LIVE at The Hollywood Bowl"
+
+**Released:** 2026-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
+
+---
 
 ### "Beastie Boys"
 
 **Released:** 2026-11-16 08:01:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO)
-
----
-
-### "RE-RELEASE: Bill Hader"
-
-**Released:** 2026-11-12 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/217deef7-8140-4441-8099-14b12c35b2e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=217deef7-8140-4441-8099-14b12c35b2e4&feed=hNaFxXpO)
 
 ---
 
