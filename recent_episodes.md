@@ -1,6 +1,26 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-19 19:46:26
+Last updated: 2026-11-20 04:59:21
+
+## Freakonomics Radio
+
+### 695. Can the U.S. Close Its Fertility Gap?
+
+**Released:** 2026-11-13 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd529794-52fc-4b60-b1a8-04e71d7cf4ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd529794-52fc-4b60-b1a8-04e71d7cf4ac&feed=Y8lFbOT4)
+
+---
+
+## Serial
+
+### METRO - Death & Taxes. Rats & Real Estate.
+
+**Released:** 2026-11-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
+
+---
 
 ## TED Talks Daily
 
@@ -44,36 +64,6 @@ Last updated: 2026-11-19 19:46:26
 
 ---
 
-## Serial
-
-### METRO - Death & Taxes. Rats & Real Estate.
-
-**Released:** 2026-11-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
-
----
-
-## Freakonomics Radio
-
-### 695. Can the U.S. Close Its Fertility Gap?
-
-**Released:** 2026-11-13 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/dd529794-52fc-4b60-b1a8-04e71d7cf4ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=dd529794-52fc-4b60-b1a8-04e71d7cf4ac&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 902: The Missing Minutes
-
-**Released:** 2026-11-15 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2583 - Bob Gymlan
@@ -105,6 +95,16 @@ Last updated: 2026-11-19 19:46:26
 **Released:** 2026-11-13 18:30:00
 
 **Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2131296942.mp3)
+
+---
+
+## This American Life
+
+### 902: The Missing Minutes
+
+**Released:** 2026-11-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
 
 ---
 
@@ -242,24 +242,6 @@ Last updated: 2026-11-19 19:46:26
 
 ---
 
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Sarah Federowicz
-
-**Released:** 2026-11-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
-
----
-
-### Adam Brody
-
-**Released:** 2026-11-16 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### The Vietnam War: The Moth Radio Hour
@@ -275,6 +257,24 @@ Last updated: 2026-11-19 19:46:26
 **Released:** 2026-11-13 08:50:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208735/8208735_2026-04-13-031535.192.mp3?rssID=6066)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Staff Review With Sarah Federowicz
+
+**Released:** 2026-11-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
+
+---
+
+### Adam Brody
+
+**Released:** 2026-11-16 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH)
 
 ---
 
