@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-21 04:54:40
+Last updated: 2026-11-21 18:29:12
 
 ## Serial
 
@@ -22,7 +22,25 @@ Last updated: 2026-11-21 04:54:40
 
 ---
 
+## This American Life
+
+### 902: The Missing Minutes
+
+**Released:** 2026-11-15 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+
+---
+
 ## TED Talks Daily
+
+### Why intuition is the heart of music | Fabiola Reyna
+
+**Released:** 2026-11-21 11:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3)
+
+---
 
 ### Who should profit when AI comes to town? |  Brian Janous
 
@@ -56,14 +74,6 @@ Last updated: 2026-11-21 04:54:40
 
 ---
 
-### What you hear when you stop talking | John Lloyd
-
-**Released:** 2026-11-16 15:47:13
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3)
-
----
-
 ## Planet Money
 
 ### You Can Seize Everything (The U.S. is reviving pirate law)
@@ -82,13 +92,31 @@ Last updated: 2026-11-21 04:54:40
 
 ---
 
-## This American Life
+## Hidden Brain
 
-### 902: The Missing Minutes
+### Just Watch Me!
 
-**Released:** 2026-11-15 20:00:00
+**Released:** 2026-11-16 15:00:00
 
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #25: Beaded Moccasin
+
+**Released:** 2026-11-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+
+---
+
+### Know the Score
+
+**Released:** 2026-11-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74c9d99e-1e9d-4e40-be72-f1c9e1d374da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74c9d99e-1e9d-4e40-be72-f1c9e1d374da&feed=BqbsxVfO)
 
 ---
 
@@ -128,6 +156,14 @@ Last updated: 2026-11-21 04:54:40
 
 ## Stuff You Should Know
 
+### Selects: How Buffets Work
+
+**Released:** 2026-11-21 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fba36340-c6cf-4b3b-91fa-b505013fef8a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
 ### Sign Language Interpreters: Coolest Job?
 
 **Released:** 2026-11-19 10:00:00
@@ -149,42 +185,6 @@ Last updated: 2026-11-21 04:54:40
 **Released:** 2026-11-17 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-### Selects: Gobble Gobble: Turkeys!
-
-**Released:** 2026-11-14 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d06ef82-8118-45c1-810d-b4f7014ea62f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## 99% Invisible
-
-### 100 Objects #25: Beaded Moccasin
-
-**Released:** 2026-11-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
-
----
-
-### Know the Score
-
-**Released:** 2026-11-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74c9d99e-1e9d-4e40-be72-f1c9e1d374da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74c9d99e-1e9d-4e40-be72-f1c9e1d374da&feed=BqbsxVfO)
-
----
-
-## Hidden Brain
-
-### Just Watch Me!
-
-**Released:** 2026-11-16 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
 
 ---
 
@@ -214,16 +214,6 @@ Last updated: 2026-11-21 04:54:40
 
 ---
 
-## The Tim Ferriss Show
-
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
-
-**Released:** 2026-11-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
 ### Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
@@ -231,6 +221,24 @@ Last updated: 2026-11-21 04:54:40
 **Released:** 2026-11-19 08:00:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
+
+---
+
+## Conan O'Brien Needs A Friend
+
+### Staff Review With Sarah Federowicz
+
+**Released:** 2026-11-19 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
+
+---
+
+### Adam Brody
+
+**Released:** 2026-11-16 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH)
 
 ---
 
@@ -268,42 +276,6 @@ Last updated: 2026-11-21 04:54:40
 
 ---
 
-## SmartLess 
-
-### "Jason Sudeikis – LIVE at The Hollywood Bowl"
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
-
----
-
-### "Beastie Boys"
-
-**Released:** 2026-11-16 08:01:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Staff Review With Sarah Federowicz
-
-**Released:** 2026-11-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
-
----
-
-### Adam Brody
-
-**Released:** 2026-11-16 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH)
-
----
-
 ## The Moth
 
 ### Togetherness: The Moth Podcast
@@ -319,6 +291,34 @@ Last updated: 2026-11-21 04:54:40
 **Released:** 2026-11-17 08:50:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208740/8208740_2026-04-13-031940.192.mp3?rssID=6066)
+
+---
+
+## The Tim Ferriss Show
+
+### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
+
+**Released:** 2026-11-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## SmartLess 
+
+### "Jason Sudeikis – LIVE at The Hollywood Bowl"
+
+**Released:** 2026-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
+
+---
+
+### "Beastie Boys"
+
+**Released:** 2026-11-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO)
 
 ---
 
