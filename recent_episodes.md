@@ -1,6 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-21 18:29:12
+Last updated: 2026-11-22 04:13:38
 
 ## Serial
 
@@ -74,24 +74,6 @@ Last updated: 2026-11-21 18:29:12
 
 ---
 
-## Planet Money
-
-### You Can Seize Everything (The U.S. is reviving pirate law)
-
-**Released:** 2026-11-20 22:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
-
----
-
-### Two ways big bets on data centers might affect you (Two Indicators)
-
-**Released:** 2026-11-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
-
----
-
 ## Hidden Brain
 
 ### Just Watch Me!
@@ -99,24 +81,6 @@ Last updated: 2026-11-21 18:29:12
 **Released:** 2026-11-16 15:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c7469146-919a-4466-bf78-04a0b5c1a371/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=c7469146-919a-4466-bf78-04a0b5c1a371&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### 100 Objects #25: Beaded Moccasin
-
-**Released:** 2026-11-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
-
----
-
-### Know the Score
-
-**Released:** 2026-11-17 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74c9d99e-1e9d-4e40-be72-f1c9e1d374da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74c9d99e-1e9d-4e40-be72-f1c9e1d374da&feed=BqbsxVfO)
 
 ---
 
@@ -154,6 +118,24 @@ Last updated: 2026-11-21 18:29:12
 
 ---
 
+## Planet Money
+
+### You Can Seize Everything (The U.S. is reviving pirate law)
+
+**Released:** 2026-11-20 22:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
+
+---
+
+### Two ways big bets on data centers might affect you (Two Indicators)
+
+**Released:** 2026-11-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
+
+---
+
 ## Stuff You Should Know
 
 ### Selects: How Buffets Work
@@ -185,6 +167,24 @@ Last updated: 2026-11-21 18:29:12
 **Released:** 2026-11-17 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### 100 Objects #25: Beaded Moccasin
+
+**Released:** 2026-11-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+
+---
+
+### Know the Score
+
+**Released:** 2026-11-17 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/74c9d99e-1e9d-4e40-be72-f1c9e1d374da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=74c9d99e-1e9d-4e40-be72-f1c9e1d374da&feed=BqbsxVfO)
 
 ---
 
@@ -242,6 +242,42 @@ Last updated: 2026-11-21 18:29:12
 
 ---
 
+## The Moth
+
+### Togetherness: The Moth Podcast
+
+**Released:** 2026-11-20 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
+
+---
+
+### The Vietnam War: The Moth Radio Hour
+
+**Released:** 2026-11-17 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208740/8208740_2026-04-13-031940.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Jason Sudeikis – LIVE at The Hollywood Bowl"
+
+**Released:** 2026-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
+
+---
+
+### "Beastie Boys"
+
+**Released:** 2026-11-16 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO)
+
+---
+
 ## Armchair Expert
 
 ### Armchair Anonymous: Witness
@@ -276,24 +312,6 @@ Last updated: 2026-11-21 18:29:12
 
 ---
 
-## The Moth
-
-### Togetherness: The Moth Podcast
-
-**Released:** 2026-11-20 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
-
----
-
-### The Vietnam War: The Moth Radio Hour
-
-**Released:** 2026-11-17 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208740/8208740_2026-04-13-031940.192.mp3?rssID=6066)
-
----
-
 ## The Tim Ferriss Show
 
 ### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
@@ -301,24 +319,6 @@ Last updated: 2026-11-21 18:29:12
 **Released:** 2026-11-20 17:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Jason Sudeikis – LIVE at The Hollywood Bowl"
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
-
----
-
-### "Beastie Boys"
-
-**Released:** 2026-11-16 08:01:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/96d02386-40ff-43b0-b279-0b7e37d0d8da/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=96d02386-40ff-43b0-b279-0b7e37d0d8da&feed=hNaFxXpO)
 
 ---
 
