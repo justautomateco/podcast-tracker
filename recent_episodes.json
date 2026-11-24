@@ -49,6 +49,20 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
+    "guid": "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
+    "episode_title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+    "release_date": "2026-11-20 22:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "74bdb425-023b-4ef5-b70d-e3405c832b87",
+    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
+    "release_date": "2026-11-18 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
+    "podcast_name": "Planet Money"
+  },
+  {
     "guid": "37237 at https://www.thisamericanlife.org",
     "episode_title": "436: The Psychopath Test",
     "release_date": "2026-11-22 20:00:00",
@@ -89,20 +103,6 @@
     "release_date": "2026-11-23 15:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
-  },
-  {
-    "guid": "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
-    "episode_title": "You Can Seize Everything (The U.S. is reviving pirate law)",
-    "release_date": "2026-11-20 22:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "74bdb425-023b-4ef5-b70d-e3405c832b87",
-    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
-    "release_date": "2026-11-18 08:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
-    "podcast_name": "Planet Money"
   },
   {
     "guid": "fba36340-c6cf-4b3b-91fa-b505013fef8a",
