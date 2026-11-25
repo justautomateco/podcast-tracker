@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-25 06:13:50
-
-## Freakonomics Radio
-
-### 696. Build, Baby, Build!
-
-**Released:** 2026-11-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
-
----
+Last updated: 2026-11-25 20:52:24
 
 ## Serial
 
@@ -22,7 +12,33 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
+## Freakonomics Radio
+
+### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
+
+**Released:** 2026-11-25 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4)
+
+---
+
+### 696. Build, Baby, Build!
+
+**Released:** 2026-11-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
+
+---
+
 ## TED Talks Daily
+
+### Can AI show us how language works? | Jennifer Hu
+
+**Released:** 2026-11-25 09:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3)
+
+---
 
 ### The skilled workers that the economy is overlooking | Tonya Hicks
 
@@ -56,15 +72,43 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
-### Who should profit when AI comes to town? |  Brian Janous
+## This American Life
 
-**Released:** 2026-11-20 16:22:04
+### 436: The Psychopath Test
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afdeb0309ab149ef043dc8e/media.mp3)
+**Released:** 2026-11-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
+
+---
+
+## Planet Money
+
+### How to steal a truckload of bourbon and not get caught
+
+**Released:** 2026-11-25 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273)
+
+---
+
+### You Can Seize Everything (The U.S. is reviving pirate law)
+
+**Released:** 2026-11-20 22:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
 
 ---
 
 ## The Joe Rogan Experience
+
+### #2586 - Jocko Willink
+
+**Released:** 2026-11-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3001876879.mp3)
+
+---
 
 ### #2585 - Sam Tripoli & Eddie Bravo
 
@@ -90,43 +134,25 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
-### #2582 - Greg Anderson
+## Hidden Brain
 
-**Released:** 2026-11-18 18:00:00
+### Music and Your Mind
 
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT8132860054.mp3)
+**Released:** 2026-11-23 15:00:00
 
----
-
-## This American Life
-
-### 436: The Psychopath Test
-
-**Released:** 2026-11-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
-
----
-
-## Planet Money
-
-### You Can Seize Everything (The U.S. is reviving pirate law)
-
-**Released:** 2026-11-20 22:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
-
----
-
-### Two ways big bets on data centers might affect you (Two Indicators)
-
-**Released:** 2026-11-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
 
 ---
 
 ## Stuff You Should Know
+
+### Short Stuff: Great Lego Spill of '97
+
+**Released:** 2026-11-25 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13a0057e-0d8c-4b6a-af0e-b4fd012ffa22/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Protein: Yes, But How Much? 
 
@@ -152,14 +178,6 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
-### Short Stuff: How Much Does A Cloud Weigh
-
-**Released:** 2026-11-18 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e606278c-ca73-402c-a8cb-b4f60147a1a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
 ## 99% Invisible
 
 ### The Giant Thanksgiving Balloons
@@ -178,13 +196,13 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
-## Hidden Brain
+## Revisionist History
 
-### Music and Your Mind
+### Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
 
-**Released:** 2026-11-23 15:00:00
+**Released:** 2026-11-19 08:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -206,24 +224,6 @@ Last updated: 2026-11-25 06:13:50
 
 ---
 
-### Exciting News: More How I Built This is on the Way!
-
-**Released:** 2026-11-18 08:10:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5396536074.mp3)
-
----
-
-## Revisionist History
-
-### Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
 ## The Tim Ferriss Show
 
 ### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
@@ -231,6 +231,58 @@ Last updated: 2026-11-25 06:13:50
 **Released:** 2026-11-20 17:00:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## Armchair Expert
+
+### Chuck Lorre
+
+**Released:** 2026-11-25 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/29bae248-1b7c-45de-9ec7-3e3133097224.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Mom's Car: Steve Agee
+
+**Released:** 2026-11-24 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/33132ef0-88fa-4c57-8f98-b1357919f143.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Zosia Mamet
+
+**Released:** 2026-11-23 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6af79185-1adb-4b5e-9ffa-0ee3f3b17c2c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### Armchair Anonymous: Witness
+
+**Released:** 2026-11-20 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
+
+**Released:** 2026-11-24 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+
+---
+
+### Togetherness: The Moth Podcast
+
+**Released:** 2026-11-20 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
 
 ---
 
@@ -267,58 +319,6 @@ Last updated: 2026-11-25 06:13:50
 **Released:** 2026-11-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
-
----
-
-## The Moth
-
-### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
-
-**Released:** 2026-11-24 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
-
----
-
-### Togetherness: The Moth Podcast
-
-**Released:** 2026-11-20 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
-
----
-
-## Armchair Expert
-
-### Mom's Car: Steve Agee
-
-**Released:** 2026-11-24 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/33132ef0-88fa-4c57-8f98-b1357919f143.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Zosia Mamet
-
-**Released:** 2026-11-23 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/6af79185-1adb-4b5e-9ffa-0ee3f3b17c2c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Armchair Anonymous: Witness
-
-**Released:** 2026-11-20 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### Rena Malik (on sexual health)
-
-**Released:** 2026-11-18 08:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08833ba0-1b6f-4fb9-a5f7-b1755ee66c19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 

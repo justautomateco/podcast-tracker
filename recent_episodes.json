@@ -1,5 +1,19 @@
 [
   {
+    "guid": "b80be7cc-1f91-4e1e-bc25-cbfef1e6fa13",
+    "episode_title": "METRO - Death & Taxes. Rats & Real Estate.",
+    "release_date": "2026-11-19 09:00:00",
+    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg",
+    "podcast_name": "Serial"
+  },
+  {
+    "guid": "17f79d45-e41c-478e-b687-b671a058dd7d",
+    "episode_title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)",
+    "release_date": "2026-11-25 11:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
     "guid": "78a00ad3-9e1d-40d0-9d81-c3cdfb9a8b30",
     "episode_title": "696. Build, Baby, Build!",
     "release_date": "2026-11-20 11:00:00",
@@ -7,11 +21,11 @@
     "podcast_name": "Freakonomics Radio"
   },
   {
-    "guid": "b80be7cc-1f91-4e1e-bc25-cbfef1e6fa13",
-    "episode_title": "METRO - Death & Taxes. Rats & Real Estate.",
-    "release_date": "2026-11-19 09:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg",
-    "podcast_name": "Serial"
+    "guid": "6b04888bf5587e011de1fed1",
+    "episode_title": "Can AI show us how language works? | Jennifer Hu",
+    "release_date": "2026-11-25 09:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6b0461613ec60db8fc5cfeba",
@@ -42,11 +56,32 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6afdeb0309ab149ef043dc8e",
-    "episode_title": "Who should profit when AI comes to town? |  Brian Janous",
-    "release_date": "2026-11-20 16:22:04",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afdeb0309ab149ef043dc8e/media.mp3",
-    "podcast_name": "TED Talks Daily"
+    "guid": "37237 at https://www.thisamericanlife.org",
+    "episode_title": "436: The Psychopath Test",
+    "release_date": "2026-11-22 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
+    "podcast_name": "This American Life"
+  },
+  {
+    "guid": "9e2e326b-62bd-4e44-b291-481fa4cd36df",
+    "episode_title": "How to steal a truckload of bourbon and not get caught",
+    "release_date": "2026-11-25 08:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b55b392-98fa-4963-9641-41942cc6d7f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b55b392-98fa-4963-9641-41942cc6d7f6&feed=hvWWWzRv&t=podcast&e=nx-s1-6053008&p=510289&d=1590&size=25451273",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
+    "episode_title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+    "release_date": "2026-11-20 22:00:00",
+    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+    "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "d65cc440-e7f6-11f1-92c7-07f9881e21ab",
+    "episode_title": "#2586 - Jocko Willink",
+    "release_date": "2026-11-25 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT3001876879.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "f0ddd1ca-e7b9-11f1-a591-d7385ac06142",
@@ -70,32 +105,18 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "2e58f11e-e306-11f1-8e27-277008c7b349",
-    "episode_title": "#2582 - Greg Anderson",
-    "release_date": "2026-11-18 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT8132860054.mp3",
-    "podcast_name": "The Joe Rogan Experience"
+    "guid": "f3b10201-39da-414e-9b18-276afcdf5d40",
+    "episode_title": "Music and Your Mind",
+    "release_date": "2026-11-23 15:00:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf",
+    "podcast_name": "Hidden Brain"
   },
   {
-    "guid": "37237 at https://www.thisamericanlife.org",
-    "episode_title": "436: The Psychopath Test",
-    "release_date": "2026-11-22 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
-    "podcast_name": "This American Life"
-  },
-  {
-    "guid": "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
-    "episode_title": "You Can Seize Everything (The U.S. is reviving pirate law)",
-    "release_date": "2026-11-20 22:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
-    "podcast_name": "Planet Money"
-  },
-  {
-    "guid": "74bdb425-023b-4ef5-b70d-e3405c832b87",
-    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
-    "release_date": "2026-11-18 08:00:00",
-    "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
-    "podcast_name": "Planet Money"
+    "guid": "13a0057e-0d8c-4b6a-af0e-b4fd012ffa22",
+    "episode_title": "Short Stuff: Great Lego Spill of '97",
+    "release_date": "2026-11-25 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13a0057e-0d8c-4b6a-af0e-b4fd012ffa22/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "a007c4ee-5dbf-419c-b37e-b500010db27d",
@@ -119,13 +140,6 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "e606278c-ca73-402c-a8cb-b4f60147a1a4",
-    "episode_title": "Short Stuff: How Much Does A Cloud Weigh",
-    "release_date": "2026-11-18 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e606278c-ca73-402c-a8cb-b4f60147a1a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
     "guid": "dbe40ba0-c0d6-406e-826f-1a1de809bf02",
     "episode_title": "The Giant Thanksgiving Balloons",
     "release_date": "2026-11-24 09:00:00",
@@ -140,11 +154,11 @@
     "podcast_name": "99% Invisible"
   },
   {
-    "guid": "f3b10201-39da-414e-9b18-276afcdf5d40",
-    "episode_title": "Music and Your Mind",
-    "release_date": "2026-11-23 15:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf",
-    "podcast_name": "Hidden Brain"
+    "guid": "6587cf8e-7e2b-4f0a-b859-b507002ed8b0",
+    "episode_title": "Pete Hegseth\u2019s Spiritual Adviser Wants a Christian America | From Reveal",
+    "release_date": "2026-11-19 08:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "podcast_name": "Revisionist History"
   },
   {
     "guid": "4997c0a0-d220-11f1-b770-7b58e70eb882",
@@ -161,25 +175,53 @@
     "podcast_name": "How I Built This"
   },
   {
-    "guid": "758822cc-e2dd-11f1-9a55-87cd37c9fb74",
-    "episode_title": "Exciting News: More How I Built This is on the Way!",
-    "release_date": "2026-11-18 08:10:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5396536074.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "6587cf8e-7e2b-4f0a-b859-b507002ed8b0",
-    "episode_title": "Pete Hegseth\u2019s Spiritual Adviser Wants a Christian America | From Reveal",
-    "release_date": "2026-11-19 08:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
-    "podcast_name": "Revisionist History"
-  },
-  {
     "guid": "gid://art19-episode-locator/V0/QW0ysW9go_kK1rcRasfYhISoxrRPHa19aUjAywmV0sk",
     "episode_title": "#890: Timeless Principles for Fast-Changing Times \u2014 Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading",
     "release_date": "2026-11-20 17:00:00",
     "mp3_url": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
     "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/bcXWjeFF9UvCfNbiQ2EyAV5i-kqfKfxno0LIXryvMNc",
+    "episode_title": "Chuck Lorre",
+    "release_date": "2026-11-25 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/29bae248-1b7c-45de-9ec7-3e3133097224.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/cuYOiRBvAw3WbDbTDCWuDcdfOgTNtS_iLiufD2jQmEI",
+    "episode_title": "Mom's Car: Steve Agee",
+    "release_date": "2026-11-24 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/33132ef0-88fa-4c57-8f98-b1357919f143.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/te5vviVG14QUpwwIbIr9YsHSSB5HpelMAVnIaEghTmI",
+    "episode_title": "Zosia Mamet",
+    "release_date": "2026-11-23 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/6af79185-1adb-4b5e-9ffa-0ee3f3b17c2c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/RjDUES9KfXKfWkw0Voc7WLut0siKAMd91bzyEs6VMdw",
+    "episode_title": "Armchair Anonymous: Witness",
+    "release_date": "2026-11-20 08:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "Armchair Expert"
+  },
+  {
+    "guid": "7791787e-89d4-11f0-b13f-33a62ba7eb45",
+    "episode_title": "Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour",
+    "release_date": "2026-11-24 08:50:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
+  },
+  {
+    "guid": "77db78c0-89d4-11f0-b13f-5bfb7496a962",
+    "episode_title": "Togetherness: The Moth Podcast",
+    "release_date": "2026-11-20 08:50:00",
+    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066",
+    "podcast_name": "The Moth"
   },
   {
     "guid": "e2f105ef-0055-4055-b4bb-92a04ad975f5",
@@ -208,47 +250,5 @@
     "release_date": "2026-11-19 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
-  },
-  {
-    "guid": "7791787e-89d4-11f0-b13f-33a62ba7eb45",
-    "episode_title": "Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour",
-    "release_date": "2026-11-24 08:50:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "77db78c0-89d4-11f0-b13f-5bfb7496a962",
-    "episode_title": "Togetherness: The Moth Podcast",
-    "release_date": "2026-11-20 08:50:00",
-    "mp3_url": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066",
-    "podcast_name": "The Moth"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/cuYOiRBvAw3WbDbTDCWuDcdfOgTNtS_iLiufD2jQmEI",
-    "episode_title": "Mom's Car: Steve Agee",
-    "release_date": "2026-11-24 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/33132ef0-88fa-4c57-8f98-b1357919f143.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/te5vviVG14QUpwwIbIr9YsHSSB5HpelMAVnIaEghTmI",
-    "episode_title": "Zosia Mamet",
-    "release_date": "2026-11-23 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/6af79185-1adb-4b5e-9ffa-0ee3f3b17c2c.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/RjDUES9KfXKfWkw0Voc7WLut0siKAMd91bzyEs6VMdw",
-    "episode_title": "Armchair Anonymous: Witness",
-    "release_date": "2026-11-20 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/CAGB-OZtSBFOBmXq2bpbKg9fhXflRww4g70jPO1obgw",
-    "episode_title": "Rena Malik (on sexual health)",
-    "release_date": "2026-11-18 08:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/08833ba0-1b6f-4fb9-a5f7-b1755ee66c19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "Armchair Expert"
   }
 ]
