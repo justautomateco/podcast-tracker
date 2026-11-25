@@ -1,6 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-24 21:49:48
+Last updated: 2026-11-25 06:13:50
+
+## Freakonomics Radio
+
+### 696. Build, Baby, Build!
+
+**Released:** 2026-11-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
+
+---
 
 ## Serial
 
@@ -54,44 +64,6 @@ Last updated: 2026-11-24 21:49:48
 
 ---
 
-## Freakonomics Radio
-
-### 696. Build, Baby, Build!
-
-**Released:** 2026-11-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
-
----
-
-## Planet Money
-
-### You Can Seize Everything (The U.S. is reviving pirate law)
-
-**Released:** 2026-11-20 22:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
-
----
-
-### Two ways big bets on data centers might affect you (Two Indicators)
-
-**Released:** 2026-11-18 08:00:00
-
-**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
-
----
-
-## This American Life
-
-### 436: The Psychopath Test
-
-**Released:** 2026-11-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
-
----
-
 ## The Joe Rogan Experience
 
 ### #2585 - Sam Tripoli & Eddie Bravo
@@ -126,31 +98,31 @@ Last updated: 2026-11-24 21:49:48
 
 ---
 
-## 99% Invisible
+## This American Life
 
-### The Giant Thanksgiving Balloons
+### 436: The Psychopath Test
 
-**Released:** 2026-11-24 09:00:00
+**Released:** 2026-11-22 20:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
-
----
-
-### 100 Objects #25: Beaded Moccasin
-
-**Released:** 2026-11-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
 
 ---
 
-## Hidden Brain
+## Planet Money
 
-### Music and Your Mind
+### You Can Seize Everything (The U.S. is reviving pirate law)
 
-**Released:** 2026-11-23 15:00:00
+**Released:** 2026-11-20 22:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
+
+---
+
+### Two ways big bets on data centers might affect you (Two Indicators)
+
+**Released:** 2026-11-18 08:00:00
+
+**Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
 
 ---
 
@@ -185,6 +157,34 @@ Last updated: 2026-11-24 21:49:48
 **Released:** 2026-11-18 10:00:00
 
 **Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e606278c-ca73-402c-a8cb-b4f60147a1a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
+
+## 99% Invisible
+
+### The Giant Thanksgiving Balloons
+
+**Released:** 2026-11-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #25: Beaded Moccasin
+
+**Released:** 2026-11-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+
+---
+
+## Hidden Brain
+
+### Music and Your Mind
+
+**Released:** 2026-11-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
 
 ---
 
@@ -224,21 +224,31 @@ Last updated: 2026-11-24 21:49:48
 
 ---
 
-## The Moth
+## The Tim Ferriss Show
 
-### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
+### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
 
-**Released:** 2026-11-24 08:50:00
+**Released:** 2026-11-20 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Togetherness: The Moth Podcast
+## SmartLess 
 
-**Released:** 2026-11-20 08:50:00
+### "Mike Schur"
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
+**Released:** 2026-11-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
+
+---
+
+### "Jason Sudeikis – LIVE at The Hollywood Bowl"
+
+**Released:** 2026-11-19 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
 
 ---
 
@@ -257,6 +267,24 @@ Last updated: 2026-11-24 21:49:48
 **Released:** 2026-11-19 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
+
+**Released:** 2026-11-24 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+
+---
+
+### Togetherness: The Moth Podcast
+
+**Released:** 2026-11-20 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
 
 ---
 
@@ -291,34 +319,6 @@ Last updated: 2026-11-24 21:49:48
 **Released:** 2026-11-18 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/08833ba0-1b6f-4fb9-a5f7-b1755ee66c19.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## SmartLess 
-
-### "Mike Schur"
-
-**Released:** 2026-11-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
-
----
-
-### "Jason Sudeikis – LIVE at The Hollywood Bowl"
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
-
----
-
-## The Tim Ferriss Show
-
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
-
-**Released:** 2026-11-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
