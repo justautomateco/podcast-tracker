@@ -1,31 +1,10 @@
 [
   {
-    "guid": "17f79d45-e41c-478e-b687-b671a058dd7d",
-    "episode_title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)",
-    "release_date": "2026-11-25 11:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "78a00ad3-9e1d-40d0-9d81-c3cdfb9a8b30",
-    "episode_title": "696. Build, Baby, Build!",
-    "release_date": "2026-11-20 11:00:00",
-    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4",
-    "podcast_name": "Freakonomics Radio"
-  },
-  {
-    "guid": "b80be7cc-1f91-4e1e-bc25-cbfef1e6fa13",
-    "episode_title": "METRO - Death & Taxes. Rats & Real Estate.",
-    "release_date": "2026-11-19 09:00:00",
-    "mp3_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg",
-    "podcast_name": "Serial"
-  },
-  {
-    "guid": "37237 at https://www.thisamericanlife.org",
-    "episode_title": "436: The Psychopath Test",
-    "release_date": "2026-11-22 20:00:00",
-    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
-    "podcast_name": "This American Life"
+    "guid": "6b05afcc7eeadadee4f9e424",
+    "episode_title": "Why you should share a recipe with a stranger | Anuj Gupta",
+    "release_date": "2026-11-26 09:00:00",
+    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05afcc7eeadadee4f9e424/media.mp3",
+    "podcast_name": "TED Talks Daily"
   },
   {
     "guid": "6b04888bf5587e011de1fed1",
@@ -56,13 +35,6 @@
     "podcast_name": "TED Talks Daily"
   },
   {
-    "guid": "6b00794904470b737a38a15a",
-    "episode_title": "Why intuition is the heart of music | Fabiola Reyna",
-    "release_date": "2026-11-21 11:00:00",
-    "mp3_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3",
-    "podcast_name": "TED Talks Daily"
-  },
-  {
     "guid": "9e2e326b-62bd-4e44-b291-481fa4cd36df",
     "episode_title": "How to steal a truckload of bourbon and not get caught",
     "release_date": "2026-11-25 08:00:00",
@@ -75,6 +47,13 @@
     "release_date": "2026-11-20 22:00:00",
     "mp3_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
     "podcast_name": "Planet Money"
+  },
+  {
+    "guid": "cd9cc458-e92d-11f1-85de-7723364e53f0",
+    "episode_title": "#2587 - Anthony Kim",
+    "release_date": "2026-11-26 18:00:00",
+    "mp3_url": "https://traffic.megaphone.fm/GLT9030692803.mp3",
+    "podcast_name": "The Joe Rogan Experience"
   },
   {
     "guid": "d65cc440-e7f6-11f1-92c7-07f9881e21ab",
@@ -98,18 +77,32 @@
     "podcast_name": "The Joe Rogan Experience"
   },
   {
-    "guid": "40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32",
-    "episode_title": "#2583 - Bob Gymlan",
-    "release_date": "2026-11-19 18:00:00",
-    "mp3_url": "https://traffic.megaphone.fm/GLT1211480054.mp3",
-    "podcast_name": "The Joe Rogan Experience"
-  },
-  {
     "guid": "f3b10201-39da-414e-9b18-276afcdf5d40",
     "episode_title": "Music and Your Mind",
     "release_date": "2026-11-23 15:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf",
     "podcast_name": "Hidden Brain"
+  },
+  {
+    "guid": "17f79d45-e41c-478e-b687-b671a058dd7d",
+    "episode_title": "Why Is It So Hard (and Expensive) to Build Anything in America? (Update)",
+    "release_date": "2026-11-25 11:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "78a00ad3-9e1d-40d0-9d81-c3cdfb9a8b30",
+    "episode_title": "696. Build, Baby, Build!",
+    "release_date": "2026-11-20 11:00:00",
+    "mp3_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4",
+    "podcast_name": "Freakonomics Radio"
+  },
+  {
+    "guid": "37237 at https://www.thisamericanlife.org",
+    "episode_title": "436: The Psychopath Test",
+    "release_date": "2026-11-22 20:00:00",
+    "mp3_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
+    "podcast_name": "This American Life"
   },
   {
     "guid": "dbe40ba0-c0d6-406e-826f-1a1de809bf02",
@@ -124,6 +117,41 @@
     "release_date": "2026-11-20 08:00:00",
     "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO",
     "podcast_name": "99% Invisible"
+  },
+  {
+    "guid": "49bd414a-d220-11f1-b770-276687a55362",
+    "episode_title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
+    "release_date": "2026-11-26 05:00:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "4997c0a0-d220-11f1-b770-7b58e70eb882",
+    "episode_title": "Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles",
+    "release_date": "2026-11-23 08:10:00",
+    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3",
+    "podcast_name": "How I Built This"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/vSv5ZftFagD3o6jviBvlAipafMzth0lBe1skgFHDA9I",
+    "episode_title": "#891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut",
+    "release_date": "2026-11-25 23:30:00",
+    "mp3_url": "https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "gid://art19-episode-locator/V0/QW0ysW9go_kK1rcRasfYhISoxrRPHa19aUjAywmV0sk",
+    "episode_title": "#890: Timeless Principles for Fast-Changing Times \u2014 Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading",
+    "release_date": "2026-11-20 17:00:00",
+    "mp3_url": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
+    "podcast_name": "The Tim Ferriss Show"
+  },
+  {
+    "guid": "dcefe2c3-8806-40a1-a029-b50401665ac2",
+    "episode_title": "SYSK Live in Akron, Ohio",
+    "release_date": "2026-11-26 10:00:00",
+    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcefe2c3-8806-40a1-a029-b50401665ac2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "podcast_name": "Stuff You Should Know"
   },
   {
     "guid": "13a0057e-0d8c-4b6a-af0e-b4fd012ffa22",
@@ -147,60 +175,11 @@
     "podcast_name": "Stuff You Should Know"
   },
   {
-    "guid": "067cccee-e214-481b-a856-b500010be642",
-    "episode_title": "Sign Language Interpreters: Coolest Job?",
-    "release_date": "2026-11-19 10:00:00",
-    "mp3_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/067cccee-e214-481b-a856-b500010be642/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-    "podcast_name": "Stuff You Should Know"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/vSv5ZftFagD3o6jviBvlAipafMzth0lBe1skgFHDA9I",
-    "episode_title": "#891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut",
-    "release_date": "2026-11-25 23:30:00",
-    "mp3_url": "https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "gid://art19-episode-locator/V0/QW0ysW9go_kK1rcRasfYhISoxrRPHa19aUjAywmV0sk",
-    "episode_title": "#890: Timeless Principles for Fast-Changing Times \u2014 Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading",
-    "release_date": "2026-11-20 17:00:00",
-    "mp3_url": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca",
-    "podcast_name": "The Tim Ferriss Show"
-  },
-  {
-    "guid": "6587cf8e-7e2b-4f0a-b859-b507002ed8b0",
-    "episode_title": "Pete Hegseth\u2019s Spiritual Adviser Wants a Christian America | From Reveal",
-    "release_date": "2026-11-19 08:00:00",
-    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "guid": "54f6cfa0-91ad-4224-949d-b4f8014535f9",
+    "episode_title": "A Day in the Life of a Puritan | A Thanksgiving Special from American History Hit",
+    "release_date": "2026-11-26 08:00:00",
+    "mp3_url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/54f6cfa0-91ad-4224-949d-b4f8014535f9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
     "podcast_name": "Revisionist History"
-  },
-  {
-    "guid": "49bd414a-d220-11f1-b770-276687a55362",
-    "episode_title": "Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)",
-    "release_date": "2026-11-26 05:00:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "4997c0a0-d220-11f1-b770-7b58e70eb882",
-    "episode_title": "Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles",
-    "release_date": "2026-11-23 08:10:00",
-    "mp3_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3",
-    "podcast_name": "How I Built This"
-  },
-  {
-    "guid": "e2f105ef-0055-4055-b4bb-92a04ad975f5",
-    "episode_title": "\"Mike Schur\"",
-    "release_date": "2026-11-23 08:01:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
-  },
-  {
-    "guid": "e9234a2b-db43-41e7-a7be-3934f6a0bf0b",
-    "episode_title": "\"Jason Sudeikis \u2013 LIVE at The Hollywood Bowl\"",
-    "release_date": "2026-11-19 08:00:00",
-    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO",
-    "podcast_name": "SmartLess "
   },
   {
     "guid": "06f98a6e-daa8-41d2-b2d2-e6c739677655",
@@ -215,6 +194,13 @@
     "release_date": "2026-11-23 05:05:00",
     "mp3_url": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH",
     "podcast_name": "Conan O'Brien Needs A Friend"
+  },
+  {
+    "guid": "e2f105ef-0055-4055-b4bb-92a04ad975f5",
+    "episode_title": "\"Mike Schur\"",
+    "release_date": "2026-11-23 08:01:00",
+    "mp3_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO",
+    "podcast_name": "SmartLess "
   },
   {
     "guid": "7791787e-89d4-11f0-b13f-33a62ba7eb45",

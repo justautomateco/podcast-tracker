@@ -1,46 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-26 06:05:25
-
-## Freakonomics Radio
-
-### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
-
-**Released:** 2026-11-25 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4)
-
----
-
-### 696. Build, Baby, Build!
-
-**Released:** 2026-11-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
-
----
-
-## Serial
-
-### METRO - Death & Taxes. Rats & Real Estate.
-
-**Released:** 2026-11-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
-
----
-
-## This American Life
-
-### 436: The Psychopath Test
-
-**Released:** 2026-11-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
-
----
+Last updated: 2026-11-26 20:44:08
 
 ## TED Talks Daily
+
+### Why you should share a recipe with a stranger | Anuj Gupta
+
+**Released:** 2026-11-26 09:00:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05afcc7eeadadee4f9e424/media.mp3)
+
+---
 
 ### Can AI show us how language works? | Jennifer Hu
 
@@ -74,14 +44,6 @@ Last updated: 2026-11-26 06:05:25
 
 ---
 
-### Why intuition is the heart of music | Fabiola Reyna
-
-**Released:** 2026-11-21 11:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3)
-
----
-
 ## Planet Money
 
 ### How to steal a truckload of bourbon and not get caught
@@ -101,6 +63,14 @@ Last updated: 2026-11-26 06:05:25
 ---
 
 ## The Joe Rogan Experience
+
+### #2587 - Anthony Kim
+
+**Released:** 2026-11-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9030692803.mp3)
+
+---
 
 ### #2586 - Jocko Willink
 
@@ -126,14 +96,6 @@ Last updated: 2026-11-26 06:05:25
 
 ---
 
-### #2583 - Bob Gymlan
-
-**Released:** 2026-11-19 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT1211480054.mp3)
-
----
-
 ## Hidden Brain
 
 ### Music and Your Mind
@@ -141,6 +103,34 @@ Last updated: 2026-11-26 06:05:25
 **Released:** 2026-11-23 15:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
+
+---
+
+## Freakonomics Radio
+
+### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
+
+**Released:** 2026-11-25 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4)
+
+---
+
+### 696. Build, Baby, Build!
+
+**Released:** 2026-11-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
+
+---
+
+## This American Life
+
+### 436: The Psychopath Test
+
+**Released:** 2026-11-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
 
 ---
 
@@ -162,7 +152,51 @@ Last updated: 2026-11-26 06:05:25
 
 ---
 
+## How I Built This
+
+### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
+
+**Released:** 2026-11-26 05:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3)
+
+---
+
+### Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
+
+**Released:** 2026-11-23 08:10:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3)
+
+---
+
+## The Tim Ferriss Show
+
+### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
+
+**Released:** 2026-11-25 23:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
+
+**Released:** 2026-11-20 17:00:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Stuff You Should Know
+
+### SYSK Live in Akron, Ohio
+
+**Released:** 2026-11-26 10:00:00
+
+**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcefe2c3-8806-40a1-a029-b50401665ac2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
+
+---
 
 ### Short Stuff: Great Lego Spill of '97
 
@@ -188,75 +222,13 @@ Last updated: 2026-11-26 06:05:25
 
 ---
 
-### Sign Language Interpreters: Coolest Job?
-
-**Released:** 2026-11-19 10:00:00
-
-**Listen:** [Direct MP3 Link](https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/067cccee-e214-481b-a856-b500010be642/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e)
-
----
-
-## The Tim Ferriss Show
-
-### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
-
-**Released:** 2026-11-25 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
-
-**Released:** 2026-11-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Revisionist History
 
-### Pete Hegseth’s Spiritual Adviser Wants a Christian America | From Reveal
+### A Day in the Life of a Puritan | A Thanksgiving Special from American History Hit
 
-**Released:** 2026-11-19 08:00:00
+**Released:** 2026-11-26 08:00:00
 
-**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/6587cf8e-7e2b-4f0a-b859-b507002ed8b0/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
-
----
-
-## How I Built This
-
-### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
-
-**Released:** 2026-11-26 05:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3)
-
----
-
-### Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
-
-**Released:** 2026-11-23 08:10:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3)
-
----
-
-## SmartLess 
-
-### "Mike Schur"
-
-**Released:** 2026-11-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
-
----
-
-### "Jason Sudeikis – LIVE at The Hollywood Bowl"
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
+**Listen:** [Direct MP3 Link](https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/54f6cfa0-91ad-4224-949d-b4f8014535f9/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0)
 
 ---
 
@@ -275,6 +247,16 @@ Last updated: 2026-11-26 06:05:25
 **Released:** 2026-11-23 05:05:00
 
 **Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH)
+
+---
+
+## SmartLess 
+
+### "Mike Schur"
+
+**Released:** 2026-11-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
 
 ---
 
