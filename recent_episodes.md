@@ -1,16 +1,6 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-25 20:52:24
-
-## Serial
-
-### METRO - Death & Taxes. Rats & Real Estate.
-
-**Released:** 2026-11-19 09:00:00
-
-**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
-
----
+Last updated: 2026-11-26 06:05:25
 
 ## Freakonomics Radio
 
@@ -27,6 +17,26 @@ Last updated: 2026-11-25 20:52:24
 **Released:** 2026-11-20 11:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
+
+---
+
+## Serial
+
+### METRO - Death & Taxes. Rats & Real Estate.
+
+**Released:** 2026-11-19 09:00:00
+
+**Listen:** [Direct MP3 Link](https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/05f44af7-94aa-4fb0-baf1-fe2034c039cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&awEpisodeId=05f44af7-94aa-4fb0-baf1-fe2034c039cd&feed=PpzWFGhg)
+
+---
+
+## This American Life
+
+### 436: The Psychopath Test
+
+**Released:** 2026-11-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
 
 ---
 
@@ -69,16 +79,6 @@ Last updated: 2026-11-25 20:52:24
 **Released:** 2026-11-21 11:00:00
 
 **Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b00794904470b737a38a15a/media.mp3)
-
----
-
-## This American Life
-
-### 436: The Psychopath Test
-
-**Released:** 2026-11-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
 
 ---
 
@@ -144,6 +144,24 @@ Last updated: 2026-11-25 20:52:24
 
 ---
 
+## 99% Invisible
+
+### The Giant Thanksgiving Balloons
+
+**Released:** 2026-11-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #25: Beaded Moccasin
+
+**Released:** 2026-11-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+
+---
+
 ## Stuff You Should Know
 
 ### Short Stuff: Great Lego Spill of '97
@@ -178,21 +196,21 @@ Last updated: 2026-11-25 20:52:24
 
 ---
 
-## 99% Invisible
+## The Tim Ferriss Show
 
-### The Giant Thanksgiving Balloons
+### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
 
-**Released:** 2026-11-24 09:00:00
+**Released:** 2026-11-25 23:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### 100 Objects #25: Beaded Moccasin
+### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
 
-**Released:** 2026-11-20 08:00:00
+**Released:** 2026-11-20 17:00:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -208,6 +226,14 @@ Last updated: 2026-11-25 20:52:24
 
 ## How I Built This
 
+### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
+
+**Released:** 2026-11-26 05:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3)
+
+---
+
 ### Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
 
 **Released:** 2026-11-23 08:10:00
@@ -216,21 +242,57 @@ Last updated: 2026-11-25 20:52:24
 
 ---
 
-### Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)
+## SmartLess 
 
-**Released:** 2026-11-19 05:00:00
+### "Mike Schur"
 
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8419655880.mp3)
+**Released:** 2026-11-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
 
 ---
 
-## The Tim Ferriss Show
+### "Jason Sudeikis – LIVE at The Hollywood Bowl"
 
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
+**Released:** 2026-11-19 08:00:00
 
-**Released:** 2026-11-20 17:00:00
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+---
+
+## Conan O'Brien Needs A Friend
+
+### Conan and the Quazys
+
+**Released:** 2026-11-26 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/5a02edbf-85b1-4135-98d1-8318d500305a/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=5a02edbf-85b1-4135-98d1-8318d500305a&feed=dHoohVNH)
+
+---
+
+### Eric Idle (2026)
+
+**Released:** 2026-11-23 05:05:00
+
+**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH)
+
+---
+
+## The Moth
+
+### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
+
+**Released:** 2026-11-24 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+
+---
+
+### Togetherness: The Moth Podcast
+
+**Released:** 2026-11-20 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
 
 ---
 
@@ -265,60 +327,6 @@ Last updated: 2026-11-25 20:52:24
 **Released:** 2026-11-20 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-## The Moth
-
-### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
-
-**Released:** 2026-11-24 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
-
----
-
-### Togetherness: The Moth Podcast
-
-**Released:** 2026-11-20 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
-
----
-
-## SmartLess 
-
-### "Mike Schur"
-
-**Released:** 2026-11-23 08:01:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
-
----
-
-### "Jason Sudeikis – LIVE at The Hollywood Bowl"
-
-**Released:** 2026-11-19 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/255adb22-a09e-4b28-897d-5d3c8a3528d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=255adb22-a09e-4b28-897d-5d3c8a3528d9&feed=hNaFxXpO)
-
----
-
-## Conan O'Brien Needs A Friend
-
-### Eric Idle (2026)
-
-**Released:** 2026-11-23 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH)
-
----
-
-### Staff Review With Sarah Federowicz
-
-**Released:** 2026-11-19 05:05:00
-
-**Listen:** [Direct MP3 Link](https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cc6fe9b3-45fb-484e-b758-fef69e4ed94d/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cc6fe9b3-45fb-484e-b758-fef69e4ed94d&feed=dHoohVNH)
 
 ---
 
