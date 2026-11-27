@@ -1,6 +1,24 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-26 20:44:08
+Last updated: 2026-11-27 05:57:11
+
+## Freakonomics Radio
+
+### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
+
+**Released:** 2026-11-25 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4)
+
+---
+
+### 696. Build, Baby, Build!
+
+**Released:** 2026-11-20 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
+
+---
 
 ## TED Talks Daily
 
@@ -44,6 +62,16 @@ Last updated: 2026-11-26 20:44:08
 
 ---
 
+## This American Life
+
+### 436: The Psychopath Test
+
+**Released:** 2026-11-22 20:00:00
+
+**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
+
+---
+
 ## Planet Money
 
 ### How to steal a truckload of bourbon and not get caught
@@ -59,6 +87,34 @@ Last updated: 2026-11-26 20:44:08
 **Released:** 2026-11-20 22:00:00
 
 **Listen:** [Direct MP3 Link](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
+
+---
+
+## Hidden Brain
+
+### Music and Your Mind
+
+**Released:** 2026-11-23 15:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
+
+---
+
+## 99% Invisible
+
+### The Giant Thanksgiving Balloons
+
+**Released:** 2026-11-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
+
+---
+
+### 100 Objects #25: Beaded Moccasin
+
+**Released:** 2026-11-20 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
 
 ---
 
@@ -96,98 +152,6 @@ Last updated: 2026-11-26 20:44:08
 
 ---
 
-## Hidden Brain
-
-### Music and Your Mind
-
-**Released:** 2026-11-23 15:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
-
----
-
-## Freakonomics Radio
-
-### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
-
-**Released:** 2026-11-25 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/87c84c55-8d95-471f-9ef9-ae2733da1461/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=87c84c55-8d95-471f-9ef9-ae2733da1461&feed=Y8lFbOT4)
-
----
-
-### 696. Build, Baby, Build!
-
-**Released:** 2026-11-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
-
----
-
-## This American Life
-
-### 436: The Psychopath Test
-
-**Released:** 2026-11-22 20:00:00
-
-**Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
-
----
-
-## 99% Invisible
-
-### The Giant Thanksgiving Balloons
-
-**Released:** 2026-11-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
-
----
-
-### 100 Objects #25: Beaded Moccasin
-
-**Released:** 2026-11-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
-
----
-
-## How I Built This
-
-### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
-
-**Released:** 2026-11-26 05:00:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3)
-
----
-
-### Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
-
-**Released:** 2026-11-23 08:10:00
-
-**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3)
-
----
-
-## The Tim Ferriss Show
-
-### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
-
-**Released:** 2026-11-25 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
-
-**Released:** 2026-11-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Stuff You Should Know
 
 ### SYSK Live in Akron, Ohio
@@ -222,6 +186,24 @@ Last updated: 2026-11-26 20:44:08
 
 ---
 
+## How I Built This
+
+### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
+
+**Released:** 2026-11-26 05:00:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5702291377.mp3)
+
+---
+
+### Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles
+
+**Released:** 2026-11-23 08:10:00
+
+**Listen:** [Direct MP3 Link](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3)
+
+---
+
 ## Revisionist History
 
 ### A Day in the Life of a Puritan | A Thanksgiving Special from American History Hit
@@ -250,31 +232,21 @@ Last updated: 2026-11-26 20:44:08
 
 ---
 
-## SmartLess 
+## The Tim Ferriss Show
 
-### "Mike Schur"
+### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
 
-**Released:** 2026-11-23 08:01:00
+**Released:** 2026-11-25 23:30:00
 
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
-
----
-
-## The Moth
-
-### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
-
-**Released:** 2026-11-24 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
-### Togetherness: The Moth Podcast
+### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
 
-**Released:** 2026-11-20 08:50:00
+**Released:** 2026-11-20 17:00:00
 
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
 
 ---
 
@@ -309,6 +281,34 @@ Last updated: 2026-11-26 20:44:08
 **Released:** 2026-11-20 08:30:00
 
 **Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
+## The Moth
+
+### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
+
+**Released:** 2026-11-24 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
+
+---
+
+### Togetherness: The Moth Podcast
+
+**Released:** 2026-11-20 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
+
+---
+
+## SmartLess 
+
+### "Mike Schur"
+
+**Released:** 2026-11-23 08:01:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=cc7c1f79-60f5-40ca-a2d1-7cf449ab8c2e&feed=hNaFxXpO)
 
 ---
 
