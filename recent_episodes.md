@@ -1,8 +1,16 @@
 # Recent Podcast Episodes
 
-Last updated: 2026-11-27 05:57:11
+Last updated: 2026-11-27 20:29:35
 
 ## Freakonomics Radio
+
+### 697. Whose Game Are You Playing?
+
+**Released:** 2026-11-27 11:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/9eaecef9-93dd-42c7-b931-4f06bb173eaf/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=9eaecef9-93dd-42c7-b931-4f06bb173eaf&feed=Y8lFbOT4)
+
+---
 
 ### Why Is It So Hard (and Expensive) to Build Anything in America? (Update)
 
@@ -12,53 +20,45 @@ Last updated: 2026-11-27 05:57:11
 
 ---
 
-### 696. Build, Baby, Build!
-
-**Released:** 2026-11-20 11:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/8b18859d-e20f-4b9f-b5a7-819aa0487083/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=8b18859d-e20f-4b9f-b5a7-819aa0487083&feed=Y8lFbOT4)
-
----
-
 ## TED Talks Daily
 
-### Why you should share a recipe with a stranger | Anuj Gupta
+### Want to be happy? Be grateful | David Steindl-Rast
 
-**Released:** 2026-11-26 09:00:00
+**Released:** 2026-11-27 09:08:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05afcc7eeadadee4f9e424/media.mp3)
-
----
-
-### Can AI show us how language works? | Jennifer Hu
-
-**Released:** 2026-11-25 09:00:00
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b04888bf5587e011de1fed1/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d68657045eccfdcd6ecc/media.mp3)
 
 ---
 
-### The skilled workers that the economy is overlooking | Tonya Hicks
+### Why thinking about death helps you live a better life | Alua Arthur (re-release)
 
-**Released:** 2026-11-24 15:57:24
+**Released:** 2026-11-27 09:06:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b0461613ec60db8fc5cfeba/media.mp3)
-
----
-
-### Why government is slow — and how to fix it | Li Hongyi
-
-**Released:** 2026-11-23 15:47:30
-
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b045e0af068e148d201778b/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d6f557045eccfdcd6ecd/media.mp3)
 
 ---
 
-### Sunday Pick: Romance is dead, long live romance | from Corner Piece
+### How gratitude rewires your brain | Christina Costa (re-release)
 
-**Released:** 2026-11-22 07:00:00
+**Released:** 2026-11-27 09:04:00
 
-**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b007e1204470b737a38a15b/media.mp3)
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d60657045eccfdcd6ecb/media.mp3)
+
+---
+
+### How acts of kindness sparked a global movement | Asha Curran (re-release)
+
+**Released:** 2026-11-27 09:03:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b05d776ee05a70a1cd339f8/media.mp3)
+
+---
+
+### The profound power of gratitude and "living eulogies" | Andrea Driessen (re-release)
+
+**Released:** 2026-11-27 09:02:00
+
+**Listen:** [Direct MP3 Link](https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6b06093572d1cc0de1586165/media.mp3)
 
 ---
 
@@ -69,6 +69,40 @@ Last updated: 2026-11-27 05:57:11
 **Released:** 2026-11-22 20:00:00
 
 **Listen:** [Direct MP3 Link](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache)
+
+---
+
+## The Joe Rogan Experience
+
+### #2588 - Deric Poston & Ehsan Ahmad
+
+**Released:** 2026-11-27 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT5769762647.mp3)
+
+---
+
+### #2587 - Anthony Kim
+
+**Released:** 2026-11-26 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9030692803.mp3)
+
+---
+
+### #2586 - Jocko Willink
+
+**Released:** 2026-11-25 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3001876879.mp3)
+
+---
+
+### #2585 - Sam Tripoli & Eddie Bravo
+
+**Released:** 2026-11-24 18:00:00
+
+**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3903659981.mp3)
 
 ---
 
@@ -97,58 +131,6 @@ Last updated: 2026-11-27 05:57:11
 **Released:** 2026-11-23 15:00:00
 
 **Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/6ea5177f-15f6-4533-97c4-0ad4388c15bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=6ea5177f-15f6-4533-97c4-0ad4388c15bf&feed=kwWc0lhf)
-
----
-
-## 99% Invisible
-
-### The Giant Thanksgiving Balloons
-
-**Released:** 2026-11-24 09:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
-
----
-
-### 100 Objects #25: Beaded Moccasin
-
-**Released:** 2026-11-20 08:00:00
-
-**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/839885a0-6bbd-4b58-858f-4470a0e48d57/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=839885a0-6bbd-4b58-858f-4470a0e48d57&feed=BqbsxVfO)
-
----
-
-## The Joe Rogan Experience
-
-### #2587 - Anthony Kim
-
-**Released:** 2026-11-26 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT9030692803.mp3)
-
----
-
-### #2586 - Jocko Willink
-
-**Released:** 2026-11-25 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3001876879.mp3)
-
----
-
-### #2585 - Sam Tripoli & Eddie Bravo
-
-**Released:** 2026-11-24 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT3903659981.mp3)
-
----
-
-### #2584 - Mike Baker
-
-**Released:** 2026-11-20 18:00:00
-
-**Listen:** [Direct MP3 Link](https://traffic.megaphone.fm/GLT2887940704.mp3)
 
 ---
 
@@ -186,6 +168,24 @@ Last updated: 2026-11-27 05:57:11
 
 ---
 
+## 99% Invisible
+
+### 100 Objects #26: Purity Ring
+
+**Released:** 2026-11-27 08:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ef723187-6eef-4e2c-ab72-351b92a6eb6c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=ef723187-6eef-4e2c-ab72-351b92a6eb6c&feed=BqbsxVfO)
+
+---
+
+### The Giant Thanksgiving Balloons
+
+**Released:** 2026-11-24 09:00:00
+
+**Listen:** [Direct MP3 Link](https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/40052b37-70d9-4c4f-be37-e33d4a7925ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=40052b37-70d9-4c4f-be37-e33d4a7925ef&feed=BqbsxVfO)
+
+---
+
 ## How I Built This
 
 ### Wikipedia: Jimmy Wales. The Man Who Trusted Strangers to Build an Encyclopedia (2018)
@@ -214,6 +214,16 @@ Last updated: 2026-11-27 05:57:11
 
 ---
 
+## The Tim Ferriss Show
+
+### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
+
+**Released:** 2026-11-25 23:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
+
 ## Conan O'Brien Needs A Friend
 
 ### Conan and the Quazys
@@ -232,25 +242,15 @@ Last updated: 2026-11-27 05:57:11
 
 ---
 
-## The Tim Ferriss Show
-
-### #891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut
-
-**Released:** 2026-11-25 23:30:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
-### #890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading
-
-**Released:** 2026-11-20 17:00:00
-
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
-
----
-
 ## Armchair Expert
+
+### Armchair Anonymous: Medical Mix Up
+
+**Released:** 2026-11-27 08:30:00
+
+**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/75ee5893-beb6-45f9-a5e5-f200f477457f.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+
+---
 
 ### Chuck Lorre
 
@@ -276,29 +276,21 @@ Last updated: 2026-11-27 05:57:11
 
 ---
 
-### Armchair Anonymous: Witness
+## The Moth
 
-**Released:** 2026-11-20 08:30:00
+### Right Place, Right Time: The Moth Podcast
 
-**Listen:** [Direct MP3 Link](https://rss.art19.com/episodes/f4f1132d-554d-40ae-8be7-f8e1ae4c15a9.mp3?rss_browser=BAhJIhRweXRob24tcmVxdWVzdHMGOgZFVA%3D%3D--ac965bdf6559f894a935511702ea4ac963845aca)
+**Released:** 2026-11-27 08:50:00
+
+**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208737/8208737_2026-04-13-031737.192.mp3?rssID=6066)
 
 ---
-
-## The Moth
 
 ### Bold Moves: Stories of stepping up, taking charge, and taking chances: The Moth Radio Hour
 
 **Released:** 2026-11-24 08:50:00
 
 **Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208738/8208738_2026-04-13-031838.192.mp3?rssID=6066)
-
----
-
-### Togetherness: The Moth Podcast
-
-**Released:** 2026-11-20 08:50:00
-
-**Listen:** [Direct MP3 Link](https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208736/8208736_2026-04-13-031636.192.mp3?rssID=6066)
 
 ---
 
